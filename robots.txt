@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lokwod.github.io/Blappos.com/sitemap.xml

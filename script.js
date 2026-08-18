@@ -1,32 +1,14 @@
-const products=[...document.querySelectorAll('.product')];
-const filterButtons=[...document.querySelectorAll('[data-filter]')];
-function applyFilter(filter){
-  filterButtons.forEach(b=>b.classList.toggle('active',b.dataset.filter===filter));
-  products.forEach(card=>card.classList.toggle('hidden',filter!=='all'&&card.dataset.category!==filter));
+const menu=document.querySelector('.menu-btn'); const nav=document.querySelector('.mast-main nav');
+menu?.addEventListener('click',()=>nav.classList.toggle('open'));
+const surprise=()=>{const links=[...document.querySelectorAll('[data-random-product]')]; if(!links.length)return; const pick=links[Math.floor(Math.random()*links.length)]; location.href=pick.getAttribute('href');};
+document.querySelectorAll('[data-surprise]').forEach(x=>x.addEventListener('click',surprise));
+
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+const mount=document.getElementById('appraisalMount');
+if(mount && window.BLAPPOS_PRODUCTS){
+ const id=new URLSearchParams(location.search).get('id'); const p=BLAPPOS_PRODUCTS.find(x=>x.slug===id)||BLAPPOS_PRODUCTS[0];
+ document.title=`${p.title} — Blappos Appraisal #${p.no}`;
+ const score=(label,val)=>`<div class="score-row"><span>${label}</span><div class="bar"><i style="width:${Math.min(val,10)*10}%"></i></div><b>${val}/10</b></div>`;
+ const related=BLAPPOS_PRODUCTS.filter(x=>x.slug!==p.slug).slice(0,3).map(r=>`<a href="appraisal.html?id=${r.slug}"><small>${r.category}</small><b>${r.title} →</b></a>`).join('');
+ mount.innerHTML=`<section class="article-top"><div class="article-art"><span class="article-no">#${p.no}</span><div class="object-art">${p.svg}</div><span class="kicker">${p.hero} · ${p.unit}</span></div><div class="article-head"><div><div class="breadcrumbs"><a href="index.html">BLAPPOS</a> / ${p.category}</div><h1>${p.title}</h1><p class="deck">${p.lead}</p></div><div class="ruling"><small>BLAPPOS RULING</small><strong>${p.verdict}</strong></div></div></section><main class="article-body"><aside class="scorecard"><div class="kicker">SCORECARD</div>${score('UTILITY',p.utility)}${score('ABSURD',p.absurdity)}${score('WANT',p.desire)}</aside><article class="article-copy"><section><h2>What it is</h2><p>${p.what}</p></section><section><h2>Why this is ridiculous</h2><p>${p.ridiculous}</p></section><section><h2>Why you still want it</h2><p>${p.want}</p></section><section><h2>Who should buy it</h2><p>${p.buy}</p></section><section><h2>Who should walk away</h2><p>${p.skip}</p></section><section><h2>The part where we act responsible</h2><p class="warning">${p.note}</p></section><div class="manufacturer-box"><div><strong>SEE THE REAL PRODUCT</strong><p>Go straight to ${p.manufacturer} for current specs, availability and pricing.</p></div><a class="cta" href="${p.url}" target="_blank" rel="noopener nofollow">VISIT ${p.manufacturer.toUpperCase()} ↗</a></div></article></main><section class="related"><h2>Continue making questionable decisions</h2><div class="related-grid">${related}</div></section>`;
 }
-filterButtons.forEach(btn=>btn.addEventListener('click',()=>applyFilter(btn.dataset.filter)));
-
-document.querySelectorAll('[data-jump]').forEach(btn=>btn.addEventListener('click',()=>{
-  const filter=btn.dataset.jump;
-  applyFilter(filter);
-  document.querySelector('#finds').scrollIntoView({behavior:'smooth'});
-}));
-
-function randomProduct(){
-  applyFilter('all');
-  const card=products[Math.floor(Math.random()*products.length)];
-  card.scrollIntoView({behavior:'smooth',block:'center'});
-  card.animate([{transform:'translateY(-3px)',boxShadow:'5px 5px 0 #111'},{transform:'translateY(-3px)',boxShadow:'14px 14px 0 #efff31'},{transform:'translateY(-3px)',boxShadow:'5px 5px 0 #111'}],{duration:900});
-}
-document.getElementById('randomPick')?.addEventListener('click',randomProduct);
-document.getElementById('heroRandom')?.addEventListener('click',randomProduct);
-
-const verdict=document.getElementById('verdict');
-document.querySelectorAll('[data-score]').forEach(btn=>btn.addEventListener('click',()=>{
-  const s=Number(btn.dataset.score);
-  verdict.textContent=s>=11?'BLAPPOS VERDICT: You already measured the shelf. This purchase was decided before you arrived.':s>=7?'BLAPPOS VERDICT: You are in the dangerous research phase. Add to cart, then stare at it for 20 minutes.':'BLAPPOS VERDICT: Close the tab. You are not emotionally committed enough for this level of nonsense.';
-}));
-
-const menu=document.querySelector('.menu');
-menu?.addEventListener('click',()=>document.querySelector('.topbar')?.classList.toggle('menu-open'));
-document.querySelectorAll('.topbar nav a').forEach(a=>a.addEventListener('click',()=>document.querySelector('.topbar')?.classList.remove('menu-open')));
