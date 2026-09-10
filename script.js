@@ -2,7 +2,10 @@ const dailyStories=window.dailyStories||[];
 const baseArchive=window.archiveStories||[];
 const latestIso=[...new Set(dailyStories.map(story=>story.isoDate).filter(Boolean))].sort().at(-1);
 const stories=latestIso?dailyStories.filter(story=>story.isoDate===latestIso):baseArchive.slice(-8).reverse();
-const archiveStories=[...baseArchive,...dailyStories].filter((story,index,list)=>list.findIndex(item=>item.id===story.id)===index);
+const monthOrder=['January','February','March','April','May','June','July','August','September','October','November','December'];
+const archiveStories=[...baseArchive,...dailyStories]
+ .filter((story,index,list)=>list.findIndex(item=>item.id===story.id)===index)
+ .sort((a,b)=>monthOrder.indexOf(a.month)-monthOrder.indexOf(b.month)||Number.parseInt(a.date.match(/\d+/)?.[0]||0,10)-Number.parseInt(b.date.match(/\d+/)?.[0]||0,10));
 const allStories=archiveStories;
 const grid=document.querySelector('#card-grid');
 const dialog=document.querySelector('#story-dialog');
@@ -11,7 +14,7 @@ const AMAZON_TAG='blappos-20';
 function amazonUrl(terms){return `https://www.amazon.com/s?k=${encodeURIComponent(terms||'news history books')}&tag=${AMAZON_TAG}`}
 const archiveImageAliases={'jan-caracas':'caracas','jan-minnesota':'minneapolis','feb-shutdown':'washington','may-longview':'longview','sep-typhoon':'coastal-china','sep-nepal':'nepal'};
 function imageForStory(story){return story.image||`assets/cards/${archiveImageAliases[story.id]||story.id}.webp`}
-function card(story,index){const image=imageForStory(story);return `<button class="news-card" data-story="${story.id}"><img src="${image}" alt="Satirical illustrated Blappos card for ${story.place}" width="1000" height="1000" ${index>2?'loading="lazy"':''}><span class="card-meta"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><span class="read">FLIP FOR THE REAL STORY →</span></button>`}
+function card(story,index){const image=imageForStory(story);return `<button class="news-card" data-story="${story.id}"><img src="${image}" alt="Satirical Blappos illustration: ${story.title}" width="1000" height="1000" ${index>2?'loading="lazy"':''}><span class="card-meta"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><span class="read">FLIP FOR THE REAL STORY →</span></button>`}
 grid.innerHTML=stories.map(card).join('');
 function syncHero(){const story=stories[0];if(!story)return;const hero=document.querySelector('.hero-card');if(!hero)return;hero.dataset.story=story.id;hero.setAttribute('aria-label',`Read the real story behind ${story.title}`);const img=hero.querySelector('img');if(img){img.src=imageForStory(story);img.alt=`Featured Blappos illustration for ${story.title}`}}
 syncHero();
@@ -23,7 +26,7 @@ dialog.addEventListener('close',()=>history.replaceState(null,'',location.pathna
 const archiveGrid=document.querySelector('#archive-grid');
 const filters=document.querySelector('#month-filters');
 const months=[...new Set(archiveStories.map(story=>story.month).filter(Boolean))];
-function archiveCard(story){return `<button class="news-card" data-story="${story.id}"><img src="${imageForStory(story)}" alt="Satirical illustrated Blappos card for ${story.place}" width="1000" height="1000" loading="lazy"><span class="card-meta"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><span class="read">FLIP FOR THE REAL STORY →</span></button>`}
+function archiveCard(story){return `<button class="news-card" data-story="${story.id}"><img src="${imageForStory(story)}" alt="Satirical Blappos illustration: ${story.title}" width="1000" height="1000" loading="lazy"><span class="card-meta"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><span class="read">FLIP FOR THE REAL STORY →</span></button>`}
 function renderArchive(month='All'){archiveGrid.innerHTML=archiveStories.filter(story=>month==='All'||story.month===month).map(archiveCard).join('');document.querySelectorAll('#month-filters button').forEach(button=>button.classList.toggle('active',button.dataset.month===month))}
 filters.innerHTML=['All',...months].map(month=>`<button data-month="${month}">${month}</button>`).join('');
 filters.addEventListener('click',event=>{const button=event.target.closest('[data-month]');if(button)renderArchive(button.dataset.month)});
