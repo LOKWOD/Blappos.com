@@ -66,6 +66,18 @@ h1{font-size:clamp(5rem,10vw,10.5rem);line-height:.78;letter-spacing:-.025em;mar
 .card-meta{display:flex;justify-content:space-between;gap:12px;margin:19px 6px 7px;font-size:.62rem;text-transform:uppercase;letter-spacing:.11em;font-weight:800}
 .news-card h3{font:700 1.18rem/1.25 "Libre Caslon Text",serif;margin:0 6px}
 .news-card .read{display:block;color:var(--red);font-size:.67rem;font-weight:800;letter-spacing:.1em;margin:13px 6px}
+.finds{padding:100px max(4vw,calc((100vw - 1320px)/2));background:var(--gold);border-top:2px solid var(--ink)}
+.finds-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.find-card{display:flex;flex-direction:column;background:var(--paper);border:2px solid var(--ink);box-shadow:8px 9px 0 var(--ink)}
+.find-image{display:block;aspect-ratio:1;overflow:hidden;background:white;border-bottom:2px solid var(--ink)}
+.find-image img{width:100%;height:100%;object-fit:contain;display:block}
+.find-copy{display:flex;flex:1;flex-direction:column;padding:22px}
+.find-copy>span{font-size:.62rem;font-weight:800;letter-spacing:.12em;color:var(--red)}
+.find-copy button{border:0;background:none;padding:7px 0 0;text-align:left;font:700 .84rem/1.3 "Libre Caslon Text",serif;cursor:pointer;color:var(--blue)}
+.find-copy h3{font:400 1.75rem/1.05 Anton,sans-serif;text-transform:uppercase;margin:20px 0 10px}
+.find-copy p{font:italic .95rem/1.5 "Libre Caslon Text",serif;margin:0 0 18px}
+.find-copy .shop-link{margin-top:auto}
+.finds-disclosure{font-size:.72rem;margin:26px 0 0}
 .manifesto{background:var(--blue);color:var(--paper);padding:110px max(5vw,calc((100vw - 1180px)/2));border-block:2px solid var(--ink)}
 .manifesto h2{color:var(--gold);max-width:1000px}
 .light{color:var(--paper)}
@@ -95,6 +107,7 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .hero{grid-template-columns:1fr;padding:70px 6vw}
 .hero-card{margin-top:25px}
 .card-grid{grid-template-columns:repeat(2,1fr)}
+.finds-grid{grid-template-columns:repeat(2,1fr)}
 .rules,.dispatch{grid-template-columns:1fr}
 .story{grid-template-columns:1fr}
 .story img{position:static}
@@ -104,6 +117,8 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .hero{min-height:auto}
 .hero h1{font-size:24vw}
 .card-grid{grid-template-columns:1fr;gap:45px}
+.finds{padding:70px 4vw}
+.finds-grid{grid-template-columns:1fr;gap:28px}
 .section-title{align-items:start;flex-direction:column}
 .feed{padding:70px 0}
 .news-card img{box-shadow:6px 7px 0 rgba(23,22,18,.18)}
