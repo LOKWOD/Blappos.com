@@ -15,7 +15,7 @@
   <header class="masthead">
     <a class="logo" href="#top" aria-label="Blappos home">BLAPPOS!</a>
     <p>Bad news. Great magnet.</p>
-    <nav aria-label="Primary"><a href="#latest">Latest</a><a href="#about">What is this?</a></nav>
+    <nav aria-label="Primary"><a href="#latest">Latest</a><a href="#archive">Archive</a><a href="#about">What is this?</a></nav>
   </header>
   <main id="top">
     <section class="hero">
@@ -38,6 +38,14 @@
       </header>
       <div id="card-grid" class="card-grid" aria-live="polite"></div>
     </section>
+    <section id="archive" class="archive">
+      <header class="section-title archive-head">
+        <div><span>2026 / THE DAMAGE SO FAR</span><h2>Month by month</h2></div>
+        <p>Five defining, ridiculous or spectacularly Blappos-worthy stories from every month so far.</p>
+      </header>
+      <div id="month-filters" class="month-filters" aria-label="Filter archive by month"></div>
+      <div id="archive-grid" class="archive-grid" aria-live="polite"></div>
+    </section>
     <section id="about" class="manifesto">
       <span class="stamp light">OUR VERY SERIOUS STANDARDS</span>
       <h2>The joke is the cover.<br>The truth is the point.</h2>
@@ -52,11 +60,12 @@
       <p>Daily dispatch and real magnets are on deck. For now, bookmark the wreckage.</p>
     </section>
   </main>
-  <footer><a class="logo" href="#top">BLAPPOS!</a><p>Illustrated satire. Actual sources. Zero chill.</p><small>© 2026 Blappos. Satirical illustrations are commentary, not documentary images.</small></footer>
+  <footer><a class="logo" href="#top">BLAPPOS!</a><p>Illustrated satire. Actual sources. Zero chill.</p><small>© 2026 Blappos. Satirical illustrations are commentary, not documentary images. As an Amazon Associate, Blappos may earn from qualifying purchases.</small></footer>
   <dialog id="story-dialog" aria-labelledby="story-title">
     <button class="close" aria-label="Close story">×</button>
     <div id="story-content"></div>
   </dialog>
+  <script src="archive-data.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

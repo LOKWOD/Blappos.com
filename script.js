@@ -13,11 +13,23 @@ const stories=[
 const grid=document.querySelector('#card-grid');
 const dialog=document.querySelector('#story-dialog');
 const content=document.querySelector('#story-content');
+const archiveStories=window.archiveStories||[];
+const allStories=[...stories,...archiveStories];
+const AMAZON_TAG='blappos-20';
+function amazonUrl(terms){return `https://www.amazon.com/s?k=${encodeURIComponent(terms||'news history books')}&tag=${AMAZON_TAG}`}
 function card(story,index){return `<button class="news-card" data-story="${story.id}"><img src="${story.image}" alt="Satirical illustrated travel magnet for ${story.place}" width="1000" height="1000" ${index>2?'loading="lazy"':''}><span class="card-meta"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><span class="read">FLIP FOR THE REAL STORY →</span></button>`}
 grid.innerHTML=stories.map(card).join('');
-function openStory(id){const story=stories.find(item=>item.id===id);if(!story)return;content.innerHTML=`<article class="story"><img src="${story.image}" alt="Satirical illustrated travel magnet for ${story.place}" width="1000" height="1000"><div class="story-copy"><span class="label">THE STORY BEHIND THE SATIRE</span><h2 id="story-title">${story.title}</h2><p>${story.dek}</p><a class="source" href="${story.source}" target="_blank" rel="noopener">${story.sourceName} ↗</a><p class="disclosure">Blappos is commentary. The artwork is an illustration—not a news photograph—and the punchline is not a substitute for the linked reporting.</p></div></article>`;dialog.showModal();history.replaceState(null,'',`#${id}`)}
+function openStory(id){const story=allStories.find(item=>item.id===id);if(!story)return;const facts=story.facts||story.dek;const why=story.why||'The event became part of a larger argument about public responsibility, power and the cost carried by ordinary people.';const angle=story.angle||story.title;const visual=story.image?`<img src="${story.image}" alt="Satirical illustrated travel magnet for ${story.place}" width="1000" height="1000">`:'';content.innerHTML=`<article class="story ${story.image?'':'no-image'}">${visual}<div class="story-copy"><span class="label">THE STORY BEHIND THE SATIRE · ${story.place} · ${story.date}</span><h2 id="story-title">${story.title}</h2><h4>What happened</h4><p>${facts}</p><h4>Why it matters</h4><p>${why}</p><h4>The Blappos angle</h4><p>${angle}</p><a class="source" href="${story.source}" target="_blank" rel="noopener">${story.sourceName||'Read the reporting'} ↗</a><a class="shop-link" href="${amazonUrl(story.amazon||story.place+' history book')}" target="_blank" rel="sponsored noopener">RELATED BOOKS & GEAR ON AMAZON ↗</a><p class="shop-note">As an Amazon Associate, Blappos may earn from qualifying purchases.</p><p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting.</p></div></article>`;dialog.showModal();history.replaceState(null,'',`#${id}`)}
 document.addEventListener('click',event=>{const trigger=event.target.closest('[data-story]');if(trigger)openStory(trigger.dataset.story)});
 document.querySelector('.close').addEventListener('click',()=>dialog.close());
 dialog.addEventListener('click',event=>{if(event.target===dialog)dialog.close()});
 dialog.addEventListener('close',()=>history.replaceState(null,'',location.pathname));
-const initial=location.hash.slice(1);if(stories.some(story=>story.id===initial))openStory(initial);
+const archiveGrid=document.querySelector('#archive-grid');
+const filters=document.querySelector('#month-filters');
+const months=[...new Set(archiveStories.map(story=>story.month))];
+function archiveCard(story){return `<button class="wire-card" data-story="${story.id}"><span class="wire-top"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><p>${story.angle}</p><span class="read">READ THE FULL WRITE-UP →</span></button>`}
+function renderArchive(month='All'){archiveGrid.innerHTML=archiveStories.filter(story=>month==='All'||story.month===month).map(archiveCard).join('');document.querySelectorAll('#month-filters button').forEach(button=>button.classList.toggle('active',button.dataset.month===month))}
+filters.innerHTML=['All',...months].map(month=>`<button data-month="${month}">${month}</button>`).join('');
+filters.addEventListener('click',event=>{const button=event.target.closest('[data-month]');if(button)renderArchive(button.dataset.month)});
+renderArchive();
+const initial=location.hash.slice(1);if(allStories.some(story=>story.id===initial))openStory(initial);
