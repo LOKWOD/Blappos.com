@@ -9,13 +9,13 @@
   <meta property="og:description" content="One ridiculous headline. One collectible card. The real story underneath.">
   <meta property="og:type" content="website">
   <meta name="theme-color" content="#d94a2b">
-  <link rel="stylesheet" href="styles.css?v=20260910-launch">
+  <link rel="stylesheet" href="styles.css?v=20260910-conformity">
 </head>
 <body>
   <header class="masthead">
     <a class="logo" href="#top" aria-label="Blappos home">BLAPPOS!</a>
     <p>Bad news. Great magnet.</p>
-    <nav aria-label="Primary"><a href="#latest">Latest</a><a href="#archive">Archive</a><a href="#about">What is this?</a></nav>
+    <nav aria-label="Primary"><a href="#latest">Latest</a><a href="#ridiculous-finds">Ridiculous finds</a><a href="#archive">Archive</a><a href="#about">What is this?</a></nav>
   </header>
   <main id="top">
     <section class="hero">
@@ -26,7 +26,7 @@
         <a class="button" href="#latest">SEE TODAY’S DAMAGE <span>↓</span></a>
       </div>
       <button class="hero-card" data-story="sep9-airforce-slide" aria-label="Read the featured Blappos story">
-        <img src="assets/cards/sep9-airforce-slide.svg" alt="Featured Blappos illustration of the Air Force One emergency slide" width="1000" height="1000">
+        <img src="assets/cards/sep9-airforce-slide.png" alt="Featured Blappos illustration of the Air Force One emergency slide" width="1000" height="1000">
         <span>Today’s featured bad trip</span>
       </button>
     </section>
@@ -37,6 +37,14 @@
         <p>Satire on the front. Sourcing on the back. Tap any card for the story.</p>
       </header>
       <div id="card-grid" class="card-grid" aria-live="polite"></div>
+    </section>
+    <section id="ridiculous-finds" class="finds">
+      <header class="section-title">
+        <div><span>THREE ITEMS. ZERO DIGNITY.</span><h2>Ridiculously relevant</h2></div>
+        <p>Three real Amazon finds selected specifically for today’s stories—never a generic search result.</p>
+      </header>
+      <div id="finds-grid" class="finds-grid" aria-live="polite"></div>
+      <p class="finds-disclosure">As an Amazon Associate, Blappos may earn from qualifying purchases. Product availability and pricing can change.</p>
     </section>
     <section id="archive" class="archive">
       <header class="section-title archive-head">
@@ -65,8 +73,8 @@
     <button class="close" aria-label="Close story">×</button>
     <div id="story-content"></div>
   </dialog>
-  <script src="archive-data.js?v=20260910-launch"></script>
-  <script src="daily-data.js?v=20260910-launch"></script>
-  <script src="script.js?v=20260910-launch"></script>
+  <script src="archive-data.js?v=20260910-conformity"></script>
+  <script src="daily-data.js?v=20260910-conformity"></script>
+  <script src="script.js?v=20260910-conformity"></script>
 </body>
 </html>
