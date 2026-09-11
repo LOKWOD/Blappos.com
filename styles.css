@@ -106,6 +106,15 @@ footer small{display:block;color:#aaa;margin-top:35px}
 .story-amazon-link em{font:italic .76rem/1.35 "Libre Caslon Text",serif}
 .story-amazon-link b{margin-top:auto;color:var(--blue);font-size:.62rem;letter-spacing:.08em}
 .story-amazon-disclosure{margin:12px 0 0!important;font:400 .66rem/1.4 "DM Sans",sans-serif!important;color:#695f51}
+.story-magnet-image{position:sticky;top:0;align-self:start;display:block;background:var(--cream);color:#fff;text-decoration:none}
+.story-magnet-image img{position:static}
+.story-magnet-image span{position:absolute;left:14px;right:14px;bottom:14px;padding:13px;background:var(--red);border:2px solid var(--ink);box-shadow:4px 4px 0 var(--ink);font:800 .7rem "DM Sans",sans-serif;letter-spacing:.09em;text-align:center}
+.story-magnet{margin-top:28px;padding:22px;border:3px solid var(--ink);background:#f1c84b;box-shadow:7px 7px 0 var(--ink)}
+.story-magnet>span{font:800 .62rem "DM Sans",sans-serif;letter-spacing:.13em;color:var(--red)}
+.story-copy .story-magnet h4{margin:7px 0;font:400 1.55rem/1 Anton,sans-serif}
+.story-copy .story-magnet p{margin:8px 0 15px;font:400 .85rem/1.45 "Libre Caslon Text",serif}
+.story-magnet a{display:block;padding:14px;background:var(--ink);color:#fff;text-decoration:none;text-align:center;font:800 .72rem "DM Sans",sans-serif;letter-spacing:.08em}
+.story-magnet small{display:block;margin-top:8px;font:.62rem "DM Sans",sans-serif;color:#5d513d;text-align:center}
 
 dialog{width:min(930px,94vw);max-height:92vh;border:2px solid var(--ink);padding:0;background:var(--paper);color:var(--ink);box-shadow:16px 18px 0 rgba(0,0,0,.3)}
 dialog::backdrop{background:rgba(18,16,12,.78)}
@@ -126,7 +135,7 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .finds-grid{grid-template-columns:repeat(2,1fr)}
 .rules,.dispatch{grid-template-columns:1fr}
 .story{grid-template-columns:1fr}
-.story img{position:static}
+.story img,.story-magnet-image{position:static}
 .story-copy{padding:35px 25px}
 }
 @media(max-width:560px){.masthead{height:108px;padding-inline:3vw}
