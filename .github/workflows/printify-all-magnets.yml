@@ -7,6 +7,8 @@ on:
       - daily-data.js
       - archive-data.js
       - assets/cards/**
+      - scripts/printify_bulk.py
+      - scripts/printify_sync.py
       - .github/workflows/printify-all-magnets.yml
 
 permissions:
