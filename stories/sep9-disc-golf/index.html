@@ -11,6 +11,10 @@
   <meta property="og:description" content="David Rush, Travis Davidson, Oliver Davidson and Anders Davidson set the Guinness World Records mark for the fastest hole of disc golf by a team of four, completing the attempt in 41.33 seconds.">
   <meta property="og:url" content="https://blappos.com/stories/sep9-disc-golf/">
   <meta property="og:image" content="https://blappos.com/assets/cards/sep9-disc-golf.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Disc golfers make relaxation stressful in 41.33 seconds — Blappos">
+  <meta name="twitter:description" content="David Rush, Travis Davidson, Oliver Davidson and Anders Davidson set the Guinness World Records mark for the fastest hole of disc golf by a team of four, completing the attempt in 41.33 seconds.">
+  <meta name="twitter:image" content="https://blappos.com/assets/cards/sep9-disc-golf.webp">
   <meta property="article:published_time" content="2026-09-09">
   <meta name="theme-color" content="#d94a2b">
   <link rel="stylesheet" href="../../styles.css">
@@ -28,9 +32,35 @@
         <h2>The Blappos angle</h2><p>They successfully answered the question nobody asked: what if disc golf had the cardiovascular atmosphere of missing a flight?</p>
         <a class="source" href="https://www.guinnessworldrecords.com/openvideo/v/david-rush-sets-new-world-record-for-hot-dog-toss" target="_blank" rel="noopener">See the Guinness World Records listing ↗</a>
         <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting.</p>
+        <section class="story-share" aria-label="Share this story">
+          <span>SPREAD THE BAD NEWS</span><h2>Share this disaster</h2>
+          <p>Send the permanent story link—with this story’s illustration—to somebody who needs to see it.</p>
+          <div class="story-share-links">
+            <button class="share-primary" type="button" data-share-native>SHARE ↗</button>
+            <a href="sms:?&body=Disc%20golfers%20make%20relaxation%20stressful%20in%2041.33%20seconds%20%E2%80%94%20Blappos%0Ahttps%3A%2F%2Fblappos.com%2Fstories%2Fsep9-disc-golf%2F">TEXT</a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblappos.com%2Fstories%2Fsep9-disc-golf%2F" target="_blank" rel="noopener">FACEBOOK</a>
+            <a href="https://twitter.com/intent/tweet?text=Disc%20golfers%20make%20relaxation%20stressful%20in%2041.33%20seconds%20%E2%80%94%20Blappos&url=https%3A%2F%2Fblappos.com%2Fstories%2Fsep9-disc-golf%2F" target="_blank" rel="noopener">X</a>
+            <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fblappos.com%2Fstories%2Fsep9-disc-golf%2F&title=Disc%20golfers%20make%20relaxation%20stressful%20in%2041.33%20seconds%20%E2%80%94%20Blappos" target="_blank" rel="noopener">REDDIT</a>
+            <a href="mailto:?subject=Disc%20golfers%20make%20relaxation%20stressful%20in%2041.33%20seconds%20%E2%80%94%20Blappos&body=Disc%20golfers%20make%20relaxation%20stressful%20in%2041.33%20seconds%20%E2%80%94%20Blappos%0Ahttps%3A%2F%2Fblappos.com%2Fstories%2Fsep9-disc-golf%2F">EMAIL</a>
+            <button type="button" data-copy-link>COPY LINK</button>
+          </div><span class="share-status" aria-live="polite"></span>
+        </section>
         <p><a class="button" href="../../#sep9-disc-golf">View this story on Blappos</a></p>
       </div>
     </article>
   </main>
+  <script>
+    const shareUrl = document.querySelector('link[rel="canonical"]').href;
+    async function copyLink(button) {
+      try { await navigator.clipboard.writeText(shareUrl); }
+      catch { const field=document.createElement('textarea');field.value=shareUrl;field.style.position='fixed';field.style.opacity='0';document.body.append(field);field.select();document.execCommand('copy');field.remove(); }
+      button.closest('.story-share').querySelector('.share-status').textContent='LINK COPIED';
+    }
+    document.querySelector('[data-share-native]').addEventListener('click', async event => {
+      if (navigator.share) { try { await navigator.share({title:document.title,text:'The story behind this Blappos disaster.',url:shareUrl});return; } catch (error) { if (error.name==='AbortError') return; } }
+      await copyLink(event.currentTarget);
+    });
+    document.querySelector('[data-copy-link]').addEventListener('click', event => copyLink(event.currentTarget));
+  </script>
 </body>
 </html>
