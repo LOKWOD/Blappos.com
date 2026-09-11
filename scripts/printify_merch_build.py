@@ -323,7 +323,10 @@ def realign_existing_product(current, config):
     changed = False
     for area in print_areas:
         for placeholder in area.get("placeholders") or []:
-            for image in placeholder.get("images") or []:
+            # Printify omits ``images`` on unused garment zones in GET responses,
+            # but requires the field to be present when the same payload is PUT.
+            images = placeholder.setdefault("images", [])
+            for image in images:
                 if image.get("y") != target_y:
                     image["y"] = target_y
                     changed = True
