@@ -10,22 +10,18 @@ const allStories=archiveStories;
 const dailyFinds=window.dailyFinds||[];
 const affiliateTag='blappos-20';
 function taggedAmazonUrl(rawUrl){try{const url=new URL(rawUrl);if(url.hostname==='amazon.com'||url.hostname.endsWith('.amazon.com')){url.searchParams.set('tag',affiliateTag);return url.href}}catch{}return rawUrl}
-function amazonSearchUrl(query){return `https://www.amazon.com/s?k=${encodeURIComponent(query)}&tag=${affiliateTag}`}
 function amazonLinksForStory(story){
- const verified=dailyFinds.filter(find=>find.storyId===story.id).map(find=>({title:find.title,quip:find.quip,url:taggedAmazonUrl(find.url)}));
- const supplied=(story.amazonLinks||[]).map(item=>({title:item.title,quip:item.quip,url:taggedAmazonUrl(item.url)}));
- const seed=story.amazon||story.title;
- const fallbacks=[
-  {title:`Story match: ${seed}`,quip:`Amazon results selected around this story’s central absurdity.`,url:amazonSearchUrl(seed)},
-  {title:`${story.place} souvenir shelf`,quip:`A location-specific souvenir search for the scene of the damage.`,url:amazonSearchUrl(`${story.place} funny souvenir gift`)},
-  {title:'The unnecessarily ridiculous version',quip:'Because the ordinary version would show far too much restraint.',url:amazonSearchUrl(`${seed} funny novelty gift`)}
- ];
- const links=[...verified,...supplied,...fallbacks].filter((item,index,list)=>item.url&&list.findIndex(other=>other.url===item.url)===index).slice(0,3);
- return links;
+ const verified=dailyFinds.filter(find=>find.storyId===story.id).map(find=>({title:find.title,quip:find.quip,image:find.image,alt:find.alt,url:taggedAmazonUrl(find.url)}));
+ const supplied=(story.amazonLinks||[]).map(item=>({title:item.title,quip:item.quip,image:item.image,alt:item.alt,url:taggedAmazonUrl(item.url)}));
+ return [...verified,...supplied]
+  .filter((item,index,list)=>item.title&&item.image&&item.url&&/amazon\.com\/dp\//.test(item.url)&&list.findIndex(other=>other.url===item.url)===index)
+  .slice(0,3);
 }
 function amazonBlock(story){
  const links=amazonLinksForStory(story);
- return `<section class="story-amazon" aria-label="Relevant Amazon finds"><h4>Three ridiculously relevant Amazon finds</h4><div class="story-amazon-links">${links.map((item,index)=>`<a class="story-amazon-link" href="${item.url}" target="_blank" rel="sponsored nofollow noopener"><span>AMAZON FIND 0${index+1}</span><strong>${item.title}</strong><em>${item.quip}</em></a>`).join('')}</div><p class="story-amazon-disclosure">As an Amazon Associate, Blappos may earn from qualifying purchases.</p></section>`;
+ if(!links.length)return '';
+ const heading=links.length===3?'Three ridiculously relevant Amazon finds':`${links.length} verified Amazon find${links.length===1?'':'s'}`;
+ return `<section class="story-amazon" aria-label="Relevant Amazon finds"><h4>${heading}</h4><div class="story-amazon-links">${links.map((item,index)=>`<a class="story-amazon-link" href="${item.url}" target="_blank" rel="sponsored nofollow noopener"><span class="story-amazon-image"><img src="${item.image}" alt="${item.alt||item.title}" width="320" height="320" loading="lazy"></span><span class="story-amazon-copy"><small>AMAZON FIND 0${index+1}</small><strong>${item.title}</strong><em>${item.quip}</em><b>SEE THE EXACT ITEM →</b></span></a>`).join('')}</div><p class="story-amazon-disclosure">As an Amazon Associate, Blappos may earn from qualifying purchases. Product availability and pricing can change.</p></section>`;
 }
 const grid=document.querySelector('#card-grid');
 const dialog=document.querySelector('#story-dialog');
