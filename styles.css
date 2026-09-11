@@ -37,8 +37,9 @@ body .archive-grid{grid-template-columns:repeat(3,1fr);gap:35px 22px}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--cream);color:var(--ink);font-family:"DM Sans",sans-serif;background-image:radial-gradient(rgba(48,34,15,.08) .7px,transparent .7px);background-size:5px 5px}
 .masthead{height:112px;padding:0 4vw;display:grid;grid-template-columns:auto 1fr;gap:32px;align-items:center;border-bottom:2px solid var(--ink);background:var(--cream);position:sticky;top:0;z-index:20}
-.logo{font-family:Anton,sans-serif;font-size:2.2rem;letter-spacing:.03em;color:var(--red);text-decoration:none;text-shadow:2px 2px 0 var(--ink)}
-.masthead p{font-family:"Libre Caslon Text",serif;font-style:italic}
+.logo{display:inline-flex;align-items:center;text-decoration:none}
+.logo img{display:block;width:230px;height:auto}
+.masthead .logo{height:108px;overflow:hidden}
 .masthead nav{justify-self:end;display:flex;gap:25px}
 .masthead nav a{color:var(--ink);text-decoration:none;font-size:.74rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em}
 .hero{min-height:calc(100vh - 112px);display:grid;grid-template-columns:.85fr 1.15fr;align-items:center;gap:7vw;padding:7vw;overflow:hidden}
@@ -87,7 +88,8 @@ h1{font-size:clamp(5rem,10vw,10.5rem);line-height:.78;letter-spacing:-.025em;mar
 .dispatch{display:grid;grid-template-columns:1.3fr .7fr;gap:8vw;align-items:end;padding:90px 6vw;background:var(--gold);border-bottom:2px solid var(--ink)}
 .dispatch p{font:italic 1.2rem/1.5 "Libre Caslon Text",serif}
 footer{padding:55px 5vw;background:var(--ink);color:var(--paper)}
-footer .logo{display:inline-flex}\nfooter .logo img{width:min(320px,80vw)}
+footer .logo{display:inline-flex}
+footer .logo img{width:min(320px,80vw)}
 footer p{font:italic 1.2rem "Libre Caslon Text",serif}
 footer small{display:block;color:#aaa;margin-top:35px}
 dialog{width:min(930px,94vw);max-height:92vh;border:2px solid var(--ink);padding:0;background:var(--paper);color:var(--ink);box-shadow:16px 18px 0 rgba(0,0,0,.3)}
@@ -102,7 +104,6 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .story-copy .source{display:inline-block;background:var(--red);color:white;padding:14px 17px;margin-top:18px;text-decoration:none;font-size:.7rem;font-weight:800;letter-spacing:.08em}
 .disclosure{font-size:.7rem!important;color:#695f51;border-top:1px solid var(--line);padding-top:18px;margin-top:28px}
 @media(max-width:850px){.masthead{grid-template-columns:1fr auto}
-.masthead>p{display:none}
 .masthead nav a:last-child{display:none}
 .hero{grid-template-columns:1fr;padding:70px 6vw}
 .hero-card{margin-top:25px}
@@ -113,7 +114,10 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .story img{position:static}
 .story-copy{padding:35px 25px}
 }
-@media(max-width:560px){.masthead{height:96px;padding-inline:3vw}\n.masthead .logo{height:92px}\n.masthead .logo img{width:190px}\n.masthead nav{display:none}
+@media(max-width:560px){.masthead{height:96px;padding-inline:3vw}
+.masthead .logo{height:92px}
+.masthead .logo img{width:190px}
+.masthead nav{display:none}
 .hero{min-height:auto}
 .hero h1{font-size:24vw}
 .card-grid{grid-template-columns:1fr;gap:45px}
