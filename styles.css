@@ -36,13 +36,13 @@ body .archive-grid{grid-template-columns:repeat(3,1fr);gap:35px 22px}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--cream);color:var(--ink);font-family:"DM Sans",sans-serif;background-image:radial-gradient(rgba(48,34,15,.08) .7px,transparent .7px);background-size:5px 5px}
-.masthead{height:112px;padding:0 4vw;display:grid;grid-template-columns:auto 1fr;gap:32px;align-items:center;border-bottom:2px solid var(--ink);background:var(--cream);position:sticky;top:0;z-index:20}
+.masthead{height:132px;padding:0 4vw;display:grid;grid-template-columns:auto 1fr;gap:32px;align-items:center;border-bottom:2px solid var(--ink);background:var(--cream);position:sticky;top:0;z-index:20}
 .logo{display:inline-flex;align-items:center;text-decoration:none}
-.logo img{display:block;width:230px;height:auto}
-.masthead .logo{height:108px;overflow:hidden}
+.logo img{display:block;width:190px;height:auto}
+.masthead .logo{height:126px;overflow:visible}
 .masthead nav{justify-self:end;display:flex;gap:25px}
 .masthead nav a{color:var(--ink);text-decoration:none;font-size:.74rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em}
-.hero{min-height:calc(100vh - 112px);display:grid;grid-template-columns:.85fr 1.15fr;align-items:center;gap:7vw;padding:7vw;overflow:hidden}
+.hero{min-height:calc(100vh - 132px);display:grid;grid-template-columns:.85fr 1.15fr;align-items:center;gap:7vw;padding:7vw;overflow:hidden}
 .hero-copy{position:relative;z-index:2}
 .stamp{display:inline-block;border:2px solid currentColor;padding:7px 10px;font-size:.65rem;font-weight:800;letter-spacing:.13em;transform:rotate(-1deg)}
 h1,h2{font-family:Anton,sans-serif;text-transform:uppercase;font-weight:400}
@@ -114,9 +114,9 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .story img{position:static}
 .story-copy{padding:35px 25px}
 }
-@media(max-width:560px){.masthead{height:96px;padding-inline:3vw}
-.masthead .logo{height:92px}
-.masthead .logo img{width:190px}
+@media(max-width:560px){.masthead{height:108px;padding-inline:3vw}
+.masthead .logo{height:104px}
+.masthead .logo img{width:158px}
 .masthead nav{display:none}
 .hero{min-height:auto}
 .hero h1{font-size:24vw}
