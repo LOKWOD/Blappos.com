@@ -1,0 +1,41 @@
+name: Correct Malibu magnet artwork
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/printify-correct-malibu.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: printify-product-creation
+  cancel-in-progress: false
+
+jobs:
+  correct-product:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install --quiet Pillow
+      - name: Replace old Malibu artwork with the vintage site artwork
+        env:
+          PRINTIFY_API_TOKEN: ${{ secrets.PRINTIFY_API_TOKEN }}
+        run: |
+          python3 scripts/printify_sync.py \
+            --shop-id 28900389 \
+            --template-id 6aa39c2bae1c3c660b0c05f5 \
+            --update-id 6aa3a2a606ee22a850065853 \
+            --story-id sep9-nicolas-sinkhole \
+            --title "Nicolas Cage’s driveway gets a basement it did not order" \
+            --place "Malibu, California" \
+            --image assets/cards/sep9-nicolas-sinkhole.webp \
+            --result printify-malibu-correction.json
+      - name: Record safe correction result
+        run: |
+          git config user.name "blappos-automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add printify-malibu-correction.json
+          git commit -m "Record corrected Malibu magnet artwork"
+          git push
