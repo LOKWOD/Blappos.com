@@ -61,20 +61,32 @@ filters.addEventListener('click',event=>{const button=event.target.closest('[dat
 renderArchive();
 const findsGrid=document.querySelector('#finds-grid');
 function rotatingHomepageFinds(){
- const newestStories=dailyStories.filter(story=>story.isoDate===latestIso);
+ const recentStories=stories.slice(0,Math.min(stories.length,12));
  const currentPool=[];
  for(let productIndex=0;productIndex<3;productIndex+=1){
-  newestStories.forEach(story=>{
+  recentStories.forEach((story,storyIndex)=>{
    const item=amazonLinksForStory(story)[productIndex];
-   if(item)currentPool.push({...item,storyId:story.id});
+   if(item)currentPool.push({...item,storyId:story.id,salesPriority:Number(item.salesPriority||story.amazonLinks?.[productIndex]?.salesPriority||3),freshness:recentStories.length-storyIndex});
   });
  }
- const fallback=dailyFinds.map(find=>({...find,url:taggedAmazonUrl(find.url)}));
+ const fallback=dailyFinds.map(find=>({...find,url:taggedAmazonUrl(find.url),salesPriority:Number(find.salesPriority||2),freshness:0}));
  const pool=(currentPool.length>=3?currentPool:fallback)
-  .filter((item,index,list)=>item.title&&item.image&&item.url&&list.findIndex(other=>other.url===item.url)===index);
+  .filter((item,index,list)=>item.title&&item.image&&item.url&&list.findIndex(other=>other.url===item.url)===index)
+  .sort((a,b)=>b.salesPriority-a.salesPriority||b.freshness-a.freshness);
  if(pool.length<=3)return pool;
- const rotation=Math.floor(Date.now()/(6*60*60*1000))%pool.length;
- return Array.from({length:3},(_,index)=>pool[(rotation+index)%pool.length]);
+ const shortlist=pool.slice(0,Math.min(15,pool.length));
+ const rotation=Math.floor(Date.now()/(6*60*60*1000))%shortlist.length;
+ const rotated=shortlist.slice(rotation).concat(shortlist.slice(0,rotation));
+ const chosen=[];
+ for(const item of rotated){
+  if(chosen.length===3)break;
+  if(!chosen.some(pick=>pick.storyId===item.storyId))chosen.push(item);
+ }
+ for(const item of rotated){
+  if(chosen.length===3)break;
+  if(!chosen.some(pick=>pick.url===item.url))chosen.push(item);
+ }
+ return chosen;
 }
 if(findsGrid){findsGrid.innerHTML=rotatingHomepageFinds().map(find=>{const story=allStories.find(item=>item.id===find.storyId);const url=taggedAmazonUrl(find.url);return `<article class="find-card"><a class="find-image" href="${url}" target="_blank" rel="sponsored nofollow noopener"><img src="${find.image}" alt="${find.alt||find.title}" width="600" height="600" loading="lazy"></a><div class="find-copy"><span>RIDICULOUSLY RELEVANT TO</span><button data-story="${find.storyId}">${story?.title||'Today’s story'} →</button><h3>${find.title}</h3><p>${find.quip}</p><a class="shop-link" href="${url}" target="_blank" rel="sponsored nofollow noopener">SEE THE EXACT ITEM ON AMAZON ↗</a></div></article>`}).join('')}
 const initial=location.hash.slice(1);if(allStories.some(story=>story.id===initial))openStory(initial);
