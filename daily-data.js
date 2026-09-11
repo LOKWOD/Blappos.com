@@ -138,7 +138,7 @@ const sep10ExtraStories=[
     "id": "sep10-henna-robot",
     "place": "India / Online",
     "image": "assets/cards/sep10-henna-robot.webp",
-    "title": "Robot applies wedding henna and immediately requests a five-star review",
+    "title": "Robot applies wedding henna and immediately requests a five-star review","magnetUrl":"https://blappos.printify.me/product/31881034","magnetPrice":"$9.99",
     "facts": "Industrialist Harsh Goenka shared an AI-generated video showing a machine apparently applying a detailed mehendi design to a woman’s hand. The clip prompted a fresh argument over whether automation is coming for traditional artists and skill-based services.",
     "why": "Mehendi artists create intricate, personalized designs for weddings, festivals and celebrations. Commenters quickly noted that a synthetic demonstration is not proof of a safe, reliable commercial machine—and that craftsmanship, judgment and human connection remain central to the tradition.",
     "angle": "The robot promises perfect symmetry, no small talk and a mandatory firmware update halfway through the bride’s left hand. Premium users may unlock the thumb.",
