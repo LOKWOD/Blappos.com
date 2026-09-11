@@ -178,7 +178,7 @@ const sep10ExtraStories=[
     "id": "sep10-silent-account",
     "place": "Cupertino, California / Online",
     "image": "assets/cards/sep10-silent-account.webp",
-    "title": "Account gains 10 million followers by finally keeping quiet",
+    "title": "Account gains 10 million followers by finally keeping quiet","magnetUrl":"https://blappos.printify.me/product/31881041","magnetPrice":"$9.99",
     "facts": "Apple’s main account on X has accumulated nearly 10 million followers while showing zero regular public posts on its timeline. The company has used the platform for paid promotions, while support accounts and executives publish normally.",
     "why": "The blank feed is a strange exception to the standard social-media growth playbook. It also shows the difference between organic timeline posts and paid advertising: an account can appear silent while the company remains active elsewhere on the platform.",
     "angle": "Ten million people subscribed to hear nothing and have never been disappointed. Every social-media manager just stared at next month’s content calendar and whispered, “Son of a bitch.”",
