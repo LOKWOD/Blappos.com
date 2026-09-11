@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Create a Blappos magnet from the approved Printify master product."""
+"""Create or update a Blappos magnet from the approved Printify master product."""
 
 import argparse
 import base64
 import copy
+import io
 import json
 import os
 import time
@@ -11,15 +12,15 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
+from PIL import Image
+
 API = "https://api.printify.com/v1"
 
 
 def request(method, path, token, payload=None):
     data = None if payload is None else json.dumps(payload).encode()
     req = urllib.request.Request(
-        f"{API}{path}",
-        data=data,
-        method=method,
+        f"{API}{path}", data=data, method=method,
         headers={
             "Authorization": f"Bearer {token}",
             "Content-Type": "application/json",
@@ -44,6 +45,7 @@ def main():
     parser.add_argument("--place", required=True)
     parser.add_argument("--image", required=True)
     parser.add_argument("--result", default="printify-test-result.json")
+    parser.add_argument("--update-id")
     args = parser.parse_args()
 
     token = os.environ["PRINTIFY_API_TOKEN"]
@@ -51,15 +53,18 @@ def main():
     template = request("GET", f"/shops/{shop_id}/products/{args.template_id}.json", token)
 
     image_path = Path(args.image)
-    upload = request(
-        "POST",
-        "/uploads/images.json",
-        token,
-        {
-            "file_name": f"{args.story_id}{image_path.suffix}",
-            "contents": base64.b64encode(image_path.read_bytes()).decode(),
-        },
-    )
+    image_bytes = image_path.read_bytes()
+    upload_suffix = image_path.suffix.lower()
+    if upload_suffix not in {".png", ".jpg", ".jpeg"}:
+        converted = io.BytesIO()
+        Image.open(io.BytesIO(image_bytes)).convert("RGB").save(converted, "PNG")
+        image_bytes = converted.getvalue()
+        upload_suffix = ".png"
+
+    upload = request("POST", "/uploads/images.json", token, {
+        "file_name": f"{args.story_id}{upload_suffix}",
+        "contents": base64.b64encode(image_bytes).decode(),
+    })
 
     print_areas = copy.deepcopy(template["print_areas"])
     for area in print_areas:
@@ -67,15 +72,11 @@ def main():
             for image in placeholder.get("images", []):
                 image["id"] = upload["id"]
 
-    variants = []
-    for variant in template["variants"]:
-        variants.append(
-            {
-                "id": variant["id"],
-                "price": 999,
-                "is_enabled": bool(variant.get("is_enabled")),
-            }
-        )
+    variants = [{
+        "id": variant["id"],
+        "price": 999,
+        "is_enabled": bool(variant.get("is_enabled")),
+    } for variant in template["variants"]]
 
     payload = {
         "title": f"{args.place} Magnet — {args.title}",
@@ -89,22 +90,17 @@ def main():
         "variants": variants,
         "print_areas": print_areas,
     }
-    product = request("POST", f"/shops/{shop_id}/products.json", token, payload)
+
+    if args.update_id:
+        product = request("PUT", f"/shops/{shop_id}/products/{args.update_id}.json", token, payload)
+    else:
+        product = request("POST", f"/shops/{shop_id}/products.json", token, payload)
     product_id = product["id"]
-    request(
-        "POST",
-        f"/shops/{shop_id}/products/{product_id}/publish.json",
-        token,
-        {
-            "title": True,
-            "description": True,
-            "images": True,
-            "variants": True,
-            "tags": True,
-            "keyFeatures": True,
-            "shipping_template": True,
-        },
-    )
+
+    request("POST", f"/shops/{shop_id}/products/{product_id}/publish.json", token, {
+        "title": True, "description": True, "images": True, "variants": True,
+        "tags": True, "keyFeatures": True, "shipping_template": True,
+    })
 
     external_id = None
     for _ in range(8):
