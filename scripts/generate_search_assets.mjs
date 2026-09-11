@@ -148,4 +148,4 @@ ${urls.map(({ loc, lastmod }) => `  <url><loc>${escapeXml(loc)}</loc><lastmod>${
 fs.writeFileSync(path.join(root, 'sitemap.xml'), sitemap);
 fs.writeFileSync(path.join(root, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${origin}/sitemap.xml\n`);
 
-console.log(`Generated ${stories.length} story pages and ${urls.length} sitemap URLs.`);\n
+console.log(`Generated ${stories.length} story pages and ${urls.length} sitemap URLs.`);
