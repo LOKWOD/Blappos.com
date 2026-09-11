@@ -1,0 +1,33 @@
+name: Create and link every Blappos magnet
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/printify-all-magnets.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: printify-product-creation
+  cancel-in-progress: false
+
+jobs:
+  create-all-missing-magnets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m pip install --quiet Pillow
+      - name: Configure progress commits
+        run: |
+          git config user.name "blappos-automation"
+          git config user.email "actions@users.noreply.github.com"
+      - name: Create and publish every missing magnet
+        env:
+          PRINTIFY_API_TOKEN: ${{ secrets.PRINTIFY_API_TOKEN }}
+        run: |
+          python3 scripts/printify_bulk.py \
+            --shop-id 28900389 \
+            --template-id 6aa39c2bae1c3c660b0c05f5
