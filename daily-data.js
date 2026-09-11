@@ -28,3 +28,67 @@ window.dailyFinds=[
  {storyId:'sep9-nicolas-sinkhole',title:'Voodoo Child — Created by Nicolas Cage and Weston Cage',image:'assets/products/voodoo-9780981480800.jpg',alt:'Voodoo Child graphic novel created by Nicolas Cage and Weston Cage',quip:'The actual graphic novel created by Nicolas Cage—because apparently a collapsing Malibu driveway was not enough plot.',url:'https://www.amazon.com/dp/0981480802?tag=blappos-20'},
  {storyId:'sep9-hotdog',title:'GOOSH Inflatable Hot Dog Costume Adult Food Funny Halloween Blow Up Costume',image:'assets/products/inflatable-hot-dog.jpg',alt:'GOOSH adult inflatable hot dog costume',quip:'The emergency backup hot dog, should the stadium bun fail to achieve contact.',url:'https://www.amazon.com/dp/B0DPX57JBP?tag=blappos-20'}
 ];
+
+// Sep. 10 verification pass: only stories with exact dated sources and three
+// directly matched, image-first Amazon cards remain eligible for publication.
+const tallestHorse=window.dailyStories.find(story=>story.id==='sep11-tallest-horse');
+Object.assign(tallestHorse,{
+ isoDate:'2026-09-10',
+ date:'Sep 10, 2026',
+ image:'assets/cards/sep10-tallest-horse.webp',
+ facts:'Hugo, a four-year-old Shire horse in Towcester, England, was recognized in Guinness World Records 2027 as the world’s tallest living horse. A veterinarian measured him without horseshoes at 1.99 meters—about 6 feet 6 inches—at the withers.',
+ why:'Shire horses were bred for heavy work and are among the world’s largest horse breeds. Hugo is still young, gentle and reportedly affectionate, while the breed itself is now critically endangered.',
+ amazonLinks:[
+  {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of the Guinness World Records 2027 book',quip:'The official record book containing Hugo’s new title—and several pages sturdy enough to serve as his coaster.',salesPriority:5,url:'https://www.amazon.com/dp/1806500256?tag=blappos-20'},
+  {title:'The Horse Encyclopedia (DK Pet Encyclopedias)',image:'https://m.media-amazon.com/images/I/71nQ+QPJ6nL._SL1500_.jpg',alt:'Cover of The Horse Encyclopedia from DK',quip:'A complete horse reference that may need a foldout page to accommodate Hugo.',salesPriority:4,url:'https://www.amazon.com/dp/1465451439?tag=blappos-20'},
+  {title:'Encyclopedia of Horse Breeds',image:'https://m.media-amazon.com/images/I/61fFs6ixLVL._SL1000_.jpg',alt:'Cover of Encyclopedia of Horse Breeds by Hendricks',quip:'For identifying the Shire breed before the specimen peers into your second-floor window.',salesPriority:3,url:'https://www.amazon.com/dp/080613884X?tag=blappos-20'}
+ ],
+ source:'https://people.com/hugo-the-shire-horse-claims-title-of-world-s-tallest-horse-12115531',
+ sourceName:'Read the People report'
+});
+
+const princeCroc=window.dailyStories.find(story=>story.id==='sep11-prince-william-croc');
+Object.assign(princeCroc,{
+ isoDate:'2026-09-02',
+ date:'Sep 2, 2026',
+ image:'assets/cards/sep11-prince-william-croc.webp'
+});
+princeCroc.amazonLinks.forEach((item,index)=>item.salesPriority=[4,3,3][index]);
+
+const narrowCar=window.dailyStories.find(story=>story.id==='sep10-narrowest-car');
+Object.assign(narrowCar,{
+ place:'Bagnolo Cremasco, Italy',
+ facts:'Italian mechanic Andrea Marazzi turned a salvaged 1993 Fiat Panda into the world’s narrowest drivable car. The electric “Flat Fiat” is 50.20 centimeters (19.76 inches) wide, has four wheels, one headlight and one seat, and retains more than 90 percent of the original car’s parts.',
+ why:'Marazzi spent about a year fitting a driver, steering, controls and a working powertrain into a slice of car. The finished vehicle weighs about 264 kilograms, reaches roughly 15 km/h and is not street legal.',
+ amazonLinks:[
+  {title:'Drop Stop - Original Car Seat Gap Filler (Shark Tank) - Set of 2 + Gifts',image:'https://m.media-amazon.com/images/I/71aaOjmFYtL._AC_SL1440_.jpg',alt:'Pair of black Drop Stop car seat gap fillers',quip:'For the one-seat Flat Fiat, where losing anything beside the seat may count as exterior storage.',salesPriority:5,url:'https://www.amazon.com/dp/B00BYH6C1E?tag=blappos-20'},
+  {title:'Ampper Blind Spot Mirror, 2" Round HD Glass Frameless Convex Rear View Mirror, Pack of 2',image:'https://m.media-amazon.com/images/I/71hWoORU83L._AC_SL1500_.jpg',alt:'Pair of Ampper two-inch round blind-spot mirrors',quip:'Two-inch mirrors for a car so narrow the blind spot may be wider than the vehicle.',salesPriority:4,url:'https://www.amazon.com/dp/B01CV4ANCC?tag=blappos-20'},
+  {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of the Guinness World Records 2027 book',quip:'The record book that makes the 19.76-inch Flat Fiat officially more than a very committed door.',salesPriority:5,url:'https://www.amazon.com/dp/1806500256?tag=blappos-20'}
+ ],
+ source:'https://www.thesun.co.uk/news/40340374/mechanic-smashes-world-record-narrowest-car/',
+ sourceName:'Read The Sun report'
+});
+
+const ponyCollection={
+ id:'sep10-pony-collection',
+ isoDate:'2026-09-10',
+ month:'September',
+ date:'Sep 10, 2026',
+ place:'Lowestoft, England',
+ image:'assets/cards/sep10-pony-collection.webp',
+ title:'Denied one horse, woman acquires 7,500 ponies instead',
+ facts:'Miranda Worby of Lowestoft, England, earned a Guinness World Record after 4,550 My Little Pony items were officially counted. She told People that the collection has since grown to around 7,500 pieces, filling a room and a storage unit.',
+ why:'Worby began collecting the toys at age three and started hunting seriously for missing pieces in 1997. The record is a spectacular example of how a childhood “no” can become a decades-long cataloging operation.',
+ angle:'Her parents declined to buy one horse. The appeal process has now produced roughly 7,499 additional exhibits and an off-site evidence locker.',
+ amazonLinks:[
+  {title:'My Little Pony Classics - Celestial Ponies - Polaris - Retro 4" Collectible Play Figure, Great for Kids, Toddlers, Adults, Girls and Boys Ages 3+',image:'https://m.media-amazon.com/images/I/81swiGDUiYL._AC_SL1500_.jpg',alt:'My Little Pony Classics Celestial Ponies Polaris retro collectible figure',quip:'One more pony for a collection whose “one more” phase has lasted nearly three decades.',salesPriority:5,url:'https://www.amazon.com/dp/B0BPK2351F?tag=blappos-20'},
+  {title:'Ponyville Confidential: The History and Culture of My Little Pony, 1981-2016',image:'https://m.media-amazon.com/images/I/61bK5gTn9wL._SL1360_.jpg',alt:'Cover of Ponyville Confidential, a history of My Little Pony',quip:'The field guide for understanding how a toy shelf evolves into municipal-scale pony infrastructure.',salesPriority:4,url:'https://www.amazon.com/dp/1476662096?tag=blappos-20'},
+  {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of the Guinness World Records 2027 book',quip:'The official paperwork confirming that 7,500 ponies is a record, not a home-decor preference.',salesPriority:5,url:'https://www.amazon.com/dp/1806500256?tag=blappos-20'}
+ ],
+ source:'https://people.com/woman-told-she-couldnt-have-horse-as-child-breaks-record-worlds-biggest-my-little-pony-collection-12115528',
+ sourceName:'Read the People report'
+};
+
+window.dailyStories=window.dailyStories.filter(story=>!['sep10-monitor-lizard','sep10-marmot-coolant'].includes(story.id));
+window.dailyStories.splice(window.dailyStories.indexOf(narrowCar)+1,0,ponyCollection);
+window.dailyFinds=[];
