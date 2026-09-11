@@ -153,6 +153,10 @@ def save_progress(story_id, state, paths):
     subprocess.run(["git", "add", "printify-products.json", *map(str, paths)], check=True)
     if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode:
         subprocess.run(["git", "commit", "-m", f"Add purchasable magnet for {story_id}"], check=True)
+        # Other Blappos automations may finish while Printify is rendering. Rebase
+        # their small generated commits before pushing so a harmless race cannot
+        # strand a newly published product URL.
+        subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
         subprocess.run(["git", "push"], check=True)
 
 

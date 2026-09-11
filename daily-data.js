@@ -97,6 +97,8 @@ const sep10ExtraStories=[
     "place": "Springfield, Massachusetts",
     "image": "assets/cards/sep10-mural-phone.webp",
     "title": "1937 mural catches a time traveler checking his notifications",
+    "magnetUrl": "https://blappos.printify.me/product/31880964",
+    "magnetPrice": "$9.99",
     "facts": "A 1937 mural by Umberto Romano went viral after viewers noticed an Indigenous man holding a small dark rectangle in a pose that looks strikingly like someone checking a smartphone. The mural depicts a 17th-century encounter involving Springfield founder William Pynchon.",
     "why": "There is no evidence of a lost colonial cellular network. Historians say the object is more plausibly a small hand mirror, book or traded item. The mural was created for Springfield’s main post office as part of a Depression-era federal art project.",
     "angle": "The first smartphone user has finally been identified, and he already looks disappointed by the battery life. Historians believe he was checking whether the Mayflower had surge pricing.",
