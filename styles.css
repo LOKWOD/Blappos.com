@@ -156,3 +156,6 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 }
 
 @media(max-width:420px){.story-amazon-link{grid-template-columns:90px 1fr}.story-amazon-copy{padding:10px}.story-amazon-link strong{font-size:1rem}}
+
+/* Site-only cleanup for artwork with white corner fill. The source image stays unchanged for Printify. */
+img[src*="sep10-marmot-coolant"]{mix-blend-mode:multiply}
