@@ -1,0 +1,23 @@
+name: Remove unused duplicate Printify magnet
+on:
+  push:
+    paths:
+      - '.github/workflows/remove-duplicate-narrow-car.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  remove-duplicate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete only the unused duplicate
+        env:
+          PRINTIFY_API_TOKEN: ${{ secrets.PRINTIFY_API_TOKEN }}
+        run: |
+          curl --fail-with-body --silent --show-error \
+            -X DELETE \
+            -H "Authorization: Bearer $PRINTIFY_API_TOKEN" \
+            -H "Content-Type: application/json" \
+            "https://api.printify.com/v1/shops/28900389/products/6aa3af60e8a00e1d7a004485.json"
