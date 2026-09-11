@@ -108,7 +108,7 @@ footer small{display:block;color:#aaa;margin-top:35px}
 .story-amazon-disclosure{margin:12px 0 0!important;font:400 .66rem/1.4 "DM Sans",sans-serif!important;color:#695f51}
 .story-magnet-image{position:sticky;top:0;align-self:start;display:block;background:var(--cream);color:#fff;text-decoration:none}
 .story-magnet-image img{position:static}
-.story-magnet-image span{position:absolute;left:14px;right:14px;bottom:14px;padding:13px;background:var(--red);border:2px solid var(--ink);box-shadow:4px 4px 0 var(--ink);font:800 .7rem "DM Sans",sans-serif;letter-spacing:.09em;text-align:center}
+.story-magnet-image span{display:block;padding:14px;background:var(--red);border-top:2px solid var(--ink);font:800 .7rem "DM Sans",sans-serif;letter-spacing:.09em;text-align:center}
 .story-magnet{margin-top:28px;padding:22px;border:3px solid var(--ink);background:#f1c84b;box-shadow:7px 7px 0 var(--ink)}
 .story-magnet>span{font:800 .62rem "DM Sans",sans-serif;letter-spacing:.13em;color:var(--red)}
 .story-copy .story-magnet h4{margin:7px 0;font:400 1.55rem/1 Anton,sans-serif}
