@@ -16,26 +16,66 @@ ALIASES = {
     "may-longview": "longview",
     "sep-typhoon": "coastal-china",
     "sep-nepal": "nepal",
-    # Sep. 11 duplicate headline reused the already-rendered tall-horse art.
+    # Sep. 11 reused the already-rendered tall-horse art for its Printify product.
     "sep11-tallest-horse": "sep10-tallest-horse",
 }
 DATA_FILES = (Path("daily-data.js"), Path("archive-data.js"))
 RASTER_SUFFIXES = {".webp", ".jpg", ".jpeg", ".png"}
+ID_PATTERN = re.compile(r'(?:^|[,{]\s*)(?:"id"|\'id\'|id)\s*:\s*(["\'])(.*?)\1', re.MULTILINE)
 
 
-def field(line, name):
-    """Read a JS object string field whether keys/values use single or double quotes."""
-    pattern = rf"(?:^|[{{,])\s*(?:\"{re.escape(name)}\"|'{re.escape(name)}'|{re.escape(name)})\s*:\s*([\"'])(.*?)\1"
-    match = re.search(pattern, line)
+def field(block, name):
+    """Read a JS object string field from single- or double-quoted object syntax."""
+    pattern = rf'(?:^|[{{,]\s*)(?:"{re.escape(name)}"|\'{re.escape(name)}\'|{re.escape(name)})\s*:\s*(["\'])(.*?)\1'
+    match = re.search(pattern, block, re.DOTALL | re.MULTILINE)
     return match.group(2) if match else None
 
 
-def line_has_story(line, story_id):
-    return bool(re.search(rf"(?:\"id\"|'id'|id)\s*:\s*([\"']){re.escape(story_id)}\1", line))
+def matching_brace(text, start):
+    """Return index just after the matching object brace, ignoring braces inside strings."""
+    depth = 0
+    quote = None
+    escaped = False
+    for index in range(start, len(text)):
+        char = text[index]
+        if quote:
+            if escaped:
+                escaped = False
+            elif char == "\\":
+                escaped = True
+            elif char == quote:
+                quote = None
+            continue
+        if char in ("'", '"'):
+            quote = char
+            continue
+        if char == "{":
+            depth += 1
+        elif char == "}":
+            depth -= 1
+            if depth == 0:
+                return index + 1
+    raise RuntimeError("Unbalanced story object in data file")
+
+
+def story_blocks(text):
+    """Yield each story object, including multi-line const objects and one-line array entries."""
+    used = set()
+    for match in ID_PATTERN.finditer(text):
+        start = text.rfind("{", 0, match.start() + 1)
+        if start < 0 or start in used:
+            continue
+        end = matching_brace(text, start)
+        block = text[start:end]
+        story_id = field(block, "id")
+        if not story_id:
+            continue
+        used.add(start)
+        yield start, end, block
 
 
 def image_for(story):
-    # Physical products must use a raster card, never an SVG placeholder/wrapper.
+    # Physical products must use raster card art, never an SVG wrapper/placeholder.
     if story.get("image"):
         path = Path(story["image"])
         if path.exists() and path.suffix.lower() in RASTER_SUFFIXES:
@@ -57,42 +97,53 @@ def stories():
     found = []
     seen = set()
     for data_file in DATA_FILES:
-        for line in data_file.read_text().splitlines():
-            story_id = field(line, "id")
+        text = data_file.read_text()
+        for _, _, block in story_blocks(text):
+            story_id = field(block, "id")
             if not story_id or story_id in seen:
                 continue
             seen.add(story_id)
+            title = field(block, "title")
+            place = field(block, "place")
+            if not title or not place:
+                print(f"Skipping malformed story {story_id}: missing title/place", file=sys.stderr)
+                continue
             found.append({
                 "id": story_id,
-                "title": field(line, "title"),
-                "place": field(line, "place"),
-                "image": field(line, "image"),
+                "title": title,
+                "place": place,
+                "image": field(block, "image"),
                 "file": data_file,
-                "linked": bool(re.search(r'(?:"magnetUrl"|\'magnetUrl\'|magnetUrl)\s*:', line)),
+                "linked": bool(re.search(r'(?:"magnetUrl"|\'magnetUrl\'|magnetUrl)\s*:', block)),
             })
     return found
 
 
 def add_link(story, url):
     path = story["file"]
-    lines = path.read_text().splitlines(keepends=True)
-    for index, line in enumerate(lines):
-        if not line_has_story(line, story["id"]):
+    text = path.read_text()
+    for start, end, block in story_blocks(text):
+        if field(block, "id") != story["id"]:
             continue
-        if re.search(r'(?:"magnetUrl"|\'magnetUrl\'|magnetUrl)\s*:', line):
+        if re.search(r'(?:"magnetUrl"|\'magnetUrl\'|magnetUrl)\s*:', block):
             return
 
-        title_match = re.search(r'(?:"title"|\'title\'|title)\s*:\s*([\"\'])(.*?)\1\s*,', line)
+        title_match = re.search(
+            r'(?:"title"|\'title\'|title)\s*:\s*(["\'])(.*?)\1\s*,',
+            block,
+            re.DOTALL,
+        )
         if not title_match:
             raise RuntimeError(f"Could not place magnet link for {story['id']}")
 
-        double_style = bool(re.search(r'"id"\s*:', line))
-        if double_style:
-            insert = f'"magnetUrl":"{url}","magnetPrice":"$9.99",'
-        else:
-            insert = f"magnetUrl:'{url}',magnetPrice:'$9.99',"
-        lines[index] = line[:title_match.end()] + insert + line[title_match.end():]
-        path.write_text("".join(lines))
+        double_style = bool(re.search(r'"id"\s*:', block))
+        insert = (
+            f'"magnetUrl":"{url}","magnetPrice":"$9.99",'
+            if double_style
+            else f"magnetUrl:'{url}',magnetPrice:'$9.99',"
+        )
+        insert_at = start + title_match.end()
+        path.write_text(text[:insert_at] + insert + text[insert_at:])
         return
     raise RuntimeError(f"Could not find story {story['id']} in {path}")
 
