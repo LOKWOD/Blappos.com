@@ -31,3 +31,8 @@ Every change to `daily-data.js` or `archive-data.js` automatically generates a p
 indexable page for each story, updates `sitemap.xml`, and refreshes `robots.txt`. Submit
 `https://blappos.com/sitemap.xml` to Google Search Console once; future daily posts are
 included automatically.
+
+Every generated story page includes native sharing plus text, Facebook, X, Reddit,
+email and copy-link controls. Sharing always uses the permanent story URL so social
+previews carry the matching headline and story illustration. This is regenerated for
+every daily batch along with the sitemap.
