@@ -29,6 +29,7 @@ PRODUCTS = [
         "blueprint": 12,
         "price": 2499,
         "scale": 0.64,
+        "y": 0.36,
         "colors": ("black", "navy", "red", "white", "dark grey", "dark gray", "heather"),
         "sizes": ("s", "m", "l", "xl", "2xl", "3xl"),
         "max_variants": 30,
@@ -42,6 +43,7 @@ PRODUCTS = [
         "blueprint": 77,
         "price": 4999,
         "scale": 0.62,
+        "y": 0.40,
         "colors": ("black", "navy", "dark heather", "sport grey", "sport gray", "red"),
         "sizes": ("s", "m", "l", "xl", "2xl", "3xl"),
         "max_variants": 28,
@@ -55,6 +57,7 @@ PRODUCTS = [
         "blueprint": 49,
         "price": 3999,
         "scale": 0.62,
+        "y": 0.34,
         "colors": ("black", "navy", "dark heather", "sport grey", "sport gray", "red"),
         "sizes": ("s", "m", "l", "xl", "2xl", "3xl"),
         "max_variants": 28,
@@ -263,7 +266,7 @@ def create_product(config, logo_id):
                 "images": [{
                     "id": logo_id,
                     "x": 0.5,
-                    "y": 0.5,
+                    "y": config.get("y", 0.5),
                     "scale": config["scale"],
                     "angle": 0,
                 }],
@@ -311,7 +314,39 @@ def create_product(config, logo_id):
     }
 
 
-def refresh_existing(record):
+def realign_existing_product(current, config):
+    """Keep published apparel art in the visual chest zone, not the print-box center."""
+    target_y = config.get("y")
+    if target_y is None:
+        return current
+    print_areas = current.get("print_areas") or []
+    changed = False
+    for area in print_areas:
+        for placeholder in area.get("placeholders") or []:
+            for image in placeholder.get("images") or []:
+                if image.get("y") != target_y:
+                    image["y"] = target_y
+                    changed = True
+    if not changed:
+        return current
+    product_id = current["id"]
+    print(f"Realigning {config['key']} artwork to y={target_y:.2f}", flush=True)
+    request("PUT", f"/shops/{SHOP_ID}/products/{product_id}.json", {"print_areas": print_areas})
+    request("POST", f"/shops/{SHOP_ID}/products/{product_id}/publish.json", {
+        "title": False,
+        "description": False,
+        "images": True,
+        "variants": False,
+        "tags": False,
+        "keyFeatures": False,
+        "shipping_template": False,
+    })
+    # Give Printify time to regenerate mockups before refreshing storefront data.
+    time.sleep(8)
+    return request("GET", f"/shops/{SHOP_ID}/products/{product_id}.json")
+
+
+def refresh_existing(record, config):
     product_id = record.get("printify_product_id")
     if not product_id:
         return record
@@ -319,6 +354,7 @@ def refresh_existing(record):
         current = request("GET", f"/shops/{SHOP_ID}/products/{product_id}.json")
     except RuntimeError:
         return record
+    current = realign_existing_product(current, config)
     external_id = (current.get("external") or {}).get("id") or record.get("external_id")
     images = current.get("images") or []
     if external_id:
@@ -349,8 +385,9 @@ def main():
         state["products"] = {item["key"]: item for item in state["products"] if item.get("key")}
     products = state.setdefault("products", {})
 
+    configs = {config["key"]: config for config in PRODUCTS}
     for key in list(products):
-        products[key] = refresh_existing(products[key])
+        products[key] = refresh_existing(products[key], configs.get(key, {}))
     save_state(state)
 
     missing = [config for config in PRODUCTS if not products.get(config["key"], {}).get("product_url")]
