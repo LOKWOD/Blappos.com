@@ -1,0 +1,103 @@
+{
+  "updated_at": "2026-09-11T16:28:40Z",
+  "products": [
+    {
+      "key": "logo-tee",
+      "title": "Blappos Logo Tee",
+      "category": "T-Shirt",
+      "blurb": "The Blappos logo on a proper everyday tee. Bad news, breathable cotton.",
+      "price": "$24.99",
+      "printify_product_id": "6aa42b8dea8563252102443a",
+      "external_id": "31878446",
+      "product_url": "https://blappos.printify.me/product/31878446",
+      "image": "https://images-api.printify.com/mockup/6aa42b8dea8563252102443a/18158/102044/blappos-logo-tee.jpg?camera_label=front-2",
+      "provider": "Monster Digital",
+      "blueprint_id": 12,
+      "variant_count": 30
+    },
+    {
+      "key": "logo-hoodie",
+      "title": "Blappos Logo Hoodie",
+      "category": "Hoodie",
+      "blurb": "Heavy logo hoodie for weather, bad headlines, and questionable decisions.",
+      "price": "$49.99",
+      "printify_product_id": "6aa42ba654b819ae04075728",
+      "external_id": "31878459",
+      "product_url": "https://blappos.printify.me/product/31878459",
+      "image": "https://images-api.printify.com/mockup/6aa42ba654b819ae04075728/32920/98424/blappos-logo-hoodie.jpg?camera_label=front",
+      "provider": "Monster Digital",
+      "blueprint_id": 77,
+      "variant_count": 28
+    },
+    {
+      "key": "logo-crewneck",
+      "title": "Blappos Logo Crewneck",
+      "category": "Crewneck",
+      "blurb": "Old-school crewneck. New-school bad news.",
+      "price": "$39.99",
+      "printify_product_id": "6aa42bbcdaf08bc1180e3ebe",
+      "external_id": "31878468",
+      "product_url": "https://blappos.printify.me/product/31878468",
+      "image": "https://images-api.printify.com/mockup/6aa42bbcdaf08bc1180e3ebe/25459/98502/blappos-logo-crewneck.jpg?camera_label=front",
+      "provider": "Monster Digital",
+      "blueprint_id": 49,
+      "variant_count": 28
+    },
+    {
+      "key": "logo-trucker",
+      "title": "Blappos Trucker Hat",
+      "category": "Hat",
+      "blurb": "Foam-front trucker hat for broadcasting poor judgment from a distance.",
+      "price": "$24.99",
+      "printify_product_id": "6aa42bcd9cda09fbe401b09f",
+      "external_id": "31878476",
+      "product_url": "https://blappos.printify.me/product/31878476",
+      "image": "https://images-api.printify.com/mockup/6aa42bcd9cda09fbe401b09f/118551/109489/blappos-trucker-hat.jpg?camera_label=front",
+      "provider": "Printful",
+      "blueprint_id": 1735,
+      "variant_count": 12
+    },
+    {
+      "key": "logo-mug",
+      "title": "Blappos Coffee Mug",
+      "category": "Mug",
+      "blurb": "Coffee tastes more responsible when the mug clearly is not.",
+      "price": "$16.99",
+      "printify_product_id": "6aa42be5ba5d56b77c08e8e7",
+      "external_id": "31878483",
+      "product_url": "https://blappos.printify.me/product/31878483",
+      "image": "https://images-api.printify.com/mockup/6aa42be5ba5d56b77c08e8e7/72180/102752/blappos-coffee-mug.jpg?camera_label=front",
+      "provider": "District Photo",
+      "blueprint_id": 635,
+      "variant_count": 8
+    },
+    {
+      "key": "logo-sticker",
+      "title": "Blappos Logo Sticker",
+      "category": "Sticker",
+      "blurb": "Put Blappos on laptops, coolers, toolboxes, or anything else with standards to lower.",
+      "price": "$5.99",
+      "printify_product_id": "6aa42bf45355031639025a05",
+      "external_id": "31878487",
+      "product_url": "https://blappos.printify.me/product/31878487",
+      "image": "https://images-api.printify.com/mockup/6aa42bf45355031639025a05/72007/14860/blappos-logo-sticker.jpg?camera_label=front",
+      "provider": "Printed Simply",
+      "blueprint_id": 600,
+      "variant_count": 2
+    },
+    {
+      "key": "logo-tumbler",
+      "title": "Blappos 20oz Tumbler",
+      "category": "Tumbler",
+      "blurb": "Twenty ounces of hydration wrapped in the visual equivalent of a bad idea.",
+      "price": "$27.99",
+      "printify_product_id": "6aa42c0357bd6d9dfc080542",
+      "external_id": "31878494",
+      "product_url": "https://blappos.printify.me/product/31878494",
+      "image": "https://images-api.printify.com/mockup/6aa42c0357bd6d9dfc080542/108297/104182/blappos-20oz-tumbler.jpg?camera_label=front",
+      "provider": "Fulfill Engine",
+      "blueprint_id": 1507,
+      "variant_count": 3
+    }
+  ]
+}
