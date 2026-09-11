@@ -2,10 +2,6 @@ name: Test automated Blappos magnet
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - scripts/printify_sync.py
-      - .github/workflows/printify-test.yml
 
 permissions:
   contents: write
