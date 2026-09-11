@@ -10,6 +10,17 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 - Verify every factual recap against the linked reporting before publishing.
 - Every story card must look like a distressed mid-century American souvenir magnet: limited ink colors, halftone texture, chipped or rusty rounded edges, and prominent location lettering. No glossy 3D, photorealistic, neon, or generic modern card art.
 
+### Physical Blappos magnets — non-negotiable purchase gate
+
+- Every new story must have its own real purchasable physical Blappos magnet before the story is considered complete.
+- Create and publish the matching product through the repository's Printify automation using the final approved story artwork. Never use an SVG placeholder, temporary art, or a different story's artwork for a new product unless the story itself is an exact duplicate.
+- Every published story object must contain a working `magnetUrl` and `magnetPrice`.
+- The story modal must display the visible `BUY THIS MAGNET` purchase CTA, and the story artwork may also link directly to the exact matching Printify product.
+- Verify that the purchase URL opens the correct story magnet and that the storefront product is actually purchasable before considering the daily update finished.
+- If Printify creation fails, the product URL is missing, or the link opens the wrong product, do not publish that story until it is corrected.
+- Current standard retail price is `$9.99` unless intentionally changed in the Printify product configuration.
+- A daily edition is not complete until every new story passes this physical-magnet purchase gate.
+
 ### Amazon products — non-negotiable daily gate
 
 - Every story must include exactly three Amazon products. Three products across the whole daily edition is not enough.
