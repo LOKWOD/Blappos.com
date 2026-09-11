@@ -30,7 +30,7 @@ jobs:
         run: node scripts/generate_search_assets.mjs
       - name: Commit generated search assets
         run: |
-          if git diff --quiet -- sitemap.xml robots.txt stories; then
+          if [ -z "$(git status --porcelain -- sitemap.xml robots.txt stories)" ]; then
             echo "Search assets are already current."
             exit 0
           fi
