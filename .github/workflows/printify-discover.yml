@@ -7,12 +7,13 @@ on:
       - .github/workflows/printify-discover.yml
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   discover:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Read safe Printify configuration
         env:
           PRINTIFY_API_TOKEN: ${{ secrets.PRINTIFY_API_TOKEN }}
