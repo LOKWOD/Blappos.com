@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   push:
     paths:
+      - daily-data.js
+      - archive-data.js
+      - assets/cards/**
       - .github/workflows/printify-all-magnets.yml
 
 permissions:
@@ -15,6 +18,7 @@ concurrency:
 
 jobs:
   create-all-missing-magnets:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     timeout-minutes: 180
     steps:
