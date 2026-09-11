@@ -76,7 +76,7 @@ const ponyCollection={
  date:'Sep 10, 2026',
  place:'Lowestoft, England',
  image:'assets/cards/sep10-pony-collection.webp',
- title:'Denied one horse, woman acquires 7,500 ponies instead',
+ title:'Denied one horse, woman acquires 7,500 ponies instead',magnetUrl:'https://blappos.printify.me/product/31873563',magnetPrice:'$9.99',
  facts:'Miranda Worby of Lowestoft, England, earned a Guinness World Record after 4,550 My Little Pony items were officially counted. She told People that the collection has since grown to around 7,500 pieces, filling a room and a storage unit.',
  why:'Worby began collecting the toys at age three and started hunting seriously for missing pieces in 1997. The record is a spectacular example of how a childhood “no” can become a decades-long cataloging operation.',
  angle:'Her parents declined to buy one horse. The appeal process has now produced roughly 7,499 additional exhibits and an off-site evidence locker.',
