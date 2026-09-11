@@ -36,3 +36,11 @@ Every generated story page includes native sharing plus text, Facebook, X, Reddi
 email and copy-link controls. Sharing always uses the permanent story URL so social
 previews carry the matching headline and story illustration. This is regenerated for
 every daily batch along with the sitemap.
+
+### Homepage Ridiculous Finds — permanent rotation rule
+
+- Render exactly three homepage finds only when they can come from three different stories; never show multiple homepage products from the same story in one rotation.
+- Build the pool automatically from story-level Amazon products in the current seven-day story window. Do not maintain a separate static homepage product list.
+- Rotate the visible selection every six hours and whenever newer stories are published.
+- Prefer products with stronger realistic purchase appeal using a numeric `salesPriority` from 1–5, while still requiring direct story relevance, exact product photos, exact `/dp/ASIN` destinations, and `tag=blappos-20`.
+- If fewer than three distinct eligible stories exist, show fewer than three products instead of repeating a story.
