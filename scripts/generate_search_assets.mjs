@@ -45,6 +45,26 @@ function isoDate(story) {
   return Number.isNaN(parsed.valueOf()) ? '2026-01-01' : parsed.toISOString().slice(0, 10);
 }
 
+function shareMarkup(story, canonical) {
+  const title = `${story.title} — Blappos`;
+  const encodedUrl = encodeURIComponent(canonical);
+  const encodedTitle = encodeURIComponent(title);
+  const message = encodeURIComponent(`${title}\n${canonical}`);
+  return `<section class="story-share" aria-label="Share this story">
+          <span>SPREAD THE BAD NEWS</span><h2>Share this disaster</h2>
+          <p>Send the permanent story link—with this story’s illustration—to somebody who needs to see it.</p>
+          <div class="story-share-links">
+            <button class="share-primary" type="button" data-share-native>SHARE ↗</button>
+            <a href="sms:?&body=${message}">TEXT</a>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}" target="_blank" rel="noopener">FACEBOOK</a>
+            <a href="https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}" target="_blank" rel="noopener">X</a>
+            <a href="https://www.reddit.com/submit?url=${encodedUrl}&title=${encodedTitle}" target="_blank" rel="noopener">REDDIT</a>
+            <a href="mailto:?subject=${encodedTitle}&body=${message}">EMAIL</a>
+            <button type="button" data-copy-link>COPY LINK</button>
+          </div><span class="share-status" aria-live="polite"></span>
+        </section>`;
+}
+
 const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadStories('daily-data.js', 'dailyStories')]
   .filter((story, index, list) => story.id && list.findIndex(item => item.id === story.id) === index);
 
@@ -71,6 +91,10 @@ for (const story of stories) {
   <meta property="og:description" content="${escapeHtml(description)}">
   <meta property="og:url" content="${canonical}">
   <meta property="og:image" content="${image}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="${escapeHtml(story.title)} — Blappos">
+  <meta name="twitter:description" content="${escapeHtml(description)}">
+  <meta name="twitter:image" content="${image}">
   <meta property="article:published_time" content="${isoDate(story)}">
   <meta name="theme-color" content="#d94a2b">
   <link rel="stylesheet" href="../../styles.css">
@@ -88,10 +112,24 @@ for (const story of stories) {
         <h2>The Blappos angle</h2><p>${escapeHtml(story.angle || story.title)}</p>
         <a class="source" href="${escapeHtml(story.source)}" target="_blank" rel="noopener">${escapeHtml(story.sourceName || 'Read the reporting')} ↗</a>
         <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting.</p>
+        ${shareMarkup(story, canonical)}
         <p><a class="button" href="../../#${escapeHtml(story.id)}">View this story on Blappos</a></p>
       </div>
     </article>
   </main>
+  <script>
+    const shareUrl = document.querySelector('link[rel="canonical"]').href;
+    async function copyLink(button) {
+      try { await navigator.clipboard.writeText(shareUrl); }
+      catch { const field=document.createElement('textarea');field.value=shareUrl;field.style.position='fixed';field.style.opacity='0';document.body.append(field);field.select();document.execCommand('copy');field.remove(); }
+      button.closest('.story-share').querySelector('.share-status').textContent='LINK COPIED';
+    }
+    document.querySelector('[data-share-native]').addEventListener('click', async event => {
+      if (navigator.share) { try { await navigator.share({title:document.title,text:'The story behind this Blappos disaster.',url:shareUrl});return; } catch (error) { if (error.name==='AbortError') return; } }
+      await copyLink(event.currentTarget);
+    });
+    document.querySelector('[data-copy-link]').addEventListener('click', event => copyLink(event.currentTarget));
+  </script>
 </body>
 </html>
 `;
