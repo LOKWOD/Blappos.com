@@ -1,0 +1,38 @@
+name: Printify configuration check
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/printify-discover.yml
+
+permissions:
+  contents: read
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read safe Printify configuration
+        env:
+          PRINTIFY_API_TOKEN: ${{ secrets.PRINTIFY_API_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "$PRINTIFY_API_TOKEN"
+          shops=$(curl --fail --silent --show-error \
+            -H "Authorization: Bearer $PRINTIFY_API_TOKEN" \
+            "https://api.printify.com/v1/shops.json")
+          shop_id=$(printf '%s' "$shops" | jq -r '.[] | select((.title | ascii_downcase) == "blappos") | .id' | head -1)
+          if [ -z "$shop_id" ] || [ "$shop_id" = "null" ]; then
+            echo "Blappos shop was not found."
+            printf '%s' "$shops" | jq -r '.[] | "Available shop: id=\(.id) title=\(.title) channel=\(.sales_channel)"'
+            exit 1
+          fi
+          echo "PRINTIFY_SHOP_ID=$shop_id"
+          echo "PRINTIFY_SHOPS:"
+          printf '%s' "$shops" | jq -r '.[] | "id=\(.id) title=\(.title) channel=\(.sales_channel)"'
+          products=$(curl --fail --silent --show-error \
+            -H "Authorization: Bearer $PRINTIFY_API_TOKEN" \
+            "https://api.printify.com/v1/shops/$shop_id/products.json")
+          echo "PRINTIFY_PRODUCTS:"
+          printf '%s' "$products" | jq -r '.data[] | "id=\(.id) title=\(.title) blueprint=\(.blueprint_id) provider=\(.print_provider_id) visible=\(.visible) variants=\([.variants[] | select(.is_enabled) | .id] | join(","))"'
