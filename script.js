@@ -82,10 +82,6 @@ function rotatingHomepageFinds(){
   if(chosen.length===3)break;
   if(!chosen.some(pick=>pick.storyId===item.storyId))chosen.push(item);
  }
- for(const item of rotated){
-  if(chosen.length===3)break;
-  if(!chosen.some(pick=>pick.url===item.url))chosen.push(item);
- }
  return chosen;
 }
 if(findsGrid){findsGrid.innerHTML=rotatingHomepageFinds().map(find=>{const story=allStories.find(item=>item.id===find.storyId);const url=taggedAmazonUrl(find.url);return `<article class="find-card"><a class="find-image" href="${url}" target="_blank" rel="sponsored nofollow noopener"><img src="${find.image}" alt="${find.alt||find.title}" width="600" height="600" loading="lazy"></a><div class="find-copy"><span>RIDICULOUSLY RELEVANT TO</span><button data-story="${find.storyId}">${story?.title||'Today’s story'} →</button><h3>${find.title}</h3><p>${find.quip}</p><a class="shop-link" href="${url}" target="_blank" rel="sponsored nofollow noopener">SEE THE EXACT ITEM ON AMAZON ↗</a></div></article>`}).join('')}
