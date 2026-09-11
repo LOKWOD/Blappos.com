@@ -8,6 +8,17 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 
 - Publish three to ten non-duplicate stories from the previous day.
 - Verify every factual recap against the linked reporting before publishing.
+
+### Magnet desirability — non-negotiable story-selection gate
+
+- A story does not qualify merely because it is strange or funny. Before commissioning art, confirm that its premise can become a magnet somebody would want to buy, give, and keep on display after the news cycle ends.
+- The finished concept must work without the article: one instantly recognizable central subject, one short punchline readable across a kitchen, and an image with enough charm, personality, identity, hobby, occupation, location, or gift appeal to stand on its own.
+- Prefer animals, food, vehicles, travel, records, local pride, work and family humor, and absurd everyday situations with a strong visual action. Reject grim tragedy, partisan bait, niche technical context, weak visual premises, and jokes that require a paragraph of explanation.
+- Score every candidate from 1–5 for visual clarity, punchline strength, giftability, broad appeal, and evergreen display value. Publish only stories scoring at least 18/25, with no category below 3.
+- If the available news does not produce a buyable magnet concept, publish fewer stories instead of padding the edition.
+
+### Visual system — non-negotiable collection gate
+
 - Every story card must use the established Blappos magnet system. Before approving new art, compare it directly with `sep10-narrowest-car.webp`, `sep10-pony-collection.webp`, and `sep10-tallest-horse.webp`; these are the permanent visual references.
 - Required construction: a rounded square rusty metal/enamel sign, thick weathered cream-and-rust perimeter, one visible dark mounting rivet in every corner, a navy location banner across the top, one detailed humorous mid-century scene in the center, and a contrasting navy or brick-red punchline banner across the bottom.
 - Required illustration character: richly painted 1940s–1950s American magazine-ad realism with expressive people, story-specific props, weathered navy/cream/brick-red/mustard/dusty-blue color, and authentic chipped enamel and oxidation. It must not look like a flat vector screenprint, propaganda poster, generic retro graphic, modern ad, or clean digital illustration.
