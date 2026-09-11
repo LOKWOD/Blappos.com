@@ -1,0 +1,113 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import vm from 'node:vm';
+import { fileURLToPath } from 'node:url';
+
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const origin = 'https://blappos.com';
+
+function loadStories(file, variable) {
+  const source = fs.readFileSync(path.join(root, file), 'utf8');
+  const context = { window: {} };
+  vm.createContext(context);
+  vm.runInContext(source, context, { filename: file });
+  return context.window[variable] || [];
+}
+
+function escapeHtml(value = '') {
+  return String(value)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}
+
+function escapeXml(value = '') {
+  return escapeHtml(value);
+}
+
+function absoluteImage(story) {
+  const aliases = {
+    'jan-caracas': 'caracas',
+    'jan-minnesota': 'minneapolis',
+    'feb-shutdown': 'washington',
+    'may-longview': 'longview',
+    'sep-typhoon': 'coastal-china',
+    'sep-nepal': 'nepal'
+  };
+  return `${origin}/${story.image || `assets/cards/${aliases[story.id] || story.id}.webp`}`;
+}
+
+function isoDate(story) {
+  if (story.isoDate) return story.isoDate;
+  const parsed = new Date(`${story.date}, 2026 12:00:00 UTC`);
+  return Number.isNaN(parsed.valueOf()) ? '2026-01-01' : parsed.toISOString().slice(0, 10);
+}
+
+const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadStories('daily-data.js', 'dailyStories')]
+  .filter((story, index, list) => story.id && list.findIndex(item => item.id === story.id) === index);
+
+const storiesDir = path.join(root, 'stories');
+fs.rmSync(storiesDir, { recursive: true, force: true });
+fs.mkdirSync(storiesDir, { recursive: true });
+
+for (const story of stories) {
+  const pageDir = path.join(storiesDir, story.id);
+  fs.mkdirSync(pageDir, { recursive: true });
+  const canonical = `${origin}/stories/${story.id}/`;
+  const description = story.facts || story.dek || story.angle || story.title;
+  const image = absoluteImage(story);
+  const html = `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>${escapeHtml(story.title)} — Blappos</title>
+  <meta name="description" content="${escapeHtml(description)}">
+  <link rel="canonical" href="${canonical}">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="${escapeHtml(story.title)} — Blappos">
+  <meta property="og:description" content="${escapeHtml(description)}">
+  <meta property="og:url" content="${canonical}">
+  <meta property="og:image" content="${image}">
+  <meta property="article:published_time" content="${isoDate(story)}">
+  <meta name="theme-color" content="#d94a2b">
+  <link rel="stylesheet" href="../../styles.css">
+</head>
+<body class="story-page">
+  <header class="masthead"><a class="logo" href="../../" aria-label="Blappos home"><img src="../../assets/blappos-logo.png" alt="Blappos — Bad news. Great magnet." width="900" height="600"></a></header>
+  <main>
+    <article class="story standalone-story">
+      <img src="${image}" alt="Satirical Blappos illustration: ${escapeHtml(story.title)}" width="1000" height="1000">
+      <div class="story-copy">
+        <span class="label">THE STORY BEHIND THE SATIRE · ${escapeHtml(story.place)} · ${escapeHtml(story.date)}</span>
+        <h1>${escapeHtml(story.title)}</h1>
+        <h2>What happened</h2><p>${escapeHtml(description)}</p>
+        <h2>Why it matters</h2><p>${escapeHtml(story.why || 'The event became part of a larger argument about public responsibility, power and the cost carried by ordinary people.')}</p>
+        <h2>The Blappos angle</h2><p>${escapeHtml(story.angle || story.title)}</p>
+        <a class="source" href="${escapeHtml(story.source)}" target="_blank" rel="noopener">${escapeHtml(story.sourceName || 'Read the reporting')} ↗</a>
+        <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting.</p>
+        <p><a class="button" href="../../#${escapeHtml(story.id)}">View this story on Blappos</a></p>
+      </div>
+    </article>
+  </main>
+</body>
+</html>
+`;
+  fs.writeFileSync(path.join(pageDir, 'index.html'), html);
+}
+
+const urls = [
+  { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
+  ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
+];
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map(({ loc, lastmod }) => `  <url><loc>${escapeXml(loc)}</loc><lastmod>${lastmod}</lastmod></url>`).join('\n')}
+</urlset>
+`;
+fs.writeFileSync(path.join(root, 'sitemap.xml'), sitemap);
+fs.writeFileSync(path.join(root, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${origin}/sitemap.xml\n`);
+
+console.log(`Generated ${stories.length} story pages and ${urls.length} sitemap URLs.`);

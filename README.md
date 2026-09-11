@@ -16,3 +16,8 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 ## Publishing
 
 The repository is dependency-free and ready for GitHub Pages from the `main` branch root.
+
+Every change to `daily-data.js` or `archive-data.js` automatically generates a permanent,
+indexable page for each story, updates `sitemap.xml`, and refreshes `robots.txt`. Submit
+`https://blappos.com/sitemap.xml` to Google Search Console once; future daily posts are
+included automatically.
