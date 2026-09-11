@@ -1,7 +1,11 @@
 const dailyStories=window.dailyStories||[];
 const baseArchive=window.archiveStories||[];
 const latestIso=[...new Set(dailyStories.map(story=>story.isoDate).filter(Boolean))].sort().at(-1);
-const stories=latestIso?dailyStories.filter(story=>story.isoDate===latestIso):baseArchive.slice(-8).reverse();
+const latestDate=latestIso?new Date(`${latestIso}T12:00:00Z`):null;
+const weekStart=latestDate?new Date(latestDate.getTime()-6*24*60*60*1000).toISOString().slice(0,10):null;
+const stories=latestIso?dailyStories
+ .filter(story=>story.isoDate&&story.isoDate>=weekStart&&story.isoDate<=latestIso)
+ .sort((a,b)=>b.isoDate.localeCompare(a.isoDate)):baseArchive.slice(-8).reverse();
 const monthOrder=['January','February','March','April','May','June','July','August','September','October','November','December'];
 const archiveStories=[...baseArchive,...dailyStories]
  .filter((story,index,list)=>list.findIndex(item=>item.id===story.id)===index)
