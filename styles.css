@@ -95,12 +95,16 @@ footer small{display:block;color:#aaa;margin-top:35px}
 
 .story-amazon{margin-top:30px;padding-top:24px;border-top:2px solid var(--ink)}
 .story-amazon h4{margin:0 0 14px}
-.story-amazon-links{display:grid;gap:10px}
-.story-amazon-link{display:grid;gap:5px;border:1px solid var(--ink);background:var(--cream);color:var(--ink);padding:14px 15px;text-decoration:none;transition:.18s}
-.story-amazon-link:hover{transform:translate(-2px,-2px);box-shadow:4px 4px 0 var(--ink);background:var(--gold)}
-.story-amazon-link span{color:var(--red);font-size:.58rem;font-weight:800;letter-spacing:.12em}
-.story-amazon-link strong{font:400 1.2rem/1.08 Anton,sans-serif;text-transform:uppercase}
-.story-amazon-link em{font:italic .78rem/1.35 "Libre Caslon Text",serif}
+.story-amazon-links{display:grid;gap:12px}
+.story-amazon-link{display:grid;grid-template-columns:112px 1fr;border:2px solid var(--ink);background:var(--paper);color:var(--ink);text-decoration:none;overflow:hidden;transition:.18s}
+.story-amazon-link:hover{transform:translate(-2px,-2px);box-shadow:5px 5px 0 var(--ink);background:#fff}
+.story-amazon-image{display:block;aspect-ratio:1;background:#fff;border-right:2px solid var(--ink)}
+.story-amazon-image img{position:static!important;width:100%!important;height:100%!important;object-fit:contain!important;background:#fff!important}
+.story-amazon-copy{display:flex;flex-direction:column;gap:5px;padding:12px}
+.story-amazon-copy small{color:var(--red);font-size:.58rem;font-weight:800;letter-spacing:.12em}
+.story-amazon-link strong{font:400 1.12rem/1.08 Anton,sans-serif;text-transform:uppercase}
+.story-amazon-link em{font:italic .76rem/1.35 "Libre Caslon Text",serif}
+.story-amazon-link b{margin-top:auto;color:var(--blue);font-size:.62rem;letter-spacing:.08em}
 .story-amazon-disclosure{margin:12px 0 0!important;font:400 .66rem/1.4 "DM Sans",sans-serif!important;color:#695f51}
 
 dialog{width:min(930px,94vw);max-height:92vh;border:2px solid var(--ink);padding:0;background:var(--paper);color:var(--ink);box-shadow:16px 18px 0 rgba(0,0,0,.3)}
@@ -141,3 +145,5 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .rules{gap:15px}
 .dispatch{padding-block:65px}
 }
+
+@media(max-width:420px){.story-amazon-link{grid-template-columns:90px 1fr}.story-amazon-copy{padding:10px}.story-amazon-link strong{font-size:1rem}}
