@@ -16,26 +16,41 @@ ALIASES = {
     "may-longview": "longview",
     "sep-typhoon": "coastal-china",
     "sep-nepal": "nepal",
+    # Sep. 11 duplicate headline reused the already-rendered tall-horse art.
+    "sep11-tallest-horse": "sep10-tallest-horse",
 }
 DATA_FILES = (Path("daily-data.js"), Path("archive-data.js"))
+RASTER_SUFFIXES = {".webp", ".jpg", ".jpeg", ".png"}
 
 
 def field(line, name):
-    match = re.search(rf"(?:\{{|,)\s*{name}:'([^']*)'", line)
-    return match.group(1) if match else None
+    """Read a JS object string field whether keys/values use single or double quotes."""
+    pattern = rf"(?:^|[{{,])\s*(?:\"{re.escape(name)}\"|'{re.escape(name)}'|{re.escape(name)})\s*:\s*([\"'])(.*?)\1"
+    match = re.search(pattern, line)
+    return match.group(2) if match else None
+
+
+def line_has_story(line, story_id):
+    return bool(re.search(rf"(?:\"id\"|'id'|id)\s*:\s*([\"']){re.escape(story_id)}\1", line))
 
 
 def image_for(story):
+    # Physical products must use a raster card, never an SVG placeholder/wrapper.
     if story.get("image"):
         path = Path(story["image"])
-        if path.exists():
+        if path.exists() and path.suffix.lower() in RASTER_SUFFIXES:
             return path
+        if path.suffix.lower() == ".svg":
+            raster = path.with_suffix(".webp")
+            if raster.exists():
+                return raster
+
     stem = ALIASES.get(story["id"], story["id"])
     for suffix in (".webp", ".jpg", ".jpeg", ".png"):
         path = Path("assets/cards") / f"{stem}{suffix}"
         if path.exists():
             return path
-    raise FileNotFoundError(f"No live card artwork found for {story['id']}")
+    raise FileNotFoundError(f"No live raster card artwork found for {story['id']}")
 
 
 def stories():
@@ -53,7 +68,7 @@ def stories():
                 "place": field(line, "place"),
                 "image": field(line, "image"),
                 "file": data_file,
-                "linked": "magnetUrl:" in line,
+                "linked": bool(re.search(r'(?:"magnetUrl"|\'magnetUrl\'|magnetUrl)\s*:', line)),
             })
     return found
 
@@ -61,16 +76,21 @@ def stories():
 def add_link(story, url):
     path = story["file"]
     lines = path.read_text().splitlines(keepends=True)
-    marker = f"{{id:'{story['id']}'"
     for index, line in enumerate(lines):
-        if marker not in line:
+        if not line_has_story(line, story["id"]):
             continue
-        if "magnetUrl:" in line:
+        if re.search(r'(?:"magnetUrl"|\'magnetUrl\'|magnetUrl)\s*:', line):
             return
-        title_match = re.search(r"title:'[^']*',", line)
+
+        title_match = re.search(r'(?:"title"|\'title\'|title)\s*:\s*([\"\'])(.*?)\1\s*,', line)
         if not title_match:
             raise RuntimeError(f"Could not place magnet link for {story['id']}")
-        insert = f"magnetUrl:'{url}',magnetPrice:'$9.99',"
+
+        double_style = bool(re.search(r'"id"\s*:', line))
+        if double_style:
+            insert = f'"magnetUrl":"{url}","magnetPrice":"$9.99",'
+        else:
+            insert = f"magnetUrl:'{url}',magnetPrice:'$9.99',"
         lines[index] = line[:title_match.end()] + insert + line[title_match.end():]
         path.write_text("".join(lines))
         return
