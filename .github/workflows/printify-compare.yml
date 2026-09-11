@@ -1,0 +1,32 @@
+name: Compare Printify products
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/printify-compare.yml
+
+permissions:
+  contents: write
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compare safe product fields
+        env:
+          PRINTIFY_API_TOKEN: ${{ secrets.PRINTIFY_API_TOKEN }}
+        run: |
+          set -euo pipefail
+          auth=(-H "Authorization: Bearer $PRINTIFY_API_TOKEN" -H "User-Agent: Blappos-Magnet-Automation/1.0")
+          curl --fail --silent --show-error "${auth[@]}" "https://api.printify.com/v1/shops/28900389/products/6aa39c2bae1c3c660b0c05f5.json" > /tmp/master.json
+          curl --fail --silent --show-error "${auth[@]}" "https://api.printify.com/v1/shops/28900389/products/6aa3a2a606ee22a850065853.json" > /tmp/test.json
+          jq -n --slurpfile master /tmp/master.json --slurpfile test /tmp/test.json 'def safe: {id,title,visible,is_locked,is_printify_express_eligible,external,variants:[.variants[]|{id,is_enabled,is_available,price,cost}],images:[.images[]|{position,is_default,variant_ids}]}; {master:($master[0]|safe),test:($test[0]|safe)}' > printify-compare.json
+      - name: Save comparison
+        run: |
+          git config user.name "blappos-automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add printify-compare.json
+          git commit -m "Record safe Printify product comparison"
+          git push
