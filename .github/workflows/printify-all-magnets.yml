@@ -37,3 +37,11 @@ jobs:
           python3 scripts/printify_bulk.py \
             --shop-id 28900389 \
             --template-id 6aa39c2bae1c3c660b0c05f5
+      - name: Refresh magnets whose approved artwork changed
+        env:
+          PRINTIFY_API_TOKEN: ${{ secrets.PRINTIFY_API_TOKEN }}
+        run: |
+          python3 scripts/printify_refresh_changed.py \
+            28900389 \
+            6aa39c2bae1c3c660b0c05f5 \
+            printify-products.json

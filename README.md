@@ -8,7 +8,11 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 
 - Publish three to ten non-duplicate stories from the previous day.
 - Verify every factual recap against the linked reporting before publishing.
-- Every story card must look like a distressed mid-century American souvenir magnet: limited ink colors, halftone texture, chipped or rusty rounded edges, and prominent location lettering. No glossy 3D, photorealistic, neon, or generic modern card art.
+- Every story card must use the established Blappos magnet system. Before approving new art, compare it directly with `sep10-narrowest-car.webp`, `sep10-pony-collection.webp`, and `sep10-tallest-horse.webp`; these are the permanent visual references.
+- Required construction: a rounded square rusty metal/enamel sign, thick weathered cream-and-rust perimeter, one visible dark mounting rivet in every corner, a navy location banner across the top, one detailed humorous mid-century scene in the center, and a contrasting navy or brick-red punchline banner across the bottom.
+- Required illustration character: richly painted 1940s–1950s American magazine-ad realism with expressive people, story-specific props, weathered navy/cream/brick-red/mustard/dusty-blue color, and authentic chipped enamel and oxidation. It must not look like a flat vector screenprint, propaganda poster, generic retro graphic, modern ad, or clean digital illustration.
+- The top line is the place; the bottom line is the joke. Both use large condensed vintage uppercase lettering and remain completely inside wide print-safe margins. No extra captions, clipped letters, white corner wedges, missing rivets, logos, watermarks, or edge content that Printify could crop.
+- This visual-conformity review is a non-negotiable daily gate. If a card would look like it came from a different collection when placed beside the three reference cards, reject and regenerate it before publishing the story or creating its magnet.
 
 ### Physical Blappos magnets — non-negotiable purchase gate
 
@@ -20,6 +24,7 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 - If Printify creation fails, the product URL is missing, or the link opens the wrong product, do not publish that story until it is corrected.
 - Current standard retail price is `$9.99` unless intentionally changed in the Printify product configuration.
 - A daily edition is not complete until every new story passes this physical-magnet purchase gate.
+- Replacing approved card artwork must automatically refresh the corresponding existing Printify product; the website card and physical magnet may never show different artwork.
 
 ### Amazon products — non-negotiable daily gate
 
