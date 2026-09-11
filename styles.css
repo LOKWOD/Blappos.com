@@ -127,6 +127,15 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .story-copy p{font-family:"Libre Caslon Text",serif;line-height:1.65}
 .story-copy .source{display:inline-block;background:var(--red);color:white;padding:14px 17px;margin-top:18px;text-decoration:none;font-size:.7rem;font-weight:800;letter-spacing:.08em}
 .disclosure{font-size:.7rem!important;color:#695f51;border-top:1px solid var(--line);padding-top:18px;margin-top:28px}
+.story-share{margin-top:28px;padding:22px;border:3px solid var(--ink);background:var(--blue);color:#fff;box-shadow:7px 7px 0 var(--ink)}
+.story-share>span:first-child{display:block;color:var(--gold);font:800 .75rem/1.2 "DM Sans",sans-serif;letter-spacing:.13em}
+.story-copy .story-share h4,.story-copy .story-share h2{margin:7px 0;font:400 1.75rem/1 Anton,sans-serif;color:#fff;text-transform:uppercase}
+.story-copy .story-share p{margin:8px 0 16px;font:400 1rem/1.45 "Libre Caslon Text",serif}
+.story-share-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}
+.story-share-links a,.story-share-links button{display:flex;align-items:center;justify-content:center;min-height:44px;padding:10px 7px;border:2px solid var(--ink);background:var(--paper);color:var(--ink);font:800 .75rem/1 "DM Sans",sans-serif;letter-spacing:.04em;text-decoration:none;cursor:pointer}
+.story-share-links .share-primary{grid-column:span 2;background:var(--gold)}
+.story-share-links a:hover,.story-share-links button:hover{background:#fff;transform:translate(-1px,-1px)}
+.share-status{min-height:1em;margin-top:10px;color:var(--gold);font:800 .75rem/1.2 "DM Sans",sans-serif;letter-spacing:.1em}
 @media(max-width:850px){.masthead{grid-template-columns:1fr auto}
 .masthead nav a:last-child{display:none}
 .hero{grid-template-columns:1fr;padding:70px 6vw}
@@ -156,6 +165,7 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 }
 
 @media(max-width:420px){.story-amazon-link{grid-template-columns:90px 1fr}.story-amazon-copy{padding:10px}.story-amazon-link strong{font-size:1rem}}
+@media(max-width:420px){.story-share-links{grid-template-columns:repeat(2,minmax(0,1fr))}.story-share-links .share-primary{grid-column:span 2}}
 
 /* Site-only cleanup for artwork with white corner fill. The source image stays unchanged for Printify. */
 .hero-card img{mix-blend-mode:multiply}
