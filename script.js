@@ -15,8 +15,8 @@ const dailyFinds=window.dailyFinds||[];
 const affiliateTag='blappos-20';
 function taggedAmazonUrl(rawUrl){try{const url=new URL(rawUrl);if(url.hostname==='amazon.com'||url.hostname.endsWith('.amazon.com')){url.searchParams.set('tag',affiliateTag);return url.href}}catch{}return rawUrl}
 function amazonLinksForStory(story){
- const verified=dailyFinds.filter(find=>find.storyId===story.id).map(find=>({title:find.title,quip:find.quip,image:find.image,alt:find.alt,url:taggedAmazonUrl(find.url)}));
- const supplied=(story.amazonLinks||[]).map(item=>({title:item.title,quip:item.quip,image:item.image,alt:item.alt,url:taggedAmazonUrl(item.url)}));
+ const verified=dailyFinds.filter(find=>find.storyId===story.id).map(find=>({title:find.title,quip:find.quip,image:find.image,alt:find.alt,salesPriority:find.salesPriority,url:taggedAmazonUrl(find.url)}));
+ const supplied=(story.amazonLinks||[]).map(item=>({title:item.title,quip:item.quip,image:item.image,alt:item.alt,salesPriority:item.salesPriority,url:taggedAmazonUrl(item.url)}));
  return [...verified,...supplied]
   .filter((item,index,list)=>item.title&&item.image&&item.url&&/amazon\.com\/dp\//.test(item.url)&&list.findIndex(other=>other.url===item.url)===index)
   .slice(0,3);
