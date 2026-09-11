@@ -322,10 +322,12 @@ def realign_existing_product(current, config):
     print_areas = current.get("print_areas") or []
     changed = False
     for area in print_areas:
-        for placeholder in area.get("placeholders") or []:
-            # Printify omits ``images`` on unused garment zones in GET responses,
-            # but requires the field to be present when the same payload is PUT.
-            images = placeholder.setdefault("images", [])
+        # GET includes empty, unused zones (back/sleeves), while PUT rejects them.
+        # Send only zones that actually contain artwork.
+        placeholders = [p for p in area.get("placeholders") or [] if p.get("images")]
+        area["placeholders"] = placeholders
+        for placeholder in placeholders:
+            images = placeholder["images"]
             for image in images:
                 if image.get("y") != target_y:
                     image["y"] = target_y
