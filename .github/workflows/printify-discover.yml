@@ -37,3 +37,11 @@ jobs:
             "https://api.printify.com/v1/shops/$shop_id/products.json")
           echo "PRINTIFY_PRODUCTS:"
           printf '%s' "$products" | jq -r '.data[] | "id=\(.id) title=\(.title) blueprint=\(.blueprint_id) provider=\(.print_provider_id) visible=\(.visible) variants=\([.variants[] | select(.is_enabled) | .id] | join(","))"'
+          printf '%s' "$products" | jq --argjson shop_id "$shop_id" '{shop_id:$shop_id,products:[.data[]|{id,title,blueprint_id,print_provider_id,visible,enabled_variant_ids:[.variants[]|select(.is_enabled)|.id]}]}' > printify-config.json
+      - name: Save safe configuration
+        run: |
+          git config user.name "blappos-automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add printify-config.json
+          git commit -m "Record safe Printify product configuration"
+          git push
