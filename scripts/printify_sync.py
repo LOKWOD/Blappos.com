@@ -23,6 +23,7 @@ def request(method, path, token, payload=None):
         headers={
             "Authorization": f"Bearer {token}",
             "Content-Type": "application/json",
+            "User-Agent": "Blappos-Magnet-Automation/1.0",
         },
     )
     try:
