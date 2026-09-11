@@ -9,9 +9,19 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 - Publish three to ten non-duplicate stories from the previous day.
 - Verify every factual recap against the linked reporting before publishing.
 - Every story card must look like a distressed mid-century American souvenir magnet: limited ink colors, halftone texture, chipped or rusty rounded edges, and prominent location lettering. No glossy 3D, photorealistic, neon, or generic modern card art.
-- Include exactly three ridiculous Amazon products per daily edition. Each product must connect directly to a named story and use its exact title, matching product photograph, and product-detail URL.
-- Amazon URLs use the `blappos-20` affiliate tag, links use `rel="sponsored nofollow noopener"`, and the affiliate disclosure remains visible beside the products.
-- Never place generic Amazon search links inside every story.
+
+### Amazon products — non-negotiable daily gate
+
+- Every story must include exactly three Amazon products. Three products across the whole daily edition is not enough.
+- Each product must connect directly to the central subject or exact event in that story. Matching only a broad category such as “funny,” “travel,” “animals,” or “cars” does not qualify.
+- Before publishing, write a one-sentence reason the product belongs with that specific story. If the reason could be reused unchanged on an unrelated story, reject the product.
+- Prefer products that solve, imitate, parody, measure, protect against, or recreate a specific detail from the story.
+- Do not use generic novelty filler, convenient products already used on unrelated cards, or loosely associated impulse items.
+- Every link must open an active Amazon product-detail page for that exact item—not a search page, category page, video, or substitute product.
+- Use the exact current product title and the photograph from that same product listing. The image, title, ASIN and destination URL must all describe the same item.
+- Verify all three product pages and all three images immediately before publishing. If any item is unavailable, mismatched, broken or weakly relevant, replace it before the story goes live.
+- Amazon URLs must include the `blappos-20` affiliate tag. Links use `rel="sponsored nofollow noopener"`, and the affiliate disclosure remains visible beside the products.
+- A daily edition is not complete until every new story passes this Amazon-product gate.
 
 ## Publishing
 
