@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Blappos — Bad News. Great Magnet.</title>
   <meta name="description" content="The news is absurd. We make the souvenir. Daily illustrated satire cards with the real story one click away.">
+  <link rel="canonical" href="https://blappos.com/">
+  <link rel="icon" type="image/png" href="assets/blappos-logo.png">
+  <link rel="apple-touch-icon" href="assets/blappos-logo.png">
   <meta property="og:title" content="Blappos — Bad News. Great Magnet.">
   <meta property="og:description" content="One ridiculous headline. One collectible card. The real story underneath.">
   <meta property="og:type" content="website">
@@ -22,12 +25,14 @@
   <meta name="twitter:image" content="https://blappos.com/assets/blappos-social-preview.png">
   <meta name="theme-color" content="#d94a2b">
   <link rel="preload" href="assets/blappos-logo.png" as="image">
-  <link rel="stylesheet" href="styles.css?v=20260911-story-sharing">
+  <link rel="stylesheet" href="styles.css?v=20260911-full-audit-fix">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Blappos","url":"https://blappos.com/","description":"Daily illustrated satire cards with sourced reporting, collectible magnets, and ridiculously relevant finds.","publisher":{"@type":"Organization","name":"Blappos","url":"https://blappos.com/","logo":{"@type":"ImageObject","url":"https://blappos.com/assets/blappos-logo.png"}}}</script>
 </head>
 <body>
   <header class="masthead">
     <a class="logo" href="#top" aria-label="Blappos home"><img src="assets/blappos-logo.png" alt="Blappos — Bad news. Great magnet." width="900" height="600"></a>
-    <nav aria-label="Primary"><a href="#latest">Latest</a><a href="https://blappos.printify.me" target="_blank" rel="noopener">Shop magnets</a><a href="#ridiculous-finds">Ridiculous finds</a><a href="#archive">Archive</a><a href="#about">What is this?</a></nav>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+    <nav id="primary-nav" aria-label="Primary"><a href="#latest">Latest</a><a href="https://blappos.printify.me" target="_blank" rel="noopener">Shop magnets</a><a href="#ridiculous-finds">Ridiculous finds</a><a href="#archive">Archive</a><a href="#about">What is this?</a></nav>
   </header>
   <main id="top">
     <section class="hero">
@@ -37,10 +42,10 @@
         <p>The world keeps making terrible postcards. We just add the lettering.</p>
         <a class="button" href="#latest">SEE TODAY’S DAMAGE <span>↓</span></a>
       </div>
-      <button class="hero-card" data-story="sep9-airforce-slide" aria-label="Read the featured Blappos story">
+      <a class="hero-card" href="stories/sep9-airforce-slide/" data-story="sep9-airforce-slide" aria-label="Read the featured Blappos story">
         <img src="assets/cards/sep9-airforce-slide.webp" alt="Featured Blappos illustration of the Air Force One emergency slide" width="1000" height="1000">
         <span>Today’s featured bad trip</span>
-      </button>
+      </a>
     </section>
     <section class="marquee" aria-label="Blappos format"><div>ONE HEADLINE ★ ONE IMAGE ★ ONE PUNCHLINE ★ THEN THE ACTUAL FACTS ★</div></section>
     <section id="latest" class="feed">
@@ -77,7 +82,7 @@
     </section>
     <section class="dispatch">
       <div><span>COMING NEXT</span><h2>A fresh disaster in your inbox.</h2></div>
-      <p>Daily dispatch is on deck. Every Blappos card is now available as a real magnet.</p>
+      <p>New sourced satire lands here daily. Every available Blappos magnet is collected in the shop.</p>
     </section>
   </main>
   <footer><a class="logo" href="#top" aria-label="Blappos home"><img src="assets/blappos-logo.png" alt="Blappos — Bad news. Great magnet." width="900" height="600"></a><p>Illustrated satire. Actual sources. Zero chill.</p><small>© 2026 Blappos. Satirical illustrations are commentary, not documentary images. As an Amazon Associate, Blappos may earn from qualifying purchases.</small></footer>
@@ -86,8 +91,8 @@
     <div id="story-content"></div>
   </dialog>
   <script src="archive-data.js?v=20260911-all-magnets"></script>
-  <script src="daily-data.js?v=20260911-two-more-stories"></script>
-  <script src="script.js?v=20260911-permanent-find-rotation"></script>
+  <script src="daily-data.js?v=20260911-source-and-seo-fix"></script>
+  <script src="script.js?v=20260911-full-audit-fix"></script>
   <!-- Blappos logo published: 2026-09-11 -->
 </body>
 </html>

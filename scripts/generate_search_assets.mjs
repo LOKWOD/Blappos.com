@@ -65,6 +65,26 @@ function shareMarkup(story, canonical) {
         </section>`;
 }
 
+function magnetMarkup(story) {
+  if (!story.magnetUrl) return '';
+  return `<section class="story-magnet" aria-label="Buy this Blappos magnet">
+          <span>NOW A PHYSICAL OBJECT</span><h2>Put this disaster on your refrigerator.</h2>
+          <p>A 3-inch square Blappos magnet, printed to order and shipped by Printify.</p>
+          <a href="${escapeHtml(story.magnetUrl)}" target="_blank" rel="noopener">BUY THIS MAGNET — ${escapeHtml(story.magnetPrice || '$9.99')} ↗</a>
+          <small>Shipping calculated by Printify.</small>
+        </section>`;
+}
+
+function amazonMarkup(story) {
+  const links = (story.amazonLinks || []).filter(item => item.title && item.image && item.url).slice(0, 3);
+  if (!links.length) return '';
+  return `<section class="story-amazon" aria-label="Relevant Amazon finds">
+          <h2>${links.length === 3 ? 'Three ridiculously relevant Amazon finds' : 'Ridiculously relevant Amazon finds'}</h2>
+          <div class="story-amazon-links">${links.map((item, index) => `<a class="story-amazon-link" href="${escapeHtml(item.url)}" target="_blank" rel="sponsored nofollow noopener"><span class="story-amazon-image"><img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.alt || item.title)}" width="320" height="320" loading="lazy"></span><span class="story-amazon-copy"><small>AMAZON FIND 0${index + 1}</small><strong>${escapeHtml(item.title)}</strong><em>${escapeHtml(item.quip)}</em><b>SEE THE EXACT ITEM →</b></span></a>`).join('')}</div>
+          <p class="story-amazon-disclosure">As an Amazon Associate, Blappos may earn from qualifying purchases. Product availability and pricing can change.</p>
+        </section>`;
+}
+
 const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadStories('daily-data.js', 'dailyStories')]
   .filter((story, index, list) => story.id && list.findIndex(item => item.id === story.id) === index);
 
@@ -78,6 +98,14 @@ for (const story of stories) {
   const canonical = `${origin}/stories/${story.id}/`;
   const description = story.facts || story.dek || story.angle || story.title;
   const image = absoluteImage(story);
+  const schema = JSON.stringify({
+    '@context': 'https://schema.org', '@type': 'Article',
+    headline: story.title, description, image: [image],
+    datePublished: isoDate(story), dateModified: isoDate(story),
+    mainEntityOfPage: canonical,
+    author: { '@type': 'Organization', name: 'Blappos', url: origin },
+    publisher: { '@type': 'Organization', name: 'Blappos', url: origin, logo: { '@type': 'ImageObject', url: `${origin}/assets/blappos-logo.png` } }
+  }).replaceAll('<', '\\u003c');
   const html = `<!doctype html>
 <html lang="en">
 <head>
@@ -97,7 +125,10 @@ for (const story of stories) {
   <meta name="twitter:image" content="${image}">
   <meta property="article:published_time" content="${isoDate(story)}">
   <meta name="theme-color" content="#d94a2b">
+  <link rel="icon" type="image/png" href="../../assets/blappos-logo.png">
+  <link rel="apple-touch-icon" href="../../assets/blappos-logo.png">
   <link rel="stylesheet" href="../../styles.css">
+  <script type="application/ld+json">${schema}</script>
 </head>
 <body class="story-page">
   <header class="masthead"><a class="logo" href="../../" aria-label="Blappos home"><img src="../../assets/blappos-logo.png" alt="Blappos — Bad news. Great magnet." width="900" height="600"></a></header>
@@ -113,6 +144,8 @@ for (const story of stories) {
         <a class="source" href="${escapeHtml(story.source)}" target="_blank" rel="noopener">${escapeHtml(story.sourceName || 'Read the reporting')} ↗</a>
         <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting.</p>
         ${shareMarkup(story, canonical)}
+        ${magnetMarkup(story)}
+        ${amazonMarkup(story)}
         <p><a class="button" href="../../#${escapeHtml(story.id)}">View this story on Blappos</a></p>
       </div>
     </article>
@@ -133,7 +166,7 @@ for (const story of stories) {
 </body>
 </html>
 `;
-  fs.writeFileSync(path.join(pageDir, 'index.html'), html);
+  fs.writeFileSync(path.join(pageDir, 'index.html'), html.replace(/[ \t]+$/gm, ''));
 }
 
 const urls = [
