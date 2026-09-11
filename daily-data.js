@@ -91,4 +91,128 @@ const ponyCollection={
 
 window.dailyStories=window.dailyStories.filter(story=>!['sep10-monitor-lizard','sep10-marmot-coolant'].includes(story.id));
 window.dailyStories.splice(window.dailyStories.indexOf(narrowCar)+1,0,ponyCollection);
+const sep10ExtraStories=[
+  {
+    "id": "sep10-mural-phone",
+    "place": "Springfield, Massachusetts",
+    "image": "assets/cards/sep10-mural-phone.webp",
+    "title": "1937 mural catches a time traveler checking his notifications",
+    "facts": "A 1937 mural by Umberto Romano went viral after viewers noticed an Indigenous man holding a small dark rectangle in a pose that looks strikingly like someone checking a smartphone. The mural depicts a 17th-century encounter involving Springfield founder William Pynchon.",
+    "why": "There is no evidence of a lost colonial cellular network. Historians say the object is more plausibly a small hand mirror, book or traded item. The mural was created for Springfield’s main post office as part of a Depression-era federal art project.",
+    "angle": "The first smartphone user has finally been identified, and he already looks disappointed by the battery life. Historians believe he was checking whether the Mayflower had surge pricing.",
+    "source": "https://www.ndtv.com/offbeat/smartphone-in-a-1937-painting-viral-image-sparks-bizarre-time-travel-claims-12028636",
+    "sourceName": "Read the NDTV report",
+    "isoDate": "2026-09-10",
+    "month": "September",
+    "date": "Sep 10, 2026",
+    "amazonLinks": [
+      {
+        "title": "The Time Machine by H. G. Wells",
+        "image": "https://m.media-amazon.com/images/P/0451530703.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Time Machine by H. G. Wells",
+        "quip": "The repair manual for anyone who arrives in 1636 with a phone and no charger.",
+        "url": "https://www.amazon.com/dp/0451530703?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "Magnetic Selfie Mirror for Phone",
+        "image": "https://m.media-amazon.com/images/P/B0CYSCFJCD.01.LZZZZZZZ.jpg",
+        "alt": "Round magnetic selfie mirror for a smartphone",
+        "quip": "The historically plausible explanation, now upgraded with magnetic attachment and outdoor-selfie capability.",
+        "url": "https://www.amazon.com/dp/B0CYSCFJCD?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveler",
+        "image": "https://m.media-amazon.com/images/P/073522014X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of How to Invent Everything",
+        "quip": "Useful when your 1937 mural appearance occurs before the nearest charging brick has been invented.",
+        "url": "https://www.amazon.com/dp/073522014X?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep10-henna-robot",
+    "place": "India / Online",
+    "image": "assets/cards/sep10-henna-robot.webp",
+    "title": "Robot applies wedding henna and immediately requests a five-star review",
+    "facts": "Industrialist Harsh Goenka shared an AI-generated video showing a machine apparently applying a detailed mehendi design to a woman’s hand. The clip prompted a fresh argument over whether automation is coming for traditional artists and skill-based services.",
+    "why": "Mehendi artists create intricate, personalized designs for weddings, festivals and celebrations. Commenters quickly noted that a synthetic demonstration is not proof of a safe, reliable commercial machine—and that craftsmanship, judgment and human connection remain central to the tradition.",
+    "angle": "The robot promises perfect symmetry, no small talk and a mandatory firmware update halfway through the bride’s left hand. Premium users may unlock the thumb.",
+    "source": "https://www.ndtv.com/offbeat/some-more-jobs-gone-harsh-goenka-shares-video-of-mehendi-applying-machine-12027218",
+    "sourceName": "Read the NDTV report",
+    "isoDate": "2026-09-10",
+    "month": "September",
+    "date": "Sep 10, 2026",
+    "amazonLinks": [
+      {
+        "title": "The Henna Sourcebook",
+        "image": "https://m.media-amazon.com/images/P/1596680334.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Henna Sourcebook",
+        "quip": "The human reference manual for patterns that deserve more thought than “robot arm go brrrr.”",
+        "url": "https://www.amazon.com/dp/1596680334?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "Mehndi: The Art of Henna Body Painting",
+        "image": "https://m.media-amazon.com/images/P/089281778X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Mehndi The Art of Henna Body Painting",
+        "quip": "A proper introduction to the art before Silicon Valley adds a subscription tier to your palm.",
+        "url": "https://www.amazon.com/dp/089281778X?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Temporary Tattoos",
+        "image": "https://m.media-amazon.com/images/P/0486407039.01.LZZZZZZZ.jpg",
+        "alt": "Cover of a temporary tattoo design book",
+        "quip": "For people who want decorative skin art without placing a hand under suspicious imaginary machinery.",
+        "url": "https://www.amazon.com/dp/0486407039?tag=blappos-20",
+        "salesPriority": 3
+      }
+    ]
+  },
+  {
+    "id": "sep10-silent-account",
+    "place": "Cupertino, California / Online",
+    "image": "assets/cards/sep10-silent-account.webp",
+    "title": "Account gains 10 million followers by finally keeping quiet",
+    "facts": "Apple’s main account on X has accumulated nearly 10 million followers while showing zero regular public posts on its timeline. The company has used the platform for paid promotions, while support accounts and executives publish normally.",
+    "why": "The blank feed is a strange exception to the standard social-media growth playbook. It also shows the difference between organic timeline posts and paid advertising: an account can appear silent while the company remains active elsewhere on the platform.",
+    "angle": "Ten million people subscribed to hear nothing and have never been disappointed. Every social-media manager just stared at next month’s content calendar and whispered, “Son of a bitch.”",
+    "source": "https://www.ndtv.com/offbeat/apple-has-10-million-x-twitter-followers-but-hasnt-posted-once-in-15-years-12026829",
+    "sourceName": "Read the NDTV report",
+    "isoDate": "2026-09-10",
+    "month": "September",
+    "date": "Sep 10, 2026",
+    "amazonLinks": [
+      {
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "image": "https://m.media-amazon.com/images/P/0062457713.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Subtle Art of Not Giving a Fck",
+        "quip": "The corporate social strategy, expanded from zero posts into 224 pages.",
+        "url": "https://www.amazon.com/dp/0062457713?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "Wreck This Journal",
+        "image": "https://m.media-amazon.com/images/P/0399161945.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Wreck This Journal",
+        "quip": "A posting calendar with the correct amount of blank space and significantly more audience participation.",
+        "url": "https://www.amazon.com/dp/0399161945?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Wacky Waving Inflatable Tube Guy",
+        "image": "https://m.media-amazon.com/images/I/71xmJjfakxL._SL1500_.jpg",
+        "alt": "Mini wacky waving inflatable tube guy",
+        "quip": "When the official account says nothing, deploy the tiny inflatable communications department.",
+        "url": "https://www.amazon.com/dp/0762462876?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  }
+];
+window.dailyStories=window.dailyStories.filter(story=>!sep10ExtraStories.some(item=>item.id===story.id));
+window.dailyStories.splice(0,0,...sep10ExtraStories);
 window.dailyFinds=[];
