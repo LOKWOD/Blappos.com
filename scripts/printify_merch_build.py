@@ -110,6 +110,7 @@ PRODUCTS = [
         "blueprint": 1507,
         "price": 2799,
         "scale": 0.78,
+        "marketing_image": "/merch/images/blappos-tumbler.webp",
         "colors": ("black", "navy", "white", "stainless"),
         "sizes": ("20oz", "20 oz"),
         "max_variants": 10,
@@ -307,7 +308,7 @@ def create_product(config, logo_id):
         "printify_product_id": product_id,
         "external_id": external_id,
         "product_url": f"https://blappos.printify.me/product/{external_id}",
-        "image": image_url,
+        "image": config.get("marketing_image", image_url),
         "provider": provider.get("title"),
         "blueprint_id": config["blueprint"],
         "variant_count": len(variant_ids),
@@ -365,7 +366,9 @@ def refresh_existing(record, config):
     if external_id:
         record["external_id"] = external_id
         record["product_url"] = f"https://blappos.printify.me/product/{external_id}"
-    if images and images[0].get("src"):
+    if config.get("marketing_image"):
+        record["image"] = config["marketing_image"]
+    elif images and images[0].get("src"):
         record["image"] = images[0]["src"]
     return record
 
