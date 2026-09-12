@@ -304,7 +304,7 @@ const sep11Stories = [
     "id": "sep11-stadium-squirrel",
     "place": "Columbus, Ohio",
     "image": "assets/cards/sep11-stadium-squirrel.webp",
-    "title": "Ohio Stadium squirrel gets escorted from premium seating",
+    "title": "Ohio Stadium squirrel gets escorted from premium seating","magnetUrl":"https://blappos.printify.me/product/31903653","magnetPrice":"$9.99",
     "facts": "UPI reported on September 11 that a squirrel became overwhelmed in the stands during Ohio State's September 5 football game against Ball State in Columbus. Fans calmed it with pretzels until a Perry Township police sergeant contained the animal in an empty cardboard beverage box and released it safely outside the stadium.",
     "why": "Crowded venues can disorient wildlife and create avoidable risks for the animal and spectators. The low-drama response—give it space, contain it carefully and release it outdoors—resolved the problem without turning a frightened squirrel into a dangerous spectacle.",
     "angle": "Verified fact ends above. The Blappos interpretation: the squirrel's ticket was valid, but outside snacks violated stadium policy. Security accepted one empty box as bail and released the suspect beyond the turnstiles.",
