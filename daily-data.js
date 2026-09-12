@@ -155,7 +155,7 @@ const sep10ExtraStories=[
         "alt": "Cover of The Henna Sourcebook",
         "quip": "The human reference manual for patterns that deserve more thought than “robot arm go brrrr.”",
         "url": "https://www.amazon.com/dp/1596680334?tag=blappos-20",
-        "salesPriority": 5
+        "salesPriority": 1
       },
       {
         "title": "Mehndi: The Art of Henna Body Painting",
@@ -163,7 +163,7 @@ const sep10ExtraStories=[
         "alt": "Cover of Mehndi The Art of Henna Body Painting",
         "quip": "A proper introduction to the art before Silicon Valley adds a subscription tier to your palm.",
         "url": "https://www.amazon.com/dp/089281778X?tag=blappos-20",
-        "salesPriority": 4
+        "salesPriority": 1
       },
       {
         "title": "Temporary Tattoos",
@@ -171,7 +171,7 @@ const sep10ExtraStories=[
         "alt": "Cover of a temporary tattoo design book",
         "quip": "For people who want decorative skin art without placing a hand under suspicious imaginary machinery.",
         "url": "https://www.amazon.com/dp/0486407039?tag=blappos-20",
-        "salesPriority": 3
+        "salesPriority": 1
       }
     ]
   },
