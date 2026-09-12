@@ -218,4 +218,129 @@ const sep10ExtraStories=[
 ];
 window.dailyStories=window.dailyStories.filter(story=>!sep10ExtraStories.some(item=>item.id===story.id));
 window.dailyStories.splice(0,0,...sep10ExtraStories);
+
+const sep11Stories = [
+  {
+    "id": "sep11-pogo-cubes",
+    "place": "Annapolis Royal, Nova Scotia",
+    "image": "assets/cards/sep11-pogo-cubes.webp",
+    "title": "Man solves 211 puzzle cubes on a pogo stick because sitting was too easy",
+    "facts": "In a September 11 retrospective, UPI revisited Canadian Saul Hafting's Guinness World Records feat in Annapolis Royal, Nova Scotia. On October 9, 2021, Hafting solved 211 rotating puzzle cubes while continuously bouncing on a pogo stick for more than an hour. Guinness says he practiced twice a week, gripped the pogo stick with his legs and relied on a support team to keep fresh cubes moving into his hands.",
+    "why": "The record combined speed-solving, balance and endurance in a way that made every part harder: his hands had to solve, his legs had to steer and his knees had to absorb an hour of bouncing. It is also a delightfully literal example of a specialist community turning two difficult hobbies into one needlessly magnificent problem.",
+    "angle": "Verified fact ends above. The Blappos interpretation: the chair was eliminated early in training after failing its performance review. By cube 211, gravity had filed a formal workplace grievance.",
+    "source": "https://www.upi.com/Odd_News/2026/09/11/canada-Guinness-World-Records-rubiks-cube-pogo-stick/5691789143596/",
+    "sourceName": "Read the UPI report",
+    "isoDate": "2026-09-11",
+    "month": "September",
+    "date": "Sep 11, 2026",
+    "amazonLinks": [
+      {
+        "title": "Rubik's Cube The Original 3x3 Puzzle Cube & Brain Teaser Fidget Toy",
+        "image": "https://m.media-amazon.com/images/I/81HO-y+FIdL._AC_SL1500_.jpg",
+        "alt": "Rubik's original three-by-three puzzle cube on a white background",
+        "quip": "The exact kind of cube Hafting solved 211 times while the floor kept leaving and returning.",
+        "url": "https://www.amazon.com/dp/B092W7D64G?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "Flybar Master Pogo Stick for Kids Ages 9+, 80–160 lbs – Easy Grip Handles – Active Exercise Toy for Tweens & Teens – Outdoor Toy with Non-Slip Foot Pegs for Boys and Girls – No Assembly Needed",
+        "image": "https://m.media-amazon.com/images/I/41FFdnKzg3L._AC_SL1080_.jpg",
+        "alt": "Green Flybar Master pogo stick with black handles and foot pegs",
+        "quip": "Recreates the record's least stable piece of equipment; bring your own 211-cube support crew.",
+        "url": "https://www.amazon.com/dp/B00GNB3KMU?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Guinness World Records 2027",
+        "image": "https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg",
+        "alt": "Green cover of the Guinness World Records 2027 book",
+        "quip": "For readers inspired by Hafting's official record to invent an even less seated achievement.",
+        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep11-highway-kitten",
+    "place": "Hillsborough County, Florida",
+    "image": "assets/cards/sep11-highway-kitten.webp",
+    "title": "Five-week-old kitten turns interstate rescue into a foot pursuit",
+    "facts": "UPI reported on September 11 that a five-week-old black kitten was spotted on southbound Interstate 275 in Hillsborough County, Florida. A sheriff's deputy and Florida Highway Patrol trooper chased and caught the kitten on September 8 after a passerby alerted authorities. The kitten was named Dash and adopted by the deputy's family.",
+    "why": "A tiny animal loose on an active interstate put the kitten, motorists and responders at risk. The coordinated rescue ended without a crash or injury, and the immediate adoption turned a dangerous roadside call into a permanent home.",
+    "angle": "Verified fact ends above. The Blappos interpretation: Dash was detained after a brief pur-suit, refused to provide insurance and was sentenced to a lifetime of indoor naps with the arresting family.",
+    "source": "https://www.upi.com/Odd_News/2026/09/11/Hillsbough-County-Florida-interstate-kitten/9471789148009/",
+    "sourceName": "Read the UPI report",
+    "isoDate": "2026-09-11",
+    "month": "September",
+    "date": "Sep 11, 2026",
+    "amazonLinks": [
+      {
+        "title": "Tiny But Mighty: Kitten Lady's Guide to Saving the Most Vulnerable Felines",
+        "image": "https://m.media-amazon.com/images/I/713au6EGmxL._SL1500_.jpg",
+        "alt": "Cover of Tiny But Mighty featuring a small kitten",
+        "quip": "A care guide built for exactly the sort of vulnerable five-week-old kitten found on the interstate.",
+        "url": "https://www.amazon.com/dp/1524744069?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "PetSafe Come with Me Kitty Harness and Bungee Cat Leash, Royal Blue, Large | Adjustable 2-Point Fit Applies Gentle Pressure to Shoulders, Not Neck, for Average and Large Cats with 13 in - 18 in Girth",
+        "image": "https://m.media-amazon.com/images/I/61C3fIe8GuL._AC_SL1500_.jpg",
+        "alt": "Royal blue PetSafe cat harness and bungee leash",
+        "quip": "For Dash after he grows into it: a humane way to prevent the sequel from becoming another interstate foot pursuit.",
+        "url": "https://www.amazon.com/dp/B000OBIW9Q?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Amazon Basics 2-Door Top-Load Hard-Sided Pet Travel Carrier for Cats and Small Dogs, 19\" L x 12.6\" W x 10\" H, Gray & Blue",
+        "image": "https://m.media-amazon.com/images/I/71WgHnZShvL._AC_SL1500_.jpg",
+        "alt": "Gray and blue hard-sided pet carrier with front and top doors",
+        "quip": "A safer ride home for a rescued kitten than improvising protective custody beside I-275.",
+        "url": "https://www.amazon.com/dp/B00OP6SMCI?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep11-stadium-squirrel",
+    "place": "Columbus, Ohio",
+    "image": "assets/cards/sep11-stadium-squirrel.webp",
+    "title": "Ohio Stadium squirrel gets escorted from premium seating",
+    "facts": "UPI reported on September 11 that a squirrel became overwhelmed in the stands during Ohio State's September 5 football game against Ball State in Columbus. Fans calmed it with pretzels until a Perry Township police sergeant contained the animal in an empty cardboard beverage box and released it safely outside the stadium.",
+    "why": "Crowded venues can disorient wildlife and create avoidable risks for the animal and spectators. The low-drama response—give it space, contain it carefully and release it outdoors—resolved the problem without turning a frightened squirrel into a dangerous spectacle.",
+    "angle": "Verified fact ends above. The Blappos interpretation: the squirrel's ticket was valid, but outside snacks violated stadium policy. Security accepted one empty box as bail and released the suspect beyond the turnstiles.",
+    "source": "https://www.upi.com/Odd_News/2026/09/11/Perry-Township-Ohio-State-squirrel/9691789147583/",
+    "sourceName": "Read the UPI report",
+    "isoDate": "2026-09-11",
+    "month": "September",
+    "date": "Sep 11, 2026",
+    "amazonLinks": [
+      {
+        "title": "Gnodary Squirrel Feeder with Umbrella, Squirrel Feeders for Outside, Squirrel Picnic Table Feeder - Chipmunk Feeder Hold Corn, Corn Cob, Peanuts (Bright-Red)",
+        "image": "https://m.media-amazon.com/images/I/81cF0uja+TL._AC_SL1500_.jpg",
+        "alt": "Bright red squirrel picnic-table feeder with an umbrella",
+        "quip": "Gives the displaced stadium squirrel an off-field seat where outside snacks are explicitly permitted.",
+        "url": "https://www.amazon.com/dp/B0DPC9XHVH?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "The Secret Life of Squirrels",
+        "image": "https://m.media-amazon.com/images/I/81Ck7iPykUL._SL1500_.jpg",
+        "alt": "Cover of The Secret Life of Squirrels showing a squirrel at a miniature scene",
+        "quip": "The natural-history companion for a squirrel whose secret life includes pretzels and Big Ten seating.",
+        "url": "https://www.amazon.com/dp/0316391050?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Masterpieces NCAA Ohio State Puzzle 1000 Piece Panoramic Stadium Jigsaw, Officially Licensed Buckeyes Football Design, Premium Random Cut Pieces, Vibrant Campus Game Day Artwork, Collectible Display",
+        "image": "https://m.media-amazon.com/images/I/71P1-El+w2L._AC_SL1500_.jpg",
+        "alt": "Panoramic Ohio State football stadium jigsaw puzzle box and completed puzzle",
+        "quip": "Recreates the exact stadium scene with 100 percent fewer frightened squirrels in the seating bowl.",
+        "url": "https://www.amazon.com/dp/B00I9DKV2M?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep11Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep11Stories);
 window.dailyFinds=[];
