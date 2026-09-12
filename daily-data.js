@@ -114,8 +114,8 @@ const sep10ExtraStories=[
         "image": "https://m.media-amazon.com/images/P/0451530703.01.LZZZZZZZ.jpg",
         "alt": "Cover of The Time Machine by H. G. Wells",
         "quip": "The repair manual for anyone who arrives in 1636 with a phone and no charger.",
-        "url": "https://www.amazon.com/dp/0411530703?tag=blappos-20",
-        "salesPriority": 5
+        "url": "https://www.amazon.com/dp/0451530703?tag=blappos-20",
+        "salesPriority": 1
       },
       {
         "title": "Magnetic Selfie Mirror for Phone",
