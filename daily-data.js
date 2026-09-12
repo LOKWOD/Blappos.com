@@ -264,7 +264,7 @@ const sep11Stories = [
     "id": "sep11-highway-kitten",
     "place": "Hillsborough County, Florida",
     "image": "assets/cards/sep11-highway-kitten.webp",
-    "title": "Five-week-old kitten turns interstate rescue into a foot pursuit",
+    "title": "Five-week-old kitten turns interstate rescue into a foot pursuit","magnetUrl":"https://blappos.printify.me/product/31903649","magnetPrice":"$9.99",
     "facts": "UPI reported on September 11 that a five-week-old black kitten was spotted on southbound Interstate 275 in Hillsborough County, Florida. A sheriff's deputy and Florida Highway Patrol trooper chased and caught the kitten on September 8 after a passerby alerted authorities. The kitten was named Dash and adopted by the deputy's family.",
     "why": "A tiny animal loose on an active interstate put the kitten, motorists and responders at risk. The coordinated rescue ended without a crash or injury, and the immediate adoption turned a dangerous roadside call into a permanent home.",
     "angle": "Verified fact ends above. The Blappos interpretation: Dash was detained after a brief pur-suit, refused to provide insurance and was sentenced to a lifetime of indoor naps with the arresting family.",
