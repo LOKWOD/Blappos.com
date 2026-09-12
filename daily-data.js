@@ -114,7 +114,7 @@ const sep10ExtraStories=[
         "image": "https://m.media-amazon.com/images/P/0451530703.01.LZZZZZZZ.jpg",
         "alt": "Cover of The Time Machine by H. G. Wells",
         "quip": "The repair manual for anyone who arrives in 1636 with a phone and no charger.",
-        "url": "https://www.amazon.com/dp/0451530703?tag=blappos-20",
+        "url": "https://www.amazon.com/dp/0411530703?tag=blappos-20",
         "salesPriority": 5
       },
       {
@@ -123,7 +123,7 @@ const sep10ExtraStories=[
         "alt": "Round magnetic selfie mirror for a smartphone",
         "quip": "The historically plausible explanation, now upgraded with magnetic attachment and outdoor-selfie capability.",
         "url": "https://www.amazon.com/dp/B0CYSCFJCD?tag=blappos-20",
-        "salesPriority": 4
+        "salesPriority": 1
       },
       {
         "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveler",
