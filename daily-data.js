@@ -224,7 +224,7 @@ const sep11Stories = [
     "id": "sep11-pogo-cubes",
     "place": "Annapolis Royal, Nova Scotia",
     "image": "assets/cards/sep11-pogo-cubes.webp",
-    "title": "Man solves 211 puzzle cubes on a pogo stick because sitting was too easy",
+    "title": "Man solves 211 puzzle cubes on a pogo stick because sitting was too easy","magnetUrl":"https://blappos.printify.me/product/31903643","magnetPrice":"$9.99",
     "facts": "In a September 11 retrospective, UPI revisited Canadian Saul Hafting's Guinness World Records feat in Annapolis Royal, Nova Scotia. On October 9, 2021, Hafting solved 211 rotating puzzle cubes while continuously bouncing on a pogo stick for more than an hour. Guinness says he practiced twice a week, gripped the pogo stick with his legs and relied on a support team to keep fresh cubes moving into his hands.",
     "why": "The record combined speed-solving, balance and endurance in a way that made every part harder: his hands had to solve, his legs had to steer and his knees had to absorb an hour of bouncing. It is also a delightfully literal example of a specialist community turning two difficult hobbies into one needlessly magnificent problem.",
     "angle": "Verified fact ends above. The Blappos interpretation: the chair was eliminated early in training after failing its performance review. By cube 211, gravity had filed a formal workplace grievance.",
