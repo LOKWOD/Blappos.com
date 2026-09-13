@@ -348,7 +348,7 @@ window.dailyFinds=[];
 const sep11SecondRun = [
   {
     id:'sep11-pittsburgh-coyote',isoDate:'2026-09-11',month:'September',date:'Sep 11, 2026',place:'Pittsburgh, Pennsylvania',image:'assets/cards/sep11-pittsburgh-coyote.webp',
-    title:'Coyote takes the alley shortcut and becomes part of the building',
+    title:'Coyote takes the alley shortcut and becomes part of the building',magnetUrl:'https://blappos.printify.me/product/31923807',magnetPrice:'$9.99',
     facts:'Pittsburgh Public Safety said police, firefighters and animal-control officers responded after a coyote wandered into an alley and became wedged in a gap between two buildings. Crews carefully freed the animal, checked it for injuries and released it into a safer wooded area.',
     why:'Coyotes are adaptable city wildlife, but tight urban spaces can turn a wrong turn into a dangerous trap. The coordinated rescue protected the animal while keeping responders and nearby residents out of harm’s way.',
     angle:'Verified fact ends above. The Blappos interpretation: Pittsburgh’s newest alley shortcut received a one-star review for width, customer service and the complete absence of a second exit.',
