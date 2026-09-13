@@ -1,0 +1,355 @@
+{
+  "source": "Printify catalog",
+  "categories": {
+    "unisex_tshirt": [
+      {
+        "id": 12,
+        "title": "Unisex Jersey Short Sleeve Tee",
+        "brand": "Bella+Canvas",
+        "model": "3001"
+      },
+      {
+        "id": 48,
+        "title": "Unisex Jersey Short Sleeve V-Neck Tee",
+        "brand": "Bella+Canvas",
+        "model": "3005"
+      },
+      {
+        "id": 1458,
+        "title": "Unisex Jersey T-Shirt",
+        "brand": "Prime Essentials",
+        "model": ""
+      },
+      {
+        "id": 454,
+        "title": "Single Jersey Men's T-shirt",
+        "brand": "B&C",
+        "model": "TU03T"
+      },
+      {
+        "id": 1319,
+        "title": "USA-Made Unisex Short-Sleeve Jersey T-Shirt",
+        "brand": "Bella+Canvas",
+        "model": "3001U"
+      },
+      {
+        "id": 1317,
+        "title": "Unisex CVC Jersey T-shirt",
+        "brand": "Next Level",
+        "model": "6210"
+      },
+      {
+        "id": 2977,
+        "title": "Unisex Cotton Long Sleeve T-Shirt",
+        "brand": "JERZEES",
+        "model": "363L"
+      },
+      {
+        "id": 2979,
+        "title": "Unisex Cotton T-Shirt",
+        "brand": "JERZEES",
+        "model": "363M"
+      }
+    ],
+    "hoodie": [
+      {
+        "id": 7568,
+        "title": "Unisex Epic Fleece Pullover Hooded Sweatshirt",
+        "brand": "Threadfast Apparel",
+        "model": "T2000"
+      },
+      {
+        "id": 77,
+        "title": "Unisex Heavy Blend\u2122 Hooded Sweatshirt",
+        "brand": "Gildan",
+        "model": "18500"
+      },
+      {
+        "id": 458,
+        "title": "Unisex Pullover Hoodie",
+        "brand": "B&C",
+        "model": "WUI24"
+      },
+      {
+        "id": 7558,
+        "title": "Unisex Ultimate Fleece Pullover Hooded Sweatshirt",
+        "brand": "Threadfast Apparel",
+        "model": "320H"
+      },
+      {
+        "id": 3717,
+        "title": "Lace Up Pullover Hooded Sweatshirt",
+        "brand": "Sport-Tek",
+        "model": "ST271"
+      },
+      {
+        "id": 3714,
+        "title": "Sleeve Stripe Pullover Hooded Sweatshirt",
+        "brand": "Sport-Tek",
+        "model": "ST265"
+      },
+      {
+        "id": 6991,
+        "title": "Unisex Avenue Midweight Hooded Sweatshirt",
+        "brand": "Independent Trading Company",
+        "model": "IND280SL"
+      },
+      {
+        "id": 6993,
+        "title": "Unisex Boulevard Heavyweight Hooded Sweatshirt",
+        "brand": "Independent Trading Company",
+        "model": "IND330BLV"
+      }
+    ],
+    "crewneck_sweatshirt": [
+      {
+        "id": 49,
+        "title": "Unisex Heavy Blend\u2122 Crewneck Sweatshirt",
+        "brand": "Gildan",
+        "model": "18000"
+      },
+      {
+        "id": 2405,
+        "title": "Midweight Pigment-dyed Crewneck Sweatshirt",
+        "brand": "Independent Trading Company",
+        "model": "PRM3500"
+      },
+      {
+        "id": 2734,
+        "title": "ReFlex Fleece Unisex Crewneck Sweatshirt",
+        "brand": "American Apparel",
+        "model": "RF496"
+      },
+      {
+        "id": 3518,
+        "title": "Unisex CVC Ring Spun Crewneck Sweatshirt",
+        "brand": "JERZEES",
+        "model": "IC48M"
+      },
+      {
+        "id": 1257,
+        "title": "Unisex Color Blast Crewneck Sweatshirt",
+        "brand": "Comfort Colors\u00ae",
+        "model": "1545"
+      },
+      {
+        "id": 1570,
+        "title": "Unisex ComfortWash\u00ae Garment Dyed Crewneck Sweatshirt",
+        "brand": "Hanes",
+        "model": "GDH400"
+      },
+      {
+        "id": 446,
+        "title": "Unisex Crewneck Sweatshirt",
+        "brand": "Lane Seven",
+        "model": "LS14004"
+      },
+      {
+        "id": 3516,
+        "title": "Unisex Crewneck Sweatshirt",
+        "brand": "JERZEES",
+        "model": "C12M"
+      }
+    ],
+    "trucker_hat": [
+      {
+        "id": 5377,
+        "title": "Foam Mesh-Back Trucker Cap",
+        "brand": "ValuCap",
+        "model": "VC700"
+      },
+      {
+        "id": 1735,
+        "title": "Foam Trucker Hat",
+        "brand": "OTTO Cap",
+        "model": "39-165"
+      },
+      {
+        "id": 5856,
+        "title": "Foamie Trucker Cap",
+        "brand": "Richardson",
+        "model": "113"
+      },
+      {
+        "id": 10753,
+        "title": "Frame Foam Two-Tone Trucker",
+        "brand": "AS Colour",
+        "model": "1163"
+      },
+      {
+        "id": 1128,
+        "title": "Trucker Caps",
+        "brand": "OTTO Cap",
+        "model": "39-165"
+      },
+      {
+        "id": 5603,
+        "title": "7-Panel Trucker",
+        "brand": "Richardson",
+        "model": "168"
+      },
+      {
+        "id": 7644,
+        "title": "Bio-Washed Trucker Cap",
+        "brand": "ValuCap",
+        "model": "AH80"
+      },
+      {
+        "id": 1752,
+        "title": "Camouflage Trucker Hat (Embroidery)",
+        "brand": "OTTO Cap",
+        "model": "105-1247"
+      }
+    ],
+    "ceramic_mug": [
+      {
+        "id": 635,
+        "title": "Accent Coffee Mug (11, 15oz)",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 478,
+        "title": "Ceramic Mug, (11oz, 15oz)",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 618,
+        "title": "Ceramic Mugs (11oz\\15oz\\20oz)",
+        "brand": "ORCA Coatings",
+        "model": ""
+      },
+      {
+        "id": 479,
+        "title": "Black Mug (11oz, 15oz)",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 628,
+        "title": "Black Coffee Mug, 11oz",
+        "brand": "ORCA Coatings",
+        "model": ""
+      },
+      {
+        "id": 612,
+        "title": "Metallic Mug (Silver\\Gold)",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 68,
+        "title": "Mug 11oz",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 425,
+        "title": "Mug 15oz",
+        "brand": "Generic brand",
+        "model": ""
+      }
+    ],
+    "sticker": [
+      {
+        "id": 600,
+        "title": "Die-Cut Stickers",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 811,
+        "title": "Holographic Die-cut Stickers",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 400,
+        "title": "Kiss-Cut Stickers",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 1268,
+        "title": "Kiss-Cut Vinyl Decals",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 803,
+        "title": "Transparent Outdoor Stickers, Die-Cut, 1pc",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 1216,
+        "title": "Vinyl Kiss-Cut Stickers",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 906,
+        "title": "Laminate Stickers, Square",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 1595,
+        "title": "Phone Skin",
+        "brand": "Generic brand",
+        "model": ""
+      }
+    ],
+    "tumbler": [
+      {
+        "id": 1507,
+        "title": "Insulated Tumbler, 20oz",
+        "brand": "Polar Camel",
+        "model": ""
+      },
+      {
+        "id": 2044,
+        "title": "Riva Tumbler, 20oz (Engraving)",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 1513,
+        "title": "Travel Mug, 20oz",
+        "brand": "Polar Camel",
+        "model": ""
+      },
+      {
+        "id": 353,
+        "title": "Tumbler 20oz",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 693,
+        "title": "Copper Vacuum Insulated Tumbler, 22oz",
+        "brand": "Generic brand",
+        "model": ""
+      },
+      {
+        "id": 1670,
+        "title": "Insulated Tumbler with Lid, 40oz (Engraving)",
+        "brand": "Koozie Group\u00ae",
+        "model": "46434"
+      },
+      {
+        "id": 1514,
+        "title": "Insulated Tumbler, 10oz",
+        "brand": "Polar Camel",
+        "model": ""
+      },
+      {
+        "id": 1508,
+        "title": "Insulated Tumbler, 30oz",
+        "brand": "Polar Camel",
+        "model": ""
+      }
+    ]
+  }
+}

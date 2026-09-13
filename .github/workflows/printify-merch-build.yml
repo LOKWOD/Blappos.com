@@ -1,0 +1,53 @@
+name: Build Blappos Core 8 merch
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/printify_merch_build.py
+      - .github/workflows/printify-merch-build.yml
+      - assets/blappos-logo.png
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blappos-core8-merch
+  cancel-in-progress: false
+
+jobs:
+  build-merch:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create and publish first merch drop
+        env:
+          PRINTIFY_API_TOKEN: ${{ secrets.PRINTIFY_API_TOKEN }}
+        run: |
+          python3 scripts/printify_merch_build.py
+          sleep 12
+          python3 scripts/printify_merch_build.py
+          sleep 12
+          python3 scripts/printify_merch_build.py
+      - name: Save live merch URLs and mockups
+        run: |
+          git config user.name "blappos-automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add merch-products.json merch/merch-data.js
+          git diff --cached --quiet || git commit -m "Publish Blappos Core 8 merch products"
+          git push
+      - name: Require all seven logo products live
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          state=json.loads(Path('merch-products.json').read_text())
+          products=state.get('products', [])
+          assert len(products)==7, f"Expected 7 logo products, found {len(products)}"
+          for product in products:
+              assert product.get('product_url','').startswith('https://blappos.printify.me/product/'), product
+              assert product.get('image'), product
+          print('All 7 logo products live; magnet archive is the eighth merch line.')
+          PY

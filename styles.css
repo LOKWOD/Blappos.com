@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=DM+Sans:wght@400;600;800&family=Libre+Caslon+Text:ital@0;1&display=swap');
 :root{--cream:#f2e6cd;--paper:#fff8e8;--ink:#171612;--red:#d94a2b;--blue:#184f68;--gold:#e0a72e;--line:rgba(23,22,18,.24)}
 
-body .archive-grid{grid-template-columns:repeat(3,1fr);gap:35px 22px}
-
 .archive{background:var(--paper);padding:100px max(4vw,calc((100vw - 1320px)/2));border-top:2px solid var(--ink)}
 .archive-head{margin-bottom:22px}
 .month-filters{display:flex;gap:8px;overflow-x:auto;padding:0 0 25px}
 .month-filters button{border:1px solid var(--ink);background:transparent;padding:10px 14px;font:800 .75rem "DM Sans",sans-serif;letter-spacing:.08em;text-transform:uppercase;cursor:pointer}
 .month-filters button.active,.month-filters button:hover{background:var(--ink);color:var(--paper)}
-.archive-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}
+.archive-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:35px 22px}
 .wire-card{min-height:285px;border:1px solid var(--ink);background:var(--cream);padding:18px;text-align:left;color:var(--ink);cursor:pointer;display:flex;flex-direction:column;transition:.18s}
 .wire-card:nth-child(5n+2){background:#e7c869}
 .wire-card:nth-child(5n+3){background:#bfd0c8}
@@ -36,19 +34,21 @@ body .archive-grid{grid-template-columns:repeat(3,1fr);gap:35px 22px}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--cream);color:var(--ink);font-family:"DM Sans",sans-serif;background-image:radial-gradient(rgba(48,34,15,.08) .7px,transparent .7px);background-size:5px 5px}
-.masthead{height:82px;padding:0 4vw;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;border-bottom:2px solid var(--ink);background:var(--cream);position:sticky;top:0;z-index:20}
-.logo{font-family:Anton,sans-serif;font-size:2.2rem;letter-spacing:.03em;color:var(--red);text-decoration:none;text-shadow:2px 2px 0 var(--ink)}
-.masthead p{font-family:"Libre Caslon Text",serif;font-style:italic}
+.masthead{height:132px;padding:0 4vw;display:grid;grid-template-columns:auto 1fr;gap:32px;align-items:center;border-bottom:2px solid var(--ink);background:var(--cream);position:sticky;top:0;z-index:20}
+.logo{display:inline-flex;align-items:center;text-decoration:none}
+.logo img{display:block;width:190px;height:auto}
+.masthead .logo{height:126px;overflow:visible}
 .masthead nav{justify-self:end;display:flex;gap:25px}
 .masthead nav a{color:var(--ink);text-decoration:none;font-size:.74rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em}
-.hero{min-height:calc(100vh - 82px);display:grid;grid-template-columns:.85fr 1.15fr;align-items:center;gap:7vw;padding:7vw;overflow:hidden}
+.nav-toggle{display:none;border:2px solid var(--ink);background:var(--paper);color:var(--ink);padding:11px 14px;font:800 .8rem "DM Sans",sans-serif;letter-spacing:.08em;text-transform:uppercase;cursor:pointer}
+.hero{min-height:calc(100vh - 132px);display:grid;grid-template-columns:.85fr 1.15fr;align-items:center;gap:7vw;padding:7vw;overflow:hidden}
 .hero-copy{position:relative;z-index:2}
 .stamp{display:inline-block;border:2px solid currentColor;padding:7px 10px;font-size:.65rem;font-weight:800;letter-spacing:.13em;transform:rotate(-1deg)}
 h1,h2{font-family:Anton,sans-serif;text-transform:uppercase;font-weight:400}
-h1{font-size:clamp(5rem,10vw,10.5rem);line-height:.78;letter-spacing:-.025em;margin:28px 0;color:var(--red);text-shadow:4px 4px 0 var(--ink)}
+h1{font-size:clamp(4.5rem,6.5vw,8rem);line-height:.86;letter-spacing:-.025em;margin:28px 0;color:var(--red);text-shadow:4px 4px 0 var(--ink);white-space:nowrap}
 .hero-copy>p{font:italic clamp(1.1rem,2vw,1.5rem)/1.45 "Libre Caslon Text",serif;max-width:520px}
 .button{display:inline-flex;gap:30px;align-items:center;margin-top:25px;background:var(--ink);color:var(--paper);padding:17px 20px;text-decoration:none;font-size:.72rem;font-weight:800;letter-spacing:.1em}
-.hero-card{border:0;background:transparent;padding:0;cursor:pointer;transform:rotate(2.5deg);transition:.25s}
+.hero-card{display:block;border:0;background:transparent;padding:0;color:inherit;text-decoration:none;cursor:pointer;transform:rotate(2.5deg);transition:.25s}
 .hero-card:hover{transform:rotate(0) scale(1.015)}
 .hero-card img{display:block;width:100%;height:auto;filter:drop-shadow(15px 18px 0 rgba(23,22,18,.18))}
 .hero-card span{display:inline-block;margin-top:24px;font-size:.68rem;text-transform:uppercase;letter-spacing:.13em;font-weight:800}
@@ -60,7 +60,7 @@ h1{font-size:clamp(5rem,10vw,10.5rem);line-height:.78;letter-spacing:-.025em;mar
 .section-title h2,.manifesto h2,.dispatch h2{font-size:clamp(3rem,7vw,6.8rem);line-height:.9;margin:10px 0 0}
 .section-title p{max-width:380px;font-family:"Libre Caslon Text",serif;line-height:1.5}
 .card-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:35px 22px}
-.news-card{position:relative;border:0;background:none;padding:0;text-align:left;color:inherit;cursor:pointer}
+.news-card{display:block;position:relative;border:0;background:none;padding:0;text-align:left;color:inherit;text-decoration:none;cursor:pointer}
 .news-card img{width:100%;height:auto;display:block;border-radius:7.5%;box-shadow:7px 9px 0 rgba(23,22,18,.18);transition:.2s}
 .news-card:hover img{transform:translateY(-6px) rotate(-.5deg);box-shadow:11px 15px 0 rgba(23,22,18,.2)}
 .card-meta{display:flex;justify-content:space-between;gap:12px;margin:19px 6px 7px;font-size:.62rem;text-transform:uppercase;letter-spacing:.11em;font-weight:800}
@@ -73,7 +73,7 @@ h1{font-size:clamp(5rem,10vw,10.5rem);line-height:.78;letter-spacing:-.025em;mar
 .find-image img{width:100%;height:100%;object-fit:contain;display:block}
 .find-copy{display:flex;flex:1;flex-direction:column;padding:22px}
 .find-copy>span{font-size:.62rem;font-weight:800;letter-spacing:.12em;color:var(--red)}
-.find-copy button{border:0;background:none;padding:7px 0 0;text-align:left;font:700 .84rem/1.3 "Libre Caslon Text",serif;cursor:pointer;color:var(--blue)}
+.find-story-link{display:block;padding:7px 0 0;text-align:left;font:700 .84rem/1.3 "Libre Caslon Text",serif;color:var(--blue);text-decoration:none}
 .find-copy h3{font:400 1.75rem/1.05 Anton,sans-serif;text-transform:uppercase;margin:20px 0 10px}
 .find-copy p{font:italic .95rem/1.5 "Libre Caslon Text",serif;margin:0 0 18px}
 .find-copy .shop-link{margin-top:auto}
@@ -87,9 +87,54 @@ h1{font-size:clamp(5rem,10vw,10.5rem);line-height:.78;letter-spacing:-.025em;mar
 .dispatch{display:grid;grid-template-columns:1.3fr .7fr;gap:8vw;align-items:end;padding:90px 6vw;background:var(--gold);border-bottom:2px solid var(--ink)}
 .dispatch p{font:italic 1.2rem/1.5 "Libre Caslon Text",serif}
 footer{padding:55px 5vw;background:var(--ink);color:var(--paper)}
-footer .logo{display:inline-block}
+footer .logo{display:inline-flex}
+footer .logo img{width:min(320px,80vw)}
 footer p{font:italic 1.2rem "Libre Caslon Text",serif}
+footer .footer-link{display:inline-block;color:var(--gold);font-size:.72rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;text-underline-offset:4px}
 footer small{display:block;color:#aaa;margin-top:35px}
+
+/* Merch */
+.merch-page{background-color:var(--cream)}
+.merch-page .masthead nav a[aria-current="page"]{color:var(--red);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:5px}
+.merch-main{min-height:calc(100vh - 132px)}
+.merch-hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(360px,.8fr);gap:7vw;align-items:center;min-height:640px;padding:80px max(5vw,calc((100vw - 1240px)/2));overflow:hidden}
+.merch-copy h1{white-space:normal;max-width:760px}
+.merch-copy>p{max-width:620px;font:italic clamp(1.1rem,2vw,1.45rem)/1.5 "Libre Caslon Text",serif}
+.merch-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:30px}
+.merch-actions .button{margin-top:0}
+.button.alt{background:transparent;color:var(--ink);border:2px solid var(--ink);padding:15px 18px}
+.merch-mark{position:relative;display:grid;place-items:center;aspect-ratio:1;background:var(--gold);border:3px solid var(--ink);box-shadow:16px 18px 0 var(--ink);transform:rotate(2deg);overflow:hidden}
+.merch-mark::before{content:"OFFICIAL ISSUE";position:absolute;top:22px;right:-46px;width:190px;padding:9px 0;background:var(--red);color:#fff;border-block:2px solid var(--ink);font-size:.65rem;font-weight:800;letter-spacing:.11em;text-align:center;transform:rotate(45deg)}
+.merch-mark img{display:block;width:86%;height:auto}
+.merch-status{display:grid;grid-template-columns:1.25fr .75fr;gap:7vw;align-items:center;padding:85px max(5vw,calc((100vw - 1240px)/2));background:var(--blue);color:#fff;border-block:2px solid var(--ink)}
+.merch-status h2{margin:10px 0 0;color:var(--gold);font-size:clamp(3rem,7vw,6.5rem);line-height:.9}
+.merch-note{border:2px solid #fff;padding:28px;box-shadow:8px 8px 0 var(--gold)}
+.merch-note b{display:block;margin-bottom:12px;color:var(--gold);font-size:.7rem;letter-spacing:.12em}
+.merch-note p{margin:0;font:italic 1.1rem/1.5 "Libre Caslon Text",serif}
+
+.story-amazon{margin-top:30px;padding-top:24px;border-top:2px solid var(--ink)}
+.story-amazon h4{margin:0 0 14px}
+.story-amazon-links{display:grid;gap:12px}
+.story-amazon-link{display:grid;grid-template-columns:112px 1fr;border:2px solid var(--ink);background:var(--paper);color:var(--ink);text-decoration:none;overflow:hidden;transition:.18s}
+.story-amazon-link:hover{transform:translate(-2px,-2px);box-shadow:5px 5px 0 var(--ink);background:#fff}
+.story-amazon-image{display:block;aspect-ratio:1;background:#fff;border-right:2px solid var(--ink)}
+.story-amazon-image img{position:static!important;width:100%!important;height:100%!important;object-fit:contain!important;background:#fff!important}
+.story-amazon-copy{display:flex;flex-direction:column;gap:5px;padding:12px}
+.story-amazon-copy small{color:var(--red);font-size:.58rem;font-weight:800;letter-spacing:.12em}
+.story-amazon-link strong{font:400 1.12rem/1.08 Anton,sans-serif;text-transform:uppercase}
+.story-amazon-link em{font:italic .76rem/1.35 "Libre Caslon Text",serif}
+.story-amazon-link b{margin-top:auto;color:var(--blue);font-size:.62rem;letter-spacing:.08em}
+.story-amazon-disclosure{margin:12px 0 0!important;font:400 .66rem/1.4 "DM Sans",sans-serif!important;color:#695f51}
+.story-magnet-image{position:sticky;top:0;align-self:start;display:block;background:var(--cream);color:#fff;text-decoration:none}
+.story-magnet-image img{position:static}
+.story-magnet-image span{display:block;padding:14px;background:var(--red);border-top:2px solid var(--ink);font:800 .7rem "DM Sans",sans-serif;letter-spacing:.09em;text-align:center}
+.story-magnet{margin-top:28px;padding:22px;border:3px solid var(--ink);background:#f1c84b;box-shadow:7px 7px 0 var(--ink)}
+.story-magnet>span{font:800 .62rem "DM Sans",sans-serif;letter-spacing:.13em;color:var(--red)}
+.story-copy .story-magnet h4{margin:7px 0;font:400 1.55rem/1 Anton,sans-serif}
+.story-copy .story-magnet p{margin:8px 0 15px;font:400 .85rem/1.45 "Libre Caslon Text",serif}
+.story-magnet a{display:block;padding:14px;background:var(--ink);color:#fff;text-decoration:none;text-align:center;font:800 .72rem "DM Sans",sans-serif;letter-spacing:.08em}
+.story-magnet small{display:block;margin-top:8px;font:.62rem "DM Sans",sans-serif;color:#5d513d;text-align:center}
+
 dialog{width:min(930px,94vw);max-height:92vh;border:2px solid var(--ink);padding:0;background:var(--paper);color:var(--ink);box-shadow:16px 18px 0 rgba(0,0,0,.3)}
 dialog::backdrop{background:rgba(18,16,12,.78)}
 .close{position:sticky;float:right;top:12px;margin:12px;z-index:3;border:2px solid var(--ink);background:var(--paper);width:44px;height:44px;font-size:1.8rem;cursor:pointer}
@@ -98,24 +143,51 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .story-copy{padding:55px 45px}
 .story-copy .label{font-size:.65rem;font-weight:800;letter-spacing:.12em;color:var(--red)}
 .story-copy h2{font-size:clamp(2.8rem,5vw,5rem);line-height:.88;margin:15px 0 25px}
+.standalone-story .story-copy>h2{font:800 .78rem/1.3 "DM Sans",sans-serif;letter-spacing:.1em;color:var(--red);margin:28px 0 5px}
+.standalone-story .story-copy>h2+p{margin-top:5px}
+.standalone-story .story-copy>h1{white-space:normal;font-size:clamp(2.6rem,5vw,5rem);line-height:.92}
 .story-copy p{font-family:"Libre Caslon Text",serif;line-height:1.65}
 .story-copy .source{display:inline-block;background:var(--red);color:white;padding:14px 17px;margin-top:18px;text-decoration:none;font-size:.7rem;font-weight:800;letter-spacing:.08em}
 .disclosure{font-size:.7rem!important;color:#695f51;border-top:1px solid var(--line);padding-top:18px;margin-top:28px}
+.story-share{margin-top:28px;padding:22px;border:3px solid var(--ink);background:var(--blue);color:#fff;box-shadow:7px 7px 0 var(--ink)}
+.story-share>span:first-child{display:block;color:var(--gold);font:800 .75rem/1.2 "DM Sans",sans-serif;letter-spacing:.13em}
+.story-copy .story-share h4,.story-copy .story-share h2{margin:7px 0;font:400 1.75rem/1 Anton,sans-serif;color:#fff;text-transform:uppercase}
+.story-copy .story-share p{margin:8px 0 16px;font:400 1rem/1.45 "Libre Caslon Text",serif}
+.story-share-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}
+.story-share-links a,.story-share-links button{display:flex;align-items:center;justify-content:center;min-height:44px;padding:10px 7px;border:2px solid var(--ink);background:var(--paper);color:var(--ink);font:800 .75rem/1 "DM Sans",sans-serif;letter-spacing:.04em;text-decoration:none;cursor:pointer}
+.story-share-links .share-primary{grid-column:span 2;background:var(--gold)}
+.story-share-links a:hover,.story-share-links button:hover{background:#fff;transform:translate(-1px,-1px)}
+.share-status{min-height:1em;margin-top:10px;color:var(--gold);font:800 .75rem/1.2 "DM Sans",sans-serif;letter-spacing:.1em}
 @media(max-width:850px){.masthead{grid-template-columns:1fr auto}
-.masthead>p{display:none}
 .masthead nav a:last-child{display:none}
+.merch-hero{grid-template-columns:1fr;gap:55px}
+.merch-mark{width:min(620px,90vw);justify-self:center}
+.merch-status{grid-template-columns:1fr}
 .hero{grid-template-columns:1fr;padding:70px 6vw}
 .hero-card{margin-top:25px}
 .card-grid{grid-template-columns:repeat(2,1fr)}
 .finds-grid{grid-template-columns:repeat(2,1fr)}
 .rules,.dispatch{grid-template-columns:1fr}
 .story{grid-template-columns:1fr}
-.story img{position:static}
+.story img,.story-magnet-image{position:static}
 .story-copy{padding:35px 25px}
 }
-@media(max-width:560px){.masthead nav{display:none}
+@media(max-width:560px){.masthead{height:108px;padding-inline:3vw}
+.masthead .logo{height:104px}
+.masthead .logo img{width:158px}
+.nav-toggle{display:block;justify-self:end}
+.masthead nav{display:none;position:absolute;top:calc(100% + 2px);left:0;right:0;padding:14px 4vw;background:var(--paper);border-bottom:2px solid var(--ink);box-shadow:0 9px 0 rgba(23,22,18,.15);flex-direction:column;gap:0}
+.masthead nav.open{display:flex}
+.masthead nav a{display:block!important;padding:13px 4px;border-bottom:1px solid var(--line);font-size:.82rem}
 .hero{min-height:auto}
-.hero h1{font-size:24vw}
+.merch-main{min-height:calc(100vh - 108px)}
+.merch-hero{min-height:auto;padding:60px 5vw 75px}
+.merch-copy h1{font-size:18vw}
+.merch-mark{width:88vw;box-shadow:9px 10px 0 var(--ink)}
+.merch-status{padding:65px 5vw}
+.merch-actions{align-items:stretch;flex-direction:column}
+.merch-actions .button{justify-content:space-between}
+.hero h1{font-size:18vw}
 .card-grid{grid-template-columns:1fr;gap:45px}
 .finds{padding:70px 4vw}
 .finds-grid{grid-template-columns:1fr;gap:28px}
@@ -126,3 +198,13 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .rules{gap:15px}
 .dispatch{padding-block:65px}
 }
+
+@media(max-width:560px){.card-meta,.find-copy>span,.story-copy .label,.story-magnet>span{font-size:.72rem}.news-card .read,.shop-link,.story-copy .source{font-size:.75rem}}
+
+:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
+
+@media(max-width:420px){.story-amazon-link{grid-template-columns:90px 1fr}.story-amazon-copy{padding:10px}.story-amazon-link strong{font-size:1rem}}
+@media(max-width:420px){.story-share-links{grid-template-columns:repeat(2,minmax(0,1fr))}.story-share-links .share-primary{grid-column:span 2}}
+
+/* Site-only cleanup for artwork with white corner fill. The source image stays unchanged for Printify. */
+.hero-card img{mix-blend-mode:multiply}

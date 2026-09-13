@@ -1,0 +1,428 @@
+{
+  "products": {
+    "sep9-airforce-slide": {
+      "printify_product_id": "6aa39c2bae1c3c660b0c05f5",
+      "external_id": "31867302",
+      "product_url": "https://blappos.printify.me/product/31867302"
+    },
+    "sep9-nicolas-sinkhole": {
+      "printify_product_id": "6aa3a2a606ee22a850065853",
+      "external_id": "31867646",
+      "product_url": "https://blappos.printify.me/product/31867646"
+    },
+    "sep9-goat": {
+      "story_id": "sep9-goat",
+      "printify_product_id": "6aa3a64150f965db93068dbe",
+      "external_id": "31867947",
+      "product_url": "https://blappos.printify.me/product/31867947"
+    },
+    "sep9-hotdog": {
+      "story_id": "sep9-hotdog",
+      "printify_product_id": "6aa3a64d06ee22a850065b45",
+      "external_id": "31867951",
+      "product_url": "https://blappos.printify.me/product/31867951"
+    },
+    "sep9-boa-engine": {
+      "story_id": "sep9-boa-engine",
+      "printify_product_id": "6aa3a65839427a0a4b0c12a4",
+      "external_id": "31867952",
+      "product_url": "https://blappos.printify.me/product/31867952"
+    },
+    "sep9-recliner-dog": {
+      "story_id": "sep9-recliner-dog",
+      "printify_product_id": "6aa3a66428dcb6e1550c874e",
+      "external_id": "31867957",
+      "product_url": "https://blappos.printify.me/product/31867957"
+    },
+    "sep9-disc-golf": {
+      "story_id": "sep9-disc-golf",
+      "printify_product_id": "6aa3a67029c75cc6e50b7317",
+      "external_id": "31867960",
+      "product_url": "https://blappos.printify.me/product/31867960"
+    },
+    "sep9-lottery": {
+      "story_id": "sep9-lottery",
+      "printify_product_id": "6aa3a67c29c75cc6e50b7327",
+      "external_id": "31867966",
+      "product_url": "https://blappos.printify.me/product/31867966"
+    },
+    "jan-caracas": {
+      "story_id": "jan-caracas",
+      "printify_product_id": "6aa3a68739427a0a4b0c12cd",
+      "external_id": "31867970",
+      "product_url": "https://blappos.printify.me/product/31867970"
+    },
+    "jan-minnesota": {
+      "story_id": "jan-minnesota",
+      "printify_product_id": "6aa3a69329c75cc6e50b7336",
+      "external_id": "31867977",
+      "product_url": "https://blappos.printify.me/product/31867977"
+    },
+    "jan-snow": {
+      "story_id": "jan-snow",
+      "printify_product_id": "6aa3a69f39427a0a4b0c12d8",
+      "external_id": "31867981",
+      "product_url": "https://blappos.printify.me/product/31867981"
+    },
+    "jan-shanghai": {
+      "story_id": "jan-shanghai",
+      "printify_product_id": "6aa3a6ab39427a0a4b0c12e3",
+      "external_id": "31867986",
+      "product_url": "https://blappos.printify.me/product/31867986"
+    },
+    "jan-doomsday": {
+      "story_id": "jan-doomsday",
+      "printify_product_id": "6aa3a6b639427a0a4b0c12ec",
+      "external_id": "31867997",
+      "product_url": "https://blappos.printify.me/product/31867997"
+    },
+    "feb-shutdown": {
+      "story_id": "feb-shutdown",
+      "printify_product_id": "6aa3a6c306ee22a850065b9c",
+      "external_id": "31868012",
+      "product_url": "https://blappos.printify.me/product/31868012"
+    },
+    "feb-start": {
+      "story_id": "feb-start",
+      "printify_product_id": "6aa3a6ce29c75cc6e50b7366",
+      "external_id": "31868014",
+      "product_url": "https://blappos.printify.me/product/31868014"
+    },
+    "feb-ukraine": {
+      "story_id": "feb-ukraine",
+      "printify_product_id": "6aa3a6da06ee22a850065bb1",
+      "external_id": "31868015",
+      "product_url": "https://blappos.printify.me/product/31868015"
+    },
+    "feb-telegram": {
+      "story_id": "feb-telegram",
+      "printify_product_id": "6aa3a6e606ee22a850065bb5",
+      "external_id": "31868022",
+      "product_url": "https://blappos.printify.me/product/31868022"
+    },
+    "feb-olympics": {
+      "story_id": "feb-olympics",
+      "printify_product_id": "6aa3a6f229c75cc6e50b7391",
+      "external_id": "31868023",
+      "product_url": "https://blappos.printify.me/product/31868023"
+    },
+    "mar-airports": {
+      "story_id": "mar-airports",
+      "printify_product_id": "6aa3a70006ee22a850065c22",
+      "external_id": "31868029",
+      "product_url": "https://blappos.printify.me/product/31868029"
+    },
+    "mar-heat": {
+      "story_id": "mar-heat",
+      "printify_product_id": "6aa3a70d06ee22a850065c71",
+      "external_id": "31868034",
+      "product_url": "https://blappos.printify.me/product/31868034"
+    },
+    "mar-seaice": {
+      "story_id": "mar-seaice",
+      "printify_product_id": "6aa3a71929c75cc6e50b748d",
+      "external_id": "31868036",
+      "product_url": "https://blappos.printify.me/product/31868036"
+    },
+    "mar-dhs-deal": {
+      "story_id": "mar-dhs-deal",
+      "printify_product_id": "6aa3a725b9f4d0c42e0d46a3",
+      "external_id": "31868039",
+      "product_url": "https://blappos.printify.me/product/31868039"
+    },
+    "mar-ai-money": {
+      "story_id": "mar-ai-money",
+      "printify_product_id": "6aa3a73180766d1c6e0f2c0f",
+      "external_id": "31868042",
+      "product_url": "https://blappos.printify.me/product/31868042"
+    },
+    "apr-pyramid": {
+      "story_id": "apr-pyramid",
+      "printify_product_id": "6aa3a73d06ee22a850065d6b",
+      "external_id": "31868045",
+      "product_url": "https://blappos.printify.me/product/31868045"
+    },
+    "apr-robots": {
+      "story_id": "apr-robots",
+      "printify_product_id": "6aa3a74939427a0a4b0c14f6",
+      "external_id": "31868048",
+      "product_url": "https://blappos.printify.me/product/31868048"
+    },
+    "apr-dhs-end": {
+      "story_id": "apr-dhs-end",
+      "printify_product_id": "6aa3a75506ee22a850065dfb",
+      "external_id": "31868052",
+      "product_url": "https://blappos.printify.me/product/31868052"
+    },
+    "apr-lichens": {
+      "story_id": "apr-lichens",
+      "printify_product_id": "6aa3a761f37edad0700438e8",
+      "external_id": "31868054",
+      "product_url": "https://blappos.printify.me/product/31868054"
+    },
+    "apr-fire-season": {
+      "story_id": "apr-fire-season",
+      "printify_product_id": "6aa3a76d06ee22a850065ee8",
+      "external_id": "31868057",
+      "product_url": "https://blappos.printify.me/product/31868057"
+    },
+    "may-longview": {
+      "story_id": "may-longview",
+      "printify_product_id": "6aa3a77806ee22a850065f7d",
+      "external_id": "31868062",
+      "product_url": "https://blappos.printify.me/product/31868062"
+    },
+    "may-moonbase": {
+      "story_id": "may-moonbase",
+      "printify_product_id": "6aa3a785e8a00e1d7a003a0c",
+      "external_id": "31868069",
+      "product_url": "https://blappos.printify.me/product/31868069"
+    },
+    "may-telescope": {
+      "story_id": "may-telescope",
+      "printify_product_id": "6aa3a79106ee22a850066032",
+      "external_id": "31868075",
+      "product_url": "https://blappos.printify.me/product/31868075"
+    },
+    "may-hantavirus": {
+      "story_id": "may-hantavirus",
+      "printify_product_id": "6aa3a79e06ee22a85006612b",
+      "external_id": "31868081",
+      "product_url": "https://blappos.printify.me/product/31868081"
+    },
+    "may-icebot": {
+      "story_id": "may-icebot",
+      "printify_product_id": "6aa3a7abe8a00e1d7a003c20",
+      "external_id": "31868082",
+      "product_url": "https://blappos.printify.me/product/31868082"
+    },
+    "jun-worldcup": {
+      "story_id": "jun-worldcup",
+      "printify_product_id": "6aa3a7b7f37edad070043c60",
+      "external_id": "31868085",
+      "product_url": "https://blappos.printify.me/product/31868085"
+    },
+    "jun-ufo": {
+      "story_id": "jun-ufo",
+      "printify_product_id": "6aa3a7c2b2073b2b190cb4cd",
+      "external_id": "31868095",
+      "product_url": "https://blappos.printify.me/product/31868095"
+    },
+    "jun-bacteria": {
+      "story_id": "jun-bacteria",
+      "printify_product_id": "6aa3a7cee8a00e1d7a003cc7",
+      "external_id": "31868104",
+      "product_url": "https://blappos.printify.me/product/31868104"
+    },
+    "jun-georgia": {
+      "story_id": "jun-georgia",
+      "printify_product_id": "6aa3a7dbb2073b2b190cb56a",
+      "external_id": "31868106",
+      "product_url": "https://blappos.printify.me/product/31868106"
+    },
+    "jun-uk": {
+      "story_id": "jun-uk",
+      "printify_product_id": "6aa3a7e7f37edad070043d2b",
+      "external_id": "31868111",
+      "product_url": "https://blappos.printify.me/product/31868111"
+    },
+    "jul-worldcup-final": {
+      "story_id": "jul-worldcup-final",
+      "printify_product_id": "6aa3a7f8e8a00e1d7a003d27",
+      "external_id": "31868122",
+      "product_url": "https://blappos.printify.me/product/31868122"
+    },
+    "jul-starmer": {
+      "story_id": "jul-starmer",
+      "printify_product_id": "6aa3a80406ee22a85006629b",
+      "external_id": "31868127",
+      "product_url": "https://blappos.printify.me/product/31868127"
+    },
+    "jul-lepen": {
+      "story_id": "jul-lepen",
+      "printify_product_id": "6aa3a81080766d1c6e0f31b9",
+      "external_id": "31868129",
+      "product_url": "https://blappos.printify.me/product/31868129"
+    },
+    "jul-farage": {
+      "story_id": "jul-farage",
+      "printify_product_id": "6aa3a81c39427a0a4b0c1a3b",
+      "external_id": "31868133",
+      "product_url": "https://blappos.printify.me/product/31868133"
+    },
+    "jul-starship": {
+      "story_id": "jul-starship",
+      "printify_product_id": "6aa3a828e8a00e1d7a003d76",
+      "external_id": "31868136",
+      "product_url": "https://blappos.printify.me/product/31868136"
+    },
+    "aug-telescope": {
+      "story_id": "aug-telescope",
+      "printify_product_id": "6aa3a833e8a00e1d7a003db1",
+      "external_id": "31868139",
+      "product_url": "https://blappos.printify.me/product/31868139"
+    },
+    "aug-cockroach": {
+      "story_id": "aug-cockroach",
+      "printify_product_id": "6aa3a83fe8a00e1d7a003ddd",
+      "external_id": "31868140",
+      "product_url": "https://blappos.printify.me/product/31868140"
+    },
+    "aug-urine": {
+      "story_id": "aug-urine",
+      "printify_product_id": "6aa3a84bf37edad070043e31",
+      "external_id": "31868145",
+      "product_url": "https://blappos.printify.me/product/31868145"
+    },
+    "aug-binface": {
+      "story_id": "aug-binface",
+      "printify_product_id": "6aa3a85729c75cc6e50b7b5a",
+      "external_id": "31868154",
+      "product_url": "https://blappos.printify.me/product/31868154"
+    },
+    "aug-nigeria": {
+      "story_id": "aug-nigeria",
+      "printify_product_id": "6aa3a86329c75cc6e50b7b6c",
+      "external_id": "31868158",
+      "product_url": "https://blappos.printify.me/product/31868158"
+    },
+    "sep-typhoon": {
+      "story_id": "sep-typhoon",
+      "printify_product_id": "6aa3a86fe8a00e1d7a003e82",
+      "external_id": "31868160",
+      "product_url": "https://blappos.printify.me/product/31868160"
+    },
+    "sep-nepal": {
+      "story_id": "sep-nepal",
+      "printify_product_id": "6aa3a87ab9f4d0c42e0d4dbd",
+      "external_id": "31868163",
+      "product_url": "https://blappos.printify.me/product/31868163"
+    },
+    "sep-citgo": {
+      "story_id": "sep-citgo",
+      "printify_product_id": "6aa3a88639427a0a4b0c1b80",
+      "external_id": "31868167",
+      "product_url": "https://blappos.printify.me/product/31868167"
+    },
+    "sep-iaea": {
+      "story_id": "sep-iaea",
+      "printify_product_id": "6aa3a89280766d1c6e0f334a",
+      "external_id": "31868173",
+      "product_url": "https://blappos.printify.me/product/31868173"
+    },
+    "sep-huawei": {
+      "story_id": "sep-huawei",
+      "printify_product_id": "6aa3a89e06ee22a850066489",
+      "external_id": "31868176",
+      "product_url": "https://blappos.printify.me/product/31868176"
+    },
+    "sep10-marmot-coolant": {
+      "story_id": "sep10-marmot-coolant",
+      "printify_product_id": "6aa3ab4706ee22a850066610",
+      "external_id": "31868361",
+      "product_url": "https://blappos.printify.me/product/31868361"
+    },
+    "sep10-narrowest-car": {
+      "story_id": "sep10-narrowest-car",
+      "printify_product_id": "6aa3af3f80766d1c6e0f3934",
+      "external_id": "31868618",
+      "product_url": "https://blappos.printify.me/product/31868618"
+    },
+    "sep10-monitor-lizard": {
+      "story_id": "sep10-monitor-lizard",
+      "printify_product_id": "6aa3af8544daf0b3dc0282bf",
+      "external_id": "31868644",
+      "product_url": "https://blappos.printify.me/product/31868644"
+    },
+    "sep11-tallest-horse": {
+      "story_id": "sep11-tallest-horse",
+      "printify_product_id": "6aa401e4a901d09877040cac",
+      "external_id": "31873524",
+      "product_url": "https://blappos.printify.me/product/31873524"
+    },
+    "sep11-prince-william-croc": {
+      "story_id": "sep11-prince-william-croc",
+      "printify_product_id": "6aa401f17a0d7cc3e6059261",
+      "external_id": "31873535",
+      "product_url": "https://blappos.printify.me/product/31873535"
+    },
+    "sep10-mural-phone": {
+      "story_id": "sep10-mural-phone",
+      "printify_product_id": "6aa4420b3f63e5787b0ea321",
+      "external_id": "31880964",
+      "product_url": "https://blappos.printify.me/product/31880964"
+    },
+    "sep10-pony-collection": {
+      "story_id": "sep10-pony-collection",
+      "printify_product_id": "6aa402a049ac2990b0085697",
+      "external_id": "31873563",
+      "product_url": "https://blappos.printify.me/product/31873563"
+    },
+    "sep10-henna-robot": {
+      "story_id": "sep10-henna-robot",
+      "printify_product_id": "6aa442bcb188edc36205e269",
+      "external_id": "31881034",
+      "product_url": "https://blappos.printify.me/product/31881034"
+    },
+    "sep10-silent-account": {
+      "story_id": "sep10-silent-account",
+      "printify_product_id": "6aa442c99872ff63fc0cd64d",
+      "external_id": "31881041",
+      "product_url": "https://blappos.printify.me/product/31881041"
+    },
+    "sep10-bagel-driver": {
+      "story_id": "sep10-bagel-driver",
+      "printify_product_id": "6aa44b9ceedb886fab0e06b4",
+      "external_id": "31882313",
+      "product_url": "https://blappos.printify.me/product/31882313"
+    },
+    "sep11-pogo-cubes": {
+      "story_id": "sep11-pogo-cubes",
+      "printify_product_id": "6aa5467ff1bec4cf9f043b29",
+      "external_id": "31903643",
+      "product_url": "https://blappos.printify.me/product/31903643"
+    },
+    "sep11-highway-kitten": {
+      "story_id": "sep11-highway-kitten",
+      "printify_product_id": "6aa54691ee3c801c47069855",
+      "external_id": "31903649",
+      "product_url": "https://blappos.printify.me/product/31903649"
+    },
+    "sep11-stadium-squirrel": {
+      "story_id": "sep11-stadium-squirrel",
+      "printify_product_id": "6aa5469d372a36c8090e4569",
+      "external_id": "31903653",
+      "product_url": "https://blappos.printify.me/product/31903653"
+    },
+    "sep11-pittsburgh-coyote": {
+      "story_id": "sep11-pittsburgh-coyote",
+      "printify_product_id": "6aa60c97f91e9163fc028066",
+      "external_id": "31923807",
+      "product_url": "https://blappos.printify.me/product/31923807"
+    },
+    "sep11-mongolia-bench": {
+      "story_id": "sep11-mongolia-bench",
+      "printify_product_id": "6aa60ca42dde660462029095",
+      "external_id": "31923815",
+      "product_url": "https://blappos.printify.me/product/31923815"
+    },
+    "sep12-arizona-coyote": {
+      "story_id": "sep12-arizona-coyote",
+      "printify_product_id": "6aa69cd1119dcfc3450baf88",
+      "external_id": "31933187",
+      "product_url": "https://blappos.printify.me/product/31933187"
+    },
+    "sep12-kerala-bus": {
+      "story_id": "sep12-kerala-bus",
+      "printify_product_id": "6aa69cdfb097d7c5f4043a4c",
+      "external_id": "31933189",
+      "product_url": "https://blappos.printify.me/product/31933189"
+    },
+    "sep12-singapore-gifts": {
+      "story_id": "sep12-singapore-gifts",
+      "printify_product_id": "6aa69ceeb097d7c5f4043a55",
+      "external_id": "31933191",
+      "product_url": "https://blappos.printify.me/product/31933191"
+    }
+  }
+}

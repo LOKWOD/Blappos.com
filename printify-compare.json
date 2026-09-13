@@ -1,0 +1,104 @@
+{
+  "master": {
+    "id": "6aa39c2bae1c3c660b0c05f5",
+    "title": "Joint Base Andrews Magnet - \"Evacuation Before Takeoff\" Vintage Airfield Refrigerator Magnet",
+    "visible": true,
+    "is_locked": false,
+    "is_printify_express_eligible": false,
+    "external": {
+      "id": "31867302",
+      "handle": "https://blappos.printify.me/product/31867302",
+      "type": 15
+    },
+    "variants": [
+      {
+        "id": 62034,
+        "is_enabled": true,
+        "is_available": true,
+        "price": 999,
+        "cost": 287
+      },
+      {
+        "id": 62035,
+        "is_enabled": false,
+        "is_available": true,
+        "price": 546,
+        "cost": 328
+      },
+      {
+        "id": 62036,
+        "is_enabled": false,
+        "is_available": true,
+        "price": 821,
+        "cost": 493
+      }
+    ],
+    "images": [
+      {
+        "position": "front",
+        "is_default": true,
+        "variant_ids": [
+          62034
+        ]
+      },
+      {
+        "position": "front",
+        "is_default": false,
+        "variant_ids": [
+          62034
+        ]
+      }
+    ]
+  },
+  "test": {
+    "id": "6aa3a2a606ee22a850065853",
+    "title": "Malibu, California Magnet — Nicolas Cage’s driveway gets a basement it did not order",
+    "visible": true,
+    "is_locked": false,
+    "is_printify_express_eligible": false,
+    "external": {
+      "id": "31867646",
+      "handle": "https://blappos.printify.me/product/31867646",
+      "type": 15
+    },
+    "variants": [
+      {
+        "id": 62034,
+        "is_enabled": true,
+        "is_available": true,
+        "price": 999,
+        "cost": 287
+      },
+      {
+        "id": 62035,
+        "is_enabled": false,
+        "is_available": true,
+        "price": 999,
+        "cost": 328
+      },
+      {
+        "id": 62036,
+        "is_enabled": false,
+        "is_available": true,
+        "price": 999,
+        "cost": 493
+      }
+    ],
+    "images": [
+      {
+        "position": "front",
+        "is_default": true,
+        "variant_ids": [
+          62034
+        ]
+      },
+      {
+        "position": "front",
+        "is_default": false,
+        "variant_ids": [
+          62034
+        ]
+      }
+    ]
+  }
+}

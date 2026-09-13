@@ -1,16 +1,502 @@
 window.dailyStories=[
- {id:'sep9-airforce-slide',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Joint Base Andrews, Maryland',image:'assets/cards/sep9-airforce-slide.png',title:'Air Force One deploys the exit before the president boards',facts:'President Donald Trump’s departure for Dallas was briefly delayed after an emergency slide deployed from the new Air Force One while the aircraft sat at Joint Base Andrews. Reuters reported that military personnel accidentally triggered the slide; crews removed it and the flight departed.',why:'Emergency slides are single-use equipment that must be removed and serviced after deployment, so an accidental inflation can turn a normal departure into an expensive tarmac reset. No emergency was reported and the trip continued.',angle:'The plane apparently heard “boarding begins” and selected “evacuate.” Nothing says presidential transportation like arriving at the jet and finding it has already tried to leave without you.',source:'https://www.reuters.com/world/trump-says-emergency-slide-is-being-checked-qatar-gifted-air-force-one-2026-09-09/',sourceName:'Read the Reuters report'},
- {id:'sep9-nicolas-sinkhole',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Malibu, California',image:'assets/cards/sep9-nicolas-sinkhole.png',title:'Nicolas Cage’s driveway gets a basement it did not order',facts:'A large sinkhole opened beneath the driveway of a beachfront Malibu home reportedly owned by Nicolas Cage, damaging the property and helping trigger evacuation orders along Sea Level Drive. Officials said the hole grew to roughly 25–30 feet deep and about 30 by 60 feet wide.',why:'The collapse followed severe surf, tides and coastal erosion associated with the remnants of Hurricane Marie. Authorities restricted access because the expanding void threatened homes, utilities and emergency access.',angle:'Nicolas Cage has survived stolen declarations, face swaps and a wicker-man situation. The driveway finally found a plot twist he had not already filmed.',source:'https://apnews.com/article/2bd3a67b83f46e79d0b78b5d462fb7fa',sourceName:'Read the AP report'},
- {id:'sep9-goat',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Snohomish County, Washington',image:'assets/cards/sep9-goat.png',title:'Escaped goat becomes acting neighborhood security director',facts:'Snohomish County sheriff’s deputies were called to wrangle an escaped goat with roughly one-foot horns after residents reported it was trying to ram people. Body-camera video captured deputies physically steering the very determined animal back into its pen.',why:'Nobody was reported seriously hurt, but residents stayed inside while deputies handled the animal. The sheriff’s office described the goat as taking its role as neighborhood menace very seriously.',angle:'For one afternoon the cul-de-sac had a new HOA president. Dues were payable in hay and all complaints were handled forehead-first.',source:'https://www.upi.com/Odd_News/2026/09/09/Snohomish-County-Washington-escaped-goat/5371788965345/',sourceName:'Read the UPI report'},
- {id:'sep9-hotdog',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Kansas City, Missouri',image:'assets/cards/sep9-hotdog.png',title:'Baseball crowd completes emergency stadium hot-dog assembly',facts:'Kansas City Royals fans had 35 seconds to bounce a giant inflatable hot dog and giant inflatable bun through separate sections of Kauffman Stadium and unite them. They pulled it off, earning free hot dogs for the crowd.',why:'The “Home Bun Race” happened during a Royals game against Toronto and became exactly the kind of low-stakes collective achievement the internet was built to preserve forever.',angle:'Thousands of people briefly achieved perfect coordination for the most American objective available: put the enormous meat tube in the enormous bread before time expires.',source:'https://www.upi.com/Odd_News/2026/09/09/home-bun-race-Kansas-City-royals/8641788970720/',sourceName:'Read the UPI report'},
- {id:'sep9-boa-engine',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'West Allis, Wisconsin',image:'assets/cards/sep9-boa-engine.png',title:'Wisconsin mechanic discovers one hose has opinions',facts:'A West Allis family inspecting a car engine spotted what first looked like a dirty hose. Then it turned and looked back. The object was a roughly four-foot boa constrictor wedged into the engine compartment.',why:'Animal-control officials brought in a reptile rescue, whose founder eventually coaxed the snake out. The boa was placed on a stray hold while officials looked for an owner.',angle:'This is why the repair manual says “inspect belts and hoses” but never says “maintain eye contact with them.”',source:'https://www.upi.com/Odd_News/2026/09/09/boa-constrictor-car-hood-West-Allis-Wisconsin/5751788971514/',sourceName:'Read the UPI report'},
- {id:'sep9-recliner-dog',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Joppatowne, Maryland',image:'assets/cards/sep9-recliner-dog.png',title:'Terrier loses argument with recliner; firefighters escalate immediately',facts:'A rescue terrier named Highway became so badly tangled inside a recliner that firefighters from the Joppa Magnolia Volunteer Fire Company brought in hydraulic rescue equipment. They used the Jaws of Life to free the dog before he was taken for emergency veterinary care.',why:'Reclining furniture contains moving metal mechanisms and tight internal spaces that can be dangerous for pets that crawl underneath or inside. The rescue drew a wave of similar pet-owner stories online.',angle:'Highway entered the chair looking for a nap and accidentally unlocked the full vehicle-extrication package.',source:'https://people.com/firefighters-rescue-dog-trapped-inside-recliner-in-maryland-12111746',sourceName:'Read the People report'},
- {id:'sep9-disc-golf',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Idaho',image:'assets/cards/sep9-disc-golf.png',title:'Disc golfers make relaxation stressful in 41.33 seconds',facts:'David Rush, Travis Davidson, Oliver Davidson and Anders Davidson set the Guinness World Records mark for the fastest hole of disc golf by a team of four, completing the attempt in 41.33 seconds.',why:'The record required accurate throws and a final uphill sprint to put the disc in the basket, turning a leisurely park sport into something much closer to a fire drill.',angle:'They successfully answered the question nobody asked: what if disc golf had the cardiovascular atmosphere of missing a flight?',source:'https://www.guinnessworldrecords.com/openvideo/v/david-rush-sets-new-world-record-for-hot-dog-toss',sourceName:'See the Guinness World Records listing'},
- {id:'sep9-lottery',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'White Plains, Maryland',image:'assets/cards/sep9-lottery.png',title:'Woman plays same lottery numbers for 20 years and finally wins the argument',facts:'A Maryland woman who said she had played the same Bonus Match 5 numbers for about two decades bought three tickets with the same combination for one drawing. All three hit the $50,000 prize, giving her a total of $150,000.',why:'The winner told lottery officials she had to call her sister to confirm the numbers because she did not believe what she was seeing. She said the money would go toward projects around the house.',angle:'Twenty years of “these numbers are due” has officially been upgraded from questionable math to family legend.',source:'https://www.upi.com/Odd_News/2026/09/09/lotto-Maryland-Lottery-20-years-Bonus-Match-5/6381788975567/',sourceName:'Read the UPI report'}
+ {"id":"sep11-tallest-horse","isoDate":"2026-09-11","month":"September","date":"Sep 11, 2026","place":"Towcester, England","image":"assets/cards/sep11-tallest-horse.svg","title":"World’s tallest living horse now needs upstairs neighbors","magnetUrl":"https://blappos.printify.me/product/31873524","magnetPrice":"$9.99","facts":"Hugo, a four-year-old Shire horse in Towcester, England, has been recognized in Guinness World Records 2027 as the world’s tallest living horse. A veterinarian measured him without horseshoes at 1.99 meters—about 6 feet 6 inches—at the withers.","why":"Shire horses were bred for heavy work and are among the world’s largest horse breeds. Hugo is still young, gentle and reportedly affectionate, meaning the record holder is essentially an enormous dog whose food comes by the bale.","angle":"Hugo is tall enough to inspect the second floor without entering the building. His owner does not lead him into a stable; she asks the stable for clearance.","amazonLinks":[{"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Guinness World Records 2027 book","quip":"The official book containing Hugo’s new record—and several pages sturdy enough to serve as his coaster.","url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"},{"title":"The Horse Encyclopedia","image":"https://m.media-amazon.com/images/P/1465451439.01.LZZZZZZZ.jpg","alt":"The Horse Encyclopedia book","quip":"A complete horse reference that may need a foldout page to accommodate Hugo.","url":"https://www.amazon.com/dp/1465451439?tag=blappos-20"},{"title":"Big Red Barn","image":"https://m.media-amazon.com/images/P/006443009X.01.LZZZZZZZ.jpg","alt":"Big Red Barn children’s book","quip":"Finally, a barn title that begins to acknowledge Hugo’s minimum housing requirements.","url":"https://www.amazon.com/dp/006443009X?tag=blappos-20"}],"source":"https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/09/10/cavalo-de-quase-dois-metros-supera-marca-e-vira-o-mais-alto-vivo-do-mundo.ghtm","sourceName":"Read the report"},
+ {"id":"sep11-prince-william-croc","isoDate":"2026-09-11","month":"September","date":"Sep 11, 2026","place":"Queensland, Australia","image":"assets/cards/sep11-prince-william-croc.svg","title":"Prince William is now a 12-foot crocodile, technically","magnetUrl":"https://blappos.printify.me/product/31873535","magnetPrice":"$9.99","facts":"Robert Irwin announced that the 300th crocodile tagged in a long-running conservation study at the Steve Irwin Wildlife Reserve has been named Prince William. The 12-foot-6-inch saltwater crocodile will carry a tracker for the next decade.","why":"Researchers will use the tracker to study the crocodile’s movements, diet, body temperature and social behavior. Irwin chose the royal name to recognize the Prince of Wales’s conservation work and the Earthshot Prize.","angle":"Britain has finally produced a royal who can settle constitutional questions with a death roll. Palace staff describe him as reserved, traditional and extremely difficult to fit for trousers.","amazonLinks":[{"title":"The Earthshot Prize: A Handbook for Dreamers and Thinkers","image":"https://m.media-amazon.com/images/P/1526364697.01.LZZZZZZZ.jpg","alt":"The Earthshot Prize handbook","quip":"The conservation handbook behind the work that earned Prince William the rare honor of becoming a giant crocodile.","url":"https://www.amazon.com/dp/1526364697?tag=blappos-20"},{"title":"Crocodiles by Seymour Simon","image":"https://m.media-amazon.com/images/P/0064438295.01.LZZZZZZZ.jpg","alt":"Crocodiles by Seymour Simon book","quip":"Background reading for distinguishing the future king from the other 299 research subjects.","url":"https://www.amazon.com/dp/0064438295?tag=blappos-20"},{"title":"National Geographic Readers: Crocodiles","image":"https://m.media-amazon.com/images/P/1426319479.01.LZZZZZZZ.jpg","alt":"National Geographic Readers Crocodiles book","quip":"A beginner’s guide to royal protocol when the receiving line is twelve feet long and heavily armored.","url":"https://www.amazon.com/dp/1426319479?tag=blappos-20"}],"source":"https://people.com/robert-irwin-names-crocodile-after-prince-william-12076627","sourceName":"Read the People report"},
+  {id:'sep10-narrowest-car',isoDate:'2026-09-10',month:'September',date:'Sep 10, 2026',place:'Global',image:'assets/cards/sep10-narrowest-car.webp',title:'World’s narrowest drivable car leaves elbow room off the blueprint',magnetUrl:'https://blappos.printify.me/product/31868618',magnetPrice:'$9.99',facts:'Guinness World Records marked the arrival of its 2027 annual book by announcing a collection of new record holders, including the world’s narrowest drivable car. It is a functioning vehicle, not merely a tiny display model.',why:'Record vehicles are usually optimized around one extreme. Making a car extraordinarily narrow while keeping it drivable turns ordinary packaging—steering, controls, wheels and a human driver—into the entire engineering challenge.',angle:'At last, a car for drivers who look at a bicycle lane and complain about all the wasted real estate. The glove compartment has been replaced by one glove.',amazonLinks:[{"title":"Drop Stop Car Seat Gap Fillers — Set of 2","image":"https://m.media-amazon.com/images/I/71aaOjmFYtL._AC_SL1440_.jpg","alt":"Two Drop Stop car seat gap fillers","quip":"The world’s narrowest car solves the seat-gap problem by nearly eliminating the possibility of a gap.","url":"https://www.amazon.com/dp/B00BYH6C1E?tag=blappos-20"},{"title":"HOTOR Compact 2-Gallon Car Trash Can","image":"https://m.media-amazon.com/images/I/51wza8T539L._AC_SL1500_.jpg","alt":"HOTOR compact car trash can","quip":"A compact bin for a car whose entire cabin may already qualify as compact storage.","url":"https://www.amazon.com/dp/B07VGRVKSN?tag=blappos-20"},{"title":"Ampper 2-Inch Blind Spot Mirrors — Pack of 2","image":"https://m.media-amazon.com/images/I/71hWoORU83L._AC_SL1500_.jpg","alt":"Pair of Ampper round blind spot mirrors","quip":"Two-inch mirrors for a car so narrow the blind spot may be wider than the vehicle.","url":"https://www.amazon.com/dp/B01CV4ANCC?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/',sourceName:'Read the UPI Odd News report'},
+ {id:'sep10-monitor-lizard',isoDate:'2026-09-10',month:'September',date:'Sep 10, 2026',place:'Missouri',image:'assets/cards/sep10-monitor-lizard.webp',title:'Missouri storm drain reveals unexpected dragon setting',magnetUrl:'https://blappos.printify.me/product/31868644',magnetPrice:'$9.99',facts:'An Asian water monitor lizard was fished out of a storm drain in Missouri. The large reptile is not native to the state, making the underground encounter considerably stranger than the usual clogged-drain call.',why:'Asian water monitors are powerful, semiaquatic lizards commonly kept in the exotic-pet trade. Outside their native range, a loose animal can pose a difficult rescue problem for both the reptile and the people trying to retrieve it safely.',angle:'Missouri checked the storm drain and discovered the municipal sewer package had quietly upgraded to include dragons. The alligators-in-the-sewer union has filed a jurisdictional complaint.',amazonLinks:[{"title":"National Geographic Readers: Lizards","image":"https://m.media-amazon.com/images/P/1426309228.01.LZZZZZZZ.jpg","alt":"National Geographic Readers Lizards book","quip":"A quick identification guide for confirming that the animal in the drain is wildly outside Missouri’s normal specifications.","url":"https://www.amazon.com/dp/1426309228?tag=blappos-20"},{"title":"Ultimate Reptileopedia: The Most Complete Reptile Reference Ever","image":"https://m.media-amazon.com/images/P/1426321023.01.LZZZZZZZ.jpg","alt":"Ultimate Reptileopedia reference book","quip":"The full reference for when one storm-drain lizard turns a routine call into an exotic-species exam.","url":"https://www.amazon.com/dp/1426321023?tag=blappos-20"},{"title":"National Geographic Kids Everything Reptiles","image":"https://m.media-amazon.com/images/P/1426313683.01.LZZZZZZZ.jpg","alt":"National Geographic Kids Everything Reptiles book","quip":"Required reading after Missouri plumbing unexpectedly begins issuing dragons.","url":"https://www.amazon.com/dp/1426313683?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/',sourceName:'Read the UPI Odd News report'},
+ {id:'sep10-marmot-coolant',isoDate:'2026-09-10',month:'September',date:'Sep 10, 2026',place:'San Francisco, California',image:'assets/cards/sep10-marmot-coolant.webp',title:'Mystery marmot treats radiator fluid like a tasting menu',magnetUrl:'https://blappos.printify.me/product/31868361',magnetPrice:'$9.99',facts:'A mystery marmot found in San Francisco reportedly drank radiator fluid and required help from animal-care professionals. The unusual rescue became one of September 10’s standout odd-news stories.',why:'Antifreeze can be dangerously toxic to animals, and wildlife that wanders around vehicles may encounter leaked automotive fluids. The episode is funny as a headline but also a reminder to clean spills and keep chemicals secured.',angle:'The marmot arrived in San Francisco, skipped the sourdough and went directly to the fluorescent-green house special. The sommelier has been dismissed.',amazonLinks:[{"title":"OTOTO Baby Nessie Tea Infuser","image":"https://m.media-amazon.com/images/I/71x3v3kOFFL._AC_SL1500_.jpg","alt":"Baby Nessie loose-leaf tea infuser","quip":"For beverages that should be steeped, served and—unlike radiator fluid—approved for mammals.","url":"https://www.amazon.com/dp/B01DHUJAKU?tag=blappos-20"},{"title":"Ostrichpillow Original Travel Pillow","image":"https://m.media-amazon.com/images/I/71mYkyZFA-L._AC_SL1500_.jpg","alt":"Ostrichpillow Original travel pillow","quip":"Post-tasting hibernation equipment for anyone overwhelmed by the coolant menu.","url":"https://www.amazon.com/dp/B00B4S6SLW?tag=blappos-20"},{"title":"The Screaming Goat (Book & Figure)","image":"assets/products/screaming-goat.jpg","alt":"The Screaming Goat miniature book and figure","quip":"A compact automotive warning system programmed to scream when wildlife approaches the radiator.","url":"https://www.amazon.com/dp/0762459816?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/',sourceName:'Read the UPI Odd News report'},
+ {id:'sep10-bagel-driver',isoDate:'2026-09-10',month:'September',date:'Sep 10, 2026',place:'Toowoomba, Australia',image:'assets/cards/sep10-bagel-driver.webp',title:'Driver discovers bagel preparation is not a hands-free feature',magnetUrl:'https://blappos.printify.me/product/31882313',magnetPrice:'$9.99',facts:'Queensland police said a 29-year-old provisional-license driver was caught steering a silver Honda HR-V with his knees while using both hands to butter a bagel in heavy traffic on Tor Street in Newtown, Toowoomba. Officers also found the vehicle was unregistered.',why:'Police fined the driver A$1,104 and issued three demerit points. He reportedly admitted the choice was “stupid” and explained that he was hungry after working since morning; police used the incident to warn that even ordinary distractions can have serious consequences.',angle:'The driver kept both hands on breakfast and trusted the commute to his knees. Queensland has now added a useful road-safety rule: don’t schmear and steer.',amazonLinks:[{title:'Hoan Bagel Biter Bagel Slicer',image:'https://m.media-amazon.com/images/I/31BnzSzooDL._AC_SL1000_.jpg',alt:'Hoan Bagel Biter bagel slicer',quip:'A countertop device that completes the dangerous part of bagel preparation before the ignition key enters the story.',url:'https://www.amazon.com/dp/B000HS7JPY?tag=blappos-20',salesPriority:5},{title:'Yeeper Small Cream Cheese Spreader Knives',image:'https://m.media-amazon.com/images/I/51+pkUuMInL._AC_SL1000_.jpg',alt:'Yeeper small wooden-handle spreader knives',quip:'Purpose-built schmear equipment for use at a table, where knees are not part of the steering system.',url:'https://www.amazon.com/dp/B08RDPMMR8?tag=blappos-20',salesPriority:4},{title:'Bagels, Schmears, and a Nice Piece of Fish',image:'https://m.media-amazon.com/images/P/1797210556.01.LZZZZZZZ.jpg',alt:'Bagels, Schmears, and a Nice Piece of Fish cookbook',quip:'A complete bagel education with the crucial unspoken chapter: finish the recipe before entering traffic.',url:'https://www.amazon.com/dp/1797210556?tag=blappos-20',salesPriority:5}],source:'https://www.news.com.au/technology/motoring/on-the-road/pplater-fined-after-using-knees-to-drive-car-while-buttering-a-bagel/news-story/4855eb64ca484b9ae7e5f14d52255521',sourceName:'Read the News.com.au report'},
+ {id:'sep9-airforce-slide',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Joint Base Andrews, Maryland',image:'assets/cards/sep9-airforce-slide.webp',title:'Air Force One deploys the exit before the president boards',magnetUrl:'https://blappos.printify.me/product/31867302',magnetPrice:'$9.99',facts:'President Donald Trump’s departure for Dallas was briefly delayed after an emergency slide deployed from the new Air Force One while the aircraft sat at Joint Base Andrews. Reuters reported that military personnel accidentally triggered the slide; crews removed it and the flight departed.',why:'Emergency slides are single-use equipment that must be removed and serviced after deployment, so an accidental inflation can turn a normal departure into an expensive tarmac reset. No emergency was reported and the trip continued.',angle:'The plane apparently heard “boarding begins” and selected “evacuate.” Nothing says presidential transportation like arriving at the jet and finding it has already tried to leave without you.',amazonLinks:[{"title":"Ostrichpillow Original Travel Pillow","image":"https://m.media-amazon.com/images/I/71mYkyZFA-L._AC_SL1500_.jpg","alt":"Ostrichpillow Original travel pillow","quip":"For travelers who want to evacuate from consciousness before the slide evacuates itself.","url":"https://www.amazon.com/dp/B00B4S6SLW?tag=blappos-20"},{"title":"Wacky Waving Inflatable Tube Guy","image":"https://m.media-amazon.com/images/I/71xmJjfakxL._SL1500_.jpg","alt":"Mini wacky waving inflatable tube guy","quip":"A pocket-size reenactment of what the aircraft did on the tarmac.","url":"https://www.amazon.com/dp/0762462876?tag=blappos-20"},{"title":"Air Force One: The Aircraft That Shaped the Modern Presidency","image":"https://m.media-amazon.com/images/P/1559718943.01.LZZZZZZZ.jpg","alt":"Air Force One history book","quip":"The serious reference guide, presumably with a chapter titled “Please Do Not Pull That.”","url":"https://www.amazon.com/dp/1559718943?tag=blappos-20"}],source:'https://www.reuters.com/world/trump-says-emergency-slide-is-being-checked-qatar-gifted-air-force-one-2026-09-09/',sourceName:'Read the Reuters report'},
+ {id:'sep9-nicolas-sinkhole',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Malibu, California',image:'assets/cards/sep9-nicolas-sinkhole.webp',title:'Nicolas Cage’s driveway gets a basement it did not order',magnetUrl:'https://blappos.printify.me/product/31867646',magnetPrice:'$9.99',facts:'A large sinkhole opened beneath the driveway of a beachfront Malibu home reportedly owned by Nicolas Cage, damaging the property and helping trigger evacuation orders along Sea Level Drive. Officials said the hole grew to roughly 25–30 feet deep and about 30 by 60 feet wide.',why:'The collapse followed severe surf, tides and coastal erosion associated with the remnants of Hurricane Marie. Authorities restricted access because the expanding void threatened homes, utilities and emergency access.',angle:'Nicolas Cage has survived stolen declarations, face swaps and a wicker-man situation. The driveway finally found a plot twist he had not already filmed.',amazonLinks:[{"title":"Voodoo Child — Created by Nicolas Cage and Weston Cage","image":"assets/products/voodoo-9780981480800.jpg","alt":"Voodoo Child graphic novel created by Nicolas Cage and Weston Cage","quip":"The actual Cage-created graphic novel, for a driveway disaster that already sounds like his next movie.","url":"https://www.amazon.com/dp/0981480802?tag=blappos-20"},{"title":"Nicolas Cage Reversible Sequin Pillow Cover","image":"https://m.media-amazon.com/images/I/81vF6TXYz-L._AC_SL1500_.jpg","alt":"Nicolas Cage reversible sequin pillow cover","quip":"Brush the sequins and reveal the only face qualified to stare into a 30-foot sinkhole.","url":"https://www.amazon.com/dp/B0CP3HDM6N?tag=blappos-20"},{"title":"Nicolas Cage Coloring Book","image":"https://m.media-amazon.com/images/P/B0BSJ6FSS5.01.LZZZZZZZ.jpg","alt":"Unofficial Nicolas Cage novelty coloring book","quip":"Color inside the lines while Malibu declines to do the same.","url":"https://www.amazon.com/dp/B0BSJ6FSS5?tag=blappos-20"}],source:'https://apnews.com/article/2bd3a67b83f46e79d0b78b5d462fb7fa',sourceName:'Read the AP report'},
+ {id:'sep9-goat',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Snohomish County, Washington',image:'assets/cards/sep9-goat.webp',title:'Escaped goat becomes acting neighborhood security director',magnetUrl:'https://blappos.printify.me/product/31867947',magnetPrice:'$9.99',facts:'Snohomish County sheriff’s deputies were called to wrangle an escaped goat with roughly one-foot horns after residents reported it was trying to ram people. Body-camera video captured deputies physically steering the very determined animal back into its pen.',why:'Nobody was reported seriously hurt, but residents stayed inside while deputies handled the animal. The sheriff’s office described the goat as taking its role as neighborhood menace very seriously.',angle:'For one afternoon the cul-de-sac had a new HOA president. Dues were payable in hay and all complaints were handled forehead-first.',amazonLinks:[{"title":"The Screaming Goat (Book & Figure)","image":"assets/products/screaming-goat.jpg","alt":"The Screaming Goat miniature book and screaming goat figure","quip":"A desk-size witness who can provide the neighborhood’s official statement.","url":"https://www.amazon.com/dp/0762459816?tag=blappos-20"},{"title":"The Little Book of Goat Yoga","image":"https://m.media-amazon.com/images/P/1473698499.01.LZZZZZZZ.jpg","alt":"The Little Book of Goat Yoga","quip":"De-escalation training for horned HOA presidents, now with breathing exercises.","url":"https://www.amazon.com/dp/1473698499?tag=blappos-20"},{"title":"The Screaming Christmas Goat","image":"https://m.media-amazon.com/images/P/0762482893.01.LZZZZZZZ.jpg","alt":"The Screaming Christmas Goat book and figure","quip":"Because one screaming goat is a news story; two is a seasonal collection.","url":"https://www.amazon.com/dp/0762482893?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/2026/09/09/Snohomish-County-Washington-escaped-goat/5371788965345/',sourceName:'Read the UPI report'},
+ {id:'sep9-hotdog',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Kansas City, Missouri',image:'assets/cards/sep9-hotdog.webp',title:'Baseball crowd completes emergency stadium hot-dog assembly',magnetUrl:'https://blappos.printify.me/product/31867951',magnetPrice:'$9.99',facts:'Kansas City Royals fans had 35 seconds to bounce a giant inflatable hot dog and giant inflatable bun through separate sections of Kauffman Stadium and unite them. They pulled it off, earning free hot dogs for the crowd.',why:'The “Home Bun Race” happened during a Royals game against Toronto and became exactly the kind of low-stakes collective achievement the internet was built to preserve forever.',angle:'Thousands of people briefly achieved perfect coordination for the most American objective available: put the enormous meat tube in the enormous bread before time expires.',amazonLinks:[{"title":"GOOSH Inflatable Hot Dog Costume","image":"assets/products/inflatable-hot-dog.jpg","alt":"Adult inflatable hot dog costume","quip":"The emergency backup frank, should the stadium bun fail to achieve contact.","url":"https://www.amazon.com/dp/B0DPX57JBP?tag=blappos-20"},{"title":"The Great American Hot Dog Book","image":"https://m.media-amazon.com/images/P/1423600223.01.LZZZZZZZ.jpg","alt":"The Great American Hot Dog Book","quip":"Required reading before thousands of strangers assemble lunch by crowd-surfing.","url":"https://www.amazon.com/dp/1423600223?tag=blappos-20"},{"title":"Vlasic Dill Pickle Corn Puffs","image":"https://m.media-amazon.com/images/I/71c4xfpiQVL._SL1500_.jpg","alt":"Bag of Vlasic dill pickle flavored corn puffs","quip":"For anyone whose hot dog toppings must also arrive as airborne stadium snacks.","url":"https://www.amazon.com/dp/B0DGZ93J34?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/2026/09/09/home-bun-race-Kansas-City-royals/8641788970720/',sourceName:'Read the UPI report'},
+ {id:'sep9-boa-engine',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'West Allis, Wisconsin',image:'assets/cards/sep9-boa-engine.webp',title:'Wisconsin mechanic discovers one hose has opinions',magnetUrl:'https://blappos.printify.me/product/31867952',magnetPrice:'$9.99',facts:'A West Allis family inspecting a car engine spotted what first looked like a dirty hose. Then it turned and looked back. The object was a roughly four-foot boa constrictor wedged into the engine compartment.',why:'Animal-control officials brought in a reptile rescue, whose founder eventually coaxed the snake out. The boa was placed on a stray hold while officials looked for an owner.',angle:'This is why the repair manual says “inspect belts and hoses” but never says “maintain eye contact with them.”',amazonLinks:[{"title":"OTOTO Baby Nessie Tea Infuser","image":"https://m.media-amazon.com/images/I/71x3v3kOFFL._AC_SL1500_.jpg","alt":"Baby Nessie loose-leaf tea infuser","quip":"A friendlier serpentine object to discover lurking in a hot liquid compartment.","url":"https://www.amazon.com/dp/B01DHUJAKU?tag=blappos-20"},{"title":"There’s a Snake in My School!","image":"https://m.media-amazon.com/images/P/0008172706.01.LZZZZZZZ.jpg","alt":"There’s a Snake in My School children’s book","quip":"Close enough—just replace “school” with “engine bay” and add a mechanic screaming off-page.","url":"https://www.amazon.com/dp/0008172706?tag=blappos-20"},{"title":"Wearable Shark Blanket","image":"https://m.media-amazon.com/images/I/51WyCFq0XUL._AC_SL1000_.jpg","alt":"Wearable shark blanket sleeping bag","quip":"For people who saw four feet of reptile under the hood and wanted to lose to a different animal.","url":"https://www.amazon.com/dp/B0CH9TWC91?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/2026/09/09/boa-constrictor-car-hood-West-Allis-Wisconsin/5751788971514/',sourceName:'Read the UPI report'},
+ {id:'sep9-recliner-dog',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Joppatowne, Maryland',image:'assets/cards/sep9-recliner-dog.webp',title:'Terrier loses argument with recliner; firefighters escalate immediately',magnetUrl:'https://blappos.printify.me/product/31867957',magnetPrice:'$9.99',facts:'A rescue terrier named Highway became so badly tangled inside a recliner that firefighters from the Joppa Magnolia Volunteer Fire Company brought in hydraulic rescue equipment. They used the Jaws of Life to free the dog before he was taken for emergency veterinary care.',why:'Reclining furniture contains moving metal mechanisms and tight internal spaces that can be dangerous for pets that crawl underneath or inside. The rescue drew a wave of similar pet-owner stories online.',angle:'Highway entered the chair looking for a nap and accidentally unlocked the full vehicle-extrication package.',amazonLinks:[{"title":"Chenille Dog Hand Towel","image":"https://m.media-amazon.com/images/I/612tJq5VD2L._AC_SL1500_.jpg","alt":"Fluffy chenille dog-shaped hand towel","quip":"A tiny dog engineered to hang safely outside the furniture.","url":"https://www.amazon.com/dp/B0FRLKDX1J?tag=blappos-20"},{"title":"Dog Shaming","image":"https://m.media-amazon.com/images/P/0385349343.01.LZZZZZZZ.jpg","alt":"Dog Shaming humor book","quip":"Highway’s sign: “I made the recliner require hydraulic rescue equipment.”","url":"https://www.amazon.com/dp/0385349343?tag=blappos-20"},{"title":"BBQ Meat Shredder Claws","image":"https://m.media-amazon.com/images/I/71Z0h08fPtL._AC_SL1500_.jpg","alt":"Pair of barbecue meat shredder claws","quip":"The household edition of the Jaws of Life—do not test this theory on the chair.","url":"https://www.amazon.com/dp/B01N5U14FA?tag=blappos-20"}],source:'https://people.com/firefighters-rescue-dog-trapped-inside-recliner-in-maryland-12111746',sourceName:'Read the People report'},
+ {id:'sep9-disc-golf',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Idaho',image:'assets/cards/sep9-disc-golf.webp',title:'Disc golfers make relaxation stressful in 41.33 seconds',magnetUrl:'https://blappos.printify.me/product/31867960',magnetPrice:'$9.99',facts:'David Rush, Travis Davidson, Oliver Davidson and Anders Davidson set the Guinness World Records mark for the fastest hole of disc golf by a team of four, completing the attempt in 41.33 seconds.',why:'The record required accurate throws and a final uphill sprint to put the disc in the basket, turning a leisurely park sport into something much closer to a fire drill.',angle:'They successfully answered the question nobody asked: what if disc golf had the cardiovascular atmosphere of missing a flight?',amazonLinks:[{"title":"Towch Disc Golf Towel Pouch","image":"https://m.media-amazon.com/images/I/417bNYXoWdL.jpg","alt":"Black Towch disc golf towel pouch","quip":"Carries three to five discs, which is apparently enough equipment for a 41-second emergency.","url":"https://www.amazon.com/dp/B00YADXB36?tag=blappos-20"},{"title":"Zen & the Art of Disc Golf","image":"https://m.media-amazon.com/images/P/1502779331.01.LZZZZZZZ.jpg","alt":"Zen and the Art of Disc Golf book","quip":"A calm, centered rebuttal to turning the park into a four-person fire drill.","url":"https://www.amazon.com/dp/1502779331?tag=blappos-20"},{"title":"Dance Party Button","image":"https://m.media-amazon.com/images/I/61bqFwxDgmL._AC_SL1500_.jpg","alt":"Light-up dance party sound button","quip":"Smack it at 41.34 seconds and let the tiny victory ceremony begin.","url":"https://www.amazon.com/dp/B09LDB1SV9?tag=blappos-20"}],source:'https://www.guinnessworldrecords.com/openvideo/v/david-rush-sets-new-world-record-for-hot-dog-toss',sourceName:'See the Guinness World Records listing'},
+ {id:'sep9-lottery',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'White Plains, Maryland',image:'assets/cards/sep9-lottery.webp',title:'Woman plays same lottery numbers for 20 years and finally wins the argument',magnetUrl:'https://blappos.printify.me/product/31867966',magnetPrice:'$9.99',facts:'A Maryland woman who said she had played the same Bonus Match 5 numbers for about two decades bought three tickets with the same combination for one drawing. All three hit the $50,000 prize, giving her a total of $150,000.',why:'The winner told lottery officials she had to call her sister to confirm the numbers because she did not believe what she was seeing. She said the money would go toward projects around the house.',angle:'Twenty years of “these numbers are due” has officially been upgraded from questionable math to family legend.',amazonLinks:[{"title":"Lottery Winning Strategies & 70 Percent Win Formula","image":"https://m.media-amazon.com/images/P/094576023X.01.LZZZZZZZ.jpg","alt":"Lottery Winning Strategies book","quip":"For anyone who wants to turn “same numbers for 20 years” into a written business plan.","url":"https://www.amazon.com/dp/094576023X?tag=blappos-20"},{"title":"The Lottery and Other Stories","image":"https://m.media-amazon.com/images/P/0374529531.01.LZZZZZZZ.jpg","alt":"The Lottery and Other Stories by Shirley Jackson","quip":"Not a financial guide, but certainly the most ominous way to celebrate a winning ticket.","url":"https://www.amazon.com/dp/0374529531?tag=blappos-20"},{"title":"The Winner","image":"https://m.media-amazon.com/images/P/1538711796.01.LZZZZZZZ.jpg","alt":"The Winner novel by David Baldacci","quip":"A title accurate enough to display beside three identical $50,000 tickets.","url":"https://www.amazon.com/dp/1538711796?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/2026/09/09/lotto-Maryland-Lottery-20-years-Bonus-Match-5/6381788975567/',sourceName:'Read the UPI report'}
 ];
 
+const verifiedSourceCorrections={
+ 'sep10-narrowest-car':{source:'https://www.youtube.com/watch?v=M_IFdyBrWQA',sourceName:'Watch the Guinness World Records report'},
+ 'sep9-disc-golf':{source:'https://www.youtube.com/shorts/7-ih0vd9hMQ',sourceName:'Watch the Guinness World Records attempt'}
+};
+window.dailyStories.forEach(story=>Object.assign(story,verifiedSourceCorrections[story.id]||{}));
+
 window.dailyFinds=[
+ {storyId:'sep10-marmot-coolant',title:'Prestone AF-1420 Antifreeze/Coolant Tester',image:'https://images-na.ssl-images-amazon.com/images/P/B000BOA9RY.01.LZZZZZZZ.jpg',alt:'Prestone antifreeze and coolant tester',quip:'For checking the radiator’s vintage before the local marmot appoints itself coolant sommelier.',url:'https://www.amazon.com/dp/B000BOA9RY?tag=blappos-20'},
+ {storyId:'sep10-marmot-coolant',title:'Loraffe 12V/24V Ultrasonic Under Hood Rodent Repellent — 2 Pack',image:'https://m.media-amazon.com/images/I/51yhzOPYWKL._AC_SL1000_.jpg',alt:'Loraffe ultrasonic under-hood animal repeller two-pack',quip:'A tiny nightclub for your engine bay: ultrasonic noise, flashing lights and absolutely no marmot reservations.',url:'https://www.amazon.com/dp/B07D118ZRJ?tag=blappos-20'},
+ {storyId:'sep10-marmot-coolant',title:'GOLENER Oil Spill Mat — 29 by 36 Inches',image:'https://m.media-amazon.com/images/I/71QMqrgG-KL._AC_SL1500_.jpg',alt:'GOLENER absorbent automotive fluid spill mat',quip:'Catch the fluorescent buffet before wildlife discovers the driveway tasting menu.',url:'https://www.amazon.com/dp/B0D2XVTTML?tag=blappos-20'},
  {storyId:'sep9-goat',title:'The Screaming Goat (Book & Figure)',image:'assets/products/screaming-goat.jpg',alt:'The Screaming Goat miniature book and screaming goat figure',quip:'For anyone who read “horned neighborhood menace” and thought: put that on my desk.',url:'https://www.amazon.com/dp/0762459816?tag=blappos-20'},
  {storyId:'sep9-nicolas-sinkhole',title:'Voodoo Child — Created by Nicolas Cage and Weston Cage',image:'assets/products/voodoo-9780981480800.jpg',alt:'Voodoo Child graphic novel created by Nicolas Cage and Weston Cage',quip:'The actual graphic novel created by Nicolas Cage—because apparently a collapsing Malibu driveway was not enough plot.',url:'https://www.amazon.com/dp/0981480802?tag=blappos-20'},
  {storyId:'sep9-hotdog',title:'GOOSH Inflatable Hot Dog Costume Adult Food Funny Halloween Blow Up Costume',image:'assets/products/inflatable-hot-dog.jpg',alt:'GOOSH adult inflatable hot dog costume',quip:'The emergency backup hot dog, should the stadium bun fail to achieve contact.',url:'https://www.amazon.com/dp/B0DPX57JBP?tag=blappos-20'}
 ];
+
+// Sep. 10 verification pass: only stories with exact dated sources and three
+// directly matched, image-first Amazon cards remain eligible for publication.
+const tallestHorse=window.dailyStories.find(story=>story.id==='sep11-tallest-horse');
+Object.assign(tallestHorse,{
+ isoDate:'2026-09-10',
+ date:'Sep 10, 2026',
+ image:'assets/cards/sep10-tallest-horse.webp',
+ facts:'Hugo, a four-year-old Shire horse in Towcester, England, was recognized in Guinness World Records 2027 as the world’s tallest living horse. A veterinarian measured him without horseshoes at 1.99 meters—about 6 feet 6 inches—at the withers.',
+ why:'Shire horses were bred for heavy work and are among the world’s largest horse breeds. Hugo is still young, gentle and reportedly affectionate, while the breed itself is now critically endangered.',
+ amazonLinks:[
+  {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of the Guinness World Records 2027 book',quip:'The official record book containing Hugo’s new title—and several pages sturdy enough to serve as his coaster.',salesPriority:5,url:'https://www.amazon.com/dp/1806500256?tag=blappos-20'},
+  {title:'The Horse Encyclopedia (DK Pet Encyclopedias)',image:'https://m.media-amazon.com/images/I/71nQ+QPJ6nL._SL1500_.jpg',alt:'Cover of The Horse Encyclopedia from DK',quip:'A complete horse reference that may need a foldout page to accommodate Hugo.',salesPriority:4,url:'https://www.amazon.com/dp/1465451439?tag=blappos-20'},
+  {title:'Encyclopedia of Horse Breeds',image:'https://m.media-amazon.com/images/I/61fFs6ixLVL._SL1000_.jpg',alt:'Cover of Encyclopedia of Horse Breeds by Hendricks',quip:'For identifying the Shire breed before the specimen peers into your second-floor window.',salesPriority:3,url:'https://www.amazon.com/dp/080613884X?tag=blappos-20'}
+ ],
+ source:'https://people.com/hugo-the-shire-horse-claims-title-of-world-s-tallest-horse-12115531',
+ sourceName:'Read the People report'
+});
+
+const princeCroc=window.dailyStories.find(story=>story.id==='sep11-prince-william-croc');
+Object.assign(princeCroc,{
+ isoDate:'2026-09-02',
+ date:'Sep 2, 2026',
+ image:'assets/cards/sep11-prince-william-croc.webp'
+});
+princeCroc.amazonLinks.forEach((item,index)=>item.salesPriority=[4,3,3][index]);
+
+const narrowCar=window.dailyStories.find(story=>story.id==='sep10-narrowest-car');
+Object.assign(narrowCar,{
+ place:'Bagnolo Cremasco, Italy',
+ facts:'Italian mechanic Andrea Marazzi turned a salvaged 1993 Fiat Panda into the world’s narrowest drivable car. The electric “Flat Fiat” is 50.20 centimeters (19.76 inches) wide, has four wheels, one headlight and one seat, and retains more than 90 percent of the original car’s parts.',
+ why:'Marazzi spent about a year fitting a driver, steering, controls and a working powertrain into a slice of car. The finished vehicle weighs about 264 kilograms, reaches roughly 15 km/h and is not street legal.',
+ amazonLinks:[
+  {title:'Drop Stop - Original Car Seat Gap Filler (Shark Tank) - Set of 2 + Gifts',image:'https://m.media-amazon.com/images/I/71aaOjmFYtL._AC_SL1440_.jpg',alt:'Pair of black Drop Stop car seat gap fillers',quip:'For the one-seat Flat Fiat, where losing anything beside the seat may count as exterior storage.',salesPriority:5,url:'https://www.amazon.com/dp/B00BYH6C1E?tag=blappos-20'},
+  {title:'Ampper Blind Spot Mirror, 2" Round HD Glass Frameless Convex Rear View Mirror, Pack of 2',image:'https://m.media-amazon.com/images/I/71hWoORU83L._AC_SL1500_.jpg',alt:'Pair of Ampper two-inch round blind-spot mirrors',quip:'Two-inch mirrors for a car so narrow the blind spot may be wider than the vehicle.',salesPriority:4,url:'https://www.amazon.com/dp/B01CV4ANCC?tag=blappos-20'},
+  {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of the Guinness World Records 2027 book',quip:'The record book that makes the 19.76-inch Flat Fiat officially more than a very committed door.',salesPriority:5,url:'https://www.amazon.com/dp/1806500256?tag=blappos-20'}
+ ],
+ source:'https://www.thesun.co.uk/news/40340374/mechanic-smashes-world-record-narrowest-car/',
+ sourceName:'Read The Sun report'
+});
+
+const ponyCollection={
+ id:'sep10-pony-collection',
+ isoDate:'2026-09-10',
+ month:'September',
+ date:'Sep 10, 2026',
+ place:'Lowestoft, England',
+ image:'assets/cards/sep10-pony-collection.webp',
+ title:'Denied one horse, woman acquires 7,500 ponies instead',magnetUrl:'https://blappos.printify.me/product/31873563',magnetPrice:'$9.99',
+ facts:'Miranda Worby of Lowestoft, England, earned a Guinness World Record after 4,550 My Little Pony items were officially counted. She told People that the collection has since grown to around 7,500 pieces, filling a room and a storage unit.',
+ why:'Worby began collecting the toys at age three and started hunting seriously for missing pieces in 1997. The record is a spectacular example of how a childhood “no” can become a decades-long cataloging operation.',
+ angle:'Her parents declined to buy one horse. The appeal process has now produced roughly 7,499 additional exhibits and an off-site evidence locker.',
+ amazonLinks:[
+  {title:'My Little Pony Classics - Celestial Ponies - Polaris - Retro 4" Collectible Play Figure, Great for Kids, Toddlers, Adults, Girls and Boys Ages 3+',image:'https://m.media-amazon.com/images/I/81swiGDUiYL._AC_SL1500_.jpg',alt:'My Little Pony Classics Celestial Ponies Polaris retro collectible figure',quip:'One more pony for a collection whose “one more” phase has lasted nearly three decades.',salesPriority:5,url:'https://www.amazon.com/dp/B0BPK2351F?tag=blappos-20'},
+  {title:'Ponyville Confidential: The History and Culture of My Little Pony, 1981-2016',image:'https://m.media-amazon.com/images/I/61bK5gTn9wL._SL1360_.jpg',alt:'Cover of Ponyville Confidential, a history of My Little Pony',quip:'The field guide for understanding how a toy shelf evolves into municipal-scale pony infrastructure.',salesPriority:4,url:'https://www.amazon.com/dp/1476662096?tag=blappos-20'},
+  {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of the Guinness World Records 2027 book',quip:'The official paperwork confirming that 7,500 ponies is a record, not a home-decor preference.',salesPriority:5,url:'https://www.amazon.com/dp/1806500256?tag=blappos-20'}
+ ],
+ source:'https://people.com/woman-told-she-couldnt-have-horse-as-child-breaks-record-worlds-biggest-my-little-pony-collection-12115528',
+ sourceName:'Read the People report'
+};
+
+window.dailyStories=window.dailyStories.filter(story=>!['sep10-monitor-lizard','sep10-marmot-coolant'].includes(story.id));
+window.dailyStories.splice(window.dailyStories.indexOf(narrowCar)+1,0,ponyCollection);
+const sep10ExtraStories=[
+  {
+    "id": "sep10-mural-phone",
+    "place": "Springfield, Massachusetts",
+    "image": "assets/cards/sep10-mural-phone.webp",
+    "title": "1937 mural catches a time traveler checking his notifications",
+    "magnetUrl": "https://blappos.printify.me/product/31880964",
+    "magnetPrice": "$9.99",
+    "facts": "A 1937 mural by Umberto Romano went viral after viewers noticed an Indigenous man holding a small dark rectangle in a pose that looks strikingly like someone checking a smartphone. The mural depicts a 17th-century encounter involving Springfield founder William Pynchon.",
+    "why": "There is no evidence of a lost colonial cellular network. Historians say the object is more plausibly a small hand mirror, book or traded item. The mural was created for Springfield’s main post office as part of a Depression-era federal art project.",
+    "angle": "The first smartphone user has finally been identified, and he already looks disappointed by the battery life. Historians believe he was checking whether the Mayflower had surge pricing.",
+    "source": "https://www.ndtv.com/offbeat/smartphone-in-a-1937-painting-viral-image-sparks-bizarre-time-travel-claims-12028636",
+    "sourceName": "Read the NDTV report",
+    "isoDate": "2026-09-10",
+    "month": "September",
+    "date": "Sep 10, 2026",
+    "amazonLinks": [
+      {
+        "title": "The Time Machine by H. G. Wells",
+        "image": "https://m.media-amazon.com/images/P/0451530703.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Time Machine by H. G. Wells",
+        "quip": "The repair manual for anyone who arrives in 1636 with a phone and no charger.",
+        "url": "https://www.amazon.com/dp/0451530703?tag=blappos-20",
+        "salesPriority": 1
+      },
+      {
+        "title": "Magnetic Selfie Mirror for Phone",
+        "image": "https://m.media-amazon.com/images/P/B0CYSCFJCD.01.LZZZZZZZ.jpg",
+        "alt": "Round magnetic selfie mirror for a smartphone",
+        "quip": "The historically plausible explanation, now upgraded with magnetic attachment and outdoor-selfie capability.",
+        "url": "https://www.amazon.com/dp/B0CYSCFJCD?tag=blappos-20",
+        "salesPriority": 1
+      },
+      {
+        "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveler",
+        "image": "https://m.media-amazon.com/images/P/073522014X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of How to Invent Everything",
+        "quip": "Useful when your 1937 mural appearance occurs before the nearest charging brick has been invented.",
+        "url": "https://www.amazon.com/dp/073522014X?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep10-henna-robot",
+    "place": "India / Online",
+    "image": "assets/cards/sep10-henna-robot.webp",
+    "title": "Robot applies wedding henna and immediately requests a five-star review","magnetUrl":"https://blappos.printify.me/product/31881034","magnetPrice":"$9.99",
+    "facts": "Industrialist Harsh Goenka shared an AI-generated video showing a machine apparently applying a detailed mehendi design to a woman’s hand. The clip prompted a fresh argument over whether automation is coming for traditional artists and skill-based services.",
+    "why": "Mehendi artists create intricate, personalized designs for weddings, festivals and celebrations. Commenters quickly noted that a synthetic demonstration is not proof of a safe, reliable commercial machine—and that craftsmanship, judgment and human connection remain central to the tradition.",
+    "angle": "The robot promises perfect symmetry, no small talk and a mandatory firmware update halfway through the bride’s left hand. Premium users may unlock the thumb.",
+    "source": "https://www.ndtv.com/offbeat/some-more-jobs-gone-harsh-goenka-shares-video-of-mehendi-applying-machine-12027218",
+    "sourceName": "Read the NDTV report",
+    "isoDate": "2026-09-10",
+    "month": "September",
+    "date": "Sep 10, 2026",
+    "amazonLinks": [
+      {
+        "title": "The Henna Sourcebook",
+        "image": "https://m.media-amazon.com/images/P/1596680334.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Henna Sourcebook",
+        "quip": "The human reference manual for patterns that deserve more thought than “robot arm go brrrr.”",
+        "url": "https://www.amazon.com/dp/1596680334?tag=blappos-20",
+        "salesPriority": 1
+      },
+      {
+        "title": "Mehndi: The Art of Henna Body Painting",
+        "image": "https://m.media-amazon.com/images/P/089281778X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Mehndi The Art of Henna Body Painting",
+        "quip": "A proper introduction to the art before Silicon Valley adds a subscription tier to your palm.",
+        "url": "https://www.amazon.com/dp/089281778X?tag=blappos-20",
+        "salesPriority": 1
+      },
+      {
+        "title": "Temporary Tattoos",
+        "image": "https://m.media-amazon.com/images/P/0486407039.01.LZZZZZZZ.jpg",
+        "alt": "Cover of a temporary tattoo design book",
+        "quip": "For people who want decorative skin art without placing a hand under suspicious imaginary machinery.",
+        "url": "https://www.amazon.com/dp/0486407039?tag=blappos-20",
+        "salesPriority": 1
+      }
+    ]
+  },
+  {
+    "id": "sep10-silent-account",
+    "place": "Cupertino, California / Online",
+    "image": "assets/cards/sep10-silent-account.webp",
+    "title": "Account gains 10 million followers by finally keeping quiet","magnetUrl":"https://blappos.printify.me/product/31881041","magnetPrice":"$9.99",
+    "facts": "Apple’s main account on X has accumulated nearly 10 million followers while showing zero regular public posts on its timeline. The company has used the platform for paid promotions, while support accounts and executives publish normally.",
+    "why": "The blank feed is a strange exception to the standard social-media growth playbook. It also shows the difference between organic timeline posts and paid advertising: an account can appear silent while the company remains active elsewhere on the platform.",
+    "angle": "Ten million people subscribed to hear nothing and have never been disappointed. Every social-media manager just stared at next month’s content calendar and whispered, “Son of a bitch.”",
+    "source": "https://www.ndtv.com/offbeat/apple-has-10-million-x-twitter-followers-but-hasnt-posted-once-in-15-years-12026829",
+    "sourceName": "Read the NDTV report",
+    "isoDate": "2026-09-10",
+    "month": "September",
+    "date": "Sep 10, 2026",
+    "amazonLinks": [
+      {
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "image": "https://m.media-amazon.com/images/P/0062457713.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Subtle Art of Not Giving a Fck",
+        "quip": "The corporate social strategy, expanded from zero posts into 224 pages.",
+        "url": "https://www.amazon.com/dp/0062457713?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "Wreck This Journal",
+        "image": "https://m.media-amazon.com/images/P/0399161945.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Wreck This Journal",
+        "quip": "A posting calendar with the correct amount of blank space and significantly more audience participation.",
+        "url": "https://www.amazon.com/dp/0399161945?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Wacky Waving Inflatable Tube Guy",
+        "image": "https://m.media-amazon.com/images/I/71xmJjfakxL._SL1500_.jpg",
+        "alt": "Mini wacky waving inflatable tube guy",
+        "quip": "When the official account says nothing, deploy the tiny inflatable communications department.",
+        "url": "https://www.amazon.com/dp/0762462876?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  }
+];
+window.dailyStories=window.dailyStories.filter(story=>!sep10ExtraStories.some(item=>item.id===story.id));
+window.dailyStories.splice(0,0,...sep10ExtraStories);
+
+const sep11Stories = [
+  {
+    "id": "sep11-pogo-cubes",
+    "place": "Annapolis Royal, Nova Scotia",
+    "image": "assets/cards/sep11-pogo-cubes.webp",
+    "title": "Man solves 211 puzzle cubes on a pogo stick because sitting was too easy","magnetUrl":"https://blappos.printify.me/product/31903643","magnetPrice":"$9.99",
+    "facts": "In a September 11 retrospective, UPI revisited Canadian Saul Hafting's Guinness World Records feat in Annapolis Royal, Nova Scotia. On October 9, 2021, Hafting solved 211 rotating puzzle cubes while continuously bouncing on a pogo stick for more than an hour. Guinness says he practiced twice a week, gripped the pogo stick with his legs and relied on a support team to keep fresh cubes moving into his hands.",
+    "why": "The record combined speed-solving, balance and endurance in a way that made every part harder: his hands had to solve, his legs had to steer and his knees had to absorb an hour of bouncing. It is also a delightfully literal example of a specialist community turning two difficult hobbies into one needlessly magnificent problem.",
+    "angle": "Verified fact ends above. The Blappos interpretation: the chair was eliminated early in training after failing its performance review. By cube 211, gravity had filed a formal workplace grievance.",
+    "source": "https://www.upi.com/Odd_News/2026/09/11/canada-Guinness-World-Records-rubiks-cube-pogo-stick/5691789143596/",
+    "sourceName": "Read the UPI report",
+    "isoDate": "2026-09-11",
+    "month": "September",
+    "date": "Sep 11, 2026",
+    "amazonLinks": [
+      {
+        "title": "Rubik's Cube The Original 3x3 Puzzle Cube & Brain Teaser Fidget Toy",
+        "image": "https://m.media-amazon.com/images/I/81HO-y+FIdL._AC_SL1500_.jpg",
+        "alt": "Rubik's original three-by-three puzzle cube on a white background",
+        "quip": "The exact kind of cube Hafting solved 211 times while the floor kept leaving and returning.",
+        "url": "https://www.amazon.com/dp/B092W7D64G?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "Flybar Master Pogo Stick for Kids Ages 9+, 80–160 lbs – Easy Grip Handles – Active Exercise Toy for Tweens & Teens – Outdoor Toy with Non-Slip Foot Pegs for Boys and Girls – No Assembly Needed",
+        "image": "https://m.media-amazon.com/images/I/41FFdnKzg3L._AC_SL1080_.jpg",
+        "alt": "Green Flybar Master pogo stick with black handles and foot pegs",
+        "quip": "Recreates the record's least stable piece of equipment; bring your own 211-cube support crew.",
+        "url": "https://www.amazon.com/dp/B00GNB3KMU?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Guinness World Records 2027",
+        "image": "https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg",
+        "alt": "Green cover of the Guinness World Records 2027 book",
+        "quip": "For readers inspired by Hafting's official record to invent an even less seated achievement.",
+        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep11-highway-kitten",
+    "place": "Hillsborough County, Florida",
+    "image": "assets/cards/sep11-highway-kitten.webp",
+    "title": "Five-week-old kitten turns interstate rescue into a foot pursuit","magnetUrl":"https://blappos.printify.me/product/31903649","magnetPrice":"$9.99",
+    "facts": "UPI reported on September 11 that a five-week-old black kitten was spotted on southbound Interstate 275 in Hillsborough County, Florida. A sheriff's deputy and Florida Highway Patrol trooper chased and caught the kitten on September 8 after a passerby alerted authorities. The kitten was named Dash and adopted by the deputy's family.",
+    "why": "A tiny animal loose on an active interstate put the kitten, motorists and responders at risk. The coordinated rescue ended without a crash or injury, and the immediate adoption turned a dangerous roadside call into a permanent home.",
+    "angle": "Verified fact ends above. The Blappos interpretation: Dash was detained after a brief pur-suit, refused to provide insurance and was sentenced to a lifetime of indoor naps with the arresting family.",
+    "source": "https://www.upi.com/Odd_News/2026/09/11/Hillsbough-County-Florida-interstate-kitten/9471789148009/",
+    "sourceName": "Read the UPI report",
+    "isoDate": "2026-09-11",
+    "month": "September",
+    "date": "Sep 11, 2026",
+    "amazonLinks": [
+      {
+        "title": "Tiny But Mighty: Kitten Lady's Guide to Saving the Most Vulnerable Felines",
+        "image": "https://m.media-amazon.com/images/I/713au6EGmxL._SL1500_.jpg",
+        "alt": "Cover of Tiny But Mighty featuring a small kitten",
+        "quip": "A care guide built for exactly the sort of vulnerable five-week-old kitten found on the interstate.",
+        "url": "https://www.amazon.com/dp/1524744069?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "PetSafe Come with Me Kitty Harness and Bungee Cat Leash, Royal Blue, Large | Adjustable 2-Point Fit Applies Gentle Pressure to Shoulders, Not Neck, for Average and Large Cats with 13 in - 18 in Girth",
+        "image": "https://m.media-amazon.com/images/I/61C3fIe8GuL._AC_SL1500_.jpg",
+        "alt": "Royal blue PetSafe cat harness and bungee leash",
+        "quip": "For Dash after he grows into it: a humane way to prevent the sequel from becoming another interstate foot pursuit.",
+        "url": "https://www.amazon.com/dp/B000OBIW9Q?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Amazon Basics 2-Door Top-Load Hard-Sided Pet Travel Carrier for Cats and Small Dogs, 19\" L x 12.6\" W x 10\" H, Gray & Blue",
+        "image": "https://m.media-amazon.com/images/I/71WgHnZShvL._AC_SL1500_.jpg",
+        "alt": "Gray and blue hard-sided pet carrier with front and top doors",
+        "quip": "A safer ride home for a rescued kitten than improvising protective custody beside I-275.",
+        "url": "https://www.amazon.com/dp/B00OP6SMCI?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep11-stadium-squirrel",
+    "place": "Columbus, Ohio",
+    "image": "assets/cards/sep11-stadium-squirrel.webp",
+    "title": "Ohio Stadium squirrel gets escorted from premium seating","magnetUrl":"https://blappos.printify.me/product/31903653","magnetPrice":"$9.99",
+    "facts": "UPI reported on September 11 that a squirrel became overwhelmed in the stands during Ohio State's September 5 football game against Ball State in Columbus. Fans calmed it with pretzels until a Perry Township police sergeant contained the animal in an empty cardboard beverage box and released it safely outside the stadium.",
+    "why": "Crowded venues can disorient wildlife and create avoidable risks for the animal and spectators. The low-drama response—give it space, contain it carefully and release it outdoors—resolved the problem without turning a frightened squirrel into a dangerous spectacle.",
+    "angle": "Verified fact ends above. The Blappos interpretation: the squirrel's ticket was valid, but outside snacks violated stadium policy. Security accepted one empty box as bail and released the suspect beyond the turnstiles.",
+    "source": "https://www.upi.com/Odd_News/2026/09/11/Perry-Township-Ohio-State-squirrel/9691789147583/",
+    "sourceName": "Read the UPI report",
+    "isoDate": "2026-09-11",
+    "month": "September",
+    "date": "Sep 11, 2026",
+    "amazonLinks": [
+      {
+        "title": "Gnodary Squirrel Feeder with Umbrella, Squirrel Feeders for Outside, Squirrel Picnic Table Feeder - Chipmunk Feeder Hold Corn, Corn Cob, Peanuts (Bright-Red)",
+        "image": "https://m.media-amazon.com/images/I/81cF0uja+TL._AC_SL1500_.jpg",
+        "alt": "Bright red squirrel picnic-table feeder with an umbrella",
+        "quip": "Gives the displaced stadium squirrel an off-field seat where outside snacks are explicitly permitted.",
+        "url": "https://www.amazon.com/dp/B0DPC9XHVH?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "The Secret Life of Squirrels",
+        "image": "https://m.media-amazon.com/images/I/81Ck7iPykUL._SL1500_.jpg",
+        "alt": "Cover of The Secret Life of Squirrels showing a squirrel at a miniature scene",
+        "quip": "The natural-history companion for a squirrel whose secret life includes pretzels and Big Ten seating.",
+        "url": "https://www.amazon.com/dp/0316391050?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Masterpieces NCAA Ohio State Puzzle 1000 Piece Panoramic Stadium Jigsaw, Officially Licensed Buckeyes Football Design, Premium Random Cut Pieces, Vibrant Campus Game Day Artwork, Collectible Display",
+        "image": "https://m.media-amazon.com/images/I/71P1-El+w2L._AC_SL1500_.jpg",
+        "alt": "Panoramic Ohio State football stadium jigsaw puzzle box and completed puzzle",
+        "quip": "Recreates the exact stadium scene with 100 percent fewer frightened squirrels in the seating bowl.",
+        "url": "https://www.amazon.com/dp/B00I9DKV2M?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep11Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep11Stories);
+window.dailyFinds=[];
+
+const sep11SecondRun = [
+  {
+    id:'sep11-pittsburgh-coyote',isoDate:'2026-09-11',month:'September',date:'Sep 11, 2026',place:'Pittsburgh, Pennsylvania',image:'assets/cards/sep11-pittsburgh-coyote.webp',
+    title:'Coyote takes the alley shortcut and becomes part of the building',magnetUrl:'https://blappos.printify.me/product/31923807',magnetPrice:'$9.99',
+    facts:'Pittsburgh Public Safety said police, firefighters and animal-control officers responded after a coyote wandered into an alley and became wedged in a gap between two buildings. Crews carefully freed the animal, checked it for injuries and released it into a safer wooded area.',
+    why:'Coyotes are adaptable city wildlife, but tight urban spaces can turn a wrong turn into a dangerous trap. The coordinated rescue protected the animal while keeping responders and nearby residents out of harm’s way.',
+    angle:'Verified fact ends above. The Blappos interpretation: Pittsburgh’s newest alley shortcut received a one-star review for width, customer service and the complete absence of a second exit.',
+    source:'https://www.upi.com/Odd_News/2026/09/11/Pittsburgh-coyote-trapped-walls-alley/2511789144824/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'Coyote America: A Natural and Supernatural History',image:'https://m.media-amazon.com/images/P/0465052991.01.LZZZZZZZ.jpg',alt:'Cover of Coyote America by Dan Flores',quip:'The definitive background check on the adaptable urban traveler who mistook two Pittsburgh walls for an express lane.',url:'https://www.amazon.com/dp/0465052991?tag=blappos-20',salesPriority:5},
+      {title:'The Daily Coyote: A Story of Love, Survival, and Trust in the Wilds of Wyoming',image:'https://m.media-amazon.com/images/P/1416558175.01.LZZZZZZZ.jpg',alt:'Cover of The Daily Coyote by Shreve Stockton',quip:'A gentler coyote story for anyone who wants the animal’s biography without the Pittsburgh masonry chapter.',url:'https://www.amazon.com/dp/1416558175?tag=blappos-20',salesPriority:4},
+      {title:'Coyote Peterson’s Brave Adventures: Wild Animals in a Wild World',image:'https://m.media-amazon.com/images/P/1426338198.01.LZZZZZZZ.jpg',alt:'Cover of Coyote Peterson’s Brave Adventures',quip:'The appropriately named field guide for a rescue that required bravery, wildlife and one exceptionally bad alley decision.',url:'https://www.amazon.com/dp/1426338198?tag=blappos-20',salesPriority:4}
+    ]
+  },
+  {
+    id:'sep11-mongolia-bench',isoDate:'2026-09-11',month:'September',date:'Sep 11, 2026',place:'Mongolia',image:'assets/cards/sep11-mongolia-bench.webp',
+    title:'President removes jacket, benches 220 pounds twenty times, resumes diplomacy',magnetUrl:'https://blappos.printify.me/product/31923815',magnetPrice:'$9.99',
+    facts:'A video from a military-unit visit showed Mongolia’s 58-year-old president, Ukhnaagiin Khürelsükh, remove his suit jacket and bench-press 100 kilograms—about 220 pounds—for 20 repetitions. The former army officer then stood up, shook hands and put his jacket back on.',
+    why:'The unusually polished feat went viral because it combined serious strength with the visual calm of a routine official visit. Khürelsükh has a background in bodybuilding and martial arts in addition to his military and political career.',
+    angle:'Verified fact ends above. The Blappos interpretation: the cabinet meeting was adjourned after every remaining agenda item failed to demonstrate progressive overload.',
+    source:'https://www.ndtv.com/offbeat/watch-mongolian-president-takes-off-jacket-then-bench-presses-100kg-12031936',sourceName:'Read the NDTV report',
+    amazonLinks:[
+      {title:'Strength Training Anatomy, Third Edition',image:'https://m.media-amazon.com/images/P/0736083235.01.LZZZZZZZ.jpg',alt:'Cover of Strength Training Anatomy, Third Edition',quip:'The illustrated technical manual for understanding what just happened beneath that perfectly ordinary dress shirt.',url:'https://www.amazon.com/dp/0736083235?tag=blappos-20',salesPriority:5},
+      {title:'Starting Strength: Basic Barbell Training, Third Edition',image:'https://m.media-amazon.com/images/P/0982522738.01.LZZZZZZZ.jpg',alt:'Cover of Starting Strength by Mark Rippetoe',quip:'The barbell primer for anyone inspired to begin—preferably without opening at 220 pounds or wearing dress shoes.',url:'https://www.amazon.com/dp/0982522738?tag=blappos-20',salesPriority:5},
+      {title:'The New Encyclopedia of Modern Bodybuilding',image:'https://m.media-amazon.com/images/P/0684857219.01.LZZZZZZZ.jpg',alt:'Cover of The New Encyclopedia of Modern Bodybuilding',quip:'A cabinet-sized reference for the rare head of state whose official portrait may need a spotter.',url:'https://www.amazon.com/dp/0684857219?tag=blappos-20',salesPriority:4}
+    ]
+  }
+];
+window.dailyStories=window.dailyStories.filter(story=>!sep11SecondRun.some(item=>item.id===story.id));
+window.dailyStories.splice(0,0,...sep11SecondRun);
+
+const sep12Stories = [
+  {
+    "id": "sep12-arizona-coyote",
+    "isoDate": "2026-09-12",
+    "month": "September",
+    "date": "Sep 12, 2026",
+    "place": "Surprise, Arizona",
+    "image": "assets/cards/sep12-arizona-coyote.webp",
+    "title": "Mom brings a flip-flop to a coyote fight and gets her daughter home","magnetUrl":"https://blappos.printify.me/product/31933187","magnetPrice":"$9.99",
+    "facts": "The New York Post reported on September 12 that Brittany Cardinal was flying a kite outside her Surprise, Arizona, home with her four-year-old daughter when a coyote approached and attacked the child. Cardinal lifted her daughter, yelled and swung a flip-flop at the animal. The coyote bit Cardinal's face, leaving lacerations and puncture wounds, but her daughter was not hurt. Arizona Game and Fish officers captured coyotes for rabies testing, and Cardinal said she now carries pepper spray.",
+    "why": "Urban coyotes generally avoid people, but a bold or habituated animal can create a fast-moving danger around children and pets. Wildlife officials said Cardinal reacted correctly by picking up the child, making noise and fighting back. The agency described it as the first reported coyote attack in the Phoenix area since December 2023.",
+    "angle": "Verified fact ends above. The Blappos interpretation: Arizona's emergency-response hierarchy now officially ranks maternal instinct first, wildlife officers second and one extremely motivated sandal third.",
+    "source": "https://nypost.com/2026/09/12/us-news/arizona-mom-fights-off-coyote-attacking-her-daughter-with-a-flip-flop/",
+    "sourceName": "Read the New York Post report",
+    "amazonLinks": [
+      {
+        "title": "Havaianas Men's Brazil Flip Flop Sandals | Casual Sandals",
+        "image": "https://m.media-amazon.com/images/I/61UbRdtt2nL._AC_SL1200_.jpg",
+        "alt": "Black Havaianas rubber flip-flop sandal",
+        "quip": "The exact class of improvised footwear Cardinal swung when the coyote picked the wrong mother and daughter.",
+        "url": "https://www.amazon.com/dp/B000MUPG2A?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "HONBO Large Delta Kite for Kids & Adults,Extremely Easy to Fly Kite for Beach Trip,String Line Included,with Colorful Tail,Perfect for Beginners",
+        "image": "https://m.media-amazon.com/images/I/71jyARjh3pL._AC_SL1500_.jpg",
+        "alt": "Child holding a large rainbow delta kite with a colorful tail",
+        "quip": "Recreates the innocent kite-flying activity that became Arizona's least relaxing afternoon outside.",
+        "url": "https://www.amazon.com/dp/B07SQXJC7J?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Sabre Pepper Spray with Quick Release Keychain for Self Defense – Maximum Police Strength OC Spray with UV Marking Dye, Twist Lock Safety, Finger Grip, 10-Second Spray, 14-ft Range, Made in USA",
+        "image": "https://m.media-amazon.com/images/I/618HJ74Oa1L._AC_SL1500_.jpg",
+        "alt": "Lavender SABRE pepper-spray canister with quick-release keychain",
+        "quip": "The specific backup Cardinal said she carries now, for future wildlife negotiations that outgrow the sandal phase.",
+        "url": "https://www.amazon.com/dp/B07ZJSQL6C?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep12-kerala-bus",
+    "isoDate": "2026-09-12",
+    "month": "September",
+    "date": "Sep 12, 2026",
+    "place": "Kerala, India",
+    "image": "assets/cards/sep12-kerala-bus.webp",
+    "title": "Government bus gets Wi-Fi, televisions, pantry and a toilet before most airlines","magnetUrl":"https://blappos.printify.me/product/31933189","magnetPrice":"$9.99",
+    "facts": "NDTV reported on September 12 that a Kerala State Road Transport Corporation Volvo air-conditioned bus running between Thiruvananthapuram and Ernakulam offers 36 push-back seats, extra legroom, personal televisions, USB charging, high-speed Wi-Fi, a pantry with tea, coffee and a mini-fridge, and an onboard toilet. The fare was reported as 505 rupees for the roughly four-hour weekday run.",
+    "why": "Reliable intercity public transport is easier to use when passengers can work, charge devices, eat and use a restroom without adding private-car traffic. The unusually complete amenity list also explains why a video of the state-run service spread far beyond Kerala: it makes many premium travel cabins look under-equipped.",
+    "angle": "Verified fact ends above. The Blappos interpretation: the bus has entered business class while several airlines remain in a holding pattern over the revolutionary concept of free water.",
+    "source": "https://www.ndtv.com/offbeat/rs-505-kerala-bus-ride-has-wi-fi-tv-pantry-and-toilet-goes-viral-12036701",
+    "sourceName": "Read the NDTV report",
+    "amazonLinks": [
+      {
+        "title": "GL.iNet GL-MT3000 Beryl AX Wi-Fi 6 Travel Router, 2.5G WAN, VPN, OpenWrt | Wi-Fi 6 dual band 574Mbps 2.4GHz plus 2402Mbps 5GHz, 2.5G WAN, gigabit LAN, USB 3.0",
+        "image": "https://m.media-amazon.com/images/I/41IiLQJghoL._AC_SL1500_.jpg",
+        "alt": "Compact gray GL.iNet Beryl AX travel Wi-Fi router",
+        "quip": "A pocket-sized version of the bus's headline amenity: actual Wi-Fi while the wheels are moving.",
+        "url": "https://www.amazon.com/dp/B0BPSGJN7T?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "WONNIE 12.5 Inch Portable DVD Player with 10.5 Inch Swivel HD Screen, with Car Headrest Case, 5-Hour Rechargeable Battery, Car Charger and AC Adapter, Supports USB/SD Card/Sync TV, All Regions",
+        "image": "https://m.media-amazon.com/images/I/419NeNAXr+L._AC_SL1500_.jpg",
+        "alt": "WONNIE portable DVD player with swivel screen, remote and headrest case",
+        "quip": "Recreates the Kerala coach's personal television without waiting for your local bus authority to achieve enlightenment.",
+        "url": "https://www.amazon.com/dp/B0C1GDTGNB?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Bialetti - Moka Espress: Iconic Stovetop Espresso Maker, Makes Real Italian Coffee, Moka Pot 6 Cups (6 Oz), Aluminium, Silver",
+        "image": "https://m.media-amazon.com/images/I/311+W-RkcDL._AC_SL1500_.jpg",
+        "alt": "Silver six-cup Bialetti Moka Express stovetop coffee maker",
+        "quip": "For recreating the onboard pantry's coffee service after your own commute fails to include a beverage department.",
+        "url": "https://www.amazon.com/dp/B000CNY6UK?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep12-singapore-gifts",
+    "isoDate": "2026-09-12",
+    "month": "September",
+    "date": "Sep 12, 2026",
+    "place": "Singapore",
+    "image": "assets/cards/sep12-singapore-gifts.webp",
+    "title": "CEO spends $370,000 on romance, discovers gifts lack a refund policy","magnetUrl":"https://blappos.printify.me/product/31933191","magnetPrice":"$9.99",
+    "facts": "NDTV reported on September 12 that Singapore's High Court dismissed a lawsuit by TCI Express managing director Chander Agarwal against former girlfriend Felicia Lee. Agarwal said nearly US$370,000 he spent during their relationship—including luxury goods, first-class flights, trips, insurance premiums, an executive program and about S$17,000 for a feng shui master—were interest-free loans. The court found that most were gifts, said the alleged handwritten loan agreement was not proved and ordered Agarwal to pay legal costs.",
+    "why": "The ruling turns on an ordinary but expensive distinction: money given inside a relationship does not become a repayable loan merely because the relationship ends. Without contemporaneous evidence of repayment terms, later labels and disputed paperwork carry little weight.",
+    "angle": "Verified fact ends above. The Blappos interpretation: love may be priceless, but Singapore's High Court would still like you to retain the receipt and define 'priceless' before checkout.",
+    "source": "https://www.ndtv.com/offbeat/indian-origin-ceo-spent-370-000-on-girlfriend-sued-her-after-break-up-and-lost-case-12036845",
+    "sourceName": "Read the NDTV report",
+    "amazonLinks": [
+      {
+        "title": "Adams Money and Rent Receipt Book, 2-Part Carbonless, 5-1/4\" x 11\", Spiral Bound, 200 Sets per Book, 4 Receipts per Page (SC1152)",
+        "image": "https://m.media-amazon.com/images/I/71CCFlIXnML._AC_SL1500_.jpg",
+        "alt": "Adams spiral-bound money and rent receipt book with carbonless forms",
+        "quip": "The paper trail that could have clarified whether each grand romantic gesture was a gift, a loan or very expensive ambiguity.",
+        "url": "https://www.amazon.com/dp/B00006ICSJ?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "Move Your Stuff, Change Your Life: How to Use Feng Shui to Get Love, Money, Respect, and Happiness",
+        "image": "https://m.media-amazon.com/images/P/0684866048.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Move Your Stuff, Change Your Life by Karen Rauch Carter",
+        "quip": "A substantially cheaper introduction to the exact feng shui subject that appeared as a five-figure line item in the dispute.",
+        "url": "https://www.amazon.com/dp/0684866048?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "2 Pcs Brown Handmade Wooden Judge Gavel, Vintage Auction Courtroom Judge Hammer Gavels Mallets for Cosplay Lawyer Justice Costume Props and Clothing Accessories, Office Desk and Workspace Organizers",
+        "image": "https://m.media-amazon.com/images/I/61DQduYcJwL._AC_SL1500_.jpg",
+        "alt": "Two polished brown wooden judge gavels",
+        "quip": "Reenacts the High Court ending of a romance case in which the refund policy was found not to exist.",
+        "url": "https://www.amazon.com/dp/B0G2LQJ1J4?tag=blappos-20",
+        "salesPriority": 3
+      }
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep12Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep12Stories);

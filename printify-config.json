@@ -1,0 +1,15 @@
+{
+  "shop_id": 28900389,
+  "products": [
+    {
+      "id": "6aa39c2bae1c3c660b0c05f5",
+      "title": "Joint Base Andrews Magnet - \"Evacuation Before Takeoff\" Vintage Airfield Refrigerator Magnet",
+      "blueprint_id": 428,
+      "print_provider_id": 1,
+      "visible": true,
+      "enabled_variant_ids": [
+        62034
+      ]
+    }
+  ]
+}
