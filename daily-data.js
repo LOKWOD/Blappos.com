@@ -344,3 +344,34 @@ const sep11Stories = [
 window.dailyStories = window.dailyStories.filter(story => !sep11Stories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep11Stories);
 window.dailyFinds=[];
+
+const sep11SecondRun = [
+  {
+    id:'sep11-pittsburgh-coyote',isoDate:'2026-09-11',month:'September',date:'Sep 11, 2026',place:'Pittsburgh, Pennsylvania',image:'assets/cards/sep11-pittsburgh-coyote.webp',
+    title:'Coyote takes the alley shortcut and becomes part of the building',
+    facts:'Pittsburgh Public Safety said police, firefighters and animal-control officers responded after a coyote wandered into an alley and became wedged in a gap between two buildings. Crews carefully freed the animal, checked it for injuries and released it into a safer wooded area.',
+    why:'Coyotes are adaptable city wildlife, but tight urban spaces can turn a wrong turn into a dangerous trap. The coordinated rescue protected the animal while keeping responders and nearby residents out of harm’s way.',
+    angle:'Verified fact ends above. The Blappos interpretation: Pittsburgh’s newest alley shortcut received a one-star review for width, customer service and the complete absence of a second exit.',
+    source:'https://www.upi.com/Odd_News/2026/09/11/Pittsburgh-coyote-trapped-walls-alley/2511789144824/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'Coyote America: A Natural and Supernatural History',image:'https://m.media-amazon.com/images/P/0465052991.01.LZZZZZZZ.jpg',alt:'Cover of Coyote America by Dan Flores',quip:'The definitive background check on the adaptable urban traveler who mistook two Pittsburgh walls for an express lane.',url:'https://www.amazon.com/dp/0465052991?tag=blappos-20',salesPriority:5},
+      {title:'The Daily Coyote: A Story of Love, Survival, and Trust in the Wilds of Wyoming',image:'https://m.media-amazon.com/images/P/1416558175.01.LZZZZZZZ.jpg',alt:'Cover of The Daily Coyote by Shreve Stockton',quip:'A gentler coyote story for anyone who wants the animal’s biography without the Pittsburgh masonry chapter.',url:'https://www.amazon.com/dp/1416558175?tag=blappos-20',salesPriority:4},
+      {title:'Coyote Peterson’s Brave Adventures: Wild Animals in a Wild World',image:'https://m.media-amazon.com/images/P/1426338198.01.LZZZZZZZ.jpg',alt:'Cover of Coyote Peterson’s Brave Adventures',quip:'The appropriately named field guide for a rescue that required bravery, wildlife and one exceptionally bad alley decision.',url:'https://www.amazon.com/dp/1426338198?tag=blappos-20',salesPriority:4}
+    ]
+  },
+  {
+    id:'sep11-mongolia-bench',isoDate:'2026-09-11',month:'September',date:'Sep 11, 2026',place:'Mongolia',image:'assets/cards/sep11-mongolia-bench.webp',
+    title:'President removes jacket, benches 220 pounds twenty times, resumes diplomacy',
+    facts:'A video from a military-unit visit showed Mongolia’s 58-year-old president, Ukhnaagiin Khürelsükh, remove his suit jacket and bench-press 100 kilograms—about 220 pounds—for 20 repetitions. The former army officer then stood up, shook hands and put his jacket back on.',
+    why:'The unusually polished feat went viral because it combined serious strength with the visual calm of a routine official visit. Khürelsükh has a background in bodybuilding and martial arts in addition to his military and political career.',
+    angle:'Verified fact ends above. The Blappos interpretation: the cabinet meeting was adjourned after every remaining agenda item failed to demonstrate progressive overload.',
+    source:'https://www.ndtv.com/offbeat/watch-mongolian-president-takes-off-jacket-then-bench-presses-100kg-12031936',sourceName:'Read the NDTV report',
+    amazonLinks:[
+      {title:'Strength Training Anatomy, Third Edition',image:'https://m.media-amazon.com/images/P/0736083235.01.LZZZZZZZ.jpg',alt:'Cover of Strength Training Anatomy, Third Edition',quip:'The illustrated technical manual for understanding what just happened beneath that perfectly ordinary dress shirt.',url:'https://www.amazon.com/dp/0736083235?tag=blappos-20',salesPriority:5},
+      {title:'Starting Strength: Basic Barbell Training, Third Edition',image:'https://m.media-amazon.com/images/P/0982522738.01.LZZZZZZZ.jpg',alt:'Cover of Starting Strength by Mark Rippetoe',quip:'The barbell primer for anyone inspired to begin—preferably without opening at 220 pounds or wearing dress shoes.',url:'https://www.amazon.com/dp/0982522738?tag=blappos-20',salesPriority:5},
+      {title:'The New Encyclopedia of Modern Bodybuilding',image:'https://m.media-amazon.com/images/P/0684857219.01.LZZZZZZZ.jpg',alt:'Cover of The New Encyclopedia of Modern Bodybuilding',quip:'A cabinet-sized reference for the rare head of state whose official portrait may need a spotter.',url:'https://www.amazon.com/dp/0684857219?tag=blappos-20',salesPriority:4}
+    ]
+  }
+];
+window.dailyStories=window.dailyStories.filter(story=>!sep11SecondRun.some(item=>item.id===story.id));
+window.dailyStories.splice(0,0,...sep11SecondRun);
