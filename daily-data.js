@@ -464,7 +464,7 @@ const sep12Stories = [
     "date": "Sep 12, 2026",
     "place": "Singapore",
     "image": "assets/cards/sep12-singapore-gifts.webp",
-    "title": "CEO spends $370,000 on romance, discovers gifts lack a refund policy",
+    "title": "CEO spends $370,000 on romance, discovers gifts lack a refund policy","magnetUrl":"https://blappos.printify.me/product/31933191","magnetPrice":"$9.99",
     "facts": "NDTV reported on September 12 that Singapore's High Court dismissed a lawsuit by TCI Express managing director Chander Agarwal against former girlfriend Felicia Lee. Agarwal said nearly US$370,000 he spent during their relationship—including luxury goods, first-class flights, trips, insurance premiums, an executive program and about S$17,000 for a feng shui master—were interest-free loans. The court found that most were gifts, said the alleged handwritten loan agreement was not proved and ordered Agarwal to pay legal costs.",
     "why": "The ruling turns on an ordinary but expensive distinction: money given inside a relationship does not become a repayable loan merely because the relationship ends. Without contemporaneous evidence of repayment terms, later labels and disputed paperwork carry little weight.",
     "angle": "Verified fact ends above. The Blappos interpretation: love may be priceless, but Singapore's High Court would still like you to retain the receipt and define 'priceless' before checkout.",
