@@ -424,7 +424,7 @@ const sep12Stories = [
     "date": "Sep 12, 2026",
     "place": "Kerala, India",
     "image": "assets/cards/sep12-kerala-bus.webp",
-    "title": "Government bus gets Wi-Fi, televisions, pantry and a toilet before most airlines",
+    "title": "Government bus gets Wi-Fi, televisions, pantry and a toilet before most airlines","magnetUrl":"https://blappos.printify.me/product/31933189","magnetPrice":"$9.99",
     "facts": "NDTV reported on September 12 that a Kerala State Road Transport Corporation Volvo air-conditioned bus running between Thiruvananthapuram and Ernakulam offers 36 push-back seats, extra legroom, personal televisions, USB charging, high-speed Wi-Fi, a pantry with tea, coffee and a mini-fridge, and an onboard toilet. The fare was reported as 505 rupees for the roughly four-hour weekday run.",
     "why": "Reliable intercity public transport is easier to use when passengers can work, charge devices, eat and use a restroom without adding private-car traffic. The unusually complete amenity list also explains why a video of the state-run service spread far beyond Kerala: it makes many premium travel cabins look under-equipped.",
     "angle": "Verified fact ends above. The Blappos interpretation: the bus has entered business class while several airlines remain in a holding pattern over the revolutionary concept of free water.",
