@@ -375,3 +375,128 @@ const sep11SecondRun = [
 ];
 window.dailyStories=window.dailyStories.filter(story=>!sep11SecondRun.some(item=>item.id===story.id));
 window.dailyStories.splice(0,0,...sep11SecondRun);
+
+const sep12Stories = [
+  {
+    "id": "sep12-arizona-coyote",
+    "isoDate": "2026-09-12",
+    "month": "September",
+    "date": "Sep 12, 2026",
+    "place": "Surprise, Arizona",
+    "image": "assets/cards/sep12-arizona-coyote.webp",
+    "title": "Mom brings a flip-flop to a coyote fight and gets her daughter home",
+    "facts": "The New York Post reported on September 12 that Brittany Cardinal was flying a kite outside her Surprise, Arizona, home with her four-year-old daughter when a coyote approached and attacked the child. Cardinal lifted her daughter, yelled and swung a flip-flop at the animal. The coyote bit Cardinal's face, leaving lacerations and puncture wounds, but her daughter was not hurt. Arizona Game and Fish officers captured coyotes for rabies testing, and Cardinal said she now carries pepper spray.",
+    "why": "Urban coyotes generally avoid people, but a bold or habituated animal can create a fast-moving danger around children and pets. Wildlife officials said Cardinal reacted correctly by picking up the child, making noise and fighting back. The agency described it as the first reported coyote attack in the Phoenix area since December 2023.",
+    "angle": "Verified fact ends above. The Blappos interpretation: Arizona's emergency-response hierarchy now officially ranks maternal instinct first, wildlife officers second and one extremely motivated sandal third.",
+    "source": "https://nypost.com/2026/09/12/us-news/arizona-mom-fights-off-coyote-attacking-her-daughter-with-a-flip-flop/",
+    "sourceName": "Read the New York Post report",
+    "amazonLinks": [
+      {
+        "title": "Havaianas Men's Brazil Flip Flop Sandals | Casual Sandals",
+        "image": "https://m.media-amazon.com/images/I/61UbRdtt2nL._AC_SL1200_.jpg",
+        "alt": "Black Havaianas rubber flip-flop sandal",
+        "quip": "The exact class of improvised footwear Cardinal swung when the coyote picked the wrong mother and daughter.",
+        "url": "https://www.amazon.com/dp/B000MUPG2A?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "HONBO Large Delta Kite for Kids & Adults,Extremely Easy to Fly Kite for Beach Trip,String Line Included,with Colorful Tail,Perfect for Beginners",
+        "image": "https://m.media-amazon.com/images/I/71jyARjh3pL._AC_SL1500_.jpg",
+        "alt": "Child holding a large rainbow delta kite with a colorful tail",
+        "quip": "Recreates the innocent kite-flying activity that became Arizona's least relaxing afternoon outside.",
+        "url": "https://www.amazon.com/dp/B07SQXJC7J?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Sabre Pepper Spray with Quick Release Keychain for Self Defense – Maximum Police Strength OC Spray with UV Marking Dye, Twist Lock Safety, Finger Grip, 10-Second Spray, 14-ft Range, Made in USA",
+        "image": "https://m.media-amazon.com/images/I/618HJ74Oa1L._AC_SL1500_.jpg",
+        "alt": "Lavender SABRE pepper-spray canister with quick-release keychain",
+        "quip": "The specific backup Cardinal said she carries now, for future wildlife negotiations that outgrow the sandal phase.",
+        "url": "https://www.amazon.com/dp/B07ZJSQL6C?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep12-kerala-bus",
+    "isoDate": "2026-09-12",
+    "month": "September",
+    "date": "Sep 12, 2026",
+    "place": "Kerala, India",
+    "image": "assets/cards/sep12-kerala-bus.webp",
+    "title": "Government bus gets Wi-Fi, televisions, pantry and a toilet before most airlines",
+    "facts": "NDTV reported on September 12 that a Kerala State Road Transport Corporation Volvo air-conditioned bus running between Thiruvananthapuram and Ernakulam offers 36 push-back seats, extra legroom, personal televisions, USB charging, high-speed Wi-Fi, a pantry with tea, coffee and a mini-fridge, and an onboard toilet. The fare was reported as 505 rupees for the roughly four-hour weekday run.",
+    "why": "Reliable intercity public transport is easier to use when passengers can work, charge devices, eat and use a restroom without adding private-car traffic. The unusually complete amenity list also explains why a video of the state-run service spread far beyond Kerala: it makes many premium travel cabins look under-equipped.",
+    "angle": "Verified fact ends above. The Blappos interpretation: the bus has entered business class while several airlines remain in a holding pattern over the revolutionary concept of free water.",
+    "source": "https://www.ndtv.com/offbeat/rs-505-kerala-bus-ride-has-wi-fi-tv-pantry-and-toilet-goes-viral-12036701",
+    "sourceName": "Read the NDTV report",
+    "amazonLinks": [
+      {
+        "title": "GL.iNet GL-MT3000 Beryl AX Wi-Fi 6 Travel Router, 2.5G WAN, VPN, OpenWrt | Wi-Fi 6 dual band 574Mbps 2.4GHz plus 2402Mbps 5GHz, 2.5G WAN, gigabit LAN, USB 3.0",
+        "image": "https://m.media-amazon.com/images/I/41IiLQJghoL._AC_SL1500_.jpg",
+        "alt": "Compact gray GL.iNet Beryl AX travel Wi-Fi router",
+        "quip": "A pocket-sized version of the bus's headline amenity: actual Wi-Fi while the wheels are moving.",
+        "url": "https://www.amazon.com/dp/B0BPSGJN7T?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "WONNIE 12.5 Inch Portable DVD Player with 10.5 Inch Swivel HD Screen, with Car Headrest Case, 5-Hour Rechargeable Battery, Car Charger and AC Adapter, Supports USB/SD Card/Sync TV, All Regions",
+        "image": "https://m.media-amazon.com/images/I/419NeNAXr+L._AC_SL1500_.jpg",
+        "alt": "WONNIE portable DVD player with swivel screen, remote and headrest case",
+        "quip": "Recreates the Kerala coach's personal television without waiting for your local bus authority to achieve enlightenment.",
+        "url": "https://www.amazon.com/dp/B0C1GDTGNB?tag=blappos-20",
+        "salesPriority": 4
+      },
+      {
+        "title": "Bialetti - Moka Espress: Iconic Stovetop Espresso Maker, Makes Real Italian Coffee, Moka Pot 6 Cups (6 Oz), Aluminium, Silver",
+        "image": "https://m.media-amazon.com/images/I/311+W-RkcDL._AC_SL1500_.jpg",
+        "alt": "Silver six-cup Bialetti Moka Express stovetop coffee maker",
+        "quip": "For recreating the onboard pantry's coffee service after your own commute fails to include a beverage department.",
+        "url": "https://www.amazon.com/dp/B000CNY6UK?tag=blappos-20",
+        "salesPriority": 5
+      }
+    ]
+  },
+  {
+    "id": "sep12-singapore-gifts",
+    "isoDate": "2026-09-12",
+    "month": "September",
+    "date": "Sep 12, 2026",
+    "place": "Singapore",
+    "image": "assets/cards/sep12-singapore-gifts.webp",
+    "title": "CEO spends $370,000 on romance, discovers gifts lack a refund policy",
+    "facts": "NDTV reported on September 12 that Singapore's High Court dismissed a lawsuit by TCI Express managing director Chander Agarwal against former girlfriend Felicia Lee. Agarwal said nearly US$370,000 he spent during their relationship—including luxury goods, first-class flights, trips, insurance premiums, an executive program and about S$17,000 for a feng shui master—were interest-free loans. The court found that most were gifts, said the alleged handwritten loan agreement was not proved and ordered Agarwal to pay legal costs.",
+    "why": "The ruling turns on an ordinary but expensive distinction: money given inside a relationship does not become a repayable loan merely because the relationship ends. Without contemporaneous evidence of repayment terms, later labels and disputed paperwork carry little weight.",
+    "angle": "Verified fact ends above. The Blappos interpretation: love may be priceless, but Singapore's High Court would still like you to retain the receipt and define 'priceless' before checkout.",
+    "source": "https://www.ndtv.com/offbeat/indian-origin-ceo-spent-370-000-on-girlfriend-sued-her-after-break-up-and-lost-case-12036845",
+    "sourceName": "Read the NDTV report",
+    "amazonLinks": [
+      {
+        "title": "Adams Money and Rent Receipt Book, 2-Part Carbonless, 5-1/4\" x 11\", Spiral Bound, 200 Sets per Book, 4 Receipts per Page (SC1152)",
+        "image": "https://m.media-amazon.com/images/I/71CCFlIXnML._AC_SL1500_.jpg",
+        "alt": "Adams spiral-bound money and rent receipt book with carbonless forms",
+        "quip": "The paper trail that could have clarified whether each grand romantic gesture was a gift, a loan or very expensive ambiguity.",
+        "url": "https://www.amazon.com/dp/B00006ICSJ?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "Move Your Stuff, Change Your Life: How to Use Feng Shui to Get Love, Money, Respect, and Happiness",
+        "image": "https://m.media-amazon.com/images/P/0684866048.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Move Your Stuff, Change Your Life by Karen Rauch Carter",
+        "quip": "A substantially cheaper introduction to the exact feng shui subject that appeared as a five-figure line item in the dispute.",
+        "url": "https://www.amazon.com/dp/0684866048?tag=blappos-20",
+        "salesPriority": 5
+      },
+      {
+        "title": "2 Pcs Brown Handmade Wooden Judge Gavel, Vintage Auction Courtroom Judge Hammer Gavels Mallets for Cosplay Lawyer Justice Costume Props and Clothing Accessories, Office Desk and Workspace Organizers",
+        "image": "https://m.media-amazon.com/images/I/61DQduYcJwL._AC_SL1500_.jpg",
+        "alt": "Two polished brown wooden judge gavels",
+        "quip": "Reenacts the High Court ending of a romance case in which the refund policy was found not to exist.",
+        "url": "https://www.amazon.com/dp/B0G2LQJ1J4?tag=blappos-20",
+        "salesPriority": 3
+      }
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep12Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep12Stories);
