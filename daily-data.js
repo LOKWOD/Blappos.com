@@ -384,7 +384,7 @@ const sep12Stories = [
     "date": "Sep 12, 2026",
     "place": "Surprise, Arizona",
     "image": "assets/cards/sep12-arizona-coyote.webp",
-    "title": "Mom brings a flip-flop to a coyote fight and gets her daughter home",
+    "title": "Mom brings a flip-flop to a coyote fight and gets her daughter home","magnetUrl":"https://blappos.printify.me/product/31933187","magnetPrice":"$9.99",
     "facts": "The New York Post reported on September 12 that Brittany Cardinal was flying a kite outside her Surprise, Arizona, home with her four-year-old daughter when a coyote approached and attacked the child. Cardinal lifted her daughter, yelled and swung a flip-flop at the animal. The coyote bit Cardinal's face, leaving lacerations and puncture wounds, but her daughter was not hurt. Arizona Game and Fish officers captured coyotes for rabies testing, and Cardinal said she now carries pepper spray.",
     "why": "Urban coyotes generally avoid people, but a bold or habituated animal can create a fast-moving danger around children and pets. Wildlife officials said Cardinal reacted correctly by picking up the child, making noise and fighting back. The agency described it as the first reported coyote attack in the Phoenix area since December 2023.",
     "angle": "Verified fact ends above. The Blappos interpretation: Arizona's emergency-response hierarchy now officially ranks maternal instinct first, wildlife officers second and one extremely motivated sandal third.",
