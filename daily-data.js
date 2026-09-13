@@ -361,7 +361,7 @@ const sep11SecondRun = [
   },
   {
     id:'sep11-mongolia-bench',isoDate:'2026-09-11',month:'September',date:'Sep 11, 2026',place:'Mongolia',image:'assets/cards/sep11-mongolia-bench.webp',
-    title:'President removes jacket, benches 220 pounds twenty times, resumes diplomacy',
+    title:'President removes jacket, benches 220 pounds twenty times, resumes diplomacy',magnetUrl:'https://blappos.printify.me/product/31923815',magnetPrice:'$9.99',
     facts:'A video from a military-unit visit showed Mongolia’s 58-year-old president, Ukhnaagiin Khürelsükh, remove his suit jacket and bench-press 100 kilograms—about 220 pounds—for 20 repetitions. The former army officer then stood up, shook hands and put his jacket back on.',
     why:'The unusually polished feat went viral because it combined serious strength with the visual calm of a routine official visit. Khürelsükh has a background in bodybuilding and martial arts in addition to his military and political career.',
     angle:'Verified fact ends above. The Blappos interpretation: the cabinet meeting was adjourned after every remaining agenda item failed to demonstrate progressive overload.',
