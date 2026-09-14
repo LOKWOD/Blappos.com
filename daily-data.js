@@ -530,7 +530,7 @@ const sep13Stories = [
   },
   {
     id:'sep13-mustang-plane',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Portsmouth, New Hampshire',image:'assets/cards/sep13-mustang-plane.webp',
-    title:'Fleeing Mustang challenges parked airplane, loses dogfight immediately',
+    title:'Fleeing Mustang challenges parked airplane, loses dogfight immediately',magnetUrl:'https://blappos.printify.me/product/31956190',magnetPrice:'$9.99',
     facts:'Road & Track reported that a 17-year-old driving a black 2008 Ford Mustang allegedly fled police without headlights, smashed through the perimeter fence at Portsmouth International Airport, crossed the apron, hit a Kubota tractor and then struck a parked Pilatus PC-12 airplane. No one else was injured.',
     why:'The collision reportedly damaged the aircraft’s wing and landing gear and could produce a repair bill in the millions. The teenager was arrested and faced charges including aggravated driving while intoxicated—an unusually expensive demonstration that an airport runway is not an automotive escape route.',
     angle:'Verified fact ends above. The Blappos interpretation: the Mustang entered aviation with tremendous confidence and no qualifications. Final score: parked airplane one, American muscle zero, airport fence deeply disappointed in everyone.',
