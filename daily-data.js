@@ -548,7 +548,7 @@ window.dailyStories.splice(0, 0, ...sep13Stories);
 const sep13EncoreStories = [
   {
     id:'sep13-elephant-football',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Numaligarh, Assam',image:'assets/cards/sep13-elephant-football.webp',
-    title:'Elephant enters free agency after humiliating entire midfield',
+    title:'Elephant enters free agency after humiliating entire midfield',magnetUrl:'https://blappos.printify.me/product/31980546',magnetPrice:'$9.99',
     facts:'NDTV reported that a wild elephant was filmed kicking a football around a grassland at Bogidhala in Numaligarh, in Assam’s Golaghat district. The elephant repeatedly moved with the ball while onlookers watched, and video of the unexpected practice session spread online.',
     why:'The clip was striking because the elephant did not merely investigate the ball—it appeared to coordinate its steps and kicks like an enormous, completely unscouted player. The encounter also showed the curiosity and physical dexterity wild elephants can display around unfamiliar objects.',
     angle:'Verified fact ends above. The Blappos interpretation: the transfer window is open and one club has discovered a striker who cannot be bullied off the ball. Contract demands include six tons of fruit, unrestricted grassland access and the immediate widening of the players’ tunnel.',
