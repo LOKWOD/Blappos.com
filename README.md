@@ -6,7 +6,7 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 
 ## Editorial rules
 
-- Publish three to ten non-duplicate stories from the previous day.
+- Start with the previous day. If fewer than three stories clear every gate, reach back no more than 14 days for exceptional bizarre stories and state the underlying event timing accurately.
 - Verify every factual recap against the linked reporting before publishing.
 
 ### Magnet desirability — non-negotiable story-selection gate
@@ -16,6 +16,16 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 - Prefer animals, food, vehicles, travel, records, local pride, work and family humor, and absurd everyday situations with a strong visual action. Reject grim tragedy, partisan bait, niche technical context, weak visual premises, and jokes that require a paragraph of explanation.
 - Score every candidate from 1–5 for visual clarity, punchline strength, giftability, broad appeal, and evergreen display value. Publish only stories scoring at least 18/25, with no category below 3.
 - If the available news does not produce a buyable magnet concept, publish fewer stories instead of padding the edition.
+
+### Comedy intensity — non-negotiable edge gate
+
+- "Odd" is not enough. Every selected story needs an immediate second-layer joke: a headline that escalates the verified premise into a sharp, surprising accusation, rule, product, job title, or civic failure.
+- Push hardest at bureaucracy, institutions, status, consumer culture, technology, bad incentives, and confident human decision-making. Be willing to sound rude, bleak, profane-adjacent, or uncomfortably accurate when the target can take it.
+- Never make victims, children, deaths, serious injury, animal suffering, poverty, disability, or protected identity the punchline. The absurd system, authority, perpetrator, or decision may be attacked; the harmed party may not.
+- Reject any headline that merely restates the weird fact, relies on "Florida man"-style shorthand, or ends at a cute observation. If the joke could run unchanged on a conventional odd-news account, it is too safe for Blappos.
+- Before publishing, read the bottom banner alone. It must still earn a laugh, a wince, or an immediate urge to send it to someone. If it only explains the picture, rewrite it.
+- Favor what-the-hell reality: elaborate thefts, impossible collisions, freak discoveries, workplace absurdity, terrible inventions, animals acting like union employees, and human decisions that sound fabricated but are sourced.
+- Politics is never a default category. Use it only when the bizarre premise works without partisan shorthand and would still be funny if every name were removed.
 
 ### Visual system — non-negotiable collection gate
 

@@ -500,3 +500,47 @@ const sep12Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep12Stories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep12Stories);
+
+const sep13Stories = [
+  {
+    id:'sep13-guinness-heist',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Runcorn, England',image:'assets/cards/sep13-guinness-heist.webp',
+    title:'Thieves steal 70,000 pints of Guinness; Britain activates the foam reserves',
+    facts:'The Associated Press reported that thieves stole two trailer loads holding roughly 800 kegs and barrels of Guinness from an industrial park in Runcorn, near Liverpool. Police estimated the haul at about 70,000 pints, worth roughly £115,000 ($155,000), before counting the trailers.',
+    why:'Moving that much stout requires trucks, storage and a buyer willing to ignore a profoundly suspicious quantity of Guinness. Police appealed for witnesses and dashcam footage as investigators tried to trace both trailers and what may be the least discreet round in British history.',
+    angle:'Verified fact ends above. The Blappos interpretation: Britain has declared a sober emergency. Every pub is a potential crime scene, every foam moustache is evidence and somewhere a warehouse has become the world’s most incriminating happy hour.',
+    source:'https://apnews.com/article/guinness-heist-stout-stolen-truck-depot-pabst-pbr-88b7745450be79af57d35fd8dbd9c4c9',sourceName:'Read the AP report',
+    amazonLinks:[
+      {title:'The Beer Bible: Second Edition',image:'https://m.media-amazon.com/images/P/1523510455.01.LZZZZZZZ.jpg',alt:'Cover of The Beer Bible Second Edition',quip:'The emergency field manual for identifying which 70,000 pints have suddenly developed an alibi.',url:'https://www.amazon.com/dp/1523510455?tag=blappos-20',salesPriority:5},
+      {title:'The Complete Beer Course',image:'https://m.media-amazon.com/images/P/1455506737.01.LZZZZZZZ.jpg',alt:'Cover of The Complete Beer Course',quip:'Twelve lessons in beer, none of which officially recommend acquiring the syllabus by tractor-trailer.',url:'https://www.amazon.com/dp/1455506737?tag=blappos-20',salesPriority:5},
+      {title:'Guinness World Records 2026',image:'https://m.media-amazon.com/images/P/1913484696.01.LZZZZZZZ.jpg',alt:'Cover of Guinness World Records 2026',quip:'Not that Guinness, although largest stolen round now seems ready for adjudication.',url:'https://www.amazon.com/dp/1913484696?tag=blappos-20',salesPriority:4}
+    ]
+  },
+  {
+    id:'sep13-self-driving-cab',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Noida to Lucknow, India',image:'assets/cards/sep13-self-driving-cab.webp',
+    title:'Passenger books a cab, becomes the cab, receives no promotion',
+    facts:'NDTV reported that Shivam Mishra booked a cab from Noida to Lucknow, then learned the driver had been working since the previous day and was too exhausted to continue safely. Mishra took the wheel while the driver slept in the back seat; Mishra’s brother rode in front.',
+    why:'Letting an exhausted driver sleep was humane and likely safer than demanding he continue. The viral trip also exposed the upside-down incentives of app-based driving: a paying passenger had to become the service provider so the service provider could get the rest required to provide the service.',
+    angle:'Verified fact ends above. The Blappos interpretation: India has unveiled a revolutionary self-driving cab. You are the self. The vehicle supplies one sleeping employee, several hundred kilometers of responsibility and the rare privilege of paying for your own shift.',
+    source:'https://www.ndtv.com/offbeat/video-passenger-lets-exhausted-cab-driver-sleep-and-drives-from-noida-to-lucknow-himself-12040093',sourceName:'Read the NDTV report',
+    amazonLinks:[
+      {title:'Ostrichpillow Original Napping Pillow',image:'https://m.media-amazon.com/images/I/71mYkyZFA-L._AC_SL1500_.jpg',alt:'Ostrichpillow Original napping pillow',quip:'Official uniform for the only person in the cab not currently employed by the cab company.',url:'https://www.amazon.com/dp/B00B4S6SLW?tag=blappos-20',salesPriority:5},
+      {title:'The Driving Book: Everything New Drivers Need to Know',image:'https://m.media-amazon.com/images/P/0802777813.01.LZZZZZZZ.jpg',alt:'Cover of The Driving Book',quip:'Recommended reading before your next ride quietly reclassifies itself as an unpaid road test.',url:'https://www.amazon.com/dp/0802777813?tag=blappos-20',salesPriority:4},
+      {title:'Make Time: How to Focus on What Matters Every Day',image:'https://m.media-amazon.com/images/P/0525572422.01.LZZZZZZZ.jpg',alt:'Cover of Make Time',quip:'For finding the hidden block in your itinerary labeled person who actually drives the taxi.',url:'https://www.amazon.com/dp/0525572422?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep13-mustang-plane',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Portsmouth, New Hampshire',image:'assets/cards/sep13-mustang-plane.webp',
+    title:'Fleeing Mustang challenges parked airplane, loses dogfight immediately',
+    facts:'Road & Track reported that a 17-year-old driving a black 2008 Ford Mustang allegedly fled police without headlights, smashed through the perimeter fence at Portsmouth International Airport, crossed the apron, hit a Kubota tractor and then struck a parked Pilatus PC-12 airplane. No one else was injured.',
+    why:'The collision reportedly damaged the aircraft’s wing and landing gear and could produce a repair bill in the millions. The teenager was arrested and faced charges including aggravated driving while intoxicated—an unusually expensive demonstration that an airport runway is not an automotive escape route.',
+    angle:'Verified fact ends above. The Blappos interpretation: the Mustang entered aviation with tremendous confidence and no qualifications. Final score: parked airplane one, American muscle zero, airport fence deeply disappointed in everyone.',
+    source:'https://www.roadandtrack.com/news/a73595722/ford-mustang-teen-driver-fleeing-police-crash-plane-airport/',sourceName:'Read the Road & Track report',
+    amazonLinks:[
+      {title:'Airplane Flying Handbook',image:'https://m.media-amazon.com/images/P/1619545128.01.LZZZZZZZ.jpg',alt:'Cover of the FAA Airplane Flying Handbook',quip:'Contains many approved methods for approaching an airplane. A 2008 Mustang is not among them.',url:'https://www.amazon.com/dp/1619545128?tag=blappos-20',salesPriority:5},
+      {title:'How to Keep Your Volkswagen Alive',image:'https://m.media-amazon.com/images/P/1566913101.01.LZZZZZZZ.jpg',alt:'Cover of How to Keep Your Volkswagen Alive',quip:'Wrong car, correct philosophical priority after your vehicle starts selecting aircraft as opponents.',url:'https://www.amazon.com/dp/1566913101?tag=blappos-20',salesPriority:3},
+      {title:'The Driving Book: Everything New Drivers Need to Know',image:'https://m.media-amazon.com/images/P/0802777813.01.LZZZZZZZ.jpg',alt:'Cover of The Driving Book',quip:'Chapter one: roads. Chapter two: fences. Appendix: why neither one is a taxiway.',url:'https://www.amazon.com/dp/0802777813?tag=blappos-20',salesPriority:5}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep13Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep13Stories);
