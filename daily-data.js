@@ -504,7 +504,7 @@ window.dailyStories.splice(0, 0, ...sep12Stories);
 const sep13Stories = [
   {
     id:'sep13-guinness-heist',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Runcorn, England',image:'assets/cards/sep13-guinness-heist.webp',
-    title:'Thieves steal 70,000 pints of Guinness; Britain activates the foam reserves',
+    title:'Thieves steal 70,000 pints of Guinness; Britain activates the foam reserves',magnetUrl:'https://blappos.printify.me/product/31956180',magnetPrice:'$9.99',
     facts:'The Associated Press reported that thieves stole two trailer loads holding roughly 800 kegs and barrels of Guinness from an industrial park in Runcorn, near Liverpool. Police estimated the haul at about 70,000 pints, worth roughly £115,000 ($155,000), before counting the trailers.',
     why:'Moving that much stout requires trucks, storage and a buyer willing to ignore a profoundly suspicious quantity of Guinness. Police appealed for witnesses and dashcam footage as investigators tried to trace both trailers and what may be the least discreet round in British history.',
     angle:'Verified fact ends above. The Blappos interpretation: Britain has declared a sober emergency. Every pub is a potential crime scene, every foam moustache is evidence and somewhere a warehouse has become the world’s most incriminating happy hour.',
