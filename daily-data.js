@@ -517,7 +517,7 @@ const sep13Stories = [
   },
   {
     id:'sep13-self-driving-cab',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Noida to Lucknow, India',image:'assets/cards/sep13-self-driving-cab.webp',
-    title:'Passenger books a cab, becomes the cab, receives no promotion',
+    title:'Passenger books a cab, becomes the cab, receives no promotion',magnetUrl:'https://blappos.printify.me/product/31956185',magnetPrice:'$9.99',
     facts:'NDTV reported that Shivam Mishra booked a cab from Noida to Lucknow, then learned the driver had been working since the previous day and was too exhausted to continue safely. Mishra took the wheel while the driver slept in the back seat; Mishra’s brother rode in front.',
     why:'Letting an exhausted driver sleep was humane and likely safer than demanding he continue. The viral trip also exposed the upside-down incentives of app-based driving: a paying passenger had to become the service provider so the service provider could get the rest required to provide the service.',
     angle:'Verified fact ends above. The Blappos interpretation: India has unveiled a revolutionary self-driving cab. You are the self. The vehicle supplies one sleeping employee, several hundred kilometers of responsibility and the rare privilege of paying for your own shift.',
