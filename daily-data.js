@@ -561,7 +561,7 @@ const sep13EncoreStories = [
   },
   {
     id:'sep13-plastic-cookies',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Carbondale, Illinois',image:'assets/cards/sep13-plastic-cookies.webp',
-    title:'Scientists put plastic bottles in cookies; recycling bin requests a lawyer',
+    title:'Scientists put plastic bottles in cookies; recycling bin requests a lawyer',magnetUrl:'https://blappos.printify.me/product/31980557',magnetPrice:'$9.99',
     facts:'Researchers at Southern Illinois University Carbondale are engineering yeasts to convert molecules derived from PET plastic and agricultural waste into proteins, fats, vitamins and flavorings. Those ingredients can be combined with fiber, starch and sweetener, then 3D-printed into protein-rich cookies called µBites.',
     why:'The NASA-backed work began as a way to make food where resupply is difficult, including long space missions. Researchers say available safety data are encouraging, but formal human taste testing still awaits institutional approval; the cookies have so far been judged mainly by aroma.',
     angle:'Verified fact ends above. The Blappos interpretation: humanity stared at the recycling symbol and decided it was a recipe. The future vending machine will accept one bottle, add vanilla and dispense the snack you technically brought from home.',
