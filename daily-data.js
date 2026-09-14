@@ -544,3 +544,47 @@ const sep13Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep13Stories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep13Stories);
+
+const sep13EncoreStories = [
+  {
+    id:'sep13-elephant-football',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Numaligarh, Assam',image:'assets/cards/sep13-elephant-football.webp',
+    title:'Elephant enters free agency after humiliating entire midfield',
+    facts:'NDTV reported that a wild elephant was filmed kicking a football around a grassland at Bogidhala in Numaligarh, in Assam’s Golaghat district. The elephant repeatedly moved with the ball while onlookers watched, and video of the unexpected practice session spread online.',
+    why:'The clip was striking because the elephant did not merely investigate the ball—it appeared to coordinate its steps and kicks like an enormous, completely unscouted player. The encounter also showed the curiosity and physical dexterity wild elephants can display around unfamiliar objects.',
+    angle:'Verified fact ends above. The Blappos interpretation: the transfer window is open and one club has discovered a striker who cannot be bullied off the ball. Contract demands include six tons of fruit, unrestricted grassland access and the immediate widening of the players’ tunnel.',
+    source:'https://www.ndtv.com/offbeat/elephant-turns-footballer-in-assams-numaligarh-shows-off-skills-on-ground-12041614',sourceName:'Read the NDTV report',
+    amazonLinks:[
+      {title:'DolliBu Super Soft Elephant Stuffed Animal with Soccer Ball Plush',image:'https://m.media-amazon.com/images/P/B0G1TNGGRM.01.LZZZZZZZ.jpg',alt:'DolliBu elephant stuffed animal holding a soccer ball',quip:'The exact elephant-football crossover, already miniaturized for teams unable to accommodate a full-size striker.',url:'https://www.amazon.com/dp/B0G1TNGGRM?tag=blappos-20',salesPriority:5},
+      {title:'Elephants (National Geographic Kids Readers, Level 1)',image:'https://m.media-amazon.com/images/P/1426326181.01.LZZZZZZZ.jpg',alt:'Cover of Elephants from National Geographic Kids Readers',quip:'Scouting notes on the Numaligarh prospect, regrettably missing the chapter on first-touch technique.',url:'https://www.amazon.com/dp/1426326181?tag=blappos-20',salesPriority:4},
+      {title:'Secrets of the Elephants',image:'https://m.media-amazon.com/images/P/1426223315.01.LZZZZZZZ.jpg',alt:'Cover of Secrets of the Elephants by Paula Kahumbu',quip:'A serious elephant reference for determining whether elite midfield vision was one of the secrets.',url:'https://www.amazon.com/dp/1426223315?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep13-plastic-cookies',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Carbondale, Illinois',image:'assets/cards/sep13-plastic-cookies.webp',
+    title:'Scientists put plastic bottles in cookies; recycling bin requests a lawyer',
+    facts:'Researchers at Southern Illinois University Carbondale are engineering yeasts to convert molecules derived from PET plastic and agricultural waste into proteins, fats, vitamins and flavorings. Those ingredients can be combined with fiber, starch and sweetener, then 3D-printed into protein-rich cookies called µBites.',
+    why:'The NASA-backed work began as a way to make food where resupply is difficult, including long space missions. Researchers say available safety data are encouraging, but formal human taste testing still awaits institutional approval; the cookies have so far been judged mainly by aroma.',
+    angle:'Verified fact ends above. The Blappos interpretation: humanity stared at the recycling symbol and decided it was a recipe. The future vending machine will accept one bottle, add vanilla and dispense the snack you technically brought from home.',
+    source:'https://sciencedaily.com/releases/2026/09/260912220033.htm',sourceName:'Read the ScienceDaily report',
+    amazonLinks:[
+      {title:'Plastic: A Toxic Love Story',image:'https://m.media-amazon.com/images/P/0547152834.01.LZZZZZZZ.jpg',alt:'Cover of Plastic: A Toxic Love Story by Susan Freinkel',quip:'The background reading for a love story that has now reached the deeply complicated “eat the bottle” phase.',url:'https://www.amazon.com/dp/0547152834?tag=blappos-20',salesPriority:4},
+      {title:'Cookies: The New Classics',image:'https://m.media-amazon.com/images/P/0593235665.01.LZZZZZZZ.jpg',alt:'Cover of Cookies: The New Classics by Jesse Szewczyk',quip:'A cookie book from the final innocent era, when “new classic” did not mean polyethylene terephthalate.',url:'https://www.amazon.com/dp/0593235665?tag=blappos-20',salesPriority:5},
+      {title:'The 3D Printing Handbook',image:'https://m.media-amazon.com/images/P/9082748509.01.LZZZZZZZ.jpg',alt:'Cover of The 3D Printing Handbook',quip:'The production manual for anyone whose bakery now requires software, microbes and a materials-science waiver.',url:'https://www.amazon.com/dp/9082748509?tag=blappos-20',salesPriority:4}
+    ]
+  },
+  {
+    id:'sep13-paragliding-grandpa',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Himachal Pradesh',image:'assets/cards/sep13-paragliding-grandpa.webp',
+    title:'72-year-old reaches 24,000 feet; recliner declared medically boring',
+    facts:'NDTV reported that 72-year-old Kapildev Rawat of Jamui, Bihar, fulfilled a long-held dream by paragliding at nearly 24,000 feet in Himachal Pradesh. Rawat initially hesitated because of his age but went ahead after encouragement from his children.',
+    why:'Rawat described the flight as exciting, joyful and emotional, and credited his family for helping him attempt it. His outing turned a familiar family dynamic upside down: instead of children being warned not to do something dangerous, the children talked their father into leaving the mountain.',
+    angle:'Verified fact ends above. The Blappos interpretation: retirement has left the chat, climbed to cruising altitude and blocked the shuffleboard committee. His children said “you only live once,” then apparently selected a height at which commercial aircraft begin asking questions.',
+    source:'https://www.ndtv.com/offbeat/72-year-old-bihar-man-goes-paragliding-at-nearly-24-000-feet-in-himachal-fulfils-lifelong-dream-12040915',sourceName:'Read the NDTV report',
+    amazonLinks:[
+      {title:'The Bucket List: 1000 Adventures Big & Small',image:'https://m.media-amazon.com/images/P/0789332698.01.LZZZZZZZ.jpg',alt:'Cover of The Bucket List: 1000 Adventures Big & Small',quip:'For finding the next family outing after “launch Dad from the Himalayas” has already been checked off.',url:'https://www.amazon.com/dp/0789332698?tag=blappos-20',salesPriority:5},
+      {title:'Fifty Places to Fly Before You Die',image:'https://m.media-amazon.com/images/P/1617691062.01.LZZZZZZZ.jpg',alt:'Cover of Fifty Places to Fly Before You Die by Chris Santella',quip:'Rawat completed the assignment at 72 and selected a location high enough to count several times.',url:'https://www.amazon.com/dp/1617691062?tag=blappos-20',salesPriority:5},
+      {title:'How to Retire Happy, Wild, and Free',image:'https://m.media-amazon.com/images/P/096941949X.01.LZZZZZZZ.jpg',alt:'Cover of How to Retire Happy, Wild, and Free by Ernie J. Zelinski',quip:'The title reads less like advice and more like Rawat’s flight plan.',url:'https://www.amazon.com/dp/096941949X?tag=blappos-20',salesPriority:5}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep13EncoreStories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep13EncoreStories);
