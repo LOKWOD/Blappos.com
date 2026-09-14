@@ -574,7 +574,7 @@ const sep13EncoreStories = [
   },
   {
     id:'sep13-paragliding-grandpa',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Himachal Pradesh',image:'assets/cards/sep13-paragliding-grandpa.webp',
-    title:'72-year-old reaches 24,000 feet; recliner declared medically boring',
+    title:'72-year-old reaches 24,000 feet; recliner declared medically boring',magnetUrl:'https://blappos.printify.me/product/31980562',magnetPrice:'$9.99',
     facts:'NDTV reported that 72-year-old Kapildev Rawat of Jamui, Bihar, fulfilled a long-held dream by paragliding at nearly 24,000 feet in Himachal Pradesh. Rawat initially hesitated because of his age but went ahead after encouragement from his children.',
     why:'Rawat described the flight as exciting, joyful and emotional, and credited his family for helping him attempt it. His outing turned a familiar family dynamic upside down: instead of children being warned not to do something dangerous, the children talked their father into leaving the mountain.',
     angle:'Verified fact ends above. The Blappos interpretation: retirement has left the chat, climbed to cruising altitude and blocked the shuffleboard committee. His children said “you only live once,” then apparently selected a height at which commercial aircraft begin asking questions.',
