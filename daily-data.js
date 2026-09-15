@@ -605,7 +605,7 @@ const sep14Stories = [
   },
   {
     id:'sep14-pacific-scream',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'San Francisco, California',image:'assets/cards/sep14-pacific-scream.webp',
-    title:'San Francisco screams at the Pacific; ocean declines to comment',
+    title:'San Francisco screams at the Pacific; ocean declines to comment',magnetUrl:'https://blappos.printify.me/product/32000128',magnetPrice:'$9.99',
     facts:'UPI reported that more than 100 people gathered at Vista Del Mar above Ocean Beach for a guttural scream contest organized by Danielle Egan. Olivia Gugliemotto won after a sound meter registered 121.9 decibels, earning a small megaphone; Kyana Van Houten placed second with a 6.78-second scream measured at 114.3 decibels.',
     why:'The event turned private stress into deliberately low-tech communal catharsis: people met offline, screamed together for about a minute and shared fruit afterward. The winning measurement also makes hearing safety more than a footnote—121.9 decibels is an intensity where exposure time matters.',
     angle:'Verified fact ends above. The Blappos interpretation: more than 100 San Franciscans filed a verbal complaint with the Pacific. The ocean acknowledged receipt by continuing to be the ocean.',
