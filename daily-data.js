@@ -592,7 +592,7 @@ window.dailyStories.splice(0, 0, ...sep13EncoreStories);
 const sep14Stories = [
   {
     id:'sep14-nato-birds',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Vilnius, Lithuania',image:'assets/cards/sep14-nato-birds.webp',
-    title:'NATO scrambles a fighter jet; hostile formation turns out to be birds',
+    title:'NATO scrambles a fighter jet; hostile formation turns out to be birds',magnetUrl:'https://blappos.printify.me/product/32000124',magnetPrice:'$9.99',
     facts:'NDTV reported that a NATO fighter was dispatched from Šiauliai in northern Lithuania after radar detected an unknown low-flying object in restricted airspace near Vilnius. The Italian air force crew, serving under NATO Baltic Air Defence, made visual contact and found dozens of migrating birds—not a drone. Vilnius Airport closed temporarily and reopened within 38 minutes.',
     why:'Lithuania’s heightened security posture makes the interception protocol understandable, while the mix-up shows how small, slow targets and dense bird flocks can create similar radar signatures. A false alarm still disrupted civilian aviation, turning an identification problem into an airport-wide consequence.',
     angle:'Verified fact ends above. The Blappos interpretation: Europe briefly achieved air superiority over migration season. The flock was released without charge after producing no motors, propellers or surveillance equipment.',
