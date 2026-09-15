@@ -618,7 +618,7 @@ const sep14Stories = [
   },
   {
     id:'sep14-golden-modak',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Nashik, India',image:'assets/cards/sep14-golden-modak.webp',
-    title:'Sweet shop upgrades dessert to precious metal and charges accordingly',
+    title:'Sweet shop upgrades dessert to precious metal and charges accordingly',magnetUrl:'https://blappos.printify.me/product/32000137',magnetPrice:'$9.99',
     facts:'NDTV reported that Sagar Sweets at Vidya Vikas Circle in Nashik launched a golden modak for Ganesh Chaturthi. The traditional festival sweet is coated with edible gold and priced at ₹27,000 per kilogram, drawing shoppers and attention online.',
     why:'Modak is closely associated with Ganesh Chaturthi and is traditionally described as a favorite of Lord Ganesha. The gold-coated version shows how retailers can turn a familiar devotional sweet into a luxury spectacle without changing the cultural occasion at its center.',
     angle:'Verified fact ends above. The Blappos interpretation: Nashik found the shortest route from prasad to portfolio diversification. The sweet is now served with spiritual significance and an implied prospectus.',
