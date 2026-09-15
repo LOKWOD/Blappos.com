@@ -588,3 +588,47 @@ const sep13EncoreStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep13EncoreStories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep13EncoreStories);
+
+const sep14Stories = [
+  {
+    id:'sep14-nato-birds',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Vilnius, Lithuania',image:'assets/cards/sep14-nato-birds.webp',
+    title:'NATO scrambles a fighter jet; hostile formation turns out to be birds',
+    facts:'NDTV reported that a NATO fighter was dispatched from Šiauliai in northern Lithuania after radar detected an unknown low-flying object in restricted airspace near Vilnius. The Italian air force crew, serving under NATO Baltic Air Defence, made visual contact and found dozens of migrating birds—not a drone. Vilnius Airport closed temporarily and reopened within 38 minutes.',
+    why:'Lithuania’s heightened security posture makes the interception protocol understandable, while the mix-up shows how small, slow targets and dense bird flocks can create similar radar signatures. A false alarm still disrupted civilian aviation, turning an identification problem into an airport-wide consequence.',
+    angle:'Verified fact ends above. The Blappos interpretation: Europe briefly achieved air superiority over migration season. The flock was released without charge after producing no motors, propellers or surveillance equipment.',
+    source:'https://www.ndtv.com/world-news/nato-jets-scramble-to-intercept-drone-discover-its-just-birds-12043003',sourceName:'Read the NDTV report',
+    amazonLinks:[
+      {title:'Celestron Nature DX 8x42 Waterproof Binoculars for Bird Watching & Outdoors',image:'https://m.media-amazon.com/images/P/B00B73JONS.01.LZZZZZZZ.jpg',alt:'Celestron Nature DX 8x42 waterproof binoculars with case and accessories',quip:'For confirming “migrating bird” before the next identification request reaches fighter-jet pricing.',url:'https://www.amazon.com/dp/B00B73JONS?tag=blappos-20',salesPriority:5},
+      {title:"Europe's Birds: An Identification Guide (WILDGuides)",image:'https://m.media-amazon.com/images/I/71ygxy-nXlL._SL1500_.jpg',alt:"Cover of Europe's Birds: An Identification Guide",quip:'A field guide to the exact European flock that briefly appeared on the NATO threat board.',url:'https://www.amazon.com/dp/0691177651?tag=blappos-20',salesPriority:5},
+      {title:"Birds Aren't Real: The True Story of Mass Avian Murder and the Largest Surveillance Campaign in US History",image:'https://m.media-amazon.com/images/I/71yiMzvnohL._SL1500_.jpg',alt:"Cover of Birds Aren't Real by Peter McIndoe and Connor Gaydos",quip:'The definitive joke for the morning NATO suspected a drone and discovered the conspiracy had feathers.',url:'https://www.amazon.com/dp/1250288894?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep14-pacific-scream',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'San Francisco, California',image:'assets/cards/sep14-pacific-scream.webp',
+    title:'San Francisco screams at the Pacific; ocean declines to comment',
+    facts:'UPI reported that more than 100 people gathered at Vista Del Mar above Ocean Beach for a guttural scream contest organized by Danielle Egan. Olivia Gugliemotto won after a sound meter registered 121.9 decibels, earning a small megaphone; Kyana Van Houten placed second with a 6.78-second scream measured at 114.3 decibels.',
+    why:'The event turned private stress into deliberately low-tech communal catharsis: people met offline, screamed together for about a minute and shared fruit afterward. The winning measurement also makes hearing safety more than a footnote—121.9 decibels is an intensity where exposure time matters.',
+    angle:'Verified fact ends above. The Blappos interpretation: more than 100 San Franciscans filed a verbal complaint with the Pacific. The ocean acknowledged receipt by continuing to be the ocean.',
+    source:'https://www.upi.com/Odd_News/2026/09/14/Guttural-scream-at-the-sea-San-Francisco/6761789408160/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'Pyle Portable Megaphone Speaker PA Bullhorn - Built-in Siren, 50W Adjustable Volume Control in 1200 Yard Range, Ideal for Any Outdoor Sports, Cheerleading Fans & Coaches, or for Safety Drills',image:'https://m.media-amazon.com/images/P/B002PB23SO.01.LZZZZZZZ.jpg',alt:'White and blue Pyle 50-watt portable megaphone with handheld microphone',quip:'The winner received a megaphone, because apparently 121.9 decibels was only the qualifying round.',url:'https://www.amazon.com/dp/B002PB23SO?tag=blappos-20',salesPriority:4},
+      {title:'eS528L Decibel Meter and Recorder by ennoLogic – Digital Sound Level Meter and Noise Logger – Max/Min/Hold, 30-130 dBA Range, Updated Software',image:'https://m.media-amazon.com/images/I/71LYLbpFUWL._AC_SL1000_.jpg',alt:'ennoLogic eS528L digital decibel meter with manual, cable and battery',quip:'For settling the exact contest fact: who screamed loudest at the Pacific and by how much.',url:'https://www.amazon.com/dp/B07V4H1SJ9?tag=blappos-20',salesPriority:4},
+      {title:'3M WorkTunes',image:'https://m.media-amazon.com/images/P/B0723CYHPZ.01.LZZZZZZZ.jpg',alt:'Black 3M WorkTunes over-ear hearing protector with yellow trim',quip:'For the sensible spectator standing beside more than 100 people attempting a collective emotional sonic boom.',url:'https://www.amazon.com/dp/B0723CYHPZ?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep14-golden-modak',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Nashik, India',image:'assets/cards/sep14-golden-modak.webp',
+    title:'Sweet shop upgrades dessert to precious metal and charges accordingly',
+    facts:'NDTV reported that Sagar Sweets at Vidya Vikas Circle in Nashik launched a golden modak for Ganesh Chaturthi. The traditional festival sweet is coated with edible gold and priced at ₹27,000 per kilogram, drawing shoppers and attention online.',
+    why:'Modak is closely associated with Ganesh Chaturthi and is traditionally described as a favorite of Lord Ganesha. The gold-coated version shows how retailers can turn a familiar devotional sweet into a luxury spectacle without changing the cultural occasion at its center.',
+    angle:'Verified fact ends above. The Blappos interpretation: Nashik found the shortest route from prasad to portfolio diversification. The sweet is now served with spiritual significance and an implied prospectus.',
+    source:'https://www.ndtv.com/offbeat/ganesh-chaturthi-golden-modak-worth-rs-27-000-per-kg-steals-spotlight-at-nashik-sweet-shop-12043789',sourceName:'Read the NDTV report',
+    amazonLinks:[
+      {title:'FlowAura Aluminum Modak Moulds (Set of 2) Size: 5 cm | (Medium)',image:'https://m.media-amazon.com/images/I/31MBK-2DifS._AC_.jpg',alt:'Pair of medium aluminum moulds shaping a white modak',quip:'The exact mould for recreating the story’s modak shape before the precious-metal department gets involved.',url:'https://www.amazon.com/dp/B093BYBKYK?tag=blappos-20',salesPriority:4},
+      {title:'Barnabas Edible Gold Leaf Sheets 24K - Loose 1.5inch Sheet, Interleaf of 12',image:'https://m.media-amazon.com/images/I/71sBe3rFUYL._SL1500_.jpg',alt:'Barnabas 24-karat edible gold leaf package with twelve loose sheets',quip:'The exact edible-gold treatment that promotes an ordinary festival sweet into the dessert asset class.',url:'https://www.amazon.com/dp/B07THRSKVZ?tag=blappos-20',salesPriority:5},
+      {title:'OXO Good Grips 11-Pound Digital Kitchen Food Scale',image:'https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg',alt:'Stainless steel OXO digital kitchen food scale with pull-out display',quip:'At ₹27,000 per kilogram, “close enough” stops being an acceptable unit of dessert measurement.',url:'https://www.amazon.com/dp/B079D9B82W?tag=blappos-20',salesPriority:5}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep14Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep14Stories);
