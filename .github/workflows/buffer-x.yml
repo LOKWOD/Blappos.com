@@ -43,5 +43,4 @@ jobs:
           BUFFER_POSTS_PER_RUN: '5'
           BUFFER_TARGET_DATE: ${{ inputs.target_date }}
           BUFFER_SHARE_MODE: ${{ inputs.share_mode || 'addToQueue' }}
-          BUFFER_FORCE_CURRENT_EDITION: 'true'
         run: node scripts/buffer_x_queue.mjs
