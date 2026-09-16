@@ -636,7 +636,7 @@ window.dailyStories.splice(0, 0, ...sep14Stories);
 const sep14CompleteRun = [
   {
     id:'sep14-paper-planes',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Boise, Idaho',image:'assets/cards/sep14-paper-planes.webp',
-    title:'Man folds 415 paper planes; airport reports zero useful departures',
+    title:'Man folds 415 paper planes; airport reports zero useful departures',magnetUrl:'https://blappos.printify.me/product/32023725',magnetPrice:'$9.99',
     facts:'UPI reported that serial record-breaker David Rush folded 415 paper airplanes in one hour in Boise, Idaho, earning the Guinness World Records title for the most paper aircraft made in that time. The attempt required a completed, recognizable plane every few seconds for the full hour.',
     why:'The record turns a familiar school-desk skill into an endurance and quality-control problem: each plane has to be folded fast enough to keep the count moving while still meeting the rules. Rush uses elaborate record attempts to promote science, technology, engineering and math education.',
     angle:'Verified fact ends above. The Blappos interpretation: Boise opened an airline with 415 aircraft, no pilots and a baggage allowance of one paper clip. Every flight was on time because none of them went anywhere.',
