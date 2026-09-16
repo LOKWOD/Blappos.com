@@ -79,7 +79,7 @@ async function main() {
       input: {
         organizationId: selected.organization.id,
         filter: { channelIds: [selected.channel.id], status: ['scheduled', 'sending', 'sent'] },
-        sort: [{ field: 'dueAt', direction: 'asc' }],
+        sort: [{ field: 'dueAt', direction: 'desc' }],
       },
       first: 50,
     },
@@ -89,8 +89,10 @@ async function main() {
   const queued = knownPosts.filter(post => post.status === 'scheduled' || post.status === 'sending');
   const capacity = Math.max(0, MAX_QUEUE - queued.length);
   const existingText = knownPosts.map(post => post.text).join('\n');
-  const candidates = loadStories().filter(story =>
-    (!targetDate || story.isoDate === targetDate) &&
+  const allStories = loadStories();
+  const editionDate = targetDate || allStories[0]?.isoDate;
+  const candidates = allStories.filter(story =>
+    story.isoDate === editionDate &&
     !existingText.includes(`/stories/${story.id}/`),
   );
   const stories = candidates.slice(0, Math.min(MAX_PER_RUN, capacity));
