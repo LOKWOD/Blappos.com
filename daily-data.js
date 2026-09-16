@@ -719,7 +719,7 @@ const sep15Stories = [
   },
   {
     id:'sep15-overdue-magazine',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Concord, New Hampshire',image:'assets/cards/sep15-overdue-magazine.webp',
-    title:'Library receives magazine 132 years late; fine arrives historically waived',
+    title:'Library receives magazine 132 years late; fine arrives historically waived',magnetUrl:'https://blappos.printify.me/product/32032925',magnetPrice:'$9.99',
     facts:'UPI reported that John Hanson returned a September 1894 issue of The Century Illustrated Monthly Magazine to Concord Public Library in New Hampshire. The item was 48,220 days overdue and would have accrued a theoretical $12,055 fine, but the library had frozen fines beginning September 1 and charged nothing.',
     why:'A periodical surviving outside a library for more than a century can still carry local and research value when it returns. The fine waiver also illustrates the modern library goal behind eliminating penalties: getting missing material and patrons back matters more than collecting an impossible debt.',
     angle:'Verified fact ends above. The Blappos interpretation: Concord has closed the oldest open tab in town. The magazine returned after 132 years, surveyed the internet and immediately asked whether another renewal was available.',
