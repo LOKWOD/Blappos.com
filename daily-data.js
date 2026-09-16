@@ -680,7 +680,7 @@ window.dailyStories.splice(0, 0, ...sep14CompleteRun);
 const sep15Stories = [
   {
     id:'sep15-vulcan-salute',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'London, England',image:'assets/cards/sep15-vulcan-salute.webp',
-    title:'934 Trekkies raise one hand; London records peak logic',
+    title:'934 Trekkies raise one hand; London records peak logic',magnetUrl:'https://blappos.printify.me/product/32032901',magnetPrice:'$9.99',
     facts:'UPI reported that 934 people performed the Vulcan salute simultaneously at Star Trek Lates, an event held at London’s Science Museum for the franchise’s 60th anniversary. Guinness World Records confirmed the gathering as the largest group to perform the split-finger gesture at the same time.',
     why:'The result turned a piece of television history into a measurable act of fan participation. It also required hundreds of people to execute the same deceptively awkward hand position together—proof that even fictional logic can create a very real coordination problem.',
     angle:'Verified fact ends above. The Blappos interpretation: London achieved peak logic by raising 934 hands and lowering the citywide supply of flexible ring fingers. The Science Museum has classified the soreness as culturally significant.',
