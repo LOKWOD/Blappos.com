@@ -51,7 +51,7 @@ async function main() {
   const organizations = account.account.organizations;
   if (!organizations.length) throw new Error('No Buffer organization found');
 
-  let selected;
+  const selections = [];
   for (const organization of organizations) {
     const data = await graphql(
       `query Channels($input: ChannelsInput!) {
@@ -61,14 +61,17 @@ async function main() {
       }`,
       { input: { organizationId: organization.id, filter: { isLocked: false } } },
     );
-    const channel = data.channels.find(item => item.service === 'twitter' && !item.isDisconnected);
-    if (channel) {
-      selected = { organization, channel };
-      break;
+    for (const channel of data.channels.filter(item => (item.service === 'twitter' || item.service.startsWith('facebook')) && !item.isDisconnected)) {
+      selections.push({ organization, channel });
     }
   }
-  if (!selected) throw new Error('No connected, unlocked X/Twitter channel found in Buffer');
-  if (selected.channel.isQueuePaused) throw new Error('The Buffer X queue is paused');
+  if (!selections.length) throw new Error('No connected, unlocked X/Twitter or Facebook channel found in Buffer');
+
+  for (const selected of selections) {
+    if (selected.channel.isQueuePaused) {
+      console.log(`Skipping paused ${selected.channel.service} channel ${selected.channel.name}.`);
+      continue;
+    }
 
   const scheduled = await graphql(
     `query ScheduledPosts($input: PostsInput!, $first: Int) {
@@ -98,10 +101,10 @@ async function main() {
   );
   const stories = candidates.slice(0, Math.min(MAX_PER_RUN, capacity));
 
-  if (!stories.length) {
-    console.log(`Nothing queued: ${queued.length}/${MAX_QUEUE} slots are already occupied or all current stories are present.`);
-    return;
-  }
+    if (!stories.length) {
+      console.log(`Nothing queued on ${selected.channel.service}: ${queued.length}/${MAX_QUEUE} slots are occupied or all current stories are present.`);
+      continue;
+    }
 
   const mutation = `mutation CreatePost($input: CreatePostInput!) {
     createPost(input: $input) {
@@ -126,7 +129,7 @@ async function main() {
         channelId: selected.channel.id,
         text: postText(story),
         assets: [{ image: { url: imageUrl, thumbnailUrl: imageUrl, metadata: { altText: story.title } } }],
-        metadata: { twitter: { isAiGenerated: true } },
+        metadata: selected.channel.service === 'twitter' ? { twitter: { isAiGenerated: true } } : {},
         mode: shareMode,
         schedulingType: 'automatic',
         needsApproval: false,
@@ -139,7 +142,8 @@ async function main() {
     if (payload.__typename !== 'PostActionSuccess') {
       throw new Error(`Buffer rejected ${story.id}: ${payload.message || payload.__typename}`);
     }
-    console.log(`Queued ${story.id} as Buffer post ${payload.post.id} for ${payload.post.dueAt}`);
+      console.log(`Queued ${story.id} on ${selected.channel.service} as Buffer post ${payload.post.id} for ${payload.post.dueAt}`);
+    }
   }
 }
 
