@@ -142,7 +142,7 @@ for (const story of stories) {
         <h2>Why it matters</h2><p>${escapeHtml(story.why || 'The event became part of a larger argument about public responsibility, power and the cost carried by ordinary people.')}</p>
         <h2>The Blappos angle</h2><p>${escapeHtml(story.angle || story.title)}</p>
         <a class="source" href="${escapeHtml(story.source)}" target="_blank" rel="noopener">${escapeHtml(story.sourceName || 'Read the reporting')} ↗</a>
-        <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting.</p>
+        <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting. <a href="../../standards/">Read our sourcing, satire and corrections standard.</a></p>
         ${shareMarkup(story, canonical)}
         ${magnetMarkup(story)}
         ${amazonMarkup(story)}
@@ -171,6 +171,7 @@ for (const story of stories) {
 
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
+  { loc: `${origin}/standards/`, lastmod: '2026-09-16' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>

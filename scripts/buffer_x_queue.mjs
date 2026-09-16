@@ -39,11 +39,13 @@ function loadStories() {
     .sort((a, b) => b.isoDate.localeCompare(a.isoDate));
 }
 
-function postText(story) {
+function postText(story, service) {
   const url = `${SITE_URL}/stories/${story.id}/`;
   const place = story.place ? `${story.place}: ` : '';
-  const text = `${place}${story.title}\n\n${url}`;
-  if (text.length > 280) throw new Error(`X post exceeds 280 characters: ${story.id}`);
+  const text = service === 'instagram'
+    ? `${place}${story.title}\n\nThe facts, the context, and the Blappos angle:\n${url}\n\n#Blappos #WeirdNews #Satire #NewsIllustration`
+    : `${place}${story.title}\n\n${url}`;
+  if (service === 'twitter' && text.length > 280) throw new Error(`X post exceeds 280 characters: ${story.id}`);
   return text;
 }
 
@@ -62,11 +64,11 @@ async function main() {
       }`,
       { input: { organizationId: organization.id, filter: { isLocked: false } } },
     );
-    for (const channel of data.channels.filter(item => (item.service === 'twitter' || item.service.startsWith('facebook')) && !item.isDisconnected)) {
+    for (const channel of data.channels.filter(item => (item.service === 'twitter' || item.service === 'instagram' || item.service.startsWith('facebook')) && !item.isDisconnected)) {
       selections.push({ organization, channel });
     }
   }
-  if (!selections.length) throw new Error('No connected, unlocked X/Twitter or Facebook channel found in Buffer');
+  if (!selections.length) throw new Error('No connected, unlocked Instagram, X/Twitter or Facebook channel found in Buffer');
 
   for (const selected of selections) {
     if (selected.channel.isQueuePaused) {
@@ -152,7 +154,7 @@ async function main() {
     const result = await graphql(mutation, {
       input: {
         channelId: selected.channel.id,
-        text: postText(story),
+        text: postText(story, selected.channel.service),
         assets: [{ image: { url: imageUrl, thumbnailUrl: imageUrl, metadata: { altText: story.title } } }],
         metadata: selected.channel.service === 'twitter'
           ? { twitter: { isAiGenerated: true } }

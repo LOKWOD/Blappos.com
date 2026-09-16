@@ -1,4 +1,4 @@
-name: Queue Blappos stories on X
+name: Publish Blappos story cards to social channels
 
 on:
   schedule:
@@ -37,7 +37,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Queue up to five new Blappos stories
+      - name: Queue up to five new Blappos stories per connected channel
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           BUFFER_POSTS_PER_RUN: '5'
