@@ -662,7 +662,7 @@ const sep14CompleteRun = [
   },
   {
     id:'sep14-emu-chase',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Ramapo, New York',image:'assets/cards/sep14-emu-chase.webp',
-    title:'Police deploy drone against emu; bird declines to look worried',
+    title:'Police deploy drone against emu; bird declines to look worried',magnetUrl:'https://blappos.printify.me/product/32023735',magnetPrice:'$9.99',
     facts:'UPI reported that an emu escaped from a petting zoo in Rockland County, New York, prompting a response from Ramapo police. Multiple officers and a Skydio drone helped locate and follow the large flightless bird until it could be safely recovered and returned, with no injuries or property damage reported.',
     why:'Emus can run quickly, change direction abruptly and cover ground far faster than a person expects from a bird. A drone gave officers a safe overhead view during the search, reducing the need to chase blindly through roads and private property.',
     angle:'Verified fact ends above. The Blappos interpretation: Ramapo activated aerial surveillance against a suspect physically incapable of flight. The emu was returned safely after reviewing the police budget and realizing it had already won.',
