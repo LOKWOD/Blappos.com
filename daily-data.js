@@ -649,7 +649,7 @@ const sep14CompleteRun = [
   },
   {
     id:'sep14-bat-train',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Greenock, Scotland',image:'assets/cards/sep14-bat-train.webp',
-    title:'ScotRail quiet carriage adds one extremely airborne passenger',
+    title:'ScotRail quiet carriage adds one extremely airborne passenger',magnetUrl:'https://blappos.printify.me/product/32023730',magnetPrice:'$9.99',
     facts:'UPI reported that a bat flew through a ScotRail carriage on the Gourock-to-Glasgow Central service while the train traveled between Cartsdyke and Bogston stations in Greenock. Passengers ducked as staff and riders tried to guide it toward an exit with a Saltire flag and a cap; the bat eventually flew out.',
     why:'A bat inside a moving passenger carriage is difficult to direct without hurting it or alarming riders. The improvised response worked: the animal left the train and the episode ended with cheers rather than an injury or a prolonged service disruption.',
     angle:'Verified fact ends above. The Blappos interpretation: ScotRail apologized for the unannounced upgrade to winged service. The passenger had no ticket, no luggage and still found a faster route to the door than everyone in the aisle.',
