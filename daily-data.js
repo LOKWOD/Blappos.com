@@ -632,3 +632,47 @@ const sep14Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep14Stories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep14Stories);
+
+const sep14CompleteRun = [
+  {
+    id:'sep14-paper-planes',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Boise, Idaho',image:'assets/cards/sep14-paper-planes.webp',
+    title:'Man folds 415 paper planes; airport reports zero useful departures',
+    facts:'UPI reported that serial record-breaker David Rush folded 415 paper airplanes in one hour in Boise, Idaho, earning the Guinness World Records title for the most paper aircraft made in that time. The attempt required a completed, recognizable plane every few seconds for the full hour.',
+    why:'The record turns a familiar school-desk skill into an endurance and quality-control problem: each plane has to be folded fast enough to keep the count moving while still meeting the rules. Rush uses elaborate record attempts to promote science, technology, engineering and math education.',
+    angle:'Verified fact ends above. The Blappos interpretation: Boise opened an airline with 415 aircraft, no pilots and a baggage allowance of one paper clip. Every flight was on time because none of them went anywhere.',
+    source:'https://www.upi.com/Odd_News/2026/09/14/Guinness-World-Records-David-Rush-paper-airplanes-one-hour/3931789398848/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'Klutz Book of Paper Airplanes Craft Kit',image:'https://m.media-amazon.com/images/P/1570548307.01.LZZZZZZZ.jpg',alt:'Klutz Book of Paper Airplanes craft kit',quip:'The folding manual and patterned paper for attempting plane 416 without opening an actual airport.',url:'https://www.amazon.com/dp/1570548307?tag=blappos-20',salesPriority:5},
+      {title:'The New World Champion Paper Airplane Book',image:'https://m.media-amazon.com/images/P/1607743884.01.LZZZZZZZ.jpg',alt:'The New World Champion Paper Airplane Book by John M. Collins',quip:'Record-grade designs for anyone who thinks the problem with 415 planes was insufficient aerodynamics.',url:'https://www.amazon.com/dp/1607743884?tag=blappos-20',salesPriority:5},
+      {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of Guinness World Records 2027',quip:'The official paperwork for checking whether your kitchen-table airline made the next edition.',url:'https://www.amazon.com/dp/1806500256?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep14-bat-train',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Greenock, Scotland',image:'assets/cards/sep14-bat-train.webp',
+    title:'ScotRail quiet carriage adds one extremely airborne passenger',
+    facts:'UPI reported that a bat flew through a ScotRail carriage on the Gourock-to-Glasgow Central service while the train traveled between Cartsdyke and Bogston stations in Greenock. Passengers ducked as staff and riders tried to guide it toward an exit with a Saltire flag and a cap; the bat eventually flew out.',
+    why:'A bat inside a moving passenger carriage is difficult to direct without hurting it or alarming riders. The improvised response worked: the animal left the train and the episode ended with cheers rather than an injury or a prolonged service disruption.',
+    angle:'Verified fact ends above. The Blappos interpretation: ScotRail apologized for the unannounced upgrade to winged service. The passenger had no ticket, no luggage and still found a faster route to the door than everyone in the aisle.',
+    source:'https://www.upi.com/Odd_News/2026/09/14/scotland-bat-ScotRail-train-Glasgow/6801789395779/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'National Geographic Readers: Bats',image:'https://m.media-amazon.com/images/P/1426307101.01.LZZZZZZZ.jpg',alt:'Cover of National Geographic Readers Bats',quip:'The pocket briefing for identifying the passenger before deploying railway flags and flat caps.',url:'https://www.amazon.com/dp/1426307101?tag=blappos-20',salesPriority:4},
+      {title:"The Bat House Builder's Handbook",image:'https://m.media-amazon.com/images/P/1889546119.01.LZZZZZZZ.jpg',alt:"Cover of The Bat House Builder's Handbook",quip:'A proper dedicated residence, reducing the odds that the next available accommodation is the 1:40 to Glasgow.',url:'https://www.amazon.com/dp/1889546119?tag=blappos-20',salesPriority:5},
+      {title:'Scotland Flag 3 x 5 Ft Polyester Saltire',image:'https://m.media-amazon.com/images/P/B000O5Y2VO.01.LZZZZZZZ.jpg',alt:'Blue and white Scottish Saltire flag',quip:'A reenactment-ready version of the improvised bat-guidance equipment used inside the carriage.',url:'https://www.amazon.com/dp/B000O5Y2VO?tag=blappos-20',salesPriority:4}
+    ]
+  },
+  {
+    id:'sep14-emu-chase',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Ramapo, New York',image:'assets/cards/sep14-emu-chase.webp',
+    title:'Police deploy drone against emu; bird declines to look worried',
+    facts:'UPI reported that an emu escaped from a petting zoo in Rockland County, New York, prompting a response from Ramapo police. Multiple officers and a Skydio drone helped locate and follow the large flightless bird until it could be safely recovered and returned, with no injuries or property damage reported.',
+    why:'Emus can run quickly, change direction abruptly and cover ground far faster than a person expects from a bird. A drone gave officers a safe overhead view during the search, reducing the need to chase blindly through roads and private property.',
+    angle:'Verified fact ends above. The Blappos interpretation: Ramapo activated aerial surveillance against a suspect physically incapable of flight. The emu was returned safely after reviewing the police budget and realizing it had already won.',
+    source:'https://www.upi.com/Odd_News/2026/09/14/emu-chase-petting-zoo-Ramapo-New-York/4691789392344/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'Edward the Emu',image:'https://m.media-amazon.com/images/P/0064434990.01.LZZZZZZZ.jpg',alt:'Cover of Edward the Emu by Sheena Knowles',quip:'The picture-book field report on an emu dissatisfied with its assigned enclosure.',url:'https://www.amazon.com/dp/0064434990?tag=blappos-20',salesPriority:5},
+      {title:'Edwina the Emu',image:'https://m.media-amazon.com/images/P/0064434834.01.LZZZZZZZ.jpg',alt:'Cover of Edwina the Emu by Sheena Knowles',quip:'The companion emu briefing for households preparing a full two-bird pursuit curriculum.',url:'https://www.amazon.com/dp/0064434834?tag=blappos-20',salesPriority:4},
+      {title:'Emu',image:'https://m.media-amazon.com/images/P/0763674796.01.LZZZZZZZ.jpg',alt:'Cover of Emu by Claire Saxby and Graham Byrne',quip:'A natural-history introduction to the suspect’s speed, stride and complete lack of respect for a perimeter.',url:'https://www.amazon.com/dp/0763674796?tag=blappos-20',salesPriority:4}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep14CompleteRun.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep14CompleteRun);
