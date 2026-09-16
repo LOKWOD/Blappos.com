@@ -74,6 +74,15 @@ email and copy-link controls. Sharing always uses the permanent story URL so soc
 previews carry the matching headline and story illustration. This is regenerated for
 every daily batch along with the sitemap.
 
+### Automatic X posting through Buffer
+
+`.github/workflows/buffer-x.yml` runs each morning and whenever `daily-data.js` or card
+art changes. It finds the connected X channel in Buffer, checks the current scheduled
+queue, and adds up to five newest unqueued stories without exceeding the free plan's
+10-post queue limit. Each post includes the story headline, permanent story URL, and
+matching card artwork. The repository must contain an Actions secret named
+`BUFFER_API_KEY`; the credential is never stored in the code or workflow logs.
+
 ### Homepage Ridiculous Finds — permanent rotation rule
 
 - Render exactly three homepage finds only when they can come from three different stories; never show multiple homepage products from the same story in one rotation.
