@@ -676,3 +676,60 @@ const sep14CompleteRun = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep14CompleteRun.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep14CompleteRun);
+
+const sep15Stories = [
+  {
+    id:'sep15-vulcan-salute',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'London, England',image:'assets/cards/sep15-vulcan-salute.webp',
+    title:'934 Trekkies raise one hand; London records peak logic',
+    facts:'UPI reported that 934 people performed the Vulcan salute simultaneously at Star Trek Lates, an event held at London’s Science Museum for the franchise’s 60th anniversary. Guinness World Records confirmed the gathering as the largest group to perform the split-finger gesture at the same time.',
+    why:'The result turned a piece of television history into a measurable act of fan participation. It also required hundreds of people to execute the same deceptively awkward hand position together—proof that even fictional logic can create a very real coordination problem.',
+    angle:'Verified fact ends above. The Blappos interpretation: London achieved peak logic by raising 934 hands and lowering the citywide supply of flexible ring fingers. The Science Museum has classified the soreness as culturally significant.',
+    source:'https://www.upi.com/Odd_News/2026/09/15/Guinness-World-Records-Star-Trek-Vulcan-salute/3451789489055/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'Barbie Star Trek 25th Anniversary Mr. Spock Doll',image:'https://m.media-amazon.com/images/I/81Il-bSwrFL._AC_SL1500_.jpg',alt:'Barbie Star Trek Mr. Spock doll performing the Vulcan salute',quip:'The exact record gesture is already built into this Spock doll, making it the only participant guaranteed not to cramp.',url:'https://www.amazon.com/dp/B01AT5MI50?tag=blappos-20',salesPriority:5},
+      {title:'Funko Pop! TV: Star Trek - Spock - Star Trek the Original Series - Collectable Vinyl Figure - Gift Idea - Official Merchandise - Toys for Kids & Adults - TV Fans',image:'https://m.media-amazon.com/images/I/61TpFLffbwL._AC_SL1300_.jpg',alt:'Boxed Funko Pop vinyl figure of Star Trek character Spock',quip:'The face behind the salute, condensed to desk size for readers whose local museum cannot fit 934 fans.',url:'https://www.amazon.com/dp/B0DSWGSBFT?tag=blappos-20',salesPriority:5},
+      {title:'Star Trek: The Original Series: The Complete Series',image:'https://m.media-amazon.com/images/I/91mIk3ymOjL._SL1500_.jpg',alt:'Blu-ray box set of Star Trek: The Original Series complete series',quip:'The source material for the gesture and the appropriate homework after a 60th-anniversary record attempt.',url:'https://www.amazon.com/dp/B01CJW334Q?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep15-rambo-pipe',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Kingsdon, England',image:'assets/cards/sep15-rambo-pipe.webp',
+    title:'Rambo hides from nine ewes; concrete pipe requests backup',
+    facts:'UPI reported that a roughly 220-pound ram named Rambo became firmly wedged inside a concrete pipe at Western Farm in Kingsdon, Somerset. Firefighters used chimney rods, ropes and a sheet to free him. His owner said he had entered the culvert for relief from nine amorous ewes, and he emerged unharmed.',
+    why:'A trapped animal that size can injure itself or rescuers if pulled carelessly, so the improvised combination of long rods, controlled rope tension and a protective sheet mattered. The rescue also prompted the farm to block the pipe against repeat romantic retreats.',
+    angle:'Verified fact ends above. The Blappos interpretation: Rambo attempted to place nine relationships on mute and discovered that concrete has no privacy setting. The fire brigade restored him to full service and returned him to the world’s least avoidable group chat.',
+    source:'https://www.upi.com/Odd_News/2026/09/15/Somerset-ram-concrete-pipe-rescue/7591789489658/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'Schleich Farm World, Realistic Farm Animal Toys for Boys and Girls Ages 3 and Above, Ram Toy Figurine',image:'https://m.media-amazon.com/images/I/81YGuEJU4dL._AC_SL1500_.jpg',alt:'Realistic Schleich ram toy figurine with curled horns',quip:'A pocket Rambo for reenacting the rescue without needing a 220-pound ram or the Somerset fire service.',url:'https://www.amazon.com/dp/B09DQ8BWFC?tag=blappos-20',salesPriority:5},
+      {title:'SootEater Rotary Chimney Cleaning System - Gardus RCH205-B Chimney Sweep Kit, Cleans Open Chimneys up to 18\' with 6 Flexible 3\' Rods, Chimney Cleaning Kit with Trim-to-Fit Spinning Chimney Whip',image:'https://m.media-amazon.com/images/I/71ePn9KVZ6L._AC_SL1500_.jpg',alt:'Gardus SootEater chimney cleaning system with six flexible rods',quip:'Firefighters used chimney rods on the exact concrete-pipe rescue; these are the household version of Rambo extraction technology.',url:'https://www.amazon.com/dp/B0010H5JXA?tag=blappos-20',salesPriority:5},
+      {title:'Weaver Livestock Poly Rope Sheep Halter, Modern Style Braid Sheep and Goat Rope Halter, Adjustable Lamb Halter Lead, Livestock Sheep Showing Supplies',image:'https://m.media-amazon.com/images/I/91ijME33ByL._AC_SL1500_.jpg',alt:'Colorful braided Weaver livestock rope halter and lead for sheep',quip:'For guiding the exact species away from future culverts before romance requires another rope-rescue committee.',url:'https://www.amazon.com/dp/B01B8YYIUY?tag=blappos-20',salesPriority:4}
+    ]
+  },
+  {
+    id:'sep15-elk-windshield',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Lake Cowichan, Canada',image:'assets/cards/sep15-elk-windshield.webp',
+    title:'Elk mounts parked car; windshield resigns immediately',
+    facts:'UPI reported that Bruce Roach found the windshield of his parked car shattered outside his apartment in Lake Cowichan on Vancouver Island. Security video showed a bull elk pursuing a cow into the parking area, jumping onto the hood and crashing into the windshield before both animals ran away.',
+    why:'The footage resolved what otherwise looked like unexplained vandalism and showed how quickly large wildlife can turn an ordinary parking space into a hazard. Even without a driver inside, the elk’s weight and antlers caused damage that a parked-car owner could not reasonably anticipate.',
+    angle:'Verified fact ends above. The Blappos interpretation: the elk declined the marked space, selected hood parking and left without insurance information. British Columbia has issued the windshield a complimentary wildlife experience.',
+    source:'https://www.upi.com/Odd_News/2026/09/15/canada-elk-shatters-windshield-Lake-Cowichan-British-Columbia/3201789483539/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'Safari Ltd. Elk Toy - 8 Inch Realistic Wildlife Figure for Kids Ages 3+',image:'https://m.media-amazon.com/images/I/61UCPWX6yoL._AC_SL1500_.jpg',alt:'Realistic Safari Ltd. bull elk toy with large antlers',quip:'The exact windshield suspect in a scale that can cross a desk without totaling the desk.',url:'https://www.amazon.com/dp/B0CPKGLP9F?tag=blappos-20',salesPriority:5},
+      {title:'RainX Fix a Windshield Do it Yourself Windshield Repair Kit, for Chips, Cracks, Bulll\'s-Eyes and Stars',image:'https://m.media-amazon.com/images/I/710MC25TZaL._AC_SL1500_.jpg',alt:'Rain-X Fix a Windshield repair kit in blue and yellow packaging',quip:'Addresses the exact casualty of the elk’s parking-lot courtship, assuming your crack is smaller than a bull elk.',url:'https://www.amazon.com/dp/B00IPS4APU?tag=blappos-20',salesPriority:5},
+      {title:'Blink Outdoor 4 – Wireless smart security camera, two-year battery, 1080p HD day and infrared night live view, two-way talk – 2 camera system',image:'https://m.media-amazon.com/images/I/61fMC8pY0uL._SL1000_.jpg',alt:'Two black Blink Outdoor 4 wireless security cameras with sync module',quip:'Security video solved the exact mystery; this is for catching the next antlered hit-and-run in 1080p.',url:'https://www.amazon.com/dp/B0B1N5HW22?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep15-overdue-magazine',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Concord, New Hampshire',image:'assets/cards/sep15-overdue-magazine.webp',
+    title:'Library receives magazine 132 years late; fine arrives historically waived',
+    facts:'UPI reported that John Hanson returned a September 1894 issue of The Century Illustrated Monthly Magazine to Concord Public Library in New Hampshire. The item was 48,220 days overdue and would have accrued a theoretical $12,055 fine, but the library had frozen fines beginning September 1 and charged nothing.',
+    why:'A periodical surviving outside a library for more than a century can still carry local and research value when it returns. The fine waiver also illustrates the modern library goal behind eliminating penalties: getting missing material and patrons back matters more than collecting an impossible debt.',
+    angle:'Verified fact ends above. The Blappos interpretation: Concord has closed the oldest open tab in town. The magazine returned after 132 years, surveyed the internet and immediately asked whether another renewal was available.',
+    source:'https://www.upi.com/Odd_News/2026/09/15/Concord-Public-libraray-magazine-132-years-overdue/1491789490872/',sourceName:'Read the UPI report',
+    amazonLinks:[
+      {title:'Vintage Library Due Date Card Coaster Set, 4pcs Library Card Coasters | with Gift Card, Creative Drink Coffee Mug Coaster Literary Decor Library Gifts for Book Lovers Librarians Writers',image:'https://m.media-amazon.com/images/I/51XHdM5BWnL.jpg',alt:'Four cork coasters printed like vintage library due-date cards with gift card',quip:'The exact overdue-date artifact, finally repurposed for a drink that should not take 132 years to return.',url:'https://www.amazon.com/dp/B0B8RT1KG1?tag=blappos-20',salesPriority:5},
+      {title:'Scotch Book Tape 845, 3 Inches x 15 Yards - FF084574, 6 Pack',image:'https://m.media-amazon.com/images/I/51JrENmo8AL.jpg',alt:'Six rolls of clear Scotch Book Tape 845 in red and white packaging',quip:'For the preservation department receiving paper that has been circulating since Grover Cleveland’s second term.',url:'https://www.amazon.com/dp/B081D3Q3TV?tag=blappos-20',salesPriority:4},
+      {title:'25 Pack Sheet Protectors for Artwork 9x11.8\" - Acid Free Clear Plastic Sleeves for Paper, Cellophane Bags Self Adhesive, Comic Book Sleeves, Clear Plastic Bags for Page Photo Prints Magazine',image:'https://m.media-amazon.com/images/I/71DyjyRA9XL._AC_SL1500_.jpg',alt:'Pack of 25 acid-free clear sleeves sized for paper and magazines',quip:'An acid-free retirement home for the exact 1894 magazine now that its 48,220-day road trip is over.',url:'https://www.amazon.com/dp/B0GXHT7W22?tag=blappos-20',salesPriority:5}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep15Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep15Stories);
