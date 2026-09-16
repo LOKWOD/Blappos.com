@@ -142,10 +142,16 @@ async function main() {
       }
     }`;
     for (const post of scheduledEditionPosts) {
+      const story = allStories.find(item => post.text.includes(`/stories/${item.id}/`));
+      if (!story) continue;
+      const imageUrl = `${RAW_ASSET_URL}/${story.image.replace(/^\//, '')}`;
       const result = await graphql(editMutation, {
         input: {
           id: post.id,
+          text: post.text,
+          assets: [{ image: { url: imageUrl, thumbnailUrl: imageUrl, metadata: { altText: story.title } } }],
           metadata: { instagram: { type: 'post', shouldShareToFeed: true, isAiGenerated: true } },
+          aiAssisted: true,
         },
       });
       if (result.editPost.__typename !== 'PostActionSuccess') {
