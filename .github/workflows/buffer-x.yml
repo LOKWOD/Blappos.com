@@ -23,7 +23,6 @@ on:
       - daily-data.js
       - assets/cards/**
       - scripts/buffer_x_queue.mjs
-      - .github/workflows/buffer-x.yml
 
 concurrency:
   group: buffer-x-queue
@@ -42,6 +41,6 @@ jobs:
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           BUFFER_POSTS_PER_RUN: '5'
-          BUFFER_TARGET_DATE: ${{ inputs.target_date || '2026-09-14' }}
-          BUFFER_SHARE_MODE: ${{ inputs.share_mode || 'shareNow' }}
+          BUFFER_TARGET_DATE: ${{ inputs.target_date }}
+          BUFFER_SHARE_MODE: ${{ inputs.share_mode || 'addToQueue' }}
         run: node scripts/buffer_x_queue.mjs
