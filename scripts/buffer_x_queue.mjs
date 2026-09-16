@@ -129,7 +129,11 @@ async function main() {
         channelId: selected.channel.id,
         text: postText(story),
         assets: [{ image: { url: imageUrl, thumbnailUrl: imageUrl, metadata: { altText: story.title } } }],
-        metadata: selected.channel.service === 'twitter' ? { twitter: { isAiGenerated: true } } : {},
+        metadata: selected.channel.service === 'twitter'
+          ? { twitter: { isAiGenerated: true } }
+          : selected.channel.service.startsWith('facebook')
+            ? { facebook: { type: 'post' } }
+            : {},
         mode: shareMode,
         schedulingType: 'automatic',
         needsApproval: false,
