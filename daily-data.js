@@ -693,7 +693,7 @@ const sep15Stories = [
   },
   {
     id:'sep15-rambo-pipe',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Kingsdon, England',image:'assets/cards/sep15-rambo-pipe.webp',
-    title:'Rambo hides from nine ewes; concrete pipe requests backup',
+    title:'Rambo hides from nine ewes; concrete pipe requests backup',magnetUrl:'https://blappos.printify.me/product/32032905',magnetPrice:'$9.99',
     facts:'UPI reported that a roughly 220-pound ram named Rambo became firmly wedged inside a concrete pipe at Western Farm in Kingsdon, Somerset. Firefighters used chimney rods, ropes and a sheet to free him. His owner said he had entered the culvert for relief from nine amorous ewes, and he emerged unharmed.',
     why:'A trapped animal that size can injure itself or rescuers if pulled carelessly, so the improvised combination of long rods, controlled rope tension and a protective sheet mattered. The rescue also prompted the farm to block the pipe against repeat romantic retreats.',
     angle:'Verified fact ends above. The Blappos interpretation: Rambo attempted to place nine relationships on mute and discovered that concrete has no privacy setting. The fire brigade restored him to full service and returned him to the world’s least avoidable group chat.',
