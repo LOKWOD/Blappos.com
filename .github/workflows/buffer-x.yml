@@ -1,0 +1,47 @@
+name: Queue Blappos stories on X
+
+on:
+  schedule:
+    - cron: '5 11 * * *'
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Optional edition date (YYYY-MM-DD)'
+        required: false
+        type: string
+      share_mode:
+        description: 'Queue posts or publish immediately'
+        required: true
+        default: addToQueue
+        type: choice
+        options:
+          - addToQueue
+          - shareNow
+  push:
+    branches: [main]
+    paths:
+      - daily-data.js
+      - assets/cards/**
+      - scripts/buffer_x_queue.mjs
+      - .github/workflows/buffer-x.yml
+
+concurrency:
+  group: buffer-x-queue
+  cancel-in-progress: false
+
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Queue up to five new Blappos stories
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_POSTS_PER_RUN: '5'
+          BUFFER_TARGET_DATE: ${{ inputs.target_date || '2026-09-14' }}
+          BUFFER_SHARE_MODE: ${{ inputs.share_mode || 'shareNow' }}
+        run: node scripts/buffer_x_queue.mjs
