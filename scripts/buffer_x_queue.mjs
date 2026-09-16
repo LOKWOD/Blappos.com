@@ -7,7 +7,8 @@ const RAW_ASSET_URL = 'https://raw.githubusercontent.com/LOKWOD/Blappos.com/main
 const MAX_QUEUE = 10;
 const MAX_PER_RUN = Number(process.env.BUFFER_POSTS_PER_RUN || 5);
 const targetDate = process.env.BUFFER_TARGET_DATE || '';
-const shareMode = process.env.BUFFER_SHARE_MODE || 'addToQueue';
+const forceCurrentEdition = process.env.BUFFER_FORCE_CURRENT_EDITION === 'true';
+const shareMode = forceCurrentEdition ? 'shareNow' : (process.env.BUFFER_SHARE_MODE || 'addToQueue');
 const token = process.env.BUFFER_API_KEY;
 
 if (!token) throw new Error('BUFFER_API_KEY is not set');
@@ -89,12 +90,36 @@ async function main() {
     },
   );
 
-  const knownPosts = scheduled.posts.edges.map(edge => edge.node);
+  let knownPosts = scheduled.posts.edges.map(edge => edge.node);
+  const allStories = loadStories();
+  const editionDate = targetDate || allStories[0]?.isoDate;
+
+  if (forceCurrentEdition) {
+    const editionIds = new Set(allStories.filter(story => story.isoDate === editionDate).map(story => story.id));
+    const queuedEditionPosts = knownPosts.filter(post =>
+      (post.status === 'scheduled' || post.status === 'sending') &&
+      [...editionIds].some(id => post.text.includes(`/stories/${id}/`)),
+    );
+    const deletion = `mutation DeletePost($input: DeletePostInput!) {
+      deletePost(input: $input) {
+        __typename
+        ... on DeletePostSuccess { id }
+        ... on MutationError { message }
+      }
+    }`;
+    for (const post of queuedEditionPosts) {
+      const result = await graphql(deletion, { input: { id: post.id } });
+      if (result.deletePost.__typename !== 'DeletePostSuccess') {
+        throw new Error(`Could not remove queued post ${post.id}: ${result.deletePost.message || result.deletePost.__typename}`);
+      }
+      console.log(`Removed future queue copy ${post.id} before immediate publishing.`);
+    }
+    const removedIds = new Set(queuedEditionPosts.map(post => post.id));
+    knownPosts = knownPosts.filter(post => !removedIds.has(post.id));
+  }
   const queued = knownPosts.filter(post => post.status === 'scheduled' || post.status === 'sending');
   const capacity = Math.max(0, MAX_QUEUE - queued.length);
   const existingText = knownPosts.map(post => post.text).join('\n');
-  const allStories = loadStories();
-  const editionDate = targetDate || allStories[0]?.isoDate;
   const candidates = allStories.filter(story =>
     story.isoDate === editionDate &&
     !existingText.includes(`/stories/${story.id}/`),
