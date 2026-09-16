@@ -3,6 +3,7 @@ import vm from 'node:vm';
 
 const API_URL = 'https://api.buffer.com';
 const SITE_URL = 'https://blappos.com';
+const RAW_ASSET_URL = 'https://raw.githubusercontent.com/LOKWOD/Blappos.com/main';
 const MAX_QUEUE = 10;
 const MAX_PER_RUN = Number(process.env.BUFFER_POSTS_PER_RUN || 5);
 const targetDate = process.env.BUFFER_TARGET_DATE || '';
@@ -116,7 +117,10 @@ async function main() {
   }`;
 
   for (const story of stories.reverse()) {
-    const imageUrl = `${SITE_URL}/${story.image.replace(/^\//, '')}`;
+    // Fetch art from the source commit path instead of the Pages CDN. On a
+    // fresh publish, Pages can lag the data push by a minute and Buffer then
+    // rejects an otherwise valid image URL.
+    const imageUrl = `${RAW_ASSET_URL}/${story.image.replace(/^\//, '')}`;
     const result = await graphql(mutation, {
       input: {
         channelId: selected.channel.id,
