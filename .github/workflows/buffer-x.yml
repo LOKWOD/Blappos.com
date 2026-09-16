@@ -23,6 +23,7 @@ on:
       - daily-data.js
       - assets/cards/**
       - scripts/buffer_x_queue.mjs
+      - scripts/buffer_status.mjs
 
 concurrency:
   group: buffer-x-queue
@@ -44,3 +45,8 @@ jobs:
           BUFFER_TARGET_DATE: ${{ inputs.target_date }}
           BUFFER_SHARE_MODE: ${{ inputs.share_mode || 'addToQueue' }}
         run: node scripts/buffer_x_queue.mjs
+      - name: Report current-edition delivery status
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_TARGET_DATE: ${{ inputs.target_date }}
+        run: node scripts/buffer_status.mjs

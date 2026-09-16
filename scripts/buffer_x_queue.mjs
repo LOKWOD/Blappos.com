@@ -160,7 +160,9 @@ async function main() {
           ? { twitter: { isAiGenerated: true } }
           : selected.channel.service.startsWith('facebook')
             ? { facebook: { type: 'post' } }
-            : {},
+            : selected.channel.service === 'instagram'
+              ? { instagram: { type: 'post' } }
+              : {},
         mode: shareMode,
         schedulingType: 'automatic',
         needsApproval: false,
