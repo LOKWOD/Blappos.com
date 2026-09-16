@@ -161,7 +161,7 @@ async function main() {
           : selected.channel.service.startsWith('facebook')
             ? { facebook: { type: 'post' } }
             : selected.channel.service === 'instagram'
-              ? { instagram: { type: 'post' } }
+              ? { instagram: { type: 'post', shouldShareToFeed: true } }
               : {},
         mode: shareMode,
         schedulingType: 'automatic',
