@@ -706,7 +706,7 @@ const sep15Stories = [
   },
   {
     id:'sep15-elk-windshield',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Lake Cowichan, Canada',image:'assets/cards/sep15-elk-windshield.webp',
-    title:'Elk mounts parked car; windshield resigns immediately',
+    title:'Elk mounts parked car; windshield resigns immediately',magnetUrl:'https://blappos.printify.me/product/32032916',magnetPrice:'$9.99',
     facts:'UPI reported that Bruce Roach found the windshield of his parked car shattered outside his apartment in Lake Cowichan on Vancouver Island. Security video showed a bull elk pursuing a cow into the parking area, jumping onto the hood and crashing into the windshield before both animals ran away.',
     why:'The footage resolved what otherwise looked like unexplained vandalism and showed how quickly large wildlife can turn an ordinary parking space into a hazard. Even without a driver inside, the elk’s weight and antlers caused damage that a parked-car owner could not reasonably anticipate.',
     angle:'Verified fact ends above. The Blappos interpretation: the elk declined the marked space, selected hood parking and left without insurance information. British Columbia has issued the windshield a complimentary wildlife experience.',
