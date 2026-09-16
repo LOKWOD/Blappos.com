@@ -128,6 +128,33 @@ async function main() {
   );
   const stories = candidates.slice(0, Math.min(MAX_PER_RUN, capacity));
 
+  if (selected.channel.service === 'instagram') {
+    const editionIds = new Set(allStories.filter(story => story.isoDate === editionDate).map(story => story.id));
+    const scheduledEditionPosts = knownPosts.filter(post =>
+      (post.status === 'scheduled' || post.status === 'sending') &&
+      [...editionIds].some(id => post.text.includes(`/stories/${id}/`)),
+    );
+    const editMutation = `mutation EditPost($input: EditPostInput!) {
+      editPost(input: $input) {
+        __typename
+        ... on PostActionSuccess { post { id status dueAt } }
+        ... on MutationError { message }
+      }
+    }`;
+    for (const post of scheduledEditionPosts) {
+      const result = await graphql(editMutation, {
+        input: {
+          id: post.id,
+          metadata: { instagram: { type: 'post', shouldShareToFeed: true, isAiGenerated: true } },
+        },
+      });
+      if (result.editPost.__typename !== 'PostActionSuccess') {
+        throw new Error(`Could not apply Instagram AI disclosure to ${post.id}: ${result.editPost.message || result.editPost.__typename}`);
+      }
+      console.log(`Confirmed Instagram AI disclosure on ${post.id}.`);
+    }
+  }
+
     if (!stories.length) {
       console.log(`Nothing queued on ${selected.channel.service}: ${queued.length}/${MAX_QUEUE} slots are occupied or all current stories are present.`);
       continue;
@@ -161,7 +188,7 @@ async function main() {
           : selected.channel.service.startsWith('facebook')
             ? { facebook: { type: 'post' } }
             : selected.channel.service === 'instagram'
-              ? { instagram: { type: 'post', shouldShareToFeed: true } }
+              ? { instagram: { type: 'post', shouldShareToFeed: true, isAiGenerated: true } }
               : {},
         mode: shareMode,
         schedulingType: 'automatic',

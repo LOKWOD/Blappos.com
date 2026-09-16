@@ -58,7 +58,7 @@ async function main() {
       const postData = await graphql(
         `query Posts($input: PostsInput!, $first: Int) {
           posts(input: $input, first: $first) {
-            edges { node { id text dueAt status channelId } }
+            edges { node { id text dueAt sentAt status channelId externalLink } }
           }
         }`,
         {
@@ -76,7 +76,7 @@ async function main() {
         const path = [...storyByPath.keys()].find(candidate => post.text.includes(candidate));
         if (!path) continue;
         const story = storyByPath.get(path);
-        console.log(`STATUS|${channel.service}|${channel.name}|${story.id}|${post.status}|${post.dueAt || ''}|${post.id}`);
+        console.log(`STATUS|${channel.service}|${channel.name}|${story.id}|${post.status}|${post.sentAt || post.dueAt || ''}|${post.externalLink || ''}|${post.id}`);
       }
     }
   }
