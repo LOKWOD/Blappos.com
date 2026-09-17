@@ -766,7 +766,7 @@ const sep16ReportedStories = [
   },
   {
     id:'sep16-yellowstone-trash',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'Yellowstone National Park',image:'assets/cards/sep16-yellowstone-trash.webp',
-    title:'Yellowstone retrieves 20,100 trash pieces and 280 hats from the world’s worst lost-and-found',
+    title:'Yellowstone retrieves 20,100 trash pieces and 280 hats from the world’s worst lost-and-found',magnetUrl:'https://blappos.printify.me/product/32068726',magnetPrice:'$9.99',
     facts:'UPI highlighted a Yellowstone National Park Geology Program inventory published by the U.S. Geological Survey: by early September, trained staff had removed more than 20,100 pieces of paper and plastic, 5,600 rocks and sticks, and over 280 hats from hydrothermal areas in 2026. The stranger finds included AirPods, retainers, a rubber duck, an Uno card, a tiny copy of The Vampire Diaries and glittery pink slime stuck to geyserite.',
     why:'Foreign material is not just ugly around a hot spring. USGS says it can clog a feature’s water supply, divert runoff and introduce chemicals or sediment; discarded items famously helped alter Morning Glory Pool. Only trained geology staff can navigate these hazardous areas, so visitors help most by securing loose belongings, using trash cans and remaining on boardwalks.',
     angle:'Verified fact ends above. The Blappos interpretation: Yellowstone’s geothermal system has rejected its application to become a hat rack, toy chest and orthodontic storage unit. The rubber duck has been escorted out for lacking the required heat-resistant paperwork.',
