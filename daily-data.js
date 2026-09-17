@@ -753,7 +753,7 @@ window.dailyStories.splice(0, 0, sep16PicklePattyStory);
 const sep16ReportedStories = [
   {
     id:'sep16-salt-pepper-record',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'Brookfield, Wisconsin',image:'assets/cards/sep16-salt-pepper-record.webp',
-    title:'Wisconsin woman seasons a world-record rematch with 754 matching pairs',
+    title:'Wisconsin woman seasons a world-record rematch with 754 matching pairs',magnetUrl:'https://blappos.printify.me/product/32068706',magnetPrice:'$9.99',
     facts:'UPI reported that Brookfield resident Linda Schulz, 67, reclaimed the Guinness World Records title for the largest collection of matching salt-and-pepper packets. Her 754 pairs surpassed the 594-pair mark that took the title from her in 2025; Schulz first held it in 2024 with 494 pairs. Her collection began with packets from Arby’s, and her favorites wear Hawaiian-shirt designs from Hawaiian Airlines.',
     why:'This is a record built through categorization as much as accumulation: every entry must be a matching salt-and-pepper pair, not merely a drawer full of loose condiments. Schulz added 260 verified pairs beyond her original record and 160 beyond the intervening holder, turning a tiny disposable object into a measurable collecting discipline.',
     angle:'Verified fact ends above. The Blappos interpretation: Wisconsin has restored strategic control of the tabletop seasoning reserve. Schulz now owns enough matched packets to season 754 meals—or one airline entrée with realistic ambitions.',
