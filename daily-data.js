@@ -779,7 +779,7 @@ const sep16ReportedStories = [
   },
   {
     id:'sep16-tiger-hoax',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'Jackson, New Jersey',image:'assets/cards/sep16-tiger-hoax.webp',
-    title:'Viral tiger escapes only from a video; 911 still gets the paperwork',
+    title:'Viral tiger escapes only from a video; 911 still gets the paperwork',magnetUrl:'https://blappos.printify.me/product/32068734',magnetPrice:'$9.99',
     facts:'UPI reported that Jackson Township police received numerous 911 calls after a viral video claimed a tiger was loose near Six Flags Great Adventure. Police said there was no loose tiger, and the park confirmed that every animal was safe and accounted for in its designated enclosure. The department asked people to stop tying up emergency lines with calls about the video.',
     why:'An alarming clip can create a real public-safety burden even when its central claim is false. Repeated non-emergency calls consume dispatcher attention that may be needed for actual emergencies, while confirmation from the responsible facility and local police provides stronger evidence than an unattributed viral post.',
     angle:'Verified fact ends above. The Blappos interpretation: Jackson completed an emergency response to a tiger whose known habitat was somebody’s camera roll. The animal remains at large inside the engagement metrics and should not be approached without a reverse-image search.',
