@@ -9,7 +9,16 @@ const MAX_PER_RUN = Number(process.env.BUFFER_POSTS_PER_RUN || 5);
 const targetDate = process.env.BUFFER_TARGET_DATE || '';
 const forceCurrentEdition = process.env.BUFFER_FORCE_CURRENT_EDITION === 'true';
 const shareMode = forceCurrentEdition ? 'shareNow' : (process.env.BUFFER_SHARE_MODE || 'addToQueue');
+const sameDaySpacing = process.env.BUFFER_SAME_DAY_SPACING !== 'false';
+const sameDayRepairHours = Number(process.env.BUFFER_SAME_DAY_REPAIR_HOURS || 6);
+const sameDayInitialDelayMinutes = Number(process.env.BUFFER_SAME_DAY_INITIAL_DELAY_MINUTES || 20);
+const sameDaySpacingMinutes = Number(process.env.BUFFER_SAME_DAY_SPACING_MINUTES || 45);
 const token = process.env.BUFFER_API_KEY;
+
+function sameDayDueAt(index) {
+  const minutes = sameDayInitialDelayMinutes + (index * sameDaySpacingMinutes);
+  return new Date(Date.now() + minutes * 60_000).toISOString();
+}
 
 if (!token) throw new Error('BUFFER_API_KEY is not set');
 
@@ -110,6 +119,35 @@ async function main() {
     continue;
   }
 
+  if (sameDaySpacing && !forceCurrentEdition) {
+    const editionIds = new Set(editionStories.map(story => story.id));
+    const cutoff = Date.now() + sameDayRepairHours * 60 * 60 * 1000;
+    const delayedEditionPosts = knownPosts.filter(post =>
+      (post.status === 'scheduled' || post.status === 'sending') &&
+      post.dueAt &&
+      Date.parse(post.dueAt) > cutoff &&
+      [...editionIds].some(id => post.text.includes(`/stories/${id}/`)),
+    );
+    if (delayedEditionPosts.length) {
+      const deletion = `mutation DeletePost($input: DeletePostInput!) {
+        deletePost(input: $input) {
+          __typename
+          ... on DeletePostSuccess { id }
+          ... on MutationError { message }
+        }
+      }`;
+      for (const post of delayedEditionPosts) {
+        const result = await graphql(deletion, { input: { id: post.id } });
+        if (result.deletePost.__typename !== 'DeletePostSuccess') {
+          throw new Error(`Could not remove delayed queue post ${post.id}: ${result.deletePost.message || result.deletePost.__typename}`);
+        }
+        console.log(`Removed delayed ${selected.channel.service} queue copy ${post.id} scheduled for ${post.dueAt}; it will be rebuilt into today's delivery window.`);
+      }
+      const removedIds = new Set(delayedEditionPosts.map(post => post.id));
+      knownPosts = knownPosts.filter(post => !removedIds.has(post.id));
+    }
+  }
+
   if (forceCurrentEdition) {
     const editionIds = new Set(allStories.filter(story => story.isoDate === editionDate).map(story => story.id));
     const queuedEditionPosts = knownPosts.filter(post =>
@@ -193,7 +231,8 @@ async function main() {
     }
   }`;
 
-  for (const story of stories.reverse()) {
+  const effectiveMode = shareMode === 'addToQueue' && sameDaySpacing ? 'customScheduled' : shareMode;
+  for (const [index, story] of stories.reverse().entries()) {
     // Fetch art from the source commit path instead of the Pages CDN. On a
     // fresh publish, Pages can lag the data push by a minute and Buffer then
     // rejects an otherwise valid image URL.
@@ -210,7 +249,8 @@ async function main() {
             : selected.channel.service === 'instagram'
               ? { instagram: { type: 'post', shouldShareToFeed: true, isAiGenerated: true } }
               : {},
-        mode: shareMode,
+        mode: effectiveMode,
+        ...(effectiveMode === 'customScheduled' ? { dueAt: sameDayDueAt(index) } : {}),
         schedulingType: 'automatic',
         needsApproval: false,
         saveToDraft: false,
@@ -222,7 +262,7 @@ async function main() {
     if (payload.__typename !== 'PostActionSuccess') {
       throw new Error(`Buffer rejected ${story.id}: ${payload.message || payload.__typename}`);
     }
-      console.log(`Queued ${story.id} on ${selected.channel.service} as Buffer post ${payload.post.id} for ${payload.post.dueAt}`);
+      console.log(`Queued ${story.id} on ${selected.channel.service} as Buffer post ${payload.post.id} for ${payload.post.dueAt} using ${effectiveMode}`);
     }
   }
 }
