@@ -736,7 +736,7 @@ window.dailyStories.splice(0, 0, ...sep15Stories);
 
 const sep16PicklePattyStory = {
   id:'sep16-pickle-patty',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'America',image:'assets/cards/sep16-pickle-patty.webp',
-  title:'McDonald’s patty loses thickness contest to a pickle and demands a recount',
+  title:'McDonald’s patty loses thickness contest to a pickle and demands a recount',magnetUrl:'https://blappos.printify.me/product/32063674',magnetPrice:'$9.99',
   facts:'McDonald’s describes its classic hamburger as a 100% beef patty topped with a pickle slice, chopped onions, ketchup and mustard on a regular bun. The standard patty is widely documented as a 1.6-ounce, ten-to-a-pound patty before cooking. In the sandwich that inspired this Blappos card, the cooked beef layer appeared thinner than the pickle above it; that visual comparison is one burger’s field observation, not a chain-wide measurement.',
   why:'Fast-food advertising sells a carefully stacked ideal, while the actual sandwich is assembled quickly from thin, standardized layers. When the green garnish has more visible vertical presence than the beef, the product may still meet its recipe—but the customer’s eyes begin conducting an audit.',
   angle:'Verified product facts end above. The Blappos interpretation: this is no longer a hamburger with a pickle. It is a pickle sandwich protected by a beef privacy screen. The patty has retained counsel and refuses to answer questions about its third dimension.',
