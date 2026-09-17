@@ -749,3 +749,47 @@ const sep16PicklePattyStory = {
 };
 window.dailyStories = window.dailyStories.filter(story => story.id !== sep16PicklePattyStory.id);
 window.dailyStories.splice(0, 0, sep16PicklePattyStory);
+
+const sep16ReportedStories = [
+  {
+    id:'sep16-salt-pepper-record',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'Brookfield, Wisconsin',image:'assets/cards/sep16-salt-pepper-record.webp',
+    title:'Wisconsin woman seasons a world-record rematch with 754 matching pairs',
+    facts:'UPI reported that Brookfield resident Linda Schulz, 67, reclaimed the Guinness World Records title for the largest collection of matching salt-and-pepper packets. Her 754 pairs surpassed the 594-pair mark that took the title from her in 2025; Schulz first held it in 2024 with 494 pairs. Her collection began with packets from Arby’s, and her favorites wear Hawaiian-shirt designs from Hawaiian Airlines.',
+    why:'This is a record built through categorization as much as accumulation: every entry must be a matching salt-and-pepper pair, not merely a drawer full of loose condiments. Schulz added 260 verified pairs beyond her original record and 160 beyond the intervening holder, turning a tiny disposable object into a measurable collecting discipline.',
+    angle:'Verified fact ends above. The Blappos interpretation: Wisconsin has restored strategic control of the tabletop seasoning reserve. Schulz now owns enough matched packets to season 754 meals—or one airline entrée with realistic ambitions.',
+    source:'https://www.upi.com/Odd_News/2026/09/16/Guinness-World-Records-salt-and-pepper-packets/9321789579951/',sourceName:'Read the September 16 UPI report',
+    amazonLinks:[
+      {title:'Global Basics Individual Salt and Pepper Packets | 500 Pairs of Salt Packets and Pepper Packets | 1000 Total Packets',image:'https://m.media-amazon.com/images/I/618E16St7iL._SL1200_.jpg',alt:'Box containing individually wrapped Global Basics salt and pepper packet pairs',quip:'Five hundred ready-matched pairs: the closest retail approximation of beginning a record challenge without raiding 754 restaurant tables.',url:'https://www.amazon.com/dp/B0CYCV5Q4G?tag=blappos-20',salesPriority:5},
+      {title:'Akro-Mils 44-Drawer Plastic Storage Cabinet, 20"W x 6"D x 16"H, Black, 10144',image:'https://m.media-amazon.com/images/I/71g+DvjbYgL._AC_SL1482_.jpg',alt:'Black Akro-Mils cabinet with 44 clear organizer drawers',quip:'Forty-four drawers for keeping tiny matching packets paired, labeled and safely outside the kitchen junk-drawer ecosystem.',url:'https://www.amazon.com/dp/B003P2UOCO?tag=blappos-20',salesPriority:5},
+      {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of Guinness World Records 2027',quip:'The natural reference book for a collection that already needed an adjudicator, a comeback season and 754 tiny witnesses.',url:'https://www.amazon.com/dp/1806500256?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep16-yellowstone-trash',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'Yellowstone National Park',image:'assets/cards/sep16-yellowstone-trash.webp',
+    title:'Yellowstone retrieves 20,100 trash pieces and 280 hats from the world’s worst lost-and-found',
+    facts:'UPI highlighted a Yellowstone National Park Geology Program inventory published by the U.S. Geological Survey: by early September, trained staff had removed more than 20,100 pieces of paper and plastic, 5,600 rocks and sticks, and over 280 hats from hydrothermal areas in 2026. The stranger finds included AirPods, retainers, a rubber duck, an Uno card, a tiny copy of The Vampire Diaries and glittery pink slime stuck to geyserite.',
+    why:'Foreign material is not just ugly around a hot spring. USGS says it can clog a feature’s water supply, divert runoff and introduce chemicals or sediment; discarded items famously helped alter Morning Glory Pool. Only trained geology staff can navigate these hazardous areas, so visitors help most by securing loose belongings, using trash cans and remaining on boardwalks.',
+    angle:'Verified fact ends above. The Blappos interpretation: Yellowstone’s geothermal system has rejected its application to become a hat rack, toy chest and orthodontic storage unit. The rubber duck has been escorted out for lacking the required heat-resistant paperwork.',
+    source:'https://www.upi.com/Odd_News/2026/09/16/Yellowstone-National-Park-trash/8331789577237/',sourceName:'Read the September 16 UPI report',
+    amazonLinks:[
+      {title:'RMS 2-Pack 32 Inch Extra Long Grabber Reacher with Rotating Jaw (Yellow)',image:'https://m.media-amazon.com/images/I/61u5xpUPYVL._AC_SL1500_.jpg',alt:'Two yellow RMS long-handled grabber reacher tools',quip:'A household-scale version of the long reach required when the object is accessible but your hands should remain very far from it.',url:'https://www.amazon.com/dp/B07PHKY2JW?tag=blappos-20',salesPriority:5},
+      {title:'SATINIOR 2 Pcs Adjustable Hat Clip for Wind, Flat Stopper | Windproof Chin Strap, Reusable Hat String Cord, Cap Retainer Leash for Travel Sports Fishing Boating',image:'https://m.media-amazon.com/images/I/61Kod9ecBQL.jpg',alt:'Two black adjustable clips and cords designed to secure hats in wind',quip:'The preventive technology for a park where 280 hats discovered that hydrothermal wind offers no return counter.',url:'https://www.amazon.com/dp/B07Z51SMLW?tag=blappos-20',salesPriority:5},
+      {title:"Yellowstone Treasures: The Traveler's Companion to the National Park",image:'https://m.media-amazon.com/images/I/61t3dJy34YL.jpg',alt:"Cover of Yellowstone Treasures: The Traveler's Companion to the National Park",quip:'A detailed park companion for finding geysers, roads and safety guidance while leaving your Invisalign out of the ecosystem.',url:'https://www.amazon.com/dp/1733103201?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep16-tiger-hoax',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'Jackson, New Jersey',image:'assets/cards/sep16-tiger-hoax.webp',
+    title:'Viral tiger escapes only from a video; 911 still gets the paperwork',
+    facts:'UPI reported that Jackson Township police received numerous 911 calls after a viral video claimed a tiger was loose near Six Flags Great Adventure. Police said there was no loose tiger, and the park confirmed that every animal was safe and accounted for in its designated enclosure. The department asked people to stop tying up emergency lines with calls about the video.',
+    why:'An alarming clip can create a real public-safety burden even when its central claim is false. Repeated non-emergency calls consume dispatcher attention that may be needed for actual emergencies, while confirmation from the responsible facility and local police provides stronger evidence than an unattributed viral post.',
+    angle:'Verified fact ends above. The Blappos interpretation: Jackson completed an emergency response to a tiger whose known habitat was somebody’s camera roll. The animal remains at large inside the engagement metrics and should not be approached without a reverse-image search.',
+    source:'https://www.upi.com/Odd_News/2026/09/16/Jackson-New-Jersey-loose-tiger-video-hoax/7861789568480/',sourceName:'Read the September 16 UPI report',
+    amazonLinks:[
+      {title:'Safari Ltd. Bengal Tiger Toy Figurine - Realistic, Hand-Painted 6" Model Figure - Safe, Educational Toy for Boys, Girls & Kids Ages 3+',image:'https://m.media-amazon.com/images/P/B0009JK98U.01.LZZZZZZZ.jpg',alt:'Realistic hand-painted Safari Ltd Bengal tiger toy figurine',quip:'A six-inch tiger with a verifiable location—the preferred format when your neighborhood has already called dispatch enough.',url:'https://www.amazon.com/dp/B0009JK98U?tag=blappos-20',salesPriority:5},
+      {title:'Tiger-Tiger, Is It True?: Four Questions to Make You Smile Again',image:'https://m.media-amazon.com/images/P/1401962173.01.LZZZZZZZ.jpg',alt:'Cover of Tiger-Tiger, Is It True? by Byron Katie and Hans Wilhelm',quip:'The exact question Jackson needed before a viral tiger migrated from somebody’s screen into the 911 queue.',url:'https://www.amazon.com/dp/1401962173?tag=blappos-20',salesPriority:5},
+      {title:'Calling Bullshit: The Art of Skepticism in a Data-Driven World',image:'https://m.media-amazon.com/images/I/81iePy1y6tL._SL1500_.jpg',alt:'Cover of Calling Bullshit by Carl T. Bergstrom and Jevin D. West',quip:'A field manual for pausing between “I saw a clip” and “please dispatch officers to the imaginary tiger.”',url:'https://www.amazon.com/dp/0525509186?tag=blappos-20',salesPriority:5}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep16ReportedStories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep16ReportedStories);

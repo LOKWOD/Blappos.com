@@ -22,6 +22,7 @@ on:
     paths:
       - daily-data.js
       - assets/cards/**
+      - stories/**
       - scripts/buffer_x_queue.mjs
       - scripts/buffer_status.mjs
 

@@ -95,6 +95,20 @@ async function main() {
   let knownPosts = scheduled.posts.edges.map(edge => edge.node);
   const allStories = loadStories();
   const editionDate = targetDate || allStories[0]?.isoDate;
+  const editionStories = allStories.filter(story => story.isoDate === editionDate);
+  const incompleteEdition = editionStories.filter(story => !story.magnetUrl || !story.magnetPrice);
+  const unpublishedMagnetLinks = editionStories.filter(story => {
+    const storyPage = `stories/${story.id}/index.html`;
+    return !fs.existsSync(storyPage) || !fs.readFileSync(storyPage, 'utf8').includes(story.magnetUrl || '__missing_magnet__');
+  });
+
+  // A social post is the last publishing step. Hold the entire edition until
+  // every story has a real Printify destination so Buffer cannot promote a
+  // card whose permanent page is still waiting on its physical product.
+  if (incompleteEdition.length || unpublishedMagnetLinks.length) {
+    console.log(`Holding ${editionDate} on ${selected.channel.service}: ${incompleteEdition.length} magnet link(s) are incomplete and ${unpublishedMagnetLinks.length} permanent page(s) do not yet contain the exact product URL.`);
+    continue;
+  }
 
   if (forceCurrentEdition) {
     const editionIds = new Set(allStories.filter(story => story.isoDate === editionDate).map(story => story.id));

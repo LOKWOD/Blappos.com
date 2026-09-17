@@ -1,7 +1,34 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-16  
+Updated: 2026-09-17  
 Status: research log only; no outreach sent.
+
+## Yellowstone Volcano Observatory / Yellowstone Geology Program — hydrothermal debris ledger
+
+- Target: Yellowstone Volcano Observatory web team and Yellowstone National Park Geology Program
+- Route: https://www.usgs.gov/observatories/yvo/news/caps-trash-and-other-hydrothermal-funky-finds-2026-edition
+- Contact listed on official USGS Yellowstone Observatory pages: yvowebteam@usgs.gov
+- Matching Blappos asset: https://blappos.com/verification/#yellowstone-trash
+- Honest pitch angle: A public fact-versus-satire ledger that credits Margery Price and the Yellowstone Geology Program as the primary source, preserves the exact 2026 removal counts, links directly to the USGS safety guidance and clearly labels the card as illustration.
+- Qualification: Exact primary-source team and a public-education fit. Any optional outreach should invite factual correction or sharing of the safety resource; it should never suggest USGS endorsement of the joke or the commercial magnet.
+
+## Jackson Township Police Department — viral tiger correction
+
+- Target: Jackson Township Police Department, New Jersey
+- Route: https://www.jacksontwpnj.net/253/Police-Department
+- Contact route listed by the township: non-emergency department contact through the official Police Department page; do not use 911.
+- Matching Blappos asset: https://blappos.com/verification/#tiger-video
+- Honest pitch angle: A concise media-literacy entry preserving the department’s correction, the warning against tying up emergency lines and the explicit distinction between the viral clip, official confirmation and satirical artwork.
+- Qualification: Exact public-safety organization named in the report. Any optional message should use the non-emergency route, ask for correction if needed and never request operational details or imply an endorsement.
+
+## Guinness World Records press centre — salt-and-pepper packet collection
+
+- Target: Guinness World Records press team
+- Route: https://www.guinnessworldrecords.com/news/press
+- Contact route listed by target: official Press Centre / Get in touch form
+- Matching Blappos asset: https://blappos.com/verification/#salt-packets
+- Honest pitch angle: A permanent, sourced recap that keeps Linda Schulz’s 494-to-754-pair record progression intact, credits Guinness as the adjudicating source and separates those figures from the seasoning jokes.
+- Qualification: Exact record authority and an unusually visual collection. Suitable only as an optional share or correction invitation, never a claim that Guinness approved the illustration or product.
 
 ## Science Museum press office — London Vulcan-salute record
 
