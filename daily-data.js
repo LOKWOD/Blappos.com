@@ -733,3 +733,19 @@ const sep15Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep15Stories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep15Stories);
+
+const sep16PicklePattyStory = {
+  id:'sep16-pickle-patty',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'America',image:'assets/cards/sep16-pickle-patty.webp',
+  title:'McDonald’s patty loses thickness contest to a pickle and demands a recount',
+  facts:'McDonald’s describes its classic hamburger as a 100% beef patty topped with a pickle slice, chopped onions, ketchup and mustard on a regular bun. The standard patty is widely documented as a 1.6-ounce, ten-to-a-pound patty before cooking. In the sandwich that inspired this Blappos card, the cooked beef layer appeared thinner than the pickle above it; that visual comparison is one burger’s field observation, not a chain-wide measurement.',
+  why:'Fast-food advertising sells a carefully stacked ideal, while the actual sandwich is assembled quickly from thin, standardized layers. When the green garnish has more visible vertical presence than the beef, the product may still meet its recipe—but the customer’s eyes begin conducting an audit.',
+  angle:'Verified product facts end above. The Blappos interpretation: this is no longer a hamburger with a pickle. It is a pickle sandwich protected by a beef privacy screen. The patty has retained counsel and refuses to answer questions about its third dimension.',
+  source:'https://www.mcdonalds.com/us/en-us/product/hamburger.html',sourceName:'See McDonald’s hamburger description',
+  amazonLinks:[
+    {title:'Cuisinart CISB-111 Smashed Burger Press, 6.5-Inch Cast Iron',image:'https://m.media-amazon.com/images/I/81WqU-lxj5L._AC_SL1500_.jpg',alt:'Cuisinart cast-iron smashed burger press with wooden handle',quip:'The official tool for making a patty thinner than the pickle, the receipt and eventually the concept of beef itself.',url:'https://www.amazon.com/dp/B07SZFHKVZ?tag=blappos-20',salesPriority:5},
+    {title:'Clockwise Tools IP54 Grade Digital Caliper, DCLR-0605 0-6 Inch / 150mm',image:'https://m.media-amazon.com/images/I/51VksubUXVL._SL1500_.jpg',alt:'Clockwise Tools stainless-steel digital caliper with large LCD screen',quip:'For the customer who wants the pickle-versus-patty dispute settled by instruments rather than emotion.',url:'https://www.amazon.com/dp/B018D9JPPA?tag=blappos-20',salesPriority:5},
+    {title:'McDonald’s: Behind the Arches by John F. Love',image:'https://m.media-amazon.com/images/I/71QdSXdInbL._SL1500_.jpg',alt:'Cover of McDonald’s Behind the Arches by John F. Love',quip:'The corporate history for readers hoping the missing patty thickness is explained somewhere behind the arches.',url:'https://www.amazon.com/dp/0553347594?tag=blappos-20',salesPriority:5}
+  ]
+};
+window.dailyStories = window.dailyStories.filter(story => story.id !== sep16PicklePattyStory.id);
+window.dailyStories.splice(0, 0, sep16PicklePattyStory);
