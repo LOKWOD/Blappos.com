@@ -45,6 +45,10 @@ jobs:
           BUFFER_POSTS_PER_RUN: '5'
           BUFFER_TARGET_DATE: ${{ inputs.target_date }}
           BUFFER_SHARE_MODE: ${{ inputs.share_mode || 'addToQueue' }}
+          BUFFER_SAME_DAY_SPACING: 'true'
+          BUFFER_SAME_DAY_REPAIR_HOURS: '6'
+          BUFFER_SAME_DAY_INITIAL_DELAY_MINUTES: '20'
+          BUFFER_SAME_DAY_SPACING_MINUTES: '45'
         run: node scripts/buffer_x_queue.mjs
       - name: Report current-edition delivery status
         env:
