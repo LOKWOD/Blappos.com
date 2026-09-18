@@ -797,7 +797,7 @@ window.dailyStories.splice(0, 0, ...sep16ReportedStories);
 const sep17Stories = [
   {
     id:'sep17-santa-fe-horse',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Santa Fe, New Mexico',image:'assets/cards/sep17-santa-fe-horse.webp',
-    title:'Runaway parade horse activates motorcycles, drones and the entire cowboy reserve',magnetUrl:'',magnetPrice:'',
+    title:'Runaway parade horse activates motorcycles, drones and the entire cowboy reserve',
     facts:'UPI reported that a horse escaped shortly before Santa Fe’s Desfile de La Gente parade and led responders on a roughly 12-minute pursuit. Police motorcycles and bicycles, a drone, animal-services officers and local cowboys joined the search before a cowboy roped the horse and returned it in time for the parade.',
     why:'A loose horse near public streets and a crowded event creates risks for the animal, drivers and bystanders. The layered response combined traffic control, an overhead view and experienced horse handling; the pursuit ended without a reported injury and the horse received water before rejoining the event.',
     angle:'Verified fact ends above. The Blappos interpretation: Santa Fe activated motorcycles, bicycles, aerial surveillance and the emergency cowboy reserve against a suspect producing exactly one horsepower. The horse still made its parade appointment, establishing that the entire chase was technically a warm-up lap.',
@@ -810,7 +810,7 @@ const sep17Stories = [
   },
   {
     id:'sep17-slim-jim-record',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Omaha, Nebraska',image:'assets/cards/sep17-slim-jim-record.webp',
-    title:'Omaha unspools 429 feet of Slim Jim; city declares protein infrastructure complete',magnetUrl:'',magnetPrice:'',
+    title:'Omaha unspools 429 feet of Slim Jim; city declares protein infrastructure complete',
     facts:'UPI and Slim Jim parent company Conagra Brands reported that an Omaha team made a continuous Slim Jim measuring 429 feet 5 inches—about 143 yards—and weighing nearly 70 pounds. Guinness World Records certified it as the longest meat snack stick, surpassing the previous 314-foot record; employees ate the finished snack after adjudication.',
     why:'The record required an 11-person team to turn a mass-produced snack into a single continuous, measurable object while preserving the product’s structure. Work began in June 2025, making the final certified stick less a kitchen stunt than a long-running manufacturing and quality-control project.',
     angle:'Verified fact ends above. The Blappos interpretation: Omaha has completed 143 yards of emergency protein infrastructure and immediately decommissioned it into employee snacks. At regulation football scale, the city was one end zone short of a full meat-based transit corridor.',
@@ -823,7 +823,7 @@ const sep17Stories = [
   },
   {
     id:'sep17-sea-snake',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Crystal Cove, California',image:'assets/cards/sep17-sea-snake.webp',
-    title:'Venomous sea snake reaches California; beach towels lose diplomatic immunity',magnetUrl:'',magnetPrice:'',
+    title:'Venomous sea snake reaches California; beach towels lose diplomatic immunity',
     facts:'UPI reported that video from Crystal Cove State Park appeared to show a yellow-bellied sea snake, a venomous open-ocean species rarely recorded in California. Marine naturalist Chad Steffen said the markings and body shape fit the species, but the report noted that officials had not formally confirmed the identification.',
     why:'The yellow-bellied sea snake is widespread in warm Pacific and Indian Ocean waters but unusual on California beaches; the last reported state sighting cited by UPI was in 2018. It is venomous but generally not aggressive. The useful response to any unfamiliar stranded snake is distance, a photograph from safety and a report to park staff—not handling it.',
     angle:'Verified fact ends above. The Blappos interpretation: Crystal Cove has added a venomous ocean noodle to the guest list and revoked all beach-towel immunity. California is asking visitors to enjoy the wildlife from the traditional distance known as “absolutely not with your hands.”',
