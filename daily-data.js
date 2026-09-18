@@ -797,7 +797,7 @@ window.dailyStories.splice(0, 0, ...sep16ReportedStories);
 const sep17Stories = [
   {
     id:'sep17-santa-fe-horse',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Santa Fe, New Mexico',image:'assets/cards/sep17-santa-fe-horse.webp',
-    title:'Runaway parade horse activates motorcycles, drones and the entire cowboy reserve',
+    title:'Runaway parade horse activates motorcycles, drones and the entire cowboy reserve',magnetUrl:'https://blappos.printify.me/product/32105357',magnetPrice:'$9.99',
     facts:'UPI reported that a horse escaped shortly before Santa Fe’s Desfile de La Gente parade and led responders on a roughly 12-minute pursuit. Police motorcycles and bicycles, a drone, animal-services officers and local cowboys joined the search before a cowboy roped the horse and returned it in time for the parade.',
     why:'A loose horse near public streets and a crowded event creates risks for the animal, drivers and bystanders. The layered response combined traffic control, an overhead view and experienced horse handling; the pursuit ended without a reported injury and the horse received water before rejoining the event.',
     angle:'Verified fact ends above. The Blappos interpretation: Santa Fe activated motorcycles, bicycles, aerial surveillance and the emergency cowboy reserve against a suspect producing exactly one horsepower. The horse still made its parade appointment, establishing that the entire chase was technically a warm-up lap.',
