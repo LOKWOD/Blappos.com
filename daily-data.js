@@ -823,7 +823,7 @@ const sep17Stories = [
   },
   {
     id:'sep17-sea-snake',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Crystal Cove, California',image:'assets/cards/sep17-sea-snake.webp',
-    title:'Venomous sea snake reaches California; beach towels lose diplomatic immunity',
+    title:'Venomous sea snake reaches California; beach towels lose diplomatic immunity',magnetUrl:'https://blappos.printify.me/product/32105374',magnetPrice:'$9.99',
     facts:'UPI reported that video from Crystal Cove State Park appeared to show a yellow-bellied sea snake, a venomous open-ocean species rarely recorded in California. Marine naturalist Chad Steffen said the markings and body shape fit the species, but the report noted that officials had not formally confirmed the identification.',
     why:'The yellow-bellied sea snake is widespread in warm Pacific and Indian Ocean waters but unusual on California beaches; the last reported state sighting cited by UPI was in 2018. It is venomous but generally not aggressive. The useful response to any unfamiliar stranded snake is distance, a photograph from safety and a report to park staff—not handling it.',
     angle:'Verified fact ends above. The Blappos interpretation: Crystal Cove has added a venomous ocean noodle to the guest list and revoked all beach-towel immunity. California is asking visitors to enjoy the wildlife from the traditional distance known as “absolutely not with your hands.”',
