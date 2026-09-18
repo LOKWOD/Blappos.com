@@ -793,3 +793,47 @@ const sep16ReportedStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep16ReportedStories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep16ReportedStories);
+
+const sep17Stories = [
+  {
+    id:'sep17-santa-fe-horse',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Santa Fe, New Mexico',image:'assets/cards/sep17-santa-fe-horse.webp',
+    title:'Runaway parade horse activates motorcycles, drones and the entire cowboy reserve',magnetUrl:'',magnetPrice:'',
+    facts:'UPI reported that a horse escaped shortly before Santa Fe’s Desfile de La Gente parade and led responders on a roughly 12-minute pursuit. Police motorcycles and bicycles, a drone, animal-services officers and local cowboys joined the search before a cowboy roped the horse and returned it in time for the parade.',
+    why:'A loose horse near public streets and a crowded event creates risks for the animal, drivers and bystanders. The layered response combined traffic control, an overhead view and experienced horse handling; the pursuit ended without a reported injury and the horse received water before rejoining the event.',
+    angle:'Verified fact ends above. The Blappos interpretation: Santa Fe activated motorcycles, bicycles, aerial surveillance and the emergency cowboy reserve against a suspect producing exactly one horsepower. The horse still made its parade appointment, establishing that the entire chase was technically a warm-up lap.',
+    source:'https://www.upi.com/Odd_News/2026/09/17/santa-fe-parade-horse-chase/8301789655823/',sourceName:'Read the September 17 UPI report',
+    amazonLinks:[
+      {title:'Weaver Equine 10\' Performance Lead Rope, Brass-Plated Snap',image:'https://m.media-amazon.com/images/I/71MFbI78tpL._AC_SL1500_.jpg',alt:'Black Weaver Equine ten-foot performance lead rope with brass-plated snap',quip:'Ten feet of purpose-built horse handling for the stage after the police drone has located one extremely mobile parade participant.',url:'https://www.amazon.com/dp/B07SS5HJLZ?tag=blappos-20',salesPriority:5},
+      {title:'101 Ground Training Exercises for Every Horse & Handler',image:'https://m.media-amazon.com/images/P/1612120520.01.LZZZZZZZ.jpg',alt:'Cover of 101 Ground Training Exercises for Every Horse and Handler by Cherry Hill',quip:'Exercise 102, added by Santa Fe: do not begin the parade with a multi-agency pursuit.',url:'https://www.amazon.com/dp/1612120520?tag=blappos-20',salesPriority:5},
+      {title:'DJI Mini 4K, Drone With 4K UHD Camera, Under 249 g',image:'https://m.media-amazon.com/images/I/61TcjJ4qDZL._AC_SL1500_.jpg',alt:'Gray DJI Mini 4K camera drone with controller',quip:'The civilian-scale overhead view for spotting where one horse has taken an unauthorized twelve-minute detour.',url:'https://www.amazon.com/dp/B0CXJDDJ9X?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep17-slim-jim-record',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Omaha, Nebraska',image:'assets/cards/sep17-slim-jim-record.webp',
+    title:'Omaha unspools 429 feet of Slim Jim; city declares protein infrastructure complete',magnetUrl:'',magnetPrice:'',
+    facts:'UPI and Slim Jim parent company Conagra Brands reported that an Omaha team made a continuous Slim Jim measuring 429 feet 5 inches—about 143 yards—and weighing nearly 70 pounds. Guinness World Records certified it as the longest meat snack stick, surpassing the previous 314-foot record; employees ate the finished snack after adjudication.',
+    why:'The record required an 11-person team to turn a mass-produced snack into a single continuous, measurable object while preserving the product’s structure. Work began in June 2025, making the final certified stick less a kitchen stunt than a long-running manufacturing and quality-control project.',
+    angle:'Verified fact ends above. The Blappos interpretation: Omaha has completed 143 yards of emergency protein infrastructure and immediately decommissioned it into employee snacks. At regulation football scale, the city was one end zone short of a full meat-based transit corridor.',
+    source:'https://www.upi.com/Odd_News/2026/09/17/guinness-world-records-slim-jim/1191789667547/',sourceName:'Read the September 17 UPI report',
+    amazonLinks:[
+      {title:'Slim Jim Giant Smoked Jerky Sticks, Original Flavor, 0.97 oz., 24-ct',image:'https://m.media-amazon.com/images/I/71K8ovm6tzL._SL1500_.jpg',alt:'Display box of twenty-four Slim Jim Giant original smoked snack sticks',quip:'Twenty-four regulation-size building blocks for anyone unwilling to allocate 429 feet of pantry space to the official version.',url:'https://www.amazon.com/dp/B00HDC09OA?tag=blappos-20',salesPriority:5},
+      {title:'LEM Products Jerky Cannon and Accessories, Anodized Aluminum',image:'https://m.media-amazon.com/images/I/71pm88qttNL._SL1500_.jpg',alt:'LEM Products anodized aluminum jerky cannon with tubes and cleaning brushes',quip:'The home-scale extrusion equipment for discovering exactly how many weekends separate a snack from municipal infrastructure.',url:'https://www.amazon.com/dp/B000SQFGRS?tag=blappos-20',salesPriority:5},
+      {title:'Komelon 6622 Open Reel Fiberglass Tape Measure, 200-Feet, Green',image:'https://m.media-amazon.com/images/I/81GxAgbfJRL._SL1500_.jpg',alt:'Green Komelon open-reel two-hundred-foot fiberglass tape measure',quip:'Two full pulls plus 29 feet 5 inches: the measurement plan for confirming Omaha did not round up its protein corridor.',url:'https://www.amazon.com/dp/B000KL3X5I?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep17-sea-snake',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Crystal Cove, California',image:'assets/cards/sep17-sea-snake.webp',
+    title:'Venomous sea snake reaches California; beach towels lose diplomatic immunity',magnetUrl:'',magnetPrice:'',
+    facts:'UPI reported that video from Crystal Cove State Park appeared to show a yellow-bellied sea snake, a venomous open-ocean species rarely recorded in California. Marine naturalist Chad Steffen said the markings and body shape fit the species, but the report noted that officials had not formally confirmed the identification.',
+    why:'The yellow-bellied sea snake is widespread in warm Pacific and Indian Ocean waters but unusual on California beaches; the last reported state sighting cited by UPI was in 2018. It is venomous but generally not aggressive. The useful response to any unfamiliar stranded snake is distance, a photograph from safety and a report to park staff—not handling it.',
+    angle:'Verified fact ends above. The Blappos interpretation: Crystal Cove has added a venomous ocean noodle to the guest list and revoked all beach-towel immunity. California is asking visitors to enjoy the wildlife from the traditional distance known as “absolutely not with your hands.”',
+    source:'https://www.upi.com/Odd_News/2026/09/17/yellow-bellied-sea-snake-Chrystal-Cove-California/8871789660407/',sourceName:'Read the September 17 UPI report',
+    amazonLinks:[
+      {title:'National Audubon Society Field Guide to Reptiles and Amphibians: North America',image:'https://m.media-amazon.com/images/I/61TdeUDwyoL._SL1139_.jpg',alt:'Cover of the National Audubon Society Field Guide to North American Reptiles and Amphibians',quip:'A field guide for the important step between “striped thing on beach” and “please do not pick up the venomous ocean noodle.”',url:'https://www.amazon.com/dp/0394508246?tag=blappos-20',salesPriority:5},
+      {title:'The California Field Atlas',image:'https://m.media-amazon.com/images/I/61NMnZQFkiL._SL1091_.jpg',alt:'Cover of The California Field Atlas by Obi Kaufmann',quip:'The statewide context for a coastline whose visitor list just acquired one extremely rare pelagic reptile.',url:'https://www.amazon.com/dp/1597144029?tag=blappos-20',salesPriority:5},
+      {title:'The Book of Snakes: A Life-Size Guide to Six Hundred Species from around the World',image:'https://m.media-amazon.com/images/P/022645939X.01.LZZZZZZZ.jpg',alt:'Cover of The Book of Snakes by Mark O’Shea',quip:'Six hundred species for comparing the reported visitor before granting it permanent Crystal Cove residency.',url:'https://www.amazon.com/dp/022645939X?tag=blappos-20',salesPriority:5}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep17Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep17Stories);

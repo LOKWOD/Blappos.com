@@ -1,7 +1,32 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-17  
+Updated: 2026-09-18
 Status: research log only; no outreach sent.
+
+## Santa Fe Police Department — parade-horse response
+
+- Target: Santa Fe Police Department public-information team
+- Route: https://santafenm.gov/police
+- Matching Blappos asset: https://blappos.com/verification/#santa-fe-horse
+- Honest pitch angle: A permanent source ledger that records the motorcycles, bicycles, drone and animal-services response, labels the card as illustration and invites correction of any operational detail.
+- Qualification: Exact local public-safety organization named in the event. Any optional outreach should use the department’s public-information route, ask for factual correction or optional sharing, and never imply endorsement of the joke or magnet.
+
+## Conagra Brands newsroom — 429-foot Slim Jim record
+
+- Target: Conagra Brands corporate communications / Slim Jim brand team
+- Route: https://www.conagrabrands.com/news-room/news-slim-jim-makes-snacking-history-with-worlds-longest-meat-snack-stick-prn-122964
+- Contact route: https://contactus.conagrabrands.com/s/
+- Matching Blappos asset: https://blappos.com/verification/#slim-jim-record
+- Honest pitch angle: A source-by-source permanent recap preserving the exact 429-foot-5-inch measurement, team size, project timeline and Guinness certification while clearly separating the record from the protein-infrastructure joke.
+- Qualification: Primary corporate source and exact subject of the record. Any optional contact should invite a correction or share, not request a paid placement, link exchange or brand endorsement.
+
+## Crystal Cove State Park / California State Parks — probable sea-snake sighting
+
+- Target: Crystal Cove State Park public-information and interpretation team
+- Route: https://www.parks.ca.gov/?page_id=644
+- Matching Blappos asset: https://blappos.com/verification/#sea-snake
+- Honest pitch angle: A cautious wildlife-verification entry that preserves the lack of formal species confirmation, cites independent species background and gives visitors a distance-and-notify-staff safety action.
+- Qualification: Exact public-land manager for the reported location and a useful visitor-safety match. Any optional outreach should seek identification or safety corrections, never present the park as confirming the species or endorsing the commercial product.
 
 ## Yellowstone Volcano Observatory / Yellowstone Geology Program — hydrothermal debris ledger
 
