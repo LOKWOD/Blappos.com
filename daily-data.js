@@ -810,7 +810,7 @@ const sep17Stories = [
   },
   {
     id:'sep17-slim-jim-record',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Omaha, Nebraska',image:'assets/cards/sep17-slim-jim-record.webp',
-    title:'Omaha unspools 429 feet of Slim Jim; city declares protein infrastructure complete',
+    title:'Omaha unspools 429 feet of Slim Jim; city declares protein infrastructure complete',magnetUrl:'https://blappos.printify.me/product/32105370',magnetPrice:'$9.99',
     facts:'UPI and Slim Jim parent company Conagra Brands reported that an Omaha team made a continuous Slim Jim measuring 429 feet 5 inches—about 143 yards—and weighing nearly 70 pounds. Guinness World Records certified it as the longest meat snack stick, surpassing the previous 314-foot record; employees ate the finished snack after adjudication.',
     why:'The record required an 11-person team to turn a mass-produced snack into a single continuous, measurable object while preserving the product’s structure. Work began in June 2025, making the final certified stick less a kitchen stunt than a long-running manufacturing and quality-control project.',
     angle:'Verified fact ends above. The Blappos interpretation: Omaha has completed 143 yards of emergency protein infrastructure and immediately decommissioned it into employee snacks. At regulation football scale, the city was one end zone short of a full meat-based transit corridor.',
