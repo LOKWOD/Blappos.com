@@ -867,7 +867,7 @@ const sep18Stories = [
   },
   {
     id:'sep18-river-whale',isoDate:'2026-09-18',month:'September',date:'Sep 18, 2026',place:'Rio Vista, California',image:'assets/cards/sep18-river-whale.webp',
-    title:'Humpback whale misses Pacific exit by 60 miles, tours Sacramento River',
+    title:'Humpback whale misses Pacific exit by 60 miles, tours Sacramento River',magnetUrl:'https://blappos.printify.me/product/32144552',magnetPrice:'$9.99',
     facts:'Associated Press reported that an adult humpback whale entered San Francisco Bay and traveled east into the Sacramento–San Joaquin Delta, where it was seen near Rio Vista about 60 miles from the Pacific. The Marine Mammal Center identified it from its fluke as an animal in a research catalog for 24 years, with 15 prior sightings and a February 2026 sighting near Baja California.',
     why:'Humpbacks can enter bays and rivers, but a whale this far inland requires careful monitoring and room to choose its own route. The Marine Mammal Center asked boaters to keep their distance and avoid altering the animal’s course. The reason for the detour remains unknown, so the useful response is observation—not an invented rescue narrative.',
     angle:'Verified fact ends above. The Blappos interpretation: one experienced international traveler has reviewed the Pacific Ocean, selected the Sacramento River and refused to explain the itinerary. Rio Vista now has a full-size tourism ambassador whose entire visitor plan is “continue east until somebody writes a press release.”',
