@@ -1,7 +1,33 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-18
+Updated: 2026-09-19
 Status: research log only; no outreach sent.
+
+## Freeman’s — rediscovered Gertrude Abercrombie painting
+
+- Target: Freeman’s press and Post-War & Contemporary Art team
+- Route: https://freemansauction.com/press/a-lost-gertrude-abercrombie-masterwork-resurfaces-after-75-years-heading-to-auction-at-freeman-s
+- Contact listed by target: press@freemansauction.com
+- Matching Blappos asset: https://blappos.com/verification/#estate-painting
+- Honest pitch angle: A public verification entry that distinguishes estimate from sale price, reproduces the provenance in summary, shows the estimate-to-purchase-price calculation and links directly to the official lot.
+- Qualification: Exact auction house authenticating and offering the painting. Any optional message should invite a factual correction or share of the noncommercial ledger, never imply that Freeman’s endorsed the illustration, joke or magnet.
+
+## NATS — September 8 technical-incident report
+
+- Target: NATS media centre / press office
+- Route: https://www.nats.aero/news/
+- Matching Blappos asset: https://blappos.com/verification/#nats-glitch
+- Honest pitch angle: A plain-language source digest that preserves the one-millisecond trigger, six-hour restrictions, safety statement and distinction between software timing and aggregate flight consequences.
+- Qualification: Primary technical source and system operator. Any optional outreach should ask for correction of the technical summary or share the evidence guide; it should not request operationally sensitive details or claim NATS approval.
+
+## The Marine Mammal Center — Rio Vista humpback
+
+- Target: The Marine Mammal Center communications and cetacean-response team
+- Route: https://www.marinemammalcenter.org/contact
+- Contact listed by target: media@tmmc.org
+- Matching Blappos asset: https://blappos.com/verification/#river-whale
+- Honest pitch angle: A wildlife-verification entry that keeps the whale’s route unexplained, credits the 24-year photo-identification history and directs readers toward distance and official reporting rather than pursuit.
+- Qualification: Exact expert organization monitoring and identifying the animal. Any optional message should invite correction or sharing of the safety guidance, never imply endorsement or ask the center to promote a commercial product.
 
 ## Santa Fe Police Department — parade-horse response
 

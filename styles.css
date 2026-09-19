@@ -217,4 +217,9 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .story-copy .ledger-entry h2{margin:8px 0 16px;color:var(--ink);font:400 clamp(1.9rem,4vw,3.2rem)/1 Anton,sans-serif;letter-spacing:0;text-transform:uppercase}
 .ledger-entry p{margin:10px 0}
 .ledger-entry a{color:var(--blue);font-weight:700;text-underline-offset:3px}
+.ledger-table-wrap{margin:18px 0;overflow-x:auto}
+.ledger-table{width:100%;min-width:720px;border-collapse:collapse;background:#fff;font-size:.92rem;line-height:1.45}
+.ledger-table th,.ledger-table td{padding:12px 14px;border:1px solid var(--ink);text-align:left;vertical-align:top}
+.ledger-table th{background:var(--ink);color:#fff;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase}
+.ledger-table tbody tr:nth-child(even){background:#f6eedc}
 @media(max-width:560px){.ledger-index{grid-template-columns:1fr}.ledger-entry{padding:20px;box-shadow:5px 5px 0 var(--blue)}}

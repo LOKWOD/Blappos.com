@@ -45,6 +45,17 @@ function isoDate(story) {
   return Number.isNaN(parsed.valueOf()) ? '2026-01-01' : parsed.toISOString().slice(0, 10);
 }
 
+function verificationLink(story) {
+  const anchors = {
+    'sep18-estate-painting': 'estate-painting',
+    'sep18-air-traffic-glitch': 'nats-glitch',
+    'sep18-river-whale': 'river-whale'
+  };
+  return anchors[story.id]
+    ? `<a href="../../verification/#${anchors[story.id]}">Check this story’s source ledger</a>`
+    : '<a href="../../verification/">Check the latest source ledger</a>';
+}
+
 function shareMarkup(story, canonical) {
   const title = `${story.title} — Blappos`;
   const encodedUrl = encodeURIComponent(canonical);
@@ -142,7 +153,7 @@ for (const story of stories) {
         <h2>Why it matters</h2><p>${escapeHtml(story.why || 'The event became part of a larger argument about public responsibility, power and the cost carried by ordinary people.')}</p>
         <h2>The Blappos angle</h2><p>${escapeHtml(story.angle || story.title)}</p>
         <a class="source" href="${escapeHtml(story.source)}" target="_blank" rel="noopener">${escapeHtml(story.sourceName || 'Read the reporting')} ↗</a>
-        <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting. <a href="../../verification/">Check the latest source ledger</a> or <a href="../../standards/">read our sourcing, satire and corrections standard.</a></p>
+        <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting. ${verificationLink(story)} or <a href="../../standards/">read our sourcing, satire and corrections standard.</a></p>
         ${shareMarkup(story, canonical)}
         ${magnetMarkup(story)}
         ${amazonMarkup(story)}
@@ -172,7 +183,7 @@ for (const story of stories) {
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-09-18' },
+  { loc: `${origin}/verification/`, lastmod: '2026-09-19' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>

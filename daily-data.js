@@ -837,3 +837,47 @@ const sep17Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep17Stories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep17Stories);
+
+const sep18Stories = [
+  {
+    id:'sep18-estate-painting',isoDate:'2026-09-18',month:'September',date:'Sep 18, 2026',place:'Michigan, USA',image:'assets/cards/sep18-estate-painting.webp',
+    title:'$30 estate-sale painting discovers it has a $250,000 résumé',
+    facts:'UPI reported that a small Gertrude Abercrombie painting bought for $30 at a Michigan estate sale was authenticated as the long-missing 1951 work “Alderman Merriam’s Shells.” Freeman’s auction house says the 8-by-11-inch oil-on-Masonite work will be offered October 1 with a $150,000–$250,000 estimate; it has not yet sold for that amount.',
+    why:'The discovery is a reminder that an estimate is not a sale result—and that provenance and expert authentication, not a lucky price tag alone, create art-market confidence. Freeman’s says Abercrombie gave the painting to physician John Reynolds in 1952 for medical services, and it remained with his estate until the 2026 sale.',
+    angle:'Verified fact ends above. The Blappos interpretation: a $30 estate-sale purchase completed a 75-year performance piece called “Please Do Not Put This Beside the Used Bread Maker.” The low estimate is 5,000 times the purchase price; the high estimate is about 8,333 times—before auction fees, taxes or the inconvenient requirement that somebody actually buy it.',
+    source:'https://www.upi.com/Odd_News/2026/09/18/painting-estate-sale-Gertrude-Abercrombie/3931789753677/',sourceName:'Read the September 18 UPI report',
+    amazonLinks:[
+      {title:'Gertrude Abercrombie: The Whole World Is a Mystery',image:'https://m.media-amazon.com/images/P/1636811558.01.LZZZZZZZ.jpg',alt:'Cover of Gertrude Abercrombie: The Whole World Is a Mystery',quip:'The museum-scale context for identifying why one tiny shell painting should not have been filed under “thirty-dollar wall decor.”',url:'https://www.amazon.com/dp/1636811558?tag=blappos-20',salesPriority:5},
+      {title:'The Art Collector’s Handbook: The Definitive Guide to Acquiring and Owning Art',image:'https://m.media-amazon.com/images/P/184822401X.01.LZZZZZZZ.jpg',alt:'Cover of The Art Collector’s Handbook by Mary Rozell',quip:'A practical guide to provenance, authentication and ownership for the next person whose estate-sale instinct suddenly needs paperwork.',url:'https://www.amazon.com/dp/184822401X?tag=blappos-20',salesPriority:5},
+      {title:'Carson LumiLoupe Plus 10.5x Focusable Stand Loupe Magnifier',image:'https://m.media-amazon.com/images/I/710ryz6ZcUL._AC_SL1500_.jpg',alt:'Black Carson LumiLoupe Plus focusable stand magnifier',quip:'For inspecting signatures, brushwork and the exact moment a thirty-dollar hunch begins demanding an auction-house appointment.',url:'https://www.amazon.com/dp/B00PDPFZT8?tag=blappos-20',salesPriority:4}
+    ]
+  },
+  {
+    id:'sep18-air-traffic-glitch',isoDate:'2026-09-18',month:'September',date:'Sep 18, 2026',place:'United Kingdom',image:'assets/cards/sep18-air-traffic-glitch.webp',
+    title:'One millisecond breaks UK air traffic; 2,000 flights file a bug report',
+    facts:'Britain’s air-traffic operator NATS said a software defect corrupted data in its National Airspace System on September 8 when a paused aircraft-code request resumed incorrectly after a higher-priority task—an error sequence that happened within a millisecond. The system was restarted after six hours of restrictions; Associated Press reported more than 2,000 flight cancellations and disruption lasting two days.',
+    why:'A microscopic timing fault produced a nationwide operational consequence because controllers lost the normal system used to manage high-altitude flights. NATS said safety was never in question, a mitigation is already in place and the permanent fix will be independently safety-tested. The cancellation total is an aggregate consequence, not a “2,000 flights per millisecond” failure rate.',
+    angle:'Verified fact ends above. The Blappos interpretation: the United Kingdom has discovered that one millisecond is long enough for software to request six hours of quiet time and two days of calendar apologies. The bug did not crash a plane; it merely grounded the timetable and sent every departure board into group therapy.',
+    source:'https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/',sourceName:'Read the September 18 NATS preliminary report',
+    amazonLinks:[
+      {title:'Lessons Learned in Software Testing: A Context-Driven Approach',image:'https://m.media-amazon.com/images/P/0471081124.01.LZZZZZZZ.jpg',alt:'Cover of Lessons Learned in Software Testing',quip:'The book-length reminder that the most expensive edge case is the one waiting politely inside a one-millisecond pause.',url:'https://www.amazon.com/dp/0471081124?tag=blappos-20',salesPriority:5},
+      {title:'Site Reliability Engineering: How Google Runs Production Systems',image:'https://m.media-amazon.com/images/P/149192912X.01.LZZZZZZZ.jpg',alt:'Cover of Site Reliability Engineering: How Google Runs Production Systems',quip:'Production-resilience reading for any system whose restart procedure becomes national transport news.',url:'https://www.amazon.com/dp/149192912X?tag=blappos-20',salesPriority:5},
+      {title:'The Checklist Manifesto: How to Get Things Right',image:'https://m.media-amazon.com/images/P/0312430000.01.LZZZZZZZ.jpg',alt:'Cover of The Checklist Manifesto by Atul Gawande',quip:'A low-bandwidth backup technology that continues functioning even when the high-bandwidth timetable has requested a reboot.',url:'https://www.amazon.com/dp/0312430000?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep18-river-whale',isoDate:'2026-09-18',month:'September',date:'Sep 18, 2026',place:'Rio Vista, California',image:'assets/cards/sep18-river-whale.webp',
+    title:'Humpback whale misses Pacific exit by 60 miles, tours Sacramento River',
+    facts:'Associated Press reported that an adult humpback whale entered San Francisco Bay and traveled east into the Sacramento–San Joaquin Delta, where it was seen near Rio Vista about 60 miles from the Pacific. The Marine Mammal Center identified it from its fluke as an animal in a research catalog for 24 years, with 15 prior sightings and a February 2026 sighting near Baja California.',
+    why:'Humpbacks can enter bays and rivers, but a whale this far inland requires careful monitoring and room to choose its own route. The Marine Mammal Center asked boaters to keep their distance and avoid altering the animal’s course. The reason for the detour remains unknown, so the useful response is observation—not an invented rescue narrative.',
+    angle:'Verified fact ends above. The Blappos interpretation: one experienced international traveler has reviewed the Pacific Ocean, selected the Sacramento River and refused to explain the itinerary. Rio Vista now has a full-size tourism ambassador whose entire visitor plan is “continue east until somebody writes a press release.”',
+    source:'https://apnews.com/article/7682fa0608fb5c66b22e035f3095a33a',sourceName:'Read the September 18 Associated Press report',
+    amazonLinks:[
+      {title:'Whales, Dolphins and Porpoises',image:'https://m.media-amazon.com/images/P/0789489902.01.LZZZZZZZ.jpg',alt:'Cover of Whales, Dolphins and Porpoises by Mark Carwardine',quip:'The identification reference for determining which very large visitor has ignored the standard ocean itinerary.',url:'https://www.amazon.com/dp/0789489902?tag=blappos-20',salesPriority:5},
+      {title:'Celestron Nature DX 8x42 Binoculars',image:'https://m.media-amazon.com/images/P/B00B73JONS.01.LZZZZZZZ.jpg',alt:'Green Celestron Nature DX 8x42 binoculars',quip:'A close view from the legally and biologically superior position known as “far enough away from the whale.”',url:'https://www.amazon.com/dp/B00B73JONS?tag=blappos-20',salesPriority:5},
+      {title:'National Audubon Society Field Guide to California',image:'https://m.media-amazon.com/images/P/0679446788.01.LZZZZZZZ.jpg',alt:'Cover of the National Audubon Society Field Guide to California',quip:'The local natural-history context for a California river whose visitor list unexpectedly acquired one cataloged humpback.',url:'https://www.amazon.com/dp/0679446788?tag=blappos-20',salesPriority:4}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep18Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep18Stories);
