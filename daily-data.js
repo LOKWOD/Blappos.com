@@ -854,7 +854,7 @@ const sep18Stories = [
   },
   {
     id:'sep18-air-traffic-glitch',isoDate:'2026-09-18',month:'September',date:'Sep 18, 2026',place:'United Kingdom',image:'assets/cards/sep18-air-traffic-glitch.webp',
-    title:'One millisecond breaks UK air traffic; 2,000 flights file a bug report',
+    title:'One millisecond breaks UK air traffic; 2,000 flights file a bug report',magnetUrl:'https://blappos.printify.me/product/32144537',magnetPrice:'$9.99',
     facts:'Britain’s air-traffic operator NATS said a software defect corrupted data in its National Airspace System on September 8 when a paused aircraft-code request resumed incorrectly after a higher-priority task—an error sequence that happened within a millisecond. The system was restarted after six hours of restrictions; Associated Press reported more than 2,000 flight cancellations and disruption lasting two days.',
     why:'A microscopic timing fault produced a nationwide operational consequence because controllers lost the normal system used to manage high-altitude flights. NATS said safety was never in question, a mitigation is already in place and the permanent fix will be independently safety-tested. The cancellation total is an aggregate consequence, not a “2,000 flights per millisecond” failure rate.',
     angle:'Verified fact ends above. The Blappos interpretation: the United Kingdom has discovered that one millisecond is long enough for software to request six hours of quiet time and two days of calendar apologies. The bug did not crash a plane; it merely grounded the timetable and sent every departure board into group therapy.',
