@@ -841,7 +841,7 @@ window.dailyStories.splice(0, 0, ...sep17Stories);
 const sep18Stories = [
   {
     id:'sep18-estate-painting',isoDate:'2026-09-18',month:'September',date:'Sep 18, 2026',place:'Michigan, USA',image:'assets/cards/sep18-estate-painting.webp',
-    title:'$30 estate-sale painting discovers it has a $250,000 résumé',
+    title:'$30 estate-sale painting discovers it has a $250,000 résumé',magnetUrl:'https://blappos.printify.me/product/32144530',magnetPrice:'$9.99',
     facts:'UPI reported that a small Gertrude Abercrombie painting bought for $30 at a Michigan estate sale was authenticated as the long-missing 1951 work “Alderman Merriam’s Shells.” Freeman’s auction house says the 8-by-11-inch oil-on-Masonite work will be offered October 1 with a $150,000–$250,000 estimate; it has not yet sold for that amount.',
     why:'The discovery is a reminder that an estimate is not a sale result—and that provenance and expert authentication, not a lucky price tag alone, create art-market confidence. Freeman’s says Abercrombie gave the painting to physician John Reynolds in 1952 for medical services, and it remained with his estate until the 2026 sale.',
     angle:'Verified fact ends above. The Blappos interpretation: a $30 estate-sale purchase completed a 75-year performance piece called “Please Do Not Put This Beside the Used Bread Maker.” The low estimate is 5,000 times the purchase price; the high estimate is about 8,333 times—before auction fees, taxes or the inconvenient requirement that somebody actually buy it.',
