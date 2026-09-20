@@ -881,3 +881,47 @@ const sep18Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep18Stories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep18Stories);
+
+const sep19Stories = [
+  {
+    id:'sep19-white-house-press',isoDate:'2026-09-19',month:'September',date:'Sep 19, 2026',place:'Washington, D.C.',image:'assets/cards/sep19-white-house-press.webp',
+    title:'White House revokes access for reporters from CNN, MS NOW and Politico',
+    facts:'Reuters reported that White House reporters from CNN, MS NOW and Politico were denied entry to the White House complex on September 19 after President Donald Trump announced a ban on the three organizations. The reporters said their passes were disabled or confiscated; all three outlets condemned the action and said they would defend their press-access rights.',
+    why:'Access to the White House is part of how journalists observe public officials, ask questions and report government decisions to people who cannot be in the room. The affected organizations argue that the ban violates First Amendment protections, but that legal question had not been resolved when this story was published. Earlier credential disputes have produced court challenges, so the next meaningful development is evidence—a filing, order or policy change—not speculation.',
+    angle:'Verified fact ends above. The Blappos interpretation: three press passes arrived for work and discovered the credential desk had become an editorial-review board. The physical magnet uses anonymous reporters and a fictional checkpoint; it does not reproduce a politician, journalist, outlet logo or news photograph.',
+    source:'https://www.reuters.com/world/white-house-turns-away-cnn-ms-now-politico-reporters-after-trump-announces-ban-2026-09-19/',sourceName:'Read the September 19 Reuters report',
+    amazonLinks:[
+      {title:'Freedom for the Thought That We Hate: A Biography of the First Amendment',image:'https://m.media-amazon.com/images/P/0465039170.01.LZZZZZZZ.jpg',alt:'Cover of Freedom for the Thought That We Hate by Anthony Lewis',quip:'The legal-history context for understanding why a confiscated press pass can become a constitutional argument instead of a routine security decision.',url:'https://www.amazon.com/dp/0465039170?tag=blappos-20',salesPriority:5},
+      {title:'The Elements of Journalism: What Newspeople Should Know and The Public Should Expect',image:'https://m.media-amazon.com/images/P/0609806912.01.LZZZZZZZ.jpg',alt:'Cover of The Elements of Journalism by Bill Kovach and Tom Rosenstiel',quip:'A standards manual for the work that still has to happen when the reporter is standing on the wrong side of the gate.',url:'https://www.amazon.com/dp/0609806912?tag=blappos-20',salesPriority:5},
+      {title:'The Associated Press Stylebook: 2026-2028',image:'https://m.media-amazon.com/images/P/1541608615.01.LZZZZZZZ.jpg',alt:'Cover of The Associated Press Stylebook 2026–2028',quip:'The newsroom reference for describing a press-access dispute precisely, consistently and without letting the adjective desk seize control.',url:'https://www.amazon.com/dp/1541608615?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep19-ai-actress-glitch',isoDate:'2026-09-19',month:'September',date:'Sep 19, 2026',place:'London, England',image:'assets/cards/sep19-ai-actress-glitch.webp',
+    title:'AI actress changes languages mid-interview; technical difficulty requests representation',
+    facts:'People reported that the AI-generated character Tilly Norwood switched into Cantonese for roughly 15 seconds during a video interview while promoting the film “Misaligned.” The character was created by Particle6, and the interview clip drew more than 12 million views. The company described the language switch as a technical problem.',
+    why:'The malfunction was funny on its face, but the larger story concerns what audiences are being asked to treat as a performer. SAG-AFTRA has objected that the character is generated from human performers’ work and is not an actor, while its creators are presenting it inside familiar publicity and representation systems. The glitch made that unresolved labor-and-authorship debate unusually visible.',
+    angle:'Verified fact ends above. The Blappos interpretation: technical difficulties have completed media training, hired an agent and booked the interview circuit. The card depicts a fictional synthetic mannequin in a generic studio—not the named character, a real host or any copyrighted production design.',
+    source:'https://people.com/ai-actress-tilly-norwood-glitches-changes-language-during-piers-morgan-interview-12129604',sourceName:'Read the September 19 People report',
+    amazonLinks:[
+      {title:'Lonely Planet Cantonese Phrasebook & Dictionary',image:'https://m.media-amazon.com/images/P/1743603762.01.LZZZZZZZ.jpg',alt:'Cover of Lonely Planet Cantonese Phrasebook and Dictionary',quip:'A human-readable backup for the next interview in which the language model changes the language before the producer changes the subject.',url:'https://www.amazon.com/dp/1743603762?tag=blappos-20',salesPriority:5},
+      {title:'The Actor and the Target',image:'https://m.media-amazon.com/images/P/1854598384.01.LZZZZZZZ.jpg',alt:'Cover of The Actor and the Target by Declan Donnellan',quip:'A craft book for comparing the difficult human work of performance with a synthetic guest whose notes arrive as a software update.',url:'https://www.amazon.com/dp/1854598384?tag=blappos-20',salesPriority:5},
+      {title:'Human Compatible: Artificial Intelligence and the Problem of Control',image:'https://m.media-amazon.com/images/P/0525558616.01.LZZZZZZZ.jpg',alt:'Cover of Human Compatible by Stuart Russell',quip:'The control-problem reading for a publicity tour where the guest, the script and the technical difficulty may all be the same system.',url:'https://www.amazon.com/dp/0525558616?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep19-whitsundays-rescue',isoDate:'2026-09-19',month:'September',date:'Sep 19, 2026',place:'Whitsundays, Australia',image:'assets/cards/sep19-whitsundays-rescue.webp',
+    title:'Rescue crew winches family of four from yacht grounded on remote reef',
+    facts:'News.com.au reported that a family of four was rescued after its yacht grounded on Elizabeth Reef, about 100 kilometers north of the Whitsundays, early September 19. A BMA CQ Rescue helicopter reached the vessel around sunrise, lowered a rescue swimmer and winched each family member aboard individually because the yacht’s mast complicated the approach. All four reached shore; the father was treated for a reported head injury.',
+    why:'A successful rescue can look instantaneous in one dramatic image, but this one depended on navigation, aircraft positioning, a rescue swimmer, individual harnessing and medical care in a remote marine setting. The family’s survival is the headline; the useful lesson is that offshore passages require current charts, redundant navigation habits and a plan for summoning professional help.',
+    angle:'Verified fact ends above. The Blappos interpretation: the family booked four one-way tickets on an airline whose entire route map was a winch cable. The magnet celebrates the coordinated rescue with anonymous figures and an original scene; it is not incident photography and does not identify the family.',
+    source:'https://www.news.com.au/travel/travel-updates/incidents/family-rescued-by-helicopter-crew-after-yacht-crashes-on-reef-near-whitsundays/news-story/2daed5d900a8349f32fe6b1c3a81cddd',sourceName:'Read the September 19 News.com.au report',
+    amazonLinks:[
+      {title:'The Annapolis Book of Seamanship: Fourth Edition',image:'https://m.media-amazon.com/images/P/1451650191.01.LZZZZZZZ.jpg',alt:'Cover of The Annapolis Book of Seamanship, Fourth Edition',quip:'The comprehensive seamanship reference for the many decisions that should happen before a rescue swimmer appears over the stern.',url:'https://www.amazon.com/dp/1451650191?tag=blappos-20',salesPriority:5},
+      {title:'Chapman Piloting & Seamanship 69th Edition: The Boating Book of Record',image:'https://m.media-amazon.com/images/P/1950785491.01.LZZZZZZZ.jpg',alt:'Cover of Chapman Piloting and Seamanship, 69th Edition',quip:'A boating reference for route planning, emergencies and every sentence that ideally ends before “the helicopter arrived at sunrise.”',url:'https://www.amazon.com/dp/1950785491?tag=blappos-20',salesPriority:5},
+      {title:'How to Read a Nautical Chart, 2nd Edition',image:'https://m.media-amazon.com/images/P/0071779825.01.LZZZZZZZ.jpg',alt:'Cover of How to Read a Nautical Chart, Second Edition by Nigel Calder',quip:'The paper-and-electronic-chart guide for turning reef contours into a plan instead of a surprise appointment.',url:'https://www.amazon.com/dp/0071779825?tag=blappos-20',salesPriority:5}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep19Stories.some(item => item.id === story.id));
+window.dailyStories.splice(0, 0, ...sep19Stories);

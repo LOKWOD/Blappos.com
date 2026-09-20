@@ -9,6 +9,15 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 - Start with the previous day. If fewer than three stories clear every gate, reach back no more than 14 days for exceptional bizarre stories and state the underlying event timing accurately.
 - Verify every factual recap against the linked reporting before publishing.
 
+### Daily four-slot mix
+
+- When credible current reporting supports it, build each edition from four distinct editorial roles: (1) one consequential and surprising U.S. or world-news story, (2) one genuinely absurd, visual and shareable story from anywhere, (3) one human, hopeful, impressive or fascinating story that gives the feed emotional balance, and (4) one **Main Character Energy** story based on documented public behavior.
+- Give the consequential story a factual, clear headline. Do not manufacture outrage, flatten a complex event into partisan bait, or force a grave story into a novelty treatment.
+- For Main Character Energy, make the joke about the documented behavior or situation. Never target a private person's appearance or personal life, identify an uninvolved private person in the product design, or imply an accusation the sourcing does not establish.
+- Every slot remains subordinate to the sourcing, safety, originality, magnet-desirability and purchase gates below. If one slot has no defensible candidate, publish fewer stories instead of forcing the mix.
+- Every selected item must earn an original collectible magnet concept. Use original illustration and short original copy; never use unlicensed news photography or a real person's name or likeness in the product design. Favor behavior- and situation-led concepts that remain funny or useful after the news cycle.
+- Preserve the established 1000-by-1000 Blappos card format and visual identity. Subtle recurring series labels are allowed only when they fit the existing design; they are not permission to redesign the collection.
+
 ### Magnet desirability — non-negotiable story-selection gate
 
 - A story does not qualify merely because it is strange or funny. Before commissioning art, confirm that its premise can become a magnet somebody would want to buy, give, and keep on display after the news cycle ends.

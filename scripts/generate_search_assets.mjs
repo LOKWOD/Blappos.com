@@ -47,6 +47,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'sep19-white-house-press': 'white-house-press',
+    'sep19-ai-actress-glitch': 'ai-actress-glitch',
+    'sep19-whitsundays-rescue': 'whitsundays-rescue',
     'sep18-estate-painting': 'estate-painting',
     'sep18-air-traffic-glitch': 'nats-glitch',
     'sep18-river-whale': 'river-whale'
@@ -183,7 +186,7 @@ for (const story of stories) {
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-09-19' },
+  { loc: `${origin}/verification/`, lastmod: '2026-09-20' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>

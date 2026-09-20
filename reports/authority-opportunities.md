@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-19
+Updated: 2026-09-20
 Status: research log only; no outreach sent.
+
+## White House Correspondents’ Association — press-access verification guide
+
+- Target: White House Correspondents’ Association board and public resources team
+- Route: https://whca.press/contact/
+- Matching Blappos asset: https://blappos.com/verification/#white-house-press
+- Honest pitch angle: A public evidence-role matrix that separates the documented credential revocations, the affected outlets’ constitutional claims and the unresolved legal question, with direct links to dated reporting.
+- Qualification: The association represents the White House press corps and issued a response to the access ban. Any optional contact should invite a factual correction or share of the verification method, never imply endorsement of the joke, illustration or commercial magnet.
+
+## SAG-AFTRA — synthetic-performer evidence boundary
+
+- Target: SAG-AFTRA Artificial Intelligence resources and communications team
+- Route: https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence
+- Matching Blappos asset: https://blappos.com/verification/#ai-actress-glitch
+- Honest pitch angle: A source ledger that distinguishes the observed language-switching output from unverified claims about the model, training data or technical cause, while accurately attributing the union’s position on synthetic performers.
+- Qualification: The organization quoted in reporting about the exact synthetic character and the labor issue most relevant to the story. Any optional message should request correction of the summary or share the evidence-boundary table, not seek a promotional link or imply union endorsement.
+
+## Australian Maritime Safety Authority — offshore-rescue checklist
+
+- Target: Australian Maritime Safety Authority media and boating-safety team
+- Route: https://www.amsa.gov.au/about/contact-us/media-enquiries
+- Matching Blappos asset: https://blappos.com/verification/#whitsundays-rescue
+- Honest pitch angle: A permanent rescue-source digest that records the reported life-jacket and EPIRB preparedness, separates the family’s navigation account from any technical finding and links the event to a concise evidence-role matrix.
+- Qualification: National maritime-safety authority credited in reporting on the rescue. Any optional outreach should invite a safety correction or optional sharing of the noncommercial verification asset, never imply AMSA endorsement of the magnet or diagnose the grounding.
 
 ## Freeman’s — rediscovered Gertrude Abercrombie painting
 
