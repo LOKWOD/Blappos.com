@@ -885,7 +885,7 @@ window.dailyStories.splice(0, 0, ...sep18Stories);
 const sep19Stories = [
   {
     id:'sep19-white-house-press',isoDate:'2026-09-19',month:'September',date:'Sep 19, 2026',place:'Washington, D.C.',image:'assets/cards/sep19-white-house-press.webp',
-    title:'White House revokes access for reporters from CNN, MS NOW and Politico',
+    title:'White House revokes access for reporters from CNN, MS NOW and Politico',magnetUrl:'https://blappos.printify.me/product/32181925',magnetPrice:'$9.99',
     facts:'Reuters reported that White House reporters from CNN, MS NOW and Politico were denied entry to the White House complex on September 19 after President Donald Trump announced a ban on the three organizations. The reporters said their passes were disabled or confiscated; all three outlets condemned the action and said they would defend their press-access rights.',
     why:'Access to the White House is part of how journalists observe public officials, ask questions and report government decisions to people who cannot be in the room. The affected organizations argue that the ban violates First Amendment protections, but that legal question had not been resolved when this story was published. Earlier credential disputes have produced court challenges, so the next meaningful development is evidence—a filing, order or policy change—not speculation.',
     angle:'Verified fact ends above. The Blappos interpretation: three press passes arrived for work and discovered the credential desk had become an editorial-review board. The physical magnet uses anonymous reporters and a fictional checkpoint; it does not reproduce a politician, journalist, outlet logo or news photograph.',
