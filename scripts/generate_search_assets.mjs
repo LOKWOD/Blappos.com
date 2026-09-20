@@ -148,7 +148,7 @@ for (const story of stories) {
   <header class="masthead"><a class="logo" href="../../" aria-label="Blappos home"><img src="../../assets/blappos-logo.png" alt="Blappos — Bad news. Great magnet." width="900" height="600"></a></header>
   <main>
     <article class="story standalone-story">
-      <img src="${image}" alt="Satirical Blappos illustration: ${escapeHtml(story.title)}" width="1000" height="1000">
+      ${story.magnetUrl ? `<a class="story-magnet-image" href="${escapeHtml(story.magnetUrl)}" target="_blank" rel="noopener" aria-label="Buy this Blappos magnet"><img src="${image}" alt="Satirical Blappos illustration: ${escapeHtml(story.title)}" width="1000" height="1000"><span>BUY THIS MAGNET · ${escapeHtml(story.magnetPrice || '$9.99')}</span></a>` : `<img src="${image}" alt="Satirical Blappos illustration: ${escapeHtml(story.title)}" width="1000" height="1000">`}
       <div class="story-copy">
         <span class="label">THE STORY BEHIND THE SATIRE · ${escapeHtml(story.place)} · ${escapeHtml(story.date)}</span>
         <h1>${escapeHtml(story.title)}</h1>
