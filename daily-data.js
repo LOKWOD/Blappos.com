@@ -898,7 +898,7 @@ const sep19Stories = [
   },
   {
     id:'sep19-ai-actress-glitch',isoDate:'2026-09-19',month:'September',date:'Sep 19, 2026',place:'London, England',image:'assets/cards/sep19-ai-actress-glitch.webp',
-    title:'AI actress changes languages mid-interview; technical difficulty requests representation',
+    title:'AI actress changes languages mid-interview; technical difficulty requests representation',magnetUrl:'https://blappos.printify.me/product/32181944',magnetPrice:'$9.99',
     facts:'People reported that the AI-generated character Tilly Norwood switched into Cantonese for roughly 15 seconds during a video interview while promoting the film “Misaligned.” The character was created by Particle6, and the interview clip drew more than 12 million views. The company described the language switch as a technical problem.',
     why:'The malfunction was funny on its face, but the larger story concerns what audiences are being asked to treat as a performer. SAG-AFTRA has objected that the character is generated from human performers’ work and is not an actor, while its creators are presenting it inside familiar publicity and representation systems. The glitch made that unresolved labor-and-authorship debate unusually visible.',
     angle:'Verified fact ends above. The Blappos interpretation: technical difficulties have completed media training, hired an agent and booked the interview circuit. The card depicts a fictional synthetic mannequin in a generic studio—not the named character, a real host or any copyrighted production design.',
