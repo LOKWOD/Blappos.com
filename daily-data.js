@@ -911,7 +911,7 @@ const sep19Stories = [
   },
   {
     id:'sep19-whitsundays-rescue',isoDate:'2026-09-19',month:'September',date:'Sep 19, 2026',place:'Whitsundays, Australia',image:'assets/cards/sep19-whitsundays-rescue.webp',
-    title:'Rescue crew winches family of four from yacht grounded on remote reef',
+    title:'Rescue crew winches family of four from yacht grounded on remote reef',magnetUrl:'https://blappos.printify.me/product/32181947',magnetPrice:'$9.99',
     facts:'News.com.au reported that a family of four was rescued after its yacht grounded on Elizabeth Reef, about 100 kilometers north of the Whitsundays, early September 19. A BMA CQ Rescue helicopter reached the vessel around sunrise, lowered a rescue swimmer and winched each family member aboard individually because the yacht’s mast complicated the approach. All four reached shore; the father was treated for a reported head injury.',
     why:'A successful rescue can look instantaneous in one dramatic image, but this one depended on navigation, aircraft positioning, a rescue swimmer, individual harnessing and medical care in a remote marine setting. The family’s survival is the headline; the useful lesson is that offshore passages require current charts, redundant navigation habits and a plan for summoning professional help.',
     angle:'Verified fact ends above. The Blappos interpretation: the family booked four one-way tickets on an airline whose entire route map was a winch cable. The magnet celebrates the coordinated rescue with anonymous figures and an original scene; it is not incident photography and does not identify the family.',
