@@ -47,6 +47,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'sep20-turf-heat': 'turf-heat',
+    'sep20-koala-bedroom': 'koala-bedroom',
+    'sep20-time-trial-record': 'time-trial-record',
     'sep19-white-house-press': 'white-house-press',
     'sep19-ai-actress-glitch': 'ai-actress-glitch',
     'sep19-whitsundays-rescue': 'whitsundays-rescue',

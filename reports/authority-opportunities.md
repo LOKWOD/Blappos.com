@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-20
+Updated: 2026-09-21
 Status: research log only; no outreach sent.
+
+## California OEHHA — synthetic-turf heat evidence guide
+
+- Target: California Office of Environmental Health Hazard Assessment synthetic-turf study team
+- Route: https://oehha.ca.gov/risk-assessment/synthetic-turf-studies
+- Matching Blappos asset: https://blappos.com/verification/#turf-heat
+- Honest pitch angle: A public source ledger that distinguishes air temperature from a point-in-time field-surface reading, records the visible footwear response and gives readers a reusable measurement-and-claim-boundary table.
+- Qualification: A state scientific agency with an established public synthetic-turf research resource. Any optional contact should invite correction or sharing of the noncommercial evidence guide, never imply that OEHHA verified this broadcast reading or endorsed the story, illustration or magnet.
+
+## Wildlife Victoria — wildlife-in-buildings evidence boundary
+
+- Target: Wildlife Victoria education and communications team
+- Route: https://www.wildlifevictoria.org.au/contact-us
+- Matching Blappos asset: https://blappos.com/verification/#koala-bedroom
+- Honest pitch angle: A carefully dated urban-wildlife entry that separates the resident's reported encounter from the wider habitat context and refuses to assign a specific motive to one koala.
+- Qualification: A relevant Australian wildlife-rescue and education organization. Any optional message should seek a safety or habitat-context correction, not ask for promotion, imply participation in the Inverell rescue or suggest endorsement of a commercial product.
+
+## Union Cycliste Internationale — time-trial record source digest
+
+- Target: UCI media centre and World Championships communications team
+- Route: https://www.uci.org/press-releases
+- Matching Blappos asset: https://blappos.com/verification/#time-trial-record
+- Honest pitch angle: A compact record ledger preserving the exact course distance, winning time, margin and consecutive-title milestone while separating the official result from any unsupported performance explanation.
+- Qualification: International governing body for the championship and the authoritative destination for results. Any optional contact should invite a correction or optional share of the record digest, never imply UCI approval of the joke, illustration or magnet.
 
 ## White House Correspondents’ Association — press-access verification guide
 
