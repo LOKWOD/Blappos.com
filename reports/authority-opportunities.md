@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-21
+Updated: 2026-09-22
 Status: research log only; no outreach sent.
+
+## Gates Foundation — representative AI language-data initiative
+
+- Target: Gates Foundation global communications and artificial-intelligence initiative team
+- Route: https://www.gatesfoundation.org/about/contact
+- Matching Blappos asset: https://blappos.com/verification/#ai-language-data
+- Honest pitch angle: A permanent evidence entry that preserves the coalition size, five-year goal and Malawi mistranslation example while clearly separating announced ambitions from completed language coverage.
+- Qualification: The foundation announced the initiative and is the primary source for its stated scope. Any optional message should invite a factual correction or sharing of the noncommercial evidence guide, never imply that the foundation endorsed the satire, illustration or magnet.
+
+## Lemur Conservation Network — indri song and conservation explainer
+
+- Target: Lemur Conservation Network education and communications team
+- Route: https://www.lemurconservationnetwork.org/contact/
+- Matching Blappos asset: https://blappos.com/verification/#singing-lemurs
+- Honest pitch angle: A concise research-to-reader digest that records the animal sample, formant-tuning finding and critically endangered status while warning against turning a comparable acoustic mechanism into a claim about human-like intent.
+- Qualification: A tightly relevant conservation-education network with species and habitat resources for Madagascar. Any optional contact should invite scientific or conservation-context corrections, not request a commercial endorsement or suggest participation in the study.
+
+## Netarts-Oceanside Fire District — Lost Boy Beach tide-safety case study
+
+- Target: Netarts-Oceanside Rural Fire Protection District public-information team
+- Route: https://www.netartsoceansidefire.org/
+- Matching Blappos asset: https://blappos.com/verification/#tide-photo
+- Honest pitch angle: A dated coastal-safety entry that distinguishes the September 16 rescue from the September 21 report, preserves the satellite-SOS and rescue-swimmer details, and turns the incident into a reusable publication-date-versus-event-date example.
+- Qualification: The exact responding rescue organization cited in the reporting. Any optional contact should invite a factual or tide-safety correction, never identify or mock the private tourists, imply department endorsement or ask the district to promote the magnet.
 
 ## California OEHHA — synthetic-turf heat evidence guide
 
