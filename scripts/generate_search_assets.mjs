@@ -189,7 +189,7 @@ for (const story of stories) {
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-09-20' },
+  { loc: `${origin}/verification/`, lastmod: '2026-09-21' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
