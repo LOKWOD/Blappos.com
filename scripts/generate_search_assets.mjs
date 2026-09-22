@@ -47,6 +47,10 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'sep21-ai-language-data': 'ai-language-data',
+    'sep21-cow-airlift': 'cow-airlift',
+    'sep21-singing-lemurs': 'singing-lemurs',
+    'sep21-tide-photo': 'tide-photo',
     'sep20-turf-heat': 'turf-heat',
     'sep20-koala-bedroom': 'koala-bedroom',
     'sep20-time-trial-record': 'time-trial-record',
