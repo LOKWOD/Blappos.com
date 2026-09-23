@@ -976,7 +976,7 @@ const sep22Stories = [
   },
   {
     id:'sep22-inconvenience-store',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Seattle, Washington',image:'assets/cards/sep22-inconvenience-store.webp',
-    title:'Seattle opens an “Inconvenience Store” with pre-tangled USB cords',
+    title:'Seattle opens an “Inconvenience Store” with pre-tangled USB cords',magnetUrl:'https://blappos.printify.me/product/32298909',magnetPrice:'$9.99',
     facts:'Artists transformed a former 7-Eleven at Third Avenue and Pine Street into the Inconvenience Store, a temporary downtown Seattle exhibition arranged like a deliberately malfunctioning retail shop. The September 22 report described work from more than 70 mostly local artists across 14 mock departments, including pre-tangled USB cords, egg-shaped candles, snack-bag shoulder bags and an ATM sound sculpture. Admission is free; objects range from $1 to $10,000.',
     why:'The project gives artists a highly visible storefront and turns an empty commercial space into a public cultural venue. It also asks visitors to look again at ordinary packaging, checkout rituals and disposable objects. The joke is an intentional art premise—not a claim that a real shop is deceiving customers—and the installation is expected to remain open on weekends into 2027.',
     angle:'Verified fact ends above. The Blappos interpretation: Seattle has finally opened a store where the USB cable arrives in its natural adult form. Main Character Energy belongs to the entire art project: it saw an empty convenience store and restocked it with beautifully organized inconvenience.',
