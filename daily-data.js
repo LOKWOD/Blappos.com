@@ -950,7 +950,7 @@ const sep22Stories = [
   },
   {
     id:'sep22-giant-baked-beans',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Kelkit, Türkiye',image:'assets/cards/sep22-giant-baked-beans.webp',
-    title:'Turkish town cooks the world’s largest pot of baked beans',
+    title:'Turkish town cooks the world’s largest pot of baked beans',magnetUrl:'https://blappos.printify.me/product/32298901',magnetPrice:'$9.99',
     facts:'Guinness World Records announced on September 22 that Kelkit, in Türkiye’s Gümüşhane province, produced 6,840 liters (1,807 US gallons) of baked beans in a single enormous pot. The August 22 cook used the region’s Kelkit Şeker Fasulyesi beans, equaled more than 15,000 standard cans and surpassed the previous 5,600-liter record.',
     why:'The record turned a regional ingredient into a large public demonstration of local food culture and coordination. Organizers included the Kelkit Chamber of Commerce and Industry, the Gümüşhane Governorship and Kelkit Municipality, with an official Guinness adjudicator present. The publication date and event date are different: the cook happened August 22; Guinness published its account September 22.',
     angle:'Verified fact ends above. The Blappos interpretation: Kelkit looked at the phrase “side dish” and identified a fatal lack of ambition. The serving vessel was roughly one and a half grand pianos wide; the refrigerator magnet is mercifully three inches.',
