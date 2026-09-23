@@ -208,3 +208,18 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 
 /* Site-only cleanup for artwork with white corner fill. The source image stays unchanged for Printify. */
 .hero-card img{mix-blend-mode:multiply}
+
+/* Public source ledger */
+.verification-ledger{max-width:920px;margin:0 auto}
+.ledger-index{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:28px 0 42px}
+.ledger-index a{padding:13px;border:2px solid var(--ink);background:var(--gold);color:var(--ink);font-size:.72rem;font-weight:800;letter-spacing:.06em;text-decoration:none;text-transform:uppercase}
+.ledger-entry{margin:34px 0;padding:26px;border:2px solid var(--ink);background:#fff;box-shadow:7px 7px 0 var(--blue)}
+.story-copy .ledger-entry h2{margin:8px 0 16px;color:var(--ink);font:400 clamp(1.9rem,4vw,3.2rem)/1 Anton,sans-serif;letter-spacing:0;text-transform:uppercase}
+.ledger-entry p{margin:10px 0}
+.ledger-entry a{color:var(--blue);font-weight:700;text-underline-offset:3px}
+.ledger-table-wrap{margin:18px 0;overflow-x:auto}
+.ledger-table{width:100%;min-width:720px;border-collapse:collapse;background:#fff;font-size:.92rem;line-height:1.45}
+.ledger-table th,.ledger-table td{padding:12px 14px;border:1px solid var(--ink);text-align:left;vertical-align:top}
+.ledger-table th{background:var(--ink);color:#fff;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase}
+.ledger-table tbody tr:nth-child(even){background:#f6eedc}
+@media(max-width:560px){.ledger-index{grid-template-columns:1fr}.ledger-entry{padding:20px;box-shadow:5px 5px 0 var(--blue)}}

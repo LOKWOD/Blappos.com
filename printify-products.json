@@ -423,6 +423,228 @@
       "printify_product_id": "6aa69ceeb097d7c5f4043a55",
       "external_id": "31933191",
       "product_url": "https://blappos.printify.me/product/31933191"
+    },
+    "sep13-guinness-heist": {
+      "story_id": "sep13-guinness-heist",
+      "printify_product_id": "6aa75e7afb35dc4eb5096e6f",
+      "external_id": "31956180",
+      "product_url": "https://blappos.printify.me/product/31956180"
+    },
+    "sep13-self-driving-cab": {
+      "story_id": "sep13-self-driving-cab",
+      "printify_product_id": "6aa75e87b76267a1330dfa9b",
+      "external_id": "31956185",
+      "product_url": "https://blappos.printify.me/product/31956185"
+    },
+    "sep13-mustang-plane": {
+      "story_id": "sep13-mustang-plane",
+      "printify_product_id": "6aa75e93fb35dc4eb5096e89",
+      "external_id": "31956190",
+      "product_url": "https://blappos.printify.me/product/31956190"
+    },
+    "sep13-elephant-football": {
+      "story_id": "sep13-elephant-football",
+      "printify_product_id": "6aa8628e47497f7d7d08b3df",
+      "external_id": "31980546",
+      "product_url": "https://blappos.printify.me/product/31980546"
+    },
+    "sep13-plastic-cookies": {
+      "story_id": "sep13-plastic-cookies",
+      "printify_product_id": "6aa862a8a2a1664aff03a31c",
+      "external_id": "31980557",
+      "product_url": "https://blappos.printify.me/product/31980557"
+    },
+    "sep13-paragliding-grandpa": {
+      "story_id": "sep13-paragliding-grandpa",
+      "printify_product_id": "6aa862c5b712da2d6d0da0a8",
+      "external_id": "31980562",
+      "product_url": "https://blappos.printify.me/product/31980562"
+    },
+    "sep14-nato-birds": {
+      "story_id": "sep14-nato-birds",
+      "printify_product_id": "6aa9471f33345123300e7c14",
+      "external_id": "32000124",
+      "product_url": "https://blappos.printify.me/product/32000124"
+    },
+    "sep14-pacific-scream": {
+      "story_id": "sep14-pacific-scream",
+      "printify_product_id": "6aa9472c4651913d110d3b19",
+      "external_id": "32000128",
+      "product_url": "https://blappos.printify.me/product/32000128"
+    },
+    "sep14-golden-modak": {
+      "story_id": "sep14-golden-modak",
+      "printify_product_id": "6aa9473f40aa69bcec0466ab",
+      "external_id": "32000137",
+      "product_url": "https://blappos.printify.me/product/32000137"
+    },
+    "sep14-paper-planes": {
+      "story_id": "sep14-paper-planes",
+      "printify_product_id": "6aaa027d50f30a85b9047c85",
+      "external_id": "32023725",
+      "product_url": "https://blappos.printify.me/product/32023725"
+    },
+    "sep14-bat-train": {
+      "story_id": "sep14-bat-train",
+      "printify_product_id": "6aaa028bdca52244a6045083",
+      "external_id": "32023730",
+      "product_url": "https://blappos.printify.me/product/32023730"
+    },
+    "sep14-emu-chase": {
+      "story_id": "sep14-emu-chase",
+      "printify_product_id": "6aaa02993bf706b6080c8603",
+      "external_id": "32023735",
+      "product_url": "https://blappos.printify.me/product/32023735"
+    },
+    "sep15-vulcan-salute": {
+      "story_id": "sep15-vulcan-salute",
+      "printify_product_id": "6aaa8d55dfdf7a1c750c9a20",
+      "external_id": "32032901",
+      "product_url": "https://blappos.printify.me/product/32032901"
+    },
+    "sep15-rambo-pipe": {
+      "story_id": "sep15-rambo-pipe",
+      "printify_product_id": "6aaa8d644f0ea50b280712a6",
+      "external_id": "32032905",
+      "product_url": "https://blappos.printify.me/product/32032905"
+    },
+    "sep15-elk-windshield": {
+      "story_id": "sep15-elk-windshield",
+      "printify_product_id": "6aaa8d7137f4ecc04c080db2",
+      "external_id": "32032916",
+      "product_url": "https://blappos.printify.me/product/32032916"
+    },
+    "sep15-overdue-magazine": {
+      "story_id": "sep15-overdue-magazine",
+      "printify_product_id": "6aaa8d7e37f4ecc04c080db8",
+      "external_id": "32032925",
+      "product_url": "https://blappos.printify.me/product/32032925"
+    },
+    "sep16-pickle-patty": {
+      "story_id": "sep16-pickle-patty",
+      "printify_product_id": "6aab82cbbae389a1ab051c21",
+      "external_id": "32063674",
+      "product_url": "https://blappos.printify.me/product/32063674"
+    },
+    "sep16-salt-pepper-record": {
+      "story_id": "sep16-salt-pepper-record",
+      "printify_product_id": "6aabe17f8c5c7419de0c6532",
+      "external_id": "32068706",
+      "product_url": "https://blappos.printify.me/product/32068706"
+    },
+    "sep16-yellowstone-trash": {
+      "story_id": "sep16-yellowstone-trash",
+      "printify_product_id": "6aabe18f60bb70ed1604c779",
+      "external_id": "32068726",
+      "product_url": "https://blappos.printify.me/product/32068726"
+    },
+    "sep16-tiger-hoax": {
+      "story_id": "sep16-tiger-hoax",
+      "printify_product_id": "6aabe19dca32e1d67d0bf186",
+      "external_id": "32068734",
+      "product_url": "https://blappos.printify.me/product/32068734"
+    },
+    "sep17-santa-fe-horse": {
+      "story_id": "sep17-santa-fe-horse",
+      "printify_product_id": "6aad31238db05496c406f5c4",
+      "external_id": "32105357",
+      "product_url": "https://blappos.printify.me/product/32105357"
+    },
+    "sep17-slim-jim-record": {
+      "story_id": "sep17-slim-jim-record",
+      "printify_product_id": "6aad3132c0ea00259a014982",
+      "external_id": "32105370",
+      "product_url": "https://blappos.printify.me/product/32105370"
+    },
+    "sep17-sea-snake": {
+      "story_id": "sep17-sea-snake",
+      "printify_product_id": "6aad313f299748ded40ac98e",
+      "external_id": "32105374",
+      "product_url": "https://blappos.printify.me/product/32105374"
+    },
+    "sep18-estate-painting": {
+      "story_id": "sep18-estate-painting",
+      "printify_product_id": "6aae842940a05ae6360850ad",
+      "external_id": "32144530",
+      "product_url": "https://blappos.printify.me/product/32144530"
+    },
+    "sep18-air-traffic-glitch": {
+      "story_id": "sep18-air-traffic-glitch",
+      "printify_product_id": "6aae8435d9a6ce79b604e347",
+      "external_id": "32144537",
+      "product_url": "https://blappos.printify.me/product/32144537"
+    },
+    "sep18-river-whale": {
+      "story_id": "sep18-river-whale",
+      "printify_product_id": "6aae8441f2f7a51f4c0e326d",
+      "external_id": "32144552",
+      "product_url": "https://blappos.printify.me/product/32144552"
+    },
+    "sep19-white-house-press": {
+      "story_id": "sep19-white-house-press",
+      "printify_product_id": "6aafdc585d8b0f03f90ae104",
+      "external_id": "32181925",
+      "product_url": "https://blappos.printify.me/product/32181925"
+    },
+    "sep19-ai-actress-glitch": {
+      "story_id": "sep19-ai-actress-glitch",
+      "printify_product_id": "6aafdc65350baaa3bb0cf397",
+      "external_id": "32181944",
+      "product_url": "https://blappos.printify.me/product/32181944"
+    },
+    "sep19-whitsundays-rescue": {
+      "story_id": "sep19-whitsundays-rescue",
+      "printify_product_id": "6aafdc72a812fa6c420e07b5",
+      "external_id": "32181947",
+      "product_url": "https://blappos.printify.me/product/32181947"
+    },
+    "sep20-turf-heat": {
+      "story_id": "sep20-turf-heat",
+      "printify_product_id": "6ab12ebf3ab64fda46063cbb",
+      "external_id": "32220182",
+      "product_url": "https://blappos.printify.me/product/32220182"
+    },
+    "sep20-koala-bedroom": {
+      "story_id": "sep20-koala-bedroom",
+      "printify_product_id": "6ab12ecc3ab64fda46063ccb",
+      "external_id": "32220186",
+      "product_url": "https://blappos.printify.me/product/32220186"
+    },
+    "sep20-time-trial-record": {
+      "story_id": "sep20-time-trial-record",
+      "printify_product_id": "6ab12ed8acf0860efd00bfab",
+      "external_id": "32220192",
+      "product_url": "https://blappos.printify.me/product/32220192"
+    },
+    "sep21-ai-language-data": {
+      "story_id": "sep21-ai-language-data",
+      "printify_product_id": "6ab27a574fba5f26c6069164",
+      "external_id": "32260696",
+      "product_url": "https://blappos.printify.me/product/32260696"
+    },
+    "sep21-cow-airlift": {
+      "story_id": "sep21-cow-airlift",
+      "printify_product_id": "6ab27a6971d8fe9b9908bb13",
+      "external_id": "32260700",
+      "product_url": "https://blappos.printify.me/product/32260700"
+    },
+    "sep21-singing-lemurs": {
+      "story_id": "sep21-singing-lemurs",
+      "printify_product_id": "6ab27a76d326c9820304b583",
+      "external_id": "32260702",
+      "product_url": "https://blappos.printify.me/product/32260702"
+    },
+    "sep21-tide-photo": {
+      "story_id": "sep21-tide-photo",
+      "printify_product_id": "6ab27a83467def73400a8440",
+      "external_id": "32260704",
+      "product_url": "https://blappos.printify.me/product/32260704"
+    },
+    "sep23-beijing-spray-gun": {
+      "story_id": "sep23-beijing-spray-gun",
+      "printify_product_id": "6ab360fb56678846040d394b",
+      "external_id": "32291842",
+      "product_url": "https://blappos.printify.me/product/32291842"
     }
   }
 }

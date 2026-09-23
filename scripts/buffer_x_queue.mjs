@@ -1,0 +1,270 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+
+const API_URL = 'https://api.buffer.com';
+const SITE_URL = 'https://blappos.com';
+const RAW_ASSET_URL = 'https://raw.githubusercontent.com/LOKWOD/Blappos.com/main';
+const MAX_QUEUE = 10;
+const MAX_PER_RUN = Number(process.env.BUFFER_POSTS_PER_RUN || 5);
+const targetDate = process.env.BUFFER_TARGET_DATE || '';
+const forceCurrentEdition = process.env.BUFFER_FORCE_CURRENT_EDITION === 'true';
+const shareMode = forceCurrentEdition ? 'shareNow' : (process.env.BUFFER_SHARE_MODE || 'addToQueue');
+const sameDaySpacing = process.env.BUFFER_SAME_DAY_SPACING !== 'false';
+const sameDayRepairHours = Number(process.env.BUFFER_SAME_DAY_REPAIR_HOURS || 6);
+const sameDayInitialDelayMinutes = Number(process.env.BUFFER_SAME_DAY_INITIAL_DELAY_MINUTES || 20);
+const sameDaySpacingMinutes = Number(process.env.BUFFER_SAME_DAY_SPACING_MINUTES || 45);
+const token = process.env.BUFFER_API_KEY;
+
+function sameDayDueAt(index) {
+  const minutes = sameDayInitialDelayMinutes + (index * sameDaySpacingMinutes);
+  return new Date(Date.now() + minutes * 60_000).toISOString();
+}
+
+if (!token) throw new Error('BUFFER_API_KEY is not set');
+
+async function graphql(query, variables = {}) {
+  const response = await fetch(API_URL, {
+    method: 'POST',
+    headers: {
+      authorization: `Bearer ${token}`,
+      'content-type': 'application/json',
+    },
+    body: JSON.stringify({ query, variables }),
+  });
+  const body = await response.json();
+  if (!response.ok || body.errors?.length) {
+    throw new Error(`Buffer API error: ${JSON.stringify(body.errors || body)}`);
+  }
+  return body.data;
+}
+
+function loadStories() {
+  const source = fs.readFileSync('daily-data.js', 'utf8');
+  const context = { window: {} };
+  vm.createContext(context);
+  vm.runInContext(source, context, { filename: 'daily-data.js' });
+  return [...(context.window.dailyStories || [])]
+    .filter(story => story.id && story.isoDate && story.image && story.title)
+    .sort((a, b) => b.isoDate.localeCompare(a.isoDate));
+}
+
+function postText(story, service) {
+  const url = `${SITE_URL}/stories/${story.id}/`;
+  const place = story.place ? `${story.place}: ` : '';
+  const text = service === 'instagram'
+    ? `${place}${story.title}\n\nThe facts, the context, and the Blappos angle:\n${url}\n\n#Blappos #WeirdNews #Satire #NewsIllustration`
+    : `${place}${story.title}\n\n${url}`;
+  if (service === 'twitter' && text.length > 280) throw new Error(`X post exceeds 280 characters: ${story.id}`);
+  return text;
+}
+
+async function main() {
+  const account = await graphql(`query { account { organizations { id name } } }`);
+  const organizations = account.account.organizations;
+  if (!organizations.length) throw new Error('No Buffer organization found');
+
+  const selections = [];
+  for (const organization of organizations) {
+    const data = await graphql(
+      `query Channels($input: ChannelsInput!) {
+        channels(input: $input) {
+          id name service isDisconnected isLocked isQueuePaused organizationId
+        }
+      }`,
+      { input: { organizationId: organization.id, filter: { isLocked: false } } },
+    );
+    for (const channel of data.channels.filter(item => (item.service === 'twitter' || item.service === 'instagram' || item.service.startsWith('facebook')) && !item.isDisconnected)) {
+      selections.push({ organization, channel });
+    }
+  }
+  if (!selections.length) throw new Error('No connected, unlocked Instagram, X/Twitter or Facebook channel found in Buffer');
+
+  for (const selected of selections) {
+    if (selected.channel.isQueuePaused) {
+      console.log(`Skipping paused ${selected.channel.service} channel ${selected.channel.name}.`);
+      continue;
+    }
+
+  const scheduled = await graphql(
+    `query ScheduledPosts($input: PostsInput!, $first: Int) {
+      posts(input: $input, first: $first) {
+        edges { node { id text dueAt status channelId } }
+      }
+    }`,
+    {
+      input: {
+        organizationId: selected.organization.id,
+        filter: { channelIds: [selected.channel.id], status: ['scheduled', 'sending', 'sent'] },
+        sort: [{ field: 'dueAt', direction: 'desc' }],
+      },
+      first: 50,
+    },
+  );
+
+  let knownPosts = scheduled.posts.edges.map(edge => edge.node);
+  const allStories = loadStories();
+  const editionDate = targetDate || allStories[0]?.isoDate;
+  const editionStories = allStories.filter(story => story.isoDate === editionDate);
+  const incompleteEdition = editionStories.filter(story => !story.magnetUrl || !story.magnetPrice);
+  const unpublishedMagnetLinks = editionStories.filter(story => {
+    const storyPage = `stories/${story.id}/index.html`;
+    return !fs.existsSync(storyPage) || !fs.readFileSync(storyPage, 'utf8').includes(story.magnetUrl || '__missing_magnet__');
+  });
+
+  // A social post is the last publishing step. Hold the entire edition until
+  // every story has a real Printify destination so Buffer cannot promote a
+  // card whose permanent page is still waiting on its physical product.
+  if (incompleteEdition.length || unpublishedMagnetLinks.length) {
+    console.log(`Holding ${editionDate} on ${selected.channel.service}: ${incompleteEdition.length} magnet link(s) are incomplete and ${unpublishedMagnetLinks.length} permanent page(s) do not yet contain the exact product URL.`);
+    continue;
+  }
+
+  if (sameDaySpacing && !forceCurrentEdition) {
+    const editionIds = new Set(editionStories.map(story => story.id));
+    const cutoff = Date.now() + sameDayRepairHours * 60 * 60 * 1000;
+    const delayedEditionPosts = knownPosts.filter(post =>
+      (post.status === 'scheduled' || post.status === 'sending') &&
+      post.dueAt &&
+      Date.parse(post.dueAt) > cutoff &&
+      [...editionIds].some(id => post.text.includes(`/stories/${id}/`)),
+    );
+    if (delayedEditionPosts.length) {
+      const deletion = `mutation DeletePost($input: DeletePostInput!) {
+        deletePost(input: $input) {
+          __typename
+          ... on DeletePostSuccess { id }
+          ... on MutationError { message }
+        }
+      }`;
+      for (const post of delayedEditionPosts) {
+        const result = await graphql(deletion, { input: { id: post.id } });
+        if (result.deletePost.__typename !== 'DeletePostSuccess') {
+          throw new Error(`Could not remove delayed queue post ${post.id}: ${result.deletePost.message || result.deletePost.__typename}`);
+        }
+        console.log(`Removed delayed ${selected.channel.service} queue copy ${post.id} scheduled for ${post.dueAt}; it will be rebuilt into today's delivery window.`);
+      }
+      const removedIds = new Set(delayedEditionPosts.map(post => post.id));
+      knownPosts = knownPosts.filter(post => !removedIds.has(post.id));
+    }
+  }
+
+  if (forceCurrentEdition) {
+    const editionIds = new Set(allStories.filter(story => story.isoDate === editionDate).map(story => story.id));
+    const queuedEditionPosts = knownPosts.filter(post =>
+      (post.status === 'scheduled' || post.status === 'sending') &&
+      [...editionIds].some(id => post.text.includes(`/stories/${id}/`)),
+    );
+    const deletion = `mutation DeletePost($input: DeletePostInput!) {
+      deletePost(input: $input) {
+        __typename
+        ... on DeletePostSuccess { id }
+        ... on MutationError { message }
+      }
+    }`;
+    for (const post of queuedEditionPosts) {
+      const result = await graphql(deletion, { input: { id: post.id } });
+      if (result.deletePost.__typename !== 'DeletePostSuccess') {
+        throw new Error(`Could not remove queued post ${post.id}: ${result.deletePost.message || result.deletePost.__typename}`);
+      }
+      console.log(`Removed future queue copy ${post.id} before immediate publishing.`);
+    }
+    const removedIds = new Set(queuedEditionPosts.map(post => post.id));
+    knownPosts = knownPosts.filter(post => !removedIds.has(post.id));
+  }
+  const queued = knownPosts.filter(post => post.status === 'scheduled' || post.status === 'sending');
+  const capacity = Math.max(0, MAX_QUEUE - queued.length);
+  const existingText = knownPosts.map(post => post.text).join('\n');
+  const candidates = allStories.filter(story =>
+    story.isoDate === editionDate &&
+    !existingText.includes(`/stories/${story.id}/`),
+  );
+  const stories = candidates.slice(0, Math.min(MAX_PER_RUN, capacity));
+
+  if (selected.channel.service === 'instagram') {
+    const editionIds = new Set(allStories.filter(story => story.isoDate === editionDate).map(story => story.id));
+    const scheduledEditionPosts = knownPosts.filter(post =>
+      (post.status === 'scheduled' || post.status === 'sending') &&
+      [...editionIds].some(id => post.text.includes(`/stories/${id}/`)),
+    );
+    const editMutation = `mutation EditPost($input: EditPostInput!) {
+      editPost(input: $input) {
+        __typename
+        ... on PostActionSuccess { post { id status dueAt } }
+        ... on MutationError { message }
+      }
+    }`;
+    for (const post of scheduledEditionPosts) {
+      const story = allStories.find(item => post.text.includes(`/stories/${item.id}/`));
+      if (!story) continue;
+      const imageUrl = `${RAW_ASSET_URL}/${story.image.replace(/^\//, '')}`;
+      const result = await graphql(editMutation, {
+        input: {
+          id: post.id,
+          text: post.text,
+          assets: [{ image: { url: imageUrl, thumbnailUrl: imageUrl, metadata: { altText: story.title } } }],
+          metadata: { instagram: { type: 'post', shouldShareToFeed: true, isAiGenerated: true } },
+          aiAssisted: true,
+        },
+      });
+      if (result.editPost.__typename !== 'PostActionSuccess') {
+        throw new Error(`Could not apply Instagram AI disclosure to ${post.id}: ${result.editPost.message || result.editPost.__typename}`);
+      }
+      console.log(`Confirmed Instagram AI disclosure on ${post.id}.`);
+    }
+  }
+
+    if (!stories.length) {
+      console.log(`Nothing queued on ${selected.channel.service}: ${queued.length}/${MAX_QUEUE} slots are occupied or all current stories are present.`);
+      continue;
+    }
+
+  const mutation = `mutation CreatePost($input: CreatePostInput!) {
+    createPost(input: $input) {
+      __typename
+      ... on PostActionSuccess { post { id text dueAt status } }
+      ... on InvalidInputError { message }
+      ... on LimitReachedError { message }
+      ... on NotFoundError { message }
+      ... on UnauthorizedError { message }
+      ... on UnexpectedError { message }
+      ... on RestProxyError { message }
+    }
+  }`;
+
+  const effectiveMode = shareMode === 'addToQueue' && sameDaySpacing ? 'customScheduled' : shareMode;
+  for (const [index, story] of stories.reverse().entries()) {
+    // Fetch art from the source commit path instead of the Pages CDN. On a
+    // fresh publish, Pages can lag the data push by a minute and Buffer then
+    // rejects an otherwise valid image URL.
+    const imageUrl = `${RAW_ASSET_URL}/${story.image.replace(/^\//, '')}`;
+    const result = await graphql(mutation, {
+      input: {
+        channelId: selected.channel.id,
+        text: postText(story, selected.channel.service),
+        assets: [{ image: { url: imageUrl, thumbnailUrl: imageUrl, metadata: { altText: story.title } } }],
+        metadata: selected.channel.service === 'twitter'
+          ? { twitter: { isAiGenerated: true } }
+          : selected.channel.service.startsWith('facebook')
+            ? { facebook: { type: 'post' } }
+            : selected.channel.service === 'instagram'
+              ? { instagram: { type: 'post', shouldShareToFeed: true, isAiGenerated: true } }
+              : {},
+        mode: effectiveMode,
+        ...(effectiveMode === 'customScheduled' ? { dueAt: sameDayDueAt(index) } : {}),
+        schedulingType: 'automatic',
+        needsApproval: false,
+        saveToDraft: false,
+        aiAssisted: true,
+        source: 'blappos-github-actions',
+      },
+    });
+    const payload = result.createPost;
+    if (payload.__typename !== 'PostActionSuccess') {
+      throw new Error(`Buffer rejected ${story.id}: ${payload.message || payload.__typename}`);
+    }
+      console.log(`Queued ${story.id} on ${selected.channel.service} as Buffer post ${payload.post.id} for ${payload.post.dueAt} using ${effectiveMode}`);
+    }
+  }
+}
+
+await main();

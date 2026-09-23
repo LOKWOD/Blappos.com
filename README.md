@@ -6,8 +6,17 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 
 ## Editorial rules
 
-- Publish three to ten non-duplicate stories from the previous day.
+- Start with the previous day. If fewer than three stories clear every gate, reach back no more than 14 days for exceptional bizarre stories and state the underlying event timing accurately.
 - Verify every factual recap against the linked reporting before publishing.
+
+### Daily four-slot mix
+
+- When credible current reporting supports it, build each edition from four distinct editorial roles: (1) one consequential and surprising U.S. or world-news story, (2) one genuinely absurd, visual and shareable story from anywhere, (3) one human, hopeful, impressive or fascinating story that gives the feed emotional balance, and (4) one **Main Character Energy** story based on documented public behavior.
+- Give the consequential story a factual, clear headline. Do not manufacture outrage, flatten a complex event into partisan bait, or force a grave story into a novelty treatment.
+- For Main Character Energy, make the joke about the documented behavior or situation. Never target a private person's appearance or personal life, identify an uninvolved private person in the product design, or imply an accusation the sourcing does not establish.
+- Every slot remains subordinate to the sourcing, safety, originality, magnet-desirability and purchase gates below. If one slot has no defensible candidate, publish fewer stories instead of forcing the mix.
+- Every selected item must earn an original collectible magnet concept. Use original illustration and short original copy; never use unlicensed news photography or a real person's name or likeness in the product design. Favor behavior- and situation-led concepts that remain funny or useful after the news cycle.
+- Preserve the established 1000-by-1000 Blappos card format and visual identity. Subtle recurring series labels are allowed only when they fit the existing design; they are not permission to redesign the collection.
 
 ### Magnet desirability — non-negotiable story-selection gate
 
@@ -16,6 +25,16 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 - Prefer animals, food, vehicles, travel, records, local pride, work and family humor, and absurd everyday situations with a strong visual action. Reject grim tragedy, partisan bait, niche technical context, weak visual premises, and jokes that require a paragraph of explanation.
 - Score every candidate from 1–5 for visual clarity, punchline strength, giftability, broad appeal, and evergreen display value. Publish only stories scoring at least 18/25, with no category below 3.
 - If the available news does not produce a buyable magnet concept, publish fewer stories instead of padding the edition.
+
+### Comedy intensity — non-negotiable edge gate
+
+- "Odd" is not enough. Every selected story needs an immediate second-layer joke: a headline that escalates the verified premise into a sharp, surprising accusation, rule, product, job title, or civic failure.
+- Push hardest at bureaucracy, institutions, status, consumer culture, technology, bad incentives, and confident human decision-making. Be willing to sound rude, bleak, profane-adjacent, or uncomfortably accurate when the target can take it.
+- Never make victims, children, deaths, serious injury, animal suffering, poverty, disability, or protected identity the punchline. The absurd system, authority, perpetrator, or decision may be attacked; the harmed party may not.
+- Reject any headline that merely restates the weird fact, relies on "Florida man"-style shorthand, or ends at a cute observation. If the joke could run unchanged on a conventional odd-news account, it is too safe for Blappos.
+- Before publishing, read the bottom banner alone. It must still earn a laugh, a wince, or an immediate urge to send it to someone. If it only explains the picture, rewrite it.
+- Favor what-the-hell reality: elaborate thefts, impossible collisions, freak discoveries, workplace absurdity, terrible inventions, animals acting like union employees, and human decisions that sound fabricated but are sourced.
+- Politics is never a default category. Use it only when the bizarre premise works without partisan shorthand and would still be funny if every name were removed.
 
 ### Visual system — non-negotiable collection gate
 
@@ -63,6 +82,15 @@ Every generated story page includes native sharing plus text, Facebook, X, Reddi
 email and copy-link controls. Sharing always uses the permanent story URL so social
 previews carry the matching headline and story illustration. This is regenerated for
 every daily batch along with the sitemap.
+
+### Automatic X posting through Buffer
+
+`.github/workflows/buffer-x.yml` runs each morning and whenever `daily-data.js` or card
+art changes. It finds the connected X channel in Buffer, checks the current scheduled
+queue, and adds up to five newest unqueued stories without exceeding the free plan's
+10-post queue limit. Each post includes the story headline, permanent story URL, and
+matching card artwork. The repository must contain an Actions secret named
+`BUFFER_API_KEY`; the credential is never stored in the code or workflow logs.
 
 ### Homepage Ridiculous Finds — permanent rotation rule
 

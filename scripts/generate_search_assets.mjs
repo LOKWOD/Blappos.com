@@ -45,6 +45,27 @@ function isoDate(story) {
   return Number.isNaN(parsed.valueOf()) ? '2026-01-01' : parsed.toISOString().slice(0, 10);
 }
 
+function verificationLink(story) {
+  const anchors = {
+    'sep21-ai-language-data': 'ai-language-data',
+    'sep21-cow-airlift': 'cow-airlift',
+    'sep21-singing-lemurs': 'singing-lemurs',
+    'sep21-tide-photo': 'tide-photo',
+    'sep20-turf-heat': 'turf-heat',
+    'sep20-koala-bedroom': 'koala-bedroom',
+    'sep20-time-trial-record': 'time-trial-record',
+    'sep19-white-house-press': 'white-house-press',
+    'sep19-ai-actress-glitch': 'ai-actress-glitch',
+    'sep19-whitsundays-rescue': 'whitsundays-rescue',
+    'sep18-estate-painting': 'estate-painting',
+    'sep18-air-traffic-glitch': 'nats-glitch',
+    'sep18-river-whale': 'river-whale'
+  };
+  return anchors[story.id]
+    ? `<a href="../../verification/#${anchors[story.id]}">Check this story’s source ledger</a>`
+    : '<a href="../../verification/">Check the latest source ledger</a>';
+}
+
 function shareMarkup(story, canonical) {
   const title = `${story.title} — Blappos`;
   const encodedUrl = encodeURIComponent(canonical);
@@ -134,7 +155,7 @@ for (const story of stories) {
   <header class="masthead"><a class="logo" href="../../" aria-label="Blappos home"><img src="../../assets/blappos-logo.png" alt="Blappos — Bad news. Great magnet." width="900" height="600"></a></header>
   <main>
     <article class="story standalone-story">
-      <img src="${image}" alt="Satirical Blappos illustration: ${escapeHtml(story.title)}" width="1000" height="1000">
+      ${story.magnetUrl ? `<a class="story-magnet-image" href="${escapeHtml(story.magnetUrl)}" target="_blank" rel="noopener" aria-label="Buy this Blappos magnet"><img src="${image}" alt="Satirical Blappos illustration: ${escapeHtml(story.title)}" width="1000" height="1000"><span>BUY THIS MAGNET · ${escapeHtml(story.magnetPrice || '$9.99')}</span></a>` : `<img src="${image}" alt="Satirical Blappos illustration: ${escapeHtml(story.title)}" width="1000" height="1000">`}
       <div class="story-copy">
         <span class="label">THE STORY BEHIND THE SATIRE · ${escapeHtml(story.place)} · ${escapeHtml(story.date)}</span>
         <h1>${escapeHtml(story.title)}</h1>
@@ -142,7 +163,7 @@ for (const story of stories) {
         <h2>Why it matters</h2><p>${escapeHtml(story.why || 'The event became part of a larger argument about public responsibility, power and the cost carried by ordinary people.')}</p>
         <h2>The Blappos angle</h2><p>${escapeHtml(story.angle || story.title)}</p>
         <a class="source" href="${escapeHtml(story.source)}" target="_blank" rel="noopener">${escapeHtml(story.sourceName || 'Read the reporting')} ↗</a>
-        <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting.</p>
+        <p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting. ${verificationLink(story)} or <a href="../../standards/">read our sourcing, satire and corrections standard.</a></p>
         ${shareMarkup(story, canonical)}
         ${magnetMarkup(story)}
         ${amazonMarkup(story)}
@@ -171,6 +192,8 @@ for (const story of stories) {
 
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
+  { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
+  { loc: `${origin}/verification/`, lastmod: '2026-09-21' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
