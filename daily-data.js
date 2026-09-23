@@ -963,7 +963,7 @@ const sep22Stories = [
   },
   {
     id:'sep22-storm-drain-dogs',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Baldwin County, Georgia',image:'assets/cards/sep22-storm-drain-dogs.webp',
-    title:'Firefighters, animal control and utility crews rescue dogs from a Georgia storm drain',
+    title:'Firefighters, animal control and utility crews rescue dogs from a Georgia storm drain',magnetUrl:'https://blappos.printify.me/product/32298907',magnetPrice:'$9.99',
     facts:'Baldwin County Fire Rescue said its firefighters joined Baldwin County Animal Control and county Water Department workers to remove multiple dogs from a storm-drain system on September 21. A September 22 report showed the dogs safely back above ground after the coordinated response.',
     why:'A confined-drain rescue can require animal handling, safe access and knowledge of the utility system at the same time. The short official account does not establish how the dogs entered, how long they were inside or a precise count, so Blappos does not invent those details. What it does document is a successful multi-agency response with the animals recovered.',
     angle:'Verified fact ends above. The Blappos interpretation: three county departments attended the same underground staff meeting and reached a unanimous decision—every paw comes back up. The magnet uses anonymous rescue silhouettes and original dog characters, not incident photography.',
