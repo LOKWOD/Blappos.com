@@ -937,7 +937,7 @@ window.dailyStories.splice(0, 0, ...sep19Stories);
 const sep22Stories = [
   {
     id:'sep22-fire-amoeba',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Lassen Volcanic National Park, California',image:'assets/cards/sep22-fire-amoeba.webp',
-    title:'New “fire amoeba” sets the heat record for complex life',
+    title:'New “fire amoeba” sets the heat record for complex life',magnetUrl:'https://blappos.printify.me/product/32298896',magnetPrice:'$9.99',
     facts:'Researchers described a newly identified amoeba from a neutral-pH hot-spring tributary near Drakesbad in Lassen Volcanic National Park. The organism, named Incendiamoeba cascadensis, divided normally at 145.4°F (63°C), remained active at 147.2°F (64°C) and recovered after brief exposure to 158°F (70°C). The September 22 report concerned a record for eukaryotes—organisms whose cells contain a nucleus—not the record for all life.',
     why:'The organism pushes the known temperature boundary for complex cellular life and gives researchers a new system for studying heat-stable proteins, DNA repair and protective cell structures. It is also a top microscopic predator in its spring habitat, feeding on heat-loving bacteria. The distinctions matter: normal division, continued movement and survival after a brief heat shock are three different thresholds, and none makes the amoeba the hottest organism of any kind.',
     angle:'Verified fact ends above. The Blappos interpretation: complex life has reviewed the thermostat, removed the warning label and started doing mitosis at 145.4 degrees. The card celebrates the temperature record with an original microscopic mascot—not a scientific specimen image.',
