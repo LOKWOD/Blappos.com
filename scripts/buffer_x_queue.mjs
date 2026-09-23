@@ -6,7 +6,7 @@ const SITE_URL = 'https://blappos.com';
 const RAW_ASSET_URL = 'https://raw.githubusercontent.com/LOKWOD/Blappos.com/main';
 const MAX_QUEUE = 10;
 const MAX_PER_RUN = Number(process.env.BUFFER_POSTS_PER_RUN || 5);
-const targetDate = process.env.BUFFER_TARGET_DATE || '2026-09-22';
+const targetDate = process.env.BUFFER_TARGET_DATE || '';
 const forceCurrentEdition = process.env.BUFFER_FORCE_CURRENT_EDITION === 'true';
 const shareMode = forceCurrentEdition ? 'shareNow' : (process.env.BUFFER_SHARE_MODE || 'addToQueue');
 const sameDaySpacing = process.env.BUFFER_SAME_DAY_SPACING !== 'false';
