@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-22
+Updated: 2026-09-23
 Status: research log only; no outreach sent.
+
+## Syracuse University College of Arts and Sciences — fire-amoeba claim ladder
+
+- Target: Syracuse University College of Arts and Sciences communications team and the Oliverio Lab
+- Route: https://artsandsciences.syracuse.edu/news-media/contact/
+- Matching Blappos asset: https://blappos.com/verification/#fire-amoeba
+- Honest pitch angle: A plain-language threshold ladder that keeps 63°C cell division, 64°C activity and brief 70°C recovery separate, and labels the result as a eukaryote record rather than a record for all life.
+- Qualification: The researchers named in the reporting are Syracuse biologists. Any optional message should invite a scientific correction or share of the noncommercial explainer, never imply university endorsement of the satire, illustration or magnet.
+
+## Baldwin County Fire Rescue — multi-agency storm-drain rescue digest
+
+- Target: Baldwin County Fire Rescue public-information team
+- Route: https://www.baldwincountyga.com/fire-department
+- Matching Blappos asset: https://blappos.com/verification/#storm-drain-dogs
+- Honest pitch angle: A permanent source entry that credits Fire Rescue, Animal Control and the Water Department while explicitly declining to invent the dogs’ entry route, time underground or exact count.
+- Qualification: The exact responding public-safety agency named in the report. Any optional contact should invite a factual or animal-safety correction, not ask for promotion, identify private owners or imply department endorsement of the magnet.
+
+## Downtown Seattle Association — Inconvenience Store public-art reference
+
+- Target: Downtown Seattle Association communications and public-space team
+- Route: https://downtownseattle.org/about/contact-us/
+- Matching Blappos asset: https://blappos.com/verification/#inconvenience-store
+- Honest pitch angle: A dated local-arts digest connecting the former convenience-store space, 70-plus artists and 14 mock departments to a reusable evidence boundary for behavior-led satire.
+- Qualification: A tightly relevant downtown organization with public-space and neighborhood information. Any optional message should invite a location or access correction, never suggest it curated the exhibition or endorsed the commercial product.
 
 ## Gates Foundation — representative AI language-data initiative
 
