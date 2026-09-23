@@ -933,3 +933,61 @@ const sep19Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !sep19Stories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep19Stories);
+
+const sep22Stories = [
+  {
+    id:'sep22-fire-amoeba',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Lassen Volcanic National Park, California',image:'assets/cards/sep22-fire-amoeba.webp',
+    title:'New “fire amoeba” sets the heat record for complex life',
+    facts:'Researchers described a newly identified amoeba from a neutral-pH hot-spring tributary near Drakesbad in Lassen Volcanic National Park. The organism, named Incendiamoeba cascadensis, divided normally at 145.4°F (63°C), remained active at 147.2°F (64°C) and recovered after brief exposure to 158°F (70°C). The September 22 report concerned a record for eukaryotes—organisms whose cells contain a nucleus—not the record for all life.',
+    why:'The organism pushes the known temperature boundary for complex cellular life and gives researchers a new system for studying heat-stable proteins, DNA repair and protective cell structures. It is also a top microscopic predator in its spring habitat, feeding on heat-loving bacteria. The distinctions matter: normal division, continued movement and survival after a brief heat shock are three different thresholds, and none makes the amoeba the hottest organism of any kind.',
+    angle:'Verified fact ends above. The Blappos interpretation: complex life has reviewed the thermostat, removed the warning label and started doing mitosis at 145.4 degrees. The card celebrates the temperature record with an original microscopic mascot—not a scientific specimen image.',
+    source:'https://www.reuters.com/business/environment/tenacious-hot-springs-amoeba-sets-heat-tolerance-record-2026-09-22/',sourceName:'Read the September 22 Reuters report',
+    amazonLinks:[
+      {title:'Astrobiology: A Very Short Introduction',image:'https://m.media-amazon.com/images/I/81YvgzfesyL._SL1500_.jpg',alt:'Cover of Astrobiology: A Very Short Introduction',quip:'The pocket-size guide to asking where life can exist after complex cells move the thermostat another notch.',url:'https://www.amazon.com/dp/0199586454?tag=blappos-20',salesPriority:5},
+      {title:'Life on the Edge: The Coming of Age of Quantum Biology',image:'https://m.media-amazon.com/images/I/71AB7xDp65L._SL1500_.jpg',alt:'Cover of Life on the Edge by Jim Al-Khalili and Johnjoe McFadden',quip:'A tour of the strange physical machinery inside living systems, now featuring one amoeba with extremely confident climate control.',url:'https://www.amazon.com/dp/0307986829?tag=blappos-20',salesPriority:5},
+      {title:'Etekcity Infrared Thermometer 774',image:'https://m.media-amazon.com/images/I/61zQDIcb0FL._AC_SL1500_.jpg',alt:'Yellow Etekcity 774 infrared surface thermometer',quip:'For confirming that the hot spring is ready for the amoeba and absolutely not ready for your hand.',url:'https://www.amazon.com/dp/B00837ZGRY?tag=blappos-20',salesPriority:5}
+    ]
+  },
+  {
+    id:'sep22-giant-baked-beans',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Kelkit, Türkiye',image:'assets/cards/sep22-giant-baked-beans.webp',
+    title:'Turkish town cooks the world’s largest pot of baked beans',
+    facts:'Guinness World Records announced on September 22 that Kelkit, in Türkiye’s Gümüşhane province, produced 6,840 liters (1,807 US gallons) of baked beans in a single enormous pot. The August 22 cook used the region’s Kelkit Şeker Fasulyesi beans, equaled more than 15,000 standard cans and surpassed the previous 5,600-liter record.',
+    why:'The record turned a regional ingredient into a large public demonstration of local food culture and coordination. Organizers included the Kelkit Chamber of Commerce and Industry, the Gümüşhane Governorship and Kelkit Municipality, with an official Guinness adjudicator present. The publication date and event date are different: the cook happened August 22; Guinness published its account September 22.',
+    angle:'Verified fact ends above. The Blappos interpretation: Kelkit looked at the phrase “side dish” and identified a fatal lack of ambition. The serving vessel was roughly one and a half grand pianos wide; the refrigerator magnet is mercifully three inches.',
+    source:'https://www.guinnessworldrecords.com/news/commercial/2026/9/un-bean-lievable-pot-of-baked-beans-weighing-nearly-7000-litres-breaks-record-in-turkiye',sourceName:'Read the September 22 Guinness World Records account',
+    amazonLinks:[
+      {title:'Lodge Cast Iron Double Dutch Oven, 5 Quart',image:'https://m.media-amazon.com/images/I/81Ju6WrYHNL._AC_SL1500_.jpg',alt:'Black Lodge cast iron double Dutch oven with lid',quip:'A sensible household pot for anyone not currently feeding fifteen thousand cans’ worth of civic pride.',url:'https://www.amazon.com/dp/B000LEXR0K?tag=blappos-20',salesPriority:5},
+      {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg',alt:'Cover of Guinness World Records 2027',quip:'The annual inventory of what happens when “that seems sufficient” fails to survive committee review.',url:'https://www.amazon.com/dp/1806500256?tag=blappos-20',salesPriority:5},
+      {title:'OXO Good Grips 11-Pound Digital Kitchen Food Scale',image:'https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg',alt:'Stainless steel OXO digital kitchen scale with pull-out display',quip:'Accurate measurement for the first several pounds; the remaining 1,803 gallons will require municipal paperwork.',url:'https://www.amazon.com/dp/B079D9B82W?tag=blappos-20',salesPriority:4}
+    ]
+  },
+  {
+    id:'sep22-storm-drain-dogs',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Baldwin County, Georgia',image:'assets/cards/sep22-storm-drain-dogs.webp',
+    title:'Firefighters, animal control and utility crews rescue dogs from a Georgia storm drain',
+    facts:'Baldwin County Fire Rescue said its firefighters joined Baldwin County Animal Control and county Water Department workers to remove multiple dogs from a storm-drain system on September 21. A September 22 report showed the dogs safely back above ground after the coordinated response.',
+    why:'A confined-drain rescue can require animal handling, safe access and knowledge of the utility system at the same time. The short official account does not establish how the dogs entered, how long they were inside or a precise count, so Blappos does not invent those details. What it does document is a successful multi-agency response with the animals recovered.',
+    angle:'Verified fact ends above. The Blappos interpretation: three county departments attended the same underground staff meeting and reached a unanimous decision—every paw comes back up. The magnet uses anonymous rescue silhouettes and original dog characters, not incident photography.',
+    source:'https://www.upi.com/Odd_News/2026/09/22/Baldwin-County-Georgia-storm-drain-dogs/7911790096869/',sourceName:'Read the September 22 UPI report',
+    amazonLinks:[
+      {title:'The First-Aid Companion for Dogs & Cats',image:'https://m.media-amazon.com/images/I/71Ros9xW2NL._SL1500_.jpg',alt:'Cover of The First-Aid Companion for Dogs and Cats',quip:'A practical emergency reference for the minutes before the full county rescue committee reaches the drain.',url:'https://www.amazon.com/dp/1579543650?tag=blappos-20',salesPriority:5},
+      {title:'The Other End of the Leash',image:'https://m.media-amazon.com/images/I/811Ln984fnL._SL1500_.jpg',alt:'Cover of The Other End of the Leash by Patricia McConnell',quip:'A behavior guide for understanding the dogs whose infrastructure-tour proposal has just been formally denied.',url:'https://www.amazon.com/dp/034544678X?tag=blappos-20',salesPriority:5},
+      {title:'KONG Classic Stuffable Dog Toy, Medium',image:'https://m.media-amazon.com/images/I/61CT7VZTqQL._AC_SL1500_.jpg',alt:'Red KONG Classic medium dog toy',quip:'A safer engineering project for the dog who has already completed the storm-water systems elective.',url:'https://www.amazon.com/dp/B000AYN7LU?tag=blappos-20',salesPriority:4}
+    ]
+  },
+  {
+    id:'sep22-inconvenience-store',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Seattle, Washington',image:'assets/cards/sep22-inconvenience-store.webp',
+    title:'Seattle opens an “Inconvenience Store” with pre-tangled USB cords',
+    facts:'Artists transformed a former 7-Eleven at Third Avenue and Pine Street into the Inconvenience Store, a temporary downtown Seattle exhibition arranged like a deliberately malfunctioning retail shop. The September 22 report described work from more than 70 mostly local artists across 14 mock departments, including pre-tangled USB cords, egg-shaped candles, snack-bag shoulder bags and an ATM sound sculpture. Admission is free; objects range from $1 to $10,000.',
+    why:'The project gives artists a highly visible storefront and turns an empty commercial space into a public cultural venue. It also asks visitors to look again at ordinary packaging, checkout rituals and disposable objects. The joke is an intentional art premise—not a claim that a real shop is deceiving customers—and the installation is expected to remain open on weekends into 2027.',
+    angle:'Verified fact ends above. The Blappos interpretation: Seattle has finally opened a store where the USB cable arrives in its natural adult form. Main Character Energy belongs to the entire art project: it saw an empty convenience store and restocked it with beautifully organized inconvenience.',
+    source:'https://www.upi.com/Odd_News/2026/09/22/Inconvenience-store-seattle-art-exhibit/1271790098025/',sourceName:'Read the September 22 UPI report',
+    amazonLinks:[
+      {title:'Nettbe 60-Piece Reusable Cable Ties',image:'https://m.media-amazon.com/images/I/71aIKjDj3uL._AC_SL1200_.jpg',alt:'Colorful reusable cable ties arranged in rows',quip:'Sixty tiny objections to the store’s most artistically pre-tangled inventory.',url:'https://www.amazon.com/dp/B081HH5X61?tag=blappos-20',salesPriority:5},
+      {title:'MATEIN Electronics Organizer Travel Case',image:'https://m.media-amazon.com/images/I/71Ei4fnj0AL._AC_SL1500_.jpg',alt:'Black MATEIN electronics organizer case opened to show cables and accessories',quip:'A portable anti-exhibition for cables that stubbornly insist on remaining categorized and usable.',url:'https://www.amazon.com/dp/B07PTP17LK?tag=blappos-20',salesPriority:5},
+      {title:'Steal Like an Artist',image:'https://m.media-amazon.com/images/P/0761169253.01.LZZZZZZZ.jpg',alt:'Cover of Steal Like an Artist by Austin Kleon',quip:'A pocket manifesto for turning an empty storefront and a drawer of tangled cords into a public art destination.',url:'https://www.amazon.com/dp/0761169253?tag=blappos-20',salesPriority:5}
+    ]
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !sep22Stories.some(item => item.id === story.id));
+const sep23Index = window.dailyStories.findIndex(story => story.id === 'sep23-beijing-spray-gun');
+window.dailyStories.splice(sep23Index >= 0 ? sep23Index + 1 : 0, 0, ...sep22Stories);
