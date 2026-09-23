@@ -3,7 +3,7 @@ import vm from 'node:vm';
 
 const API_URL = 'https://api.buffer.com';
 const token = process.env.BUFFER_API_KEY;
-const targetDate = process.env.BUFFER_TARGET_DATE || '';
+const targetDate = process.env.BUFFER_TARGET_DATE || '2026-09-22';
 
 if (!token) throw new Error('BUFFER_API_KEY is not set');
 
