@@ -55,6 +55,13 @@ h1{font-size:clamp(4.5rem,6.5vw,8rem);line-height:.86;letter-spacing:-.025em;mar
 .marquee{overflow:hidden;background:var(--red);color:var(--paper);border-block:2px solid var(--ink);padding:13px 0;font-family:Anton,sans-serif;letter-spacing:.08em;font-size:1.15rem}
 .marquee div{white-space:nowrap;text-align:center}
 .feed{width:min(1320px,92vw);margin:auto;padding:100px 0}
+.crawl-story{padding:16px;border:2px solid var(--ink);background:var(--paper)}
+.crawl-story small{font:700 .65rem "DM Sans",sans-serif;letter-spacing:.06em;text-transform:uppercase}
+.crawl-story h3{margin:8px 0;font:400 1.15rem/1.2 Anton,sans-serif}
+.crawl-story a{color:var(--ink)}
+.related-stories{margin-top:32px;padding-top:20px;border-top:2px solid var(--ink)}
+.related-stories ul{padding-left:20px;line-height:1.65}
+.related-stories a{color:var(--blue)}
 .section-title{display:flex;align-items:end;justify-content:space-between;gap:35px;border-bottom:2px solid var(--ink);padding-bottom:24px;margin-bottom:36px}
 .section-title span,.dispatch span{font-size:.68rem;font-weight:800;letter-spacing:.13em}
 .section-title h2,.manifesto h2,.dispatch h2{font-size:clamp(3rem,7vw,6.8rem);line-height:.9;margin:10px 0 0}

@@ -115,6 +115,12 @@ function amazonMarkup(story) {
 
 const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadStories('daily-data.js', 'dailyStories')]
   .filter((story, index, list) => story.id && list.findIndex(item => item.id === story.id) === index);
+const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
+const byMonth = story => isoDate(story).slice(0, 7);
+function relatedMarkup(story) {
+  const related = chronological.filter(item => item.id !== story.id && byMonth(item) === byMonth(story)).slice(0, 3);
+  return `<nav class="related-stories" aria-label="More Blappos stories"><h2>More stories from ${escapeHtml(new Date(`${isoDate(story)}T12:00:00Z`).toLocaleString('en-US', { month: 'long', timeZone: 'UTC' }))}</h2><ul>${related.map(item => `<li><a href="../${encodeURIComponent(item.id)}/">${escapeHtml(item.title)}</a></li>`).join('')}</ul><a href="../../#archive">Browse the full archive →</a></nav>`;
+}
 
 const storiesDir = path.join(root, 'stories');
 fs.rmSync(storiesDir, { recursive: true, force: true });
@@ -174,6 +180,7 @@ for (const story of stories) {
         ${shareMarkup(story, canonical)}
         ${magnetMarkup(story)}
         ${amazonMarkup(story)}
+        ${relatedMarkup(story)}
         <p><a class="button" href="../../#${escapeHtml(story.id)}">View this story on Blappos</a></p>
       </div>
     </article>
@@ -197,10 +204,29 @@ for (const story of stories) {
   fs.writeFileSync(path.join(pageDir, 'index.html'), html.replace(/[ \t]+$/gm, ''));
 }
 
+// Keep real story links in the initial HTML. The existing interactive grids replace
+// this markup when JavaScript runs, while crawlers and readers without JS retain it.
+const indexPath = path.join(root, 'index.html');
+let homepage = fs.readFileSync(indexPath, 'utf8');
+const latestIso = isoDate(chronological[0]);
+const weekStart = new Date(`${latestIso}T12:00:00Z`);
+weekStart.setUTCDate(weekStart.getUTCDate() - 6);
+const latest = chronological.filter(story => isoDate(story) >= weekStart.toISOString().slice(0, 10));
+const link = story => `<a href="stories/${encodeURIComponent(story.id)}/">${escapeHtml(story.title)}</a>`;
+const latestMarkup = `<div id="card-grid" class="card-grid" aria-live="polite">${latest.map(story => `<article class="crawl-story"><small>${escapeHtml(story.date)}</small><h3>${link(story)}</h3></article>`).join('')}</div>`;
+const archiveMarkup = `<div id="archive-grid" class="archive-grid" aria-live="polite">${chronological.map(story => `<article class="crawl-story"><small>${escapeHtml(story.date)}</small><h3>${link(story)}</h3></article>`).join('')}</div>`;
+homepage = homepage.replace(/<div id="card-grid" class="card-grid" aria-live="polite">[\s\S]*?<\/div>/, latestMarkup)
+  .replace(/<div id="archive-grid" class="archive-grid" aria-live="polite">[\s\S]*?<\/div>/, archiveMarkup);
+const featured = chronological[0];
+homepage = homepage.replace(/(<a class="hero-card" href=")[^"]*(" data-story=")[^"]*/, `$1stories/${featured.id}/$2${featured.id}`)
+  .replace(/(<img src="assets\/cards\/)[^"]*(" alt="Featured Blappos illustration of )[^"]*/, `$1${absoluteImage(featured).split('/').at(-1)}$2${escapeHtml(featured.title)}`);
+fs.writeFileSync(indexPath, homepage);
+
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
   { loc: `${origin}/verification/`, lastmod: '2026-09-23' },
+  { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
