@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-23
+Updated: 2026-09-25
 Status: research log only; no outreach sent.
+
+## Katmai Conservancy — Fat Bear Week evidence and ecology guide
+
+- Target: Katmai Conservancy education and communications team
+- Route: https://katmaiconservancy.org/contact
+- Matching Blappos asset: https://blappos.com/verification/#fat-bear-week
+- Honest pitch angle: A permanent evidence entry that connects the 16-bear bracket and September 22–29 voting window to Katmai's brown-bear habitat, webcams and conservation education while warning readers that the contest is neither a literal weigh-in nor a health ranking.
+- Qualification: The official nonprofit partner supporting interpretation, research, bear monitoring and bear cams at Katmai. Any optional contact should invite an ecology or event-detail correction, never ask for a commercial endorsement, copy a named bear's identity or imply Conservancy approval of the magnet.
+
+## Guinness World Records press centre — oldest female Fortnite streamer
+
+- Target: Guinness World Records press and records-information team
+- Route: https://www.guinnessworldrecords.com/news/press
+- Matching Blappos asset: https://blappos.com/verification/#gamer-grandma
+- Honest pitch angle: A source-and-rights explainer preserving the exact age, gender, game and streaming-platform category while separating a public record from claims about every private gamer and keeping the commercial illustration free of the record holder's likeness and game imagery.
+- Qualification: The record authority named in the September 24 report. Any optional contact should request confirmation or correction of the narrow record wording and may share the noncommercial ledger, never imply Guinness certification of the satire or magnet.
+
+## National Committee on U.S.-China Relations — summit evidence boundary
+
+- Target: National Committee on U.S.-China Relations public-education and communications team
+- Route: https://www.ncuscr.org/contact/
+- Matching Blappos asset: https://blappos.com/verification/#us-china-summit
+- Honest pitch angle: A neutral, dated summit digest that distinguishes the reported meeting subjects and attributed diplomatic pledge from a binding agreement or guaranteed outcome, presented inside a reusable evidence-versus-inference matrix.
+- Qualification: A nonpartisan nonprofit focused on public understanding of U.S.-China relations. Any optional message should invite a factual or framing correction to the noncommercial evidence guide, never imply committee participation in the summit, endorsement of the joke or approval of a product.
 
 ## Syracuse University College of Arts and Sciences — fire-amoeba claim ladder
 

@@ -47,6 +47,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'sep24-us-china-summit': 'us-china-summit',
+    'sep24-fat-bear-week': 'fat-bear-week',
+    'sep24-gamer-grandma': 'gamer-grandma',
     'sep22-fire-amoeba': 'fire-amoeba',
     'sep22-giant-baked-beans': 'giant-baked-beans',
     'sep22-storm-drain-dogs': 'storm-drain-dogs',
