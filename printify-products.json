@@ -687,6 +687,24 @@
       "printify_product_id": "6ab667f7e4d2d31e610c616e",
       "external_id": "32372453",
       "product_url": "https://blappos.printify.me/product/32372453"
+    },
+    "sep25-hurricane-polo": {
+      "story_id": "sep25-hurricane-polo",
+      "printify_product_id": "6ab7b9ce67ad43da810bc65d",
+      "external_id": "32418099",
+      "product_url": "https://blappos.printify.me/product/32418099"
+    },
+    "sep25-lottery-repeat": {
+      "story_id": "sep25-lottery-repeat",
+      "printify_product_id": "6ab7b9e08eb120bc3c04881b",
+      "external_id": "32418100",
+      "product_url": "https://blappos.printify.me/product/32418100"
+    },
+    "sep25-firefighter-record": {
+      "story_id": "sep25-firefighter-record",
+      "printify_product_id": "6ab7b9ee9fee6453cc0a571a",
+      "external_id": "32418110",
+      "product_url": "https://blappos.printify.me/product/32418110"
     }
   }
 }
