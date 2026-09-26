@@ -47,6 +47,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'sep25-hurricane-polo': 'hurricane-polo',
+    'sep25-lottery-repeat': 'lottery-repeat',
+    'sep25-firefighter-record': 'firefighter-record',
     'sep24-us-china-summit': 'us-china-summit',
     'sep24-fat-bear-week': 'fat-bear-week',
     'sep24-gamer-grandma': 'gamer-grandma',

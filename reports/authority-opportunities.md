@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-25
+Updated: 2026-09-26
 Status: research log only; no outreach sent.
+
+## National Hurricane Center — dated forecast-literacy matrix
+
+- Target: National Hurricane Center public affairs and outreach team
+- Route: https://www.nhc.noaa.gov/contact.shtml
+- Matching Blappos asset: https://blappos.com/verification/#hurricane-polo
+- Honest pitch angle: A dated public-safety explainer that separates Category 5 wind intensity, the forecast cone, rainfall and surf hazards from a guaranteed landfall track, and directs readers back to operational advisories.
+- Qualification: The federal center responsible for official tropical-cyclone forecasts. Any optional message should invite a forecast-literacy correction or share of the noncommercial matrix, never ask for a commercial endorsement or imply that the illustrated cone is an official product.
+
+## North Carolina Education Lottery — repeat-win probability boundary
+
+- Target: North Carolina Education Lottery communications team
+- Route: https://nclottery.com/Contact
+- Matching Blappos asset: https://blappos.com/verification/#lottery-repeat
+- Honest pitch angle: A sourced two-date digest connecting the lottery's archived August 2025 account to the September 2026 repeat win while explicitly explaining that the coincidence is not a strategy or change in odds.
+- Qualification: The primary organization behind both prize claims. Any optional contact should ask for factual correction to the public ledger, never promote gambling, imply improved odds, request player contact details or seek approval of the fictional ticket artwork.
+
+## St. Pete Beach Fire Rescue — public-service achievement profile
+
+- Target: St. Pete Beach Fire Rescue public-information team
+- Route: https://www.stpetebeach.org/370/Fire-Rescue
+- Matching Blappos asset: https://blappos.com/verification/#firefighter-record
+- Honest pitch angle: A dignity-first record entry that centers five years of public service, preserves the narrow Guinness category and documents why the commercial illustration uses anonymous gear rather than a firefighter's name, likeness or body.
+- Qualification: The record holder's department and the closest source for employment and service context. Any optional outreach should invite a career-detail correction or share of the noncommercial entry, never imply department endorsement or use the record holder's identity for merchandising.
 
 ## Katmai Conservancy — Fat Bear Week evidence and ecology guide
 
