@@ -723,6 +723,12 @@
       "printify_product_id": "6ab90c55ee76dde2030021d7",
       "external_id": "32456123",
       "product_url": "https://blappos.printify.me/product/32456123"
+    },
+    "sep26-road-bin": {
+      "story_id": "sep26-road-bin",
+      "printify_product_id": "6ab90c69a73797d82d004f85",
+      "external_id": "32456130",
+      "product_url": "https://blappos.printify.me/product/32456130"
     }
   }
 }
