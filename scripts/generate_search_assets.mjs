@@ -47,6 +47,10 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'sep26-clean-air': 'clean-air',
+    'sep26-lagos-cinema': 'lagos-cinema',
+    'sep26-scroll-xray': 'scroll-xray',
+    'sep26-road-bin': 'road-bin',
     'sep25-hurricane-polo': 'hurricane-polo',
     'sep25-lottery-repeat': 'lottery-repeat',
     'sep25-firefighter-record': 'firefighter-record',

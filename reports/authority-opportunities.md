@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-26
+Updated: 2026-09-27
 Status: research log only; no outreach sent.
+
+## American Chemical Society — indoor-air chemistry claim boundary
+
+- Target: American Chemical Society Press Room and Fall 2026 meeting communications team
+- Route: https://www.acs.org/pressroom.html
+- Matching Blappos asset: https://blappos.com/verification/#clean-air
+- Honest pitch angle: A public evidence-maturity entry that preserves the reported particle-size and exposure measurements while clearly separating conference findings from clinical outcomes and labeling a CO2 monitor only as a ventilation proxy.
+- Qualification: ACS hosted the presentation and is the closest route for confirming its status and scope. Any optional contact should invite a technical correction or share of the noncommercial method table, never imply ACS endorsement of the illustration, consumer links or magnet.
+
+## Vesuvius Challenge — replica-scroll imaging explainer
+
+- Target: Vesuvius Challenge research and community team
+- Route: https://scrollprize.org/
+- Matching Blappos asset: https://blappos.com/verification/#scroll-xray
+- Honest pitch angle: A concise primary-source digest linking the peer-reviewed replica experiment to the practical problem of triaging sealed Herculaneum scrolls, with exact detection thresholds and an explicit warning that the method has not decoded every roll.
+- Qualification: The organization coordinates a major public effort to read Herculaneum scrolls through non-destructive imaging. Any optional contact should invite a methods correction or sharing of the noncommercial explainer, never imply participation in this study or endorsement of the satire or product.
+
+## FilmOne Group — Lagos record-screening source check
+
+- Target: FilmOne Entertainment / FilmOne Studios communications team
+- Route: https://www.filmhouseng.com/contact-us/
+- Matching Blappos asset: https://blappos.com/verification/#lagos-cinema
+- Honest pitch angle: A dated cultural-event ledger that preserves the qualifying-viewer count, prior record and attributed Guinness confirmation while documenting why the commercial art contains no film frames, poster art or performer likenesses.
+- Qualification: FilmOne is directly tied to the Nigerian film and exhibition ecosystem around the reported screening. Any optional contact should request factual correction or event-source clarification, never solicit a reciprocal link or imply filmmaker, venue or Guinness endorsement.
 
 ## National Hurricane Center — dated forecast-literacy matrix
 

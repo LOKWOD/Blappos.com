@@ -705,6 +705,30 @@
       "printify_product_id": "6ab7b9ee9fee6453cc0a571a",
       "external_id": "32418110",
       "product_url": "https://blappos.printify.me/product/32418110"
+    },
+    "sep26-clean-air": {
+      "story_id": "sep26-clean-air",
+      "printify_product_id": "6ab90c3ab84037e64003dd8d",
+      "external_id": "32456093",
+      "product_url": "https://blappos.printify.me/product/32456093"
+    },
+    "sep26-lagos-cinema": {
+      "story_id": "sep26-lagos-cinema",
+      "printify_product_id": "6ab90c4709fac51a140254e6",
+      "external_id": "32456097",
+      "product_url": "https://blappos.printify.me/product/32456097"
+    },
+    "sep26-scroll-xray": {
+      "story_id": "sep26-scroll-xray",
+      "printify_product_id": "6ab90c55ee76dde2030021d7",
+      "external_id": "32456123",
+      "product_url": "https://blappos.printify.me/product/32456123"
+    },
+    "sep26-road-bin": {
+      "story_id": "sep26-road-bin",
+      "printify_product_id": "6ab90c69a73797d82d004f85",
+      "external_id": "32456130",
+      "product_url": "https://blappos.printify.me/product/32456130"
     }
   }
 }
