@@ -16,7 +16,7 @@ A static, card-first satire-news site. Every illustration opens a concise factua
 - For Main Character Energy, make the joke about the documented behavior or situation. Never target a private person's appearance or personal life, identify an uninvolved private person in the product design, or imply an accusation the sourcing does not establish.
 - Every slot remains subordinate to the sourcing, safety, originality, magnet-desirability and purchase gates below. If one slot has no defensible candidate, publish fewer stories instead of forcing the mix.
 - Every selected item must earn an original collectible magnet concept. Use original illustration and short original copy; never use unlicensed news photography or a real person's name or likeness in the product design. Favor behavior- and situation-led concepts that remain funny or useful after the news cycle.
-- Preserve the established 1000-by-1000 Blappos card format and visual identity. Subtle recurring series labels are allowed only when they fit the existing design; they are not permission to redesign the collection.
+- Preserve the established 1000-by-1000 Blappos card format and visual identity. Do **not** add standalone Blappos tags, chips, badges, corner labels, mini logos, watermarks, or recurring series labels to the card artwork. The card itself is the brand: keep the established place-at-top / punchline-at-bottom composition clean and uncluttered.
 
 ### Magnet desirability — non-negotiable story-selection gate
 
