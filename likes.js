@@ -48,3 +48,4 @@
     finally{button.disabled=false}
   });
 })();
+// Shared Blappos likes enabled on homepage, archive, and story pages.
