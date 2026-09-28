@@ -13,7 +13,14 @@ const archiveStories=[...baseArchive,...dailyStories]
 const allStories=archiveStories;
 const dailyFinds=window.dailyFinds||[];
 const affiliateTag='blappos-20';
-const likesEndpoint='/api/likes';
+const likesNamespace='blappos.com';
+const likesAction='like';
+function counterApiUrl(storyId,readOnly=false,clientId=''){
+ const params=new URLSearchParams({behavior:'vote'});
+ if(readOnly)params.set('readOnly','true');
+ if(clientId)params.set('userId',clientId);
+ return `https://counterapi.com/api/${encodeURIComponent(likesNamespace)}/${encodeURIComponent(likesAction)}/${encodeURIComponent(storyId)}?${params}`;
+}
 function getLikeClientId(){
  try{
   let id=localStorage.getItem('blappos-like-client');
@@ -33,11 +40,15 @@ async function refreshLikeCounts(root=document){
  const ids=[...new Set(buttons.map(button=>button.dataset.likeStory).filter(Boolean))];
  if(!ids.length)return;
  try{
-  const response=await fetch(`${likesEndpoint}?ids=${encodeURIComponent(ids.join(','))}`,{headers:{Accept:'application/json'}});
-  if(!response.ok)throw new Error('likes unavailable');
-  const data=await response.json();
+  const values=await Promise.all(ids.map(async id=>{
+    const response=await fetch(counterApiUrl(id,true),{headers:{Accept:'application/json'}});
+    if(!response.ok)throw new Error('likes unavailable');
+    const data=await response.json();
+    return [id,Number(data.value||0)];
+  }));
+  const counts=Object.fromEntries(values);
   for(const button of buttons){
-   const count=Number(data.counts?.[button.dataset.likeStory]||0);
+   const count=counts[button.dataset.likeStory]||0;
    const el=button.querySelector('[data-like-count]');
    if(el)el.textContent=count.toLocaleString();
   }
@@ -50,13 +61,13 @@ async function likeStory(button){
  if(!storyId||likedStories.has(storyId))return;
  button.disabled=true;
  try{
-  const response=await fetch(likesEndpoint,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify({storyId,clientId:getLikeClientId()})});
+  const response=await fetch(counterApiUrl(storyId,false,getLikeClientId()),{headers:{Accept:'application/json'}});
   if(!response.ok)throw new Error('like failed');
   const data=await response.json();
   likedStories.add(storyId);saveLikedStoryIds(likedStories);
   button.classList.add('liked');button.setAttribute('aria-pressed','true');button.setAttribute('aria-label','You liked this Blappos');
   const heart=button.querySelector('.like-heart');if(heart)heart.textContent='♥';
-  const count=button.querySelector('[data-like-count]');if(count)count.textContent=Number(data.count||0).toLocaleString();
+  const count=button.querySelector('[data-like-count]');if(count)count.textContent=Number(data.value||0).toLocaleString();
  }catch{button.classList.add('likes-offline')}
  finally{button.disabled=false}
 }
