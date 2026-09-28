@@ -15,11 +15,29 @@ const dailyFinds=window.dailyFinds||[];
 const affiliateTag='blappos-20';
 const likesNamespace='blappos.com';
 const likesAction='like';
-function counterApiUrl(storyId,readOnly=false,clientId=''){
- const params=new URLSearchParams({behavior:'vote'});
- if(readOnly)params.set('readOnly','true');
- if(clientId)params.set('userId',clientId);
- return `https://counterapi.com/api/${encodeURIComponent(likesNamespace)}/${encodeURIComponent(likesAction)}/${encodeURIComponent(storyId)}?${params}`;
+let counterApiReady;
+function loadCounterApi(){
+ if(window.counterApi)return Promise.resolve(window.counterApi);
+ if(counterApiReady)return counterApiReady;
+ counterApiReady=new Promise((resolve,reject)=>{
+  const script=document.createElement('script');
+  script.src='https://counterapi.com/counterapi.embed.js';
+  script.async=true;
+  script.onload=()=>window.counterApi?resolve(window.counterApi):reject(new Error('CounterAPI unavailable'));
+  script.onerror=()=>reject(new Error('CounterAPI load failed'));
+  document.head.append(script);
+ });
+ return counterApiReady;
+}
+function counterRead(storyId){
+ return loadCounterApi().then(api=>new Promise((resolve,reject)=>{
+  api.read(storyId,likesAction,likesNamespace,{behavior:'vote'},(err,res)=>err?reject(err):resolve(res));
+ }));
+}
+function counterIncrement(storyId){
+ return loadCounterApi().then(api=>new Promise((resolve,reject)=>{
+  api.increment(storyId,likesAction,likesNamespace,{behavior:'vote'},(err,res)=>err?reject(err):resolve(res));
+ }));
 }
 function getLikeClientId(){
  try{
@@ -41,10 +59,8 @@ async function refreshLikeCounts(root=document){
  if(!ids.length)return;
  try{
   const values=await Promise.all(ids.map(async id=>{
-    const response=await fetch(counterApiUrl(id,true),{headers:{Accept:'application/json'}});
-    if(!response.ok)throw new Error('likes unavailable');
-    const data=await response.json();
-    return [id,Number(data.value||0)];
+    const data=await counterRead(id);
+    return [id,Number(data?.value||0)];
   }));
   const counts=Object.fromEntries(values);
   for(const button of buttons){
@@ -61,9 +77,7 @@ async function likeStory(button){
  if(!storyId||likedStories.has(storyId))return;
  button.disabled=true;
  try{
-  const response=await fetch(counterApiUrl(storyId,false,getLikeClientId()),{headers:{Accept:'application/json'}});
-  if(!response.ok)throw new Error('like failed');
-  const data=await response.json();
+  const data=await counterIncrement(storyId);
   likedStories.add(storyId);saveLikedStoryIds(likedStories);
   button.classList.add('liked');button.setAttribute('aria-pressed','true');button.setAttribute('aria-label','You liked this Blappos');
   const heart=button.querySelector('.like-heart');if(heart)heart.textContent='♥';
