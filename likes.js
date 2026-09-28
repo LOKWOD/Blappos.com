@@ -1,11 +1,29 @@
 (() => {
   const namespace='blappos.com';
   const action='like';
-  function apiUrl(id,readOnly=false,client=''){
-    const params=new URLSearchParams({behavior:'vote'});
-    if(readOnly)params.set('readOnly','true');
-    if(client)params.set('userId',client);
-    return `https://counterapi.com/api/${encodeURIComponent(namespace)}/${encodeURIComponent(action)}/${encodeURIComponent(id)}?${params}`;
+  let ready;
+  function loadApi(){
+    if(window.counterApi)return Promise.resolve(window.counterApi);
+    if(ready)return ready;
+    ready=new Promise((resolve,reject)=>{
+      const script=document.createElement('script');
+      script.src='https://counterapi.com/counterapi.embed.js';
+      script.async=true;
+      script.onload=()=>window.counterApi?resolve(window.counterApi):reject(new Error('CounterAPI unavailable'));
+      script.onerror=()=>reject(new Error('CounterAPI load failed'));
+      document.head.append(script);
+    });
+    return ready;
+  }
+  function readCount(id){
+    return loadApi().then(api=>new Promise((resolve,reject)=>{
+      api.read(id,action,namespace,{behavior:'vote'},(err,res)=>err?reject(err):resolve(res));
+    }));
+  }
+  function increment(id){
+    return loadApi().then(api=>new Promise((resolve,reject)=>{
+      api.increment(id,action,namespace,{behavior:'vote'},(err,res)=>err?reject(err):resolve(res));
+    }));
   }
   function clientId(){
     try{
@@ -29,9 +47,7 @@
   }
   async function load(button){
     try{
-      const response=await fetch(apiUrl(button.dataset.likeStory,true),{headers:{Accept:'application/json'}});
-      if(!response.ok)throw new Error();
-      const data=await response.json();
+      const data=await readCount(button.dataset.likeStory);
       button.querySelector('[data-like-count]').textContent=Number(data.value||0).toLocaleString();
     }catch{button.classList.add('likes-offline')}
   }
@@ -46,9 +62,7 @@
     if(liked.has(id))return;
     button.disabled=true;
     try{
-      const response=await fetch(apiUrl(id,false,clientId()),{headers:{Accept:'application/json'}});
-      if(!response.ok)throw new Error();
-      const data=await response.json();
+      const data=await increment(id);
       liked.add(id);save(liked);button.classList.add('liked');button.setAttribute('aria-pressed','true');button.setAttribute('aria-label','You liked this Blappos');
       button.querySelector('.like-heart').textContent='♥';button.querySelector('[data-like-count]').textContent=Number(data.value||0).toLocaleString();
     }catch{button.classList.add('likes-offline')}
