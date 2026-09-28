@@ -1,0 +1,50 @@
+name: Clean Blappos image tags
+
+on:
+  push:
+    paths:
+      - '.github/tag-cleanup.json'
+
+permissions:
+  contents: write
+
+jobs:
+  clean-tags:
+    if: "!contains(github.event.head_commit.message, '[tag-cleanup-output]')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image tools
+        run: python -m pip install --quiet pillow requests
+      - name: Replace affected card assets
+        run: |
+          python - <<'PY'
+          import json, io, pathlib, requests
+          from PIL import Image
+          mapping = json.loads(pathlib.Path('.github/tag-cleanup.json').read_text())
+          for item in mapping:
+              url = item['url']
+              path = pathlib.Path(item['path'])
+              r = requests.get(url, timeout=120)
+              r.raise_for_status()
+              img = Image.open(io.BytesIO(r.content)).convert('RGB')
+              path.parent.mkdir(parents=True, exist_ok=True)
+              img.save(path, 'WEBP', quality=92, method=6)
+              print(f"updated {path}")
+          PY
+      - name: Commit cleaned images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/cards/*.webp
+          if git diff --cached --quiet; then
+            echo "No image changes"
+            exit 0
+          fi
+          git commit -m "Remove small Blappos tags from affected cards [tag-cleanup-output]"
+          git push
