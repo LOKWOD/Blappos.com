@@ -47,6 +47,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'sep27-strait-talk': 'strait-talk',
+    'sep27-snake-golf': 'snake-golf',
+    'sep27-rainy-repair': 'rainy-repair',
     'sep26-clean-air': 'clean-air',
     'sep26-lagos-cinema': 'lagos-cinema',
     'sep26-scroll-xray': 'scroll-xray',

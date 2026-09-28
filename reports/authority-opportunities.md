@@ -1,7 +1,23 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-27
+Updated: 2026-09-28
 Status: research log only; no outreach sent.
+
+## South Texas Avian & Exotic Hospital — three-ball obstruction case boundary
+
+- Target: South Texas Avian & Exotic Hospital clinical and education team
+- Route: https://www.southtexasavian.com/
+- Matching Blappos asset: https://blappos.com/verification/#snake-golf
+- Honest pitch angle: A dated case digest that preserves the three-ball count, sedation and non-surgical outcome while explicitly refusing to turn one professional procedure into do-it-yourself snake-handling or veterinary advice.
+- Qualification: The hospital published the closest available case video and specializes in reptile care. Any optional contact should invite correction of the procedure summary or share of the noncommercial safety boundary, never imply clinical endorsement of the illustration, consumer products or magnet.
+
+## Japan Bicycle Promotion Institute — rainy-day repair and safety account
+
+- Target: Japan Bicycle Promotion Institute bicycle-safety and mechanic-training team
+- Route: https://www.bpaj.or.jp/inquiry
+- Matching Blappos asset: https://blappos.com/verification/#rainy-repair
+- Honest pitch angle: A carefully attributed human-interest entry that pairs a free handlebar repair with wet-road safety advice while refusing to generalize one encounter into a national stereotype.
+- Qualification: The institute publishes bicycle-safety information and supports professional mechanic training in Japan. Any optional contact should invite a safety-context correction or optional share of the noncommercial attribution guide, never claim involvement by the institute or request promotion of a product.
 
 ## American Chemical Society — indoor-air chemistry claim boundary
 
