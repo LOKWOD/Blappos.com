@@ -1,0 +1,47 @@
+name: Ensure story likes
+
+on:
+  push:
+    paths:
+      - 'stories/**/index.html'
+      - 'likes.js'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  inject:
+    if: "!contains(github.event.head_commit.message || '', '[likes-injected]')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Add shared likes script to story pages
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          changed=[]
+          for path in Path('stories').glob('*/index.html'):
+              text=path.read_text(encoding='utf-8')
+              tag='<script src="../../likes.js"></script>'
+              if tag in text:
+                  continue
+              if '</body>' in text:
+                  text=text.replace('</body>',f'  {tag}\n</body>')
+                  path.write_text(text,encoding='utf-8')
+                  changed.append(str(path))
+          print(f'Updated {len(changed)} story pages')
+          PY
+      - name: Commit injected story likes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stories
+          if git diff --cached --quiet; then
+            echo "No story pages needed updating"
+            exit 0
+          fi
+          git commit -m "Add hearts to standalone Blappos stories [likes-injected]"
+          git push
