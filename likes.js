@@ -1,5 +1,12 @@
 (() => {
-  const endpoint='/api/likes';
+  const namespace='blappos.com';
+  const action='like';
+  function apiUrl(id,readOnly=false,client=''){
+    const params=new URLSearchParams({behavior:'vote'});
+    if(readOnly)params.set('readOnly','true');
+    if(client)params.set('userId',client);
+    return `https://counterapi.com/api/${encodeURIComponent(namespace)}/${encodeURIComponent(action)}/${encodeURIComponent(id)}?${params}`;
+  }
   function clientId(){
     try{
       let id=localStorage.getItem('blappos-like-client');
@@ -22,10 +29,10 @@
   }
   async function load(button){
     try{
-      const response=await fetch(`${endpoint}?ids=${encodeURIComponent(button.dataset.likeStory)}`,{headers:{Accept:'application/json'}});
+      const response=await fetch(apiUrl(button.dataset.likeStory,true),{headers:{Accept:'application/json'}});
       if(!response.ok)throw new Error();
       const data=await response.json();
-      button.querySelector('[data-like-count]').textContent=Number(data.counts?.[button.dataset.likeStory]||0).toLocaleString();
+      button.querySelector('[data-like-count]').textContent=Number(data.value||0).toLocaleString();
     }catch{button.classList.add('likes-offline')}
   }
   const id=storyId();if(!id)return;
@@ -39,11 +46,11 @@
     if(liked.has(id))return;
     button.disabled=true;
     try{
-      const response=await fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify({storyId:id,clientId:clientId()})});
+      const response=await fetch(apiUrl(id,false,clientId()),{headers:{Accept:'application/json'}});
       if(!response.ok)throw new Error();
       const data=await response.json();
       liked.add(id);save(liked);button.classList.add('liked');button.setAttribute('aria-pressed','true');button.setAttribute('aria-label','You liked this Blappos');
-      button.querySelector('.like-heart').textContent='♥';button.querySelector('[data-like-count]').textContent=Number(data.count||0).toLocaleString();
+      button.querySelector('.like-heart').textContent='♥';button.querySelector('[data-like-count]').textContent=Number(data.value||0).toLocaleString();
     }catch{button.classList.add('likes-offline')}
     finally{button.disabled=false}
   });
