@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const origin = 'https://blappos.com';
+// Keep generated story pages synchronized after Printify adds purchase URLs.
 
 function loadStories(file, variable) {
   const source = fs.readFileSync(path.join(root, file), 'utf8');
