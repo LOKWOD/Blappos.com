@@ -14,9 +14,10 @@ const allStories=archiveStories;
 const dailyFinds=window.dailyFinds||[];
 const affiliateTag='blappos-20';
 function taggedAmazonUrl(rawUrl){try{const url=new URL(rawUrl);if(url.hostname==='amazon.com'||url.hostname.endsWith('.amazon.com')){url.searchParams.set('tag',affiliateTag);return url.href}}catch{}return rawUrl}
+function stableAmazonImage(rawUrl){return rawUrl?.replace('https://m.media-amazon.com/images/','https://images-na.ssl-images-amazon.com/images/')||rawUrl}
 function amazonLinksForStory(story){
- const verified=dailyFinds.filter(find=>find.storyId===story.id).map(find=>({title:find.title,quip:find.quip,image:find.image,alt:find.alt,salesPriority:find.salesPriority,url:taggedAmazonUrl(find.url)}));
- const supplied=(story.amazonLinks||[]).map(item=>({title:item.title,quip:item.quip,image:item.image,alt:item.alt,salesPriority:item.salesPriority,url:taggedAmazonUrl(item.url)}));
+ const verified=dailyFinds.filter(find=>find.storyId===story.id).map(find=>({title:find.title,quip:find.quip,image:stableAmazonImage(find.image),alt:find.alt,salesPriority:find.salesPriority,url:taggedAmazonUrl(find.url)}));
+ const supplied=(story.amazonLinks||[]).map(item=>({title:item.title,quip:item.quip,image:stableAmazonImage(item.image),alt:item.alt,salesPriority:item.salesPriority,url:taggedAmazonUrl(item.url)}));
  return [...verified,...supplied]
   .filter((item,index,list)=>item.title&&item.image&&item.url&&/amazon\.com\/dp\//.test(item.url)&&list.findIndex(other=>other.url===item.url)===index)
   .slice(0,3);
@@ -70,7 +71,7 @@ function rotatingHomepageFinds(){
    if(item)currentPool.push({...item,storyId:story.id,salesPriority:Number(item.salesPriority||story.amazonLinks?.[productIndex]?.salesPriority||3),freshness:recentStories.length-storyIndex});
   });
  }
- const fallback=dailyFinds.map(find=>({...find,url:taggedAmazonUrl(find.url),salesPriority:Number(find.salesPriority||2),freshness:0}));
+ const fallback=dailyFinds.map(find=>({...find,image:stableAmazonImage(find.image),url:taggedAmazonUrl(find.url),salesPriority:Number(find.salesPriority||2),freshness:0}));
  const pool=(currentPool.length>=3?currentPool:fallback)
   .filter((item,index,list)=>item.title&&item.image&&item.url&&list.findIndex(other=>other.url===item.url)===index)
   .sort((a,b)=>b.salesPriority-a.salesPriority||b.freshness-a.freshness);
