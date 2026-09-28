@@ -230,16 +230,3 @@ dialog::backdrop{background:rgba(18,16,12,.78)}
 .ledger-table th{background:var(--ink);color:#fff;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase}
 .ledger-table tbody tr:nth-child(even){background:#f6eedc}
 @media(max-width:560px){.ledger-index{grid-template-columns:1fr}.ledger-entry{padding:20px;box-shadow:5px 5px 0 var(--blue)}}
-
-
-/* Blappos hearts */
-.news-card-wrap{position:relative;min-width:0}
-.like-button{display:inline-flex;align-items:center;gap:7px;min-height:38px;margin:8px 6px 0;padding:6px 11px;border:2px solid var(--ink);border-radius:999px;background:var(--paper);color:var(--ink);font:800 .72rem/1 "DM Sans",sans-serif;cursor:pointer;transition:transform .15s ease,background .15s ease,color .15s ease}
-.like-button:hover{transform:translateY(-1px);background:#fff}
-.like-button .like-heart{font-size:1.15rem;line-height:1;color:var(--red)}
-.like-button.liked{background:var(--red);color:#fff}
-.like-button.liked .like-heart{color:#fff}
-.like-button.likes-offline{opacity:.65}
-.like-button:disabled{cursor:default}
-.story-copy>.like-button{margin:0 0 18px}
-@media(max-width:560px){.like-button{min-height:42px;padding:7px 13px;font-size:.78rem}}
