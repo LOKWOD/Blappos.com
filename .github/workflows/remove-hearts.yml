@@ -1,0 +1,45 @@
+name: Remove Blappos hearts
+
+on:
+  push:
+    paths:
+      - '.github/workflows/remove-hearts.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  remove:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Remove heart scripts and backend files
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          tag='<script src="../../likes.js"></script>'
+          changed=0
+          for path in Path('stories').glob('*/index.html'):
+              text=path.read_text(encoding='utf-8')
+              new=text.replace('  '+tag+'\n','').replace(tag+'\n','').replace(tag,'')
+              if new!=text:
+                  path.write_text(new,encoding='utf-8')
+                  changed+=1
+          print(f'Removed heart script from {changed} story pages')
+          PY
+          rm -f likes.js
+          rm -f .github/workflows/story-likes.yml
+          rm -f .github/workflows/deploy-cloudflare-likes.yml
+          rm -rf cloudflare/likes-worker
+          rm -f .github/workflows/remove-hearts.yml
+
+      - name: Commit cleanup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Remove Blappos hearts for now"
+          git push
