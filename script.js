@@ -13,6 +13,53 @@ const archiveStories=[...baseArchive,...dailyStories]
 const allStories=archiveStories;
 const dailyFinds=window.dailyFinds||[];
 const affiliateTag='blappos-20';
+const likesEndpoint='/api/likes';
+function getLikeClientId(){
+ try{
+  let id=localStorage.getItem('blappos-like-client');
+  if(!id){id=crypto.randomUUID?crypto.randomUUID():`b-${Date.now()}-${Math.random().toString(36).slice(2)}`;localStorage.setItem('blappos-like-client',id)}
+  return id;
+ }catch{return 'anonymous'}
+}
+function likedStoryIds(){try{return new Set(JSON.parse(localStorage.getItem('blappos-liked-stories')||'[]'))}catch{return new Set()}}
+function saveLikedStoryIds(ids){try{localStorage.setItem('blappos-liked-stories',JSON.stringify([...ids]))}catch{}}
+const likedStories=likedStoryIds();
+function likeButton(storyId){
+ const liked=likedStories.has(storyId);
+ return `<button class="like-button${liked?' liked':''}" type="button" data-like-story="${storyId}" aria-label="${liked?'You liked this Blappos':'Like this Blappos'}" aria-pressed="${liked}"><span class="like-heart" aria-hidden="true">${liked?'♥':'♡'}</span><span class="like-count" data-like-count>0</span></button>`;
+}
+async function refreshLikeCounts(root=document){
+ const buttons=[...root.querySelectorAll('[data-like-story]')];
+ const ids=[...new Set(buttons.map(button=>button.dataset.likeStory).filter(Boolean))];
+ if(!ids.length)return;
+ try{
+  const response=await fetch(`${likesEndpoint}?ids=${encodeURIComponent(ids.join(','))}`,{headers:{Accept:'application/json'}});
+  if(!response.ok)throw new Error('likes unavailable');
+  const data=await response.json();
+  for(const button of buttons){
+   const count=Number(data.counts?.[button.dataset.likeStory]||0);
+   const el=button.querySelector('[data-like-count]');
+   if(el)el.textContent=count.toLocaleString();
+  }
+ }catch{
+  buttons.forEach(button=>button.classList.add('likes-offline'));
+ }
+}
+async function likeStory(button){
+ const storyId=button.dataset.likeStory;
+ if(!storyId||likedStories.has(storyId))return;
+ button.disabled=true;
+ try{
+  const response=await fetch(likesEndpoint,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify({storyId,clientId:getLikeClientId()})});
+  if(!response.ok)throw new Error('like failed');
+  const data=await response.json();
+  likedStories.add(storyId);saveLikedStoryIds(likedStories);
+  button.classList.add('liked');button.setAttribute('aria-pressed','true');button.setAttribute('aria-label','You liked this Blappos');
+  const heart=button.querySelector('.like-heart');if(heart)heart.textContent='♥';
+  const count=button.querySelector('[data-like-count]');if(count)count.textContent=Number(data.count||0).toLocaleString();
+ }catch{button.classList.add('likes-offline')}
+ finally{button.disabled=false}
+}
 function taggedAmazonUrl(rawUrl){try{const url=new URL(rawUrl);if(url.hostname==='amazon.com'||url.hostname.endsWith('.amazon.com')){url.searchParams.set('tag',affiliateTag);return url.href}}catch{}return rawUrl}
 function amazonLinksForStory(story){
  const verified=dailyFinds.filter(find=>find.storyId===story.id).map(find=>({title:find.title,quip:find.quip,image:find.image,alt:find.alt,salesPriority:find.salesPriority,url:taggedAmazonUrl(find.url)}));
@@ -42,21 +89,21 @@ const content=document.querySelector('#story-content');
 const archiveImageAliases={'jan-caracas':'caracas','jan-minnesota':'minneapolis','feb-shutdown':'washington','may-longview':'longview','sep-typhoon':'coastal-china','sep-nepal':'nepal'};
 function imageForStory(story){return story.image||`assets/cards/${archiveImageAliases[story.id]||story.id}.webp`}
 function storyPath(story){return `stories/${encodeURIComponent(story.id)}/`}
-function card(story,index){const image=imageForStory(story);return `<a class="news-card" href="${storyPath(story)}" data-story="${story.id}"><img src="${image}" alt="Satirical Blappos illustration: ${story.title}" width="1000" height="1000" ${index>2?'loading="lazy"':''}><span class="card-meta"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><span class="read">FLIP FOR THE REAL STORY →</span></a>`}
-grid.innerHTML=stories.map(card).join('');
+function card(story,index){const image=imageForStory(story);return `<article class="news-card-wrap"><a class="news-card" href="${storyPath(story)}" data-story="${story.id}"><img src="${image}" alt="Satirical Blappos illustration: ${story.title}" width="1000" height="1000" ${index>2?'loading="lazy"':''}><span class="card-meta"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><span class="read">FLIP FOR THE REAL STORY →</span></a>${likeButton(story.id)}</article>`}
+grid.innerHTML=stories.map(card).join('');refreshLikeCounts(grid);
 function syncHero(){const story=stories[0];if(!story)return;const hero=document.querySelector('.hero-card');if(!hero)return;hero.dataset.story=story.id;hero.href=storyPath(story);hero.setAttribute('aria-label',`Read the real story behind ${story.title}`);const img=hero.querySelector('img');if(img){img.src=imageForStory(story);img.alt=`Featured Blappos illustration for ${story.title}`}}
 syncHero();
-function openStory(id){const story=allStories.find(item=>item.id===id);if(!story)return;const facts=story.facts||story.dek;const why=story.why||'The event became part of a larger argument about public responsibility, power and the cost carried by ordinary people.';const angle=story.angle||story.title;const image=imageForStory(story);const imageTag=`<img src="${image}" alt="Satirical illustrated Blappos card for ${story.place}" width="1000" height="1000">`;const visual=story.magnetUrl?`<a class="story-magnet-image" href="${story.magnetUrl}" target="_blank" rel="noopener" aria-label="Buy this Blappos magnet">${imageTag}<span>BUY THIS MAGNET · ${story.magnetPrice||"$9.99"}</span></a>`:imageTag;content.innerHTML=`<article class="story">${visual}<div class="story-copy"><span class="label">THE STORY BEHIND THE SATIRE · ${story.place} · ${story.date}</span><h2 id="story-title">${story.title}</h2><h4>What happened</h4><p>${facts}</p><h4>Why it matters</h4><p>${why}</p><h4>The Blappos angle</h4><p>${angle}</p><a class="source" href="${story.source}" target="_blank" rel="noopener">${story.sourceName||'Read the reporting'} ↗</a><p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting.</p>${shareBlock(story)}${magnetBlock(story)}${amazonBlock(story)}</div></article>`;if(dialog.open)dialog.close();dialog.showModal();history.replaceState(null,'',`#${id}`)}
+function openStory(id){const story=allStories.find(item=>item.id===id);if(!story)return;const facts=story.facts||story.dek;const why=story.why||'The event became part of a larger argument about public responsibility, power and the cost carried by ordinary people.';const angle=story.angle||story.title;const image=imageForStory(story);const imageTag=`<img src="${image}" alt="Satirical illustrated Blappos card for ${story.place}" width="1000" height="1000">`;const visual=story.magnetUrl?`<a class="story-magnet-image" href="${story.magnetUrl}" target="_blank" rel="noopener" aria-label="Buy this Blappos magnet">${imageTag}<span>BUY THIS MAGNET · ${story.magnetPrice||"$9.99"}</span></a>`:imageTag;content.innerHTML=`<article class="story">${visual}<div class="story-copy"><span class="label">THE STORY BEHIND THE SATIRE · ${story.place} · ${story.date}</span><h2 id="story-title">${story.title}</h2><h4>What happened</h4><p>${facts}</p><h4>Why it matters</h4><p>${why}</p><h4>The Blappos angle</h4><p>${angle}</p><a class="source" href="${story.source}" target="_blank" rel="noopener">${story.sourceName||'Read the reporting'} ↗</a><p class="disclosure">Blappos is commentary. Artwork is illustration—not documentary photography—and the joke is not a substitute for the linked reporting.</p>${likeButton(story.id)}${shareBlock(story)}${magnetBlock(story)}${amazonBlock(story)}</div></article>`;if(dialog.open)dialog.close();dialog.showModal();history.replaceState(null,'',`#${id}`);refreshLikeCounts(content)}
 async function copyShareLink(button){const url=button.dataset.shareUrl;try{await navigator.clipboard.writeText(url)}catch{const field=document.createElement('textarea');field.value=url;field.style.position='fixed';field.style.opacity='0';document.body.append(field);field.select();document.execCommand('copy');field.remove()}const status=button.closest('.story-share')?.querySelector('.share-status');if(status)status.textContent='LINK COPIED';}
-document.addEventListener('click',async event=>{const nativeButton=event.target.closest('[data-share-native]');if(nativeButton){if(navigator.share){try{await navigator.share({title:nativeButton.dataset.shareTitle,text:'The story behind this Blappos disaster.',url:nativeButton.dataset.shareUrl});return}catch(error){if(error.name==='AbortError')return}}await copyShareLink(nativeButton);return}const copyButton=event.target.closest('[data-copy-link]');if(copyButton){await copyShareLink(copyButton);return}const trigger=event.target.closest('[data-story]');if(trigger){event.preventDefault();openStory(trigger.dataset.story)}});
+document.addEventListener('click',async event=>{const like=event.target.closest('[data-like-story]');if(like){event.preventDefault();event.stopPropagation();await likeStory(like);return}const nativeButton=event.target.closest('[data-share-native]');if(nativeButton){if(navigator.share){try{await navigator.share({title:nativeButton.dataset.shareTitle,text:'The story behind this Blappos disaster.',url:nativeButton.dataset.shareUrl});return}catch(error){if(error.name==='AbortError')return}}await copyShareLink(nativeButton);return}const copyButton=event.target.closest('[data-copy-link]');if(copyButton){await copyShareLink(copyButton);return}const trigger=event.target.closest('[data-story]');if(trigger){event.preventDefault();openStory(trigger.dataset.story)}});
 document.querySelector('.close').addEventListener('click',()=>dialog.close());
 dialog.addEventListener('click',event=>{if(event.target===dialog)dialog.close()});
 dialog.addEventListener('close',()=>history.replaceState(null,'',location.pathname));
 const archiveGrid=document.querySelector('#archive-grid');
 const filters=document.querySelector('#month-filters');
 const months=[...new Set(archiveStories.map(story=>story.month).filter(Boolean))];
-function archiveCard(story){return `<a class="news-card" href="${storyPath(story)}" data-story="${story.id}"><img src="${imageForStory(story)}" alt="Satirical Blappos illustration: ${story.title}" width="1000" height="1000" loading="lazy"><span class="card-meta"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><span class="read">FLIP FOR THE REAL STORY →</span></a>`}
-function renderArchive(month='All'){archiveGrid.innerHTML=archiveStories.filter(story=>month==='All'||story.month===month).map(archiveCard).join('');document.querySelectorAll('#month-filters button').forEach(button=>button.classList.toggle('active',button.dataset.month===month))}
+function archiveCard(story){return `<article class="news-card-wrap"><a class="news-card" href="${storyPath(story)}" data-story="${story.id}"><img src="${imageForStory(story)}" alt="Satirical Blappos illustration: ${story.title}" width="1000" height="1000" loading="lazy"><span class="card-meta"><span>${story.place}</span><span>${story.date}</span></span><h3>${story.title}</h3><span class="read">FLIP FOR THE REAL STORY →</span></a>${likeButton(story.id)}</article>`}
+function renderArchive(month='All'){archiveGrid.innerHTML=archiveStories.filter(story=>month==='All'||story.month===month).map(archiveCard).join('');document.querySelectorAll('#month-filters button').forEach(button=>button.classList.toggle('active',button.dataset.month===month));refreshLikeCounts(archiveGrid)}
 filters.innerHTML=['All',...months].map(month=>`<button data-month="${month}">${month}</button>`).join('');
 filters.addEventListener('click',event=>{const button=event.target.closest('[data-month]');if(button)renderArchive(button.dataset.month)});
 renderArchive();
