@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-28
+Updated: 2026-09-29
 Status: research log only; no outreach sent.
+
+## NASA Artemis media team — test-objective versus mission-outcome explainer
+
+- Target: NASA Artemis and Human Landing System communications team
+- Route: https://www.nasa.gov/news-release/nasa-media-contacts/
+- Matching Blappos asset: https://blappos.com/verification/#starship-orbit
+- Honest pitch angle: A concise, citation-ready matrix that separates Starship's first orbit, payload deployment and safe return from the shortened duration, reduced orbit count and early engine shutdown, with a reusable rule for writing about partial test success.
+- Qualification: NASA's Artemis program is the public-interest reason Starship reliability matters beyond one commercial launch. Any optional contact should invite correction of the Artemis context or share the noncommercial mission-boundary explainer, never imply NASA involvement in the flight, approval of the artwork or endorsement of a magnet.
+
+## Jefferson County Sheriff's Office Animal Control — large-tortoise incident timeline
+
+- Target: Jefferson County Sheriff's Office Animal Control and public-information team
+- Route: https://www.jeffco.us/858/Animal-Control
+- Matching Blappos asset: https://blappos.com/verification/#tortoise-escape
+- Honest pitch angle: A dated incident digest that preserves the August 31 call versus September 28 video-publication distinction, credits both helpers and adds a clear boundary against treating one carry as universal reptile-handling advice.
+- Qualification: The office supplied the closest primary evidence and handled the animal-control response. Any optional contact should invite a factual correction or share of the noncommercial publication-date guide, never request access to the private owner or imply agency endorsement of the illustration, affiliate products or magnet.
+
+## Guinness World Records press centre — family hoop-record adjudication boundary
+
+- Target: Guinness World Records press and records-information team
+- Route: https://www.guinnessworldrecords.com/news/press
+- Matching Blappos asset: https://blappos.com/verification/#hula-team
+- Honest pitch angle: An evidence entry that distinguishes ten observed crossings from nine certified passes, records the prior mark of eight and foregrounds the child's voluntary participation without using either participant's likeness commercially.
+- Qualification: Guinness is the named record authority and the only source that can confirm the exact adjudication standard. Any optional contact should ask for correction of the record wording or share the noncommercial evidence matrix, never claim Guinness approval of the satire or product.
 
 ## South Texas Avian & Exotic Hospital — three-ball obstruction case boundary
 

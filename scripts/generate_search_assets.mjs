@@ -48,6 +48,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'sep28-starship-orbit': 'starship-orbit',
+    'sep28-tortoise-escape': 'tortoise-escape',
+    'sep28-hula-team': 'hula-team',
     'sep27-strait-talk': 'strait-talk',
     'sep27-snake-golf': 'snake-golf',
     'sep27-rainy-repair': 'rainy-repair',
