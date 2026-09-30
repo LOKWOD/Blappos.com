@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-29
+Updated: 2026-09-30
 Status: research log only; no outreach sent.
+
+## U.S. Department of Energy — reserve-loan versus sale explainer
+
+- Target: Office of Petroleum Reserves and public-affairs team
+- Route: https://www.energy.gov/ceser/strategic-petroleum-reserve
+- Matching Blappos asset: https://blappos.com/verification/#spr-loan
+- Honest pitch angle: A citation-ready explainer that distinguishes the announced 40-million-barrel loan from a sale, records the October 6 proposal deadline and late-2028 repayment horizon, and explains why the repayment premium matters.
+- Qualification: DOE administers the reserve and can correct program mechanics. Any optional contact should invite a factual correction or share of the noncommercial explainer, never imply agency endorsement of the satire, affiliate products or magnet.
+
+## Doodle Rescue USA — record pool party and fundraiser evidence
+
+- Target: Doodle Rescue USA communications and education team
+- Route: https://doodlerescueusa.org/
+- Matching Blappos asset: https://blappos.com/verification/#dog-pool
+- Honest pitch angle: A compact evidence entry that preserves the 296-dog adjudicated count, the previous mark of 276 and the fundraiser purpose while separating the verified record from the illustration and joke.
+- Qualification: The nonprofit was the stated beneficiary and works directly with the dog community represented by the event. Any optional contact should invite correction of the fundraising or welfare context, never claim the group organized, certified or endorsed the product.
+
+## U.S. Parachute Association — airborne first-response case boundary
+
+- Target: U.S. Parachute Association safety and training team
+- Route: https://www.uspa.org/contact
+- Matching Blappos asset: https://blappos.com/verification/#skydiver-rescue
+- Honest pitch angle: A sourced rescue digest that distinguishes the three skydivers' immediate aid from the continuing federal crash investigation and avoids converting an extraordinary judgment call into general emergency guidance.
+- Qualification: USPA is a relevant safety-and-training authority for the activity, though it was not reported as an incident participant. Any optional contact should seek a safety correction or expert context for the noncommercial verification entry, never imply certification of the rescuers or endorsement of the magnet.
 
 ## NASA Artemis media team — test-objective versus mission-outcome explainer
 
