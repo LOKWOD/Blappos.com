@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-09-30
+Updated: 2026-10-01
 Status: research log only; no outreach sent.
+
+## Bat1K consortium — bat-origin evidence matrix
+
+- Target: Bat1K consortium project coordinator
+- Route: bat1kconsortium@gmail.com (published on the consortium's official project poster)
+- Matching Blappos asset: https://blappos.com/verification/#bat-origins
+- Honest pitch angle: A public, noncommercial evidence entry that links the Nature paper, Dryad dataset and analysis repository while preserving the study's “most likely” language and distinguishing models from direct observation.
+- Qualification: Bat1K generated the genome resource used by the paper. Any optional note should invite a technical correction or share of the sourcing matrix, never imply that the consortium endorses Blappos, its satire, affiliate products or magnet.
+
+## Borough of Surf City — flood-resource context for the street-shark report
+
+- Target: Borough of Surf City / certified floodplain manager
+- Route: https://surfcitynj.org/flood-resources/ or frontdesk@surfcitynj.org
+- Matching Blappos asset: https://blappos.com/verification/#street-shark
+- Honest pitch angle: A source-boundary entry that uses the viral shark footage to direct readers back to the borough's practical flood-preparedness and mitigation resources without minimizing local damage.
+- Qualification: The borough maintains the directly relevant local flood-resource page. Any optional contact should request a factual or safety correction and keep the commercial magnet entirely separate from municipal information.
+
+## Guinness World Records press centre — professional-stunt safety context
+
+- Target: Guinness World Records press office
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#fire-handstand
+- Honest pitch angle: A public verification entry that retains the March performance date, September publication date, 47-second result, professional training and explicit non-imitation warning.
+- Qualification: The press centre offers fact checks and current record information. Any optional enquiry should seek correction only; it must not request licensed imagery, imply record-holder approval or suggest endorsement of the product.
 
 ## U.S. Department of Energy — reserve-loan versus sale explainer
 

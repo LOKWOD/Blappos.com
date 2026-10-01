@@ -1,4 +1,5 @@
-const dailyStories=window.dailyStories||[];
+// A story becomes public only after its exact physical magnet is purchasable.
+const dailyStories=(window.dailyStories||[]).filter(story=>story.magnetUrl&&story.magnetPrice);
 const baseArchive=window.archiveStories||[];
 const latestIso=[...new Set(dailyStories.map(story=>story.isoDate).filter(Boolean))].sort().at(-1);
 const latestDate=latestIso?new Date(`${latestIso}T12:00:00Z`):null;

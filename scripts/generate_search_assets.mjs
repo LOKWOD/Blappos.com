@@ -48,6 +48,10 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'sep30-iraq-withdrawal': 'iraq-withdrawal',
+    'sep30-street-shark': 'street-shark',
+    'sep30-bat-origins': 'bat-origins',
+    'sep30-fire-handstand': 'fire-handstand',
     'sep29-spr-loan': 'spr-loan',
     'sep29-dog-pool': 'dog-pool',
     'sep29-skydiver-rescue': 'skydiver-rescue',
@@ -132,7 +136,7 @@ function amazonMarkup(story) {
 }
 
 const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadStories('daily-data.js', 'dailyStories')]
-  .filter((story, index, list) => story.id && list.findIndex(item => item.id === story.id) === index);
+  .filter((story, index, list) => story.id && story.magnetUrl && story.magnetPrice && list.findIndex(item => item.id === story.id) === index);
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 function relatedMarkup(story) {
