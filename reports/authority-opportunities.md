@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-01
+Updated: 2026-10-02
 Status: research log only; no outreach sent.
+
+## GLAMOS — Swiss glacier-loss measurement explainer
+
+- Target: Glacier Monitoring Switzerland (GLAMOS) office and scientific team
+- Route: https://glamos.ch/en/contact (office@glamos.ch)
+- Matching Blappos asset: https://blappos.com/verification/#swiss-glaciers
+- Honest pitch angle: A public, citation-ready evidence ladder that preserves the national 2026 loss estimate, eight-month measurement window, five-year context and boundary between measured change and forecast.
+- Qualification: GLAMOS is the monitoring network behind the result. Any optional contact should invite a factual or measurement-method correction or share the noncommercial explainer, never imply endorsement of Blappos, the satire, affiliate products or magnet.
+
+## Grand Junction Police Department Animal Control — small-animal rescue entry
+
+- Target: Grand Junction Police Department Animal Control Unit
+- Route: https://www.gjcity.org/1478/Animal-Control (animalcontrol@gjcity.org)
+- Matching Blappos asset: https://blappos.com/verification/#guinea-pig
+- Honest pitch angle: A concise source ledger that records the visible towel-capture sequence and the animal's reported aftercare while explicitly preserving unknown ownership, escape route and time outdoors.
+- Qualification: The unit created the public rescue video and handles animal control within the city. Any optional note should invite a factual or animal-welfare correction, never ask the agency to promote a product, identify a private owner or imply departmental endorsement.
+
+## Cape Wildlife Center — two-headed terrapin case boundary
+
+- Target: Birdsey Cape Wildlife Center education and wildlife-care team
+- Route: https://capewildlifecenter.com/contact/ (capewildlifecenter@newildlife.org)
+- Matching Blappos asset: https://blappos.com/verification/#two-headed-turtle
+- Honest pitch angle: A dated wildlife-case digest that separates the September 17 center announcement from October 1 reporting and distinguishes current observations from prognosis, internal anatomy or generalization.
+- Qualification: Cape Wildlife Center is caring for the reported hatchling and is the closest source for case corrections. Any optional contact should invite a factual or care-context correction or share the noncommercial ledger, never seek a commercial endorsement or permission to treat the patient as novelty merchandise.
 
 ## Bat1K consortium — bat-origin evidence matrix
 
