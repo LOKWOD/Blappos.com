@@ -1,0 +1,32 @@
+name: Assemble Die Another Day card
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/assemble-blappos-card.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    if: "!contains(github.event.head_commit.message, '[assemble-card-output]')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble raster card
+        run: |
+          mkdir -p assets/cards
+          cat .github/blappos-card-chunks/*.txt | tr -d '\n\r' | base64 -d > assets/cards/oct2-die-another-day.webp
+          test "$(wc -c < assets/cards/oct2-die-another-day.webp)" -eq 43984
+          file assets/cards/oct2-die-another-day.webp
+      - name: Commit card and clean staging
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf .github/blappos-card-chunks
+          rm -f .github/workflows/assemble-blappos-card.yml
+          git add -A
+          git commit -m "Add Die Another Day Blappos card [assemble-card-output]"
+          git push
