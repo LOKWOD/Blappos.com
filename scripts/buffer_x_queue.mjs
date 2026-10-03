@@ -136,7 +136,11 @@ async function main() {
       }`,
       { input: { organizationId: organization.id, filter: { isLocked: false } } },
     );
-    for (const channel of data.channels.filter(item => (item.service === 'twitter' || item.service === 'instagram' || item.service.startsWith('facebook')) && !item.isDisconnected)) {
+    for (const channel of data.channels.filter(item => item.service === 'twitter' || item.service === 'instagram' || item.service.startsWith('facebook'))) {
+      if (channel.isDisconnected) {
+        console.log(`Channel unavailable: ${channel.service} ${channel.name} is disconnected in Buffer.`);
+        continue;
+      }
       selections.push({ organization, channel });
     }
   }
