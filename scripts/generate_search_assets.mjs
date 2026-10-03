@@ -49,6 +49,7 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct2-beast-mode': 'beast-mode',
     'oct2-grok-finds-jesus': 'grok-finds-jesus',
     'oct2-ark-deja-vu': 'ark-deja-vu',
     'oct2-die-another-day': 'die-another-day',

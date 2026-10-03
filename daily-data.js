@@ -1108,3 +1108,47 @@ window.dailyStories = window.dailyStories.filter(story => !oct2SupplementaryStor
 window.dailyStories.unshift(...oct2SupplementaryStories);
 
 // October 2 supplementary magnets linked; publish story pages and social delivery.
+
+// Supplementary motorcade story. Magnet gate keeps it private until purchasable.
+const oct2BeastStory = {
+  "id": "oct2-beast-mode",
+  "isoDate": "2026-10-02",
+  "month": "October",
+  "date": "Oct 2, 2026",
+  "place": "Texas to Oklahoma",
+  "image": "assets/cards/oct2-beast-mode.webp",
+  "title": "Beast Mode",
+  "facts": "Bad weather turned President Trump’s October 1 trip from Denton, Texas, to a rally in Durant, Oklahoma, into a highway journey. In her contemporaneous White House pool report, Los Angeles Times correspondent Ana Ceballos said her press van reached 98 mph. She also reported that Trump posted that his presidential limousine, “The Beast,” was moving faster than ever. The motorcade arrived at the Choctaw venue at 7:02 p.m. local time.",
+  "why": "The nearly-100-mph figure comes from a reporter riding in the convoy. It is not an independently recorded speed for the limousine itself or proof of its maximum performance. An earlier pool report said a weather decision had replaced the planned Osprey flight with a motorcade.",
+  "angle": "Flight cancelled. Beast mode enabled. The aircraft got a weather delay; the limousine got a promotion. This vintage-style car, dramatic rain, flying papers and startled reporter are imagined satire, not a reconstruction of the drive.",
+  "amazonLinks": [
+    {
+      "title": "Digital Speedometer for Car, Speedometer for Car MPH, Head Up Display",
+      "image": "https://m.media-amazon.com/images/I/51Q1B2LnRkL._SL1500_.jpg",
+      "alt": "Digital Speedometer for Car, Speedometer for Car MPH, Head Up Display product photo",
+      "quip": "A dashboard speed display for the exact detail that made the press-pool report memorable: its van reached 98 mph. This is a consumer accessory, not equipment identified in the motorcade.",
+      "salesPriority": 4,
+      "url": "https://www.amazon.com/dp/B0B6FGBPYD?tag=blappos-20"
+    },
+    {
+      "title": "Zero Fail: The Rise and Fall of the Secret Service",
+      "image": "https://m.media-amazon.com/images/I/91Skali0fML._SL1500_.jpg",
+      "alt": "Zero Fail: The Rise and Fall of the Secret Service product photo",
+      "quip": "Carol Leonnig’s history of the Secret Service puts the armored presidential limousine and its protective convoy in context.",
+      "salesPriority": 4,
+      "url": "https://www.amazon.com/dp/0399589031?tag=blappos-20"
+    },
+    {
+      "title": "Five Presidents: My Extraordinary Journey with Eisenhower, Kennedy, Johnson, Nixon, and Ford",
+      "image": "https://m.media-amazon.com/images/I/81qVfixjRbL._SL1500_.jpg",
+      "alt": "Five Presidents: My Extraordinary Journey with Eisenhower, Kennedy, Johnson, Nixon, and Ford product photo",
+      "quip": "A former presidential protection agent’s account of serving five presidents, for a story about the logistics of moving the commander in chief.",
+      "salesPriority": 4,
+      "url": "https://www.amazon.com/dp/1476794146?tag=blappos-20"
+    }
+  ],
+  "source": "https://pool.pp.tools/reports/9402",
+  "sourceName": "Read Ana Ceballos’s October 1 White House pool report"
+};
+window.dailyStories = window.dailyStories.filter(story => story.id !== oct2BeastStory.id);
+window.dailyStories.unshift(oct2BeastStory);
