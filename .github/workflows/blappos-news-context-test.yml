@@ -1,0 +1,72 @@
+name: One-story Blappos news-context test
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/blappos-news-context-test.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: buffer-x-queue
+  cancel-in-progress: false
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Publish Beast Mode test and verify each channel
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: |
+          node --input-type=module <<'NODE'
+          const captions={"facebook":"BEAST MODE.\n\nBad weather turned Trump’s October 1 trip from Texas to Oklahoma into a motorcade run. Los Angeles Times correspondent Ana Ceballos reported that her press van reached 98 mph. That’s the van’s reported speed—not a measured top speed for the presidential limo.\n\nFlight delayed. Limo promoted.\n\nThe real story—and the magnet for your fridge:\nhttps://blappos.com/stories/oct2-beast-mode/\n\nSource: Ana Ceballos, White House pool report\nhttps://pool.pp.tools/reports/9402\n\nArtwork is an AI-generated satirical illustration.","twitter":"Weather disrupted Trump’s flight plans. The motorcade press van hit 98 mph, per Ana Ceballos’s pool report.\n\nFlight delayed. Limo promoted.\n\nStory + magnet: https://blappos.com/stories/oct2-beast-mode/\nSource: https://pool.pp.tools/reports/9402","instagram":"BEAST MODE.\n\nBad weather turned Trump’s October 1 trip from Texas to Oklahoma into a motorcade run. Los Angeles Times correspondent Ana Ceballos reported that her press van reached 98 mph. That’s the van’s reported speed—not a measured top speed for the presidential limo.\n\nFlight delayed. Limo promoted.\n\nThe real story—and the magnet for your fridge:\nhttps://blappos.com/stories/oct2-beast-mode/\n\nSource: Ana Ceballos, White House pool report\nhttps://pool.pp.tools/reports/9402\n\nArtwork is an AI-generated satirical illustration.\n\n#Blappos #BeastMode #Satire"};
+          const api='https://api.buffer.com';
+          async function gql(query,variables={}) {
+           const r=await fetch(api,{method:'POST',headers:{authorization:'Bearer '+process.env.BUFFER_API_KEY,'content-type':'application/json'},body:JSON.stringify({query,variables})});
+           const b=await r.json(); if(!r.ok||b.errors?.length) throw new Error(JSON.stringify(b.errors||b)); return b.data;
+          }
+          const account=await gql('query { account { organizations { id name } } }');
+          const created=[];
+          let failures=0;
+          for(const org of account.account.organizations) {
+           const data=await gql('query Channels($input: ChannelsInput!) { channels(input:$input) { id name service isDisconnected isLocked isQueuePaused } }',{input:{organizationId:org.id,filter:{isLocked:false}}});
+           for(const c of data.channels) {
+            if(!/blappos/i.test(c.name)||c.isDisconnected||c.isLocked||c.isQueuePaused||!(c.service==='twitter'||c.service==='instagram'||c.service.startsWith('facebook')))continue;
+            try {
+             const existing=await gql('query Posts($input: PostsInput!, $first:Int) { posts(input:$input,first:$first) { edges { node { id text status externalLink } } } }',{input:{organizationId:org.id,filter:{channelIds:[c.id],status:['scheduled','sending','sent']},sort:[{field:'dueAt',direction:'desc'}]},first:100});
+             const matches=existing.posts.edges.map(e=>e.node).filter(p=>p.text.includes('/stories/oct2-beast-mode/'));
+             if(matches.some(p=>p.text.includes('Flight delayed. Limo promoted.'))) {console.log('ALREADY_TESTED|'+c.service+'|'+JSON.stringify(matches));continue;}
+             if(matches.some(p=>p.status==='sending')) {console.log('BLOCKED|'+c.service+'|Existing story is sending; avoiding race');failures++;continue;}
+             for(const p of matches.filter(p=>p.status==='scheduled')) {
+              const d=await gql('mutation DeletePost($input: DeletePostInput!) { deletePost(input:$input) { __typename ... on DeletePostSuccess { id } ... on MutationError { message } } }',{input:{id:p.id}});
+              if(d.deletePost.__typename!=='DeletePostSuccess')throw new Error(d.deletePost.message||d.deletePost.__typename);
+              console.log('REPLACED_QUEUED_COPY|'+c.service+'|'+p.id);
+             }
+             const image='https://raw.githubusercontent.com/LOKWOD/Blappos.com/main/assets/cards/oct2-beast-mode.webp';
+             const res=await gql('mutation CreatePost($input: CreatePostInput!) { createPost(input:$input) { __typename ... on PostActionSuccess { post { id text dueAt status } } ... on InvalidInputError { message } ... on LimitReachedError { message } ... on NotFoundError { message } ... on UnauthorizedError { message } ... on UnexpectedError { message } ... on RestProxyError { message } } }',{input:{
+              channelId:c.id,text:captions[c.service.startsWith('facebook')?'facebook':c.service],
+              assets:[{image:{url:image,thumbnailUrl:image,metadata:{altText:'Beast Mode: vintage satirical illustration of an armored limo on a rainy Texas-to-Oklahoma highway'}}}],
+              metadata:c.service==='instagram'?{instagram:{type:'post',shouldShareToFeed:true,isAiGenerated:true}}:c.service==='twitter'?{twitter:{isAiGenerated:true}}:{facebook:{type:'post'}},
+              mode:'shareNow',schedulingType:'automatic',needsApproval:false,saveToDraft:false,aiAssisted:true,source:'blappos-news-context-test'
+             }});
+             if(res.createPost.__typename!=='PostActionSuccess')throw new Error(res.createPost.message||res.createPost.__typename);
+             const p=res.createPost.post;console.log('ACCEPTED|'+c.service+'|'+p.id+'|'+p.status);created.push({org:org.id,c,id:p.id});
+            }catch(e){failures++;console.log('ERROR|'+c.service+'|'+e.message);}
+           }
+          }
+          if(!created.length)console.log('NO_NEW_TEST_POSTS');
+          for(let i=0;i<6&&created.length;i++){
+           await new Promise(r=>setTimeout(r,10000));
+           for(const p of created){
+            const d=await gql('query Posts($input:PostsInput!, $first:Int) { posts(input:$input,first:$first) { edges { node { id status sentAt dueAt externalLink text } } } }',{input:{organizationId:p.org,filter:{channelIds:[p.c.id]},sort:[{field:'dueAt',direction:'desc'}]},first:50});
+            const post=d.posts.edges.map(e=>e.node).find(n=>n.id===p.id);
+            console.log('STATUS|'+p.c.service+'|'+JSON.stringify(post||{id:p.id,status:'not-returned'}));
+            p.done=post&&['sent','failed','error'].includes(post.status);
+           }
+           if(created.every(p=>p.done))break;
+          }
+          if(failures)process.exitCode=1;
+          NODE
