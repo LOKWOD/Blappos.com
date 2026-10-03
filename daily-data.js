@@ -1152,3 +1152,5 @@ const oct2BeastStory = {
 };
 window.dailyStories = window.dailyStories.filter(story => story.id !== oct2BeastStory.id);
 window.dailyStories.unshift(oct2BeastStory);
+
+// Beast Mode magnet verified purchasable; publish page and social delivery.
