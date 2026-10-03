@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-02
+Updated: 2026-10-03
 Status: research log only; no outreach sent.
+
+## Death Penalty Information Center — failed-protocol evidence boundary
+
+- Target: Death Penalty Information Center research and media team
+- Route: https://deathpenaltyinfo.org/about/in-the-media/media-contact
+- Matching Blappos asset: https://blappos.com/verification/#die-another-day
+- Honest pitch angle: A dated source entry that records the reported medical status after Tennessee's failed lethal-injection attempt, distinguishes lawyers' allegations from completed review findings and makes the satire target the state process rather than the prisoner or victim.
+- Qualification: DPIC maintains public data and analysis on capital punishment. Any optional contact should invite a factual or procedural correction to the noncommercial ledger, never request advocacy, promotion, endorsement of the joke or support for a product.
+
+## White House Correspondents’ Association — pool-report context audit
+
+- Target: White House Correspondents’ Association leadership and press-pool standards team
+- Route: https://whca.press/contact/
+- Matching Blappos asset: https://blappos.com/verification/#oct2-social-context
+- Honest pitch angle: A public audit showing how a contemporaneous pool report is summarized, attributed and separated from satire across Facebook, Instagram and X without converting the reporter's van speed into an unsupported claim about the presidential limousine.
+- Qualification: WHCA represents the journalists who cover the presidency and is directly relevant to public understanding of pool reporting. Any optional contact should invite attribution or method corrections only, never imply WHCA, the reporter or her outlet endorses Blappos or its merchandise.
+
+## Noah’s Ark Scans — preliminary-claim and lab-testing boundary
+
+- Target: Noah’s Ark Scans research communications team
+- Route: https://www.noahsarkscans.com/contact
+- Matching Blappos asset: https://blappos.com/verification/#ark-deja-vu
+- Honest pitch angle: A source ledger that clearly attributes the drilling claims to the expedition, preserves the September 23 announcement date, states that laboratory work is pending and avoids presenting an Ark identification as confirmed.
+- Qualification: Noah’s Ark Scans issued the underlying announcement and is the closest route for corrections about its methods and timetable. Any optional contact should ask only for a factual or methods correction, never imply independent validation, institutional endorsement of the satire or approval of the magnet.
 
 ## GLAMOS — Swiss glacier-loss measurement explainer
 

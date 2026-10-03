@@ -20,8 +20,6 @@ function sameDayDueAt(index) {
   return new Date(Date.now() + minutes * 60_000).toISOString();
 }
 
-if (!token) throw new Error('BUFFER_API_KEY is not set');
-
 async function graphql(query, variables = {}) {
   const response = await fetch(API_URL, {
     method: 'POST',
@@ -48,14 +46,75 @@ function loadStories() {
     .sort((a, b) => b.isoDate.localeCompare(a.isoDate));
 }
 
+function firstSentence(value) {
+  const text = String(value || '').replace(/\s+/g, ' ').trim();
+  const match = text.match(/^.*?[.!?](?:\s|$)/);
+  return (match?.[0] || text).trim();
+}
+
+function sourcePublisher(story) {
+  if (story.sourcePublisher) return story.sourcePublisher;
+  return String(story.sourceName || 'Original reporting')
+    .replace(/^Read (the )?/i, '')
+    .replace(/^(September|October) \d+ /i, '')
+    .replace(/ report$/i, '')
+    .trim();
+}
+
+function factualSummary(story) {
+  return story.socialSummary || firstSentence(story.facts);
+}
+
+function satiricalPunchline(story) {
+  if (story.socialPunchline) return story.socialPunchline;
+  const cleaned = String(story.angle || '')
+    .replace(/^Verified facts end above\.\s*/i, '')
+    .replace(/^The Blappos (angle|interpretation):\s*/i, '')
+    .trim();
+  return firstSentence(cleaned) || story.title;
+}
+
+function weightedXLength(text) {
+  return text.replace(/https?:\/\/\S+/g, 'x'.repeat(23)).length;
+}
+
+function xText(story, url) {
+  const source = story.source;
+  const publisher = sourcePublisher(story);
+  const punchline = satiricalPunchline(story);
+  let summary = factualSummary(story);
+  const build = () => `${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet: ${url}\nSource (${publisher}): ${source}`;
+  let text = build();
+  const words = summary.split(/\s+/);
+  while (weightedXLength(text) > 280 && words.length > 8) {
+    words.pop();
+    summary = `${words.join(' ')}…`;
+    text = build();
+  }
+  if (weightedXLength(text) > 280) {
+    throw new Error(`X post exceeds 280 weighted characters after trimming: ${story.id}`);
+  }
+  return text;
+}
+
 function postText(story, service) {
   const url = `${SITE_URL}/stories/${story.id}/`;
-  const place = story.place ? `${story.place}: ` : '';
-  const text = service === 'instagram'
-    ? `${place}${story.title}\n\nThe facts, the context, and the Blappos angle:\n${url}\n\n#Blappos #WeirdNews #Satire #NewsIllustration`
-    : `${place}${story.title}\n\n${url}`;
-  if (service === 'twitter' && text.length > 280) throw new Error(`X post exceeds 280 characters: ${story.id}`);
-  return text;
+  const publisher = sourcePublisher(story);
+  const summary = factualSummary(story);
+  const punchline = satiricalPunchline(story);
+
+  if (service === 'twitter') return xText(story, url);
+  if (service === 'instagram') {
+    return `${story.title}\n\nWhat happened: ${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet URL (copy from caption): ${url}\n\nSource credit: ${publisher}. The exact reporting link is on the Blappos story.\n\nArtwork: AI-generated satirical illustration.\n\n#Blappos #NewsContext #Satire #NewsIllustration`;
+  }
+  return `${story.title}\n\nWhat happened: ${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet: ${url}\n\nSource: ${publisher}\n${story.source}\n\nArtwork: AI-generated satirical illustration.`;
+}
+
+function hasRequiredContext(post, story) {
+  const text = String(post.text || '');
+  return text.includes(`/stories/${story.id}/`) &&
+    text.includes(story.source) &&
+    (text.includes('Blappos:') || text.includes(satiricalPunchline(story)));
 }
 
 async function main() {
@@ -119,6 +178,32 @@ async function main() {
     continue;
   }
 
+  // Scheduled legacy captions can be safely replaced before delivery. Sent
+  // legacy posts remain untouched; the current run publishes one corrected,
+  // context-complete version and then recognizes it on subsequent runs.
+  const legacyScheduled = knownPosts.filter(post =>
+    post.status === 'scheduled' &&
+    editionStories.some(story => post.text.includes(`/stories/${story.id}/`) && !hasRequiredContext(post, story)),
+  );
+  if (legacyScheduled.length) {
+    const deletion = `mutation DeletePost($input: DeletePostInput!) {
+      deletePost(input: $input) {
+        __typename
+        ... on DeletePostSuccess { id }
+        ... on MutationError { message }
+      }
+    }`;
+    for (const post of legacyScheduled) {
+      const result = await graphql(deletion, { input: { id: post.id } });
+      if (result.deletePost.__typename !== 'DeletePostSuccess') {
+        throw new Error(`Could not replace legacy-caption post ${post.id}: ${result.deletePost.message || result.deletePost.__typename}`);
+      }
+      console.log(`Removed legacy-caption ${selected.channel.service} post ${post.id}; it will be rebuilt with factual context, source credit and a labeled Blappos punchline.`);
+    }
+    const removedIds = new Set(legacyScheduled.map(post => post.id));
+    knownPosts = knownPosts.filter(post => !removedIds.has(post.id));
+  }
+
   if (sameDaySpacing && !forceCurrentEdition) {
     const editionIds = new Set(editionStories.map(story => story.id));
     const cutoff = Date.now() + sameDayRepairHours * 60 * 60 * 1000;
@@ -173,10 +258,10 @@ async function main() {
   }
   const queued = knownPosts.filter(post => post.status === 'scheduled' || post.status === 'sending');
   const capacity = Math.max(0, MAX_QUEUE - queued.length);
-  const existingText = knownPosts.map(post => post.text).join('\n');
   const candidates = allStories.filter(story =>
     story.isoDate === editionDate &&
-    !existingText.includes(`/stories/${story.id}/`),
+    !knownPosts.some(post => hasRequiredContext(post, story)) &&
+    !knownPosts.some(post => post.status === 'sending' && post.text.includes(`/stories/${story.id}/`)),
   );
   const stories = candidates.slice(0, Math.min(MAX_PER_RUN, capacity));
 
@@ -262,9 +347,21 @@ async function main() {
     if (payload.__typename !== 'PostActionSuccess') {
       throw new Error(`Buffer rejected ${story.id}: ${payload.message || payload.__typename}`);
     }
-      console.log(`Queued ${story.id} on ${selected.channel.service} as Buffer post ${payload.post.id} for ${payload.post.dueAt} using ${effectiveMode}`);
+    console.log(`Queued ${story.id} on ${selected.channel.service} as Buffer post ${payload.post.id} for ${payload.post.dueAt} using ${effectiveMode}`);
     }
   }
 }
 
-await main();
+if (process.env.BUFFER_CAPTION_PREVIEW === 'true') {
+  const allStories = loadStories();
+  const editionDate = targetDate || allStories[0]?.isoDate;
+  for (const story of allStories.filter(item => item.isoDate === editionDate)) {
+    for (const service of ['facebook', 'instagram', 'twitter']) {
+      const text = postText(story, service);
+      console.log(`\n[${service}] ${story.id}${service === 'twitter' ? ` (${weightedXLength(text)} weighted chars)` : ''}\n${text}`);
+    }
+  }
+} else {
+  if (!token) throw new Error('BUFFER_API_KEY is not set');
+  await main();
+}

@@ -83,13 +83,17 @@ email and copy-link controls. Sharing always uses the permanent story URL so soc
 previews carry the matching headline and story illustration. This is regenerated for
 every daily batch along with the sitemap.
 
-### Automatic X posting through Buffer
+### Automatic social posting through Buffer
 
 `.github/workflows/buffer-x.yml` runs each morning and whenever `daily-data.js` or card
-art changes. It finds the connected X channel in Buffer, checks the current scheduled
-queue, and adds up to five newest unqueued stories without exceeding the free plan's
-10-post queue limit. Each post includes the story headline, permanent story URL, and
-matching card artwork. The repository must contain an Actions secret named
+art changes. It finds the connected Instagram, Facebook and X channels in Buffer,
+checks their current scheduled queues, and adds up to five newest unqueued stories per
+channel without exceeding the free plan's 10-post queue limit. Every caption carries
+an original factual summary, a clearly labeled Blappos punchline, publisher credit,
+the permanent story-and-magnet URL, and the exact source URL wherever the platform
+supports usable links. Instagram names the publisher and sends readers to the exact
+source on the permanent story rather than claiming its caption URLs are clickable.
+Every post uses the matching complete card artwork. The repository must contain an Actions secret named
 `BUFFER_API_KEY`; the credential is never stored in the code or workflow logs.
 
 ### Homepage Ridiculous Finds — permanent rotation rule
