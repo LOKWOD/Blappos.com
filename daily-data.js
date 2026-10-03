@@ -1030,7 +1030,7 @@ const oct2SupplementaryStories = [
     "date": "Oct 2, 2026",
     "place": "X / The Internet",
     "image": "assets/cards/oct2-grok-finds-jesus.webp",
-    "title": "Grok Finds Jesus",
+    "title": "Grok Finds Jesus","magnetUrl":"https://blappos.printify.me/product/32667945","magnetPrice":"$9.99",
     "facts": "In a viral exchange on X reported on October 1–2, a user asked Grok to remove fake gods from an illustrated group of religious and mythological figures. The chatbot left Jesus in the picture and defended that choice in follow-up replies. The Catholic Herald reported that Grok also affirmed Christ’s divinity and invoked a biblical passage. This was a particular chatbot exchange, not an official theological announcement from xAI.",
     "why": "The episode shows how a simple image-editing request can produce religious assertions that spread as an AI verdict. A chatbot’s answer is evidence of what it generated in that exchange; it does not independently settle a theological question or establish that the software possesses personal faith.",
     "angle": "Tech support found a higher power. Someone requested an image edit and accidentally installed a pastor. The praying robot, surprised technician and server-room encounter are invented satire of the chatbot’s sudden theological confidence.",
