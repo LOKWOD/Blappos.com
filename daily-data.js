@@ -1117,7 +1117,7 @@ const oct2BeastStory = {
   "date": "Oct 2, 2026",
   "place": "Texas to Oklahoma",
   "image": "assets/cards/oct2-beast-mode.webp",
-  "title": "Beast Mode",
+  "title": "Beast Mode","magnetUrl":"https://blappos.printify.me/product/32668387","magnetPrice":"$9.99",
   "facts": "Bad weather turned President Trump’s October 1 trip from Denton, Texas, to a rally in Durant, Oklahoma, into a highway journey. In her contemporaneous White House pool report, Los Angeles Times correspondent Ana Ceballos said her press van reached 98 mph. She also reported that Trump posted that his presidential limousine, “The Beast,” was moving faster than ever. The motorcade arrived at the Choctaw venue at 7:02 p.m. local time.",
   "why": "The nearly-100-mph figure comes from a reporter riding in the convoy. It is not an independently recorded speed for the limousine itself or proof of its maximum performance. An earlier pool report said a weather decision had replaced the planned Osprey flight with a motorcade.",
   "angle": "Flight cancelled. Beast mode enabled. The aircraft got a weather delay; the limousine got a promotion. This vintage-style car, dramatic rain, flying papers and startled reporter are imagined satire, not a reconstruction of the drive.",
