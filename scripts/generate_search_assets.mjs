@@ -48,6 +48,8 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct2-grok-finds-jesus': 'grok-finds-jesus',
+    'oct2-ark-deja-vu': 'ark-deja-vu',
     'oct2-die-another-day': 'die-another-day',
     'oct1-swiss-glaciers': 'swiss-glaciers',
     'oct1-guinea-pig': 'guinea-pig',

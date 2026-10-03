@@ -44,7 +44,7 @@ function loadStories() {
   vm.createContext(context);
   vm.runInContext(source, context, { filename: 'daily-data.js' });
   return [...(context.window.dailyStories || [])]
-    .filter(story => story.id && story.isoDate && story.image && story.title)
+    .filter(story => story.id && story.isoDate && story.image && story.title && story.magnetUrl && story.magnetPrice)
     .sort((a, b) => b.isoDate.localeCompare(a.isoDate));
 }
 

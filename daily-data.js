@@ -1020,3 +1020,89 @@ const sep22Stories = [
 window.dailyStories = window.dailyStories.filter(story => !sep22Stories.some(item => item.id === story.id));
 const sep23Index = window.dailyStories.findIndex(story => story.id === 'sep23-beijing-spray-gun');
 window.dailyStories.splice(sep23Index >= 0 ? sep23Index + 1 : 0, 0, ...sep22Stories);
+
+// October 2 supplementary edition: approved matching enamel magnet artwork.
+const oct2SupplementaryStories = [
+  {
+    "id": "oct2-grok-finds-jesus",
+    "isoDate": "2026-10-02",
+    "month": "October",
+    "date": "Oct 2, 2026",
+    "place": "X / The Internet",
+    "image": "assets/cards/oct2-grok-finds-jesus.webp",
+    "title": "Grok Finds Jesus",
+    "facts": "In a viral exchange on X reported on October 1–2, a user asked Grok to remove fake gods from an illustrated group of religious and mythological figures. The chatbot left Jesus in the picture and defended that choice in follow-up replies. The Catholic Herald reported that Grok also affirmed Christ’s divinity and invoked a biblical passage. This was a particular chatbot exchange, not an official theological announcement from xAI.",
+    "why": "The episode shows how a simple image-editing request can produce religious assertions that spread as an AI verdict. A chatbot’s answer is evidence of what it generated in that exchange; it does not independently settle a theological question or establish that the software possesses personal faith.",
+    "angle": "Tech support found a higher power. Someone requested an image edit and accidentally installed a pastor. The praying robot, surprised technician and server-room encounter are invented satire of the chatbot’s sudden theological confidence.",
+    "amazonLinks": [
+      {
+        "title": "The Case for Christ: A Journalist's Personal Investigation of the Evidence for Jesus (Case for ... Series)",
+        "image": "https://m.media-amazon.com/images/I/71McrITcpNL._SL1500_.jpg",
+        "alt": "The Case for Christ: A Journalist's Personal Investigation of the Evidence for Jesus (Case for ... Series) book cover",
+        "quip": "The human-written case for the divinity Grok defended in its viral image-editing exchange.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0310350034?tag=blappos-20"
+      },
+      {
+        "title": "The Age of AI: Artificial Intelligence and the Future of Humanity",
+        "image": "https://m.media-amazon.com/images/I/81Fz22pVJ5L._SL1500_.jpg",
+        "alt": "The Age of AI: Artificial Intelligence and the Future of Humanity book cover",
+        "quip": "A Christian examination of artificial intelligence, for the moment an image-editing bot starts sounding like a preacher.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0310357640?tag=blappos-20"
+      },
+      {
+        "title": "Did Jesus Exist?: The Historical Argument for Jesus of Nazareth",
+        "image": "https://m.media-amazon.com/images/I/61ox3GPEv2L._SL1360_.jpg",
+        "alt": "Did Jesus Exist?: The Historical Argument for Jesus of Nazareth book cover",
+        "quip": "A historian’s argument for Jesus’s existence: useful context for separating Grok’s historical claims from its theological conclusions.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0062206443?tag=blappos-20"
+      }
+    ],
+    "source": "https://thecatholicherald.com/article/grok-ai-affirms-the-divinity-of-christ",
+    "sourceName": "Read the October 2 Catholic Herald report"
+  },
+  {
+    "id": "oct2-ark-deja-vu",
+    "isoDate": "2026-10-02",
+    "month": "October",
+    "date": "Oct 2, 2026",
+    "place": "Mount Ararat region, Turkey",
+    "image": "assets/cards/oct2-ark-deja-vu.webp",
+    "title": "Ark Déjà Vu",
+    "facts": "In a September 23 announcement, Noah’s Ark Scans said its team had begun deep core drilling at the boat-shaped Durupınar formation near Mount Ararat in Turkey. The team reported organic-rich layers and cavities, and said a hard layer broke a drill bit. Researchers suggested petrified or mineralized wood as possibilities, with third-party laboratory testing still to come. These are the expedition’s preliminary claims; Noah’s Ark has not been confirmed found.",
+    "why": "The formation has attracted Ark claims for decades. Recovering samples creates an opportunity to test what lies underground, but a boat-shaped outline, radar anomalies and a broken drill bit do not by themselves identify a biblical vessel. The team’s announcement said detailed analyses were pending, with further work planned for 2027.",
+    "angle": "Another discovery. Same two giraffes. The internet has already started boarding the animals while the samples wait for the lab. Noah, the visible wooden ark and its passengers are fictional illustration, not a reconstruction of anything excavated at Durupınar.",
+    "amazonLinks": [
+      {
+        "title": "The Ark Before Noah: Decoding the Story of the Flood",
+        "image": "https://m.media-amazon.com/images/I/919ARIAw7EL._SL1500_.jpg",
+        "alt": "The Ark Before Noah: Decoding the Story of the Flood book cover",
+        "quip": "An Assyriologist’s study of ancient flood narratives, for an Ark headline that deserves more than another triumphant screenshot.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0345804392?tag=blappos-20"
+      },
+      {
+        "title": "The Lost World of the Flood: Mythology, Theology, and the Deluge Debate (Volume 5) (The Lost World Series)",
+        "image": "https://m.media-amazon.com/images/I/A1SGm1PXu5L._SL1500_.jpg",
+        "alt": "The Lost World of the Flood: Mythology, Theology, and the Deluge Debate (Volume 5) (The Lost World Series) book cover",
+        "quip": "A study of Genesis and ancient flood accounts, while the Turkish drilling samples await laboratory analysis.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/083085200X?tag=blappos-20"
+      },
+      {
+        "title": "Noah's Ark: Thinking Outside the Box",
+        "image": "https://m.media-amazon.com/images/I/51g75B37-tL._SL1028_.jpg",
+        "alt": "Noah's Ark: Thinking Outside the Box book cover",
+        "quip": "A creationist exploration of Ark design and construction, offering a different perspective on the vessel the research team believes it is investigating.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0890515077?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.globenewswire.com/news-release/2026/09/23/3367545/0/en/core-drilling-begins-at-durupinar-noah-s-ark-site-drill-bit-shatters-on-possible-layer-of-petrified-wood.html",
+    "sourceName": "Read the expedition’s September 23 announcement (press release)"
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct2SupplementaryStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct2SupplementaryStories);
