@@ -1106,3 +1106,5 @@ const oct2SupplementaryStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct2SupplementaryStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct2SupplementaryStories);
+
+// October 2 supplementary magnets linked; publish story pages and social delivery.
