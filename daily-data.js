@@ -1070,7 +1070,7 @@ const oct2SupplementaryStories = [
     "date": "Oct 2, 2026",
     "place": "Mount Ararat region, Turkey",
     "image": "assets/cards/oct2-ark-deja-vu.webp",
-    "title": "Ark Déjà Vu",
+    "title": "Ark Déjà Vu","magnetUrl":"https://blappos.printify.me/product/32667954","magnetPrice":"$9.99",
     "facts": "In a September 23 announcement, Noah’s Ark Scans said its team had begun deep core drilling at the boat-shaped Durupınar formation near Mount Ararat in Turkey. The team reported organic-rich layers and cavities, and said a hard layer broke a drill bit. Researchers suggested petrified or mineralized wood as possibilities, with third-party laboratory testing still to come. These are the expedition’s preliminary claims; Noah’s Ark has not been confirmed found.",
     "why": "The formation has attracted Ark claims for decades. Recovering samples creates an opportunity to test what lies underground, but a boat-shaped outline, radar anomalies and a broken drill bit do not by themselves identify a biblical vessel. The team’s announcement said detailed analyses were pending, with further work planned for 2027.",
     "angle": "Another discovery. Same two giraffes. The internet has already started boarding the animals while the samples wait for the lab. Noah, the visible wooden ark and its passengers are fictional illustration, not a reconstruction of anything excavated at Durupınar.",
