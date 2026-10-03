@@ -114,7 +114,7 @@ function postText(story, service) {
 function hasRequiredContext(post, story, service) {
   const text = String(post.text || '');
   const sourcePresent = service === 'instagram'
-    ? text.includes(`Source credit: ${sourcePublisher(story)}`) && text.includes('exact reporting link is on the Blappos story')
+    ? text.includes(story.source) || (text.includes(`Source credit: ${sourcePublisher(story)}`) && text.includes('exact reporting link is on the Blappos story'))
     : text.includes(story.source);
   return text.includes(`/stories/${story.id}/`) &&
     sourcePresent &&
@@ -209,6 +209,35 @@ async function main() {
       console.log(`Removed legacy-caption ${selected.channel.service} post ${post.id}; it will be rebuilt with factual context, source credit and a labeled Blappos punchline.`);
     }
     const removedIds = new Set(legacyScheduled.map(post => post.id));
+    knownPosts = knownPosts.filter(post => !removedIds.has(post.id));
+  }
+
+  const redundantContextPosts = [];
+  for (const story of editionStories) {
+    const matches = knownPosts
+      .filter(post => hasRequiredContext(post, story, selected.channel.service))
+      .sort((a, b) => Date.parse(a.dueAt || 0) - Date.parse(b.dueAt || 0));
+    const sentExists = matches.some(post => post.status === 'sent');
+    const scheduledMatches = matches.filter(post => post.status === 'scheduled');
+    if (sentExists) redundantContextPosts.push(...scheduledMatches);
+    else if (scheduledMatches.length > 1) redundantContextPosts.push(...scheduledMatches.slice(1));
+  }
+  if (redundantContextPosts.length) {
+    const deletion = `mutation DeletePost($input: DeletePostInput!) {
+      deletePost(input: $input) {
+        __typename
+        ... on DeletePostSuccess { id }
+        ... on MutationError { message }
+      }
+    }`;
+    for (const post of redundantContextPosts) {
+      const result = await graphql(deletion, { input: { id: post.id } });
+      if (result.deletePost.__typename !== 'DeletePostSuccess') {
+        throw new Error(`Could not remove redundant context post ${post.id}: ${result.deletePost.message || result.deletePost.__typename}`);
+      }
+      console.log(`Removed redundant context-complete ${selected.channel.service} post ${post.id}.`);
+    }
+    const removedIds = new Set(redundantContextPosts.map(post => post.id));
     knownPosts = knownPosts.filter(post => !removedIds.has(post.id));
   }
 
