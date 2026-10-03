@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import { createHash } from 'node:crypto';
 import path from 'node:path';
 import vm from 'node:vm';
 import { fileURLToPath } from 'node:url';
@@ -249,6 +250,11 @@ homepage = homepage.replace(/<div id="card-grid" class="card-grid" aria-live="po
 const featured = chronological[0];
 homepage = homepage.replace(/(<a class="hero-card" href=")[^"]*(" data-story=")[^"]*/, `$1stories/${featured.id}/$2${featured.id}`)
   .replace(/(<img src="assets\/cards\/)[^"]*(" alt="Featured Blappos illustration of )[^"]*/, `$1${absoluteImage(featured).split('/').at(-1)}$2${escapeHtml(featured.title)}`);
+// Version each data script by its content so returning readers see new editions.
+for (const asset of ['daily-data.js', 'archive-data.js', 'script.js']) {
+  const revision = createHash('sha256').update(fs.readFileSync(path.join(root, asset))).digest('hex').slice(0, 12);
+  homepage = homepage.replace(new RegExp(`src="${asset.replaceAll('.', '\\.')}(?:\\?[^"]*)?"`, 'g'), `src="${asset}?v=${revision}"`);
+}
 fs.writeFileSync(indexPath, homepage);
 
 const urls = [
