@@ -13,6 +13,7 @@ const sameDaySpacing = process.env.BUFFER_SAME_DAY_SPACING !== 'false';
 const sameDayRepairHours = Number(process.env.BUFFER_SAME_DAY_REPAIR_HOURS || 6);
 const sameDayInitialDelayMinutes = Number(process.env.BUFFER_SAME_DAY_INITIAL_DELAY_MINUTES || 20);
 const sameDaySpacingMinutes = Number(process.env.BUFFER_SAME_DAY_SPACING_MINUTES || 45);
+const SAFE_X_WEIGHT = 260;
 const token = process.env.BUFFER_API_KEY;
 
 function sameDayDueAt(index) {
@@ -86,13 +87,13 @@ function xText(story, url) {
   const build = () => `${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet: ${url}\nSource (${publisher}): ${source}`;
   let text = build();
   const words = summary.split(/\s+/);
-  while (weightedXLength(text) > 280 && words.length > 8) {
+  while (weightedXLength(text) > SAFE_X_WEIGHT && words.length > 8) {
     words.pop();
     summary = `${words.join(' ')}…`;
     text = build();
   }
-  if (weightedXLength(text) > 280) {
-    throw new Error(`X post exceeds 280 weighted characters after trimming: ${story.id}`);
+  if (weightedXLength(text) > SAFE_X_WEIGHT) {
+    throw new Error(`X post exceeds the ${SAFE_X_WEIGHT}-character delivery ceiling after trimming: ${story.id}`);
   }
   return text;
 }
@@ -105,15 +106,18 @@ function postText(story, service) {
 
   if (service === 'twitter') return xText(story, url);
   if (service === 'instagram') {
-    return `${story.title}\n\nWhat happened: ${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet URL (copy from caption): ${url}\n\nSource credit: ${publisher}. The exact reporting link is on the Blappos story.\n\nArtwork: AI-generated satirical illustration.\n\n#Blappos #NewsContext #Satire #NewsIllustration`;
+    return `${story.title}\n\nWhat happened: ${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet: ${url} (copyable URL; Instagram captions are not clickable)\n\nSource credit: ${publisher}. The exact reporting link is on the Blappos story.\n\nArtwork: AI-generated satirical illustration.\n\n#Blappos #NewsContext #Satire #NewsIllustration`;
   }
   return `${story.title}\n\nWhat happened: ${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet: ${url}\n\nSource: ${publisher}\n${story.source}\n\nArtwork: AI-generated satirical illustration.`;
 }
 
-function hasRequiredContext(post, story) {
+function hasRequiredContext(post, story, service) {
   const text = String(post.text || '');
+  const sourcePresent = service === 'instagram'
+    ? text.includes(`Source credit: ${sourcePublisher(story)}`) && text.includes('exact reporting link is on the Blappos story')
+    : text.includes(story.source);
   return text.includes(`/stories/${story.id}/`) &&
-    text.includes(story.source) &&
+    sourcePresent &&
     (text.includes('Blappos:') || text.includes(satiricalPunchline(story)));
 }
 
@@ -183,7 +187,7 @@ async function main() {
   // context-complete version and then recognizes it on subsequent runs.
   const legacyScheduled = knownPosts.filter(post =>
     post.status === 'scheduled' &&
-    editionStories.some(story => post.text.includes(`/stories/${story.id}/`) && !hasRequiredContext(post, story)),
+    editionStories.some(story => post.text.includes(`/stories/${story.id}/`) && !hasRequiredContext(post, story, selected.channel.service)),
   );
   if (legacyScheduled.length) {
     const deletion = `mutation DeletePost($input: DeletePostInput!) {
@@ -260,7 +264,7 @@ async function main() {
   const capacity = Math.max(0, MAX_QUEUE - queued.length);
   const candidates = allStories.filter(story =>
     story.isoDate === editionDate &&
-    !knownPosts.some(post => hasRequiredContext(post, story)) &&
+    !knownPosts.some(post => hasRequiredContext(post, story, selected.channel.service)) &&
     !knownPosts.some(post => post.status === 'sending' && post.text.includes(`/stories/${story.id}/`)),
   );
   const stories = candidates.slice(0, Math.min(MAX_PER_RUN, capacity));
