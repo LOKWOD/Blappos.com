@@ -1174,7 +1174,7 @@ const oct3Stories = [
     "date": "Oct 3, 2026",
     "place": "Korean Peninsula",
     "image": "assets/cards/oct3-mach-five-diplomacy.png",
-    "title": "North Korea says new hypersonic missile flew 1,000 kilometers",
+    "title": "North Korea says new hypersonic missile flew 1,000 kilometers","magnetUrl":"https://blappos.printify.me/product/32709862","magnetPrice":"$9.99",
     "facts": "North Korean state media said an intermediate-range hypersonic missile launched from the country’s east coast on October 3 and struck a target about 1,000 kilometers away at sea. Reuters reported that South Korea measured a flight of more than 700 kilometers. North Korea claimed a special wave-like trajectory defeated regional tracking, while South Korea’s Defense Ministry said it detected and tracked the launch immediately.",
     "why": "The test adds a maneuverable strategic weapon to an already tense peninsula and the competing distance and tracking claims matter. They show why state announcements, military measurements and independent analysis should remain clearly separated until more technical evidence is available.",
     "angle": "Mach Five Diplomacy. When the communiqué arrives after the missile, the punctuation is mostly radar arcs. The illustration is a fictional missile and map composition—not a reconstruction, state emblem or claim about the weapon’s exact appearance.",
