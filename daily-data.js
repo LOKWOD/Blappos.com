@@ -1163,3 +1163,190 @@ window.dailyStories = window.dailyStories.filter(story => story.id !== oct2Beast
 window.dailyStories.unshift(oct2BeastStory);
 
 // Beast Mode magnet verified purchasable; publish page and social delivery.
+
+
+// October 3 four-slot global edition. Printify hard-gates publication until each magnet URL is linked.
+const oct3Stories = [
+  {
+    "id": "oct3-mach-five-diplomacy",
+    "isoDate": "2026-10-03",
+    "month": "October",
+    "date": "Oct 3, 2026",
+    "place": "Korean Peninsula",
+    "image": "assets/cards/oct3-mach-five-diplomacy.png",
+    "title": "North Korea says new hypersonic missile flew 1,000 kilometers",
+    "magnetUrl": "",
+    "magnetPrice": "$9.99",
+    "facts": "North Korean state media said an intermediate-range hypersonic missile launched from the country’s east coast on October 3 and struck a target about 1,000 kilometers away at sea. Reuters reported that South Korea measured a flight of more than 700 kilometers. North Korea claimed a special wave-like trajectory defeated regional tracking, while South Korea’s Defense Ministry said it detected and tracked the launch immediately.",
+    "why": "The test adds a maneuverable strategic weapon to an already tense peninsula and the competing distance and tracking claims matter. They show why state announcements, military measurements and independent analysis should remain clearly separated until more technical evidence is available.",
+    "angle": "Mach Five Diplomacy. When the communiqué arrives after the missile, the punctuation is mostly radar arcs. The illustration is a fictional missile and map composition—not a reconstruction, state emblem or claim about the weapon’s exact appearance.",
+    "amazonLinks": [
+      {
+        "title": "The Korean War: A History",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/081297896X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Korean War: A History by Bruce Cumings",
+        "quip": "Historical context for the conflict that still shapes military signaling on the peninsula.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/081297896X?tag=blappos-20"
+      },
+      {
+        "title": "The Two Koreas: A Contemporary History",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0465031234.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Two Koreas by Don Oberdorfer and Robert Carlin",
+        "quip": "A modern history of the divided peninsula behind each new launch and response.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0465031234?tag=blappos-20"
+      },
+      {
+        "title": "Prisoners of Geography: Ten Maps That Explain Everything About the World",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1501121472.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Prisoners of Geography by Tim Marshall",
+        "quip": "Map-led context for why distance, terrain and neighboring alliances dominate this story.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1501121472?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-intermediate-range-strategic-missile-drill-2026-10-03/",
+    "sourceName": "Read Reuters’ October 3 report",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "North Korea said it tested a hypersonic missile that traveled about 1,000 kilometers; South Korea said it tracked the launch and reported a shorter flight distance.",
+    "socialPunchline": "Mach Five Diplomacy: the communiqué arrived with radar arcs."
+  },
+  {
+    "id": "oct3-night-mass-raccoon",
+    "isoDate": "2026-10-03",
+    "month": "October",
+    "date": "Oct 3, 2026",
+    "place": "Greenwich Village, New York",
+    "image": "assets/cards/oct3-night-mass-raccoon.png",
+    "title": "Raccoon walks into Manhattan church during candlelit service",
+    "magnetUrl": "",
+    "magnetPrice": "$9.99",
+    "facts": "The New York Post reported on October 3 that a raccoon walked through the open doors of St. Joseph’s Church in Greenwich Village during a September 25 candlelit Night Fire service. Video showed the animal exploring the foyer before the pastor guided it back outside.",
+    "why": "The incident is harmless, visual and unusually well documented, but the date distinction matters: October 3 is the reporting date and September 25 is the event date. Nothing in the account establishes that the raccoon understood the ceremony or intended to attend.",
+    "angle": "Night Mass + One Raccoon. The guest arrived without a reservation, inspected the foyer and left before the collection plate. The illustration invents the candlelit composition and does not depict the actual animal or video frame.",
+    "amazonLinks": [
+      {
+        "title": "Raccoon",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1789144248.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Raccoon by Daniel Heath Justice",
+        "quip": "A natural and cultural history of the animal that briefly expanded the evening congregation.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1789144248?tag=blappos-20"
+      },
+      {
+        "title": "Havahart Large One-Door Humane Animal Trap",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/B000BPAVCG.01.LZZZZZZZ.jpg",
+        "alt": "Havahart humane live animal trap product photo",
+        "quip": "A humane trapping option for qualified property managers; wildlife problems should still be handled under local guidance.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/B000BPAVCG?tag=blappos-20"
+      },
+      {
+        "title": "National Audubon Society Field Guide to North American Mammals",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0394507622.01.LZZZZZZZ.jpg",
+        "alt": "Cover of National Audubon Society Field Guide to North American Mammals",
+        "quip": "Field identification for the next unexpected visitor before assigning it a denomination.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0394507622?tag=blappos-20"
+      }
+    ],
+    "source": "https://nypost.com/2026/10/03/us-news/nycs-catholic-raccoon-critter-marches-into-greenwich-village-church-during-special-mass/",
+    "sourceName": "Read the New York Post’s October 3 report",
+    "sourcePublisher": "New York Post",
+    "socialSummary": "A raccoon wandered into St. Joseph’s Church in Greenwich Village during a candlelit service and was calmly guided back outside.",
+    "socialPunchline": "Night Mass gained one unregistered trash panda."
+  },
+  {
+    "id": "oct3-search-dog",
+    "isoDate": "2026-10-03",
+    "month": "October",
+    "date": "Oct 3, 2026",
+    "place": "Mississippi / Texas",
+    "image": "assets/cards/oct3-search-dog.png",
+    "title": "Neglected stray becomes certified disaster-search dog and 2026 Dog of the Year",
+    "magnetUrl": "",
+    "magnetPrice": "$9.99",
+    "facts": "A Times of India report published October 3 recounted Canyon’s path from a severely malnourished Mississippi stray rescued in 2021 to a trained search dog working with Category 5 K9. Canyon earned human-remains detection and wilderness certifications in 2023 and has deployed to disasters including the Maui wildfires, Hurricane Helene and the 2025 Texas floods. The ASPCA named him its 2026 Dog of the Year.",
+    "why": "Canyon’s record is a concrete example of a shelter animal becoming a skilled public-service partner after veterinary care and sustained specialist training. The award recognizes documented work; it does not mean every rescue dog is suited to detection work or that certification is quick.",
+    "angle": "From Stray to Search Dog. One second chance, eighteen months of training and a nose that now reports for duty. The artwork uses a generic heroic search-dog scene rather than Canyon’s name, likeness or actual deployments.",
+    "amazonLinks": [
+      {
+        "title": "The Rescued Dog Problem Solver",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1620081393.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Rescued Dog Problem Solver",
+        "quip": "Practical guidance for helping an adopted dog settle and learn—well before any specialist working-dog ambition.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1620081393?tag=blappos-20"
+      },
+      {
+        "title": "Canine Enrichment for the Real World",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1617812684.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Canine Enrichment for the Real World",
+        "quip": "A science-minded guide to meeting canine behavioral needs and building useful confidence.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1617812684?tag=blappos-20"
+      },
+      {
+        "title": "Schutzhund: Theory and Training Methods",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0876057318.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Schutzhund Theory and Training Methods",
+        "quip": "Specialized working-dog training context—not a substitute for a certified search-and-rescue program.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0876057318?tag=blappos-20"
+      }
+    ],
+    "source": "https://timesofindia.indiatimes.com/world/us/a-severely-malnourished-stray-rescued-in-mississippi-in-2021-became-a-fema-certified-search-dog-years-later-canyon-is-2026-dog-of-the-year/articleshow/134654635.cms",
+    "sourceName": "Read the Times of India’s October 3 report",
+    "sourcePublisher": "The Times of India",
+    "socialSummary": "A severely neglected Mississippi stray recovered, completed specialist detection training and became the ASPCA’s 2026 Dog of the Year after disaster-response deployments.",
+    "socialPunchline": "The résumé now includes “finds people” and “steals couch.”"
+  },
+  {
+    "id": "oct3-rome-golf-carts",
+    "isoDate": "2026-10-03",
+    "month": "October",
+    "date": "Oct 3, 2026",
+    "place": "Rome, Italy",
+    "image": "assets/cards/oct3-rome-golf-carts.png",
+    "title": "Rome fines golf-cart operators as unauthorized fleet crowds ancient streets",
+    "magnetUrl": "",
+    "magnetPrice": "$9.99",
+    "facts": "The Guardian reported October 3 that Rome police intensified checks on golf-cart tours after Adnkronos reported that 90% of roughly 500 carts in circulation lacked authorization. Police stopped 131 carts near major landmarks and issued €38,000 in fines for violations including unlicensed driving and illegal parking. Legitimate operators said the carts help families and visitors with mobility needs.",
+    "why": "The dispute joins overtourism, accessibility, street safety and licensing in a city whose historic center already has limited space. The 90% estimate came through a news-agency report, while the stop and fine totals describe recent enforcement—not a finding that every cart or passenger broke rules.",
+    "angle": "Rome in Four-Wheel Drive. Two thousand years after Julius Caesar tried traffic restrictions, the city has rediscovered congestion at golf-course speed. The joke targets the streets-and-tourism situation, not individual visitors or lawful operators.",
+    "amazonLinks": [
+      {
+        "title": "SPQR: A History of Ancient Rome",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0871404230.01.LZZZZZZZ.jpg",
+        "alt": "Cover of SPQR by Mary Beard",
+        "quip": "The long civic history behind a city still arguing about traffic, access and who gets the road.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0871404230?tag=blappos-20"
+      },
+      {
+        "title": "The Death and Life of Great American Cities",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/067974195X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Death and Life of Great American Cities by Jane Jacobs",
+        "quip": "Classic street-level thinking for a debate about vehicles, pedestrians and urban life.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/067974195X?tag=blappos-20"
+      },
+      {
+        "title": "Streetfight: Handbook for an Urban Revolution",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0143128973.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Streetfight by Janette Sadik-Khan and Seth Solomonow",
+        "quip": "A practical look at reclaiming streets when competing uses have exceeded the available pavement.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0143128973?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.theguardian.com/world/2026/oct/03/rome-golf-cart-tours-crackdown-tourism",
+    "sourceName": "Read The Guardian’s October 3 report",
+    "sourcePublisher": "The Guardian",
+    "socialSummary": "Rome police stopped 131 golf carts and issued €38,000 in fines as officials moved to regulate a tour fleet reported to be mostly unauthorized.",
+    "socialPunchline": "The Eternal City discovered traffic at golf-course speed."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct3Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct3Stories);
