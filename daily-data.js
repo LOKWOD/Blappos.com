@@ -1345,3 +1345,5 @@ window.dailyStories.unshift(...oct3Stories);
 
 
 // October 3 magnets verified purchasable; release permanent pages, source ledger and social delivery.
+
+// October 3 permanent pages now carry exact Printify URLs; social release authorized.
