@@ -1342,3 +1342,6 @@ const oct3Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct3Stories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct3Stories);
+
+
+// October 3 magnets verified purchasable; release permanent pages, source ledger and social delivery.

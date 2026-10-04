@@ -411,3 +411,30 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/stories/sep15-overdue-magazine/
 - Honest pitch angle: A playful visual keepsake of the library's unusual return, paired with a permanent sourced explainer and an explicit correction route.
 - Qualification: Exact institution and exact event; suitable for a local-history or library-social share, never a demand for a link.
+
+
+## October 3, 2026 — qualified opportunities (not contacted)
+
+### St. Joseph's Church in Greenwich Village — dated wildlife-in-building source note
+
+- Target: St. Joseph's Church parish office
+- Route: https://www.stjosephgv.nyc/ (official contact: secretary@stjosephgv.nyc)
+- Matching Blappos asset: https://blappos.com/verification/#oct3-night-mass-raccoon
+- Honest pitch angle: A permanent entry that clearly separates the September 25 event from the October 3 report, credits the available video evidence and avoids assigning religious intent to the animal.
+- Qualification: Exact location and responding pastor. Any optional contact should invite correction of time, sequence or safety context; it must not request promotion, imply parish endorsement or send the commercial magnet unsolicited.
+
+### ASPCA Media & Communications — rescue-to-working-dog evidence digest
+
+- Target: ASPCA Media & Communications / Humane Awards team
+- Route: https://www.aspca.org/about-us/contact-us (official media request route and press room)
+- Matching Blappos asset: https://blappos.com/verification/#oct3-search-dog
+- Honest pitch angle: A concise, source-labeled account of the rescue, specialist training, disaster deployments and 2026 award, with an explicit warning against generalizing one dog's path to every shelter animal.
+- Qualification: Awarding organization and primary record for the recognition. Any optional message should invite factual correction or sharing of the noncommercial evidence digest, never imply ASPCA endorsement of the illustration or magnet.
+
+### Roma Capitale Sustainable Mobility Department — historic-center vehicle evidence matrix
+
+- Target: Roma Capitale, Dipartimento Mobilità Sostenibile e Trasporti
+- Route: https://www.comune.roma.it/web/it/dipartimento-mobilita-sostenibile-e-trasporti-uffici-e-contatti.page?contentId=UFF24514
+- Matching Blappos asset: https://blappos.com/verification/#oct3-rome-golf-carts
+- Honest pitch angle: A plain-language ledger separating attributed fleet estimates from documented police stops and fines while preserving the accessibility case made by lawful operators.
+- Qualification: Relevant public authority for mobility and historic-center traffic. Any optional contact should seek correction or an authoritative rule link; it must not imply municipal endorsement or ask for a backlink.
