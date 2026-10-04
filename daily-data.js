@@ -1303,7 +1303,7 @@ const oct3Stories = [
     "date": "Oct 3, 2026",
     "place": "Rome, Italy",
     "image": "assets/cards/oct3-rome-golf-carts.png",
-    "title": "Rome fines golf-cart operators as unauthorized fleet crowds ancient streets",
+    "title": "Rome fines golf-cart operators as unauthorized fleet crowds ancient streets","magnetUrl":"https://blappos.printify.me/product/32709876","magnetPrice":"$9.99",
     "facts": "The Guardian reported October 3 that Rome police intensified checks on golf-cart tours after Adnkronos reported that 90% of roughly 500 carts in circulation lacked authorization. Police stopped 131 carts near major landmarks and issued €38,000 in fines for violations including unlicensed driving and illegal parking. Legitimate operators said the carts help families and visitors with mobility needs.",
     "why": "The dispute joins overtourism, accessibility, street safety and licensing in a city whose historic center already has limited space. The 90% estimate came through a news-agency report, while the stop and fine totals describe recent enforcement—not a finding that every cart or passenger broke rules.",
     "angle": "Rome in Four-Wheel Drive. Two thousand years after Julius Caesar tried traffic restrictions, the city has rediscovered congestion at golf-course speed. The joke targets the streets-and-tourism situation, not individual visitors or lawful operators.",
