@@ -1260,7 +1260,7 @@ const oct3Stories = [
     "date": "Oct 3, 2026",
     "place": "Mississippi / Texas",
     "image": "assets/cards/oct3-search-dog.png",
-    "title": "Neglected stray becomes certified disaster-search dog and 2026 Dog of the Year",
+    "title": "Neglected stray becomes certified disaster-search dog and 2026 Dog of the Year","magnetUrl":"https://blappos.printify.me/product/32709870","magnetPrice":"$9.99",
     "facts": "A Times of India report published October 3 recounted Canyon’s path from a severely malnourished Mississippi stray rescued in 2021 to a trained search dog working with Category 5 K9. Canyon earned human-remains detection and wilderness certifications in 2023 and has deployed to disasters including the Maui wildfires, Hurricane Helene and the 2025 Texas floods. The ASPCA named him its 2026 Dog of the Year.",
     "why": "Canyon’s record is a concrete example of a shelter animal becoming a skilled public-service partner after veterinary care and sustained specialist training. The award recognizes documented work; it does not mean every rescue dog is suited to detection work or that certification is quick.",
     "angle": "From Stray to Search Dog. One second chance, eighteen months of training and a nose that now reports for duty. The artwork uses a generic heroic search-dog scene rather than Canyon’s name, likeness or actual deployments.",
