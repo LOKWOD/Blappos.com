@@ -1217,7 +1217,7 @@ const oct3Stories = [
     "date": "Oct 3, 2026",
     "place": "Greenwich Village, New York",
     "image": "assets/cards/oct3-night-mass-raccoon.png",
-    "title": "Raccoon walks into Manhattan church during candlelit service",
+    "title": "Raccoon walks into Manhattan church during candlelit service","magnetUrl":"https://blappos.printify.me/product/32709863","magnetPrice":"$9.99",
     "facts": "The New York Post reported on October 3 that a raccoon walked through the open doors of St. Joseph’s Church in Greenwich Village during a September 25 candlelit Night Fire service. Video showed the animal exploring the foyer before the pastor guided it back outside.",
     "why": "The incident is harmless, visual and unusually well documented, but the date distinction matters: October 3 is the reporting date and September 25 is the event date. Nothing in the account establishes that the raccoon understood the ceremony or intended to attend.",
     "angle": "Night Mass + One Raccoon. The guest arrived without a reservation, inspected the foyer and left before the collection plate. The illustration invents the candlelit composition and does not depict the actual animal or video frame.",
