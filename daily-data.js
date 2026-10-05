@@ -1444,7 +1444,7 @@ const oct4Stories = [
     "date": "Oct 4, 2026",
     "place": "New Jersey",
     "image": "assets/cards/oct4-supernumerary-rainbows.webp",
-    "title": "Five supernumerary rainbows turn New Jersey sky into a wave-optics lesson",
+    "title": "Five supernumerary rainbows turn New Jersey sky into a wave-optics lesson","magnetUrl":"https://blappos.printify.me/product/32750590","magnetPrice":"$9.99",
     "facts": "NASA’s Astronomy Picture of the Day for October 4 featured a New Jersey photograph in which at least five supernumerary rainbow bands appeared and faded over about half an hour. NASA explained that the extra bands form when falling droplets are nearly uniform in size and typically under one millimeter across, allowing light waves to interfere after reflecting within the drops.",
     "why": "Ordinary geometric optics cannot fully explain the closely spaced extra bands. Their wave-interference pattern helped provide early nineteenth-century evidence that light behaves as a wave, turning a striking family skywatching moment into a compact physics demonstration.",
     "angle": "Five Rainbows. One Rain Shower. Weather delivered the deluxe color package and included the footnotes in wave physics. The illustrated overlook is an original scene, not a copy of the featured photograph.",
