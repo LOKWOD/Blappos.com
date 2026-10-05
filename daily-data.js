@@ -1401,7 +1401,7 @@ const oct4Stories = [
     "date": "Oct 4, 2026",
     "place": "San Antonio, Texas",
     "image": "assets/cards/oct4-snake-golf-balls.webp",
-    "title": "Veterinarians remove three golf balls from snake without surgery",
+    "title": "Veterinarians remove three golf balls from snake without surgery","magnetUrl":"https://blappos.printify.me/product/32750586","magnetPrice":"$9.99",
     "facts": "People reported on October 4 that South Texas Avian & Exotic Hospital treated a snake after it swallowed three golf balls. With the animal heavily sedated, the veterinary team carefully moved each ball through the gastrointestinal tract and out through the mouth, avoiding surgery. The hospital said the snake recovered without complications and continued to do well.",
     "why": "Foreign-object ingestion can cause a life-threatening obstruction in reptiles. This case is memorable because specialized handling avoided a more invasive procedure, but it is not a do-it-yourself technique: the hospital used heavy sedation and a veterinary team.",
     "angle": "Three Golf Balls. No Surgery. The patient misunderstood the equipment list, then received a perfect score from exotic medicine. The cheerful clinic scene is original satire, not a recreation of the treatment video.",
