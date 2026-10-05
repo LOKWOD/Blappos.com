@@ -1487,7 +1487,7 @@ const oct4Stories = [
     "date": "Oct 4, 2026",
     "place": "New York City",
     "image": "assets/cards/oct4-sewer-gold.webp",
-    "title": "New York sewer explorers chase rumors of lost gold; documented payoff remains elusive",
+    "title": "New York sewer explorers chase rumors of lost gold; documented payoff remains elusive","magnetUrl":"https://blappos.printify.me/product/32750591","magnetPrice":"$9.99",
     "facts": "The Guardian reported October 4 that two men arrested after allegedly emerging from a Manhattan tunnel told police they entered sewers looking for gold and other valuables. The article linked the incident to several documented sewer entries in 2025 and 2026. A former urban explorer said the most valuable item he found in more than 100 sewer trips was an expired credit card.",
     "why": "New York’s Department of Environmental Protection says entering sewers is illegal and extremely dangerous because of toxic gases, unstable surfaces, flooding and confined spaces. The gold story explains the behavior attributed to the arrested men; it does not establish that sewer foraging is profitable or that unrelated explorers share the same motive.",
     "angle": "Sewer Gold: Still Pending. The treasure map appears to end at an expired card and several hazards that do not accept store credit. The joke targets the documented treasure-hunting behavior, not the men’s appearance or private lives.",
