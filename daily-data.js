@@ -1528,3 +1528,5 @@ window.dailyStories = window.dailyStories.filter(story => !oct4Stories.some(item
 window.dailyStories.unshift(...oct4Stories);
 
 // October 4 permanent-page rebuild requested after Printify link verification.
+
+// October 4 social release authorized after live page and storefront verification.
