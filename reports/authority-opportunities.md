@@ -438,3 +438,30 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct3-rome-golf-carts
 - Honest pitch angle: A plain-language ledger separating attributed fleet estimates from documented police stops and fines while preserving the accessibility case made by lawful operators.
 - Qualification: Relevant public authority for mobility and historic-center traffic. Any optional contact should seek correction or an authoritative rule link; it must not imply municipal endorsement or ask for a backlink.
+
+
+## October 4, 2026 — qualified opportunities (not contacted)
+
+### NASA Astronomy Picture of the Day — supernumerary-rainbow evidence guide
+
+- Target: Astronomy Picture of the Day editors and education team
+- Route: https://science.nasa.gov/apod/apod-about/
+- Matching Blappos asset: https://blappos.com/verification/#oct4-supernumerary-rainbows
+- Honest pitch angle: A compact public explainer that preserves NASA's five-band observation and wave-interference mechanism while explicitly separating the credited photograph from Blappos's original illustration.
+- Qualification: Exact primary science explainer for the story and a direct educational fit. Any optional message should invite a physics or attribution correction; it must never imply NASA endorsement of the satire, magnet or commercial links.
+
+### South Texas Avian & Exotic Hospital — snake-treatment claim boundary
+
+- Target: South Texas Avian & Exotic Hospital veterinary team
+- Route: https://www.stahvet.com/contact-us
+- Matching Blappos asset: https://blappos.com/verification/#oct4-snake-golf-balls
+- Honest pitch angle: A treatment-centered source note that records the manual removal, heavy sedation and reported recovery while refusing to invent the snake's motive, origin or long-term prognosis.
+- Qualification: The treating clinic cited in the reporting. Any optional contact should ask for a clinical correction or updated outcome only; it must not request promotion, patient-identifying details or an endorsement of the product.
+
+### New York City Department of Environmental Protection — sewer-safety evidence boundary
+
+- Target: NYC Department of Environmental Protection communications and public-education team
+- Route: https://www.nyc.gov/site/dep/about/contact-us.page
+- Matching Blappos asset: https://blappos.com/verification/#oct4-sewer-gold
+- Honest pitch angle: A behavior-focused source ledger that preserves the attributed treasure-search claim and pairs it with a plain-language summary of confined-space, gas, flooding and unstable-surface hazards.
+- Qualification: The responsible city infrastructure agency quoted for the safety warning. Any optional contact should invite correction or an authoritative safety link; it must not identify private individuals, imply agency endorsement or ask for a backlink.
