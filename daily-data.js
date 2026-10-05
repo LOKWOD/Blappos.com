@@ -1347,3 +1347,182 @@ window.dailyStories.unshift(...oct3Stories);
 // October 3 magnets verified purchasable; release permanent pages, source ledger and social delivery.
 
 // October 3 permanent pages now carry exact Printify URLs; social release authorized.
+
+
+// October 4 four-slot global edition. Printify hard-gates publication until each magnet URL is linked.
+const oct4Stories = [
+  {
+    "id": "oct4-ukraine-aid",
+    "isoDate": "2026-10-04",
+    "month": "October",
+    "date": "Oct 4, 2026",
+    "place": "Kyiv, Ukraine",
+    "image": "assets/cards/oct4-ukraine-aid.webp",
+    "title": "Germany announces €1.3 billion Ukraine aid package as aerial war intensifies",
+    "facts": "Associated Press reported on October 4 that German Chancellor Friedrich Merz announced more than €1.3 billion in new aid during a visit to Kyiv. About €1 billion is military support, including long-range strike weapons, combat drones and satellite technology; roughly €350 million is winter energy aid for generators, substations and repairs. Ukraine and Germany also signed 15 agreements valued at more than €8.5 billion.",
+    "why": "The package joins battlefield capability with civilian energy resilience as attacks on Ukrainian cities intensify. The figures are commitments announced by the two governments, not independently audited deliveries, and AP reported them alongside continued Russian missile and drone attacks.",
+    "angle": "Winter Support Moves East. The route carries drones, power equipment and policy weight before the cold arrives. The illustration is an original symbolic map scene, not a literal convoy, weapon depiction or endorsement.",
+    "amazonLinks": [
+      {
+        "title": "The Russo-Ukrainian War: The Return of History",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1324051191.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Russo-Ukrainian War by Serhii Plokhy",
+        "quip": "A modern history of the conflict behind the latest aid package.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1324051191?tag=blappos-20"
+      },
+      {
+        "title": "The Gates of Europe: A History of Ukraine",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0465094864.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Gates of Europe by Serhii Plokhy",
+        "quip": "Long-view Ukrainian history for understanding why geography and sovereignty matter here.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0465094864?tag=blappos-20"
+      },
+      {
+        "title": "The Drone Age: How Drone Technology Will Change War and Peace",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/019063586X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Drone Age by Michael J. Boyle",
+        "quip": "Context for the drone and counter-drone technology named in the new agreements.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/019063586X?tag=blappos-20"
+      }
+    ],
+    "source": "https://apnews.com/article/kyiv-russia-ukraine-war-merz-drones-89bb8d2a97cc09d01a316723d08d2fb3",
+    "sourceName": "Read the Associated Press’s October 4 report",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "Germany announced more than €1.3 billion in new military and winter-energy aid for Ukraine during Chancellor Friedrich Merz’s visit to Kyiv.",
+    "socialPunchline": "Winter support packed drones, substations and one very heavy policy suitcase."
+  },
+  {
+    "id": "oct4-snake-golf-balls",
+    "isoDate": "2026-10-04",
+    "month": "October",
+    "date": "Oct 4, 2026",
+    "place": "San Antonio, Texas",
+    "image": "assets/cards/oct4-snake-golf-balls.webp",
+    "title": "Veterinarians remove three golf balls from snake without surgery",
+    "facts": "People reported on October 4 that South Texas Avian & Exotic Hospital treated a snake after it swallowed three golf balls. With the animal heavily sedated, the veterinary team carefully moved each ball through the gastrointestinal tract and out through the mouth, avoiding surgery. The hospital said the snake recovered without complications and continued to do well.",
+    "why": "Foreign-object ingestion can cause a life-threatening obstruction in reptiles. This case is memorable because specialized handling avoided a more invasive procedure, but it is not a do-it-yourself technique: the hospital used heavy sedation and a veterinary team.",
+    "angle": "Three Golf Balls. No Surgery. The patient misunderstood the equipment list, then received a perfect score from exotic medicine. The cheerful clinic scene is original satire, not a recreation of the treatment video.",
+    "amazonLinks": [
+      {
+        "title": "Exotic Animal Medicine for the Veterinary Technician",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1119863147.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Exotic Animal Medicine for the Veterinary Technician",
+        "quip": "A clinical reference for the specialized care behind an unusual reptile rescue.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1119863147?tag=blappos-20"
+      },
+      {
+        "title": "Reptile Medicine and Surgery in Clinical Practice",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/111897767X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Reptile Medicine and Surgery in Clinical Practice",
+        "quip": "A practitioner-focused guide to reptile diagnosis, supportive care and procedures.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/111897767X?tag=blappos-20"
+      },
+      {
+        "title": "Blackwell’s Five-Minute Veterinary Consult: Reptile and Amphibian",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1119233720.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Blackwell’s Five-Minute Veterinary Consult Reptile and Amphibian",
+        "quip": "Quick clinical context for conditions that should remain firmly in expert hands.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1119233720?tag=blappos-20"
+      }
+    ],
+    "source": "https://people.com/snake-receives-treatment-after-swallowing-3-golf-balls-12147148",
+    "sourceName": "Read People’s October 4 report",
+    "sourcePublisher": "People",
+    "socialSummary": "A San Antonio exotic-animal hospital removed three swallowed golf balls from a heavily sedated snake without surgery; the hospital says it recovered well.",
+    "socialPunchline": "Three balls under par, one reptile over it."
+  },
+  {
+    "id": "oct4-supernumerary-rainbows",
+    "isoDate": "2026-10-04",
+    "month": "October",
+    "date": "Oct 4, 2026",
+    "place": "New Jersey",
+    "image": "assets/cards/oct4-supernumerary-rainbows.webp",
+    "title": "Five supernumerary rainbows turn New Jersey sky into a wave-optics lesson",
+    "facts": "NASA’s Astronomy Picture of the Day for October 4 featured a New Jersey photograph in which at least five supernumerary rainbow bands appeared and faded over about half an hour. NASA explained that the extra bands form when falling droplets are nearly uniform in size and typically under one millimeter across, allowing light waves to interfere after reflecting within the drops.",
+    "why": "Ordinary geometric optics cannot fully explain the closely spaced extra bands. Their wave-interference pattern helped provide early nineteenth-century evidence that light behaves as a wave, turning a striking family skywatching moment into a compact physics demonstration.",
+    "angle": "Five Rainbows. One Rain Shower. Weather delivered the deluxe color package and included the footnotes in wave physics. The illustrated overlook is an original scene, not a copy of the featured photograph.",
+    "amazonLinks": [
+      {
+        "title": "Opticks",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0486602052.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Opticks by Isaac Newton",
+        "quip": "A foundational study of reflection, refraction and color—useful history for a rainbow that needs wave optics too.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0486602052?tag=blappos-20"
+      },
+      {
+        "title": "The Rainbow Book",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1449401716.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Rainbow Book by Kate Ohrt",
+        "quip": "A paper-cut celebration of color for readers drawn first by the sky’s visual show.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1449401716?tag=blappos-20"
+      },
+      {
+        "title": "National Geographic Pocket Guide to the Weather of North America",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1426217862.01.LZZZZZZZ.jpg",
+        "alt": "Cover of National Geographic Pocket Guide to the Weather of North America",
+        "quip": "Field-friendly weather context for noticing the next atmospheric surprise.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1426217862?tag=blappos-20"
+      }
+    ],
+    "source": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+    "sourceName": "Read NASA’s October 4 Astronomy Picture of the Day explanation",
+    "sourcePublisher": "NASA Science / Astronomy Picture of the Day",
+    "socialSummary": "NASA featured a New Jersey image showing at least five supernumerary rainbow bands, produced when nearly uniform raindrops make reflected light waves interfere.",
+    "socialPunchline": "The sky upgraded to the deluxe color package."
+  },
+  {
+    "id": "oct4-sewer-gold",
+    "isoDate": "2026-10-04",
+    "month": "October",
+    "date": "Oct 4, 2026",
+    "place": "New York City",
+    "image": "assets/cards/oct4-sewer-gold.webp",
+    "title": "New York sewer explorers chase rumors of lost gold; documented payoff remains elusive",
+    "facts": "The Guardian reported October 4 that two men arrested after allegedly emerging from a Manhattan tunnel told police they entered sewers looking for gold and other valuables. The article linked the incident to several documented sewer entries in 2025 and 2026. A former urban explorer said the most valuable item he found in more than 100 sewer trips was an expired credit card.",
+    "why": "New York’s Department of Environmental Protection says entering sewers is illegal and extremely dangerous because of toxic gases, unstable surfaces, flooding and confined spaces. The gold story explains the behavior attributed to the arrested men; it does not establish that sewer foraging is profitable or that unrelated explorers share the same motive.",
+    "angle": "Sewer Gold: Still Pending. The treasure map appears to end at an expired card and several hazards that do not accept store credit. The joke targets the documented treasure-hunting behavior, not the men’s appearance or private lives.",
+    "amazonLinks": [
+      {
+        "title": "The Works: Anatomy of a City",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0143112708.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Works Anatomy of a City by Kate Ascher",
+        "quip": "An illustrated tour of the infrastructure hidden beneath New York streets.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0143112708?tag=blappos-20"
+      },
+      {
+        "title": "Underground: A Human History of the Worlds Beneath Our Feet",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0812986598.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Underground by Will Hunt",
+        "quip": "A reported history of the human urge to descend below cities, mines and sacred landscapes.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0812986598?tag=blappos-20"
+      },
+      {
+        "title": "New York Underground: The Anatomy of a City",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0415963109.01.LZZZZZZZ.jpg",
+        "alt": "Cover of New York Underground by Julia Solis",
+        "quip": "A closer look at the tunnels, utilities and myths beneath the city—best explored from the page.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0415963109?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.theguardian.com/us-news/2026/oct/04/new-york-sewers-gold-mole-people",
+    "sourceName": "Read The Guardian’s October 4 report",
+    "sourcePublisher": "The Guardian",
+    "socialSummary": "Two men arrested after allegedly leaving a Manhattan tunnel told police they were searching sewers for valuables; city officials warn the spaces are illegal and deadly to enter.",
+    "socialPunchline": "Sewer gold remains pending. Hazards are available immediately."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct4Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct4Stories);
