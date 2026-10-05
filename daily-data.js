@@ -1358,7 +1358,7 @@ const oct4Stories = [
     "date": "Oct 4, 2026",
     "place": "Kyiv, Ukraine",
     "image": "assets/cards/oct4-ukraine-aid.webp",
-    "title": "Germany announces €1.3 billion Ukraine aid package as aerial war intensifies",
+    "title": "Germany announces €1.3 billion Ukraine aid package as aerial war intensifies","magnetUrl":"https://blappos.printify.me/product/32750580","magnetPrice":"$9.99",
     "facts": "Associated Press reported on October 4 that German Chancellor Friedrich Merz announced more than €1.3 billion in new aid during a visit to Kyiv. About €1 billion is military support, including long-range strike weapons, combat drones and satellite technology; roughly €350 million is winter energy aid for generators, substations and repairs. Ukraine and Germany also signed 15 agreements valued at more than €8.5 billion.",
     "why": "The package joins battlefield capability with civilian energy resilience as attacks on Ukrainian cities intensify. The figures are commitments announced by the two governments, not independently audited deliveries, and AP reported them alongside continued Russian missile and drone attacks.",
     "angle": "Winter Support Moves East. The route carries drones, power equipment and policy weight before the cold arrives. The illustration is an original symbolic map scene, not a literal convoy, weapon depiction or endorsement.",
