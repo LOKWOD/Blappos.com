@@ -1540,7 +1540,7 @@ const oct5Stories = [
     "date": "Oct 5, 2026",
     "place": "Stockholm, Sweden",
     "image": "assets/cards/oct5-optogenetics-nobel.webp",
-    "title": "Nobel medicine prize honors the light switch for brain cells",
+    "title": "Nobel medicine prize honors the light switch for brain cells","magnetUrl":"https://blappos.printify.me/product/32790289","magnetPrice":"$9.99",
     "facts": "Reuters reported on October 5 that the 2026 Nobel Prize in Physiology or Medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel for discoveries concerning light-gated ion channels and optogenetics. The technique uses light-sensitive proteins to activate or silence selected neurons, building on research into channelrhodopsins from algae. The three laureates share the 12 million Swedish kronor award.",
     "why": "Optogenetics lets researchers test cause and effect in living neural circuits with unusual precision, improving the study of movement, behavior and neurological disease. The prize recognizes a powerful research method and development platform—not evidence that a near-term cure exists for every condition being studied with it.",
     "angle": "Brain Cells: Now With Light Switches. A microscopic alga supplied the most consequential electrical upgrade in the building. The illustrated brain and Stockholm skyline are original symbols, not portraits of the laureates or a claim about a specific treatment.",
