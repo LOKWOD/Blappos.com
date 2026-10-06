@@ -1626,7 +1626,7 @@ const oct5Stories = [
     "date": "Oct 5, 2026",
     "place": "Brazil ↔ Australia",
     "image": "assets/cards/oct5-oldest-men-birthday.webp",
-    "title": "World’s two oldest men share a birthday one year apart and exchange greetings",
+    "title": "World’s two oldest men share a birthday one year apart and exchange greetings","magnetUrl":"https://blappos.printify.me/product/32790304","magnetPrice":"$9.99",
     "facts": "Guinness World Records reported on October 5 that João Marinho Neto of Brazil, the world’s oldest living man, turned 114 while Ken Weeks of Australia, the second-oldest living man, turned 113. Born on the same date exactly one year apart, they exchanged birthday photographs and greetings across the globe.",
     "why": "The shared birthday is a rare, hopeful connection across roughly 14,000 kilometers, backed by age-validation records rather than an internet claim. It is a celebration of two lives, not evidence for a single longevity secret or a medical promise.",
     "angle": "One Birthday. Two Centuries of Stories. The card aisle has officially become an international time zone. The design uses cakes, cards and a globe rather than either man’s name or likeness.",
