@@ -1711,3 +1711,6 @@ window.dailyStories.unshift(...oct5Stories);
 
 
 // October 5 permanent-page rebuild requested after Printify link verification.
+
+
+// October 5 social release authorized after live page and storefront verification.
