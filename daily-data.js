@@ -1583,7 +1583,7 @@ const oct5Stories = [
     "date": "Oct 5, 2026",
     "place": "Pocono Pines, Pennsylvania",
     "image": "assets/cards/oct5-restaurant-bear.webp",
-    "title": "Black bear checks a restaurant host stand, then raids the dumpster",
+    "title": "Black bear checks a restaurant host stand, then raids the dumpster","magnetUrl":"https://blappos.printify.me/product/32790295","magnetPrice":"$9.99",
     "facts": "UPI reported on October 5 that a large black bear wandered into the Jubilee Restaurant in Pocono Pines during a Saturday night visit. Security video showed the animal investigating the host stand before leaving; the report also documented the bear turning its attention to the restaurant’s dumpster.",
     "why": "The surprise visit is visually comic, but access to restaurant waste can reward bears for returning to places where people gather. Wildlife agencies advise securing food and trash, keeping distance and never feeding or approaching a bear.",
     "angle": "Table for One. Dumpster for Dessert. The reservation system accepted paws, but the kitchen closed before the tasting menu. The restaurant scene is an original illustration, not a copy of security footage.",
