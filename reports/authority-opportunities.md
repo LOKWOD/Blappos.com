@@ -465,3 +465,31 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct4-sewer-gold
 - Honest pitch angle: A behavior-focused source ledger that preserves the attributed treasure-search claim and pairs it with a plain-language summary of confined-space, gas, flooding and unstable-surface hazards.
 - Qualification: The responsible city infrastructure agency quoted for the safety warning. Any optional contact should invite correction or an authoritative safety link; it must not identify private individuals, imply agency endorsement or ask for a backlink.
+
+
+## October 5, 2026 — qualified opportunities (not contacted)
+
+### Nobel Prize Outreach press team — optogenetics evidence boundary
+
+- Target: Nobel Prize Outreach / Nobel Foundation press team
+- Route: https://www.nobelprize.org/press-documents-for-media/
+- Contact route listed by official Nobel materials: press@nobelprize.org
+- Matching Blappos asset: https://blappos.com/verification/#oct5-optogenetics-nobel
+- Honest pitch angle: A plain-language evidence entry that preserves the official award wording, explains why the algal light-gated channels matter and explicitly avoids turning a research platform into a cure claim.
+- Qualification: Exact prize institution and a science-publication fit. Any optional contact should invite a technical or attribution correction; it must not imply Nobel endorsement of the illustration, magnet or affiliate products.
+
+### Pennsylvania Game Commission — restaurant-bear coexistence note
+
+- Target: Pennsylvania Game Commission wildlife education and public-information staff
+- Route: https://www.pa.gov/agencies/pgc/about-us/contact-information
+- Matching Blappos asset: https://blappos.com/verification/#oct5-restaurant-bear
+- Honest pitch angle: A source-labeled recap that uses the visual incident to reinforce distance, secured waste and official reporting without reproducing the restaurant’s security footage.
+- Qualification: Responsible state wildlife agency and direct coexistence relevance. Any optional contact should ask for a safety correction or better official resource; it must not seek promotion, use an emergency line for outreach or imply agency endorsement.
+
+### Guinness World Records press centre — shared 113th/114th birthday
+
+- Target: Guinness World Records press centre
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct5-oldest-men-birthday
+- Honest pitch angle: A permanent record note that credits Guinness for the age status and greeting while rejecting simplistic longevity claims and keeping both men’s likenesses off the product.
+- Qualification: Exact validating publisher and an unusually hopeful record connection. Any optional outreach should invite a factual correction or optional share only; it must never imply endorsement of the commercial magnet.
