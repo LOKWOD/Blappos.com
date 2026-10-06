@@ -1530,3 +1530,181 @@ window.dailyStories.unshift(...oct4Stories);
 // October 4 permanent-page rebuild requested after Printify link verification.
 
 // October 4 social release authorized after live page and storefront verification.
+
+
+const oct5Stories = [
+  {
+    "id": "oct5-optogenetics-nobel",
+    "isoDate": "2026-10-05",
+    "month": "October",
+    "date": "Oct 5, 2026",
+    "place": "Stockholm, Sweden",
+    "image": "assets/cards/oct5-optogenetics-nobel.webp",
+    "title": "Nobel medicine prize honors the light switch for brain cells",
+    "facts": "Reuters reported on October 5 that the 2026 Nobel Prize in Physiology or Medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel for discoveries concerning light-gated ion channels and optogenetics. The technique uses light-sensitive proteins to activate or silence selected neurons, building on research into channelrhodopsins from algae. The three laureates share the 12 million Swedish kronor award.",
+    "why": "Optogenetics lets researchers test cause and effect in living neural circuits with unusual precision, improving the study of movement, behavior and neurological disease. The prize recognizes a powerful research method and development platform—not evidence that a near-term cure exists for every condition being studied with it.",
+    "angle": "Brain Cells: Now With Light Switches. A microscopic alga supplied the most consequential electrical upgrade in the building. The illustrated brain and Stockholm skyline are original symbols, not portraits of the laureates or a claim about a specific treatment.",
+    "amazonLinks": [
+      {
+        "title": "Principles of Neural Science, Sixth Edition",
+        "image": "https://m.media-amazon.com/images/I/81BtojMeFPL._SL1500_.jpg",
+        "alt": "Cover of Principles of Neural Science, Sixth Edition",
+        "quip": "The comprehensive neuroscience reference behind the circuits that optogenetics helps researchers interrogate.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1259642232?tag=blappos-20"
+      },
+      {
+        "title": "The Brain: The Story of You",
+        "image": "https://m.media-amazon.com/images/I/812OzOL1BTL._SL1500_.jpg",
+        "alt": "Cover of The Brain The Story of You by David Eagleman",
+        "quip": "An accessible tour of the organ whose individual cells can now be studied with pulses of light.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0525433449?tag=blappos-20"
+      },
+      {
+        "title": "Behave: The Biology of Humans at Our Best and Worst",
+        "image": "https://m.media-amazon.com/images/I/81GOdrpB6hL._SL1500_.jpg",
+        "alt": "Cover of Behave by Robert Sapolsky",
+        "quip": "A broad biological context for connecting neural circuits with behavior without reducing people to one switch.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0143110918?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/",
+    "sourceName": "Read Reuters’ October 5 report",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "The 2026 Nobel medicine prize honored three scientists whose work on light-gated ion channels made optogenetics—a way to activate or silence selected neurons with light—possible.",
+    "socialPunchline": "A microscopic alga supplied the brain’s most consequential light switch."
+  },
+  {
+    "id": "oct5-restaurant-bear",
+    "isoDate": "2026-10-05",
+    "month": "October",
+    "date": "Oct 5, 2026",
+    "place": "Pocono Pines, Pennsylvania",
+    "image": "assets/cards/oct5-restaurant-bear.webp",
+    "title": "Black bear checks a restaurant host stand, then raids the dumpster",
+    "facts": "UPI reported on October 5 that a large black bear wandered into the Jubilee Restaurant in Pocono Pines during a Saturday night visit. Security video showed the animal investigating the host stand before leaving; the report also documented the bear turning its attention to the restaurant’s dumpster.",
+    "why": "The surprise visit is visually comic, but access to restaurant waste can reward bears for returning to places where people gather. Wildlife agencies advise securing food and trash, keeping distance and never feeding or approaching a bear.",
+    "angle": "Table for One. Dumpster for Dessert. The reservation system accepted paws, but the kitchen closed before the tasting menu. The restaurant scene is an original illustration, not a copy of security footage.",
+    "amazonLinks": [
+      {
+        "title": "Alaska Bear Tales",
+        "image": "https://m.media-amazon.com/images/I/A1G9tSgqYDL._SL1500_.jpg",
+        "alt": "Cover of Alaska Bear Tales by Larry Kaniut",
+        "quip": "True bear encounters for readers who prefer their wildlife surprises from a safe chair.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0882402323?tag=blappos-20"
+      },
+      {
+        "title": "Celestron Nature DX 8x42 Binoculars",
+        "image": "https://m.media-amazon.com/images/P/B00B73JONS.01.LZZZZZZZ.jpg",
+        "alt": "Celestron Nature DX 8x42 binoculars",
+        "quip": "A safer way to admire a black bear than offering it the host stand.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/B00B73JONS?tag=blappos-20"
+      },
+      {
+        "title": "Bear Attacks: Their Causes and Avoidance",
+        "image": "https://m.media-amazon.com/images/P/158574557X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Bear Attacks Their Causes and Avoidance",
+        "quip": "Practical context for preventing an amusing video from becoming a dangerous encounter.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/158574557X?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/05/bear-Jubilee-Restaurant-Pocono-Pines/5481791217525/",
+    "sourceName": "Read UPI’s October 5 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "A black bear wandered into the Jubilee Restaurant in Pennsylvania’s Pocono Mountains, inspected the host stand on security video and later investigated the dumpster.",
+    "socialPunchline": "Table for one. Dumpster for dessert."
+  },
+  {
+    "id": "oct5-oldest-men-birthday",
+    "isoDate": "2026-10-05",
+    "month": "October",
+    "date": "Oct 5, 2026",
+    "place": "Brazil ↔ Australia",
+    "image": "assets/cards/oct5-oldest-men-birthday.webp",
+    "title": "World’s two oldest men share a birthday one year apart and exchange greetings",
+    "facts": "Guinness World Records reported on October 5 that João Marinho Neto of Brazil, the world’s oldest living man, turned 114 while Ken Weeks of Australia, the second-oldest living man, turned 113. Born on the same date exactly one year apart, they exchanged birthday photographs and greetings across the globe.",
+    "why": "The shared birthday is a rare, hopeful connection across roughly 14,000 kilometers, backed by age-validation records rather than an internet claim. It is a celebration of two lives, not evidence for a single longevity secret or a medical promise.",
+    "angle": "One Birthday. Two Centuries of Stories. The card aisle has officially become an international time zone. The design uses cakes, cards and a globe rather than either man’s name or likeness.",
+    "amazonLinks": [
+      {
+        "title": "The Blue Zones, Second Edition: 9 Lessons for Living Longer From the People Who’ve Lived the Longest",
+        "image": "https://m.media-amazon.com/images/I/71S7ldYU8TL._SL1500_.jpg",
+        "alt": "Cover of The Blue Zones Second Edition",
+        "quip": "A reported look at long-lived communities—context, not a guarantee wrapped in birthday candles.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1426209487?tag=blappos-20"
+      },
+      {
+        "title": "The Longevity Diet",
+        "image": "https://m.media-amazon.com/images/I/715l756rXGL._SL1500_.jpg",
+        "alt": "Cover of The Longevity Diet by Valter Longo",
+        "quip": "Research-informed reading for the science-curious guest at this 227-year combined birthday.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0525534075?tag=blappos-20"
+      },
+      {
+        "title": "Hallmark Birthday Cards Assortment, Happy Cake Day",
+        "image": "https://m.media-amazon.com/images/I/91r3aH516oL._AC_SL1500_.jpg",
+        "alt": "Hallmark Happy Cake Day birthday card assortment",
+        "quip": "Twelve cards for anyone whose birthday correspondence has become an international institution.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/B07BJ68K16?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.guinnessworldrecords.com/news/2026/10/worlds-oldest-men-send-birthday-wishes-to-each-other-as-they-turn-113-and-114",
+    "sourceName": "Read Guinness World Records’ October 5 report",
+    "sourcePublisher": "Guinness World Records",
+    "socialSummary": "The world’s oldest and second-oldest living men—114 in Brazil and 113 in Australia—share an October 5 birthday and exchanged greetings across the globe.",
+    "socialPunchline": "One birthday, two centuries of stories."
+  },
+  {
+    "id": "oct5-couch-scooters",
+    "isoDate": "2026-10-05",
+    "month": "October",
+    "date": "Oct 5, 2026",
+    "place": "Charlotte, North Carolina",
+    "image": "assets/cards/oct5-couch-scooters.webp",
+    "title": "Two riders put a couch on electric scooters; police end the commute",
+    "facts": "UPI reported on October 5 that Charlotte-Mecklenburg Police stopped two riders traveling on South Tryon Street with a couch balanced across two electric scooters. Local reporting traced the video to a police social post from October 1 about the earlier street stop.",
+    "why": "A couch is not a tested scooter platform: the improvised setup compromises stability, steering, visibility and braking in live traffic. The documented facts establish the unusual stop, not the riders’ motives or any charge beyond what authorities publicly described.",
+    "angle": "Commute Mode: Reclined. The living room entered traffic and immediately discovered that cupholders are not turn signals. The joke targets the public behavior; the generic riders are not portraits of the people involved.",
+    "amazonLinks": [
+      {
+        "title": "The Design of Everyday Things: Revised and Expanded Edition",
+        "image": "https://m.media-amazon.com/images/I/71bVz+uF3NL._SL1500_.jpg",
+        "alt": "Cover of The Design of Everyday Things by Don Norman",
+        "quip": "A design classic for diagnosing why furniture and transportation have different job descriptions.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0465050654?tag=blappos-20"
+      },
+      {
+        "title": "Shoulder Dolly Moving Straps",
+        "image": "https://m.media-amazon.com/images/I/81LruVGbg+L._AC_SL1500_.jpg",
+        "alt": "Shoulder Dolly moving straps for two movers",
+        "quip": "For moving a couch with feet firmly on the ground and traffic omitted from the plan.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/B00022749Q?tag=blappos-20"
+      },
+      {
+        "title": "Segway Ninebot F2 Electric KickScooter and Helmet Bundle",
+        "image": "https://m.media-amazon.com/images/I/41ZS8dz6O1L._AC_SL1001_.jpg",
+        "alt": "Segway Ninebot F2 electric kick scooter with helmet bundle",
+        "quip": "One rider, one scooter, one helmet—the seating upgrade remains strictly stationary.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/B0CYHJBGLJ?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/05/nc-us-Charlotte-Mecklenburg-couch-scooters/8751791210974/",
+    "sourceName": "Read UPI’s October 5 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Charlotte-Mecklenburg Police stopped two riders traveling on South Tryon Street with a couch balanced across two electric scooters.",
+    "socialPunchline": "The living room entered traffic and discovered that cupholders are not turn signals."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct5Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct5Stories);
