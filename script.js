@@ -15,7 +15,7 @@ const allStories=archiveStories;
 const dailyFinds=window.dailyFinds||[];
 const affiliateTag='blappos-20';
 function taggedAmazonUrl(rawUrl){try{const url=new URL(rawUrl);if(url.hostname==='amazon.com'||url.hostname.endsWith('.amazon.com')){url.searchParams.set('tag',affiliateTag);return url.href}}catch{}return rawUrl}
-function stableAmazonImage(rawUrl){return rawUrl?.replace('https://m.media-amazon.com/images/','https://images-na.ssl-images-amazon.com/images/')||rawUrl}
+function stableAmazonImage(rawUrl){return rawUrl||''}
 function amazonLinksForStory(story){
  const verified=dailyFinds.filter(find=>find.storyId===story.id).map(find=>({title:find.title,quip:find.quip,image:stableAmazonImage(find.image),alt:find.alt,salesPriority:find.salesPriority,url:taggedAmazonUrl(find.url)}));
  const supplied=(story.amazonLinks||[]).map(item=>({title:item.title,quip:item.quip,image:stableAmazonImage(item.image),alt:item.alt,salesPriority:item.salesPriority,url:taggedAmazonUrl(item.url)}));
@@ -27,7 +27,7 @@ function amazonBlock(story){
  const links=amazonLinksForStory(story);
  if(!links.length)return '';
  const heading=links.length===3?'Three ridiculously relevant Amazon finds':`${links.length} verified Amazon find${links.length===1?'':'s'}`;
- return `<section class="story-amazon" aria-label="Relevant Amazon finds"><h4>${heading}</h4><div class="story-amazon-links">${links.map((item,index)=>`<a class="story-amazon-link" href="${item.url}" target="_blank" rel="sponsored nofollow noopener"><span class="story-amazon-image"><img src="${item.image}" alt="${item.alt||item.title}" width="320" height="320" loading="lazy"></span><span class="story-amazon-copy"><small>AMAZON FIND 0${index+1}</small><strong>${item.title}</strong><em>${item.quip}</em><b>SEE THE EXACT ITEM →</b></span></a>`).join('')}</div><p class="story-amazon-disclosure">As an Amazon Associate, Blappos may earn from qualifying purchases. Product availability and pricing can change.</p></section>`;
+ return `<section class="story-amazon" aria-label="Relevant Amazon finds"><h4>${heading}</h4><div class="story-amazon-links">${links.map((item,index)=>`<a class="story-amazon-link" href="${item.url}" target="_blank" rel="sponsored nofollow noopener"><span class="story-amazon-image"><img src="${item.image}" alt="${item.alt||item.title}" width="320" height="320" loading="lazy" referrerpolicy="no-referrer"></span><span class="story-amazon-copy"><small>AMAZON FIND 0${index+1}</small><strong>${item.title}</strong><em>${item.quip}</em><b>SEE THE EXACT ITEM →</b></span></a>`).join('')}</div><p class="story-amazon-disclosure">As an Amazon Associate, Blappos may earn from qualifying purchases. Product availability and pricing can change.</p></section>`;
 }
 function magnetBlock(story){
  if(!story.magnetUrl)return '';
