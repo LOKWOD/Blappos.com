@@ -1669,7 +1669,7 @@ const oct5Stories = [
     "date": "Oct 5, 2026",
     "place": "Charlotte, North Carolina",
     "image": "assets/cards/oct5-couch-scooters.webp",
-    "title": "Two riders put a couch on electric scooters; police end the commute",
+    "title": "Two riders put a couch on electric scooters; police end the commute","magnetUrl":"https://blappos.printify.me/product/32790307","magnetPrice":"$9.99",
     "facts": "UPI reported on October 5 that Charlotte-Mecklenburg Police stopped two riders traveling on South Tryon Street with a couch balanced across two electric scooters. Local reporting traced the video to a police social post from October 1 about the earlier street stop.",
     "why": "A couch is not a tested scooter platform: the improvised setup compromises stability, steering, visibility and braking in live traffic. The documented facts establish the unusual stop, not the riders’ motives or any charge beyond what authorities publicly described.",
     "angle": "Commute Mode: Reclined. The living room entered traffic and immediately discovered that cupholders are not turn signals. The joke targets the public behavior; the generic riders are not portraits of the people involved.",
