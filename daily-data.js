@@ -1731,7 +1731,7 @@ const oct6Stories = [
     "amazonLinks": [
       {
         "title": "Exoplanets: Diamond Worlds, Super Earths, Pulsar Planets, and the New Search for Life beyond Our Solar System",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1588346250.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/1588346250-L.jpg",
         "alt": "Cover of Exoplanets by Michael Summers and James Trefil",
         "quip": "A wide-angle guide to the strange worlds that make a reborn gas giant feel almost plausible.",
         "salesPriority": 5,
@@ -1739,7 +1739,7 @@ const oct6Stories = [
       },
       {
         "title": "The Little Book of Exoplanets",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0691215472.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/0691215472-L.jpg",
         "alt": "Cover of The Little Book of Exoplanets by Joshua N. Winn",
         "quip": "A compact scientific tour of planets beyond our solar system, including the methods used to find them.",
         "salesPriority": 5,
@@ -1747,7 +1747,7 @@ const oct6Stories = [
       },
       {
         "title": "The Planet Factory: Exoplanets and the Search for a Second Earth",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/147291774X.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/147291774X-L.jpg",
         "alt": "Cover of The Planet Factory by Elizabeth Tasker",
         "quip": "Planet formation explained for readers now wondering whether stellar ashes come with assembly instructions.",
         "salesPriority": 5,
@@ -1774,7 +1774,7 @@ const oct6Stories = [
     "amazonLinks": [
       {
         "title": "Tiny But Mighty: Kitten Lady’s Guide to Saving the Most Vulnerable Felines",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1524744069.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/1524744069-L.jpg",
         "alt": "Cover of Tiny But Mighty by Hannah Shaw",
         "quip": "Practical rescue-kitten knowledge for anyone whose heart just walked into a 300-foot aquarium tunnel.",
         "salesPriority": 5,
@@ -1782,7 +1782,7 @@ const oct6Stories = [
       },
       {
         "title": "Think Like a Cat: How to Raise a Well-Adjusted Cat—Not a Sour Puss",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0143119796.01.LZZZZZZZ.jpg",
+        "image": "https://cdn2.penguin.com.au/covers/original/9781101552674.jpg",
         "alt": "Cover of Think Like a Cat by Pam Johnson-Bennett",
         "quip": "Behavior and socialization guidance for helping a tiny explorer become a confident companion.",
         "salesPriority": 5,
@@ -1790,7 +1790,7 @@ const oct6Stories = [
       },
       {
         "title": "National Geographic Ocean: A Global Odyssey",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1426221924.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/1426221924-L.jpg",
         "alt": "Cover of National Geographic Ocean A Global Odyssey",
         "quip": "The big blue reference for humans who want to understand everything the kittens stared at.",
         "salesPriority": 5,
@@ -1817,7 +1817,7 @@ const oct6Stories = [
     "amazonLinks": [
       {
         "title": "How to Read a Nautical Chart, 2nd Edition",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0071779825.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/0071779825-L.jpg",
         "alt": "Cover of How to Read a Nautical Chart Second Edition",
         "quip": "For navigation students who prefer knowing where their markers are supposed to stay.",
         "salesPriority": 5,
@@ -1825,7 +1825,7 @@ const oct6Stories = [
       },
       {
         "title": "Adrift: Seventy-six Days Lost at Sea",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0618257322.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/0618257322-L.jpg",
         "alt": "Cover of Adrift by Steven Callahan",
         "quip": "A classic ocean-drift survival account for perspective on the buoy’s uncrewed crossing.",
         "salesPriority": 5,
@@ -1833,7 +1833,7 @@ const oct6Stories = [
       },
       {
         "title": "Flotsametrics and the Floating World",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0061558427.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/0061558427-L.jpg",
         "alt": "Cover of Flotsametrics and the Floating World by Curtis Ebbesmeyer and Eric Scigliano",
         "quip": "The science of drifting objects and ocean currents, now with one extremely large Canadian case study.",
         "salesPriority": 5,
@@ -1860,7 +1860,7 @@ const oct6Stories = [
     "amazonLinks": [
       {
         "title": "WHOPPERS Malted Milk Balls Candy Movie Theater Box, 5 oz",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/B0044FTC60.01.LZZZZZZZ.jpg",
+        "image": "https://storage.googleapis.com/images-lnb-prd-8936dd0.lnb.prd.v8.commerce.mi9cloud.com/product-images/zoom/00010700024404_Left.png",
         "alt": "WHOPPERS malted milk balls theater box",
         "quip": "The obvious training equipment, provided the snack survives long enough to reach the starting bowl.",
         "salesPriority": 5,
@@ -1868,7 +1868,7 @@ const oct6Stories = [
       },
       {
         "title": "Breath: The New Science of a Lost Art",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0735213615.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/0735213615-L.jpg",
         "alt": "Cover of Breath by James Nestor",
         "quip": "A serious book about breathing for a stunt that turned controlled suction into competitive logistics.",
         "salesPriority": 5,
@@ -1876,7 +1876,7 @@ const oct6Stories = [
       },
       {
         "title": "Guinness World Records 2027",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg",
+        "image": "https://www.wordsworth.co.za/cdn/shop/files/Book2027FRONTCROPPED_518x700.png?v=1778590194",
         "alt": "Cover of Guinness World Records 2027",
         "quip": "The annual record compendium to consult while this particular application waits for a ruling.",
         "salesPriority": 5,
@@ -1895,3 +1895,6 @@ window.dailyStories.unshift(...oct6Stories);
 
 
 // October 6 permanent-page and authority rebuild requested after Printify link verification.
+
+
+// October 6 product artwork refresh requested after rendered-card QA.
