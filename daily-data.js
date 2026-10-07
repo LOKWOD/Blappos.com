@@ -1853,7 +1853,7 @@ const oct6Stories = [
     "date": "Oct 6, 2026",
     "place": "Boise, Idaho",
     "image": "assets/cards/oct6-malt-ball-record.webp",
-    "title": "Man moves 51 malt balls by straw in one minute; record remains pending",
+    "title": "Man moves 51 malt balls by straw in one minute; record remains pending","magnetUrl":"https://blappos.printify.me/product/32823113","magnetPrice":"$9.99",
     "facts": "UPI reported on October 6 that Idaho record-breaker David Rush used suction through a straw to move 51 malt balls between bowls 30 centimeters apart in one minute. His first attempt was invalidated after he bumped a bowl, and the final count excluded a 52nd candy that arrived after time expired.",
     "why": "The attempt more than cleared the listed benchmark of 32, but Guinness World Records has not yet confirmed it. That distinction matters: documentation can make an extraordinary claim verifiable, while a dramatic video and an unofficial count are only the application.",
     "angle": "One Straw. One Minute. Record Pending. The candy moved quickly; the paperwork keeps its own pace. The card documents a submitted attempt, not an already certified world record.",
