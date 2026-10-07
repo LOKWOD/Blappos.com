@@ -1724,7 +1724,7 @@ const oct6Stories = [
     "date": "Oct 6, 2026",
     "place": "Cetus, 250 light-years away",
     "image": "assets/cards/oct6-phoenix-planet.webp",
-    "title": "First known ‘phoenix planet’ appears to form from a dead star’s ashes",
+    "title": "First known ‘phoenix planet’ appears to form from a dead star’s ashes","magnetUrl":"https://blappos.printify.me/product/32823104","magnetPrice":"$9.99",
     "facts": "Reuters reported on October 6 that astronomers found what they describe as the first known planet formed after its star became a white dwarf. The gas giant orbits the stellar remnant every 4.4 days about 250 light-years away, and its atmosphere contains unusually high levels of elements such as niobium, copper and zinc that point to a second generation of planet formation.",
     "why": "The finding suggests some planetary systems may get an unexpected second act: material expelled as a star dies can gather into a new world. The research team says follow-up observations with the James Webb Space Telescope are needed, so the origin is a strongly supported interpretation—not yet the final word.",
     "angle": "Born From a Dying Star. The universe looked at a stellar obituary and filed a birth announcement. The illustration is an original cosmic scene, not a telescope image or a claim that the planet is habitable.",
