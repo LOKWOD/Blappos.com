@@ -1714,3 +1714,181 @@ window.dailyStories.unshift(...oct5Stories);
 
 
 // October 5 social release authorized after live page and storefront verification.
+
+
+const oct6Stories = [
+  {
+    "id": "oct6-phoenix-planet",
+    "isoDate": "2026-10-06",
+    "month": "October",
+    "date": "Oct 6, 2026",
+    "place": "Cetus, 250 light-years away",
+    "image": "assets/cards/oct6-phoenix-planet.webp",
+    "title": "First known ‘phoenix planet’ appears to form from a dead star’s ashes",
+    "facts": "Reuters reported on October 6 that astronomers found what they describe as the first known planet formed after its star became a white dwarf. The gas giant orbits the stellar remnant every 4.4 days about 250 light-years away, and its atmosphere contains unusually high levels of elements such as niobium, copper and zinc that point to a second generation of planet formation.",
+    "why": "The finding suggests some planetary systems may get an unexpected second act: material expelled as a star dies can gather into a new world. The research team says follow-up observations with the James Webb Space Telescope are needed, so the origin is a strongly supported interpretation—not yet the final word.",
+    "angle": "Born From a Dying Star. The universe looked at a stellar obituary and filed a birth announcement. The illustration is an original cosmic scene, not a telescope image or a claim that the planet is habitable.",
+    "amazonLinks": [
+      {
+        "title": "Exoplanets: Diamond Worlds, Super Earths, Pulsar Planets, and the New Search for Life beyond Our Solar System",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1588346250.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Exoplanets by Michael Summers and James Trefil",
+        "quip": "A wide-angle guide to the strange worlds that make a reborn gas giant feel almost plausible.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1588346250?tag=blappos-20"
+      },
+      {
+        "title": "The Little Book of Exoplanets",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0691215472.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Little Book of Exoplanets by Joshua N. Winn",
+        "quip": "A compact scientific tour of planets beyond our solar system, including the methods used to find them.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0691215472?tag=blappos-20"
+      },
+      {
+        "title": "The Planet Factory: Exoplanets and the Search for a Second Earth",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/147291774X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Planet Factory by Elizabeth Tasker",
+        "quip": "Planet formation explained for readers now wondering whether stellar ashes come with assembly instructions.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/147291774X?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.reuters.com/science/alien-phoenix-planet-was-born-ashes-dying-star-2026-10-06/",
+    "sourceName": "Read Reuters’ October 6 report",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "Astronomers reported the first known example of a planet apparently formed from material shed after its star became a white dwarf; follow-up observations are still needed.",
+    "socialPunchline": "The universe filed a birth announcement inside a stellar obituary."
+  },
+  {
+    "id": "oct6-kitten-aquarium",
+    "isoDate": "2026-10-06",
+    "month": "October",
+    "date": "Oct 6, 2026",
+    "place": "Bloomington, Minnesota",
+    "image": "assets/cards/oct6-kitten-aquarium.webp",
+    "title": "Rescue kittens take an aquarium field trip and meet the sharks",
+    "facts": "The Associated Press reported on October 6 that about two dozen orphaned kittens from the Bitty Kitty Brigade spent nearly two hours exploring Sea Life at the Mall of America before it opened to the public. The sixth annual outing took them through a 300-foot aquarium tunnel past sharks, sea turtles and fish.",
+    "why": "The charming visit doubles as enrichment and socialization. The rescue says exposure to unfamiliar sights and sounds can help kittens adjust to new environments and prepare for adoption; the group expects to care for roughly 1,000 kittens this year.",
+    "angle": "Kittens Meet Sharks. The aquarium scheduled a predator summit and somehow the smallest delegates stole the meeting. The artwork is an original illustration, not aquarium photography.",
+    "amazonLinks": [
+      {
+        "title": "Tiny But Mighty: Kitten Lady’s Guide to Saving the Most Vulnerable Felines",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1524744069.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Tiny But Mighty by Hannah Shaw",
+        "quip": "Practical rescue-kitten knowledge for anyone whose heart just walked into a 300-foot aquarium tunnel.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1524744069?tag=blappos-20"
+      },
+      {
+        "title": "Think Like a Cat: How to Raise a Well-Adjusted Cat—Not a Sour Puss",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0143119796.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Think Like a Cat by Pam Johnson-Bennett",
+        "quip": "Behavior and socialization guidance for helping a tiny explorer become a confident companion.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0143119796?tag=blappos-20"
+      },
+      {
+        "title": "National Geographic Ocean: A Global Odyssey",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1426221924.01.LZZZZZZZ.jpg",
+        "alt": "Cover of National Geographic Ocean A Global Odyssey",
+        "quip": "The big blue reference for humans who want to understand everything the kittens stared at.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1426221924?tag=blappos-20"
+      }
+    ],
+    "source": "https://apnews.com/article/4380dd682bbdd2033bbc437e613b233c",
+    "sourceName": "Read the Associated Press’ October 6 report",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "About two dozen orphaned kittens from the Bitty Kitty Brigade explored the Mall of America aquarium before opening time as an enrichment and socialization outing.",
+    "socialPunchline": "The aquarium hosted a predator summit and the smallest delegates stole the meeting."
+  },
+  {
+    "id": "oct6-canadian-buoy",
+    "isoDate": "2026-10-06",
+    "month": "October",
+    "date": "Oct 6, 2026",
+    "place": "Achill Island, County Mayo, Ireland",
+    "image": "assets/cards/oct6-canadian-buoy.webp",
+    "title": "3.8-ton Canadian buoy crosses the Atlantic and lands in Ireland",
+    "facts": "UPI reported on October 6 that a Canadian Coast Guard buoy weighing about 3.8 tons washed ashore on Achill Island in County Mayo. Local officials were coordinating with the Canadian Coast Guard to secure and recover it; if it came directly from Canada, the Atlantic journey exceeded 3,000 miles.",
+    "why": "The ocean can turn infrastructure into a long-distance drifter. Authorities want the buoy secured because a multi-ton navigation marker could become a hazard again if tides return it to the water; its exact starting point and route remain unknown.",
+    "angle": "3,000 Miles to Ireland. The buoy crossed an ocean without a passport, itinerary or even the courtesy of a checked-baggage receipt. The route graphic is illustrative because nobody has reconstructed its exact voyage.",
+    "amazonLinks": [
+      {
+        "title": "How to Read a Nautical Chart, 2nd Edition",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0071779825.01.LZZZZZZZ.jpg",
+        "alt": "Cover of How to Read a Nautical Chart Second Edition",
+        "quip": "For navigation students who prefer knowing where their markers are supposed to stay.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0071779825?tag=blappos-20"
+      },
+      {
+        "title": "Adrift: Seventy-six Days Lost at Sea",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0618257322.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Adrift by Steven Callahan",
+        "quip": "A classic ocean-drift survival account for perspective on the buoy’s uncrewed crossing.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0618257322?tag=blappos-20"
+      },
+      {
+        "title": "Flotsametrics and the Floating World",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0061558427.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Flotsametrics and the Floating World by Curtis Ebbesmeyer and Eric Scigliano",
+        "quip": "The science of drifting objects and ocean currents, now with one extremely large Canadian case study.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0061558427?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/06/ireland-county-mayo-canadian-coast-guard-buoy/1221791304125/",
+    "sourceName": "Read UPI’s October 6 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "A roughly 3.8-ton Canadian Coast Guard buoy washed ashore on Ireland’s Achill Island after a possible Atlantic journey of more than 3,000 miles; its exact route is unknown.",
+    "socialPunchline": "It crossed an ocean without a passport, itinerary or checked-baggage receipt."
+  },
+  {
+    "id": "oct6-malt-ball-record",
+    "isoDate": "2026-10-06",
+    "month": "October",
+    "date": "Oct 6, 2026",
+    "place": "Boise, Idaho",
+    "image": "assets/cards/oct6-malt-ball-record.webp",
+    "title": "Man moves 51 malt balls by straw in one minute; record remains pending",
+    "facts": "UPI reported on October 6 that Idaho record-breaker David Rush used suction through a straw to move 51 malt balls between bowls 30 centimeters apart in one minute. His first attempt was invalidated after he bumped a bowl, and the final count excluded a 52nd candy that arrived after time expired.",
+    "why": "The attempt more than cleared the listed benchmark of 32, but Guinness World Records has not yet confirmed it. That distinction matters: documentation can make an extraordinary claim verifiable, while a dramatic video and an unofficial count are only the application.",
+    "angle": "One Straw. One Minute. Record Pending. The candy moved quickly; the paperwork keeps its own pace. The card documents a submitted attempt, not an already certified world record.",
+    "amazonLinks": [
+      {
+        "title": "WHOPPERS Malted Milk Balls Candy Movie Theater Box, 5 oz",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/B0044FTC60.01.LZZZZZZZ.jpg",
+        "alt": "WHOPPERS malted milk balls theater box",
+        "quip": "The obvious training equipment, provided the snack survives long enough to reach the starting bowl.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/B0044FTC60?tag=blappos-20"
+      },
+      {
+        "title": "Breath: The New Science of a Lost Art",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0735213615.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Breath by James Nestor",
+        "quip": "A serious book about breathing for a stunt that turned controlled suction into competitive logistics.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0735213615?tag=blappos-20"
+      },
+      {
+        "title": "Guinness World Records 2027",
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Guinness World Records 2027",
+        "quip": "The annual record compendium to consult while this particular application waits for a ruling.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/06/guinness-world-records-david-rush-malt-balls-straw/4211791303328/",
+    "sourceName": "Read UPI’s October 6 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Idaho record-breaker David Rush moved 51 malt balls between bowls with a straw in one minute, but Guinness World Records has not yet confirmed the result.",
+    "socialPunchline": "The candy moved quickly; the paperwork keeps its own pace."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct6Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct6Stories);
