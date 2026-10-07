@@ -1892,3 +1892,6 @@ const oct6Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct6Stories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct6Stories);
+
+
+// October 6 permanent-page and authority rebuild requested after Printify link verification.

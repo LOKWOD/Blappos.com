@@ -493,3 +493,33 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct5-oldest-men-birthday
 - Honest pitch angle: A permanent record note that credits Guinness for the age status and greeting while rejecting simplistic longevity claims and keeping both men’s likenesses off the product.
 - Qualification: Exact validating publisher and an unusually hopeful record connection. Any optional outreach should invite a factual correction or optional share only; it must never imply endorsement of the commercial magnet.
+
+
+## October 6, 2026 — qualified opportunities (not contacted)
+
+### University of Warwick press team — second-generation planet evidence boundary
+
+- Target: University of Warwick press and media relations
+- Route: https://warwick.ac.uk/newsandevents/pressreleases/
+- Contact route listed by the university: press@warwick.ac.uk
+- Matching Blappos asset: https://blappos.com/verification/#oct6-phoenix-planet
+- Honest pitch angle: A plain-language evidence entry that explains why the elemental signature supports a planet formed after white-dwarf creation while keeping the proposed origin distinct from future James Webb confirmation.
+- Qualification: The discovery team cited by Reuters includes Warwick researchers and the asset is a direct science-communication fit. Any optional contact should invite technical correction or a stronger primary-paper link; it must not imply university endorsement of the artwork, magnet or affiliate products.
+
+### Bitty Kitty Brigade — aquarium-enrichment source note
+
+- Target: Bitty Kitty Brigade
+- Route: https://bittykittybrigade.org/contact/
+- Contact route listed by the rescue: info@bittykittybrigade.org
+- Matching Blappos asset: https://blappos.com/verification/#oct6-kitten-aquarium
+- Honest pitch angle: A permanent, sourced recap of the sixth annual aquarium visit that credits the rescue’s enrichment purpose, preserves the reported scale and separates the verified outing from the predator-summit joke.
+- Qualification: Exact rescue and subject of the Associated Press report. Any optional contact should invite a factual correction or optional sharing of the noncommercial evidence entry; it must not solicit promotion, use intake channels or imply rescue endorsement of the product.
+
+### Mayo County Council Communications — transatlantic buoy evidence note
+
+- Target: Mayo County Council Communications Department
+- Route: https://www.mayo.ie/council/communications
+- General council contact route: https://www.mayo.ie/en-ie/contact-us
+- Matching Blappos asset: https://blappos.com/verification/#oct6-canadian-buoy
+- Honest pitch angle: A source-labeled entry that records the buoy’s reported mass, identification and recovery work while refusing to invent its launch point, exact route or travel time.
+- Qualification: Responsible local authority coordinating the response and the best route for correcting recovery or hazard details. Any optional contact should request factual correction or an authoritative update only; it must not ask for a backlink or imply council endorsement.
