@@ -1810,7 +1810,7 @@ const oct6Stories = [
     "date": "Oct 6, 2026",
     "place": "Achill Island, County Mayo, Ireland",
     "image": "assets/cards/oct6-canadian-buoy.webp",
-    "title": "3.8-ton Canadian buoy crosses the Atlantic and lands in Ireland",
+    "title": "3.8-ton Canadian buoy crosses the Atlantic and lands in Ireland","magnetUrl":"https://blappos.printify.me/product/32823110","magnetPrice":"$9.99",
     "facts": "UPI reported on October 6 that a Canadian Coast Guard buoy weighing about 3.8 tons washed ashore on Achill Island in County Mayo. Local officials were coordinating with the Canadian Coast Guard to secure and recover it; if it came directly from Canada, the Atlantic journey exceeded 3,000 miles.",
     "why": "The ocean can turn infrastructure into a long-distance drifter. Authorities want the buoy secured because a multi-ton navigation marker could become a hazard again if tides return it to the water; its exact starting point and route remain unknown.",
     "angle": "3,000 Miles to Ireland. The buoy crossed an ocean without a passport, itinerary or even the courtesy of a checked-baggage receipt. The route graphic is illustrative because nobody has reconstructed its exact voyage.",
