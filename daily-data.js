@@ -1898,3 +1898,6 @@ window.dailyStories.unshift(...oct6Stories);
 
 
 // October 6 product artwork refresh requested after rendered-card QA.
+
+
+// October 6 social release authorized after live page, storefront, and product-image verification.
