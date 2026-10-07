@@ -1767,7 +1767,7 @@ const oct6Stories = [
     "date": "Oct 6, 2026",
     "place": "Bloomington, Minnesota",
     "image": "assets/cards/oct6-kitten-aquarium.webp",
-    "title": "Rescue kittens take an aquarium field trip and meet the sharks",
+    "title": "Rescue kittens take an aquarium field trip and meet the sharks","magnetUrl":"https://blappos.printify.me/product/32823107","magnetPrice":"$9.99",
     "facts": "The Associated Press reported on October 6 that about two dozen orphaned kittens from the Bitty Kitty Brigade spent nearly two hours exploring Sea Life at the Mall of America before it opened to the public. The sixth annual outing took them through a 300-foot aquarium tunnel past sharks, sea turtles and fish.",
     "why": "The charming visit doubles as enrichment and socialization. The rescue says exposure to unfamiliar sights and sounds can help kittens adjust to new environments and prepare for adoption; the group expects to care for roughly 1,000 kittens this year.",
     "angle": "Kittens Meet Sharks. The aquarium scheduled a predator summit and somehow the smallest delegates stole the meeting. The artwork is an original illustration, not aquarium photography.",
