@@ -1911,7 +1911,7 @@ const oct7Stories = [
     "date": "Oct 7, 2026",
     "place": "Stockholm, Sweden",
     "image": "assets/cards/oct7-mirror-molecules.webp",
-    "title": "Chemistry Nobel honors the tools that make molecules pick a side",
+    "title": "Chemistry Nobel honors the tools that make molecules pick a side","magnetUrl":"https://blappos.printify.me/product/32862239","magnetPrice":"$9.99",
     "facts": "Reuters reported on October 7 that Henri Kagan and Kenso Soai received the 2026 Nobel Prize in Chemistry for discoveries in asymmetric synthesis. Many molecules occur in left- and right-handed forms, and the laureates developed ways to make reactions favor one mirror-image form over the other.",
     "why": "Molecular handedness can change how a substance behaves in the body, so reliably making the intended form is central to pharmaceutical chemistry. The prize recognizes foundational reaction methods—not a single new drug or a claim that every mirror-image molecule is dangerous.",
     "angle": "Molecules Pick a Side. Organic chemistry spent a century staring into the mirror; the reaction flask finally chose a hand. The artwork is an original visual metaphor, not a molecular diagram, laboratory photograph, Nobel mark or laureate likeness.",
