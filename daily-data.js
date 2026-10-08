@@ -1997,7 +1997,7 @@ const oct7Stories = [
     "date": "Oct 7, 2026",
     "place": "Orlando, Florida",
     "image": "assets/cards/oct7-ride-dive.webp",
-    "title": "Guests leave an Epcot boat ride for a shallow-water dive and earn a ban",
+    "title": "Guests leave an Epcot boat ride for a shallow-water dive and earn a ban","magnetUrl":"https://blappos.printify.me/product/32862250","magnetPrice":"$9.99",
     "facts": "Entertainment Weekly reported on October 7 that video showed a guest leave a boat on Epcot’s Gran Fiesta Tour, walk across the themed set and dive into the shallow ride water. Disney said the behavior was unsafe and violated park rules; the guest and his party were trespassed from the property. The Orange County Sheriff’s Office said there were no arrests.",
     "why": "Ride instructions to remain seated protect guests, staff and the machinery around them. The available video and Disney statement establish the public behavior and park response, but they do not establish a motive or justify identifying private individuals beyond what the report confirms.",
     "angle": "Please Remain in the Boat. The attraction offered a gentle indoor cruise; someone submitted an unauthorized swimming expansion pack. The art uses a wholly invented canal set, anonymous silhouettes and no Disney names, characters, logos or copied scenery.",
