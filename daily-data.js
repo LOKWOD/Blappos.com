@@ -1954,7 +1954,7 @@ const oct7Stories = [
     "date": "Oct 7, 2026",
     "place": "Berkshire, England",
     "image": "assets/cards/oct7-giant-pumpkin.webp",
-    "title": "British grower raises a 2,856.8-pound world-record pumpkin",
+    "title": "British grower raises a 2,856.8-pound world-record pumpkin","magnetUrl":"https://blappos.printify.me/product/32862246","magnetPrice":"$9.99",
     "facts": "UPI reported on October 7 that Ian Paton’s pumpkin, Bagheera, weighed 2,856.8 pounds at the October 3 Wargrave Nursery Giant Pumpkin Weigh-off in Berkshire. A Guinness World Records adjudicator supervised the weighing, which surpassed the 2,819.25-pound record Paton and his brother set in 2025.",
     "why": "The new mark is a certified measurement, not an estimate based on a photograph. Paton said he spent up to six hours a day tending the pumpkin and supplied about 130 gallons of water daily; after its public display, it is expected to become cattle feed.",
     "angle": "2,856.8 Pounds of Pumpkin. Autumn entered the weigh-off and immediately requested commercial zoning. The illustration is an invented farm-show scene, not a photograph of Bagheera, the grower or the official adjudication.",
