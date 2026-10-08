@@ -2036,3 +2036,4 @@ const oct7Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct7Stories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct7Stories);
+// October 7 permanent-page rebuild requested after verified Printify publication.
