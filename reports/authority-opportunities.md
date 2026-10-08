@@ -523,3 +523,31 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct6-canadian-buoy
 - Honest pitch angle: A source-labeled entry that records the buoy’s reported mass, identification and recovery work while refusing to invent its launch point, exact route or travel time.
 - Qualification: Responsible local authority coordinating the response and the best route for correcting recovery or hazard details. Any optional contact should request factual correction or an authoritative update only; it must not ask for a backlink or imply council endorsement.
+
+
+## October 7, 2026 — qualified opportunities (not contacted)
+
+### Nobel Prize Outreach press team — asymmetric-synthesis evidence entry
+
+- Target: Nobel Prize Outreach / Nobel Foundation press team
+- Route: https://www.nobelprize.org/press-documents-for-media/
+- Contact route listed by official Nobel materials: press@nobelprize.org
+- Matching Blappos asset: https://blappos.com/verification/#oct7-mirror-molecules
+- Honest pitch angle: A concise public explainer that preserves the official asymmetric-synthesis wording, distinguishes a foundational reaction method from a single drug and makes the visual metaphor explicit.
+- Qualification: Exact awarding institution and direct science-communication fit. Any optional contact should invite a technical or attribution correction only; it must not imply Nobel endorsement of the art, magnet or affiliate products.
+
+### Sunnyfields Farm — giant-pumpkin date-and-measurement note
+
+- Target: Sunnyfields Farm, where the record pumpkin is scheduled for public display
+- Route: https://sunnyfields.co.uk/contact-us/
+- Matching Blappos asset: https://blappos.com/verification/#oct7-giant-pumpkin
+- Honest pitch angle: A permanent source note that preserves the 2,856.8-pound adjudicated measurement, separates the October 3 weigh-off from the October 7 publication date and avoids presenting the illustration as the real specimen.
+- Qualification: Exact display venue named in the reporting and a plausible local agricultural audience. Any optional message should invite a factual correction or updated display detail; it must not request promotion, claim farm endorsement or use the commercial product as the pitch.
+
+### Orange County Sheriff’s Office Public Information — ride incident outcome boundary
+
+- Target: Orange County Sheriff’s Office Public Information Office
+- Route: https://www.ocso.com/en-us/Contact-Us
+- Matching Blappos asset: https://blappos.com/verification/#oct7-ride-dive
+- Honest pitch angle: A behavior-focused verification entry that records the reported no-arrest outcome, separates the park trespass decision from criminal enforcement and refuses to identify private guests.
+- Qualification: Exact law-enforcement authority quoted for the outcome. Any optional contact should seek correction of the no-arrest or response detail only; it must not ask for a backlink, use an emergency channel or imply agency endorsement.

@@ -1901,3 +1901,138 @@ window.dailyStories.unshift(...oct6Stories);
 
 
 // October 6 social release authorized after live page, storefront, and product-image verification.
+
+
+const oct7Stories = [
+  {
+    "id": "oct7-mirror-molecules",
+    "isoDate": "2026-10-07",
+    "month": "October",
+    "date": "Oct 7, 2026",
+    "place": "Stockholm, Sweden",
+    "image": "assets/cards/oct7-mirror-molecules.webp",
+    "title": "Chemistry Nobel honors the tools that make molecules pick a side",
+    "facts": "Reuters reported on October 7 that Henri Kagan and Kenso Soai received the 2026 Nobel Prize in Chemistry for discoveries in asymmetric synthesis. Many molecules occur in left- and right-handed forms, and the laureates developed ways to make reactions favor one mirror-image form over the other.",
+    "why": "Molecular handedness can change how a substance behaves in the body, so reliably making the intended form is central to pharmaceutical chemistry. The prize recognizes foundational reaction methods—not a single new drug or a claim that every mirror-image molecule is dangerous.",
+    "angle": "Molecules Pick a Side. Organic chemistry spent a century staring into the mirror; the reaction flask finally chose a hand. The artwork is an original visual metaphor, not a molecular diagram, laboratory photograph, Nobel mark or laureate likeness.",
+    "amazonLinks": [
+      {
+        "title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table",
+        "image": "https://covers.openlibrary.org/b/isbn/0316051632-L.jpg",
+        "alt": "Cover of The Disappearing Spoon by Sam Kean",
+        "quip": "A lively chemistry history for the prize announcement that turned molecular handedness into front-page material.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0316051632?tag=blappos-20"
+      },
+      {
+        "title": "Molecules: The Elements and the Architecture of Everything",
+        "image": "https://covers.openlibrary.org/b/isbn/0316480584-L.jpg",
+        "alt": "Cover of Molecules by Theodore Gray",
+        "quip": "A visual tour of molecular structure for seeing why two look-alike arrangements can behave so differently.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0316480584?tag=blappos-20"
+      },
+      {
+        "title": "Organic Chemistry as a Second Language: First Semester Topics",
+        "image": "https://covers.openlibrary.org/b/isbn/1119110661-L.jpg",
+        "alt": "Cover of Organic Chemistry as a Second Language by David Klein",
+        "quip": "A practical study companion for the reaction logic behind the day's mirror-image breakthrough.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1119110661?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.reuters.com/world/kagan-soai-win-2026-nobel-chemistry-prize-2026-10-07/",
+    "sourceName": "Read Reuters’ October 7 report",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "Henri Kagan and Kenso Soai received the 2026 chemistry Nobel for methods that make reactions favor one molecular mirror image over the other.",
+    "socialPunchline": "Organic chemistry spent a century staring into the mirror; the reaction flask finally chose a hand."
+  },
+  {
+    "id": "oct7-giant-pumpkin",
+    "isoDate": "2026-10-07",
+    "month": "October",
+    "date": "Oct 7, 2026",
+    "place": "Berkshire, England",
+    "image": "assets/cards/oct7-giant-pumpkin.webp",
+    "title": "British grower raises a 2,856.8-pound world-record pumpkin",
+    "facts": "UPI reported on October 7 that Ian Paton’s pumpkin, Bagheera, weighed 2,856.8 pounds at the October 3 Wargrave Nursery Giant Pumpkin Weigh-off in Berkshire. A Guinness World Records adjudicator supervised the weighing, which surpassed the 2,819.25-pound record Paton and his brother set in 2025.",
+    "why": "The new mark is a certified measurement, not an estimate based on a photograph. Paton said he spent up to six hours a day tending the pumpkin and supplied about 130 gallons of water daily; after its public display, it is expected to become cattle feed.",
+    "angle": "2,856.8 Pounds of Pumpkin. Autumn entered the weigh-off and immediately requested commercial zoning. The illustration is an invented farm-show scene, not a photograph of Bagheera, the grower or the official adjudication.",
+    "amazonLinks": [
+      {
+        "title": "Backyard Giants: The Passionate, Heartbreaking, and Glorious Quest to Grow the Biggest Pumpkin Ever",
+        "image": "https://covers.openlibrary.org/b/isbn/1596912782-L.jpg",
+        "alt": "Cover of Backyard Giants by Susan Warren",
+        "quip": "The reporting classic about competitive giant-pumpkin growers and the enormous stakes hiding under the vines.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1596912782?tag=blappos-20"
+      },
+      {
+        "title": "The Compleat Squash: A Passionate Grower’s Guide to Pumpkins, Squashes, and Gourds",
+        "image": "https://covers.openlibrary.org/b/isbn/1579652514-L.jpg",
+        "alt": "Cover of The Compleat Squash by Amy Goldman",
+        "quip": "A richly illustrated squash reference for the horticulture behind a nearly three-thousand-pound specimen.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1579652514?tag=blappos-20"
+      },
+      {
+        "title": "The Pumpkin Book",
+        "image": "https://covers.openlibrary.org/b/isbn/0823414655-L.jpg",
+        "alt": "Cover of The Pumpkin Book by Gail Gibbons",
+        "quip": "A clear family introduction to the pumpkin life cycle before the seedlings start asking for their own water meter.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0823414655?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/07/Guinness-World-Records-heaviest-pumpkin/5121791389821/",
+    "sourceName": "Read UPI’s October 7 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "A Guinness adjudicator verified a 2,856.8-pound pumpkin at an October 3 English weigh-off, breaking the grower’s own 2025 record.",
+    "socialPunchline": "Autumn entered the weigh-off and immediately requested commercial zoning."
+  },
+  {
+    "id": "oct7-ride-dive",
+    "isoDate": "2026-10-07",
+    "month": "October",
+    "date": "Oct 7, 2026",
+    "place": "Orlando, Florida",
+    "image": "assets/cards/oct7-ride-dive.webp",
+    "title": "Guests leave an Epcot boat ride for a shallow-water dive and earn a ban",
+    "facts": "Entertainment Weekly reported on October 7 that video showed a guest leave a boat on Epcot’s Gran Fiesta Tour, walk across the themed set and dive into the shallow ride water. Disney said the behavior was unsafe and violated park rules; the guest and his party were trespassed from the property. The Orange County Sheriff’s Office said there were no arrests.",
+    "why": "Ride instructions to remain seated protect guests, staff and the machinery around them. The available video and Disney statement establish the public behavior and park response, but they do not establish a motive or justify identifying private individuals beyond what the report confirms.",
+    "angle": "Please Remain in the Boat. The attraction offered a gentle indoor cruise; someone submitted an unauthorized swimming expansion pack. The art uses a wholly invented canal set, anonymous silhouettes and no Disney names, characters, logos or copied scenery.",
+    "amazonLinks": [
+      {
+        "title": "The Imagineering Field Guide to Epcot at Walt Disney World",
+        "image": "https://covers.openlibrary.org/b/isbn/1423124677-L.jpg",
+        "alt": "Cover of The Imagineering Field Guide to Epcot by Alex Wright",
+        "quip": "A pocket guide to the deliberate design of the park the guests briefly mistook for open-water recreation.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1423124677?tag=blappos-20"
+      },
+      {
+        "title": "Theme Park Design & The Art of Themed Entertainment",
+        "image": "https://covers.openlibrary.org/b/isbn/099357890X-L.jpg",
+        "alt": "Cover of Theme Park Design and The Art of Themed Entertainment by David Younger",
+        "quip": "A comprehensive design reference for understanding why a ride channel is part of a controlled system, not a shortcut.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/099357890X?tag=blappos-20"
+      },
+      {
+        "title": "Walt Disney Imagineering: A Behind the Dreams Look at Making the Magic Real",
+        "image": "https://covers.openlibrary.org/b/isbn/0786883723-L.jpg",
+        "alt": "Cover of Walt Disney Imagineering by The Imagineers",
+        "quip": "A behind-the-scenes look at the engineering and storytelling hidden behind one very visible safety rule.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0786883723?tag=blappos-20"
+      }
+    ],
+    "source": "https://ew.com/disney-world-guests-banned-jumping-into-water-epcot-boat-ride-12163138",
+    "sourceName": "Read Entertainment Weekly’s October 7 report",
+    "sourcePublisher": "Entertainment Weekly",
+    "socialSummary": "Video showed a guest leave an Epcot boat ride and dive into shallow ride water; Disney said the guest and his party were banned, while deputies reported no arrests.",
+    "socialPunchline": "The gentle indoor cruise received an unauthorized swimming expansion pack."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct7Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct7Stories);
