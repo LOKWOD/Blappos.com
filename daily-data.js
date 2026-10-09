@@ -2131,7 +2131,7 @@ const oct8Stories = [
     "date": "Oct 8, 2026",
     "place": "Sheffield, Alabama",
     "image": "assets/cards/oct8-sewer-ring.webp",
-    "title": "Sewer workers return a 1965 class ring lost for decades",
+    "title": "Sewer workers return a 1965 class ring lost for decades","magnetUrl":"https://blappos.printify.me/product/32903249","magnetPrice":"$9.99",
     "facts": "UPI reported on October 8 that Alabama wastewater workers found a 1965 Burrell-Slater High School class ring while clearing a clogged sewer main. Plant operator Junior Riner used the initials inside the ring and help from family and local contacts to identify owner Oscar James Meredith, who had given it to his future wife before it disappeared; the ring was returned and still fit.",
     "why": "The recovery joins overlooked infrastructure work with local history. Burrell-Slater served Black students before closing during integration, while the ring reconnected Meredith with memories of his late wife and a school community whose records made the identification possible.",
     "angle": "Found in the Sewer. Still Fits. Municipal infrastructure finally launched a sixty-year customer-service ticket with a happy ending. The illustration uses invented workers, an anonymous reunion scene and a generic 1965 crest—not the real people, school emblem or recovered ring.",
