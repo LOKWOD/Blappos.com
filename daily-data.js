@@ -2079,7 +2079,7 @@ const oct8Stories = [
     "sourceName": "Read Reuters’ October 8 report",
     "sourcePublisher": "Reuters",
     "socialSummary": "Researchers described a 165-million-year-old semiaquatic mammal relative with paddling limbs, a broad tail and preserved throat anatomy associated with mammal-style swallowing.",
-    "socialPunchline": "Evolution beta-tested the platypus, otter and beaver in one compact Jurassic package."
+    "socialPunchline": "Jurassic evolution bundled three mammals into one."
   },
   {
     "id": "oct8-five-hour-plank",
@@ -2091,7 +2091,7 @@ const oct8Stories = [
     "title": "Canadian grandmother holds a five-hour plank; Guinness review is pending","magnetUrl":"https://blappos.printify.me/product/32903245","magnetPrice":"$9.99",
     "facts": "Good Morning America reported on October 8 that DonnaJean Wilde, 61, completed a five-hour abdominal plank during the Huntsman World Senior Games in Utah. Guinness World Records told ABC News it had received an application and would review the evidence before declaring a new record; Wilde’s certified 2024 mark is 4 hours, 30 minutes and 11 seconds.",
     "why": "The feat is remarkable even before certification, but an attempted record and an adjudicated record are not interchangeable. Preserving that distinction gives credit for the documented five-hour performance without turning a submitted application into an official title early.",
-    "angle": "Five Hours. One Plank. Most exercise timers offer a cooldown before the third presidential term. The illustration uses an anonymous older athlete and an invented arena, not Wilde’s face, event branding or a claim that viewers should attempt the feat without appropriate preparation.",
+    "angle": "Five Hours. One Plank. Five hours made the gym clock file for overtime. The illustration uses an anonymous older athlete and an invented arena, not Wilde’s face, event branding or a claim that viewers should attempt the feat without appropriate preparation.",
     "amazonLinks": [
       {
         "title": "Built to Move: The Ten Essential Habits to Help You Move Freely and Live Fully",
@@ -2165,7 +2165,7 @@ const oct8Stories = [
     "sourceName": "Read UPI’s October 8 report",
     "sourcePublisher": "UPI",
     "socialSummary": "Alabama wastewater workers found a 1965 class ring in a clogged sewer and helped return it to the man who had given it to his future wife decades earlier.",
-    "socialPunchline": "Municipal infrastructure finally closed a decades-old customer-service ticket with a happy ending."
+    "socialPunchline": "A sewer closed a sixty-year customer-service ticket."
   }
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct8Stories.some(item => item.id === story.id));
