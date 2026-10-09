@@ -2045,7 +2045,7 @@ const oct8Stories = [
     "date": "Oct 8, 2026",
     "place": "Inner Mongolia, China",
     "image": "assets/cards/oct8-water-mammal.webp",
-    "title": "Fossil reveals a platypus-otter-beaver mashup swimming with dinosaurs",
+    "title": "Fossil reveals a platypus-otter-beaver mashup swimming with dinosaurs","magnetUrl":"https://blappos.printify.me/product/32903240","magnetPrice":"$9.99",
     "facts": "Reuters reported on October 8 that researchers described Megacauda sungei, a semiaquatic mammal relative that lived about 165 million years ago in what is now Inner Mongolia. The roughly 20-inch animal weighed about 2.2 to 4.4 pounds, had a broad scaly tail, paddling limbs and teeth suited to catching slippery prey; the fossil preserves skin and fur impressions.",
     "why": "The researchers call it the oldest-known example of a semiaquatic lifestyle in mammalian evolutionary history. Its preserved throat anatomy also indicates that mammal-style chewing, swallowing and suckling structures evolved long before modern mammals diversified, strengthening evidence that dinosaur-era mammal relatives occupied far more varied ecological niches than the old shrew-only stereotype suggests.",
     "angle": "The Original Water Mammal. Evolution appears to have beta-tested the platypus, otter and beaver in one compact Jurassic package. The card is an original imagined scene based on reported anatomy—not the published scientific reconstruction, a photograph or proof of fur color and behavior beyond the researchers’ interpretation.",
