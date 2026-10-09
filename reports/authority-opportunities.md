@@ -551,3 +551,30 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct7-ride-dive
 - Honest pitch angle: A behavior-focused verification entry that records the reported no-arrest outcome, separates the park trespass decision from criminal enforcement and refuses to identify private guests.
 - Qualification: Exact law-enforcement authority quoted for the outcome. Any optional contact should seek correction of the no-arrest or response detail only; it must not ask for a backlink, use an emergency channel or imply agency endorsement.
+
+
+## October 8, 2026 — qualified opportunities (not contacted)
+
+### Luo Lab, University of Chicago — semiaquatic-mammal evidence boundary
+
+- Target: Professor Zhe-Xi Luo and the Luo Lab, University of Chicago
+- Route: https://luolab.uchicago.edu/contact-us/
+- Matching Blappos asset: https://blappos.com/verification/#oct8-water-mammal
+- Honest pitch angle: A plain-language source digest that pairs Reuters’ report with the peer-reviewed paper, preserves the semiaquatic interpretation and labels the illustrated animal’s color and behavior as unknown.
+- Qualification: Luo is a senior author and the official lab page provides a direct scholarly contact route. Any optional contact should invite a technical correction or stronger primary-source context; it must not imply university endorsement of the satire, magnet or affiliate products.
+
+### Huntsman World Senior Games — pending-record status note
+
+- Target: Huntsman World Senior Games team
+- Route: https://seniorgames.net/contact
+- Matching Blappos asset: https://blappos.com/verification/#oct8-five-hour-plank
+- Honest pitch angle: A permanent entry that credits the documented five-hour performance while clearly preserving Guinness’ pending-review status and the existing certified benchmark.
+- Qualification: Exact event where the attempt occurred and a direct active-aging audience. Any optional message should invite correction of the event or timing details only; it must not imply the Games or athlete endorses the commercial product.
+
+### Sheffield Utilities Board — recovered-ring infrastructure note
+
+- Target: Sheffield Utilities Board, Sheffield, Alabama
+- Route: https://sheffieldalabama.net/boards-and-administration/sheffield-utilities-board/
+- Matching Blappos asset: https://blappos.com/verification/#oct8-sewer-ring
+- Honest pitch angle: A source-labeled local-history note crediting wastewater staff’s identification work while refusing to invent how or when the ring entered the sewer.
+- Qualification: The city’s official utilities body and the closest public-infrastructure route for correcting the recovery account. Any optional contact should request a factual correction or authoritative local-history link; it must not ask for promotion, use an emergency channel or imply board endorsement.

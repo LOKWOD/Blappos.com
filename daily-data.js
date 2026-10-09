@@ -2036,5 +2036,139 @@ const oct7Stories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct7Stories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct7Stories);
+
+const oct8Stories = [
+  {
+    "id": "oct8-water-mammal",
+    "isoDate": "2026-10-08",
+    "month": "October",
+    "date": "Oct 8, 2026",
+    "place": "Inner Mongolia, China",
+    "image": "assets/cards/oct8-water-mammal.webp",
+    "title": "Fossil reveals a platypus-otter-beaver mashup swimming with dinosaurs",
+    "facts": "Reuters reported on October 8 that researchers described Megacauda sungei, a semiaquatic mammal relative that lived about 165 million years ago in what is now Inner Mongolia. The roughly 20-inch animal weighed about 2.2 to 4.4 pounds, had a broad scaly tail, paddling limbs and teeth suited to catching slippery prey; the fossil preserves skin and fur impressions.",
+    "why": "The researchers call it the oldest-known example of a semiaquatic lifestyle in mammalian evolutionary history. Its preserved throat anatomy also indicates that mammal-style chewing, swallowing and suckling structures evolved long before modern mammals diversified, strengthening evidence that dinosaur-era mammal relatives occupied far more varied ecological niches than the old shrew-only stereotype suggests.",
+    "angle": "The Original Water Mammal. Evolution appears to have beta-tested the platypus, otter and beaver in one compact Jurassic package. The card is an original imagined scene based on reported anatomy—not the published scientific reconstruction, a photograph or proof of fur color and behavior beyond the researchers’ interpretation.",
+    "amazonLinks": [
+      {
+        "title": "The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us",
+        "image": "https://covers.openlibrary.org/b/isbn/0062951513-L.jpg",
+        "alt": "Cover of The Rise and Reign of the Mammals by Steve Brusatte",
+        "quip": "A sweeping history of the mammalian lineage, including the small specialists that lived under dinosaur rule.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0062951513?tag=blappos-20"
+      },
+      {
+        "title": "Beasts Before Us: The Untold Story of Mammal Origins and Evolution",
+        "image": "https://covers.openlibrary.org/b/isbn/147298398X-L.jpg",
+        "alt": "Cover of Beasts Before Us by Elsa Panciroli",
+        "quip": "The ideal antidote to the idea that every Jurassic mammal relative was merely a nervous shrew.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/147298398X?tag=blappos-20"
+      },
+      {
+        "title": "Otherlands: A Journey Through Earth’s Extinct Worlds",
+        "image": "https://covers.openlibrary.org/b/isbn/0593132906-L.jpg",
+        "alt": "Cover of Otherlands by Thomas Halliday",
+        "quip": "A vivid tour of vanished ecosystems for placing one aquatic mammal relative inside its lost Jurassic world.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0593132906?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.reuters.com/science/otter-like-critter-swam-lakes-rivers-age-dinosaurs-2026-10-08/",
+    "sourceName": "Read Reuters’ October 8 report",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "Researchers described a 165-million-year-old semiaquatic mammal relative with paddling limbs, a broad tail and preserved throat anatomy associated with mammal-style swallowing.",
+    "socialPunchline": "Evolution beta-tested the platypus, otter and beaver in one compact Jurassic package."
+  },
+  {
+    "id": "oct8-five-hour-plank",
+    "isoDate": "2026-10-08",
+    "month": "October",
+    "date": "Oct 8, 2026",
+    "place": "St. George, Utah",
+    "image": "assets/cards/oct8-five-hour-plank.webp",
+    "title": "Canadian grandmother holds a five-hour plank; Guinness review is pending",
+    "facts": "Good Morning America reported on October 8 that DonnaJean Wilde, 61, completed a five-hour abdominal plank during the Huntsman World Senior Games in Utah. Guinness World Records told ABC News it had received an application and would review the evidence before declaring a new record; Wilde’s certified 2024 mark is 4 hours, 30 minutes and 11 seconds.",
+    "why": "The feat is remarkable even before certification, but an attempted record and an adjudicated record are not interchangeable. Preserving that distinction gives credit for the documented five-hour performance without turning a submitted application into an official title early.",
+    "angle": "Five Hours. One Plank. Most exercise timers offer a cooldown before the third presidential term. The illustration uses an anonymous older athlete and an invented arena, not Wilde’s face, event branding or a claim that viewers should attempt the feat without appropriate preparation.",
+    "amazonLinks": [
+      {
+        "title": "Built to Move: The Ten Essential Habits to Help You Move Freely and Live Fully",
+        "image": "https://covers.openlibrary.org/b/isbn/0593534808-L.jpg",
+        "alt": "Cover of Built to Move by Kelly and Juliet Starrett",
+        "quip": "A practical mobility guide for people whose current plank record is measured with a kitchen timer.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0593534808?tag=blappos-20"
+      },
+      {
+        "title": "Strength Training Past 50",
+        "image": "https://covers.openlibrary.org/b/isbn/1450497918-L.jpg",
+        "alt": "Cover of Strength Training Past 50 by Wayne Westcott and Thomas Baechle",
+        "quip": "Age-specific programs and exercise guidance for building strength without using a five-hour spectacle as the starting line.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1450497918?tag=blappos-20"
+      },
+      {
+        "title": "Younger Next Year: Live Strong, Fit, Sexy, and Smart—Until You’re 80 and Beyond",
+        "image": "https://covers.openlibrary.org/b/isbn/1523507926-L.jpg",
+        "alt": "Cover of Younger Next Year by Chris Crowley and Henry Lodge",
+        "quip": "A broad healthy-aging program for the senior-athlete story that made five minutes sound suspiciously brief.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1523507926?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.goodmorningamerica.com/family/story/grandmother-12-holds-plank-5-hours-new-world-137091775",
+    "sourceName": "Read Good Morning America’s October 8 report",
+    "sourcePublisher": "Good Morning America",
+    "socialSummary": "A 61-year-old Canadian grandmother completed a five-hour plank in Utah; Guinness says the application is under review, while her official 2024 record remains 4:30:11.",
+    "socialPunchline": "Most exercise timers offer a cooldown before the third presidential term."
+  },
+  {
+    "id": "oct8-sewer-ring",
+    "isoDate": "2026-10-08",
+    "month": "October",
+    "date": "Oct 8, 2026",
+    "place": "Sheffield, Alabama",
+    "image": "assets/cards/oct8-sewer-ring.webp",
+    "title": "Sewer workers return a 1965 class ring lost for decades",
+    "facts": "UPI reported on October 8 that Alabama wastewater workers found a 1965 Burrell-Slater High School class ring while clearing a clogged sewer main. Plant operator Junior Riner used the initials inside the ring and help from family and local contacts to identify owner Oscar James Meredith, who had given it to his future wife before it disappeared; the ring was returned and still fit.",
+    "why": "The recovery joins overlooked infrastructure work with local history. Burrell-Slater served Black students before closing during integration, while the ring reconnected Meredith with memories of his late wife and a school community whose records made the identification possible.",
+    "angle": "Found in the Sewer. Still Fits. Municipal infrastructure finally launched a sixty-year customer-service ticket with a happy ending. The illustration uses invented workers, an anonymous reunion scene and a generic 1965 crest—not the real people, school emblem or recovered ring.",
+    "amazonLinks": [
+      {
+        "title": "The Keeper of Lost Things",
+        "image": "https://covers.openlibrary.org/b/isbn/0062473558-L.jpg",
+        "alt": "Cover of The Keeper of Lost Things by Ruth Hogan",
+        "quip": "A novel built around lost objects finding their way home—mercifully with fewer clogged sewer mains.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0062473558?tag=blappos-20"
+      },
+      {
+        "title": "The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design",
+        "image": "https://covers.openlibrary.org/b/isbn/0358126606-L.jpg",
+        "alt": "Cover of The 99 Percent Invisible City by Roman Mars and Kurt Kohlstedt",
+        "quip": "A field guide to the unseen systems and design choices behind the workers who recovered the ring.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0358126606?tag=blappos-20"
+      },
+      {
+        "title": "The Works: Anatomy of a City",
+        "image": "https://covers.openlibrary.org/b/isbn/0143112708-L.jpg",
+        "alt": "Cover of The Works by Kate Ascher",
+        "quip": "A richly illustrated tour beneath city streets for understanding the unlikely route from sink drain to reunion.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0143112708?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/08/class-ring-sewer-Sheffield-Alabama/7991791477667/",
+    "sourceName": "Read UPI’s October 8 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Alabama wastewater workers found a 1965 class ring in a clogged sewer and helped return it to the man who had given it to his future wife decades earlier.",
+    "socialPunchline": "Municipal infrastructure finally closed a decades-old customer-service ticket with a happy ending."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct8Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct8Stories);
 // October 7 permanent-page rebuild requested after verified Printify publication.
 // October 7 social release authorized after live page and storefront verification.
