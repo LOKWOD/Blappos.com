@@ -2068,11 +2068,11 @@ const oct8Stories = [
       },
       {
         "title": "Otherlands: A Journey Through Earth’s Extinct Worlds",
-        "image": "https://covers.openlibrary.org/b/isbn/0593132906-L.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/0593132904-L.jpg",
         "alt": "Cover of Otherlands by Thomas Halliday",
         "quip": "A vivid tour of vanished ecosystems for placing one aquatic mammal relative inside its lost Jurassic world.",
         "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0593132906?tag=blappos-20"
+        "url": "https://www.amazon.com/dp/0593132904?tag=blappos-20"
       }
     ],
     "source": "https://www.reuters.com/science/otter-like-critter-swam-lakes-rivers-age-dinosaurs-2026-10-08/",
@@ -2103,7 +2103,7 @@ const oct8Stories = [
       },
       {
         "title": "Strength Training Past 50",
-        "image": "https://covers.openlibrary.org/b/isbn/1450497918-L.jpg",
+        "image": "https://books.google.com/books/content?id=LUkbCAAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
         "alt": "Cover of Strength Training Past 50 by Wayne Westcott and Thomas Baechle",
         "quip": "Age-specific programs and exercise guidance for building strength without using a five-hour spectacle as the starting line.",
         "salesPriority": 5,
@@ -2138,11 +2138,11 @@ const oct8Stories = [
     "amazonLinks": [
       {
         "title": "The Keeper of Lost Things",
-        "image": "https://covers.openlibrary.org/b/isbn/0062473558-L.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/0062473557-L.jpg",
         "alt": "Cover of The Keeper of Lost Things by Ruth Hogan",
         "quip": "A novel built around lost objects finding their way home—mercifully with fewer clogged sewer mains.",
         "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0062473558?tag=blappos-20"
+        "url": "https://www.amazon.com/dp/0062473557?tag=blappos-20"
       },
       {
         "title": "The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design",
