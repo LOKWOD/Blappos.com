@@ -2088,7 +2088,7 @@ const oct8Stories = [
     "date": "Oct 8, 2026",
     "place": "St. George, Utah",
     "image": "assets/cards/oct8-five-hour-plank.webp",
-    "title": "Canadian grandmother holds a five-hour plank; Guinness review is pending",
+    "title": "Canadian grandmother holds a five-hour plank; Guinness review is pending","magnetUrl":"https://blappos.printify.me/product/32903245","magnetPrice":"$9.99",
     "facts": "Good Morning America reported on October 8 that DonnaJean Wilde, 61, completed a five-hour abdominal plank during the Huntsman World Senior Games in Utah. Guinness World Records told ABC News it had received an application and would review the evidence before declaring a new record; Wilde’s certified 2024 mark is 4 hours, 30 minutes and 11 seconds.",
     "why": "The feat is remarkable even before certification, but an attempted record and an adjudicated record are not interchangeable. Preserving that distinction gives credit for the documented five-hour performance without turning a submitted application into an official title early.",
     "angle": "Five Hours. One Plank. Most exercise timers offer a cooldown before the third presidential term. The illustration uses an anonymous older athlete and an invented arena, not Wilde’s face, event branding or a claim that viewers should attempt the feat without appropriate preparation.",
