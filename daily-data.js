@@ -2174,3 +2174,5 @@ window.dailyStories.unshift(...oct8Stories);
 // October 7 social release authorized after live page and storefront verification.
 
 // October 8 permanent-page rebuild requested after verified Printify publication.
+
+// October 8 social release authorized after live page, storefront, and affiliate-image verification.
