@@ -2172,3 +2172,5 @@ window.dailyStories = window.dailyStories.filter(story => !oct8Stories.some(item
 window.dailyStories.unshift(...oct8Stories);
 // October 7 permanent-page rebuild requested after verified Printify publication.
 // October 7 social release authorized after live page and storefront verification.
+
+// October 8 permanent-page rebuild requested after verified Printify publication.
