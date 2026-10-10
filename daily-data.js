@@ -2228,7 +2228,7 @@ const oct9Stories = [
     "date": "Oct 9, 2026",
     "place": "Lincolnton, North Carolina",
     "image": "assets/cards/oct9-opossum-hook.webp",
-    "title": "Rescuers use a bucket truck to free an opossum hooked in a tree",
+    "title": "Rescuers use a bucket truck to free an opossum hooked in a tree","magnetUrl":"https://blappos.printify.me/product/32939420","magnetPrice":"$9.99",
     "facts": "UPI reported on October 9 that the Carolina Wildlife Conservation Center responded after a trail visitor spotted an opossum caught on fishing line more than ten feet above water near Lincolnton. A rehabilitator reached the animal with a bucket truck, and examination found a hook lodged beneath its tongue. The dehydrated, underweight opossum was taken into care after apparently hanging there for more than a day.",
     "why": "Discarded hooks and line keep fishing after people leave, turning branches, shorelines and waterways into traps for animals that were never the target. The rescue required specialized access, licensed wildlife care and follow-up treatment—useful context behind the simple instruction to pack out every piece of tackle and call a rehabilitator rather than improvising a dangerous rescue.",
     "angle": "Hooked on a Bad Branch. The trail’s fishing equipment selected the only resident who was not fishing. The card keeps the injury non-graphic and uses an invented rescue scene; it is not a photograph or a do-it-yourself handling guide.",
