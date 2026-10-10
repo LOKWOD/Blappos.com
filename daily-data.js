@@ -2242,12 +2242,12 @@ const oct9Stories = [
         "url": "https://www.amazon.com/dp/0691260761?tag=blappos-20"
       },
       {
-        "title": "Peterson First Guide to Mammals of North America",
-        "image": "https://m.media-amazon.com/images/P/0395935445.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Peterson First Guide to Mammals of North America",
-        "quip": "A compact identification guide for recognizing the trail neighbor before deciding what kind of help it needs.",
+        "title": "National Audubon Society Field Guide to North American Mammals",
+        "image": "https://m.media-amazon.com/images/P/0679446311.01.LZZZZZZZ.jpg",
+        "alt": "Cover of National Audubon Society Field Guide to North American Mammals",
+        "quip": "A comprehensive identification guide for recognizing the trail neighbor before deciding what kind of help it needs.",
         "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0395935445?tag=blappos-20"
+        "url": "https://www.amazon.com/dp/0679446311?tag=blappos-20"
       },
       {
         "title": "Wildlife Rehabilitation: A Comprehensive Approach",
@@ -2285,12 +2285,12 @@ const oct9Stories = [
         "url": "https://www.amazon.com/dp/0544334604?tag=blappos-20"
       },
       {
-        "title": "The Lost Dogs: Michael Vick’s Dogs and Their Tale of Rescue and Redemption",
-        "image": "https://m.media-amazon.com/images/P/1594485057.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Lost Dogs by Jim Gorant",
-        "quip": "A deeply reported rescue story about the systems and people that help dogs make it home to a new life.",
+        "title": "Canine Enrichment for the Real World",
+        "image": "https://m.media-amazon.com/images/P/1617812684.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Canine Enrichment for the Real World",
+        "quip": "A practical, science-minded guide to meeting canine needs and supporting safer choices at home and away.",
         "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1594485057?tag=blappos-20"
+        "url": "https://www.amazon.com/dp/1617812684?tag=blappos-20"
       },
       {
         "title": "Perfect Puppy in 7 Days: How to Start Your Puppy Off Right",
@@ -2329,7 +2329,7 @@ const oct9Stories = [
       },
       {
         "title": "Big Blue Book of Bicycle Repair — 4th Edition",
-        "image": "https://m.media-amazon.com/images/P/0976553066.01.LZZZZZZZ.jpg",
+        "image": "https://m.media-amazon.com/images/I/71tkW9U1qIL._SL1400_.jpg",
         "alt": "Cover of Park Tool Big Blue Book of Bicycle Repair, fourth edition",
         "quip": "For checking every component after gravity and a cardboard box finish their peer review.",
         "salesPriority": 5,
@@ -2355,3 +2355,5 @@ window.dailyStories = window.dailyStories.filter(story => !oct9Stories.some(item
 window.dailyStories.unshift(...oct9Stories);
 
 // October 9 permanent-page rebuild requested after verified Printify publication.
+
+// October 9 affiliate covers reverified before social release.
