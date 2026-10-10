@@ -2357,3 +2357,5 @@ window.dailyStories.unshift(...oct9Stories);
 // October 9 permanent-page rebuild requested after verified Printify publication.
 
 // October 9 affiliate covers reverified before social release.
+
+// October 9 social release authorized after live page, storefront, and affiliate-image verification.
