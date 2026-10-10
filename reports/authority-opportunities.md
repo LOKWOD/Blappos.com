@@ -578,3 +578,30 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct8-sewer-ring
 - Honest pitch angle: A source-labeled local-history note crediting wastewater staff’s identification work while refusing to invent how or when the ring entered the sewer.
 - Qualification: The city’s official utilities body and the closest public-infrastructure route for correcting the recovery account. Any optional contact should request a factual correction or authoritative local-history link; it must not ask for promotion, use an emergency channel or imply board endorsement.
+
+
+## October 9, 2026 — qualified opportunities (not contacted)
+
+### Musée Renoir — recovery chronology and collection-loan boundary
+
+- Target: Musée Renoir, Cagnes-sur-Mer
+- Route: https://musees.cagnes.fr/contact/
+- Matching Blappos asset: https://blappos.com/verification/#oct9-renoir-recovery
+- Honest pitch angle: A permanent source note that names the recovered works, preserves the September 8 theft versus October 9 recovery timeline and refuses to invent the still-undisclosed investigative method.
+- Qualification: Exact museum from which the works were stolen, with an official cultural-institution contact route. Any optional message should invite correction of the titles, loan status or chronology only; it must not seek promotion, imply museum endorsement or foreground the commercial magnet.
+
+### Carolina Wildlife Conservation Center — fishing-tackle rescue evidence note
+
+- Target: Carolina Wildlife Conservation Center
+- Route: https://www.carolinaconservation.org/
+- Matching Blappos asset: https://blappos.com/verification/#oct9-opossum-hook
+- Honest pitch angle: A non-graphic public-safety digest that credits the center’s specialized bucket-truck rescue, distinguishes reported treatment details from illustration and directs injured wildlife to licensed care rather than amateur handling.
+- Qualification: The licensed center identified in the reporting and the closest evidence owner for the rescue and medical details. Any optional contact should request correction or an authoritative discarded-tackle resource; it must not use the wildlife emergency line for outreach, request a backlink or imply clinical endorsement of the satire.
+
+### Bike Republic Sölden — event-date and certified-title record note
+
+- Target: Bike Republic Sölden / Ötztal tourism team
+- Route: https://www.soelden.com/en/activities/summer/bike-republic-soelden/services-infos
+- Matching Blappos asset: https://blappos.com/verification/#oct9-bike-target
+- Honest pitch angle: A source-labeled record digest that separates the September 2025 festival performance from the October 9, 2026 news report and distinguishes the certified target-drop title from two attempts still under review.
+- Qualification: Exact event venue named in the reporting and an official destination contact route. Any optional message should invite correction of the event date, measurement or title status only; it must not ask for promotion, imply venue endorsement or encourage readers to reproduce the stunt.

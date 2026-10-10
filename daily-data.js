@@ -2176,3 +2176,180 @@ window.dailyStories.unshift(...oct8Stories);
 // October 8 permanent-page rebuild requested after verified Printify publication.
 
 // October 8 social release authorized after live page, storefront, and affiliate-image verification.
+
+const oct9Stories = [
+  {
+    "id": "oct9-renoir-recovery",
+    "isoDate": "2026-10-09",
+    "month": "October",
+    "date": "Oct 9, 2026",
+    "place": "Cagnes-sur-Mer, France",
+    "image": "assets/cards/oct9-renoir-recovery.webp",
+    "title": "Two stolen Renoirs return; six arrests and no disclosed recovery story",
+    "facts": "Reuters reported on October 9 that French authorities recovered two Pierre-Auguste Renoir paintings stolen September 8 from the Renoir Museum in Cagnes-sur-Mer and arrested six people. The works—Madame Colonna Romano and Young Woman at the Well—belong to the Musée d’Orsay and had been on long-term loan. The thieves entered through a window after scaling a fence; two other paintings were dropped in the garden as police arrived.",
+    "why": "The recovery returns culturally important works worth millions of euros and shows why provenance records, inter-museum loans and coordinated police work matter long after a theft leaves the headlines. Authorities canceled a planned news conference and did not disclose how the paintings were found, explicitly preserving an active investigation rather than filling that gap with a cleaner story.",
+    "angle": "The Renoirs Are Back. Impressionism spent a month in witness protection. The frames, evidence markers and coastal night scene are original illustration—not the recovered canvases, a reconstruction of the undisclosed operation or proof about any suspect.",
+    "amazonLinks": [
+      {
+        "title": "The Gardner Heist: The True Story of the World’s Largest Unsolved Art Theft",
+        "image": "https://m.media-amazon.com/images/P/0061451843.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Gardner Heist by Ulrich Boser",
+        "quip": "A reported investigation into the art-world case that still defines what recovery has not yet achieved.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0061451843?tag=blappos-20"
+      },
+      {
+        "title": "The Rescue Artist: A True Story of Art, Thieves, and the Hunt for a Missing Masterpiece",
+        "image": "https://m.media-amazon.com/images/P/0060531177.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Rescue Artist by Edward Dolnick",
+        "quip": "A real stolen-masterpiece recovery for understanding the investigators behind the happy headline.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0060531177?tag=blappos-20"
+      },
+      {
+        "title": "The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession",
+        "image": "https://m.media-amazon.com/images/P/1984898450.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Art Thief by Michael Finkel",
+        "quip": "A portrait of prolific museum theft and the strange motives that do not fit a simple resale plot.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1984898450?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.reuters.com/lifestyle/renoir-paintings-stolen-riviera-museum-recovered-six-people-arrested-2026-10-09/",
+    "sourceName": "Read Reuters’ October 9 report",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "French authorities recovered two Renoir paintings stolen from the artist’s former home in Cagnes-sur-Mer and arrested six people; they have not disclosed how the works were found.",
+    "socialPunchline": "Impressionism spent a month in witness protection."
+  },
+  {
+    "id": "oct9-opossum-hook",
+    "isoDate": "2026-10-09",
+    "month": "October",
+    "date": "Oct 9, 2026",
+    "place": "Lincolnton, North Carolina",
+    "image": "assets/cards/oct9-opossum-hook.webp",
+    "title": "Rescuers use a bucket truck to free an opossum hooked in a tree",
+    "facts": "UPI reported on October 9 that the Carolina Wildlife Conservation Center responded after a trail visitor spotted an opossum caught on fishing line more than ten feet above water near Lincolnton. A rehabilitator reached the animal with a bucket truck, and examination found a hook lodged beneath its tongue. The dehydrated, underweight opossum was taken into care after apparently hanging there for more than a day.",
+    "why": "Discarded hooks and line keep fishing after people leave, turning branches, shorelines and waterways into traps for animals that were never the target. The rescue required specialized access, licensed wildlife care and follow-up treatment—useful context behind the simple instruction to pack out every piece of tackle and call a rehabilitator rather than improvising a dangerous rescue.",
+    "angle": "Hooked on a Bad Branch. The trail’s fishing equipment selected the only resident who was not fishing. The card keeps the injury non-graphic and uses an invented rescue scene; it is not a photograph or a do-it-yourself handling guide.",
+    "amazonLinks": [
+      {
+        "title": "Playing Possum: How Animals Understand Death",
+        "image": "https://m.media-amazon.com/images/P/0691260761.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Playing Possum by Susana Monsó",
+        "quip": "A philosopher’s tour of how animals respond to death, anchored by the marsupial that lent the book its title.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0691260761?tag=blappos-20"
+      },
+      {
+        "title": "Peterson First Guide to Mammals of North America",
+        "image": "https://m.media-amazon.com/images/P/0395935445.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Peterson First Guide to Mammals of North America",
+        "quip": "A compact identification guide for recognizing the trail neighbor before deciding what kind of help it needs.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0395935445?tag=blappos-20"
+      },
+      {
+        "title": "Wildlife Rehabilitation: A Comprehensive Approach",
+        "image": "https://m.media-amazon.com/images/P/1421411865.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Wildlife Rehabilitation: A Comprehensive Approach",
+        "quip": "Clinical context for why injured wildlife belongs with trained rehabilitators, not a well-meaning kitchen table.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1421411865?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/09/opossum-fishing-hook-tree/2001791562268/",
+    "sourceName": "Read UPI’s October 9 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "North Carolina wildlife rescuers used a bucket truck to reach an opossum tangled high above water, then treated a fishing-hook injury and dehydration.",
+    "socialPunchline": "The trail’s tackle hooked the only resident who was not fishing."
+  },
+  {
+    "id": "oct9-paw-and-order",
+    "isoDate": "2026-10-09",
+    "month": "October",
+    "date": "Oct 9, 2026",
+    "place": "Tampa, Florida",
+    "image": "assets/cards/oct9-paw-and-order.webp",
+    "title": "Lost German shepherd reports himself to police and gets home by microchip",
+    "facts": "The New York Post reported on October 9 that a lost German shepherd walked into a Tampa police station, where officers treated him as an unexpected K-9 applicant. An officer took the dog to a veterinarian, a microchip scan identified his owner, and the pair were reunited. The department shared video of the reunion on September 30 without publishing the dog or owner’s name.",
+    "why": "The story is a clean demonstration of identification infrastructure working: a chip does not track a pet, but its registered number can reconnect a found animal with current owner information. That last detail is the real maintenance job—implantation helps only when the registry record and contact details remain accurate.",
+    "angle": "Paw & Order. The missing dog skipped the poster phase and filed his own report. The dog, officer and station in the artwork are invented and anonymous; the card does not copy police video, uniforms or insignia.",
+    "amazonLinks": [
+      {
+        "title": "Decoding Your Dog: Explaining Common Dog Behaviors",
+        "image": "https://m.media-amazon.com/images/P/0544334604.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Decoding Your Dog by the American College of Veterinary Behaviorists",
+        "quip": "Veterinary behavior context for the dog who independently selected a civic solution.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0544334604?tag=blappos-20"
+      },
+      {
+        "title": "The Lost Dogs: Michael Vick’s Dogs and Their Tale of Rescue and Redemption",
+        "image": "https://m.media-amazon.com/images/P/1594485057.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Lost Dogs by Jim Gorant",
+        "quip": "A deeply reported rescue story about the systems and people that help dogs make it home to a new life.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1594485057?tag=blappos-20"
+      },
+      {
+        "title": "Perfect Puppy in 7 Days: How to Start Your Puppy Off Right",
+        "image": "https://m.media-amazon.com/images/P/0964151871.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Perfect Puppy in 7 Days by Sophia Yin",
+        "quip": "A veterinarian’s early-training guide for households hoping the next station visit is scheduled.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0964151871?tag=blappos-20"
+      }
+    ],
+    "source": "https://nypost.com/2026/10/09/us-news/florida-lost-dog-reports-himself-missing-at-tampa-police-station-reunites-with-tearful-owner/",
+    "sourceName": "Read the New York Post’s October 9 report",
+    "sourcePublisher": "New York Post",
+    "socialSummary": "A lost German shepherd walked into a Tampa police station; a veterinarian scanned his microchip, identified his owner and helped reunite them.",
+    "socialPunchline": "The missing dog skipped the poster phase and filed his own report."
+  },
+  {
+    "id": "oct9-bike-target",
+    "isoDate": "2026-10-09",
+    "month": "October",
+    "date": "Oct 9, 2026",
+    "place": "Sölden, Austria",
+    "image": "assets/cards/oct9-bike-target.webp",
+    "title": "Mountain biker drops 12.46 feet onto one very small cardboard target",
+    "facts": "UPI reported on October 9 that Austrian mountain biker Mario Neurauter earned the Guinness World Records title for the highest vertical drop on a bicycle onto a target by a male rider. At the Bike Republic Sölden Festival in September 2025, he rode from a 12.46-foot platform and landed his rear tire on a small red cardboard box, crushing it.",
+    "why": "The stunt combines the impact management of a major bike drop with the precision of a target scarcely wider than the tire. Guinness certified this specific target-drop title; evidence for two other attempts from the same weekend—the overall vertical drop and a 360-degree target drop—was still under review when the October 9 report appeared.",
+    "angle": "Drop. Aim. Land. A mountain bike converted gravity into a precision instrument and one cardboard box into official paperwork. The illustration is an invented alpine event scene, not the record footage, and it is not an instruction to attempt a high-consequence stunt.",
+    "amazonLinks": [
+      {
+        "title": "Mastering Mountain Bike Skills, 3rd Edition",
+        "image": "https://m.media-amazon.com/images/P/1492544493.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Mastering Mountain Bike Skills, third edition",
+        "quip": "Technique before airtime—the sensible reference for riders who prefer a progression to a 12-foot surprise.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1492544493?tag=blappos-20"
+      },
+      {
+        "title": "Big Blue Book of Bicycle Repair — 4th Edition",
+        "image": "https://m.media-amazon.com/images/P/0976553066.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Park Tool Big Blue Book of Bicycle Repair, fourth edition",
+        "quip": "For checking every component after gravity and a cardboard box finish their peer review.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0976553066?tag=blappos-20"
+      },
+      {
+        "title": "Guinness World Records 2027",
+        "image": "https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Guinness World Records 2027",
+        "quip": "The annual reference for determining which tiny target has accumulated enough paperwork to count.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/09/austria-Guinness-World-Records-mountain-bicycle-vertical-drop/5421791564144/",
+    "sourceName": "Read UPI’s October 9 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Austrian rider Mario Neurauter earned a Guinness title by dropping 12.46 feet and landing his rear tire on a small cardboard target at a 2025 festival.",
+    "socialPunchline": "Gravity became a precision instrument; the cardboard box became paperwork."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct9Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct9Stories);
