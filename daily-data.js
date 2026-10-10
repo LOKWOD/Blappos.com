@@ -2314,7 +2314,7 @@ const oct9Stories = [
     "date": "Oct 9, 2026",
     "place": "Sölden, Austria",
     "image": "assets/cards/oct9-bike-target.webp",
-    "title": "Mountain biker drops 12.46 feet onto one very small cardboard target",
+    "title": "Mountain biker drops 12.46 feet onto one very small cardboard target","magnetUrl":"https://blappos.printify.me/product/32939429","magnetPrice":"$9.99",
     "facts": "UPI reported on October 9 that Austrian mountain biker Mario Neurauter earned the Guinness World Records title for the highest vertical drop on a bicycle onto a target by a male rider. At the Bike Republic Sölden Festival in September 2025, he rode from a 12.46-foot platform and landed his rear tire on a small red cardboard box, crushing it.",
     "why": "The stunt combines the impact management of a major bike drop with the precision of a target scarcely wider than the tire. Guinness certified this specific target-drop title; evidence for two other attempts from the same weekend—the overall vertical drop and a 360-degree target drop—was still under review when the October 9 report appeared.",
     "angle": "Drop. Aim. Land. A mountain bike converted gravity into a precision instrument and one cardboard box into official paperwork. The illustration is an invented alpine event scene, not the record footage, and it is not an instruction to attempt a high-consequence stunt.",
