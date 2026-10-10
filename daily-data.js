@@ -2185,7 +2185,7 @@ const oct9Stories = [
     "date": "Oct 9, 2026",
     "place": "Cagnes-sur-Mer, France",
     "image": "assets/cards/oct9-renoir-recovery.webp",
-    "title": "Two stolen Renoirs return; six arrests and no disclosed recovery story",
+    "title": "Two stolen Renoirs return; six arrests and no disclosed recovery story","magnetUrl":"https://blappos.printify.me/product/32939418","magnetPrice":"$9.99",
     "facts": "Reuters reported on October 9 that French authorities recovered two Pierre-Auguste Renoir paintings stolen September 8 from the Renoir Museum in Cagnes-sur-Mer and arrested six people. The works—Madame Colonna Romano and Young Woman at the Well—belong to the Musée d’Orsay and had been on long-term loan. The thieves entered through a window after scaling a fence; two other paintings were dropped in the garden as police arrived.",
     "why": "The recovery returns culturally important works worth millions of euros and shows why provenance records, inter-museum loans and coordinated police work matter long after a theft leaves the headlines. Authorities canceled a planned news conference and did not disclose how the paintings were found, explicitly preserving an active investigation rather than filling that gap with a cleaner story.",
     "angle": "The Renoirs Are Back. Impressionism spent a month in witness protection. The frames, evidence markers and coastal night scene are original illustration—not the recovered canvases, a reconstruction of the undisclosed operation or proof about any suspect.",
