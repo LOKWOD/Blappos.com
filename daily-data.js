@@ -2271,7 +2271,7 @@ const oct9Stories = [
     "date": "Oct 9, 2026",
     "place": "Tampa, Florida",
     "image": "assets/cards/oct9-paw-and-order.webp",
-    "title": "Lost German shepherd reports himself to police and gets home by microchip",
+    "title": "Lost German shepherd reports himself to police and gets home by microchip","magnetUrl":"https://blappos.printify.me/product/32939423","magnetPrice":"$9.99",
     "facts": "The New York Post reported on October 9 that a lost German shepherd walked into a Tampa police station, where officers treated him as an unexpected K-9 applicant. An officer took the dog to a veterinarian, a microchip scan identified his owner, and the pair were reunited. The department shared video of the reunion on September 30 without publishing the dog or owner’s name.",
     "why": "The story is a clean demonstration of identification infrastructure working: a chip does not track a pet, but its registered number can reconnect a found animal with current owner information. That last detail is the real maintenance job—implantation helps only when the registry record and contact details remain accurate.",
     "angle": "Paw & Order. The missing dog skipped the poster phase and filed his own report. The dog, officer and station in the artwork are invented and anonymous; the card does not copy police video, uniforms or insignia.",
