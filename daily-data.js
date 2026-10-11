@@ -2454,7 +2454,7 @@ const oct10Stories = [
     "date": "Oct 10, 2026",
     "place": "Alberta, Canada",
     "image": "assets/cards/oct10-forty-layers.webp",
-    "title": "An Alberta man earns a record after roughly forty layers of tattoos",
+    "title": "An Alberta man earns a record after roughly forty layers of tattoos","magnetUrl":"https://blappos.printify.me/product/32978598","magnetPrice":"$9.99",
     "facts": "People reported on October 10 that Jeremy 'Remy' Schofield, 38, holds the Guinness World Records title for most tattooed living male with multiple layers. Across about twenty years, he has tattooed more than 90 percent of his body and covered or re-covered areas with roughly forty total layers; he also has more than 120 piercings and appears in Guinness World Records 2027.",
     "why": "The narrow category is the useful detail. Schofield does not hold the separate title for most tattooed living man because his face and palms remain uncovered; Guinness created a multiple-layers category that measures repeated work rather than simply visible coverage, turning a private archive of revisions into a distinct record.",
     "angle": "Forty Layers Deep. At some point a tattoo stops being decoration and becomes geological time. The card uses an anonymous invented back and original ornamental strata—not Schofield's face, body, tattoos, photographs or any artist's identifiable work.",
