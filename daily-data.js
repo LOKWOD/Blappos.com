@@ -2411,7 +2411,7 @@ const oct10Stories = [
     "date": "Oct 10, 2026",
     "place": "Evergreen, Colorado",
     "image": "assets/cards/oct10-royal-support-staff.webp",
-    "title": "Two school support dogs become homecoming prince and princess",
+    "title": "Two school support dogs become homecoming prince and princess","magnetUrl":"https://blappos.printify.me/product/32978591","magnetPrice":"$9.99",
     "facts": "The Associated Press reported on October 10 that Norene and Polenta, two golden Labrador-retriever crosses, now work at Evergreen High School as the first Canine Companions facility dogs permanently matched with a school after a campus shooting. The dogs joined in March and August, receive years of specialized training, and were recently crowned homecoming prince and princess in capes and crowns.",
     "why": "The crowns are charming, but the durable story is ongoing care after trauma. The dogs and their trained handlers provide a stable, voluntary source of comfort in hallways, classrooms and stressful moments; Canine Companions provides the dogs free, and facility assignments can last eight to ten years.",
     "angle": "Royal Support Staff. The school promoted its calmest employees and finally found administrators whose office hours include ear scratches. The illustration celebrates the dogs' homecoming honors without depicting the 2025 shooting, real students, handlers, school marks or Canine Companions branding.",
