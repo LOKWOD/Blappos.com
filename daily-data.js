@@ -2368,7 +2368,7 @@ const oct10Stories = [
     "date": "Oct 10, 2026",
     "place": "Irkutsk, Russia",
     "image": "assets/cards/oct10-not-plague.webp",
-    "title": "WHO says a Russian anti-plague lab death was not plague; the cause remains unknown",
+    "title": "WHO says a Russian anti-plague lab death was not plague; the cause remains unknown","magnetUrl":"https://blappos.printify.me/product/32978590","magnetPrice":"$9.99",
     "facts": "Reuters reported on October 10 that the World Health Organization still did not know what caused the pneumonia that killed a worker at an anti-plague research center in Siberia on October 2. Russia's regulator said tests of the worker and her contacts were negative for the high-threat pathogens tested, about 200 people had been quarantined, contacts remained symptom-free, and no linked severe-pneumonia cases or evidence of ongoing transmission had been identified.",
     "why": "The two-part finding matters: the available evidence did not support plague or ongoing spread, but it also did not establish a diagnosis. Keeping a verified negative separate from an unresolved cause is how public-health communication can reduce unfounded alarm without turning uncertainty into a false all-clear.",
     "angle": "Not Plague. Still Unknown. The lab report managed to contain both relief and a giant blank. The laboratory, checklist and question mark are original visual metaphor—not the real institute, a patient image or evidence of any pathogen.",
