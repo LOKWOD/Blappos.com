@@ -2359,3 +2359,137 @@ window.dailyStories.unshift(...oct9Stories);
 // October 9 affiliate covers reverified before social release.
 
 // October 9 social release authorized after live page, storefront, and affiliate-image verification.
+
+const oct10Stories = [
+  {
+    "id": "oct10-not-plague",
+    "isoDate": "2026-10-10",
+    "month": "October",
+    "date": "Oct 10, 2026",
+    "place": "Irkutsk, Russia",
+    "image": "assets/cards/oct10-not-plague.webp",
+    "title": "WHO says a Russian anti-plague lab death was not plague; the cause remains unknown",
+    "facts": "Reuters reported on October 10 that the World Health Organization still did not know what caused the pneumonia that killed a worker at an anti-plague research center in Siberia on October 2. Russia's regulator said tests of the worker and her contacts were negative for the high-threat pathogens tested, about 200 people had been quarantined, contacts remained symptom-free, and no linked severe-pneumonia cases or evidence of ongoing transmission had been identified.",
+    "why": "The two-part finding matters: the available evidence did not support plague or ongoing spread, but it also did not establish a diagnosis. Keeping a verified negative separate from an unresolved cause is how public-health communication can reduce unfounded alarm without turning uncertainty into a false all-clear.",
+    "angle": "Not Plague. Still Unknown. The lab report managed to contain both relief and a giant blank. The laboratory, checklist and question mark are original visual metaphor—not the real institute, a patient image or evidence of any pathogen.",
+    "amazonLinks": [
+      {
+        "title": "Spillover: Animal Infections and the Next Human Pandemic",
+        "image": "https://m.media-amazon.com/images/P/0393346617.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Spillover by David Quammen",
+        "quip": "Long-form reporting on how investigators trace infections across species without promoting every unknown into an outbreak.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0393346617?tag=blappos-20"
+      },
+      {
+        "title": "The Premonition: A Pandemic Story",
+        "image": "https://m.media-amazon.com/images/P/0393881555.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Premonition by Michael Lewis",
+        "quip": "A reported account of public-health detection, institutional friction and the people responsible for acting before certainty arrives.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0393881555?tag=blappos-20"
+      },
+      {
+        "title": "The Great Influenza",
+        "image": "https://m.media-amazon.com/images/P/0143036491.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Great Influenza by John M. Barry",
+        "quip": "A history of epidemic science and uncertainty for readers who want more than one alarming laboratory headline.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0143036491?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-russia-confirms-death-research-lab-no-plague-case-registered-2026-10-10/",
+    "sourceName": "Read Reuters' October 10 report",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "WHO said no plague case or ongoing transmission had been identified after a Russian anti-plague laboratory worker died with pneumonia, but the worker's diagnosis remained unknown.",
+    "socialPunchline": "The lab report managed to contain both relief and a giant blank."
+  },
+  {
+    "id": "oct10-royal-support-staff",
+    "isoDate": "2026-10-10",
+    "month": "October",
+    "date": "Oct 10, 2026",
+    "place": "Evergreen, Colorado",
+    "image": "assets/cards/oct10-royal-support-staff.webp",
+    "title": "Two school support dogs become homecoming prince and princess",
+    "facts": "The Associated Press reported on October 10 that Norene and Polenta, two golden Labrador-retriever crosses, now work at Evergreen High School as the first Canine Companions facility dogs permanently matched with a school after a campus shooting. The dogs joined in March and August, receive years of specialized training, and were recently crowned homecoming prince and princess in capes and crowns.",
+    "why": "The crowns are charming, but the durable story is ongoing care after trauma. The dogs and their trained handlers provide a stable, voluntary source of comfort in hallways, classrooms and stressful moments; Canine Companions provides the dogs free, and facility assignments can last eight to ten years.",
+    "angle": "Royal Support Staff. The school promoted its calmest employees and finally found administrators whose office hours include ear scratches. The illustration celebrates the dogs' homecoming honors without depicting the 2025 shooting, real students, handlers, school marks or Canine Companions branding.",
+    "amazonLinks": [
+      {
+        "title": "The Body Keeps the Score",
+        "image": "https://m.media-amazon.com/images/P/0143127748.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Body Keeps the Score by Bessel van der Kolk",
+        "quip": "A landmark overview of how trauma affects mind and body—and why steady, safe support matters long after an event.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0143127748?tag=blappos-20"
+      },
+      {
+        "title": "The Other End of the Leash",
+        "image": "https://m.media-amazon.com/images/P/034544678X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Other End of the Leash by Patricia McConnell",
+        "quip": "An applied animal behaviorist explains the human-dog relationship behind the hallway comfort—not just the crowns.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/034544678X?tag=blappos-20"
+      },
+      {
+        "title": "Dog Is Love: Why and How Your Dog Loves You",
+        "image": "https://m.media-amazon.com/images/P/132854396X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Dog Is Love by Clive D. L. Wynne",
+        "quip": "A canine scientist's account of the attachment that turns a trained facility dog into reliable emotional infrastructure.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/132854396X?tag=blappos-20"
+      }
+    ],
+    "source": "https://apnews.com/article/trauma-dogs-shooting-school-students-trauma-colorado-a9a9d9805b8c9b893cdd129fdb232c1d",
+    "sourceName": "Read the Associated Press' October 10 report",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "Two specially trained facility dogs became a permanent source of support at Colorado's Evergreen High School after a 2025 shooting and were crowned homecoming prince and princess.",
+    "socialPunchline": "The school promoted its calmest employees."
+  },
+  {
+    "id": "oct10-forty-layers",
+    "isoDate": "2026-10-10",
+    "month": "October",
+    "date": "Oct 10, 2026",
+    "place": "Alberta, Canada",
+    "image": "assets/cards/oct10-forty-layers.webp",
+    "title": "An Alberta man earns a record after roughly forty layers of tattoos",
+    "facts": "People reported on October 10 that Jeremy 'Remy' Schofield, 38, holds the Guinness World Records title for most tattooed living male with multiple layers. Across about twenty years, he has tattooed more than 90 percent of his body and covered or re-covered areas with roughly forty total layers; he also has more than 120 piercings and appears in Guinness World Records 2027.",
+    "why": "The narrow category is the useful detail. Schofield does not hold the separate title for most tattooed living man because his face and palms remain uncovered; Guinness created a multiple-layers category that measures repeated work rather than simply visible coverage, turning a private archive of revisions into a distinct record.",
+    "angle": "Forty Layers Deep. At some point a tattoo stops being decoration and becomes geological time. The card uses an anonymous invented back and original ornamental strata—not Schofield's face, body, tattoos, photographs or any artist's identifiable work.",
+    "amazonLinks": [
+      {
+        "title": "Guinness World Records 2027",
+        "image": "https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Guinness World Records 2027",
+        "quip": "The edition that includes the multiple-layers record and the category wording behind the forty-layer headline.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20"
+      },
+      {
+        "title": "The World Atlas of Tattoo",
+        "image": "https://m.media-amazon.com/images/P/0300210485.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The World Atlas of Tattoo by Anna Felicity Friedman",
+        "quip": "A visual global history for placing one contemporary record inside tattoo traditions far older than Guinness paperwork.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0300210485?tag=blappos-20"
+      },
+      {
+        "title": "Bodies of Subversion",
+        "image": "https://m.media-amazon.com/images/P/1576876136.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Bodies of Subversion by Margot Mifflin",
+        "quip": "A richly illustrated social history of tattooed bodies, artists and the meanings that outlast any single layer.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1576876136?tag=blappos-20"
+      }
+    ],
+    "source": "https://people.com/dad-with-tattoos-on-90-percent-body-now-world-record-holder-exclusive-12150495",
+    "sourceName": "Read People's October 10 report",
+    "sourcePublisher": "People",
+    "socialSummary": "Alberta's Jeremy Schofield earned Guinness' multiple-layers tattoo title after covering more than 90 percent of his body and reworking areas through roughly forty layers over twenty years.",
+    "socialPunchline": "At some point a tattoo becomes geological time."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct10Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct10Stories);

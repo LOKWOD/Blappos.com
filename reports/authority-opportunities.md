@@ -1,6 +1,6 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-03
+Updated: 2026-10-11
 Status: research log only; no outreach sent.
 
 ## Death Penalty Information Center — failed-protocol evidence boundary
@@ -605,3 +605,30 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct9-bike-target
 - Honest pitch angle: A source-labeled record digest that separates the September 2025 festival performance from the October 9, 2026 news report and distinguishes the certified target-drop title from two attempts still under review.
 - Qualification: Exact event venue named in the reporting and an official destination contact route. Any optional message should invite correction of the event date, measurement or title status only; it must not ask for promotion, imply venue endorsement or encourage readers to reproduce the stunt.
+
+
+## October 10, 2026 — qualified opportunities (not contacted)
+
+### World Health Organization media desk — negative-result versus unknown-diagnosis matrix
+
+- Target: WHO headquarters media contacts and Health Emergencies Programme communications
+- Route: https://www.who.int/news-room/media-contacts
+- Matching Blappos asset: https://blappos.com/verification/#oct10-not-plague
+- Honest pitch angle: A dated public-health evidence entry that keeps four findings separate—no registered plague case, negative tests for the high-threat pathogens tested, no identified ongoing transmission and no confirmed diagnosis for the deceased worker.
+- Qualification: WHO supplied the assessment quoted in Reuters and is the closest international public-health authority for correcting the wording. Any optional contact should invite a factual or attribution correction to the noncommercial matrix only; it must not request case information, imply WHO endorsement or foreground the magnet.
+
+### Canine Companions media team — facility-dog role and causation boundary
+
+- Target: Canine Companions newsroom and facility-dog media team
+- Route: https://canine.org/about-us/newsroom/for-the-media/
+- Matching Blappos asset: https://blappos.com/verification/#oct10-royal-support-staff
+- Honest pitch angle: A dignity-first entry that distinguishes trained, long-term facility-dog support from claims that the dogs alone caused academic or recovery outcomes, while keeping the homecoming crowns as the only satirical premise.
+- Qualification: The nonprofit trained and provided both dogs and offers an official media route. Any optional message should invite correction of program, training or assignment details; it must not use student trauma as a commercial pitch, request identifiable student information or imply Canine Companions endorses the art or product.
+
+### Guinness World Records press office — multiple-layers category explainer
+
+- Target: Guinness World Records press centre
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct10-forty-layers
+- Honest pitch angle: A category-boundary explainer that preserves the exact “most tattooed living male (multiple layers)” title, separates it from overall visible-coverage records and credits the 2027 edition without reproducing protected imagery.
+- Qualification: The certifying organization and source of the official category wording. Any optional contact should invite correction of the title or measurement language only; it must not imply Guinness certification of the illustration, satire, magnet or affiliate products.
