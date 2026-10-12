@@ -2547,7 +2547,7 @@ const oct11Stories = [
     "date": "Oct 11, 2026",
     "place": "Atacama Desert, Chile",
     "image": "assets/cards/oct11-wetland-tooth.webp",
-    "title": "A nine-million-year-old capybara-relative tooth points to wetlands in today's Atacama Desert",
+    "title": "A nine-million-year-old capybara-relative tooth points to wetlands in today's Atacama Desert","magnetUrl":"https://blappos.printify.me/product/33018235","magnetPrice":"$9.99",
     "facts": "The New Indian Express reported on October 11 that researchers had identified a roughly nine-million-year-old molar from Chile's Bahía Inglesa Formation as belonging to Cardiatherium, an extinct water-dependent relative of modern capybaras. The peer-reviewed study, published September 5, places the animal in late-Miocene coastal northern Chile, where the same deposits and earlier work also preserve freshwater fish, crocodiles and plant evidence.",
     "why": "One tooth does not prove the entire Atacama was lush, but it gives a minimum ecological fact: a large semiaquatic herbivore reached a place that required usable freshwater and wetland vegetation. Combined with the other fossils and plant microremains, the find strengthens a more varied account of when and where hyperaridity developed and suggests a coastal dispersal route across South America.",
     "angle": "One Tooth. Whole Wetland. Paleontology found one molar and reopened the desert's plumbing history. The wetland inside the tooth is an explicit imaginative metaphor; the animal's color, pose and exact habitat scene are not preserved by the fossil.",
