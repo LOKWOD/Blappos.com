@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct11-double-blow-sky-show': 'oct11-double-blow-sky-show',
+    'oct11-wetland-tooth': 'oct11-wetland-tooth',
+    'oct11-stroller-velocity': 'oct11-stroller-velocity',
     'oct10-not-plague': 'oct10-not-plague',
     'oct10-royal-support-staff': 'oct10-royal-support-staff',
     'oct10-forty-layers': 'oct10-forty-layers',

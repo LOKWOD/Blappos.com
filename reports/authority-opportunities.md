@@ -632,3 +632,30 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct10-forty-layers
 - Honest pitch angle: A category-boundary explainer that preserves the exact “most tattooed living male (multiple layers)” title, separates it from overall visible-coverage records and credits the 2027 edition without reproducing protected imagery.
 - Qualification: The certifying organization and source of the official category wording. Any optional contact should invite correction of the title or measurement language only; it must not imply Guinness certification of the illustration, satire, magnet or affiliate products.
+
+
+## October 11, 2026 — qualified opportunities (not contacted)
+
+### NOAA Space Weather Prediction Center — forecast-versus-observation explainer
+
+- Target: NOAA/NWS Space Weather Prediction Center communications team
+- Route: https://www.spaceweather.gov/contact
+- Matching Blappos asset: https://blappos.com/verification/#oct11-double-blow-sky-show
+- Honest pitch angle: A public source note that separates the forecast CME-merger mechanism, the observed Kp 6/G2 maximum and location-specific aurora reporting instead of treating one colorful photograph as a global measurement.
+- Qualification: NOAA issued the cited forecast and maintains the observed geomagnetic dashboard. Any optional contact should invite correction of the timeline or scale wording only; it must not ask for promotion, imply NOAA endorsement or foreground the magnet.
+
+### University of Arizona Geosciences — Atacama evidence-boundary digest
+
+- Target: University of Arizona Department of Geosciences and lead author Priscilla Martinez
+- Route: https://www.geo.arizona.edu/contact
+- Matching Blappos asset: https://blappos.com/verification/#oct11-wetland-tooth
+- Honest pitch angle: A compact public matrix explaining what the molar establishes directly, what the animal’s water dependence and surrounding record support, and why the finding does not make the entire Atacama continuously lush.
+- Qualification: The research team and institution own the closest scientific context for the cited paper. Any optional contact should invite a technical correction or primary-source clarification only; it must not imply endorsement of the reconstruction, satire, magnet or affiliate products.
+
+### Guinness World Records press office — pram-mile certification timeline
+
+- Target: Guinness World Records press centre
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct11-stroller-velocity
+- Honest pitch angle: A permanent entry that separates the August 8 performance from the October 11 report, preserves the exact male pram-mile title and time, and adds an explicit organized-race and illustration boundary.
+- Qualification: Guinness is the certifying authority and publishes the exact title, date, place and result. Any optional contact should invite correction of certification wording only; it must not imply Guinness approval of the art, product or affiliate cards.

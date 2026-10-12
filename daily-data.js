@@ -2495,3 +2495,139 @@ window.dailyStories = window.dailyStories.filter(story => !oct10Stories.some(ite
 window.dailyStories.unshift(...oct10Stories);
 
 // October 10 permanent-page rebuild requested after verified Printify publication.
+
+const oct11Stories = [
+  {
+    "id": "oct11-double-blow-sky-show",
+    "isoDate": "2026-10-11",
+    "month": "October",
+    "date": "Oct 11, 2026",
+    "place": "United Kingdom",
+    "image": "assets/cards/oct11-double-blow-sky-show.webp",
+    "title": "Two solar eruptions merged on the way to Earth and helped paint auroras across Britain",
+    "facts": "The Scottish Sun reported on October 11 that auroras had been photographed across Britain overnight, as far south as Kent and Surrey. NOAA's Space Weather Prediction Center had forecast a G2 geomagnetic storm for October 11 after a faster coronal mass ejection launched October 8 was expected to catch and merge with a slower one launched October 7; NOAA's live aurora dashboard later recorded a 24-hour peak of Kp 6, which corresponds to G2 conditions.",
+    "why": "The spectacle is the visible end of a Sun-to-Earth chain with practical consequences. NOAA classifies G2 as moderate: the same disturbance that sends charged particles into the upper atmosphere can require voltage corrections, affect high-latitude radio propagation and alter spacecraft operations. A wide aurora is therefore both a sky show and evidence of monitored space weather.",
+    "angle": "Double-Blow Sky Show. Two clouds of solar material carpooled to Earth and Britain received the universe's most expensive ceiling projection. The card's merging ribbons, map and town are original visual metaphor—not an aurora photograph, an impact map or a claim that every location saw the colors shown.",
+    "amazonLinks": [
+      {
+        "title": "Aurora: In Search of the Northern Lights",
+        "image": "https://m.media-amazon.com/images/P/0008156093.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Aurora: In Search of the Northern Lights by Melanie Windridge",
+        "quip": "A scientist's journey through the physics, landscapes and cultures behind the celestial curtains.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0008156093?tag=blappos-20"
+      },
+      {
+        "title": "The Northern Lights: The Definitive Guide to Auroras",
+        "image": "https://m.media-amazon.com/images/P/000846555X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Northern Lights: The Definitive Guide to Auroras by Tom Kerss",
+        "quip": "Forecasting, photography and aurora science for anyone who wants more than a phone alert and a dark field.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/000846555X?tag=blappos-20"
+      },
+      {
+        "title": "The Sun: A Very Short Introduction",
+        "image": "https://m.media-amazon.com/images/P/0198832699.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Sun: A Very Short Introduction by Philip Judge",
+        "quip": "A compact guide to the local star that launched both halves of the double-blow forecast.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0198832699?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.thescottishsun.co.uk/news/16926632/scots-northern-lights-dazzling-display/",
+    "sourceName": "Read The Scottish Sun's October 11 report",
+    "sourcePublisher": "The Scottish Sun",
+    "socialSummary": "Auroras were photographed across Britain after NOAA forecast that a faster solar eruption would catch a slower one en route to Earth; observed geomagnetic activity reached the G2 range.",
+    "socialPunchline": "Two clouds of solar material carpooled to Earth and Britain got the ceiling projection."
+  },
+  {
+    "id": "oct11-wetland-tooth",
+    "isoDate": "2026-10-11",
+    "month": "October",
+    "date": "Oct 11, 2026",
+    "place": "Atacama Desert, Chile",
+    "image": "assets/cards/oct11-wetland-tooth.webp",
+    "title": "A nine-million-year-old capybara-relative tooth points to wetlands in today's Atacama Desert",
+    "facts": "The New Indian Express reported on October 11 that researchers had identified a roughly nine-million-year-old molar from Chile's Bahía Inglesa Formation as belonging to Cardiatherium, an extinct water-dependent relative of modern capybaras. The peer-reviewed study, published September 5, places the animal in late-Miocene coastal northern Chile, where the same deposits and earlier work also preserve freshwater fish, crocodiles and plant evidence.",
+    "why": "One tooth does not prove the entire Atacama was lush, but it gives a minimum ecological fact: a large semiaquatic herbivore reached a place that required usable freshwater and wetland vegetation. Combined with the other fossils and plant microremains, the find strengthens a more varied account of when and where hyperaridity developed and suggests a coastal dispersal route across South America.",
+    "angle": "One Tooth. Whole Wetland. Paleontology found one molar and reopened the desert's plumbing history. The wetland inside the tooth is an explicit imaginative metaphor; the animal's color, pose and exact habitat scene are not preserved by the fossil.",
+    "amazonLinks": [
+      {
+        "title": "Capybara (Young Zoologist): A First Field Guide",
+        "image": "https://m.media-amazon.com/images/P/1684495121.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Capybara from the Young Zoologist series by Julia Mata",
+        "quip": "A field guide to the living giant rodent whose dependence on water makes the desert fossil so revealing.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1684495121?tag=blappos-20"
+      },
+      {
+        "title": "Capybara Is Friends with Everyone",
+        "image": "https://m.media-amazon.com/images/P/0063021021.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Capybara Is Friends with Everyone by Maddie Frost",
+        "quip": "The friendliest possible counterpoint to a lonely molar recovered from a marine desert deposit.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0063021021?tag=blappos-20"
+      },
+      {
+        "title": "Capybaras: A Natural History of the World's Largest Rodent",
+        "image": "https://m.media-amazon.com/images/P/0801891639.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Capybaras by Rexford D. Lord",
+        "quip": "The detailed biology and ecology behind why a capybara relative is such persuasive evidence for ancient water.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0801891639?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.newindianexpress.com/lifestyle/science/2026/Oct/11/9-million-year-old-tooth-hints-at-ancient-wetlands-in-atacama-desert",
+    "sourceName": "Read The New Indian Express' October 11 report",
+    "sourcePublisher": "The New Indian Express",
+    "socialSummary": "A late-Miocene tooth from a water-dependent capybara relative adds fossil evidence that parts of today's Atacama Desert supported freshwater wetlands about nine million years ago.",
+    "socialPunchline": "Paleontology found one molar and reopened the desert's plumbing history."
+  },
+  {
+    "id": "oct11-stroller-velocity",
+    "isoDate": "2026-10-11",
+    "month": "October",
+    "date": "Oct 11, 2026",
+    "place": "Cleveland, Ohio",
+    "image": "assets/cards/oct11-stroller-velocity.webp",
+    "title": "A Cleveland dad officially ran a 4:17.784 mile while pushing his one-year-old in a stroller",
+    "facts": "The Times of India profiled the certified result on October 11: emergency physician and former college runner Stephen Biebelhausen completed the Guardian Mile in Cleveland in 4 minutes 17.784 seconds while pushing his one-year-old daughter, Blake. Guinness World Records lists the performance as the male pram-mile record and dates the race to August 8, 2026; Biebelhausen had entered hoping only to beat the event's 4:44 stroller-course mark.",
+    "why": "The exact date and status matter because the performance circulated as an unofficial record in August before certification. Guinness now names the holder, time, place and category. The safety context matters too: this was an experienced runner in an organized stroller division, not evidence that an ordinary pram or an unprepared adult should reproduce elite pace.",
+    "angle": "Stroller Velocity. Dad tried to beat the course record and accidentally discovered the family outing had a world-ranking split time. The runner, child, stroller and bridge on the card are invented editorial illustration—not the Biebelhausens, record footage or a product endorsement.",
+    "amazonLinks": [
+      {
+        "title": "Guinness World Records 2027",
+        "image": "https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Guinness World Records 2027",
+        "quip": "The current annual compendium for putting one spectacularly fast family mile beside the year's other certified extremes.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20"
+      },
+      {
+        "title": "The Science of Running",
+        "image": "https://m.media-amazon.com/images/P/0615942946.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Science of Running by Steve Magness",
+        "quip": "Training physiology for understanding what separates a 4:17 mile from a casual stroller loop.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0615942946?tag=blappos-20"
+      },
+      {
+        "title": "The Incomplete Book of Running",
+        "image": "https://m.media-amazon.com/images/P/1451696256.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Incomplete Book of Running by Peter Sagal",
+        "quip": "A funny running memoir for the parent who knows the route may include chaos, joy and somebody else's wheels.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1451696256?tag=blappos-20"
+      }
+    ],
+    "source": "https://timesofindia.indiatimes.com/world/us/meet-stephen-biebelhausen-the-us-doctor-who-pushed-his-1-year-old-daughter-in-a-pram-and-accidentally-broke-a-world-record/articleshow/134793835.cms",
+    "sourceName": "Read The Times of India's October 11 report",
+    "sourcePublisher": "The Times of India",
+    "socialSummary": "Guinness now certifies Stephen Biebelhausen's August 8 Cleveland mile in 4:17.784 while pushing his one-year-old daughter—the male pram-mile record.",
+    "socialPunchline": "The family outing arrived with a world-ranking split time."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct11Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct11Stories);
+
+// October 11 stories await verified Printify publication before permanent pages or social release.
