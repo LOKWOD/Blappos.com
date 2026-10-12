@@ -2590,7 +2590,7 @@ const oct11Stories = [
     "date": "Oct 11, 2026",
     "place": "Cleveland, Ohio",
     "image": "assets/cards/oct11-stroller-velocity.webp",
-    "title": "A Cleveland dad officially ran a 4:17.784 mile while pushing his one-year-old in a stroller",
+    "title": "A Cleveland dad officially ran a 4:17.784 mile while pushing his one-year-old in a stroller","magnetUrl":"https://blappos.printify.me/product/33018239","magnetPrice":"$9.99",
     "facts": "The Times of India profiled the certified result on October 11: emergency physician and former college runner Stephen Biebelhausen completed the Guardian Mile in Cleveland in 4 minutes 17.784 seconds while pushing his one-year-old daughter, Blake. Guinness World Records lists the performance as the male pram-mile record and dates the race to August 8, 2026; Biebelhausen had entered hoping only to beat the event's 4:44 stroller-course mark.",
     "why": "The exact date and status matter because the performance circulated as an unofficial record in August before certification. Guinness now names the holder, time, place and category. The safety context matters too: this was an experienced runner in an organized stroller division, not evidence that an ordinary pram or an unprepared adult should reproduce elite pace.",
     "angle": "Stroller Velocity. Dad tried to beat the course record and accidentally discovered the family outing had a world-ranking split time. The runner, child, stroller and bridge on the card are invented editorial illustration—not the Biebelhausens, record footage or a product endorsement.",
