@@ -2504,7 +2504,7 @@ const oct11Stories = [
     "date": "Oct 11, 2026",
     "place": "United Kingdom",
     "image": "assets/cards/oct11-double-blow-sky-show.webp",
-    "title": "Two solar eruptions merged on the way to Earth and helped paint auroras across Britain",
+    "title": "Two solar eruptions merged on the way to Earth and helped paint auroras across Britain","magnetUrl":"https://blappos.printify.me/product/33018234","magnetPrice":"$9.99",
     "facts": "The Scottish Sun reported on October 11 that auroras had been photographed across Britain overnight, as far south as Kent and Surrey. NOAA's Space Weather Prediction Center had forecast a G2 geomagnetic storm for October 11 after a faster coronal mass ejection launched October 8 was expected to catch and merge with a slower one launched October 7; NOAA's live aurora dashboard later recorded a 24-hour peak of Kp 6, which corresponds to G2 conditions.",
     "why": "The spectacle is the visible end of a Sun-to-Earth chain with practical consequences. NOAA classifies G2 as moderate: the same disturbance that sends charged particles into the upper atmosphere can require voltage corrections, affect high-latitude radio propagation and alter spacecraft operations. A wide aurora is therefore both a sky show and evidence of monitored space weather.",
     "angle": "Double-Blow Sky Show. Two clouds of solar material carpooled to Earth and Britain received the universe's most expensive ceiling projection. The card's merging ribbons, map and town are original visual metaphor—not an aurora photograph, an impact map or a claim that every location saw the colors shown.",
