@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-11
+Updated: 2026-10-13
 Status: research log only; no outreach sent.
+
+## NOAA geostationary-satellite communications — optical-footprint method check
+
+- Target: NOAA/NESDIS geostationary-satellite communications and GOES data education team
+- Route: https://www.nesdis.noaa.gov/our-satellites/currently-flying/geostationary-satellites (legacy program contact: nesdis.goesr@noaa.gov)
+- Matching Blappos asset: https://blappos.com/verification/#oct12-michigan-7505-km2-flash
+- Honest pitch angle: A citation-ready evidence entry that labels the 7,505-square-kilometer value as a computed GLM optical footprint, links the dated data digest and NOAA source object, and explicitly distinguishes satellite-observed light from a ground-strike or damage area.
+- Qualification: NOAA operates the GOES satellites and documents the GLM instrument. Any optional note should invite a terminology or method correction to the noncommercial ledger, never imply NOAA certification of the calculation, participation in the story, or endorsement of the satire, affiliate links or magnet.
+
+## Idaho Potato Commission — input-versus-finished-weight record explainer
+
+- Target: Idaho Potato Commission press and general-information team
+- Route: https://idahopotato.com/pressroom or https://www.idahopotato.com/contact
+- Matching Blappos asset: https://blappos.com/verification/#oct12-1474-pound-fries
+- Honest pitch angle: A compact public matrix that preserves the difference between roughly 1,700 pounds of raw potatoes and the certified 1,474-pound finished fry batch, while documenting crew and fryer details without reproducing event art or branding.
+- Qualification: The commission is a named participant in the reported record and maintains public press and contact routes. Any optional note should invite a factual correction or share the noncommercial measurement explainer, never request promotion, a reciprocal link or endorsement of a product.
+
+## Guinness World Records press centre — October 12 record-date audit
+
+- Target: Guinness World Records press and records-information team
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct12-evidence-matrix
+- Honest pitch angle: A reusable three-clock table separating publication date, attempt date and certification status for the drift-gap and fry records, with explicit boundaries against treating a professional closed-course stunt as driving guidance or raw input weight as the certified food quantity.
+- Qualification: Guinness is the named record authority and can correct the exact title, measurement or event date. Any optional enquiry should ask only for a factual correction to the noncommercial ledger, never imply approval of the illustration, affiliate cards or magnet.
 
 ## Death Penalty Information Center — failed-protocol evidence boundary
 

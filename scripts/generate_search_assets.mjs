@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct12-zeekr-25cm-drift': 'oct12-zeekr-25cm-drift',
+    'oct12-1474-pound-fries': 'oct12-1474-pound-fries',
+    'oct12-michigan-7505-km2-flash': 'oct12-michigan-7505-km2-flash',
     'oct11-double-blow-sky-show': 'oct11-double-blow-sky-show',
     'oct11-wetland-tooth': 'oct11-wetland-tooth',
     'oct11-stroller-velocity': 'oct11-stroller-velocity',
