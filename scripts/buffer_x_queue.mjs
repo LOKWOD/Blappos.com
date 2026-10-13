@@ -67,7 +67,9 @@ function factualSummary(story) {
 }
 
 function satiricalPunchline(story) {
-  if (story.socialPunchline) return story.socialPunchline;
+  if (story.socialPunchline) {
+    return String(story.socialPunchline).replace(/^Blappos:\s*/i, '').trim();
+  }
   const cleaned = String(story.angle || '')
     .replace(/^Verified facts end above\.\s*/i, '')
     .replace(/^The Blappos (angle|interpretation):\s*/i, '')
@@ -118,7 +120,8 @@ function hasRequiredContext(post, story, service) {
     : text.includes(story.source);
   return text.includes(`/stories/${story.id}/`) &&
     sourcePresent &&
-    (text.includes('Blappos:') || text.includes(satiricalPunchline(story)));
+    !/Blappos:\s*Blappos:/i.test(text) &&
+    text.includes(`Blappos: ${satiricalPunchline(story)}`);
 }
 
 async function main() {
