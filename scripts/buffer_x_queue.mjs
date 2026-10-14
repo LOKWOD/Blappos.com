@@ -83,7 +83,9 @@ function weightedXLength(text) {
 
 function xText(story, url) {
   const source = story.source;
-  const publisher = sourcePublisher(story);
+  const publisher = story.sourcePublisher === 'North Carolina Education Lottery'
+    ? 'NC Lottery'
+    : sourcePublisher(story);
   const punchline = satiricalPunchline(story);
   let summary = factualSummary(story);
   const build = () => `${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet: ${url}\nSource (${publisher}): ${source}`;
