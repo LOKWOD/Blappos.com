@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-13
+Updated: 2026-10-14
 Status: research log only; no outreach sent.
+
+## NASA Jet Propulsion Laboratory media team — off-world odometer and autonomy explainer
+
+- Target: NASA Jet Propulsion Laboratory media relations and Mars public-engagement team
+- Route: https://www.jpl.nasa.gov/who-we-are/media-information/
+- Matching Blappos asset: https://blappos.com/verification/#oct13-perseverance-distance-record
+- Honest pitch angle: A citation-ready evidence entry that separates the October 11 odometer date from October 13 publication, labels 28.1 miles as cumulative distance rather than speed, and explains JPL's reported 90% autonomous-driving figure without implying that the rover sets its own mission goals.
+- Qualification: JPL built and operates Perseverance for NASA and is the primary expert route for engineering corrections. Any optional note should invite correction of the distance, AutoNav wording or mission context to the noncommercial ledger, never imply NASA/JPL endorsement of Blappos, the illustration, affiliate cards or magnet.
+
+## North Carolina Education Lottery — Pick 3 probability and payout boundary
+
+- Target: North Carolina Education Lottery communications and public-information team
+- Route: https://nclottery.com/Contact
+- Matching Blappos asset: https://blappos.com/verification/#oct13-000-4917-winners
+- Honest pitch angle: A compact public explainer that preserves the October 12 drawing versus October 13 publication distinction, links the official 4,917-ticket and $1,762,353 payout record, and states plainly that one memorable 0-0-0 result does not change the 1-in-1,000 odds of an exact Pick 3 sequence.
+- Qualification: The lottery owns the primary draw and payout records. Any optional contact should request only a factual or responsible-gambling correction to the noncommercial ledger, never promote play, imply better odds, seek winner information or ask for endorsement of a product.
+
+## Ring newsroom — camera-source and event-time audit
+
+- Target: Ring newsroom and UK communications team
+- Route: https://ring.com/press
+- Matching Blappos asset: https://blappos.com/verification/#oct13-cat-burglar-dog-bowl
+- Honest pitch angle: A source-boundary entry that credits the shared indoor-camera footage, limits the factual claim to visible entry, feeding and exit, and explicitly refuses to infer the neighborhood cat's intent, ownership or exact event time.
+- Qualification: Ring UK & Ireland shared the footage cited in the reporting and can correct provenance or timing. Any optional note should invite a source or chronology correction only, never request private customer details, licensed footage, promotion or endorsement of the satirical illustration and magnet.
 
 ## NOAA geostationary-satellite communications — optical-footprint method check
 

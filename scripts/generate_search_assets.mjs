@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct13-cat-burglar-dog-bowl': 'oct13-cat-burglar-dog-bowl',
+    'oct13-000-4917-winners': 'oct13-000-4917-winners',
+    'oct13-perseverance-distance-record': 'oct13-perseverance-distance-record',
     'oct12-zeekr-25cm-drift': 'oct12-zeekr-25cm-drift',
     'oct12-1474-pound-fries': 'oct12-1474-pound-fries',
     'oct12-michigan-7505-km2-flash': 'oct12-michigan-7505-km2-flash',
@@ -274,7 +277,7 @@ fs.writeFileSync(indexPath, homepage);
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-10-11' },
+  { loc: `${origin}/verification/`, lastmod: '2026-10-14' },
   { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
