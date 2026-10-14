@@ -150,12 +150,19 @@ function magnetMarkup(story) {
         </section>`;
 }
 
+function verifiedAmazonImage(rawUrl) {
+  const replacements = {
+    'https://m.media-amazon.com/images/P/B00O0UIPTY.01.LZZZZZZZ.jpg': 'https://m.media-amazon.com/images/I/61VTzalMPwL._AC_SL1500_.jpg'
+  };
+  return replacements[rawUrl] || rawUrl;
+}
+
 function amazonMarkup(story) {
   const links = (story.amazonLinks || []).filter(item => item.title && item.image && item.url).slice(0, 3);
   if (!links.length) return '';
   return `<section class="story-amazon" aria-label="Relevant Amazon finds">
           <h2>${links.length === 3 ? 'Three ridiculously relevant Amazon finds' : 'Ridiculously relevant Amazon finds'}</h2>
-          <div class="story-amazon-links">${links.map((item, index) => `<a class="story-amazon-link" href="${escapeHtml(item.url)}" target="_blank" rel="sponsored nofollow noopener"><span class="story-amazon-image"><img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.alt || item.title)}" width="320" height="320" loading="lazy" referrerpolicy="no-referrer"></span><span class="story-amazon-copy"><small>AMAZON FIND 0${index + 1}</small><strong>${escapeHtml(item.title)}</strong><em>${escapeHtml(item.quip)}</em><b>SEE THE EXACT ITEM →</b></span></a>`).join('')}</div>
+          <div class="story-amazon-links">${links.map((item, index) => `<a class="story-amazon-link" href="${escapeHtml(item.url)}" target="_blank" rel="sponsored nofollow noopener"><span class="story-amazon-image"><img src="${escapeHtml(verifiedAmazonImage(item.image))}" alt="${escapeHtml(item.alt || item.title)}" width="320" height="320" loading="lazy" referrerpolicy="no-referrer"></span><span class="story-amazon-copy"><small>AMAZON FIND 0${index + 1}</small><strong>${escapeHtml(item.title)}</strong><em>${escapeHtml(item.quip)}</em><b>SEE THE EXACT ITEM →</b></span></a>`).join('')}</div>
           <p class="story-amazon-disclosure">As an Amazon Associate, Blappos may earn from qualifying purchases. Product availability and pricing can change.</p>
         </section>`;
 }
