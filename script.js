@@ -15,7 +15,12 @@ const allStories=archiveStories;
 const dailyFinds=window.dailyFinds||[];
 const affiliateTag='blappos-20';
 function taggedAmazonUrl(rawUrl){try{const url=new URL(rawUrl);if(url.hostname==='amazon.com'||url.hostname.endsWith('.amazon.com')){url.searchParams.set('tag',affiliateTag);return url.href}}catch{}return rawUrl}
-function stableAmazonImage(rawUrl){return rawUrl||''}
+function stableAmazonImage(rawUrl){
+ const replacements={
+  'https://m.media-amazon.com/images/P/B00O0UIPTY.01.LZZZZZZZ.jpg':'https://m.media-amazon.com/images/I/61VTzalMPwL._AC_SL1500_.jpg'
+ };
+ return replacements[rawUrl]||rawUrl||'';
+}
 function amazonLinksForStory(story){
  const verified=dailyFinds.filter(find=>find.storyId===story.id).map(find=>({title:find.title,quip:find.quip,image:stableAmazonImage(find.image),alt:find.alt,salesPriority:find.salesPriority,url:taggedAmazonUrl(find.url)}));
  const supplied=(story.amazonLinks||[]).map(item=>({title:item.title,quip:item.quip,image:stableAmazonImage(item.image),alt:item.alt,salesPriority:item.salesPriority,url:taggedAmazonUrl(item.url)}));
