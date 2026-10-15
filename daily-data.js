@@ -2711,3 +2711,5 @@ const oct14StagingStories = [
     "socialPunchline": "Blappos: The three-passenger carpool had zero cars and one donkey on navigation."
   }
 ];
+window.dailyStories = window.dailyStories.filter(story => !oct14StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct14StagingStories);
