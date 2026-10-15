@@ -2651,7 +2651,7 @@ const oct14StagingStories = [
     "date": "Oct 14, 2026",
     "place": "Austin, Texas",
     "image": "assets/cards/oct14-estate-sale-grenades.webp",
-    "title": "An Estate-Sale Box Comes With Six Live WWII Grenades",
+    "title": "An Estate-Sale Box Comes With Six Live WWII Grenades","magnetUrl":"https://blappos.printify.me/product/33134937","magnetPrice":"$9.99",
     "facts": "UPI reported on October 14 that a Central Texas resident opened boxes bought at an estate sale and found six World War II-era grenades. Austin police bomb technicians X-rayed the objects, determined that the old Mk 2-style ‘pineapple’ grenades were live and safely removed them. Local reporting placed the response on October 12; October 14 is the publication date, not the discovery date.",
     "why": "Old military souvenirs can remain dangerous decades after a war. The safe takeaway is deliberately narrow: do not touch, move or inspect suspected ordnance; clear the immediate area and call 911. The reporting establishes that these six devices were active and removed by specialists, but it does not establish how they reached the sale or whether the seller knew what was inside the boxes.",
     "angle": "Verified reporting and the safety boundary end above. The Blappos interpretation: Austin’s estate sale offered a vintage lot that was very literally still live. The magnet uses an invented shopper, generic response crew and original suburban scene—no real person, police mark, copied photograph or operational depiction of a grenade.",
