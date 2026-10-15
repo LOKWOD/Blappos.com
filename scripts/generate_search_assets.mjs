@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct14-estate-sale-grenades': 'oct14-estate-sale-grenades',
+    'oct14-jurassic-flightless-bird': 'oct14-jurassic-flightless-bird',
+    'oct14-roadside-animal-carpool': 'oct14-roadside-animal-carpool',
     'oct13-cat-burglar-dog-bowl': 'oct13-cat-burglar-dog-bowl',
     'oct13-000-4917-winners': 'oct13-000-4917-winners',
     'oct13-perseverance-distance-record': 'oct13-perseverance-distance-record',

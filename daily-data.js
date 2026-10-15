@@ -1011,11 +1011,13 @@ const sep22Stories = [
   },
   {
     id:'sep22-inconvenience-store',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Seattle, Washington',image:'assets/cards/sep22-inconvenience-store.webp',
-    title:'Seattle opens an “Inconvenience Store” with pre-tangled USB cords',magnetUrl:'https://blappos.printify.me/product/32298909',magnetPrice:'$9.99',
-    facts:'Artists transformed a former 7-Eleven at Third Avenue and Pine Street into the Inconvenience Store, a temporary downtown Seattle exhibition arranged like a deliberately malfunctioning retail shop. The September 22 report described work from more than 70 mostly local artists across 14 mock departments, including pre-tangled USB cords, egg-shaped candles, snack-bag shoulder bags and an ATM sound sculpture. Admission is free; objects range from $1 to $10,000.',
+    title:'Seattle’s “Inconvenience Store” Sells Pre-Tangled USB Cords',magnetUrl:'https://blappos.printify.me/product/32298909',magnetPrice:'$9.99',
+    facts:'Seattle’s Inconvenience Store is a real temporary art exhibition where pre-tangled USB cords are part of the inventory. Artists transformed a former 7-Eleven at Third Avenue and Pine Street into a deliberately malfunctioning retail shop; the September 22 report described work from more than 70 mostly local artists across 14 mock departments, including egg-shaped candles, snack-bag shoulder bags and an ATM sound sculpture. Admission is free; objects range from $1 to $10,000.',
     why:'The project gives artists a highly visible storefront and turns an empty commercial space into a public cultural venue. It also asks visitors to look again at ordinary packaging, checkout rituals and disposable objects. The joke is an intentional art premise—not a claim that a real shop is deceiving customers—and the installation is expected to remain open on weekends into 2027.',
     angle:'Verified fact ends above. The Blappos interpretation: Seattle has finally opened a store where the USB cable arrives in its natural adult form. Main Character Energy belongs to the entire art project: it saw an empty convenience store and restocked it with beautifully organized inconvenience.',
-    source:'https://www.upi.com/Odd_News/2026/09/22/Inconvenience-store-seattle-art-exhibit/1271790098025/',sourceName:'Read the September 22 UPI report',
+    source:'https://www.upi.com/Odd_News/2026/09/22/Inconvenience-store-seattle-art-exhibit/1271790098025/',sourceName:'Read the September 22 UPI report',sourcePublisher:'UPI',
+    socialSummary:'UPI reported that more than 70 mostly local artists turned a former downtown Seattle 7-Eleven into a temporary Inconvenience Store with pre-tangled USB cords and 14 departments of deliberately malfunctioning retail art.',
+    socialPunchline:'Blappos: The USB cable arrives in its natural adult form.',
     amazonLinks:[
       {title:'Nettbe 60-Piece Reusable Cable Ties',image:'https://m.media-amazon.com/images/I/71aIKjDj3uL._AC_SL1200_.jpg',alt:'Colorful reusable cable ties arranged in rows',quip:'Sixty tiny objections to the store’s most artistically pre-tangled inventory.',url:'https://www.amazon.com/dp/B081HH5X61?tag=blappos-20',salesPriority:5},
       {title:'MATEIN Electronics Organizer Travel Case',image:'https://m.media-amazon.com/images/I/71Ei4fnj0AL._AC_SL1500_.jpg',alt:'Black MATEIN electronics organizer case opened to show cables and accessories',quip:'A portable anti-exhibition for cables that stubbornly insist on remaining categorized and usable.',url:'https://www.amazon.com/dp/B07PTP17LK?tag=blappos-20',salesPriority:5},
@@ -2637,3 +2639,75 @@ window.dailyStories = window.dailyStories.filter(story => !oct11Stories.some(ite
 window.dailyStories.unshift(...oct11Stories);
 
 // October 11 stories await verified Printify publication before permanent pages or social release.
+
+// October 14 staging edition. Printify scans these complete story objects, but they
+// remain outside window.dailyStories until every physical magnet is published and
+// its exact storefront URL is written back here.
+const oct14StagingStories = [
+  {
+    "id": "oct14-estate-sale-grenades",
+    "isoDate": "2026-10-14",
+    "month": "October",
+    "date": "Oct 14, 2026",
+    "place": "Austin, Texas",
+    "image": "assets/cards/oct14-estate-sale-grenades.webp",
+    "title": "An Estate-Sale Box Comes With Six Live WWII Grenades",
+    "facts": "UPI reported on October 14 that a Central Texas resident opened boxes bought at an estate sale and found six World War II-era grenades. Austin police bomb technicians X-rayed the objects, determined that the old Mk 2-style ‘pineapple’ grenades were live and safely removed them. Local reporting placed the response on October 12; October 14 is the publication date, not the discovery date.",
+    "why": "Old military souvenirs can remain dangerous decades after a war. The safe takeaway is deliberately narrow: do not touch, move or inspect suspected ordnance; clear the immediate area and call 911. The reporting establishes that these six devices were active and removed by specialists, but it does not establish how they reached the sale or whether the seller knew what was inside the boxes.",
+    "angle": "Verified reporting and the safety boundary end above. The Blappos interpretation: Austin’s estate sale offered a vintage lot that was very literally still live. The magnet uses an invented shopper, generic response crew and original suburban scene—no real person, police mark, copied photograph or operational depiction of a grenade.",
+    "amazonLinks": [
+      {"title":"Bring Cash: A Guide to Estate Sales in the Midwest and Beyond","image":"https://m.media-amazon.com/images/P/1540270173.01.LZZZZZZZ.jpg","alt":"Cover of Bring Cash by Kathryn Davis","quip":"A practical guide to the hunt, etiquette and surprises of estate sales—ideally the non-explosive kind.","salesPriority":5,"url":"https://www.amazon.com/dp/1540270173?tag=blappos-20"},
+      {"title":"The American Arsenal: The World War II Official Standard Ordnance Catalogue","image":"https://m.media-amazon.com/images/P/1848327269.01.LZZZZZZZ.jpg","alt":"Cover of The American Arsenal by Ian V. Hogg","quip":"A historical reference for identifying the wartime equipment behind the bomb squad’s very modern house call.","salesPriority":5,"url":"https://www.amazon.com/dp/1848327269?tag=blappos-20"},
+      {"title":"World War II: The Definitive Visual History from Blitzkrieg to the Atom Bomb","image":"https://m.media-amazon.com/images/P/1465436022.01.LZZZZZZZ.jpg","alt":"Cover of World War II from DK","quip":"A broad visual history for putting six dangerous leftovers inside the much larger material legacy of the war.","salesPriority":4,"url":"https://www.amazon.com/dp/1465436022?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/14/austin-texas-estate-sale-live-grenades-world-war-II/6091791999348/",
+    "sourceName": "Read the October 14 UPI report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that a Central Texas estate-sale buyer found six World War II-era grenades in purchased boxes; Austin bomb technicians X-rayed the devices, confirmed they were live and safely removed them.",
+    "socialPunchline": "Blappos: The vintage lot was sold as-is and, unfortunately, still live."
+  },
+  {
+    "id": "oct14-jurassic-flightless-bird",
+    "isoDate": "2026-10-14",
+    "month": "October",
+    "date": "Oct 14, 2026",
+    "place": "Fujian, China",
+    "image": "assets/cards/oct14-jurassic-flightless-bird.webp",
+    "title": "One of the Oldest Birds Skipped the Flying Part",
+    "facts": "A Nature paper published October 14 describes Yuezhuornis yangyuanensis from a single partial skeleton in Fujian’s Late Jurassic Nanyuan Formation, dated to roughly 150–148 million years ago. The crow-sized animal had unusually reduced forelimbs, a long bony tail, serrated teeth and a hyperextensible second toe. Its forelimbs were about one-third shorter than its hindlimbs, well outside the proportions of the 377 living bird species used for comparison.",
+    "why": "The authors interpret the anatomy as evidence of a terrestrial, secondarily flightless lifestyle, pushing specialized flightlessness much closer to the origin of birds than earlier examples. That conclusion changes the ecological picture of the earliest avialans, but one incomplete specimen cannot reveal its colors, behavior or exact running speed; those parts of the illustration remain imaginative reconstruction.",
+    "angle": "Verified paper and inference boundary end above. The Blappos interpretation: an early bird reviewed the flight plan, kept the teeth and chose the ground lane. The magnet is an original natural-history reconstruction—no fossil photograph, museum mark or claim that the animal’s appearance is known beyond the preserved anatomy.",
+    "amazonLinks": [
+      {"title":"The Story of Birds","image":"https://m.media-amazon.com/images/P/1035032511.01.LZZZZZZZ.jpg","alt":"Cover of The Story of Birds by Steve Brusatte","quip":"A modern account of avian evolution for the branch that produced powered flight—and one very early exception.","salesPriority":5,"url":"https://www.amazon.com/dp/1035032511?tag=blappos-20"},
+      {"title":"Birds of Stone: Chinese Avian Fossils from the Age of Dinosaurs","image":"https://m.media-amazon.com/images/P/1421420244.01.LZZZZZZZ.jpg","alt":"Cover of Birds of Stone by Luis M. Chiappe and Meng Qingjin","quip":"A richly illustrated guide to the Chinese fossils that transformed the early-bird family tree.","salesPriority":5,"url":"https://www.amazon.com/dp/1421420244?tag=blappos-20"},
+      {"title":"Dinosaurs: How They Lived and Evolved","image":"https://m.media-amazon.com/images/P/1588345823.01.LZZZZZZZ.jpg","alt":"Cover of Dinosaurs by Darren Naish and Paul Barrett","quip":"The broader evolutionary backdrop for a toothed, long-tailed bird that traded lift for leg day.","salesPriority":4,"url":"https://www.amazon.com/dp/1588345823?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/chinese-fossil-bird-with-undersized-wings-scrambles-avian-evolution-2026-10-14/",
+    "sourceName": "Read the October 14 Reuters report and Nature paper",
+    "sourcePublisher": "Reuters / Nature",
+    "socialSummary": "Reuters reported on a Nature paper describing Yuezhuornis, a roughly 150-million-year-old Fujian bird with very short forelimbs and anatomy interpreted as an early terrestrial, secondarily flightless lifestyle.",
+    "socialPunchline": "Blappos: One of the first birds filed a flight plan marked ‘declined.’"
+  },
+  {
+    "id": "oct14-roadside-animal-carpool",
+    "isoDate": "2026-10-14",
+    "month": "October",
+    "date": "Oct 14, 2026",
+    "place": "Bexar County, Texas",
+    "image": "assets/cards/oct14-roadside-animal-carpool.webp",
+    "title": "Deputies Stop a Three-Animal Carpool Before I-35",
+    "facts": "UPI reported on October 14 that Bexar County sheriff’s deputies had rounded up two horses and a donkey near Interstate 35 and Kinney Road. The sheriff’s October 11 account places the call at about 5:45 p.m. and says the animals were within 50 feet of the highway. Deputies secured all three, located the owner and reported no crash or injury.",
+    "why": "The distinction between beside the interstate and in moving traffic matters: the verified claim is that the animals were dangerously close, not that they entered a travel lane. Quick containment reduced the risk to drivers and animals, while returning them to an identified owner closed the immediate incident without turning a routine livestock escape into a fabricated chase.",
+    "angle": "Verified reporting ends above. The Blappos interpretation: Bexar County intercepted a three-passenger carpool with zero cars and a donkey apparently running navigation. The magnet uses invented animals and generic deputies—no copied social image, badge, identifiable person or claim that the trio actually traveled on I-35.",
+    "amazonLinks": [
+      {"title":"The Donkey Companion","image":"https://m.media-amazon.com/images/P/160342038X.01.LZZZZZZZ.jpg","alt":"Cover of The Donkey Companion by Sue Weaver","quip":"A practical care and training guide for the smallest member of the roadside committee.","salesPriority":5,"url":"https://www.amazon.com/dp/160342038X?tag=blappos-20"},
+      {"title":"Horsekeeping on a Small Acreage","image":"https://m.media-amazon.com/images/P/158017535X.01.LZZZZZZZ.jpg","alt":"Cover of Horsekeeping on a Small Acreage by Cherry Hill","quip":"Facility-planning guidance for keeping the horses’ next group outing safely inside the property line.","salesPriority":5,"url":"https://www.amazon.com/dp/158017535X?tag=blappos-20"},
+      {"title":"Fences for Pasture & Garden","image":"https://m.media-amazon.com/images/P/088266753X.01.LZZZZZZZ.jpg","alt":"Cover of Fences for Pasture & Garden by Gail Damerow","quip":"A nuts-and-bolts fencing reference for closing the route before the donkey schedules another interstate meetup.","salesPriority":4,"url":"https://www.amazon.com/dp/088266753X?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/14/two-horses-donkey-Bexar-County-Texas/2451791992146/",
+    "sourceName": "Read the October 14 UPI report and sheriff’s original post",
+    "sourcePublisher": "UPI / Bexar County Sheriff’s Office",
+    "socialSummary": "UPI and the Bexar County Sheriff’s Office reported that deputies secured two horses and a donkey found within 50 feet of I-35, located their owner and recorded no crash or injury.",
+    "socialPunchline": "Blappos: The three-passenger carpool had zero cars and one donkey on navigation."
+  }
+];

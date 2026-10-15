@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-14
+Updated: 2026-10-15
 Status: research log only; no outreach sent.
+
+## Institute of Vertebrate Paleontology and Paleoanthropology — early-avialan inference check
+
+- Target: IVPP research communications and the authors of the <em>Yuezhuornis</em> study
+- Route: https://www.ivpp.ac.cn/
+- Matching Blappos asset: https://blappos.com/verification/#oct14-jurassic-flightless-bird
+- Honest pitch angle: A compact evidence entry that links the peer-reviewed paper, separates preserved limb proportions from the authors’ flightlessness inference, and labels every color, pose and behavior in the illustration as reconstruction.
+- Qualification: IVPP houses the named specimen and its researchers can correct anatomy, age or inference language. Any optional note should invite a factual correction to the noncommercial ledger only, never imply endorsement of the satire, affiliate cards, reconstruction or magnet.
+
+## Austin Police public-information office — suspected-ordnance safety wording
+
+- Target: Austin Police Department public-information office and bomb-squad safety educators
+- Route: https://www.austintexas.gov/department/public-information-office
+- Matching Blappos asset: https://blappos.com/verification/#oct14-estate-sale-grenades
+- Honest pitch angle: A citation-ready public-safety entry that preserves the six-device count and X-ray finding while giving one clear, non-operational instruction: do not touch suspected ordnance, clear the area and call 911.
+- Qualification: APD handled the reported devices and is the appropriate route for correcting the response chronology or public-safety language. Any optional note should request correction only, never seek case details, exploit the danger or ask the department to endorse merchandise.
+
+## Bexar County Sheriff public-information office — roadside livestock wording
+
+- Target: Bexar County Sheriff’s Office public-information team
+- Route: https://www.bexar.org/3005/Public-Information-Requests
+- Matching Blappos asset: https://blappos.com/verification/#oct14-roadside-animal-carpool
+- Honest pitch angle: A source-led entry that links the office’s original post, keeps “within 50 feet of I-35” distinct from “in traffic,” and records the safe return and absence of a crash without inventing a chase.
+- Qualification: The sheriff’s office published the primary incident account and can correct location or outcome details. Any optional contact should invite a factual correction or point to the noncommercial wording guide, never imply deputy or county endorsement of the illustration, affiliate links or magnet.
 
 ## NASA Jet Propulsion Laboratory media team — off-world odometer and autonomy explainer
 
