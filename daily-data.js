@@ -2695,7 +2695,7 @@ const oct14StagingStories = [
     "date": "Oct 14, 2026",
     "place": "Bexar County, Texas",
     "image": "assets/cards/oct14-roadside-animal-carpool.webp",
-    "title": "Deputies Stop a Three-Animal Carpool Before I-35",
+    "title": "Deputies Stop a Three-Animal Carpool Before I-35","magnetUrl":"https://blappos.printify.me/product/33134949","magnetPrice":"$9.99",
     "facts": "UPI reported on October 14 that Bexar County sheriff’s deputies had rounded up two horses and a donkey near Interstate 35 and Kinney Road. The sheriff’s October 11 account places the call at about 5:45 p.m. and says the animals were within 50 feet of the highway. Deputies secured all three, located the owner and reported no crash or injury.",
     "why": "The distinction between beside the interstate and in moving traffic matters: the verified claim is that the animals were dangerously close, not that they entered a travel lane. Quick containment reduced the risk to drivers and animals, while returning them to an identified owner closed the immediate incident without turning a routine livestock escape into a fabricated chase.",
     "angle": "Verified reporting ends above. The Blappos interpretation: Bexar County intercepted a three-passenger carpool with zero cars and a donkey apparently running navigation. The magnet uses invented animals and generic deputies—no copied social image, badge, identifiable person or claim that the trio actually traveled on I-35.",
