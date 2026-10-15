@@ -2673,7 +2673,7 @@ const oct14StagingStories = [
     "date": "Oct 14, 2026",
     "place": "Fujian, China",
     "image": "assets/cards/oct14-jurassic-flightless-bird.webp",
-    "title": "One of the Oldest Birds Skipped the Flying Part",
+    "title": "One of the Oldest Birds Skipped the Flying Part","magnetUrl":"https://blappos.printify.me/product/33134941","magnetPrice":"$9.99",
     "facts": "A Nature paper published October 14 describes Yuezhuornis yangyuanensis from a single partial skeleton in Fujian’s Late Jurassic Nanyuan Formation, dated to roughly 150–148 million years ago. The crow-sized animal had unusually reduced forelimbs, a long bony tail, serrated teeth and a hyperextensible second toe. Its forelimbs were about one-third shorter than its hindlimbs, well outside the proportions of the 377 living bird species used for comparison.",
     "why": "The authors interpret the anatomy as evidence of a terrestrial, secondarily flightless lifestyle, pushing specialized flightlessness much closer to the origin of birds than earlier examples. That conclusion changes the ecological picture of the earliest avialans, but one incomplete specimen cannot reveal its colors, behavior or exact running speed; those parts of the illustration remain imaginative reconstruction.",
     "angle": "Verified paper and inference boundary end above. The Blappos interpretation: an early bird reviewed the flight plan, kept the teeth and chose the ground lane. The magnet is an original natural-history reconstruction—no fossil photograph, museum mark or claim that the animal’s appearance is known beyond the preserved anatomy.",
