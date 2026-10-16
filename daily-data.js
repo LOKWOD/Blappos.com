@@ -2769,7 +2769,7 @@ const oct15StagingStories = [
     "date": "Oct 15, 2026",
     "place": "Mammoth Lakes, California",
     "image": "assets/cards/oct15-library-bear-honey.webp",
-    "title": "A Bear Checks Out the Honey on Pooh’s 100th Birthday",
+    "title": "A Bear Checks Out the Honey on Pooh’s 100th Birthday","magnetUrl":"https://blappos.printify.me/product/33176829","magnetPrice":"$9.99",
     "facts": "UPI reported October 15 that a black bear entered the Mammoth Lakes Library before opening on October 14—the 100th anniversary of A. A. Milne’s Winnie-the-Pooh. The local release says the bear arrived at about 6:10 a.m., ate staff peanut butter, peach cups, cookies and a jar of honey, toured the library and left on its own. No damage or injuries were reported.",
     "why": "The timing is funny; the wildlife lesson is not. Mammoth’s bears are wild animals drawn to easy calories, and the library’s own notice tells residents to keep their distance, secure trash and vehicles, never feed a bear and call local authorities or 911 as appropriate. One quiet visit without damage does not make indoor bear encounters safe or charming to stage.",
     "angle": "Verified reporting and the safety boundary end above. The Blappos interpretation: the centennial guest returned the books and kept the honey. The magnet uses an original generic black bear and invented library interior; it includes no Winnie-the-Pooh character, Disney design, real security frame or claim that the bear understood the anniversary.",
