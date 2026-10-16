@@ -2785,3 +2785,5 @@ const oct15StagingStories = [
     "socialPunchline": "The centennial guest returned the books and kept the honey."
   }
 ];
+window.dailyStories = window.dailyStories.filter(story => !oct15StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct15StagingStories);

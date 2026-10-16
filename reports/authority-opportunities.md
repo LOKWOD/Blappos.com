@@ -731,3 +731,31 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct11-stroller-velocity
 - Honest pitch angle: A permanent entry that separates the August 8 performance from the October 11 report, preserves the exact male pram-mile title and time, and adds an explicit organized-race and illustration boundary.
 - Qualification: Guinness is the certifying authority and publishes the exact title, date, place and result. Any optional contact should invite correction of certification wording only; it must not imply Guinness approval of the art, product or affiliate cards.
+
+
+## October 15, 2026 — qualified opportunities (not contacted)
+
+### University of Cambridge Department of Archaeology — Shanidar evidence boundary
+
+- Target: Shanidar Cave Project researchers and the Department of Archaeology communications coordinator
+- Route: https://www.arch.cam.ac.uk/contact-us-and-accessibility
+- Contact route listed by the department for press or news queries: outreach@arch.cam.ac.uk
+- Matching Blappos asset: https://blappos.com/verification/#oct15-shanidar-care-and-spear
+- Honest pitch angle: A compact public evidence matrix that distinguishes observed dental and scapular trauma from the paper’s supported care, mortuary-behavior and violence interpretations.
+- Qualification: The lead and senior authors are part of Cambridge’s Shanidar Cave Project, and the linked asset cites the open-access paper directly. Any optional contact should invite technical correction or a stronger primary-source explanation only; it must not imply Cambridge endorsement of the illustration, satire, magnet or affiliate products.
+
+### Mono County Free Library — bear-safety source note
+
+- Target: Mono County Free Library administration / Director of Libraries Josef Bopp
+- Route: https://www.monocolibraries.org/about/contact
+- Matching Blappos asset: https://blappos.com/verification/#oct15-library-bear-honey
+- Honest pitch angle: A permanent local-source digest that preserves the reported time, menu and no-damage outcome while foregrounding the library’s own distance, food-storage and reporting advice.
+- Qualification: The library issued the closest primary account and operates the affected branch. Any optional message should invite a factual correction or better official bear-safety link; it must not use an emergency number, ask for promotion or imply library endorsement of the product.
+
+### Guinness World Records press centre — wing-walk date discrepancy
+
+- Target: Guinness World Records press office
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct15-99-year-old-wing-walker
+- Honest pitch angle: A transparent date note showing that the live record page’s October 16 verification date conflicts with its stated age and contemporaneous October 14 ITV coverage, while preserving Duffy’s achievement and fundraiser.
+- Qualification: Guinness owns the record page and is the only authoritative route for correcting the displayed verification date. Any optional contact should request a factual correction only; it must not imply Guinness approval of the art, commercial magnet or affiliate cards.
