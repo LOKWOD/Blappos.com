@@ -2747,7 +2747,7 @@ const oct15StagingStories = [
     "date": "Oct 15, 2026",
     "place": "Cirencester, England",
     "image": "assets/cards/oct15-99-year-old-wing-walker.webp",
-    "title": "At 99, Helga Duffy Takes the Outside Seat",
+    "title": "At 99, Helga Duffy Takes the Outside Seat","magnetUrl":"https://blappos.printify.me/product/33176825","magnetPrice":"$9.99",
     "facts": "UPI reported October 15 that Helga Duffy became the oldest female wing walker after flying secured above a biplane at RFC Rendcomb Airfield near Cirencester. ITV dated the flight to October 14 and reported that the care-home resident was raising money for Wiltshire and Bath Air Ambulance. Guinness lists Duffy at 99 years and 21 days, but its current record page says the result was verified October 16—a date that conflicts with both the age calculation and contemporaneous October 14 coverage.",
     "why": "The achievement is real, but the record page demonstrates why event date, report date and database date should not be collapsed into one. Duffy’s fundraiser turns a spectacle into practical support for emergency medicine, while the visible harness and professional airfield matter: this was an organized wing-walking flight, not an invitation to imitate a stunt independently.",
     "angle": "Verified reporting and the date discrepancy end above. The Blappos interpretation: at 99, Duffy did not ask for the window seat; she upgraded to the roof. The magnet uses an original fictionalized aviator and biplane, not Duffy’s likeness, ITV footage, an operator logo or a claim that the illustrated aircraft is the one she flew.",
