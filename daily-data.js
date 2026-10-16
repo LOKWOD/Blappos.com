@@ -2713,3 +2713,75 @@ const oct14StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct14StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct14StagingStories);
+
+// October 15 staging edition. Printify scans these complete story objects, but they
+// remain outside window.dailyStories until every physical magnet is published and
+// its exact storefront URL is written back here.
+const oct15StagingStories = [
+  {
+    "id": "oct15-shanidar-care-and-spear",
+    "isoDate": "2026-10-15",
+    "month": "October",
+    "date": "Oct 15, 2026",
+    "place": "Shanidar Cave, Iraqi Kurdistan",
+    "image": "assets/cards/oct15-shanidar-care-and-spear.webp",
+    "title": "A 75,000-Year-Old Skeleton Records Care—and a Spear Wound",
+    "facts": "A Scientific Reports paper published October 15 describes Shanidar A, an older Neanderthal represented by a partial skeleton deposited about 75,000 years ago. Six heavily worn front teeth record a severe earlier facial injury that the individual survived. A roughly circular perforation in the left shoulder blade shows no healing and is consistent with a rounded wooden spear passing through the chest around the time of death. The body’s placement adds a fifth individual to a closely grouped mortuary cluster.",
+    "why": "The same life contains evidence relevant to two difficult debates: long-term care and lethal trauma. The damaged teeth could have impaired eating, speech and pain-free daily life, making help from others plausible; the shoulder wound could have been a hunting accident or interpersonal violence, and the paper cannot distinguish between them. The cluster supports intentional funerary behavior, but motive and ritual meaning remain interpretations rather than directly observed facts.",
+    "angle": "Verified anatomy and inference boundaries end above. The Blappos interpretation: the archaeological record kept both the care plan and the incident report. The magnet is a respectful original reconstruction with an invented cave scene; it does not reproduce the remains, identify a killer or claim that the spear, clothing, faces or moment shown were preserved.",
+    "amazonLinks": [
+      {"title":"Kindred: Neanderthal Life, Love, Death and Art","image":"https://m.media-amazon.com/images/P/147293749X.01.LZZZZZZZ.jpg","alt":"Cover of Kindred by Rebecca Wragg Sykes","quip":"A research-rich portrait of Neanderthal lives that makes care, injury and social complexity legible without turning evidence into caricature.","salesPriority":5,"url":"https://www.amazon.com/dp/147293749X?tag=blappos-20"},
+      {"title":"The Neanderthals Rediscovered","image":"https://m.media-amazon.com/images/P/0500296405.01.LZZZZZZZ.jpg","alt":"Cover of The Neanderthals Rediscovered by Dimitra Papagianni and Michael A. Morse","quip":"An updated guide to how fossils, archaeology and genetics keep revising the old brutish stereotype.","salesPriority":5,"url":"https://www.amazon.com/dp/0500296405?tag=blappos-20"},
+      {"title":"The Secret of Our Success","image":"https://m.media-amazon.com/images/P/0691178437.01.LZZZZZZZ.jpg","alt":"Cover of The Secret of Our Success by Joseph Henrich","quip":"A broader account of culture, cooperation and cumulative knowledge for the social questions raised by one damaged ancient life.","salesPriority":4,"url":"https://www.amazon.com/dp/0691178437?tag=blappos-20"}
+    ],
+    "source": "https://www.nature.com/articles/s41598-026-69193-z",
+    "sourceName": "Read the October 15 Scientific Reports paper",
+    "sourcePublisher": "Scientific Reports",
+    "socialSummary": "A new Scientific Reports paper describes Shanidar A, an older Neanderthal who survived severe facial trauma and later suffered a likely fatal chest wound consistent with a wooden spear about 75,000 years ago.",
+    "socialPunchline": "The archaeological record kept both the care plan and the incident report."
+  },
+  {
+    "id": "oct15-99-year-old-wing-walker",
+    "isoDate": "2026-10-15",
+    "month": "October",
+    "date": "Oct 15, 2026",
+    "place": "Cirencester, England",
+    "image": "assets/cards/oct15-99-year-old-wing-walker.webp",
+    "title": "At 99, Helga Duffy Takes the Outside Seat",
+    "facts": "UPI reported October 15 that Helga Duffy became the oldest female wing walker after flying secured above a biplane at RFC Rendcomb Airfield near Cirencester. ITV dated the flight to October 14 and reported that the care-home resident was raising money for Wiltshire and Bath Air Ambulance. Guinness lists Duffy at 99 years and 21 days, but its current record page says the result was verified October 16—a date that conflicts with both the age calculation and contemporaneous October 14 coverage.",
+    "why": "The achievement is real, but the record page demonstrates why event date, report date and database date should not be collapsed into one. Duffy’s fundraiser turns a spectacle into practical support for emergency medicine, while the visible harness and professional airfield matter: this was an organized wing-walking flight, not an invitation to imitate a stunt independently.",
+    "angle": "Verified reporting and the date discrepancy end above. The Blappos interpretation: at 99, Duffy did not ask for the window seat; she upgraded to the roof. The magnet uses an original fictionalized aviator and biplane, not Duffy’s likeness, ITV footage, an operator logo or a claim that the illustrated aircraft is the one she flew.",
+    "amazonLinks": [
+      {"title":"Women Aviators: 26 Stories of Pioneer Flights","image":"https://m.media-amazon.com/images/P/1613745400.01.LZZZZZZZ.jpg","alt":"Cover of Women Aviators by Karen Bush Gibson","quip":"Twenty-six record-setting aviation stories for placing one extraordinary nonagenarian flight in a longer history of women taking the controls—and the risks.","salesPriority":5,"url":"https://www.amazon.com/dp/1613745400?tag=blappos-20"},
+      {"title":"Skyfaring: A Journey with a Pilot","image":"https://m.media-amazon.com/images/P/0804169713.01.LZZZZZZZ.jpg","alt":"Cover of Skyfaring by Mark Vanhoenacker","quip":"A pilot’s lyrical account of what flight does to perspective, even when your assigned seat is on top of the wing.","salesPriority":5,"url":"https://www.amazon.com/dp/0804169713?tag=blappos-20"},
+      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The current annual collection for the household that prefers its extraordinary claims measured, named and officially categorized.","salesPriority":4,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/15/guinness-world-records-wing-walker/4971792082759/",
+    "sourceName": "Read UPI’s October 15 report and the Guinness record page",
+    "sourcePublisher": "UPI / Guinness World Records",
+    "socialSummary": "UPI reported that 99-year-old Helga Duffy became the oldest female wing walker near Cirencester while raising money for an air ambulance; ITV dates the organized flight to October 14.",
+    "socialPunchline": "She did not ask for the window seat; she upgraded to the roof."
+  },
+  {
+    "id": "oct15-library-bear-honey",
+    "isoDate": "2026-10-15",
+    "month": "October",
+    "date": "Oct 15, 2026",
+    "place": "Mammoth Lakes, California",
+    "image": "assets/cards/oct15-library-bear-honey.webp",
+    "title": "A Bear Checks Out the Honey on Pooh’s 100th Birthday",
+    "facts": "UPI reported October 15 that a black bear entered the Mammoth Lakes Library before opening on October 14—the 100th anniversary of A. A. Milne’s Winnie-the-Pooh. The local release says the bear arrived at about 6:10 a.m., ate staff peanut butter, peach cups, cookies and a jar of honey, toured the library and left on its own. No damage or injuries were reported.",
+    "why": "The timing is funny; the wildlife lesson is not. Mammoth’s bears are wild animals drawn to easy calories, and the library’s own notice tells residents to keep their distance, secure trash and vehicles, never feed a bear and call local authorities or 911 as appropriate. One quiet visit without damage does not make indoor bear encounters safe or charming to stage.",
+    "angle": "Verified reporting and the safety boundary end above. The Blappos interpretation: the centennial guest returned the books and kept the honey. The magnet uses an original generic black bear and invented library interior; it includes no Winnie-the-Pooh character, Disney design, real security frame or claim that the bear understood the anniversary.",
+    "amazonLinks": [
+      {"title":"Bear Attacks: Their Causes and Avoidance","image":"https://m.media-amazon.com/images/P/158574557X.01.LZZZZZZZ.jpg","alt":"Cover of Bear Attacks by Stephen Herrero","quip":"The evidence-based classic on bear behavior and conflict prevention for readers who know a snack raid is still a wildlife encounter.","salesPriority":5,"url":"https://www.amazon.com/dp/158574557X?tag=blappos-20"},
+      {"title":"Winnie the Pooh: 100th Anniversary Collectible Edition","image":"https://m.media-amazon.com/images/P/1510784098.01.LZZZZZZZ.jpg","alt":"Cover of the 100th anniversary collectible edition of Winnie the Pooh","quip":"The original 1926 story in a centennial edition—the literary reason the library visitor’s menu became global news.","salesPriority":5,"url":"https://www.amazon.com/dp/1510784098?tag=blappos-20"},
+      {"title":"The Bear Almanac","image":"https://m.media-amazon.com/images/P/1493086456.01.LZZZZZZZ.jpg","alt":"Cover of The Bear Almanac by Gary Brown","quip":"A species-spanning reference for replacing the storybook bear in your head with the biology of the animal at the desk.","salesPriority":4,"url":"https://www.amazon.com/dp/1493086456?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/15/bear-library-Mono-County-winnie-the-pooh/5921792087119/",
+    "sourceName": "Read UPI’s October 15 report and the local library release",
+    "sourcePublisher": "UPI / Mono County Free Libraries",
+    "socialSummary": "UPI and a local library release say a black bear entered Mammoth Lakes Library before opening on October 14, ate staff snacks including a jar of honey and left without reported damage or injury.",
+    "socialPunchline": "The centennial guest returned the books and kept the honey."
+  }
+];
