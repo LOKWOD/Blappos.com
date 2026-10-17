@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 107600)
+Total output lines: 2862
+
 window.dailyStories=[
 {"id":"oct13-cat-burglar-dog-bowl","isoDate":"2026-10-13","month":"October 2026","date":"Oct 13, 2026","place":"London, England","image":"assets/cards/oct13-cat-burglar-dog-bowl.webp","title":"A Cat Burglar Steals Only the Dog Food","magnetUrl":"https://blappos.printify.me/product/33096083","magnetPrice":"$9.99","facts":"UPI reported on October 13 that Ring UK & Ireland shared indoor-camera footage of a neighborhood cat entering a southeast London home and eating from resident dog Rosie's bowl. Homeowner Myron Wallace said his family was upstairs and discovered the intrusion only after Rosie barked, came down the stairs and chased the cat back outside.","why":"The camera and Rosie's response establish the entry, snack and exit, but they do not establish the cat's motive, ownership or a precise event time. The small caper also illustrates a practical multi-pet problem: open bowls can feed an unintended animal, while monitored or identity-controlled feeders can limit access without turning a roaming pet into a criminal mastermind.","angle":"Verified reporting ends above. The Blappos interpretation: London's least subtle cat burglar skipped the jewelry, ate the evidence and still triggered the household dog alarm. The magnet uses invented animals, a generic camera and an original kitchen—no copied footage, Ring mark, homeowner likeness or claim about the real cat's intent.","amazonLinks":[{"title":"SureFeed Microchip Pet Feeder","image":"https://m.media-amazon.com/images/P/B00O0UIPTY.01.LZZZZZZZ.jpg","alt":"SureFeed Microchip Pet Feeder","quip":"A selective feeder for households that would prefer the neighborhood cat not recognize dinner as an open invitation.","salesPriority":5,"url":"https://www.amazon.com/dp/B00O0UIPTY?tag=blappos-20"},{"title":"The Trainable Cat","image":"https://m.media-amazon.com/images/P/0465050905.01.LZZZZZZZ.jpg","alt":"Cover of The Trainable Cat by John Bradshaw and Sarah Ellis","quip":"A science-based behavior guide for teaching boundaries before the dog has to run residential security.","salesPriority":5,"url":"https://www.amazon.com/dp/0465050905?tag=blappos-20"},{"title":"Decoding Your Cat","image":"https://m.media-amazon.com/images/P/1328489906.01.LZZZZZZZ.jpg","alt":"Cover of Decoding Your Cat by the American College of Veterinary Behaviorists","quip":"Veterinary behavior expertise for interpreting the visitor without assigning it a tiny striped burglary résumé.","salesPriority":4,"url":"https://www.amazon.com/dp/1328489906?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/10/13/London-cat-steals-dog-food-Ring-camera/1301791914101/","sourceName":"Read the October 13 UPI report","sourcePublisher":"UPI","socialSummary":"UPI reported that indoor-camera footage showed a neighborhood cat enter a southeast London home and eat Rosie's dog food before Rosie's barking and pursuit sent it back outside.","socialPunchline":"Blappos: London's cat burglar took only the dog food and still tripped the dog alarm."},
 {"id":"oct13-000-4917-winners","isoDate":"2026-10-13","month":"October 2026","date":"Oct 13, 2026","place":"North Carolina","image":"assets/cards/oct13-000-4917-winners.webp","title":"0-0-0 Pays 4,917 Winners at Once","magnetUrl":"https://blappos.printify.me/product/33096122","magnetPrice":"$9.99","facts":"The North Carolina Education Lottery reported on October 13 that the October 12 Pick 3 evening drawing produced 0-0-0, paying 4,917 winning tickets a combined $1,762,353. The official payout record identifies the draw date, winner count and total; the next-day news post is the publication clock, not the drawing clock.","why":"Any one exact three-digit sequence has the same 1-in-1,000 chance in a fair Pick 3 drawing. Triple digits are popular choices, so an unusual-looking result can create thousands of fixed-prize winners and a large statewide payout without becoming evidence that 0-0-0 was due, predictable or a better future bet.","angle":"Verified lottery records and the probability boundary end above. The Blappos interpretation: North Carolina's lottery terminal briefly rebooted with the factory password and 4,917 people already knew it. The magnet uses an invented machine, tickets and payout display—no official mark, copied ticket or promise of gambling success.","amazonLinks":[{"title":"The Drunkard's Walk: How Randomness Rules Our Lives","image":"https://m.media-amazon.com/images/P/0307275175.01.LZZZZZZZ.jpg","alt":"Cover of The Drunkard's Walk by Leonard Mlodinow","quip":"An accessible guide to randomness for the moment three zeros look like destiny instead of one outcome among a thousand.","salesPriority":5,"url":"https://www.amazon.com/dp/0307275175?tag=blappos-20"},{"title":"How Not to Be Wrong: The Power of Mathematical Thinking","image":"https://m.media-amazon.com/images/P/0143127535.01.LZZZZZZZ.jpg","alt":"Cover of How Not to Be Wrong by Jordan Ellenberg","quip":"Mathematical thinking for separating a memorable payout from a repeatable advantage.","salesPriority":5,"url":"https://www.amazon.com/dp/0143127535?tag=blappos-20"},{"title":"Thinking in Bets","image":"https://m.media-amazon.com/images/P/0735216371.01.LZZZZZZZ.jpg","alt":"Cover of Thinking in Bets by Annie Duke","quip":"A decision-making book for keeping one spectacular result from rewriting what the odds meant beforehand.","salesPriority":4,"url":"https://www.amazon.com/dp/0735216371?tag=blappos-20"}],"source":"https://nclottery.com/NewsBlogDetails/2026/10/13/Pick-3-players-win-over-1dot7-million-on-0-0-0","sourceName":"Read the October 13 North Carolina Education Lottery report","sourcePublisher":"North Carolina Education Lottery","socialSummary":"The North Carolina Education Lottery said the October 12 Pick 3 evening result 0-0-0 paid 4,917 winning tickets a combined $1,762,353; the agency published the payout on October 13.","socialPunchline":"Blappos: The statewide terminal rebooted with the factory password and 4,917 people knew it."},
@@ -607,174 +610,7 @@ const sep13EncoreStories = [
     title:'Scientists put plastic bottles in cookies; recycling bin requests a lawyer',magnetUrl:'https://blappos.printify.me/product/31980557',magnetPrice:'$9.99',
     facts:'Researchers at Southern Illinois University Carbondale are engineering yeasts to convert molecules derived from PET plastic and agricultural waste into proteins, fats, vitamins and flavorings. Those ingredients can be combined with fiber, starch and sweetener, then 3D-printed into protein-rich cookies called µBites.',
     why:'The NASA-backed work began as a way to make food where resupply is difficult, including long space missions. Researchers say available safety data are encouraging, but formal human taste testing still awaits institutional approval; the cookies have so far been judged mainly by aroma.',
-    angle:'Verified fact ends above. The Blappos interpretation: humanity stared at the recycling symbol and decided it was a recipe. The future vending machine will accept one bottle, add vanilla and dispense the snack you technically brought from home.',
-    source:'https://sciencedaily.com/releases/2026/09/260912220033.htm',sourceName:'Read the ScienceDaily report',
-    amazonLinks:[
-      {title:'Plastic: A Toxic Love Story',image:'https://m.media-amazon.com/images/P/0547152834.01.LZZZZZZZ.jpg',alt:'Cover of Plastic: A Toxic Love Story by Susan Freinkel',quip:'The background reading for a love story that has now reached the deeply complicated “eat the bottle” phase.',url:'https://www.amazon.com/dp/0547152834?tag=blappos-20',salesPriority:4},
-      {title:'Cookies: The New Classics',image:'https://m.media-amazon.com/images/P/0593235665.01.LZZZZZZZ.jpg',alt:'Cover of Cookies: The New Classics by Jesse Szewczyk',quip:'A cookie book from the final innocent era, when “new classic” did not mean polyethylene terephthalate.',url:'https://www.amazon.com/dp/0593235665?tag=blappos-20',salesPriority:5},
-      {title:'The 3D Printing Handbook',image:'https://m.media-amazon.com/images/P/9082748509.01.LZZZZZZZ.jpg',alt:'Cover of The 3D Printing Handbook',quip:'The production manual for anyone whose bakery now requires software, microbes and a materials-science waiver.',url:'https://www.amazon.com/dp/9082748509?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep13-paragliding-grandpa',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Himachal Pradesh',image:'assets/cards/sep13-paragliding-grandpa.webp',
-    title:'72-year-old reaches 24,000 feet; recliner declared medically boring',magnetUrl:'https://blappos.printify.me/product/31980562',magnetPrice:'$9.99',
-    facts:'NDTV reported that 72-year-old Kapildev Rawat of Jamui, Bihar, fulfilled a long-held dream by paragliding at nearly 24,000 feet in Himachal Pradesh. Rawat initially hesitated because of his age but went ahead after encouragement from his children.',
-    why:'Rawat described the flight as exciting, joyful and emotional, and credited his family for helping him attempt it. His outing turned a familiar family dynamic upside down: instead of children being warned not to do something dangerous, the children talked their father into leaving the mountain.',
-    angle:'Verified fact ends above. The Blappos interpretation: retirement has left the chat, climbed to cruising altitude and blocked the shuffleboard committee. His children said “you only live once,” then apparently selected a height at which commercial aircraft begin asking questions.',
-    source:'https://www.ndtv.com/offbeat/72-year-old-bihar-man-goes-paragliding-at-nearly-24-000-feet-in-himachal-fulfils-lifelong-dream-12040915',sourceName:'Read the NDTV report',
-    amazonLinks:[
-      {title:'The Bucket List: 1000 Adventures Big & Small',image:'https://m.media-amazon.com/images/P/0789332698.01.LZZZZZZZ.jpg',alt:'Cover of The Bucket List: 1000 Adventures Big & Small',quip:'For finding the next family outing after “launch Dad from the Himalayas” has already been checked off.',url:'https://www.amazon.com/dp/0789332698?tag=blappos-20',salesPriority:5},
-      {title:'Fifty Places to Fly Before You Die',image:'https://m.media-amazon.com/images/P/1617691062.01.LZZZZZZZ.jpg',alt:'Cover of Fifty Places to Fly Before You Die by Chris Santella',quip:'Rawat completed the assignment at 72 and selected a location high enough to count several times.',url:'https://www.amazon.com/dp/1617691062?tag=blappos-20',salesPriority:5},
-      {title:'How to Retire Happy, Wild, and Free',image:'https://m.media-amazon.com/images/P/096941949X.01.LZZZZZZZ.jpg',alt:'Cover of How to Retire Happy, Wild, and Free by Ernie J. Zelinski',quip:'The title reads less like advice and more like Rawat’s flight plan.',url:'https://www.amazon.com/dp/096941949X?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep13EncoreStories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep13EncoreStories);
-
-const sep14Stories = [
-  {
-    id:'sep14-nato-birds',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Vilnius, Lithuania',image:'assets/cards/sep14-nato-birds.webp',
-    title:'NATO scrambles a fighter jet; hostile formation turns out to be birds',magnetUrl:'https://blappos.printify.me/product/32000124',magnetPrice:'$9.99',
-    facts:'NDTV reported that a NATO fighter was dispatched from Šiauliai in northern Lithuania after radar detected an unknown low-flying object in restricted airspace near Vilnius. The Italian air force crew, serving under NATO Baltic Air Defence, made visual contact and found dozens of migrating birds—not a drone. Vilnius Airport closed temporarily and reopened within 38 minutes.',
-    why:'Lithuania’s heightened security posture makes the interception protocol understandable, while the mix-up shows how small, slow targets and dense bird flocks can create similar radar signatures. A false alarm still disrupted civilian aviation, turning an identification problem into an airport-wide consequence.',
-    angle:'Verified fact ends above. The Blappos interpretation: Europe briefly achieved air superiority over migration season. The flock was released without charge after producing no motors, propellers or surveillance equipment.',
-    source:'https://www.ndtv.com/world-news/nato-jets-scramble-to-intercept-drone-discover-its-just-birds-12043003',sourceName:'Read the NDTV report',
-    amazonLinks:[
-      {title:'Celestron Nature DX 8x42 Waterproof Binoculars for Bird Watching & Outdoors',image:'https://m.media-amazon.com/images/P/B00B73JONS.01.LZZZZZZZ.jpg',alt:'Celestron Nature DX 8x42 waterproof binoculars with case and accessories',quip:'For confirming “migrating bird” before the next identification request reaches fighter-jet pricing.',url:'https://www.amazon.com/dp/B00B73JONS?tag=blappos-20',salesPriority:5},
-      {title:"Europe's Birds: An Identification Guide (WILDGuides)",image:'https://m.media-amazon.com/images/I/71ygxy-nXlL._SL1500_.jpg',alt:"Cover of Europe's Birds: An Identification Guide",quip:'A field guide to the exact European flock that briefly appeared on the NATO threat board.',url:'https://www.amazon.com/dp/0691177651?tag=blappos-20',salesPriority:5},
-      {title:"Birds Aren't Real: The True Story of Mass Avian Murder and the Largest Surveillance Campaign in US History",image:'https://m.media-amazon.com/images/I/71yiMzvnohL._SL1500_.jpg',alt:"Cover of Birds Aren't Real by Peter McIndoe and Connor Gaydos",quip:'The definitive joke for the morning NATO suspected a drone and discovered the conspiracy had feathers.',url:'https://www.amazon.com/dp/1250288894?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep14-pacific-scream',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'San Francisco, California',image:'assets/cards/sep14-pacific-scream.webp',
-    title:'San Francisco screams at the Pacific; ocean declines to comment',magnetUrl:'https://blappos.printify.me/product/32000128',magnetPrice:'$9.99',
-    facts:'UPI reported that more than 100 people gathered at Vista Del Mar above Ocean Beach for a guttural scream contest organized by Danielle Egan. Olivia Gugliemotto won after a sound meter registered 121.9 decibels, earning a small megaphone; Kyana Van Houten placed second with a 6.78-second scream measured at 114.3 decibels.',
-    why:'The event turned private stress into deliberately low-tech communal catharsis: people met offline, screamed together for about a minute and shared fruit afterward. The winning measurement also makes hearing safety more than a footnote—121.9 decibels is an intensity where exposure time matters.',
-    angle:'Verified fact ends above. The Blappos interpretation: more than 100 San Franciscans filed a verbal complaint with the Pacific. The ocean acknowledged receipt by continuing to be the ocean.',
-    source:'https://www.upi.com/Odd_News/2026/09/14/Guttural-scream-at-the-sea-San-Francisco/6761789408160/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Pyle Portable Megaphone Speaker PA Bullhorn - Built-in Siren, 50W Adjustable Volume Control in 1200 Yard Range, Ideal for Any Outdoor Sports, Cheerleading Fans & Coaches, or for Safety Drills',image:'https://m.media-amazon.com/images/P/B002PB23SO.01.LZZZZZZZ.jpg',alt:'White and blue Pyle 50-watt portable megaphone with handheld microphone',quip:'The winner received a megaphone, because apparently 121.9 decibels was only the qualifying round.',url:'https://www.amazon.com/dp/B002PB23SO?tag=blappos-20',salesPriority:4},
-      {title:'eS528L Decibel Meter and Recorder by ennoLogic – Digital Sound Level Meter and Noise Logger – Max/Min/Hold, 30-130 dBA Range, Updated Software',image:'https://m.media-amazon.com/images/I/71LYLbpFUWL._AC_SL1000_.jpg',alt:'ennoLogic eS528L digital decibel meter with manual, cable and battery',quip:'For settling the exact contest fact: who screamed loudest at the Pacific and by how much.',url:'https://www.amazon.com/dp/B07V4H1SJ9?tag=blappos-20',salesPriority:4},
-      {title:'3M WorkTunes',image:'https://m.media-amazon.com/images/P/B0723CYHPZ.01.LZZZZZZZ.jpg',alt:'Black 3M WorkTunes over-ear hearing protector with yellow trim',quip:'For the sensible spectator standing beside more than 100 people attempting a collective emotional sonic boom.',url:'https://www.amazon.com/dp/B0723CYHPZ?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep14-golden-modak',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Nashik, India',image:'assets/cards/sep14-golden-modak.webp',
-    title:'Sweet shop upgrades dessert to precious metal and charges accordingly',magnetUrl:'https://blappos.printify.me/product/32000137',magnetPrice:'$9.99',
-    facts:'NDTV reported that Sagar Sweets at Vidya Vikas Circle in Nashik launched a golden modak for Ganesh Chaturthi. The traditional festival sweet is coated with edible gold and priced at ₹27,000 per kilogram, drawing shoppers and attention online.',
-    why:'Modak is closely associated with Ganesh Chaturthi and is traditionally described as a favorite of Lord Ganesha. The gold-coated version shows how retailers can turn a familiar devotional sweet into a luxury spectacle without changing the cultural occasion at its center.',
-    angle:'Verified fact ends above. The Blappos interpretation: Nashik found the shortest route from prasad to portfolio diversification. The sweet is now served with spiritual significance and an implied prospectus.',
-    source:'https://www.ndtv.com/offbeat/ganesh-chaturthi-golden-modak-worth-rs-27-000-per-kg-steals-spotlight-at-nashik-sweet-shop-12043789',sourceName:'Read the NDTV report',
-    amazonLinks:[
-      {title:'FlowAura Aluminum Modak Moulds (Set of 2) Size: 5 cm | (Medium)',image:'https://m.media-amazon.com/images/I/31MBK-2DifS._AC_.jpg',alt:'Pair of medium aluminum moulds shaping a white modak',quip:'The exact mould for recreating the story’s modak shape before the precious-metal department gets involved.',url:'https://www.amazon.com/dp/B093BYBKYK?tag=blappos-20',salesPriority:4},
-      {title:'Barnabas Edible Gold Leaf Sheets 24K - Loose 1.5inch Sheet, Interleaf of 12',image:'https://m.media-amazon.com/images/I/71sBe3rFUYL._SL1500_.jpg',alt:'Barnabas 24-karat edible gold leaf package with twelve loose sheets',quip:'The exact edible-gold treatment that promotes an ordinary festival sweet into the dessert asset class.',url:'https://www.amazon.com/dp/B07THRSKVZ?tag=blappos-20',salesPriority:5},
-      {title:'OXO Good Grips 11-Pound Digital Kitchen Food Scale',image:'https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg',alt:'Stainless steel OXO digital kitchen food scale with pull-out display',quip:'At ₹27,000 per kilogram, “close enough” stops being an acceptable unit of dessert measurement.',url:'https://www.amazon.com/dp/B079D9B82W?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep14Stories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep14Stories);
-
-const sep14CompleteRun = [
-  {
-    id:'sep14-paper-planes',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Boise, Idaho',image:'assets/cards/sep14-paper-planes.webp',
-    title:'Man folds 415 paper planes; airport reports zero useful departures',magnetUrl:'https://blappos.printify.me/product/32023725',magnetPrice:'$9.99',
-    facts:'UPI reported that serial record-breaker David Rush folded 415 paper airplanes in one hour in Boise, Idaho, earning the Guinness World Records title for the most paper aircraft made in that time. The attempt required a completed, recognizable plane every few seconds for the full hour.',
-    why:'The record turns a familiar school-desk skill into an endurance and quality-control problem: each plane has to be folded fast enough to keep the count moving while still meeting the rules. Rush uses elaborate record attempts to promote science, technology, engineering and math education.',
-    angle:'Verified fact ends above. The Blappos interpretation: Boise opened an airline with 415 aircraft, no pilots and a baggage allowance of one paper clip. Every flight was on time because none of them went anywhere.',
-    source:'https://www.upi.com/Odd_News/2026/09/14/Guinness-World-Records-David-Rush-paper-airplanes-one-hour/3931789398848/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Klutz Book of Paper Airplanes Craft Kit',image:'https://m.media-amazon.com/images/P/1570548307.01.LZZZZZZZ.jpg',alt:'Klutz Book of Paper Airplanes craft kit',quip:'The folding manual and patterned paper for attempting plane 416 without opening an actual airport.',url:'https://www.amazon.com/dp/1570548307?tag=blappos-20',salesPriority:5},
-      {title:'The New World Champion Paper Airplane Book',image:'https://m.media-amazon.com/images/P/1607743884.01.LZZZZZZZ.jpg',alt:'The New World Champion Paper Airplane Book by John M. Collins',quip:'Record-grade designs for anyone who thinks the problem with 415 planes was insufficient aerodynamics.',url:'https://www.amazon.com/dp/1607743884?tag=blappos-20',salesPriority:5},
-      {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of Guinness World Records 2027',quip:'The official paperwork for checking whether your kitchen-table airline made the next edition.',url:'https://www.amazon.com/dp/1806500256?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep14-bat-train',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Greenock, Scotland',image:'assets/cards/sep14-bat-train.webp',
-    title:'ScotRail quiet carriage adds one extremely airborne passenger',magnetUrl:'https://blappos.printify.me/product/32023730',magnetPrice:'$9.99',
-    facts:'UPI reported that a bat flew through a ScotRail carriage on the Gourock-to-Glasgow Central service while the train traveled between Cartsdyke and Bogston stations in Greenock. Passengers ducked as staff and riders tried to guide it toward an exit with a Saltire flag and a cap; the bat eventually flew out.',
-    why:'A bat inside a moving passenger carriage is difficult to direct without hurting it or alarming riders. The improvised response worked: the animal left the train and the episode ended with cheers rather than an injury or a prolonged service disruption.',
-    angle:'Verified fact ends above. The Blappos interpretation: ScotRail apologized for the unannounced upgrade to winged service. The passenger had no ticket, no luggage and still found a faster route to the door than everyone in the aisle.',
-    source:'https://www.upi.com/Odd_News/2026/09/14/scotland-bat-ScotRail-train-Glasgow/6801789395779/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'National Geographic Readers: Bats',image:'https://m.media-amazon.com/images/P/1426307101.01.LZZZZZZZ.jpg',alt:'Cover of National Geographic Readers Bats',quip:'The pocket briefing for identifying the passenger before deploying railway flags and flat caps.',url:'https://www.amazon.com/dp/1426307101?tag=blappos-20',salesPriority:4},
-      {title:"The Bat House Builder's Handbook",image:'https://m.media-amazon.com/images/P/1889546119.01.LZZZZZZZ.jpg',alt:"Cover of The Bat House Builder's Handbook",quip:'A proper dedicated residence, reducing the odds that the next available accommodation is the 1:40 to Glasgow.',url:'https://www.amazon.com/dp/1889546119?tag=blappos-20',salesPriority:5},
-      {title:'Scotland Flag 3 x 5 Ft Polyester Saltire',image:'https://m.media-amazon.com/images/P/B000O5Y2VO.01.LZZZZZZZ.jpg',alt:'Blue and white Scottish Saltire flag',quip:'A reenactment-ready version of the improvised bat-guidance equipment used inside the carriage.',url:'https://www.amazon.com/dp/B000O5Y2VO?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep14-emu-chase',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Ramapo, New York',image:'assets/cards/sep14-emu-chase.webp',
-    title:'Police deploy drone against emu; bird declines to look worried',magnetUrl:'https://blappos.printify.me/product/32023735',magnetPrice:'$9.99',
-    facts:'UPI reported that an emu escaped from a petting zoo in Rockland County, New York, prompting a response from Ramapo police. Multiple officers and a Skydio drone helped locate and follow the large flightless bird until it could be safely recovered and returned, with no injuries or property damage reported.',
-    why:'Emus can run quickly, change direction abruptly and cover ground far faster than a person expects from a bird. A drone gave officers a safe overhead view during the search, reducing the need to chase blindly through roads and private property.',
-    angle:'Verified fact ends above. The Blappos interpretation: Ramapo activated aerial surveillance against a suspect physically incapable of flight. The emu was returned safely after reviewing the police budget and realizing it had already won.',
-    source:'https://www.upi.com/Odd_News/2026/09/14/emu-chase-petting-zoo-Ramapo-New-York/4691789392344/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Edward the Emu',image:'https://m.media-amazon.com/images/P/0064434990.01.LZZZZZZZ.jpg',alt:'Cover of Edward the Emu by Sheena Knowles',quip:'The picture-book field report on an emu dissatisfied with its assigned enclosure.',url:'https://www.amazon.com/dp/0064434990?tag=blappos-20',salesPriority:5},
-      {title:'Edwina the Emu',image:'https://m.media-amazon.com/images/P/0064434834.01.LZZZZZZZ.jpg',alt:'Cover of Edwina the Emu by Sheena Knowles',quip:'The companion emu briefing for households preparing a full two-bird pursuit curriculum.',url:'https://www.amazon.com/dp/0064434834?tag=blappos-20',salesPriority:4},
-      {title:'Emu',image:'https://m.media-amazon.com/images/P/0763674796.01.LZZZZZZZ.jpg',alt:'Cover of Emu by Claire Saxby and Graham Byrne',quip:'A natural-history introduction to the suspect’s speed, stride and complete lack of respect for a perimeter.',url:'https://www.amazon.com/dp/0763674796?tag=blappos-20',salesPriority:4}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep14CompleteRun.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep14CompleteRun);
-
-const sep15Stories = [
-  {
-    id:'sep15-vulcan-salute',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'London, England',image:'assets/cards/sep15-vulcan-salute.webp',
-    title:'934 Trekkies raise one hand; London records peak logic',magnetUrl:'https://blappos.printify.me/product/32032901',magnetPrice:'$9.99',
-    facts:'UPI reported that 934 people performed the Vulcan salute simultaneously at Star Trek Lates, an event held at London’s Science Museum for the franchise’s 60th anniversary. Guinness World Records confirmed the gathering as the largest group to perform the split-finger gesture at the same time.',
-    why:'The result turned a piece of television history into a measurable act of fan participation. It also required hundreds of people to execute the same deceptively awkward hand position together—proof that even fictional logic can create a very real coordination problem.',
-    angle:'Verified fact ends above. The Blappos interpretation: London achieved peak logic by raising 934 hands and lowering the citywide supply of flexible ring fingers. The Science Museum has classified the soreness as culturally significant.',
-    source:'https://www.upi.com/Odd_News/2026/09/15/Guinness-World-Records-Star-Trek-Vulcan-salute/3451789489055/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Barbie Star Trek 25th Anniversary Mr. Spock Doll',image:'https://m.media-amazon.com/images/I/81Il-bSwrFL._AC_SL1500_.jpg',alt:'Barbie Star Trek Mr. Spock doll performing the Vulcan salute',quip:'The exact record gesture is already built into this Spock doll, making it the only participant guaranteed not to cramp.',url:'https://www.amazon.com/dp/B01AT5MI50?tag=blappos-20',salesPriority:5},
-      {title:'Funko Pop! TV: Star Trek - Spock - Star Trek the Original Series - Collectable Vinyl Figure - Gift Idea - Official Merchandise - Toys for Kids & Adults - TV Fans',image:'https://m.media-amazon.com/images/I/61TpFLffbwL._AC_SL1300_.jpg',alt:'Boxed Funko Pop vinyl figure of Star Trek character Spock',quip:'The face behind the salute, condensed to desk size for readers whose local museum cannot fit 934 fans.',url:'https://www.amazon.com/dp/B0DSWGSBFT?tag=blappos-20',salesPriority:5},
-      {title:'Star Trek: The Original Series: The Complete Series',image:'https://m.media-amazon.com/images/I/91mIk3ymOjL._SL1500_.jpg',alt:'Blu-ray box set of Star Trek: The Original Series complete series',quip:'The source material for the gesture and the appropriate homework after a 60th-anniversary record attempt.',url:'https://www.amazon.com/dp/B01CJW334Q?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep15-rambo-pipe',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Kingsdon, England',image:'assets/cards/sep15-rambo-pipe.webp',
-    title:'Rambo hides from nine ewes; concrete pipe requests backup',magnetUrl:'https://blappos.printify.me/product/32032905',magnetPrice:'$9.99',
-    facts:'UPI reported that a roughly 220-pound ram named Rambo became firmly wedged inside a concrete pipe at Western Farm in Kingsdon, Somerset. Firefighters used chimney rods, ropes and a sheet to free him. His owner said he had entered the culvert for relief from nine amorous ewes, and he emerged unharmed.',
-    why:'A trapped animal that size can injure itself or rescuers if pulled carelessly, so the improvised combination of long rods, controlled rope tension and a protective sheet mattered. The rescue also prompted the farm to block the pipe against repeat romantic retreats.',
-    angle:'Verified fact ends above. The Blappos interpretation: Rambo attempted to place nine relationships on mute and discovered that concrete has no privacy setting. The fire brigade restored him to full service and returned him to the world’s least avoidable group chat.',
-    source:'https://www.upi.com/Odd_News/2026/09/15/Somerset-ram-concrete-pipe-rescue/7591789489658/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Schleich Farm World, Realistic Farm Animal Toys for Boys and Girls Ages 3 and Above, Ram Toy Figurine',image:'https://m.media-amazon.com/images/I/81YGuEJU4dL._AC_SL1500_.jpg',alt:'Realistic Schleich ram toy figurine with curled horns',quip:'A pocket Rambo for reenacting the rescue without needing a 220-pound ram or the Somerset fire service.',url:'https://www.amazon.com/dp/B09DQ8BWFC?tag=blappos-20',salesPriority:5},
-      {title:'SootEater Rotary Chimney Cleaning System - Gardus RCH205-B Chimney Sweep Kit, Cleans Open Chimneys up to 18\' with 6 Flexible 3\' Rods, Chimney Cleaning Kit with Trim-to-Fit Spinning Chimney Whip',image:'https://m.media-amazon.com/images/I/71ePn9KVZ6L._AC_SL1500_.jpg',alt:'Gardus SootEater chimney cleaning system with six flexible rods',quip:'Firefighters used chimney rods on the exact concrete-pipe rescue; these are the household version of Rambo extraction technology.',url:'https://www.amazon.com/dp/B0010H5JXA?tag=blappos-20',salesPriority:5},
-      {title:'Weaver Livestock Poly Rope Sheep Halter, Modern Style Braid Sheep and Goat Rope Halter, Adjustable Lamb Halter Lead, Livestock Sheep Showing Supplies',image:'https://m.media-amazon.com/images/I/91ijME33ByL._AC_SL1500_.jpg',alt:'Colorful braided Weaver livestock rope halter and lead for sheep',quip:'For guiding the exact species away from future culverts before romance requires another rope-rescue committee.',url:'https://www.amazon.com/dp/B01B8YYIUY?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep15-elk-windshield',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Lake Cowichan, Canada',image:'assets/cards/sep15-elk-windshield.webp',
-    title:'Elk mounts parked car; windshield resigns immediately',magnetUrl:'https://blappos.printify.me/product/32032916',magnetPrice:'$9.99',
-    facts:'UPI reported that Bruce Roach found the windshield of his parked car shattered outside his apartment in Lake Cowichan on Vancouver Island. Security video showed a bull elk pursuing a cow into the parking area, jumping onto the hood and crashing into the windshield before both animals ran away.',
-    why:'The footage resolved what otherwise looked like unexplained vandalism and showed how quickly large wildlife can turn an ordinary parking space into a hazard. Even without a driver inside, the elk’s weight and antlers caused damage that a parked-car owner could not reasonably anticipate.',
-    angle:'Verified fact ends above. The Blappos interpretation: the elk declined the marked space, selected hood parking and left without insurance information. British Columbia has issued the windshield a complimentary wildlife experience.',
-    source:'https://www.upi.com/Odd_News/2026/09/15/canada-elk-shatters-windshield-Lake-Cowichan-British-Columbia/3201789483539/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Safari Ltd. Elk Toy - 8 Inch Realistic Wildlife Figure for Kids Ages 3+',image:'https://m.media-amazon.com/images/I/61UCPWX6yoL._AC_SL1500_.jpg',alt:'Realistic Safari Ltd. bull elk toy with large antlers',quip:'The exact windshield suspect in a scale that can cross a desk without totaling the desk.',url:'https://www.amazon.com/dp/B0CPKGLP9F?tag=blappos-20',salesPriority:5},
-      {title:'RainX Fix a Windshield Do it Yourself Windshield Repair Kit, for Chips, Cracks, Bulll\'s-Eyes and Stars',image:'https://m.media-amazon.com/images/I/710MC25TZaL._AC_SL1500_.jpg',alt:'Rain-X Fix a Windshield repair kit in blue and yellow packaging',quip:'Addresses the exact casualty of the elk’s parking-lot courtship, assuming your crack is smaller than a bull elk.',url:'https://www.amazon.com/dp/B00IPS4APU?tag=blappos-20',salesPriority:5},
-      {title:'Blink Outdoor 4 – Wireless smart security camera, two-year battery, 1080p HD day and infrared night live view, two-way talk – 2 camera system',image:'https://m.media-amazon.com/images/I/61fMC8pY0uL._SL1000_.jpg',alt:'Two black Blink Outdoor 4 wireless security cameras with sync module',quip:'Security video solved the exact mystery; this is for catching the next antlered hit-and-run in 1080p.',url:'https://www.amazon.com/dp/B0B1N5HW22?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep15-overdue-magazine',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Concord, New Hampshire',image:'assets/cards/sep15-overdue-magazine.webp',
-    title:'Library receives magazine 132 years late; fine arrives historically waived',magnetUrl:'https://blappos.printify.me/product/32032925',magnetPrice:'$9.99',
-    facts:'UPI reported that John Hanson returned a September 1894 issue of The Century Illustrated Monthly Magazine to Concord Public Library in New Hampshire. The item was 48,220 days overdue and would have accrued a theoretical $12,055 fine, but the library had frozen fines beginning September 1 and charged nothing.',
-    why:'A periodical surviving outside a library for more than a century can still carry local and research value when it returns. The fine waiver also illustrates the modern library goal behind eliminating penalties: getting missing material and patrons back matters more than collecting an impossible debt.',
-    angle:'Verified fact ends above. The Blappos interpretation: Concord has closed the oldest open tab in town. The magazine returned after 132 years, surveyed the internet and immediately asked whether another renewal was available.',
-    source:'https://www.upi.com/Odd_News/2026/09/15/Concord-Public-libraray-magazine-132-years-overdue/1491789490872/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Vintage Library Due Date Card Coaster Set, 4pcs Library Card Coasters | with Gift Card, Creative Drink Coffee Mug Coaster Literary Decor Library Gifts for Book Lovers Librarians Writers',image:'https://m.media-amazon.com/images/I/51XHdM5BWnL.jpg',alt:'Four cork coasters printed like vintage library due-date cards with gift card',quip:'The exact overdue-date artifact, finally repurposed for a drink that should not take 132 years to return.',url:'https://www.amazon.com/dp/B0B8RT1KG1?tag=blappos-20',salesPriority:5},
-      {title:'Scotch Book Tape 845, 3 Inches x 15 Yards - FF084574, 6 Pack',image:'https://m.media-amazon.com/images/I/51JrENmo8AL.jpg',alt:'Six rolls of clear Scotch Book Tape 845 in red and white packaging',quip:'For the preservation department receiving paper that has been circulating since Grover Cleveland’s second term.',url:'https://www.amazon.com/dp/B081D3Q3TV?tag=blappos-20',salesPriority:4},
-      {title:'25 Pack Sheet Protectors for Artwork 9x11.8\" - Acid Free Clear Plastic Sleeves for Paper, Cellophane Bags Self Adhesive, Comic Book Sleeves, Clear Plastic Bags for Page Photo Prints Magazine',image:'https://m.media-amazon.com/images/I/71DyjyRA9XL._AC_SL1500_.jpg',alt:'Pack of 25 acid-free clear sleeves sized for paper and magazines',quip:'An acid-free retirement home for the exact 1894 magazine now that its 48,220-day road trip is over.',url:'https://www.amazon.com/dp/B0GXHT7W22?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep15Stories.some(item => item.id === story.id));
+    angle:'Verified fact ends above. The Blappos interpretation: humanity stared at the recycling symbol and decided it was a recipe. The future vending machine will accept one bottle, add vanilla …7600 tokens truncated…15Stories.some(item => item.id === story.id));
 window.dailyStories.splice(0, 0, ...sep15Stories);
 
 const sep16PicklePattyStory = {
@@ -2788,9 +2624,8 @@ const oct15StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !oct15StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct15StagingStories);
 
-// October 16 staging edition. Printify scans these complete story objects, but
-// they stay outside window.dailyStories until each physical magnet is published
-// and its exact storefront URL and price are written back into this block.
+// October 16 edition. These stories become public only after Printify has
+// published each physical magnet and written its exact storefront URL here.
 const oct16StagingStories = [
   {
     "id": "oct16-green-white-dwarf",
@@ -2848,8 +2683,8 @@ const oct16StagingStories = [
     "why": "The disagreement over one pound is small but worth retaining because the organizer and report are describing the same physical material. Beyond the novelty, the contest converts a regional preservation food—traditionally made from pork trimmings, meal and spices—into public folk art and a piece of market identity. The judged winner and the later people's-choice vote are also separate decisions, not two reports of the same result.",
     "angle": "Verified contest facts and the unresolved weight discrepancy end above. The Blappos interpretation: Philadelphia opened a fine-arts department where the medium is breakfast and the critique ends at the griddle. The magnet uses an invented sculpture, market interior and generic participants—no copied mascot, organizer logo, contestant likeness or claim that the depicted work won.",
     "amazonLinks": [
-      {"title":"Scrumptious Scrapple Recipes","image":"https://m.media-amazon.com/images/P/B0C849ZKZH.01.LZZZZZZZ.jpg","alt":"Cover of Scrumptious Scrapple Recipes by Laura Sommers","quip":"A focused recipe collection for returning the contest medium to its more familiar gallery: the breakfast plate.","salesPriority":5,"url":"https://www.amazon.com/dp/B0C849ZKZH?tag=blappos-20"},
-      {"title":"The Sculpting Book","image":"https://m.media-amazon.com/images/P/0486815897.01.LZZZZZZZ.jpg","alt":"Cover of The Sculpting Book by Élisabeth Bonvalot","quip":"A modeling primer for translating ninety minutes of pork-based ambition into form, balance and fewer accidental ears.","salesPriority":5,"url":"https://www.amazon.com/dp/0486815897?tag=blappos-20"},
+      {"title":"Pennsylvania Dutch Cooking: Traditional Dutch Dishes","image":"https://m.media-amazon.com/images/P/1495977773.01.LZZZZZZZ.jpg","alt":"Cover of Pennsylvania Dutch Cooking: Traditional Dutch Dishes","quip":"Regional recipes—including the culture around scrapple—for returning the contest medium to its more familiar gallery: the breakfast plate.","salesPriority":5,"url":"https://www.amazon.com/dp/1495977773?tag=blappos-20"},
+      {"title":"The Art of Food Sculpture","image":"https://m.media-amazon.com/images/P/0764314548.01.LZZZZZZZ.jpg","alt":"Cover of The Art of Food Sculpture by Yuci Tan","quip":"An illustrated carving guide for translating ninety minutes of edible ambition into form, balance and fewer accidental ears.","salesPriority":5,"url":"https://www.amazon.com/dp/0764314548?tag=blappos-20"},
       {"title":"OXO Good Grips 11-Pound Digital Kitchen Scale","image":"https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg","alt":"OXO Good Grips digital kitchen scale","quip":"The practical referee for a source dispute involving five pounds, six pounds and one highly sculptural breakfast loaf.","salesPriority":4,"url":"https://www.amazon.com/dp/B079D9B82W?tag=blappos-20"}
     ],
     "source": "https://www.upi.com/Odd_News/2026/10/16/scrapple-sculpting-contest-reading-terminal-market/6511792163992/",
@@ -2859,3 +2694,5 @@ const oct16StagingStories = [
     "socialPunchline": "Blappos: Philadelphia opened a fine-arts department where the medium is breakfast."
   }
 ];
+window.dailyStories = window.dailyStories.filter(story => !oct16StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct16StagingStories);

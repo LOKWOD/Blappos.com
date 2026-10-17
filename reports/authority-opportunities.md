@@ -759,3 +759,30 @@ Status: research log only; no outreach sent.
 - Matching Blappos asset: https://blappos.com/verification/#oct15-99-year-old-wing-walker
 - Honest pitch angle: A transparent date note showing that the live record page’s October 16 verification date conflicts with its stated age and contemporaneous October 14 ITV coverage, while preserving Duffy’s achievement and fundraiser.
 - Qualification: Guinness owns the record page and is the only authoritative route for correcting the displayed verification date. Any optional contact should request a factual correction only; it must not imply Guinness approval of the art, commercial magnet or affiliate cards.
+
+
+## October 16, 2026 — qualified opportunities (not contacted)
+
+### University of Warwick Press Team — green-white-dwarf explanation
+
+- Target: University of Warwick Press Team and Physics research communications
+- Route: https://warwick.ac.uk/news/team/ (press@warwick.ac.uk)
+- Matching Blappos asset: https://blappos.com/verification/#oct16-green-white-dwarf
+- Honest pitch angle: A concise public explanation that distinguishes the star’s modeled chartreuse appearance from a telescope photograph and connects the sodium, helium-atmosphere and planetary-debris evidence without inflating the visual reconstruction.
+- Qualification: The lead researchers are at Warwick, and the official press route is the closest institutional path for a technical correction or stronger primary-source link. Any optional contact should invite a factual correction or share of the noncommercial evidence entry only; it must not imply university endorsement of the illustration, magnet or affiliate products.
+
+### Royal Astronomical Society Press Office — source-boundary matrix
+
+- Target: Royal Astronomical Society press officers and RAS Techniques and Instruments communications
+- Route: https://www.ras.ac.uk/about-the-ras/contacts (press@ras.ac.uk)
+- Matching Blappos asset: https://blappos.com/verification/#oct16-source-boundary-matrix
+- Honest pitch angle: A reusable evidence table showing how a journal result, a prototype demonstration and a local-event report require different boundaries, with the green-star row explicitly separating spectroscopy and color reconstruction from documentary imagery.
+- Qualification: RAS publishes the cited journal and offers an official media-enquiry route. Any optional contact should request correction of the science or a direct paper link; it must not seek a promotional backlink, suggest RAS approved the summary or mention the commercial magnet as the reason for contact.
+
+### Reading Terminal Market media contact — scrapple weight discrepancy
+
+- Target: Reading Terminal Market media requests / Bellevue Communications Group
+- Route: https://readingterminalmarket.org/contact-us/
+- Matching Blappos asset: https://blappos.com/verification/#oct16-scrapple-sculpture
+- Honest pitch angle: A transparent local-culture entry that records the market’s five-pound event-page description beside UPI’s six-pound figure, distinguishes the judges’ choice from the later public vote and invites the organizer to resolve the discrepancy.
+- Qualification: Reading Terminal Market organized the contest and maintains the closest primary event page. Any optional message should ask for a factual correction or updated result only; it must not ask for promotion, imply market endorsement or foreground the commercial product.
