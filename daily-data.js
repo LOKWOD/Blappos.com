@@ -2799,7 +2799,7 @@ const oct16StagingStories = [
     "date": "Oct 16, 2026",
     "place": "Draco, about 280 light-years from Earth",
     "image": "assets/cards/2026-10-16-green-star.webp",
-    "title": "Astronomers Find the First Star Wearing Chartreuse",
+    "title": "Astronomers Find the First Star Wearing Chartreuse","magnetUrl":"https://blappos.printify.me/product/33214267","magnetPrice":"$9.99",
     "facts": "Reuters reported October 16 on a RAS Techniques and Instruments study identifying WD J1330+6435 as the first documented genuinely green star. The Earth-sized white dwarf lies about 280 light-years away in Draco. Rocky debris from its former planetary system polluted its dense helium atmosphere with sodium, calcium and lithium; pressure-broadened absorption by sodium removes much of the orange-to-red light, leaving a chartreuse appearance in the researchers' color reconstruction.",
     "why": "Ordinary star color mainly tracks temperature, but white-dwarf atmospheres are dense enough for trace elements to reshape broad bands of the spectrum. That makes color a clue to both extreme atomic physics and the chemistry of destroyed planetary material. The team analyzed 151 nearby white dwarfs and found an unusual-color minority, so this is a real first—not evidence that green stars are common or bright enough to look green through a backyard telescope.",
     "angle": "Verified reporting and the visibility boundary end above. The Blappos interpretation: a dead star ate the rocky leftovers of its planets and came away looking seasick. The magnet is an original astronomical fantasy informed by the measured color; it is not a telescope image, scale diagram or claim that a visible debris ring was photographed.",
