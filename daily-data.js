@@ -2843,7 +2843,7 @@ const oct16StagingStories = [
     "date": "Oct 16, 2026",
     "place": "Philadelphia, Pennsylvania",
     "image": "assets/cards/2026-10-16-scrapple-sculpture.webp",
-    "title": "Philadelphia Turns Breakfast Scraps Into Fine Art",
+    "title": "Philadelphia Turns Breakfast Scraps Into Fine Art","magnetUrl":"https://blappos.printify.me/product/33214273","magnetPrice":"$9.99",
     "facts": "UPI reported October 16 on Reading Terminal Market's October 15 scrapple-sculpting contest. Competitors had 90 minutes to turn blocks of the Pennsylvania meat-and-grain specialty into sculptures themed to the market; judges chose Toni Lee's rendition of a pig mascot. One source detail does not reconcile: UPI describes six-pound blocks, while the organizer's event page says each contestant received a five-pound block. Both agree on the timed contest and a public vote at the October 17 Scrapple and Apple Festival.",
     "why": "The disagreement over one pound is small but worth retaining because the organizer and report are describing the same physical material. Beyond the novelty, the contest converts a regional preservation food—traditionally made from pork trimmings, meal and spices—into public folk art and a piece of market identity. The judged winner and the later people's-choice vote are also separate decisions, not two reports of the same result.",
     "angle": "Verified contest facts and the unresolved weight discrepancy end above. The Blappos interpretation: Philadelphia opened a fine-arts department where the medium is breakfast and the critique ends at the griddle. The magnet uses an invented sculpture, market interior and generic participants—no copied mascot, organizer logo, contestant likeness or claim that the depicted work won.",
