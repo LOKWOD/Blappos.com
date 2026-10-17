@@ -2787,3 +2787,75 @@ const oct15StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct15StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct15StagingStories);
+
+// October 16 staging edition. Printify scans these complete story objects, but
+// they stay outside window.dailyStories until each physical magnet is published
+// and its exact storefront URL and price are written back into this block.
+const oct16StagingStories = [
+  {
+    "id": "oct16-green-white-dwarf",
+    "isoDate": "2026-10-16",
+    "month": "October",
+    "date": "Oct 16, 2026",
+    "place": "Draco, about 280 light-years from Earth",
+    "image": "assets/cards/2026-10-16-green-star.webp",
+    "title": "Astronomers Find the First Star Wearing Chartreuse",
+    "facts": "Reuters reported October 16 on a RAS Techniques and Instruments study identifying WD J1330+6435 as the first documented genuinely green star. The Earth-sized white dwarf lies about 280 light-years away in Draco. Rocky debris from its former planetary system polluted its dense helium atmosphere with sodium, calcium and lithium; pressure-broadened absorption by sodium removes much of the orange-to-red light, leaving a chartreuse appearance in the researchers' color reconstruction.",
+    "why": "Ordinary star color mainly tracks temperature, but white-dwarf atmospheres are dense enough for trace elements to reshape broad bands of the spectrum. That makes color a clue to both extreme atomic physics and the chemistry of destroyed planetary material. The team analyzed 151 nearby white dwarfs and found an unusual-color minority, so this is a real first—not evidence that green stars are common or bright enough to look green through a backyard telescope.",
+    "angle": "Verified reporting and the visibility boundary end above. The Blappos interpretation: a dead star ate the rocky leftovers of its planets and came away looking seasick. The magnet is an original astronomical fantasy informed by the measured color; it is not a telescope image, scale diagram or claim that a visible debris ring was photographed.",
+    "amazonLinks": [
+      {"title":"The End of Everything (Astrophysically Speaking)","image":"https://m.media-amazon.com/images/P/198210354X.01.LZZZZZZZ.jpg","alt":"Cover of The End of Everything by Katie Mack","quip":"A witty tour of cosmic endings for meeting a dead star whose planetary leftovers changed its complexion.","salesPriority":5,"url":"https://www.amazon.com/dp/198210354X?tag=blappos-20"},
+      {"title":"Welcome to the Universe","image":"https://m.media-amazon.com/images/P/0691157243.01.LZZZZZZZ.jpg","alt":"Cover of Welcome to the Universe by Neil deGrasse Tyson, Michael A. Strauss and J. Richard Gott","quip":"A rigorous illustrated introduction to stars, spectra and the universe behind one extremely unusual color swatch.","salesPriority":5,"url":"https://www.amazon.com/dp/0691157243?tag=blappos-20"},
+      {"title":"Astrophysics for People in a Hurry","image":"https://m.media-amazon.com/images/P/0393609391.01.LZZZZZZZ.jpg","alt":"Cover of Astrophysics for People in a Hurry by Neil deGrasse Tyson","quip":"A compact primer for anyone who needs white dwarfs, stellar chemistry and cosmic weirdness before the next coffee cools.","salesPriority":4,"url":"https://www.amazon.com/dp/0393609391?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/newly-identified-green-star-leaves-astronomers-amazed-2026-10-16/",
+    "sourceName": "Read the October 16 Reuters report on the RAS study",
+    "sourcePublisher": "Reuters / RAS Techniques and Instruments",
+    "socialSummary": "Reuters reported that researchers identified WD J1330+6435 as the first documented green star: sodium from rocky planetary debris changes the spectrum of this dense white dwarf into a reconstructed chartreuse hue.",
+    "socialPunchline": "Blappos: A dead star ate its planets and came away looking seasick."
+  },
+  {
+    "id": "oct16-roadster-kickflip",
+    "isoDate": "2026-10-16",
+    "month": "October",
+    "date": "Oct 16, 2026",
+    "place": "McGregor, Texas",
+    "image": "assets/cards/2026-10-16-roadster-kickflip.webp",
+    "title": "The Roadster Does a Kickflip Before It Does Production",
+    "facts": "The Associated Press reported October 16 on Tesla's October 15 Roadster 2 demonstration at SpaceX's McGregor test site. A white prototype climbed a curved ramp, went inverted, cleared five parked vehicles and landed using a combination of wheels, cold-gas thrusters and suction hardware. The car was remotely controlled, carried no driver and was described as a stunt prototype rather than a production-safety vehicle.",
+    "why": "A controlled demonstration can prove that a one-off machine has enough thrust, control authority and structural margin for a dramatic maneuver; it does not prove a road-legal flying car is ready. Company officials projected commercial production in 2028, said the standard vehicle would not provide full flight and described more extreme rocket hardware as a limited, invitation-only option. The useful distinction is spectacular prototype capability versus tested, regulated consumer transport.",
+    "angle": "Verified demonstration and production boundaries end above. The Blappos interpretation: the Roadster has completed a kickflip while its delivery date remains firmly on Earth. The magnet uses a generic unbadged electric roadster, invented test range and original typography—no Tesla logo, copied event frame, public-figure likeness or invitation to attempt the maneuver.",
+    "amazonLinks": [
+      {"title":"Elon Musk by Walter Isaacson","image":"https://m.media-amazon.com/images/P/1982181281.01.LZZZZZZZ.jpg","alt":"Cover of Elon Musk by Walter Isaacson","quip":"A recent biography for the organizational history behind the roadster, the rockets and the habit of combining both onstage.","salesPriority":5,"url":"https://www.amazon.com/dp/1982181281?tag=blappos-20"},
+      {"title":"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future","image":"https://m.media-amazon.com/images/P/006230125X.01.LZZZZZZZ.jpg","alt":"Cover of Elon Musk by Ashlee Vance","quip":"The earlier company-building account for understanding how electric cars and rocket propulsion ended up sharing a test plan.","salesPriority":5,"url":"https://www.amazon.com/dp/006230125X?tag=blappos-20"},
+      {"title":"Rocket Propulsion Elements, Ninth Edition","image":"https://m.media-amazon.com/images/P/1118753658.01.LZZZZZZZ.jpg","alt":"Cover of Rocket Propulsion Elements, ninth edition","quip":"The engineering textbook for readers who want the cold-gas part explained after the kickflip part stops shouting.","salesPriority":5,"url":"https://www.amazon.com/dp/1118753658?tag=blappos-20"}
+    ],
+    "source": "https://apnews.com/article/7d5f19665435b7408025bfb7a2f2f0b7",
+    "sourceName": "Read the October 16 Associated Press report",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "The Associated Press reported that a remote-controlled Roadster 2 prototype used wheels, cold-gas thrusters and suction to go inverted over five cars at a Texas demonstration; it had no driver and was not a production-safety vehicle.",
+    "socialPunchline": "Blappos: The Roadster completed a kickflip while its delivery date stayed firmly on Earth."
+  },
+  {
+    "id": "oct16-scrapple-sculpture",
+    "isoDate": "2026-10-16",
+    "month": "October",
+    "date": "Oct 16, 2026",
+    "place": "Philadelphia, Pennsylvania",
+    "image": "assets/cards/2026-10-16-scrapple-sculpture.webp",
+    "title": "Philadelphia Turns Breakfast Scraps Into Fine Art",
+    "facts": "UPI reported October 16 on Reading Terminal Market's October 15 scrapple-sculpting contest. Competitors had 90 minutes to turn blocks of the Pennsylvania meat-and-grain specialty into sculptures themed to the market; judges chose Toni Lee's rendition of a pig mascot. One source detail does not reconcile: UPI describes six-pound blocks, while the organizer's event page says each contestant received a five-pound block. Both agree on the timed contest and a public vote at the October 17 Scrapple and Apple Festival.",
+    "why": "The disagreement over one pound is small but worth retaining because the organizer and report are describing the same physical material. Beyond the novelty, the contest converts a regional preservation food—traditionally made from pork trimmings, meal and spices—into public folk art and a piece of market identity. The judged winner and the later people's-choice vote are also separate decisions, not two reports of the same result.",
+    "angle": "Verified contest facts and the unresolved weight discrepancy end above. The Blappos interpretation: Philadelphia opened a fine-arts department where the medium is breakfast and the critique ends at the griddle. The magnet uses an invented sculpture, market interior and generic participants—no copied mascot, organizer logo, contestant likeness or claim that the depicted work won.",
+    "amazonLinks": [
+      {"title":"Scrumptious Scrapple Recipes","image":"https://m.media-amazon.com/images/P/B0C849ZKZH.01.LZZZZZZZ.jpg","alt":"Cover of Scrumptious Scrapple Recipes by Laura Sommers","quip":"A focused recipe collection for returning the contest medium to its more familiar gallery: the breakfast plate.","salesPriority":5,"url":"https://www.amazon.com/dp/B0C849ZKZH?tag=blappos-20"},
+      {"title":"The Sculpting Book","image":"https://m.media-amazon.com/images/P/0486815897.01.LZZZZZZZ.jpg","alt":"Cover of The Sculpting Book by Élisabeth Bonvalot","quip":"A modeling primer for translating ninety minutes of pork-based ambition into form, balance and fewer accidental ears.","salesPriority":5,"url":"https://www.amazon.com/dp/0486815897?tag=blappos-20"},
+      {"title":"OXO Good Grips 11-Pound Digital Kitchen Scale","image":"https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg","alt":"OXO Good Grips digital kitchen scale","quip":"The practical referee for a source dispute involving five pounds, six pounds and one highly sculptural breakfast loaf.","salesPriority":4,"url":"https://www.amazon.com/dp/B079D9B82W?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/16/scrapple-sculpting-contest-reading-terminal-market/6511792163992/",
+    "sourceName": "Read UPI's October 16 report and the organizer's event page",
+    "sourcePublisher": "UPI / Reading Terminal Market",
+    "socialSummary": "UPI reported that Reading Terminal Market contestants had 90 minutes to sculpt scrapple into market-themed art; UPI says six-pound blocks, while the organizer's event page says five pounds.",
+    "socialPunchline": "Blappos: Philadelphia opened a fine-arts department where the medium is breakfast."
+  }
+];
