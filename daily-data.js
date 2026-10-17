@@ -2821,7 +2821,7 @@ const oct16StagingStories = [
     "date": "Oct 16, 2026",
     "place": "McGregor, Texas",
     "image": "assets/cards/2026-10-16-roadster-kickflip.webp",
-    "title": "The Roadster Does a Kickflip Before It Does Production",
+    "title": "The Roadster Does a Kickflip Before It Does Production","magnetUrl":"https://blappos.printify.me/product/33214271","magnetPrice":"$9.99",
     "facts": "The Associated Press reported October 16 on Tesla's October 15 Roadster 2 demonstration at SpaceX's McGregor test site. A white prototype climbed a curved ramp, went inverted, cleared five parked vehicles and landed using a combination of wheels, cold-gas thrusters and suction hardware. The car was remotely controlled, carried no driver and was described as a stunt prototype rather than a production-safety vehicle.",
     "why": "A controlled demonstration can prove that a one-off machine has enough thrust, control authority and structural margin for a dramatic maneuver; it does not prove a road-legal flying car is ready. Company officials projected commercial production in 2028, said the standard vehicle would not provide full flight and described more extreme rocket hardware as a limited, invitation-only option. The useful distinction is spectacular prototype capability versus tested, regulated consumer transport.",
     "angle": "Verified demonstration and production boundaries end above. The Blappos interpretation: the Roadster has completed a kickflip while its delivery date remains firmly on Earth. The magnet uses a generic unbadged electric roadster, invented test range and original typography—no Tesla logo, copied event frame, public-figure likeness or invitation to attempt the maneuver.",
