@@ -2883,8 +2883,8 @@ const oct17StagingStories = [
     "source": "https://www.reuters.com/sustainability/cop/exotic-species-appear-off-california-thanks-an-unusually-strong-el-nio-2026-10-17/",
     "sourceName": "Read Reuters’ October 17 report",
     "sourcePublisher": "Reuters",
-    "socialSummary": "Reuters reported that a strong El Niño following a marine heat wave brought rare tropical species into Southern California waters, including a first recorded longfin bigeye and the first recorded U.S. West Coast sea-turtle nests.",
-    "socialPunchline": "Blappos: The Pacific opened a tropical guest list and forgot to tell the kelp."
+    "socialSummary": "Reuters reported rare tropical marine arrivals in Southern California during a strong El Niño.",
+    "socialPunchline": "Blappos: The Pacific opened a tropical guest list and forgot the kelp."
   },
   {
     "id": "oct17-witch-hats-wharf",
@@ -2905,8 +2905,8 @@ const oct17StagingStories = [
     "source": "https://www.facebook.com/salemwitchmuseum/posts/hundreds-of-people-gathered-at-derby-wharf-today-to-attempt-to-break-a-world-rec/1562293419273446/",
     "sourceName": "See the Salem Witch Museum’s October 17 documentation and the City of Salem notice",
     "sourcePublisher": "Salem Witch Museum / City of Salem",
-    "socialSummary": "Salem’s city notice scheduled an October 17 witch-hat crowd photo and world-record attempt at Derby Wharf; the Salem Witch Museum documented hundreds assembled, but no adjudicated count or certification was available at publication.",
-    "socialPunchline": "Blappos: Salem handed its giant hat to municipal paperwork."
+    "socialSummary": "Hundreds joined Salem’s witch-hat record attempt; no certified count was available.",
+    "socialPunchline": "Blappos: Salem handed its giant hat to paperwork."
   },
   {
     "id": "oct17-nightjar-mileage",
@@ -2926,9 +2926,9 @@ const oct17StagingStories = [
     ],
     "source": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
     "sourceName": "Read ScienceDaily’s October 17 report and the open PLOS Biology study",
-    "sourcePublisher": "ScienceDaily / Lund University / PLOS Biology",
-    "socialSummary": "ScienceDaily highlighted a Lund University wind-tunnel study showing that European nightjar wings favor slow, agile insect hunting but lose efficiency at faster cruise, while an unusual upstroke still generates thrust.",
-    "socialPunchline": "Blappos: The nightjar earns elite air miles while aerodynamics denies its mileage claim."
+    "sourcePublisher": "ScienceDaily",
+    "socialSummary": "Lund researchers found nightjar wings trade cruise efficiency for slow-flight agility.",
+    "socialPunchline": "Blappos: The nightjar earns air miles; mileage denied."
   }
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct17StagingStories.some(item => item.id === story.id));
