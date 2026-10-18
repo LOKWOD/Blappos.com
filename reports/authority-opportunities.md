@@ -2,6 +2,7 @@
 
 Updated: 2026-10-18
 Status: research log only; no outreach sent.
+Publication check: the October 17 edition received three live Printify product records before the permanent-page rebuild; outreach remains unsent.
 
 ## NOAA Fisheries West Coast — first sea-turtle nest and range-shift context
 
