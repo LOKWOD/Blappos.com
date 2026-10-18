@@ -2860,3 +2860,76 @@ const oct16StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct16StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct16StagingStories);
+
+// October 17 edition. These stories become public only after Printify has
+// published each physical magnet and written its exact storefront URL here.
+const oct17StagingStories = [
+  {
+    "id": "oct17-tropical-guest-list",
+    "isoDate": "2026-10-17",
+    "month": "October",
+    "date": "Oct 17, 2026",
+    "place": "Southern California",
+    "image": "assets/cards/2026-10-17-tropical-guest-list.webp",
+    "title": "California’s Ocean Opens a Tropical Guest List",
+    "facts": "Reuters reported October 17 that an unusually strong El Niño, following an extended marine heat wave, has carried an exceptional mix of tropical marine life into Southern California waters. The report documents California’s first recorded longfin bigeye fish, two olive ridley nests that NOAA called the first recorded sea-turtle nests on the U.S. West Coast, a rare yellow-bellied sea snake, and recent whale-shark, hammerhead, flying-fish and manta-ray sightings.",
+    "why": "The arrivals are not simply a beachside curiosity. Warm water can move mobile fish and sharks north while stressing cold-water kelp that supports less-mobile species and entire coastal food webs. Experts quoted by Reuters expect conditions to mostly normalize after El Niño subsides next year, but the episode is a useful live demonstration of how a natural climate cycle and a preceding marine heat wave can rapidly rearrange an ecosystem without proving that every individual sighting has one identical cause.",
+    "angle": "Verified reporting and attribution boundaries end above. The Blappos interpretation: the Pacific opened a tropical guest list and forgot to tell the kelp. The magnet compresses several separately documented species into one invented resort-style scene; it is not a single photograph, a range map or a claim that all animals arrived together.",
+    "amazonLinks": [
+      {"title":"Miller and Lea’s Guide to the Coastal Marine Fishes of California","image":"https://m.media-amazon.com/images/P/1627111255.01.LZZZZZZZ.jpg","alt":"Cover of Miller and Lea’s Guide to the Coastal Marine Fishes of California","quip":"The California-specific field guide for identifying the longfin bigeye and the coast’s suddenly expanded guest list.","salesPriority":5,"url":"https://www.amazon.com/dp/1627111255?tag=blappos-20"},
+      {"title":"Pacific Coast Fish Finder: Identifying Marine Fish of the Pacific Coast (Nature Study Guides)","image":"https://m.media-amazon.com/images/P/0912550406.01.LZZZZZZZ.jpg","alt":"Pacific Coast Fish Finder identification guide","quip":"A compact visual key for sorting familiar Pacific residents from the tropical visitors riding warm water north.","salesPriority":5,"url":"https://www.amazon.com/dp/0912550406?tag=blappos-20"},
+      {"title":"El Niño in World History (Palgrave Studies in World Environmental History)","image":"https://m.media-amazon.com/images/P/1137457392.01.LZZZZZZZ.jpg","alt":"Cover of El Niño in World History by Richard Grove and George Adamson","quip":"The environmental-history context for the natural Pacific cycle behind California’s unusual marine arrivals.","salesPriority":4,"url":"https://www.amazon.com/dp/1137457392?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/sustainability/cop/exotic-species-appear-off-california-thanks-an-unusually-strong-el-nio-2026-10-17/",
+    "sourceName": "Read Reuters’ October 17 report",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "Reuters reported that a strong El Niño following a marine heat wave brought rare tropical species into Southern California waters, including a first recorded longfin bigeye and the first recorded U.S. West Coast sea-turtle nests.",
+    "socialPunchline": "Blappos: The Pacific opened a tropical guest list and forgot to tell the kelp."
+  },
+  {
+    "id": "oct17-witch-hats-wharf",
+    "isoDate": "2026-10-17",
+    "month": "October",
+    "date": "Oct 17, 2026",
+    "place": "Salem, Massachusetts",
+    "image": "assets/cards/2026-10-17-witch-hats-wharf.webp",
+    "title": "Salem Fills a Wharf With Witch Hats, Certification Pending",
+    "facts": "Hundreds of people gathered at Derby Wharf in Salem on October 17 wearing pointed hats for the city’s Witch Hats on the Wharf community photo and world-record attempt. Salem’s official notice scheduled an overhead photograph shortly after 11 a.m. as part of the city’s 400th anniversary, and the Salem Witch Museum documented that the crowd assembled. No official adjudicated count or Guinness certification was available when this story was published.",
+    "why": "Record attempts and certified records are different claims. A large crowd, an aerial photograph and a well-documented civic event establish that Salem staged the attempt; they do not establish the qualifying count, compliance with a record authority’s rules or a successful result. The city also tied sales of special hats and patches to HAWC, a local nonprofit serving survivors of domestic abuse, so the event combined tourism, anniversary branding and fundraising rather than existing only as a stunt.",
+    "angle": "Verified event facts and the certification boundary end above. The Blappos interpretation: Salem put municipal history under one enormous hat, then handed the hat to paperwork. The magnet’s clerk, crowd and hat-counting scene are invented; it does not reproduce the aerial photograph, identify participants or claim the record was won.",
+    "amazonLinks": [
+      {"title":"A Season with the Witch: The Magic and Mayhem of Halloween in Salem, Massachusetts","image":"https://m.media-amazon.com/images/P/1581573391.01.LZZZZZZZ.jpg","alt":"Cover of A Season with the Witch by J. W. Ocker","quip":"A month inside modern Salem’s Halloween economy—the exact civic spectacle that put hundreds of hats on Derby Wharf.","salesPriority":5,"url":"https://www.amazon.com/dp/1581573391?tag=blappos-20"},
+      {"title":"Salem Witch Trials","image":"https://m.media-amazon.com/images/P/1589791320.01.LZZZZZZZ.jpg","alt":"Cover of The Salem Witch Trials by Marilynne K. Roach","quip":"The deeply sourced history for keeping a playful modern hat event separate from the people persecuted in 1692.","salesPriority":5,"url":"https://www.amazon.com/dp/1589791320?tag=blappos-20"},
+      {"title":"The Witches: Salem, 1692","image":"https://m.media-amazon.com/images/P/0316200603.01.LZZZZZZZ.jpg","alt":"Cover of The Witches: Salem, 1692 by Stacy Schiff","quip":"A narrative history that supplies the context modern Salem tourism can otherwise compress into one pointed silhouette.","salesPriority":4,"url":"https://www.amazon.com/dp/0316200603?tag=blappos-20"}
+    ],
+    "source": "https://www.facebook.com/salemwitchmuseum/posts/hundreds-of-people-gathered-at-derby-wharf-today-to-attempt-to-break-a-world-rec/1562293419273446/",
+    "sourceName": "See the Salem Witch Museum’s October 17 documentation and the City of Salem notice",
+    "sourcePublisher": "Salem Witch Museum / City of Salem",
+    "socialSummary": "Salem’s city notice scheduled an October 17 witch-hat crowd photo and world-record attempt at Derby Wharf; the Salem Witch Museum documented hundreds assembled, but no adjudicated count or certification was available at publication.",
+    "socialPunchline": "Blappos: Salem handed its giant hat to municipal paperwork."
+  },
+  {
+    "id": "oct17-nightjar-mileage",
+    "isoDate": "2026-10-17",
+    "month": "October",
+    "date": "Oct 17, 2026",
+    "place": "Lund, Sweden",
+    "image": "assets/cards/2026-10-17-nightjar-mileage.webp",
+    "title": "Nightjar Wings Rack Up Air Miles and Terrible Mileage",
+    "facts": "ScienceDaily featured Lund University’s European-nightjar research on October 17. In the peer-reviewed PLOS Biology study, researchers flew five nightjars in a wind tunnel and measured their wakes at different speeds. The birds’ broad, slotted wingtips supported slow flight and maneuvering but produced a double-tip-vortex pattern and lower span efficiency at faster cruise; the team also measured an outer-wing upstroke that generated thrust, a feature previously associated mainly with bats and hummingbirds.",
+    "why": "The result replaces the tidy idea of a long-distance migrant as a machine optimized only for economical cruising. Nightjars use the same wings to migrate between Europe and southern Africa and to hunt insects slowly at dusk, so evolution preserves a workable compromise rather than a single-purpose optimum. The authors also identify a possible design clue for flapping drones: when a wing cannot fold much on the upstroke, using that stroke for thrust may recover useful work.",
+    "angle": "Verified study findings and engineering inference end above. The Blappos interpretation: the nightjar earns elite air miles while the aerodynamics department denies its mileage claim. The card’s scientists, route map, gauges and visible smoke are invented visual shorthand, not a copied figure or a claim that the bird understands expense reports.",
+    "amazonLinks": [
+      {"title":"Birds Never Get Lost","image":"https://m.media-amazon.com/images/P/1785890484.01.LZZZZZZZ.jpg","alt":"Cover of Birds Never Get Lost by Colin and Sandy Pennycuick","quip":"A flight researcher’s accessible account of migration, navigation and the laboratory work behind how birds cross continents.","salesPriority":5,"url":"https://www.amazon.com/dp/1785890484?tag=blappos-20"},
+      {"title":"What It's Like to Be a Bird: From Flying to Nesting, Eating to Singing--What Birds Are Doing, and Why (Sibley Guides)","image":"https://m.media-amazon.com/images/P/0307957896.01.LZZZZZZZ.jpg","alt":"Cover of What It’s Like to Be a Bird by David Allen Sibley","quip":"An illustrated guide to what birds are doing and why—including the flying, feeding and behavioral compromises in this study.","salesPriority":5,"url":"https://www.amazon.com/dp/0307957896?tag=blappos-20"},
+      {"title":"Flight Lines: Across the Globe on a Journey with the Astonishing Ultramarathon Birds","image":"https://m.media-amazon.com/images/P/1643135767.01.LZZZZZZZ.jpg","alt":"Cover of Flight Lines by Andrew Darby","quip":"A global journey with extreme migrant birds for putting the nightjar’s Europe-to-Africa commute in long-haul company.","salesPriority":4,"url":"https://www.amazon.com/dp/1643135767?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
+    "sourceName": "Read ScienceDaily’s October 17 report and the open PLOS Biology study",
+    "sourcePublisher": "ScienceDaily / Lund University / PLOS Biology",
+    "socialSummary": "ScienceDaily highlighted a Lund University wind-tunnel study showing that European nightjar wings favor slow, agile insect hunting but lose efficiency at faster cruise, while an unusual upstroke still generates thrust.",
+    "socialPunchline": "Blappos: The nightjar earns elite air miles while aerodynamics denies its mileage claim."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct17StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct17StagingStories);

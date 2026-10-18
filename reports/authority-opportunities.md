@@ -1,7 +1,31 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-15
+Updated: 2026-10-18
 Status: research log only; no outreach sent.
+
+## NOAA Fisheries West Coast — first sea-turtle nest and range-shift context
+
+- Target: NOAA Fisheries West Coast communications and sea-turtle recovery team
+- Route: https://www.fisheries.noaa.gov/contact-directory/west-coast-region
+- Matching Blappos asset: https://blappos.com/verification/#oct17-tropical-guest-list
+- Honest pitch angle: A source-status matrix that distinguishes separately documented tropical-species sightings, NOAA-attributed first West Coast sea-turtle nests and the broader El Niño pattern while refusing to turn one illustrated group scene into documentary evidence.
+- Qualification: NOAA is the named authority for the nesting-status claim and can correct species, date or “first recorded” wording. Any optional note should invite a factual correction or share the noncommercial evidence matrix, never imply NOAA endorsement of the satire, affiliate cards or magnet.
+
+## Destination Salem — record-attempt versus certification explainer
+
+- Target: Destination Salem and Salem400+ event communications
+- Route: https://www.salem.org/contact/
+- Matching Blappos asset: https://blappos.com/verification/#oct17-witch-hats-wharf
+- Honest pitch angle: A compact public entry that documents the October 17 crowd and overhead photograph while clearly separating an attempted record from an adjudicated count or certification.
+- Qualification: Destination Salem helped host the event and is the legitimate route for a final participant count or certification update. Any optional contact should ask for a factual status correction only, never claim success prematurely, identify private participants or request promotion of merchandise.
+
+## Lund University flight researchers — wind-tunnel trade-off digest
+
+- Target: Lund University Department of Biology research communications and the study authors
+- Route: https://www.lunduniversity.lu.se/article/nightjar-wings-reveal-trade-between-hunting-slowly-and-travelling-far (author contact is published on the page)
+- Matching Blappos asset: https://blappos.com/verification/#oct17-nightjar-mileage
+- Honest pitch angle: A citation-ready plain-language digest linking the open paper, measured wake features and data while separating the tested five birds from broader generalization and the proposed drone relevance from a finished engineering application.
+- Qualification: Lund researchers performed the experiment and can correct aerodynamic terminology or scope. Any optional note should invite a scientific correction or share the noncommercial digest, never imply author approval of the joke, illustration, affiliate products or magnet.
 
 ## Institute of Vertebrate Paleontology and Paleoanthropology — early-avialan inference check
 

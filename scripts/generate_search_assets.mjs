@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct17-tropical-guest-list': 'oct17-tropical-guest-list',
+    'oct17-witch-hats-wharf': 'oct17-witch-hats-wharf',
+    'oct17-nightjar-mileage': 'oct17-nightjar-mileage',
     'oct16-green-white-dwarf': 'oct16-green-white-dwarf',
     'oct16-roadster-kickflip': 'oct16-roadster-kickflip',
     'oct16-scrapple-sculpture': 'oct16-scrapple-sculpture',
@@ -293,7 +296,7 @@ fs.writeFileSync(indexPath, homepage);
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-10-17' },
+  { loc: `${origin}/verification/`, lastmod: '2026-10-18' },
   { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
