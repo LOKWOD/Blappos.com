@@ -2915,7 +2915,7 @@ const oct17StagingStories = [
     "date": "Oct 17, 2026",
     "place": "Lund, Sweden",
     "image": "assets/cards/2026-10-17-nightjar-mileage.webp",
-    "title": "Nightjar Wings Rack Up Air Miles and Terrible Mileage",
+    "title": "Nightjar Wings Rack Up Air Miles and Terrible Mileage","magnetUrl":"https://blappos.printify.me/product/33253647","magnetPrice":"$9.99",
     "facts": "ScienceDaily featured Lund University’s European-nightjar research on October 17. In the peer-reviewed PLOS Biology study, researchers flew five nightjars in a wind tunnel and measured their wakes at different speeds. The birds’ broad, slotted wingtips supported slow flight and maneuvering but produced a double-tip-vortex pattern and lower span efficiency at faster cruise; the team also measured an outer-wing upstroke that generated thrust, a feature previously associated mainly with bats and hummingbirds.",
     "why": "The result replaces the tidy idea of a long-distance migrant as a machine optimized only for economical cruising. Nightjars use the same wings to migrate between Europe and southern Africa and to hunt insects slowly at dusk, so evolution preserves a workable compromise rather than a single-purpose optimum. The authors also identify a possible design clue for flapping drones: when a wing cannot fold much on the upstroke, using that stroke for thrust may recover useful work.",
     "angle": "Verified study findings and engineering inference end above. The Blappos interpretation: the nightjar earns elite air miles while the aerodynamics department denies its mileage claim. The card’s scientists, route map, gauges and visible smoke are invented visual shorthand, not a copied figure or a claim that the bird understands expense reports.",
