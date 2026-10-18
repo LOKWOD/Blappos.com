@@ -2871,7 +2871,7 @@ const oct17StagingStories = [
     "date": "Oct 17, 2026",
     "place": "Southern California",
     "image": "assets/cards/2026-10-17-tropical-guest-list.webp",
-    "title": "California’s Ocean Opens a Tropical Guest List",
+    "title": "California’s Ocean Opens a Tropical Guest List","magnetUrl":"https://blappos.printify.me/product/33253636","magnetPrice":"$9.99",
     "facts": "Reuters reported October 17 that an unusually strong El Niño, following an extended marine heat wave, has carried an exceptional mix of tropical marine life into Southern California waters. The report documents California’s first recorded longfin bigeye fish, two olive ridley nests that NOAA called the first recorded sea-turtle nests on the U.S. West Coast, a rare yellow-bellied sea snake, and recent whale-shark, hammerhead, flying-fish and manta-ray sightings.",
     "why": "The arrivals are not simply a beachside curiosity. Warm water can move mobile fish and sharks north while stressing cold-water kelp that supports less-mobile species and entire coastal food webs. Experts quoted by Reuters expect conditions to mostly normalize after El Niño subsides next year, but the episode is a useful live demonstration of how a natural climate cycle and a preceding marine heat wave can rapidly rearrange an ecosystem without proving that every individual sighting has one identical cause.",
     "angle": "Verified reporting and attribution boundaries end above. The Blappos interpretation: the Pacific opened a tropical guest list and forgot to tell the kelp. The magnet compresses several separately documented species into one invented resort-style scene; it is not a single photograph, a range map or a claim that all animals arrived together.",
