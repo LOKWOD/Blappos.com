@@ -2893,7 +2893,7 @@ const oct17StagingStories = [
     "date": "Oct 17, 2026",
     "place": "Salem, Massachusetts",
     "image": "assets/cards/2026-10-17-witch-hats-wharf.webp",
-    "title": "Salem Fills a Wharf With Witch Hats, Certification Pending",
+    "title": "Salem Fills a Wharf With Witch Hats, Certification Pending","magnetUrl":"https://blappos.printify.me/product/33253641","magnetPrice":"$9.99",
     "facts": "Hundreds of people gathered at Derby Wharf in Salem on October 17 wearing pointed hats for the city’s Witch Hats on the Wharf community photo and world-record attempt. Salem’s official notice scheduled an overhead photograph shortly after 11 a.m. as part of the city’s 400th anniversary, and the Salem Witch Museum documented that the crowd assembled. No official adjudicated count or Guinness certification was available when this story was published.",
     "why": "Record attempts and certified records are different claims. A large crowd, an aerial photograph and a well-documented civic event establish that Salem staged the attempt; they do not establish the qualifying count, compliance with a record authority’s rules or a successful result. The city also tied sales of special hats and patches to HAWC, a local nonprofit serving survivors of domestic abuse, so the event combined tourism, anniversary branding and fundraising rather than existing only as a stunt.",
     "angle": "Verified event facts and the certification boundary end above. The Blappos interpretation: Salem put municipal history under one enormous hat, then handed the hat to paperwork. The magnet’s clerk, crowd and hat-counting scene are invented; it does not reproduce the aerial photograph, identify participants or claim the record was won.",
