@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct18-kikai-regional-settings': 'oct18-kikai-regional-settings',
+    'oct18-sea-vomit-inspector': 'oct18-sea-vomit-inspector',
+    'oct18-shock-absorber-kitten': 'oct18-shock-absorber-kitten',
     'oct17-tropical-guest-list': 'oct17-tropical-guest-list',
     'oct17-witch-hats-wharf': 'oct17-witch-hats-wharf',
     'oct17-nightjar-mileage': 'oct17-nightjar-mileage',

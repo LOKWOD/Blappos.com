@@ -2934,3 +2934,77 @@ const oct17StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !oct17StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct17StagingStories);
 // October 17 publication gate passed: all three exact Printify products are linked and the permanent pages are built.
+
+// October 18 staging edition. Printify scans these complete story objects, but they
+// remain outside window.dailyStories until every physical magnet is published and
+// its exact storefront URL is written back here.
+const oct18StagingStories = [
+  {
+    "id": "oct18-kikai-regional-settings",
+    "isoDate": "2026-10-18",
+    "month": "October",
+    "date": "Oct 18, 2026",
+    "place": "Kyushu, Japan",
+    "image": "assets/cards/2026-10-18-kikai-regional-settings.webp",
+    "title": "Japan’s 7,300-Year-Old Apocalypse Had Regional Settings",
+    "facts": "ScienceDaily published Lund University’s summary of a Science Advances study on October 18. The researchers reconstructed population change around the undersea Kikai-Akahoya eruption about 7,300 years ago. Their archaeological models indicate that southern Kyushu’s population was already falling, northern Kyushu continued growing through and after the eruption, inland survivors shifted toward the northern coast, and some more distant regions stopped growing or declined.",
+    "why": "A single catastrophic event did not produce a single demographic outcome. Local exposure, earlier trends, migration, social ties and access to recovering marine resources all shaped what followed. The findings are model-based estimates assembled from archaeological evidence—not a census—and the proposed roles of climate disruption, animal tooth wear and health effects remain explanations the researchers discuss rather than individually proven causes.",
+    "angle": "Verified research and inference boundaries end above. The Blappos interpretation: the apocalypse shipped with regional settings—collapse here, relocation there and unexpected growth one prefecture over. The magnet is an original compressed reconstruction; its eruption, settlements and coast are not a photograph, map or claim that all three conditions were visible at once.",
+    "amazonLinks": [
+      {"title":"Krakatoa: The Day the World Exploded","image":"https://m.media-amazon.com/images/P/0060838590.01.LZZZZZZZ.jpg","alt":"Cover of Krakatoa by Simon Winchester","quip":"A deeply researched account of a historic eruption for comparing one famous catastrophe with a much older one reconstructed from archaeology.","salesPriority":5,"url":"https://www.amazon.com/dp/0060838590?tag=blappos-20"},
+      {"title":"Ancient Jomon of Japan","image":"https://m.media-amazon.com/images/P/0521776708.01.LZZZZZZZ.jpg","alt":"Cover of Ancient Jomon of Japan by Junko Habu","quip":"The archaeological foundation for understanding the hunter-gatherer communities whose regional responses the new study models.","salesPriority":5,"url":"https://www.amazon.com/dp/0521776708?tag=blappos-20"},
+      {"title":"When Humans Nearly Vanished","image":"https://m.media-amazon.com/images/P/1588348040.01.LZZZZZZZ.jpg","alt":"Cover of When Humans Nearly Vanished by Donald R. Prothero","quip":"A critical tour of the Toba catastrophe debate—and a useful reminder that dramatic eruption stories need demographic evidence, not one-size-fits-all assumptions.","salesPriority":4,"url":"https://www.amazon.com/dp/1588348040?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
+    "sourceName": "Read ScienceDaily’s October 18 report and the Science Advances paper",
+    "sourcePublisher": "ScienceDaily / Lund University",
+    "socialSummary": "Researchers found Japan’s Kikai eruption produced regional decline, migration and growth.",
+    "socialPunchline": "Blappos: The apocalypse had regional settings."
+  },
+  {
+    "id": "oct18-sea-vomit-inspector",
+    "isoDate": "2026-10-18",
+    "month": "October",
+    "date": "Oct 18, 2026",
+    "place": "Scottish Highlands, United Kingdom",
+    "image": "assets/cards/2026-10-18-sea-vomit-inspector.webp",
+    "title": "A Labrador Gets Promoted to Sea-Vomit Inspector",
+    "facts": "The Times of India reported October 18 that Sgiath, a six-year-old black Labrador formerly trained for mountain rescue, now works with marine ecologist Dr Texa Sim to detect the invasive carpet sea squirt Didemnum vexillum by scent. IFAW believes she is the first dog trained for that target and named her its 2026 Animal of the Year. Sgiath gives a passive indication—becoming still and staring—when she detects the organism.",
+    "why": "Carpet sea squirt can spread across pontoons, oyster cages and other structures, smother native organisms and become expensive to manage. Visual identification can be difficult and confirmation may require specialist analysis, so a trained dog could add an early-search tool. It does not replace laboratory work or other survey methods, and ‘first dog’ is appropriately attributed to IFAW rather than presented as an independently exhaustive global count.",
+    "angle": "Verified reporting and attribution boundaries end above. The Blappos interpretation: mountain rescue promoted its best nose to ocean slime, and the employee of the year did not ask what the species’ nickname meant. The magnet uses an invented harbor and inspection plate; it does not copy IFAW photography, show a real search site or imply that the pictured colony was Sgiath’s find.",
+    "amazonLinks": [
+      {"title":"Detective Dogs: How Working Dogs Sniff Out Invasive Species","image":"https://m.media-amazon.com/images/P/0823455645.01.LZZZZZZZ.jpg","alt":"Cover of Detective Dogs by Alison Pearce Stevens","quip":"The exact science-and-working-dog bridge behind Sgiath’s extraordinary new conservation job.","salesPriority":5,"url":"https://www.amazon.com/dp/0823455645?tag=blappos-20"},
+      {"title":"What the Dog Knows","image":"https://m.media-amazon.com/images/P/1451667329.01.LZZZZZZZ.jpg","alt":"Cover of What the Dog Knows by Cat Warren","quip":"A scent-detection account for understanding how a dog’s nose becomes a disciplined research instrument rather than a party trick.","salesPriority":5,"url":"https://www.amazon.com/dp/1451667329?tag=blappos-20"},
+      {"title":"Invasive Species: A Very Short Introduction","image":"https://m.media-amazon.com/images/P/0198818289.01.LZZZZZZZ.jpg","alt":"Cover of Invasive Species by Julie Lockwood and Dustin Welbourne","quip":"The ecological context for why finding one unglamorous marine invader early can matter enormously.","salesPriority":4,"url":"https://www.amazon.com/dp/0198818289?tag=blappos-20"}
+    ],
+    "source": "https://timesofindia.indiatimes.com/science/nature/a-labrador-once-trained-for-mountain-rescue-becomes-a-marine-conservation-detection-dog-sgiath-can-sniff-out-the-invasive-organism-known-as-sea-vomit-and-wins-ifaws-2026-animal-of-the-year-award/articleshow/135028213.cms",
+    "sourceName": "Read The Times of India’s October 18 report and linked IFAW announcement",
+    "sourcePublisher": "The Times of India / IFAW",
+    "socialSummary": "Sgiath the Labrador detects invasive carpet sea squirt—‘sea vomit’—by scent.",
+    "socialPunchline": "Blappos: Mountain rescue promoted her to ocean slime."
+  },
+  {
+    "id": "oct18-shock-absorber-kitten",
+    "isoDate": "2026-10-18",
+    "month": "October",
+    "date": "Oct 18, 2026",
+    "place": "Sandy Springs, Georgia",
+    "image": "assets/cards/2026-10-18-shock-absorber-kitten.webp",
+    "title": "First Responders Extract the Shock-Absorber Kitten",
+    "facts": "WSB-TV reported October 18 that Sandy Springs firefighters and police officers safely removed a kitten trapped inside a car’s shock absorber. The report says the kitten, now named Friday Shadow, was recovering well and had already found a permanent home. No injury to a responder was reported.",
+    "why": "The story is a compact example of why an animal inside vehicle machinery is a responder job, not an invitation for improvised extraction. The published report confirms the component, agencies and happy outcome, but it does not provide a full incident timeline or explain how the kitten entered the assembly; Blappos does not invent those missing mechanics.",
+    "angle": "Verified reporting and the missing-detail boundary end above. The Blappos interpretation: Friday Shadow chose the only suspension package that includes adoption. The magnet’s garage, vehicle, removed component and anonymous gloved responder are original visual shorthand—not a copied rescue image or a claim about the exact extraction technique.",
+    "amazonLinks": [
+      {"title":"Tiny But Mighty: Kitten Lady’s Guide to Saving the Most Vulnerable Felines","image":"https://m.media-amazon.com/images/P/1524744069.01.LZZZZZZZ.jpg","alt":"Cover of Tiny But Mighty by Hannah Shaw","quip":"A rescue-focused guide for the vulnerable-kitten questions that begin after the dramatic machinery story ends.","salesPriority":5,"url":"https://www.amazon.com/dp/1524744069?tag=blappos-20"},
+      {"title":"The Trainable Cat","image":"https://m.media-amazon.com/images/P/046509371X.01.LZZZZZZZ.jpg","alt":"Cover of The Trainable Cat by John Bradshaw and Sarah Ellis","quip":"Practical, evidence-led help for getting an adventurous cat comfortable with carriers, vet visits and safer routines.","salesPriority":5,"url":"https://www.amazon.com/dp/046509371X?tag=blappos-20"},
+      {"title":"Cat Sense","image":"https://m.media-amazon.com/images/P/0465064965.01.LZZZZZZZ.jpg","alt":"Cover of Cat Sense by John Bradshaw","quip":"The behavior science behind why domestic cats still seek small, strange places—and how humans can build safer lives around that instinct.","salesPriority":4,"url":"https://www.amazon.com/dp/0465064965?tag=blappos-20"}
+    ],
+    "source": "https://www.wsbtv.com/news/local/first-responders-rescue-kitten-trapped-inside-cars-shock-absorber/KC26DXBJZRF2XOPKK4IHMKA7FE/",
+    "sourceName": "Read WSB-TV’s October 18 report",
+    "sourcePublisher": "WSB-TV",
+    "socialSummary": "Sandy Springs responders freed a kitten trapped in a car shock absorber; she was adopted.",
+    "socialPunchline": "Blappos: Friday Shadow chose the suspension package with adoption."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct18StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct18StagingStories);

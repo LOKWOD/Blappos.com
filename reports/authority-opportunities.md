@@ -1,8 +1,32 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-18
+Updated: 2026-10-19
 Status: research log only; no outreach sent.
-Publication check: the October 17 edition received three live Printify product records before the permanent-page rebuild; outreach remains unsent.
+Publication check: the October 18 edition is staged behind the repository’s Printify purchase gate; outreach remains unsent.
+
+## Lund University archaeology communications — Kikai response-model digest
+
+- Target: Lund University communications and the archaeology research team named in the Science Advances paper
+- Route: https://www.lunduniversity.lu.se/about-university/contact-information
+- Matching Blappos asset: https://blappos.com/verification/#oct18-kikai-regional-settings
+- Honest pitch angle: A citation-ready matrix that distinguishes model-based regional population trajectories from direct counts and keeps proposed climate, health, animal-tooth and marine-resource mechanisms at their reported evidence levels.
+- Qualification: Lund supplied the October 18 research summary and its authors can correct chronology, geography or modeling language. Any optional note should invite a factual correction or share the noncommercial digest, never imply author endorsement of the satire, illustration, affiliate cards or magnet.
+
+## IFAW media team — marine detection-dog attribution check
+
+- Target: International Fund for Animal Welfare media and Animal Action Awards team
+- Route: https://www.ifaw.org/international/contact
+- Matching Blappos asset: https://blappos.com/verification/#oct18-sea-vomit-inspector
+- Honest pitch angle: A compact evidence entry that preserves IFAW’s “believed to be the first” attribution, explains Sgiath’s passive indication and distinguishes scent searching from confirmatory laboratory analysis.
+- Qualification: IFAW made the first-dog assessment and presented the award. Any optional contact should request correction of that narrow wording or detection scope only, never imply IFAW approval of the joke, artwork, affiliate products or physical magnet.
+
+## Sandy Springs public-safety communications — vehicle-animal rescue boundary
+
+- Target: City of Sandy Springs communications for Fire Rescue and Police
+- Route: https://www.sandyspringsga.gov/contact-us/
+- Matching Blappos asset: https://blappos.com/verification/#oct18-shock-absorber-kitten
+- Honest pitch angle: A source-limited local-rescue entry that records the shock-absorber location, responding agencies and adoption outcome while explicitly refusing to invent the kitten’s route into the vehicle or the extraction procedure.
+- Qualification: The city’s public-safety departments are the closest correction route for incident details. Any optional contact should seek a factual correction or approved safety language only, never ask for private adopter information, a backlink or endorsement of merchandise.
 
 ## NOAA Fisheries West Coast — first sea-turtle nest and range-shift context
 
