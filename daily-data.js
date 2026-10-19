@@ -2990,7 +2990,7 @@ const oct18StagingStories = [
     "date": "Oct 18, 2026",
     "place": "Sandy Springs, Georgia",
     "image": "assets/cards/2026-10-18-shock-absorber-kitten.webp",
-    "title": "First Responders Extract the Shock-Absorber Kitten",
+    "title": "First Responders Extract the Shock-Absorber Kitten","magnetUrl":"https://blappos.printify.me/product/33295254","magnetPrice":"$9.99",
     "facts": "WSB-TV reported October 18 that Sandy Springs firefighters and police officers safely removed a kitten trapped inside a car’s shock absorber. The report says the kitten, now named Friday Shadow, was recovering well and had already found a permanent home. No injury to a responder was reported.",
     "why": "The story is a compact example of why an animal inside vehicle machinery is a responder job, not an invitation for improvised extraction. The published report confirms the component, agencies and happy outcome, but it does not provide a full incident timeline or explain how the kitten entered the assembly; Blappos does not invent those missing mechanics.",
     "angle": "Verified reporting and the missing-detail boundary end above. The Blappos interpretation: Friday Shadow chose the only suspension package that includes adoption. The magnet’s garage, vehicle, removed component and anonymous gloved responder are original visual shorthand—not a copied rescue image or a claim about the exact extraction technique.",
