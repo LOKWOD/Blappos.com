@@ -2968,7 +2968,7 @@ const oct18StagingStories = [
     "date": "Oct 18, 2026",
     "place": "Scottish Highlands, United Kingdom",
     "image": "assets/cards/2026-10-18-sea-vomit-inspector.webp",
-    "title": "A Labrador Gets Promoted to Sea-Vomit Inspector",
+    "title": "A Labrador Gets Promoted to Sea-Vomit Inspector","magnetUrl":"https://blappos.printify.me/product/33295250","magnetPrice":"$9.99",
     "facts": "The Times of India reported October 18 that Sgiath, a six-year-old black Labrador formerly trained for mountain rescue, now works with marine ecologist Dr Texa Sim to detect the invasive carpet sea squirt Didemnum vexillum by scent. IFAW believes she is the first dog trained for that target and named her its 2026 Animal of the Year. Sgiath gives a passive indication—becoming still and staring—when she detects the organism.",
     "why": "Carpet sea squirt can spread across pontoons, oyster cages and other structures, smother native organisms and become expensive to manage. Visual identification can be difficult and confirmation may require specialist analysis, so a trained dog could add an early-search tool. It does not replace laboratory work or other survey methods, and ‘first dog’ is appropriately attributed to IFAW rather than presented as an independently exhaustive global count.",
     "angle": "Verified reporting and attribution boundaries end above. The Blappos interpretation: mountain rescue promoted its best nose to ocean slime, and the employee of the year did not ask what the species’ nickname meant. The magnet uses an invented harbor and inspection plate; it does not copy IFAW photography, show a real search site or imply that the pictured colony was Sgiath’s find.",
