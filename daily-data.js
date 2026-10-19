@@ -2935,9 +2935,8 @@ window.dailyStories = window.dailyStories.filter(story => !oct17StagingStories.s
 window.dailyStories.unshift(...oct17StagingStories);
 // October 17 publication gate passed: all three exact Printify products are linked and the permanent pages are built.
 
-// October 18 staging edition. Printify scans these complete story objects, but they
-// remain outside window.dailyStories until every physical magnet is published and
-// its exact storefront URL is written back here.
+// October 18 edition. Every physical magnet is published and its exact storefront
+// URL is linked before these stories enter window.dailyStories.
 const oct18StagingStories = [
   {
     "id": "oct18-kikai-regional-settings",
@@ -3008,3 +3007,4 @@ const oct18StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct18StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct18StagingStories);
+// October 18 publication gate passed: all three exact Printify products are linked and the permanent pages are ready to build.
