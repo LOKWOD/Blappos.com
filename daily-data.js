@@ -2946,7 +2946,7 @@ const oct18StagingStories = [
     "date": "Oct 18, 2026",
     "place": "Kyushu, Japan",
     "image": "assets/cards/2026-10-18-kikai-regional-settings.webp",
-    "title": "Japan’s 7,300-Year-Old Apocalypse Had Regional Settings",
+    "title": "Japan’s 7,300-Year-Old Apocalypse Had Regional Settings","magnetUrl":"https://blappos.printify.me/product/33295237","magnetPrice":"$9.99",
     "facts": "ScienceDaily published Lund University’s summary of a Science Advances study on October 18. The researchers reconstructed population change around the undersea Kikai-Akahoya eruption about 7,300 years ago. Their archaeological models indicate that southern Kyushu’s population was already falling, northern Kyushu continued growing through and after the eruption, inland survivors shifted toward the northern coast, and some more distant regions stopped growing or declined.",
     "why": "A single catastrophic event did not produce a single demographic outcome. Local exposure, earlier trends, migration, social ties and access to recovering marine resources all shaped what followed. The findings are model-based estimates assembled from archaeological evidence—not a census—and the proposed roles of climate disruption, animal tooth wear and health effects remain explanations the researchers discuss rather than individually proven causes.",
     "angle": "Verified research and inference boundaries end above. The Blappos interpretation: the apocalypse shipped with regional settings—collapse here, relocation there and unexpected growth one prefecture over. The magnet is an original compressed reconstruction; its eruption, settlements and coast are not a photograph, map or claim that all three conditions were visible at once.",
