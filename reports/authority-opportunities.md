@@ -2,7 +2,7 @@
 
 Updated: 2026-10-20
 Status: research log only; no outreach sent.
-Publication check: the October 19 edition is staged behind the repository’s Printify purchase gate; outreach remains unsent.
+Publication check: the October 19 edition is live with all three exact Printify products and permanent pages verified; outreach remains unsent.
 
 ## October 19, 2026 — qualified opportunities (not contacted)
 
