@@ -3063,7 +3063,7 @@ const oct19StagingStories = [
     "date": "Oct 19, 2026",
     "place": "Kelowna, British Columbia",
     "image": "assets/cards/2026-10-19-unqualified-elected.webp",
-    "title": "Kelowna’s Candidate Warning Label Wins a Top-Eight Tally",
+    "title": "Kelowna’s Candidate Warning Label Wins a Top-Eight Tally","magnetUrl":"https://blappos.printify.me/product/33337116","magnetPrice":"$9.99",
     "facts": "UPI reported October 19 that 33-year-old business owner Brady Rogers ran for Kelowna City Council with deliberately self-deprecating signs describing himself as reluctant and unqualified. The city’s unofficial October 17 count gave Rogers 12,635 votes—fourth among 37 candidates competing for eight council seats. Kelowna said the chief election officer expected to declare official results by October 21.",
     "why": "The result is a useful case study in attention, authenticity and local-campaign design: a warning label can become a promise that a candidate is not rehearsing the usual script. It is not evidence that qualifications do not matter, nor does a viral sign explain every ballot. The status line matters too: the city’s published figures are still unofficial until the formal declaration.",
     "angle": "Verified reporting and result status end above. The Blappos interpretation: he supplied a warning label, and voters treated it as an instruction manual. The card’s candidate, certificate, crowd, ballot box and blank signs are fictional editorial shorthand; they do not reproduce Rogers, his actual signs or a final city declaration.",
