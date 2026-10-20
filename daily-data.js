@@ -3081,4 +3081,4 @@ const oct19StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct19StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct19StagingStories);
-// October 19 publication gate passed: all three exact Printify products are linked and permanent pages are ready to build.
+// October 19 publication and social delivery gates passed: all three exact Printify products and permanent pages are live.
