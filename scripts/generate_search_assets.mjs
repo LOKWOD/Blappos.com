@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct19-yak-x': 'oct19-yak-x',
+    'oct19-cube-robot': 'oct19-cube-robot',
+    'oct19-unqualified-candidate': 'oct19-unqualified-candidate',
     'oct18-kikai-regional-settings': 'oct18-kikai-regional-settings',
     'oct18-sea-vomit-inspector': 'oct18-sea-vomit-inspector',
     'oct18-shock-absorber-kitten': 'oct18-shock-absorber-kitten',

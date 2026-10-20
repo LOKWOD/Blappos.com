@@ -3008,3 +3008,76 @@ const oct18StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !oct18StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct18StagingStories);
 // October 18 publication gate passed: all three exact Printify products and permanent pages were verified live before social release.
+
+// October 19 staging edition. Printify scans these complete story objects, while
+// the homepage and archive filter them out until exact product URLs are present.
+const oct19StagingStories = [
+  {
+    "id": "oct19-yak-x",
+    "isoDate": "2026-10-19",
+    "month": "October",
+    "date": "Oct 19, 2026",
+    "place": "Denisova Cave, Siberia",
+    "image": "assets/cards/2026-10-19-yak-x.webp",
+    "title": "Ancient DNA Announces That a New Cow Just Dropped",
+    "facts": "Reuters reported October 19 that researchers recovered 20 low-coverage genomes from tiny bovine bone fragments found in Denisova Cave and nearby Altai sites. The oldest fragments date to roughly 250,000–200,000 years ago and the youngest to about 27,000 years ago. The lineage split from the ancestors of living yaks about 400,000 years ago and appears distinct enough to represent a previously unknown species, provisionally nicknamed ‘Yak X.’ It has not received a formal scientific name because the evidence is genomic rather than a diagnostic skeleton.",
+    "why": "The work shows how palaeogenomics can turn otherwise unidentifiable fragments into a long population history. Finding the animal across sites used by Denisovans and later humans adds a possible prey species to the Ice Age ecosystem, but proximity is not direct proof that any particular group hunted these exact animals. The formal-name restraint also matters: a striking genome result does not erase the anatomical standards of taxonomy.",
+    "angle": "Verified research and inference boundaries end above. The Blappos interpretation: the Ice Age just pushed an undocumented cow into production. The card’s animal, scientists, glowing DNA and combined cave landscape are original editorial illustration—not a reconstruction of one excavation, a copy of a research figure or evidence that the nickname is an official species name.",
+    "amazonLinks": [
+      {"title":"Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past","image":"https://m.media-amazon.com/images/P/110187032X.01.LZZZZZZZ.jpg","alt":"Cover of Who We Are and How We Got Here by David Reich","quip":"The clearest book-length bridge from fragments and genomes to the new science that can identify a lost Ice Age lineage.","salesPriority":5,"url":"https://www.amazon.com/dp/110187032X?tag=blappos-20"},
+      {"title":"Ancient Bones: Unearthing the Astonishing New Story of How We Became Human","image":"https://m.media-amazon.com/images/P/1778400310.01.LZZZZZZZ.jpg","alt":"Cover of Ancient Bones by Madelaine Böhme, Rüdiger Braun and Florian Breier","quip":"A field-and-lab tour of how sparse bones can rearrange a much larger story about ancient animals and people.","salesPriority":5,"url":"https://www.amazon.com/dp/1778400310?tag=blappos-20"},
+      {"title":"Vanished Giants: The Lost World of the Ice Age","image":"https://m.media-amazon.com/images/P/0226824039.01.LZZZZZZZ.jpg","alt":"Cover of Vanished Giants by Anthony J. Stuart","quip":"The wider Ice Age bestiary and extinction context for meeting one more large mammal from the Pleistocene guest list.","salesPriority":4,"url":"https://www.amazon.com/dp/0226824039?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/famous-siberian-cave-yields-remains-yak-like-ice-age-mammal-2026-10-19/",
+    "sourceName": "Read Reuters’ October 19 report and the linked Current Biology study",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "Ancient DNA from 20 tiny Altai bone fragments revealed a distinct Ice Age bovine lineage nicknamed ‘Yak X.’",
+    "socialPunchline": "Blappos: The Ice Age just pushed a new cow into production."
+  },
+  {
+    "id": "oct19-cube-robot",
+    "isoDate": "2026-10-19",
+    "month": "October",
+    "date": "Oct 19, 2026",
+    "place": "Christchurch, New Zealand",
+    "image": "assets/cards/2026-10-19-cube-robot.webp",
+    "title": "Four Engineering Students Reduce a Cube to 9.806 Seconds",
+    "facts": "UPI reported October 19 that University of Canterbury students Caleb Everitt, Johann Torres, Hayden Watson and Maz Cameron built a robot that solved a scrambled 4-by-4 cube in 9.806 seconds during an official Guinness World Records attempt on October 16. The system used four cameras, an open-source solving algorithm, faster drone motors and suction-cup grippers. The university says Guinness confirmation is still pending.",
+    "why": "The current published Guinness record is 45.30 seconds, so the attempt would be a substantial improvement if certified. More important than the stopwatch is the integration: mechanical design, power electronics, computer vision and software all had to agree on the same fraction of a second. Until Guinness completes its review, 9.806 seconds is a documented attempt result—not a certified world record.",
+    "angle": "Verified reporting and certification status end above. The Blappos interpretation: four years of engineering education successfully removed 35.494 seconds from a cube. The card’s fictional students, four-eyed robot, laboratory and stopwatch are original illustration; they do not depict the real team or machine, reproduce event footage or claim that Guinness has approved the result.",
+    "amazonLinks": [
+      {"title":"Rubik's Cube 4x4 Master Puzzle Cube & Brain Teaser Fidget Toy","image":"https://m.media-amazon.com/images/P/B09J9ZCN1L.01.LZZZZZZZ.jpg","alt":"Rubik’s Cube 4x4 Master puzzle cube","quip":"The four-layer problem that the Canterbury robot reduced to a single-digit engineering flex.","salesPriority":5,"url":"https://www.amazon.com/dp/B09J9ZCN1L?tag=blappos-20"},
+      {"title":"Cubed: The Puzzle of Us All","image":"https://m.media-amazon.com/images/P/1250217776.01.LZZZZZZZ.jpg","alt":"Cover of Cubed by Ernő Rubik","quip":"The puzzle’s inventor explains why a small colored cube became a worldwide machine for thinking.","salesPriority":5,"url":"https://www.amazon.com/dp/1250217776?tag=blappos-20"},
+      {"title":"Robot Builder's Bonanza, 5th Edition","image":"https://m.media-amazon.com/images/P/1260135012.01.LZZZZZZZ.jpg","alt":"Cover of Robot Builder’s Bonanza, 5th Edition by Gordon McComb","quip":"A practical bench companion for readers whose response to a nine-second robot is to start collecting motors.","salesPriority":4,"url":"https://www.amazon.com/dp/1260135012?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/19/nz-Guinness-World-Records-rubiks-cube-robot/6671792423259/",
+    "sourceName": "Read UPI’s October 19 report and the University of Canterbury announcement",
+    "sourcePublisher": "UPI / University of Canterbury",
+    "socialSummary": "Four Canterbury students built a robot that solved a 4×4 cube in 9.806 seconds; Guinness review is pending.",
+    "socialPunchline": "Blappos: Four years well spent, pending certification."
+  },
+  {
+    "id": "oct19-unqualified-candidate",
+    "isoDate": "2026-10-19",
+    "month": "October",
+    "date": "Oct 19, 2026",
+    "place": "Kelowna, British Columbia",
+    "image": "assets/cards/2026-10-19-unqualified-elected.webp",
+    "title": "Kelowna’s Candidate Warning Label Wins a Top-Eight Tally",
+    "facts": "UPI reported October 19 that 33-year-old business owner Brady Rogers ran for Kelowna City Council with deliberately self-deprecating signs describing himself as reluctant and unqualified. The city’s unofficial October 17 count gave Rogers 12,635 votes—fourth among 37 candidates competing for eight council seats. Kelowna said the chief election officer expected to declare official results by October 21.",
+    "why": "The result is a useful case study in attention, authenticity and local-campaign design: a warning label can become a promise that a candidate is not rehearsing the usual script. It is not evidence that qualifications do not matter, nor does a viral sign explain every ballot. The status line matters too: the city’s published figures are still unofficial until the formal declaration.",
+    "angle": "Verified reporting and result status end above. The Blappos interpretation: he supplied a warning label, and voters treated it as an instruction manual. The card’s candidate, certificate, crowd, ballot box and blank signs are fictional editorial shorthand; they do not reproduce Rogers, his actual signs or a final city declaration.",
+    "amazonLinks": [
+      {"title":"Running For Local Office For Dummies","image":"https://m.media-amazon.com/images/P/1119588170.01.LZZZZZZZ.jpg","alt":"Cover of Running For Local Office For Dummies by Dan Gookin","quip":"A conventional campaign manual for candidates who would rather not make ‘also no’ the whole field plan.","salesPriority":5,"url":"https://www.amazon.com/dp/1119588170?tag=blappos-20"},
+      {"title":"The Campaign Manager: Running and Winning Local Elections","image":"https://m.media-amazon.com/images/P/0813348633.01.LZZZZZZZ.jpg","alt":"Cover of The Campaign Manager by Catherine Shaw","quip":"The nuts-and-bolts local-election guide behind everything the viral warning signs made look accidental.","salesPriority":5,"url":"https://www.amazon.com/dp/0813348633?tag=blappos-20"},
+      {"title":"The Victory Lab: The Secret Science of Winning Campaigns","image":"https://m.media-amazon.com/images/P/030795479X.01.LZZZZZZZ.jpg","alt":"Cover of The Victory Lab by Sasha Issenberg","quip":"A data-minded look at persuasion for investigating why anti-campaign messaging can still behave like a campaign.","salesPriority":4,"url":"https://www.amazon.com/dp/030795479X?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/19/canada-Kelowna-city-council-unqualified-candidate-funny-signs/9581792429340/",
+    "sourceName": "Read UPI’s October 19 report and Kelowna’s unofficial result",
+    "sourcePublisher": "UPI / City of Kelowna",
+    "socialSummary": "Kelowna’s unofficial count put self-described reluctant candidate Brady Rogers fourth in an eight-seat council race.",
+    "socialPunchline": "Blappos: He supplied the warning label; voters peeled it off."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct19StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct19StagingStories);

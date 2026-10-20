@@ -1,8 +1,34 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-19
+Updated: 2026-10-20
 Status: research log only; no outreach sent.
-Publication check: the October 18 edition is staged behind the repository’s Printify purchase gate; outreach remains unsent.
+Publication check: the October 19 edition is staged behind the repository’s Printify purchase gate; outreach remains unsent.
+
+## October 19, 2026 — qualified opportunities (not contacted)
+
+### Centre for Palaeogenetics — Yak X taxonomy boundary
+
+- Target: Centre for Palaeogenetics news and media team, a joint venture of Stockholm University and the Swedish Museum of Natural History
+- Route: https://palaeogenetics.com/news-media/
+- Matching Blappos asset: https://blappos.com/verification/#oct19-yak-x
+- Honest pitch angle: A citation-ready status entry that connects 20 low-coverage genomes to the long-lived Altai bovine lineage while preserving the authors’ distinction between a candidate new species and a formally named taxon.
+- Qualification: The centre specializes in ancient-animal genomics and can correct the genetic, chronological or taxonomic language. Any optional note should invite a factual correction or point to the noncommercial evidence matrix; it must not imply endorsement of the joke, artwork, affiliate cards or magnet.
+
+### University of Canterbury media team — pending record-status explainer
+
+- Target: University of Canterbury media team and the engineering project’s named student team
+- Route: https://www.canterbury.ac.nz/news-and-events/news/media-enquiries (media@canterbury.ac.nz)
+- Matching Blappos asset: https://blappos.com/verification/#oct19-cube-robot
+- Honest pitch angle: A concise engineering digest that records the 9.806-second attempt and four contributing subsystems while refusing to call the result a world record before Guinness confirms it.
+- Qualification: UC documented the attempt and can correct the student roles, hardware or review status. Any optional note should request a factual correction or certification update only; it must not imply university or Guinness approval of the illustration, affiliate products or physical magnet.
+
+### City of Kelowna communications — unofficial-result language audit
+
+- Target: City of Kelowna communications and elections public-information staff
+- Route: https://www.kelowna.ca/our-community/news-events/media-resources (media@kelowna.ca)
+- Matching Blappos asset: https://blappos.com/verification/#oct19-unqualified-candidate
+- Honest pitch angle: A public status note that preserves the 12,635-vote count, fourth-place ranking and eight-seat context while identifying the result as unofficial until the chief election officer’s declaration.
+- Qualification: The city owns the closest result record and is the authoritative correction route for tally or declaration status. Any optional contact should seek a factual update only; it must not ask for a political endorsement, voter information, promotion or support for commercial products.
 
 ## Lund University archaeology communications — Kikai response-model digest
 
