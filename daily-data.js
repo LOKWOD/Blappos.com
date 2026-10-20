@@ -3009,8 +3009,8 @@ window.dailyStories = window.dailyStories.filter(story => !oct18StagingStories.s
 window.dailyStories.unshift(...oct18StagingStories);
 // October 18 publication gate passed: all three exact Printify products and permanent pages were verified live before social release.
 
-// October 19 staging edition. Printify scans these complete story objects, while
-// the homepage and archive filter them out until exact product URLs are present.
+// October 19 edition. All three exact Printify products are published and
+// linked before these stories enter the homepage, archive and permanent pages.
 const oct19StagingStories = [
   {
     "id": "oct19-yak-x",
@@ -3081,3 +3081,4 @@ const oct19StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct19StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct19StagingStories);
+// October 19 publication gate passed: all three exact Printify products are linked and permanent pages are ready to build.
