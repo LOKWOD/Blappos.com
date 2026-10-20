@@ -3041,7 +3041,7 @@ const oct19StagingStories = [
     "date": "Oct 19, 2026",
     "place": "Christchurch, New Zealand",
     "image": "assets/cards/2026-10-19-cube-robot.webp",
-    "title": "Four Engineering Students Reduce a Cube to 9.806 Seconds",
+    "title": "Four Engineering Students Reduce a Cube to 9.806 Seconds","magnetUrl":"https://blappos.printify.me/product/33337111","magnetPrice":"$9.99",
     "facts": "UPI reported October 19 that University of Canterbury students Caleb Everitt, Johann Torres, Hayden Watson and Maz Cameron built a robot that solved a scrambled 4-by-4 cube in 9.806 seconds during an official Guinness World Records attempt on October 16. The system used four cameras, an open-source solving algorithm, faster drone motors and suction-cup grippers. The university says Guinness confirmation is still pending.",
     "why": "The current published Guinness record is 45.30 seconds, so the attempt would be a substantial improvement if certified. More important than the stopwatch is the integration: mechanical design, power electronics, computer vision and software all had to agree on the same fraction of a second. Until Guinness completes its review, 9.806 seconds is a documented attempt result—not a certified world record.",
     "angle": "Verified reporting and certification status end above. The Blappos interpretation: four years of engineering education successfully removed 35.494 seconds from a cube. The card’s fictional students, four-eyed robot, laboratory and stopwatch are original illustration; they do not depict the real team or machine, reproduce event footage or claim that Guinness has approved the result.",
