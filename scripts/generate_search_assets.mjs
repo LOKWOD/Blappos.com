@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct20-plant-help-desk': 'oct20-plant-help-desk',
+    'oct20-cowboy-hat-bar': 'oct20-cowboy-hat-bar',
+    'oct20-ohare-green-bird': 'oct20-ohare-green-bird',
     'oct19-yak-x': 'oct19-yak-x',
     'oct19-cube-robot': 'oct19-cube-robot',
     'oct19-unqualified-candidate': 'oct19-unqualified-candidate',
@@ -189,8 +192,21 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
   .filter((story, index, list) => story.id && story.magnetUrl && story.magnetPrice && list.findIndex(item => item.id === story.id) === index);
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
+const topicLinks = {
+  'oct20-plant-help-desk': ['jun-bacteria', 'oct7-mirror-molecules'],
+  'jun-bacteria': ['oct20-plant-help-desk'],
+  'oct7-mirror-molecules': ['oct20-plant-help-desk'],
+  'oct20-cowboy-hat-bar': ['oct12-zeekr-25cm-drift', 'oct19-cube-robot'],
+  'oct12-zeekr-25cm-drift': ['oct20-cowboy-hat-bar'],
+  'oct19-cube-robot': ['oct20-cowboy-hat-bar'],
+  'oct20-ohare-green-bird': ['oct13-cat-burglar-dog-bowl', 'oct17-nightjar-mileage'],
+  'oct13-cat-burglar-dog-bowl': ['oct20-ohare-green-bird'],
+  'oct17-nightjar-mileage': ['oct20-ohare-green-bird']
+};
 function relatedMarkup(story) {
-  const related = chronological.filter(item => item.id !== story.id && byMonth(item) === byMonth(story)).slice(0, 3);
+  const selected = (topicLinks[story.id] || []).map(id => chronological.find(item => item.id === id)).filter(Boolean);
+  const fallback = chronological.filter(item => item.id !== story.id && byMonth(item) === byMonth(story) && !selected.some(linked => linked.id === item.id));
+  const related = [...selected, ...fallback].slice(0, 3);
   return `<nav class="related-stories" aria-label="More Blappos stories"><h2>More stories from ${escapeHtml(new Date(`${isoDate(story)}T12:00:00Z`).toLocaleString('en-US', { month: 'long', timeZone: 'UTC' }))}</h2><ul>${related.map(item => `<li><a href="../${encodeURIComponent(item.id)}/">${escapeHtml(item.title)}</a></li>`).join('')}</ul><a href="../../#archive">Browse the full archive →</a></nav>`;
 }
 

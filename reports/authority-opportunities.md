@@ -1,8 +1,34 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-20
+Updated: 2026-10-21
 Status: research log only; no outreach sent.
-Publication check: the October 19 edition is live with all three exact Printify products and permanent pages verified; outreach remains unsent.
+Publication check: the October 20 evidence-owner matrix and three source-led entries are staged behind the Printify publication gate; outreach remains unsent.
+
+## October 20, 2026 — qualified opportunities (not contacted)
+
+### Electric Plant research team — corpus and validation boundary
+
+- Target: Electric Plant research and communications team
+- Route: https://www.electricplant.co/ (the site's Connect section links its contact route)
+- Matching Blappos asset: https://blappos.com/verification/#oct20-plant-help-desk
+- Honest pitch angle: A citation-ready evidence entry that preserves the difference between the FAQ's more-than-125-species coverage statement and the preprint's 100-species pretraining corpus, while labeling performance and water-saving figures as company claims pending independent field validation.
+- Qualification: Electric Plant owns the model, FAQ and preprint and can correct methods, corpus definitions or product language. Any optional note should invite a factual correction to the noncommercial ledger only; it must not imply endorsement of the joke, artwork, affiliate products or magnet.
+
+### Guinness World Records press team — exact fiberglass category
+
+- Target: Guinness World Records press office
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct20-cowboy-hat-bar
+- Honest pitch angle: A public record-category explainer that gives the certified dimensions and retains the exact title “largest fiberglass sculpture of a hat,” rather than broadening it to the largest wearable or universal hat.
+- Qualification: Guinness owns the certification wording and is the authoritative correction route for the category or adjudication status. Any optional contact should request a factual correction only, never ask for a backlink or imply approval of the illustration, affiliate cards or physical magnet.
+
+### Chicago Department of Aviation Media Relations — incident and identification update
+
+- Target: Chicago Department of Aviation Media Relations for O'Hare and Midway
+- Route: https://www.flychicago.com/business/media/pages/default.aspx (CDAMedia@cityofchicago.org)
+- Matching Blappos asset: https://blappos.com/verification/#oct20-ohare-green-bird
+- Honest pitch angle: A two-clock incident entry that distinguishes the October 13 encounter from October 20 publication and keeps “large green bird” separate from an unverified species identification.
+- Qualification: CDA operates O'Hare and is the legitimate route for correcting terminal, response or official follow-up details. Any optional note should seek only a factual update or receiving-animal-care referral; it must not request private passenger information, promotion or endorsement of merchandise.
 
 ## October 19, 2026 — qualified opportunities (not contacted)
 
