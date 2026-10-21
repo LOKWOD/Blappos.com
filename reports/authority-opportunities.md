@@ -2,7 +2,7 @@
 
 Updated: 2026-10-21
 Status: research log only; no outreach sent.
-Publication check: the October 20 evidence-owner matrix and three source-led entries are staged behind the Printify publication gate; outreach remains unsent.
+Publication check: the October 20 edition is live with all three exact Printify products and permanent pages verified; outreach remains unsent.
 
 ## October 20, 2026 — qualified opportunities (not contacted)
 
