@@ -3115,7 +3115,7 @@ const oct20StagingStories = [
     "date": "Oct 20, 2026",
     "place": "Austin, Texas",
     "image": "assets/cards/2026-10-20-cowboy-hat-bar.webp",
-    "title": "Texas Builds a 47-Foot Hat With a Bar Under It",
+    "title": "Texas Builds a 47-Foot Hat With a Bar Under It","magnetUrl":"https://blappos.printify.me/product/33377588","magnetPrice":"$9.99",
     "facts": "UPI reported on October 20 that Circuit of the Americas and Tecovas unveiled a cowboy-hat sculpture measuring 43 feet wide, 47 feet long and 17 feet tall ahead of the Formula 1 United States Grand Prix. A Guinness World Records adjudicator certified it as the largest fiberglass sculpture of a hat. The steel-framed, foam-and-fiberglass structure contains a bar beneath its brim and is intended to remain at the circuit.",
     "why": "The exact record category is the useful fact: this is the largest fiberglass sculpture of a hat, not the largest wearable hat and not proof that any human could use it as clothing. The installation is also more than an oversized prop. It combines engineered load-bearing structure, a functioning hospitality space and permanent destination branding at a major motorsport venue.",
     "angle": "Verified dimensions, construction and certification end above. The Blappos interpretation: Texas has built a dress code with its own ZIP code and put refreshments under the brim. The magnet's visitors, bar and racing scene are invented; it carries no venue, sponsor, Formula 1 or Guinness marks and does not reproduce the real installation photograph.",
