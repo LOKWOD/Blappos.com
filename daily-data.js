@@ -3137,7 +3137,7 @@ const oct20StagingStories = [
     "date": "Oct 20, 2026",
     "place": "Chicago, Illinois",
     "image": "assets/cards/2026-10-20-ohare-green-bird.webp",
-    "title": "O'Hare's Green Bird Chooses Fight, Not Flight",
+    "title": "O'Hare's Green Bird Chooses Fight, Not Flight","magnetUrl":"https://blappos.printify.me/product/33377591","magnetPrice":"$9.99",
     "facts": "UPI reported on October 20 that video from Chicago O'Hare's Terminal 5 showed a large green bird swooping near travelers, landing on people and luggage and trying to bite. The encounter happened on October 13, so the incident clock and publication clock are different. A worker eventually caught the bird with a cloth and it was taken for veterinary care. Reports called it a parrot, but no source available at publication supplied a confirmed species identification.",
     "why": "An animal loose inside a crowded terminal creates risk for the animal and for travelers who may react unpredictably. The humane resolution came from containing it rather than escalating the commotion. Keeping the species uncertain is also basic sourcing discipline: a vivid color, a hooked bill and an eyewitness label can support a useful description without becoming a taxonomic identification.",
     "angle": "Verified video reporting, the two clocks and the species boundary end above. The Blappos interpretation: Terminal 5 has added a very personal bag check, administered by a passenger with no boarding group. The magnet's bird, handbag, travelers and terminal are invented; it does not identify the real animal, copy the video or show an approved capture method.",
