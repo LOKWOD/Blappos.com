@@ -3155,4 +3155,4 @@ const oct20StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct20StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct20StagingStories);
-// October 20 publication gate pending: no story is public until all three exact Printify products are linked.
+// October 20 publication gate passed: all three exact Printify products are linked; build permanent pages before social delivery.
