@@ -3157,9 +3157,8 @@ window.dailyStories = window.dailyStories.filter(story => !oct20StagingStories.s
 window.dailyStories.unshift(...oct20StagingStories);
 // October 20 publication and permanent-page gates passed: exact products, artwork links and BUY CTAs are live; release social delivery.
 
-// October 21 staging edition. These complete editorial objects are intentionally
-// excluded from every public surface until the Printify workflow publishes and
-// writes the exact physical-product URL and price for all three magnets.
+// October 21 edition. Every story entered the public collection only after the
+// Printify workflow published and linked its exact physical product and price.
 const oct21StagingStories = [
   {
     "id": "oct21-space-object",
@@ -3230,3 +3229,4 @@ const oct21StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct21StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct21StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 21 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.

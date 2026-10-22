@@ -2,7 +2,7 @@
 
 Updated: 2026-10-22
 Status: research log only; no outreach sent.
-Publication check: the October 21 edition is staged behind the exact-product publication gate; outreach remains unsent until the permanent pages are live.
+Publication check: the October 21 edition has all three exact Printify products linked and its permanent pages generated; outreach remains unsent.
 
 ## October 21, 2026 — qualified opportunities (not contacted)
 
