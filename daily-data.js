@@ -3168,7 +3168,7 @@ const oct21StagingStories = [
     "date": "Oct 21, 2026",
     "place": "Scott Township, Minnesota",
     "image": "assets/cards/2026-10-21-space-object.webp",
-    "title": "Minnesota Finds an 11-Foot Object With No Return Address",
+    "title": "Minnesota Finds an 11-Foot Object With No Return Address","magnetUrl":"https://blappos.printify.me/product/33413603","magnetPrice":"$9.99",
     "facts": "UPI reported on October 21 that the Stevens County Sheriff’s Office was investigating a roughly 11-foot-diameter metallic object found October 14 in a Scott Township cornfield. The sheriff described it as ‘presumably a space object.’ It was removed the next day and federal agencies were investigating its origin, but the reporting did not identify those agencies or establish what the object was.",
     "why": "The uncertainty is the important part of the story. Size, material and location can justify securing and examining an unfamiliar object, but they cannot identify its owner, launch, orbit or even prove that it came from space. Keeping October 14 as the discovery clock, October 15 as the removal clock and October 21 as the publication clock prevents a fresh headline from becoming a fresh impact—and preserves the investigation’s actual status.",
     "angle": "Verified reporting and the unknown-origin boundary end above. The Blappos interpretation: the cornfield accepted delivery, but the tracking number is above everyone’s clearance. The magnet’s circular object, farm, observers and orbit line are original editorial illustration—not a photograph, spacecraft identification, agency reconstruction or claim that federal investigators have confirmed space debris.",
