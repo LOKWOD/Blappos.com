@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct21-space-object': 'oct21-space-object',
+    'oct21-696-car-train': 'oct21-696-car-train',
+    'oct21-crocs-warm-climates': 'oct21-crocs-warm-climates',
     'oct20-plant-help-desk': 'oct20-plant-help-desk',
     'oct20-cowboy-hat-bar': 'oct20-cowboy-hat-bar',
     'oct20-ohare-green-bird': 'oct20-ohare-green-bird',
@@ -193,12 +196,21 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'oct21-space-object': ['sep28-starship-orbit', 'oct13-perseverance-distance-record', 'oct8-sewer-ring'],
+  'sep28-starship-orbit': ['oct21-space-object'],
+  'oct13-perseverance-distance-record': ['oct21-space-object'],
+  'oct8-sewer-ring': ['oct21-space-object'],
+  'oct21-696-car-train': ['oct19-cube-robot', 'sep18-air-traffic-glitch'],
+  'sep18-air-traffic-glitch': ['oct21-696-car-train'],
+  'oct21-crocs-warm-climates': ['sep11-prince-william-croc', 'oct8-water-mammal'],
+  'sep11-prince-william-croc': ['oct21-crocs-warm-climates'],
+  'oct8-water-mammal': ['oct21-crocs-warm-climates'],
   'oct20-plant-help-desk': ['jun-bacteria', 'oct7-mirror-molecules'],
   'jun-bacteria': ['oct20-plant-help-desk'],
   'oct7-mirror-molecules': ['oct20-plant-help-desk'],
   'oct20-cowboy-hat-bar': ['oct12-zeekr-25cm-drift', 'oct19-cube-robot'],
   'oct12-zeekr-25cm-drift': ['oct20-cowboy-hat-bar'],
-  'oct19-cube-robot': ['oct20-cowboy-hat-bar'],
+  'oct19-cube-robot': ['oct21-696-car-train', 'oct20-cowboy-hat-bar'],
   'oct20-ohare-green-bird': ['oct13-cat-burglar-dog-bowl', 'oct17-nightjar-mileage'],
   'oct13-cat-burglar-dog-bowl': ['oct20-ohare-green-bird'],
   'oct17-nightjar-mileage': ['oct20-ohare-green-bird']

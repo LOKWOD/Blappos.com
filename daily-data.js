@@ -3156,3 +3156,77 @@ const oct20StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !oct20StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct20StagingStories);
 // October 20 publication and permanent-page gates passed: exact products, artwork links and BUY CTAs are live; release social delivery.
+
+// October 21 staging edition. These complete editorial objects are intentionally
+// excluded from every public surface until the Printify workflow publishes and
+// writes the exact physical-product URL and price for all three magnets.
+const oct21StagingStories = [
+  {
+    "id": "oct21-space-object",
+    "isoDate": "2026-10-21",
+    "month": "October",
+    "date": "Oct 21, 2026",
+    "place": "Scott Township, Minnesota",
+    "image": "assets/cards/2026-10-21-space-object.webp",
+    "title": "Minnesota Finds an 11-Foot Object With No Return Address",
+    "facts": "UPI reported on October 21 that the Stevens County Sheriff’s Office was investigating a roughly 11-foot-diameter metallic object found October 14 in a Scott Township cornfield. The sheriff described it as ‘presumably a space object.’ It was removed the next day and federal agencies were investigating its origin, but the reporting did not identify those agencies or establish what the object was.",
+    "why": "The uncertainty is the important part of the story. Size, material and location can justify securing and examining an unfamiliar object, but they cannot identify its owner, launch, orbit or even prove that it came from space. Keeping October 14 as the discovery clock, October 15 as the removal clock and October 21 as the publication clock prevents a fresh headline from becoming a fresh impact—and preserves the investigation’s actual status.",
+    "angle": "Verified reporting and the unknown-origin boundary end above. The Blappos interpretation: the cornfield accepted delivery, but the tracking number is above everyone’s clearance. The magnet’s circular object, farm, observers and orbit line are original editorial illustration—not a photograph, spacecraft identification, agency reconstruction or claim that federal investigators have confirmed space debris.",
+    "amazonLinks": [
+      {"title":"Space Junk: The Dangers of Polluting Earth’s Orbit","image":"https://m.media-amazon.com/images/P/1467756008.01.LZZZZZZZ.jpg","alt":"Cover of Space Junk by Karen Romano Young","quip":"A clear, illustrated guide to orbital debris for readers who want the real category before assigning this object a flight number.","salesPriority":5,"url":"https://www.amazon.com/dp/1467756008?tag=blappos-20"},
+      {"title":"Orbital Debris: A Technical Assessment","image":"https://m.media-amazon.com/images/P/0309051258.01.LZZZZZZZ.jpg","alt":"Cover of Orbital Debris: A Technical Assessment","quip":"The National Academies technical reference for understanding what space debris is, how it is tracked and why identification requires evidence.","salesPriority":5,"url":"https://www.amazon.com/dp/0309051258?tag=blappos-20"},
+      {"title":"How to Astronaut","image":"https://m.media-amazon.com/images/P/1523506485.01.LZZZZZZZ.jpg","alt":"Cover of How to Astronaut by Terry Virts","quip":"A former astronaut’s practical tour of hardware and life off Earth—useful context while the Minnesota hardware keeps its résumé private.","salesPriority":4,"url":"https://www.amazon.com/dp/1523506485?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/21/space-debris-stevens-county-minnesota/1601792604854/",
+    "sourceName": "Read UPI’s October 21 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that officials removed a roughly 11-foot metallic object from a Minnesota cornfield; its origin remains under federal investigation.",
+    "socialPunchline": "Blappos: The cornfield accepted delivery, but orbit left no return address."
+  },
+  {
+    "id": "oct21-696-car-train",
+    "isoDate": "2026-10-21",
+    "month": "October",
+    "date": "Oct 21, 2026",
+    "place": "Sishen–Saldanha line, South Africa",
+    "image": "assets/cards/2026-10-21-696-car-train.webp",
+    "title": "South Africa Couples 696 Empty Cars to One Pending Record",
+    "facts": "UPI reported on October 21 that Transnet Freight Rail ran a 696-wagon train measuring about 7.6 kilometers, or 4.7 miles, on South Africa’s Sishen–Saldanha iron-ore export line. The October 18 trial used empty CR13/14 wagons and distributed electric and diesel-electric locomotives. Transnet presented it as a longest-freight-train record attempt; Guinness review remained pending.",
+    "why": "An exceptionally long train is a systems test, not just 696 instances of ‘add wagon.’ Distributed power helps manage acceleration, braking and the forces traveling through couplers across changing grades. The run can yield useful handling and infrastructure data, but an empty test does not by itself prove the capacity, economics or repeatability of an equivalent loaded service. Certification and operational significance therefore have separate evidence clocks.",
+    "angle": "Verified dimensions, empty-wagon status and pending certification end above. The Blappos interpretation: the locomotive left 4.7 miles before the last wagon finished joining the story. The magnet’s landscape, worker, locomotives and long curve are original editorial illustration—not a route photograph, operator livery, Guinness mark or claim that the attempt has been certified.",
+    "amazonLinks": [
+      {"title":"Train: The Definitive Visual History","image":"https://m.media-amazon.com/images/P/1465422293.01.LZZZZZZZ.jpg","alt":"Cover of Train: The Definitive Visual History by DK","quip":"A richly illustrated rail history for putting one 7.6-kilometer test inside two centuries of very long engineering decisions.","salesPriority":5,"url":"https://www.amazon.com/dp/1465422293?tag=blappos-20"},
+      {"title":"The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger","image":"https://m.media-amazon.com/images/P/0691136408.01.LZZZZZZZ.jpg","alt":"Cover of The Box by Marc Levinson","quip":"The freight-logistics classic for understanding why moving a lot of empty hardware can still produce valuable system knowledge.","salesPriority":5,"url":"https://www.amazon.com/dp/0691136408?tag=blappos-20"},
+      {"title":"Freight Train","image":"https://m.media-amazon.com/images/P/068880165X.01.LZZZZZZZ.jpg","alt":"Cover of Freight Train by Donald Crews","quip":"Donald Crews’ Caldecott Honor classic, now conveniently short enough to finish before the final wagon passes.","salesPriority":4,"url":"https://www.amazon.com/dp/068880165X?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/21/safrica-Guinjness-World-Records-longest-freight-train/7221792598259/",
+    "sourceName": "Read UPI’s October 21 report and the Transnet trial details",
+    "sourcePublisher": "UPI / Transnet Freight Rail",
+    "socialSummary": "UPI reported that Transnet ran a 696-empty-wagon, 4.7-mile trial train on October 18; Guinness certification remains pending.",
+    "socialPunchline": "Blappos: The cab left 4.7 miles ago."
+  },
+  {
+    "id": "oct21-crocs-warm-climates",
+    "isoDate": "2026-10-21",
+    "month": "October",
+    "date": "Oct 21, 2026",
+    "place": "Tropical and subtropical Earth",
+    "image": "assets/cards/2026-10-21-crocs-warm-climates.webp",
+    "title": "Crocodile Lineages Spend 240 Million Years Avoiding Sweater Weather",
+    "facts": "Reuters reported on October 21 that researchers analyzed an evolutionary tree of more than 400 extinct and living crocodile-line archosaurs, more than 7,000 fossil and modern geographic records and 52 global palaeoclimate reconstructions. The Science Advances study found that the lineage, which arose more than 240 million years ago, largely tracked suitable warm climates—expanding poleward during warmer intervals and retreating toward the equator as climates cooled.",
+    "why": "That pattern is climatic niche conservatism: lineages follow familiar conditions geographically more than they repeatedly evolve broad new thermal tolerances. The models also suggest tropical and subtropical refuges remained suitable through most tested aftermaths of the end-Cretaceous impact. That makes climate one contributor to survivorship, not a solo explanation; lower metabolic demand, dormancy, ecology, geography and the severity of each extinction still matter.",
+    "angle": "Verified research, model scope and multi-cause boundary end above. The Blappos interpretation: evolution’s longest out-of-office reply says the team is unavailable anywhere requiring a winter coat. The magnet’s two animals, tropical refuge, meteor streak and climate contours are original scientific satire—not a copied fossil reconstruction, a map of one event or a claim that any individual crocodilian lived for 240 million years.",
+    "amazonLinks": [
+      {"title":"Crocodile: Evolution’s Greatest Survivor","image":"https://m.media-amazon.com/images/P/1741144981.01.LZZZZZZZ.jpg","alt":"Cover of Crocodile: Evolution’s Greatest Survivor by Lynne Kelly","quip":"A full natural and evolutionary history of the animal family that turned thermal conservatism into an extremely long tenure.","salesPriority":5,"url":"https://www.amazon.com/dp/1741144981?tag=blappos-20"},
+      {"title":"The Rise and Fall of the Dinosaurs","image":"https://m.media-amazon.com/images/P/0062490435.01.LZZZZZZZ.jpg","alt":"Cover of The Rise and Fall of the Dinosaurs by Steve Brusatte","quip":"Deep-time context for the crocodile-line relatives, dinosaurs and mass extinctions sharing this 240-million-year calendar.","salesPriority":5,"url":"https://www.amazon.com/dp/0062490435?tag=blappos-20"},
+      {"title":"The Ends of the World","image":"https://m.media-amazon.com/images/P/0062364812.01.LZZZZZZZ.jpg","alt":"Cover of The Ends of the World by Peter Brannen","quip":"A readable tour of Earth’s mass extinctions for understanding why ‘survived’ is always a climate, geography and ecology story.","salesPriority":4,"url":"https://www.amazon.com/dp/0062364812?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/an-affinity-warm-climes-has-helped-crocs-thrive-eons-2026-10-21/",
+    "sourceName": "Read Reuters’ October 21 report and the linked Science Advances paper",
+    "sourcePublisher": "Reuters / Science Advances",
+    "socialSummary": "A study of more than 400 crocodile-line species found the lineage largely followed warm habitats as climates shifted over 240 million years.",
+    "socialPunchline": "Blappos: Evolution’s longest out-of-office reply says no winter coat."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct21StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct21StagingStories.filter(story => story.magnetUrl && story.magnetPrice));

@@ -1,8 +1,34 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-21
+Updated: 2026-10-22
 Status: research log only; no outreach sent.
-Publication check: the October 20 edition is live with all three exact Printify products and permanent pages verified; outreach remains unsent.
+Publication check: the October 21 edition is staged behind the exact-product publication gate; outreach remains unsent until the permanent pages are live.
+
+## October 21, 2026 — qualified opportunities (not contacted)
+
+### Stevens County Sheriff’s Office — unknown-object status and chronology
+
+- Target: Stevens County, Minnesota Sheriff’s Office public-information staff
+- Route: https://www.stevenscountymn.gov/868/Sheriff
+- Matching Blappos asset: https://blappos.com/verification/#oct21-space-object
+- Honest pitch angle: A compact, date-separated source entry that preserves the sheriff’s preliminary “presumably a space object” wording, distinguishes the October 14 discovery from October 15 removal and October 21 publication, and refuses to identify an owner or origin before the investigation does.
+- Qualification: The sheriff’s office supplied the underlying public account and is the closest correction route for location, dimensions, chronology and any named federal handoff. Any optional contact should request a factual update only; it must not seek sensitive investigative details, claim NASA involvement, ask for a backlink or imply agency endorsement of the satire, affiliate products or magnet.
+
+### Transnet Freight Rail media desk — attempt-versus-operation explainer
+
+- Target: Transnet Freight Rail media and Train Design Technology teams
+- Route: https://www.transnetfreightrail-tfr.net/MediaSafety/Pages/Publications.aspx (TFRmedia@transnet.net; Transnet media desk: mediadesk@transnet.net)
+- Matching Blappos asset: https://blappos.com/verification/#oct21-696-car-train
+- Honest pitch angle: A public matrix that records the 696 empty wagons, 7.6-kilometer length and distributed-power purpose while keeping pending Guinness certification and loaded production capacity as separate questions.
+- Qualification: Transnet operated the trial and owns the closest engineering data. Any optional note should invite correction of train design, equipment, route or certification status to the noncommercial ledger only; it must not imply Transnet or Guinness approval of the joke, artwork, affiliate cards or physical magnet.
+
+### UCL vertebrate-palaeontology researchers — climate-model scope review
+
+- Target: UCL Earth Sciences vertebrate palaeontology group and UCL Media Relations
+- Route: https://www.ucl.ac.uk/news/contact-us/services-media/contact-ucls-media-relations-team (author publication profile: https://profiles.ucl.ac.uk/25923-philip-mannion/publications)
+- Matching Blappos asset: https://blappos.com/verification/#oct21-crocs-warm-climates
+- Honest pitch angle: A citation-ready plain-language digest that connects the 400-plus-species tree, 7,000-plus records and 52 climate reconstructions to climatic niche conservatism while distinguishing modeled refuges from a single-cause account of crocodile-line survivorship.
+- Qualification: The named UCL researchers authored the peer-reviewed analysis and can correct its methods, scale or extinction-survivorship interpretation. Any optional note should invite a scientific correction or share the noncommercial matrix; it must never imply author endorsement of the satire, illustration, affiliate products or magnet.
 
 ## October 20, 2026 — qualified opportunities (not contacted)
 
