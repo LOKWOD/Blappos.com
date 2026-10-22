@@ -3190,7 +3190,7 @@ const oct21StagingStories = [
     "date": "Oct 21, 2026",
     "place": "Sishen–Saldanha line, South Africa",
     "image": "assets/cards/2026-10-21-696-car-train.webp",
-    "title": "South Africa Couples 696 Empty Cars to One Pending Record",
+    "title": "South Africa Couples 696 Empty Cars to One Pending Record","magnetUrl":"https://blappos.printify.me/product/33413607","magnetPrice":"$9.99",
     "facts": "UPI reported on October 21 that Transnet Freight Rail ran a 696-wagon train measuring about 7.6 kilometers, or 4.7 miles, on South Africa’s Sishen–Saldanha iron-ore export line. The October 18 trial used empty CR13/14 wagons and distributed electric and diesel-electric locomotives. Transnet presented it as a longest-freight-train record attempt; Guinness review remained pending.",
     "why": "An exceptionally long train is a systems test, not just 696 instances of ‘add wagon.’ Distributed power helps manage acceleration, braking and the forces traveling through couplers across changing grades. The run can yield useful handling and infrastructure data, but an empty test does not by itself prove the capacity, economics or repeatability of an equivalent loaded service. Certification and operational significance therefore have separate evidence clocks.",
     "angle": "Verified dimensions, empty-wagon status and pending certification end above. The Blappos interpretation: the locomotive left 4.7 miles before the last wagon finished joining the story. The magnet’s landscape, worker, locomotives and long curve are original editorial illustration—not a route photograph, operator livery, Guinness mark or claim that the attempt has been certified.",
