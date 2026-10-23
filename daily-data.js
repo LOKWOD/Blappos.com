@@ -3242,7 +3242,7 @@ const oct22StagingStories = [
     "date": "Oct 22, 2026",
     "place": "Nikumaroro, Kiribati",
     "image": "assets/cards/2026-10-22-earhart-driftwood.webp",
-    "title": "Amelia Earhart Plane Search Finds Its ‘Plane’ Was Trees",
+    "title": "Amelia Earhart Plane Search Finds Its ‘Plane’ Was Trees","magnetUrl":"https://blappos.printify.me/product/33452592","magnetPrice":"$9.99",
     "facts": "Smithsonian Magazine reported on October 22 that a 17-person expedition had tested whether the Taraia Object—a visual anomaly first noticed in 2020 satellite imagery near Nikumaroro—might be wreckage from Amelia Earhart’s Lockheed Electra. Purdue’s October 18 release says the team found no conclusive plane evidence: the shape was most likely a collection of large trees deposited on the sandspit, and the surviving Y-shaped fragment looked reflective because it carried a carbonate veneer.",
     "why": "Remote imagery can generate a testable hypothesis, but it cannot finish an identification. The expedition used field observation, a magnetometer and side-scan sonar to ground-truth a visually persuasive clue, then published a null result instead of promoting the desired answer. That distinction matters far beyond this mystery: a blurry shape is evidence worth checking, not permission to name the object.",
     "angle": "Verified reporting and Purdue’s field conclusion end above. The Blappos interpretation: the satellite found a plane-shaped tree and the expedition found the receipt. The magnet’s researchers, driftwood, clipboard, metal detector and airplane-shaped cloud are original editorial illustration—not the real team, a site photograph, recovered wreckage or proof for any broader theory about Earhart and Fred Noonan.",
