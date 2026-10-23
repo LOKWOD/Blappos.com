@@ -3264,7 +3264,7 @@ const oct22StagingStories = [
     "date": "Oct 22, 2026",
     "place": "Busan, South Korea",
     "image": "assets/cards/2026-10-22-busan-shark-return.webp",
-    "title": "Busan Guides a Shark to Sea. The Shark Files for Reentry",
+    "title": "Busan Guides a Shark to Sea. The Shark Files for Reentry","magnetUrl":"https://blappos.printify.me/product/33452594","magnetPrice":"$9.99",
     "facts": "The Associated Press reported on October 22 that Busan workers guided a 3-meter female dusky shark nicknamed Bukangi out of a North Port canal during a third rescue attempt—then watched her swim beneath an outer barrier and return hours later. First spotted in mid-September, the endangered shark had drawn more than 1.7 million visitors. Officials said she was then circling between two nets while rescuers considered the next move.",
     "why": "This was not a mascot stunt. Officials cited the animal’s safety, the lack of signs that she had been feeding regularly and falling water temperature. Marine scientists had no confirmed explanation for her preference, although port noise, lights, equipment and the canal’s relative quiet were possible influences. The failed exit shows why moving a large wild animal is a behavioral and welfare problem, not simply a matter of pointing toward open water.",
     "angle": "Verified rescue status, welfare concerns and uncertainty end above. The Blappos interpretation: Busan built an exit and Bukangi exercised the canal’s return policy. The magnet’s shark, workers, net, platform and skyline are original editorial illustration—not the real rescue scene, a handling guide or an invitation to approach or disturb the animal.",
