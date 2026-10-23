@@ -3231,3 +3231,76 @@ window.dailyStories = window.dailyStories.filter(story => !oct21StagingStories.s
 window.dailyStories.unshift(...oct21StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 21 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
 // October 21 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
+
+// October 22 edition. These stories remain absent from the public collection until
+// the Printify workflow publishes and links each exact physical magnet and price.
+const oct22StagingStories = [
+  {
+    "id": "oct22-earhart-driftwood",
+    "isoDate": "2026-10-22",
+    "month": "October",
+    "date": "Oct 22, 2026",
+    "place": "Nikumaroro, Kiribati",
+    "image": "assets/cards/2026-10-22-earhart-driftwood.webp",
+    "title": "Amelia Earhart Plane Search Finds Its ‘Plane’ Was Trees",
+    "facts": "Smithsonian Magazine reported on October 22 that a 17-person expedition had tested whether the Taraia Object—a visual anomaly first noticed in 2020 satellite imagery near Nikumaroro—might be wreckage from Amelia Earhart’s Lockheed Electra. Purdue’s October 18 release says the team found no conclusive plane evidence: the shape was most likely a collection of large trees deposited on the sandspit, and the surviving Y-shaped fragment looked reflective because it carried a carbonate veneer.",
+    "why": "Remote imagery can generate a testable hypothesis, but it cannot finish an identification. The expedition used field observation, a magnetometer and side-scan sonar to ground-truth a visually persuasive clue, then published a null result instead of promoting the desired answer. That distinction matters far beyond this mystery: a blurry shape is evidence worth checking, not permission to name the object.",
+    "angle": "Verified reporting and Purdue’s field conclusion end above. The Blappos interpretation: the satellite found a plane-shaped tree and the expedition found the receipt. The magnet’s researchers, driftwood, clipboard, metal detector and airplane-shaped cloud are original editorial illustration—not the real team, a site photograph, recovered wreckage or proof for any broader theory about Earhart and Fred Noonan.",
+    "amazonLinks": [
+      {"title":"Lost: Amelia Earhart’s Three Mysterious Deaths and One Extraordinary Life","image":"https://m.media-amazon.com/images/P/1426222548.01.LZZZZZZZ.jpg","alt":"Cover of Lost: Amelia Earhart’s Three Mysterious Deaths and One Extraordinary Life","quip":"A current National Geographic biography that separates Earhart’s documented life from the competing endings attached to it.","salesPriority":5,"url":"https://www.amazon.com/dp/1426222548?tag=blappos-20"},
+      {"title":"Archaeology from Space","image":"https://m.media-amazon.com/images/P/1250231345.01.LZZZZZZZ.jpg","alt":"Cover of Archaeology from Space by Sarah Parcak","quip":"The ideal primer on turning satellite patterns into hypotheses—and then doing the inconvenient fieldwork.","salesPriority":5,"url":"https://www.amazon.com/dp/1250231345?tag=blappos-20"},
+      {"title":"East to the Dawn: The Life of Amelia Earhart","image":"https://m.media-amazon.com/images/P/030681837X.01.LZZZZZZZ.jpg","alt":"Cover of East to the Dawn by Susan Butler","quip":"A deeply researched life of the aviator behind the mystery, for readers ready to put the person before the blurry object.","salesPriority":4,"url":"https://www.amazon.com/dp/030681837X?tag=blappos-20"}
+    ],
+    "source": "https://www.smithsonianmag.com/smart-news/researchers-claimed-a-blurry-object-on-apple-maps-was-very-likely-amelia-earharts-missing-plane-it-turned-out-to-be-a-collection-of-large-trees-180989734/",
+    "sourceName": "Read Smithsonian Magazine’s October 22 report and Purdue’s field result",
+    "sourcePublisher": "Smithsonian Magazine / Purdue University",
+    "socialSummary": "Smithsonian Magazine reported October 22 that a 17-person expedition checked the Taraia Object near Nikumaroro and found it was most likely washed-up trees, not Amelia Earhart’s Electra.",
+    "socialPunchline": "Blappos: The satellite found a plane-shaped tree and the expedition found the receipt."
+  },
+  {
+    "id": "oct22-busan-shark-return",
+    "isoDate": "2026-10-22",
+    "month": "October",
+    "date": "Oct 22, 2026",
+    "place": "Busan, South Korea",
+    "image": "assets/cards/2026-10-22-busan-shark-return.webp",
+    "title": "Busan Guides a Shark to Sea. The Shark Files for Reentry",
+    "facts": "The Associated Press reported on October 22 that Busan workers guided a 3-meter female dusky shark nicknamed Bukangi out of a North Port canal during a third rescue attempt—then watched her swim beneath an outer barrier and return hours later. First spotted in mid-September, the endangered shark had drawn more than 1.7 million visitors. Officials said she was then circling between two nets while rescuers considered the next move.",
+    "why": "This was not a mascot stunt. Officials cited the animal’s safety, the lack of signs that she had been feeding regularly and falling water temperature. Marine scientists had no confirmed explanation for her preference, although port noise, lights, equipment and the canal’s relative quiet were possible influences. The failed exit shows why moving a large wild animal is a behavioral and welfare problem, not simply a matter of pointing toward open water.",
+    "angle": "Verified rescue status, welfare concerns and uncertainty end above. The Blappos interpretation: Busan built an exit and Bukangi exercised the canal’s return policy. The magnet’s shark, workers, net, platform and skyline are original editorial illustration—not the real rescue scene, a handling guide or an invitation to approach or disturb the animal.",
+    "amazonLinks": [
+      {"title":"Sharks of the World","image":"https://m.media-amazon.com/images/P/0691120722.01.LZZZZZZZ.jpg","alt":"Cover of Sharks of the World from Princeton Field Guides","quip":"A global identification guide for telling a dusky shark from every other fin with a publicity department.","salesPriority":5,"url":"https://www.amazon.com/dp/0691120722?tag=blappos-20"},
+      {"title":"The Secret Life of Sharks","image":"https://m.media-amazon.com/images/P/1416578331.01.LZZZZZZZ.jpg","alt":"Cover of The Secret Life of Sharks by A. Peter Klimley","quip":"Behavioral science for understanding why a shark’s route choice may be more complicated than the nearest exit sign.","salesPriority":5,"url":"https://www.amazon.com/dp/1416578331?tag=blappos-20"},
+      {"title":"The Lives of Sharks","image":"https://m.media-amazon.com/images/P/0691244316.01.LZZZZZZZ.jpg","alt":"Cover of The Lives of Sharks by Daniel Abel and R. Dean Grubbs","quip":"A modern natural history of shark ecology, conservation and movement—useful context for one endangered canal celebrity.","salesPriority":4,"url":"https://www.amazon.com/dp/0691244316?tag=blappos-20"}
+    ],
+    "source": "https://apnews.com/article/south-korea-shark-bukangi-busan-canal-c1aee6f075f51ffd1cb32cbe26f55bb7",
+    "sourceName": "Read the Associated Press report from October 22",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "The Associated Press reported that a 3-meter endangered dusky shark was guided out of a Busan canal on October 21, then slipped beneath a barrier and returned hours later as officials planned another safe exit.",
+    "socialPunchline": "Blappos: The canal has a return policy."
+  },
+  {
+    "id": "oct22-chameleon-tree-rescue",
+    "isoDate": "2026-10-22",
+    "month": "October",
+    "date": "Oct 22, 2026",
+    "place": "Forsyth County, Georgia",
+    "image": "assets/cards/2026-10-22-chameleon-tree-rescue.webp",
+    "title": "Georgia Firefighters Upgrade ‘Cat in a Tree’ to Chameleon",
+    "facts": "UPI reported on October 22 that Forsyth County firefighters answered an unusual animal call after a pet chameleon climbed high into a tree. The department said Station 14/C brought the animal safely down and joked that crews had moved on from cats in trees. Local coverage dates the rescue photo to October 12, so the incident clock and the national publication clock are not the same.",
+    "why": "A chameleon is an expert climber, a poor candidate for an improvised grab and a pet whose heat, hydration and stress needs differ from a cat’s. The useful takeaway is not that every wandering reptile requires a fire engine; it is that a high, unsafe retrieval belongs with trained responders and that exotic-pet containment should be designed around the animal’s actual abilities.",
+    "angle": "Verified department account, safe outcome and two-clock boundary end above. The Blappos interpretation: cats were apparently too easy to see. The magnet’s firefighters, ladder, carrier, engine and vivid chameleon are original editorial illustration—not the real crew, department apparatus, a species identification or a do-it-yourself rescue method.",
+    "amazonLinks": [
+      {"title":"The Chameleon Handbook","image":"https://m.media-amazon.com/images/P/0764141422.01.LZZZZZZZ.jpg","alt":"Cover of The Chameleon Handbook","quip":"Practical husbandry context for the pet whose preferred containment boundary turned out to be ‘somewhere above the ladder.’","salesPriority":5,"url":"https://www.amazon.com/dp/0764141422?tag=blappos-20"},
+      {"title":"Chameleons: Care and Breeding of Jackson’s, Panther, Veiled, and Parson’s","image":"https://m.media-amazon.com/images/P/1882770951.01.LZZZZZZZ.jpg","alt":"Cover of Chameleons: Care and Breeding of Jackson’s, Panther, Veiled, and Parson’s","quip":"Species-specific habitat and care guidance for preventing the sequel before the next branch office opens.","salesPriority":5,"url":"https://www.amazon.com/dp/1882770951?tag=blappos-20"},
+      {"title":"Exotic Animal Emergency and Critical Care Medicine","image":"https://m.media-amazon.com/images/P/1119149231.01.LZZZZZZZ.jpg","alt":"Cover of Exotic Animal Emergency and Critical Care Medicine","quip":"The professional reference behind a basic rule: unusual animals deserve species-aware handling, not confident improvisation.","salesPriority":4,"url":"https://www.amazon.com/dp/1119149231?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/22/chameleon-tree-forsyth-county-georgia/2111792688158/",
+    "sourceName": "Read UPI’s October 22 report and the fire department account",
+    "sourcePublisher": "UPI / Forsyth County Fire Department",
+    "socialSummary": "UPI reported October 22 that Forsyth County firefighters safely brought a pet chameleon down after it climbed high into a tree; local coverage dates the rescue photo to October 12.",
+    "socialPunchline": "Blappos: Cats were too easy to see."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct22StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct22StagingStories.filter(story => story.magnetUrl && story.magnetPrice));

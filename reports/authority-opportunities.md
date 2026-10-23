@@ -913,3 +913,30 @@ Publication check: the October 21 edition has all three exact Printify products 
 - Matching Blappos asset: https://blappos.com/verification/#oct16-scrapple-sculpture
 - Honest pitch angle: A transparent local-culture entry that records the market’s five-pound event-page description beside UPI’s six-pound figure, distinguishes the judges’ choice from the later public vote and invites the organizer to resolve the discrepancy.
 - Qualification: Reading Terminal Market organized the contest and maintains the closest primary event page. Any optional message should ask for a factual correction or updated result only; it must not ask for promotion, imply market endorsement or foreground the commercial product.
+
+
+## October 22, 2026 — qualified opportunities (not contacted)
+
+### Purdue University News — field-tested null-result matrix
+
+- Target: Purdue University News / Taraia Object expedition media contact
+- Route: https://www.purdue.edu/newsroom/2026/Q4/search-for-amelia-earharts-plane-continues-after-taraia-object-expedition-on-nikumaroro-rules-out-latest-hypothesis/ (media contact listed on the release)
+- Matching Blappos asset: https://blappos.com/verification/#oct22-earhart-driftwood
+- Honest pitch angle: A compact evidence-literacy entry that credits the expedition for testing a visually persuasive hypothesis, publishing a null result and distinguishing one ruled-out anomaly from the unresolved Earhart search.
+- Qualification: Purdue published the closest field account and owns the expedition timeline, methods summary and artifact-study updates. Any optional contact should invite a factual correction or updated artifact result only; it must not imply Purdue endorsement of the illustration, satire, magnet or affiliate products.
+
+### National Institute of Fisheries Science — observed behavior versus possible cause
+
+- Target: South Korea National Institute of Fisheries Science communications office
+- Route: https://www.nifs.go.kr/eng/
+- Matching Blappos asset: https://blappos.com/verification/#oct22-busan-shark-return
+- Honest pitch angle: An endangered-wildlife status entry that preserves the observed return beneath the barrier, separates possible port influences from confirmed motive and foregrounds welfare rather than spectacle.
+- Qualification: An institute researcher supplied the behavior and habitat context quoted by the Associated Press. Any optional contact should request a rescue-status correction, species resource or public guidance link only; it must not request promotion, approach live-animal staff or suggest the institute approved the joke or product.
+
+### Forsyth County Fire Department — unusual-animal rescue evidence note
+
+- Target: Forsyth County Fire Department public information route
+- Route: https://www.forsythco.com/government/departments/fire-department/
+- Matching Blappos asset: https://blappos.com/verification/#oct22-chameleon-tree-rescue
+- Honest pitch angle: A source-labeled public-service entry that credits Station 14/C, preserves the October 12 incident versus October 22 publication clocks and explicitly refuses to turn one safe rescue into do-it-yourself reptile-handling advice.
+- Qualification: The department published the closest primary account and can correct the crew, date or outcome. Any optional message should use the routine public-information route, invite factual correction and avoid emergency lines, backlink requests or any implication that the department endorses the art, satire or merchandise.
