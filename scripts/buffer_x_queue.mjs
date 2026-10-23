@@ -273,6 +273,55 @@ async function main() {
       const removedIds = new Set(delayedEditionPosts.map(post => post.id));
       knownPosts = knownPosts.filter(post => !removedIds.has(post.id));
     }
+
+    // A caption repair can leave one replacement only a few minutes from an
+    // already-scheduled edition post. Re-space the surviving edition in place
+    // so retries preserve the same deliberate cadence as the initial batch.
+    const scheduledEditionPosts = knownPosts
+      .filter(post =>
+        post.status === 'scheduled' &&
+        post.dueAt &&
+        [...editionIds].some(id => post.text.includes(`/stories/${id}/`)),
+      )
+      .sort((a, b) => Date.parse(a.dueAt) - Date.parse(b.dueAt));
+    const editMutation = `mutation EditPost($input: EditPostInput!) {
+      editPost(input: $input) {
+        __typename
+        ... on PostActionSuccess { post { id status dueAt } }
+        ... on MutationError { message }
+      }
+    }`;
+    let previousDueAt = 0;
+    for (const post of scheduledEditionPosts) {
+      const currentDueAt = Date.parse(post.dueAt);
+      const minimumDueAt = previousDueAt + sameDaySpacingMinutes * 60_000;
+      if (previousDueAt && currentDueAt < minimumDueAt) {
+        const story = allStories.find(item => post.text.includes(`/stories/${item.id}/`));
+        if (!story) continue;
+        const dueAt = new Date(minimumDueAt).toISOString();
+        const imageUrl = `${RAW_ASSET_URL}/${story.image.replace(/^\//, '')}`;
+        const result = await graphql(editMutation, {
+          input: {
+            id: post.id,
+            text: post.text,
+            dueAt,
+            assets: [{ image: { url: imageUrl, thumbnailUrl: imageUrl, metadata: { altText: story.title } } }],
+            metadata: selected.channel.service === 'twitter'
+              ? { twitter: { isAiGenerated: true } }
+              : selected.channel.service === 'instagram'
+                ? { instagram: { type: 'post', shouldShareToFeed: true, isAiGenerated: true } }
+                : {},
+            aiAssisted: true,
+          },
+        });
+        if (result.editPost.__typename !== 'PostActionSuccess') {
+          throw new Error(`Could not re-space ${selected.channel.service} post ${post.id}: ${result.editPost.message || result.editPost.__typename}`);
+        }
+        post.dueAt = result.editPost.post.dueAt || dueAt;
+        console.log(`Re-spaced ${selected.channel.service} post ${post.id} to ${post.dueAt}.`);
+      }
+      previousDueAt = Date.parse(post.dueAt);
+    }
   }
 
   if (forceCurrentEdition) {
