@@ -305,6 +305,8 @@ async function main() {
             id: post.id,
             text: post.text,
             dueAt,
+            mode: 'customScheduled',
+            schedulingType: 'automatic',
             assets: [{ image: { url: imageUrl, thumbnailUrl: imageUrl, metadata: { altText: story.title } } }],
             metadata: selected.channel.service === 'twitter'
               ? { twitter: { isAiGenerated: true } }
@@ -318,6 +320,9 @@ async function main() {
           throw new Error(`Could not re-space ${selected.channel.service} post ${post.id}: ${result.editPost.message || result.editPost.__typename}`);
         }
         post.dueAt = result.editPost.post.dueAt || dueAt;
+        if (Math.abs(Date.parse(post.dueAt) - Date.parse(dueAt)) > 1_000) {
+          throw new Error(`Buffer kept ${selected.channel.service} post ${post.id} at ${post.dueAt} instead of the requested ${dueAt}.`);
+        }
         console.log(`Re-spaced ${selected.channel.service} post ${post.id} to ${post.dueAt}.`);
       }
       previousDueAt = Date.parse(post.dueAt);
