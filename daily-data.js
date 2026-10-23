@@ -3255,7 +3255,7 @@ const oct22StagingStories = [
     "sourceName": "Read Smithsonian Magazine’s October 22 report and Purdue’s field result",
     "sourcePublisher": "Smithsonian Magazine / Purdue University",
     "socialSummary": "Smithsonian Magazine reported October 22 that a 17-person expedition checked the Taraia Object near Nikumaroro and found it was most likely washed-up trees, not Amelia Earhart’s Electra.",
-    "socialPunchline": "Blappos: The satellite found a plane-shaped tree and the expedition found the receipt."
+    "socialPunchline": "Blappos: The plane was trees."
   },
   {
     "id": "oct22-busan-shark-return",
