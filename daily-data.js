@@ -3286,7 +3286,7 @@ const oct22StagingStories = [
     "date": "Oct 22, 2026",
     "place": "Forsyth County, Georgia",
     "image": "assets/cards/2026-10-22-chameleon-tree-rescue.webp",
-    "title": "Georgia Firefighters Upgrade ‘Cat in a Tree’ to Chameleon",
+    "title": "Georgia Firefighters Upgrade ‘Cat in a Tree’ to Chameleon","magnetUrl":"https://blappos.printify.me/product/33452595","magnetPrice":"$9.99",
     "facts": "UPI reported on October 22 that Forsyth County firefighters answered an unusual animal call after a pet chameleon climbed high into a tree. The department said Station 14/C brought the animal safely down and joked that crews had moved on from cats in trees. Local coverage dates the rescue photo to October 12, so the incident clock and the national publication clock are not the same.",
     "why": "A chameleon is an expert climber, a poor candidate for an improvised grab and a pet whose heat, hydration and stress needs differ from a cat’s. The useful takeaway is not that every wandering reptile requires a fire engine; it is that a high, unsafe retrieval belongs with trained responders and that exotic-pet containment should be designed around the animal’s actual abilities.",
     "angle": "Verified department account, safe outcome and two-clock boundary end above. The Blappos interpretation: cats were apparently too easy to see. The magnet’s firefighters, ladder, carrier, engine and vivid chameleon are original editorial illustration—not the real crew, department apparatus, a species identification or a do-it-yourself rescue method.",
