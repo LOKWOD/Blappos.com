@@ -3232,8 +3232,8 @@ window.dailyStories.unshift(...oct21StagingStories.filter(story => story.magnetU
 // October 21 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
 // October 21 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
 
-// October 22 edition. These stories remain absent from the public collection until
-// the Printify workflow publishes and links each exact physical magnet and price.
+// October 22 edition. Every story entered the public collection only after the
+// Printify workflow published and linked its exact physical magnet and price.
 const oct22StagingStories = [
   {
     "id": "oct22-earhart-driftwood",
@@ -3304,3 +3304,4 @@ const oct22StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct22StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct22StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 22 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
