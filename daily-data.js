@@ -3316,7 +3316,7 @@ const oct23StagingStories = [
     "date": "Oct 23, 2026",
     "place": "Miami, Florida",
     "image": "assets/cards/2026-10-23-miami-piano.webp",
-    "title": "Miami Coach Lifts a Piano’s Worth for Six Seconds",
+    "title": "Miami Coach Lifts a Piano’s Worth for Six Seconds","magnetUrl":"https://blappos.printify.me/product/33485923","magnetPrice":"$9.99",
     "facts": "WLRN Public Media reported on October 23 that Miami fitness coach Lilian M. Zamora Alonso holds the Guinness World Records title for the heaviest weighted hip thrust by a woman: 639 pounds, or 289.90 kilograms. She made the lift at Miami Iron Gym on March 27 after nearly a decade of training. The attempt required a straight line from knees through hips to shoulders to be held for six seconds, and certification arrived after a five-month review.",
     "why": "The headline number hides the evidentiary work. Zamora Alonso said she had lifted 670 pounds in training but chose a lower official weight to reduce the risk of a recording or form error. A certified record is therefore not simply the largest gym claim; it is a measured performance inside a defined category, with repeatable form, witnesses and review. Readers should also treat it as an elite athletic feat—not a safe starting prescription.",
     "angle": "Verified record, rules and timeline end above. The Blappos interpretation: Miami briefly made a piano obey leg day. The magnet’s anonymous athlete, plates, stopwatch, arena and skyline are original editorial illustration—not Zamora Alonso, documentary evidence, a Guinness mark or exercise instruction. Do not attempt a maximal lift without qualified coaching, appropriate equipment and progressive training.",
