@@ -1,8 +1,34 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-22
+Updated: 2026-10-24
 Status: research log only; no outreach sent.
-Publication check: the October 21 edition has all three exact Printify products linked and its permanent pages generated; outreach remains unsent.
+Publication check: the October 23 entries and claim-type matrix are prepared behind the physical-product gate; outreach remains unsent until the permanent pages are live.
+
+## October 23, 2026 — qualified opportunities (not contacted)
+
+### WLRN Public Media sports desk — certification-versus-training boundary
+
+- Target: WLRN Public Media sports reporters Helen Acevedo and Valentina Sandoval
+- Route: https://www.wlrn.org/contact-us
+- Matching Blappos asset: https://blappos.com/verification/#oct23-miami-piano
+- Honest pitch angle: A permanent source note that preserves the 639-pound certified mark, six-second form requirement, March 27 attempt and five-month review while keeping the athlete's 670-pound training lift outside the official record.
+- Qualification: WLRN conducted the dated local interview and published the closest October 23 reporting. Any optional message should invite correction of the technique, chronology or category wording only; it must not request promotion, encourage unsafe copying or imply WLRN, the athlete or Guinness endorses the art, affiliate products or magnet.
+
+### GuardIAS project communications — conservation-gastronomy claim ceiling
+
+- Target: GuardIAS dissemination team and University of the Aegean project coordinators
+- Route: https://guardias.eu/contact/
+- Matching Blappos asset: https://blappos.com/verification/#oct23-lionfish-tasting
+- Honest pitch angle: A citation-ready matrix that connects the 370-person tasting record to the project's targeted-removal rationale while explicitly refusing to treat one event, market demand or meal as proof of regional population control.
+- Qualification: GuardIAS is the EU-funded project that organized the event and owns the closest participant, recipe, species and management details. Any optional contact should invite a technical correction, monitoring update or stronger public resource only; it must not ask for a backlink, imply project endorsement or foreground merchandise.
+
+### WSMV4 newsroom — community-sighting evidence explainer
+
+- Target: WSMV4 assignment desk / reporter Jaxon Steward
+- Route: https://www.wsmv.com/about-us/contact-us/
+- Matching Blappos asset: https://blappos.com/verification/#oct23-kangaroo-rumors
+- Honest pitch angle: A compact media-literacy entry showing why a sighting 15 miles away is not a verified travel route, while crediting the local community's information-sharing and the safe recovery on the original road.
+- Qualification: WSMV published the closest local account and can correct the dates, location, sighting attribution or outcome. Any optional note should invite factual correction only; it must not request private owner information, encourage readers to approach escaped exotic animals or imply endorsement of the joke or products.
 
 ## October 21, 2026 — qualified opportunities (not contacted)
 

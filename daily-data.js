@@ -3305,3 +3305,76 @@ const oct22StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !oct22StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct22StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 22 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+
+// October 23 edition. These stories remain hidden from the public collection
+// until the Printify workflow publishes and links each exact physical magnet.
+const oct23StagingStories = [
+  {
+    "id": "oct23-miami-piano",
+    "isoDate": "2026-10-23",
+    "month": "October",
+    "date": "Oct 23, 2026",
+    "place": "Miami, Florida",
+    "image": "assets/cards/2026-10-23-miami-piano.webp",
+    "title": "Miami Coach Lifts a Piano’s Worth for Six Seconds",
+    "facts": "WLRN Public Media reported on October 23 that Miami fitness coach Lilian M. Zamora Alonso holds the Guinness World Records title for the heaviest weighted hip thrust by a woman: 639 pounds, or 289.90 kilograms. She made the lift at Miami Iron Gym on March 27 after nearly a decade of training. The attempt required a straight line from knees through hips to shoulders to be held for six seconds, and certification arrived after a five-month review.",
+    "why": "The headline number hides the evidentiary work. Zamora Alonso said she had lifted 670 pounds in training but chose a lower official weight to reduce the risk of a recording or form error. A certified record is therefore not simply the largest gym claim; it is a measured performance inside a defined category, with repeatable form, witnesses and review. Readers should also treat it as an elite athletic feat—not a safe starting prescription.",
+    "angle": "Verified record, rules and timeline end above. The Blappos interpretation: Miami briefly made a piano obey leg day. The magnet’s anonymous athlete, plates, stopwatch, arena and skyline are original editorial illustration—not Zamora Alonso, documentary evidence, a Guinness mark or exercise instruction. Do not attempt a maximal lift without qualified coaching, appropriate equipment and progressive training.",
+    "amazonLinks": [
+      {"title":"Glute Lab: The Art and Science of Strength and Physique Training","image":"https://m.media-amazon.com/images/P/1628603461.01.LZZZZZZZ.jpg","alt":"Cover of Glute Lab by Bret Contreras and Glen Cordoza","quip":"The exercise-specific reference for understanding why a hip thrust is more technique than punchline.","salesPriority":5,"url":"https://www.amazon.com/dp/1628603461?tag=blappos-20"},
+      {"title":"Strength Training Anatomy, 3rd Edition","image":"https://m.media-amazon.com/images/I/5125uehJ+dL.jpg","alt":"Cover of Strength Training Anatomy, 3rd Edition by Frederic Delavier","quip":"A visual map of the muscles and mechanics behind the six seconds that count.","salesPriority":5,"url":"https://www.amazon.com/dp/B01IUXRAPQ?tag=blappos-20"},
+      {"title":"Starting Strength: Basic Barbell Training, Third Edition","image":"https://m.media-amazon.com/images/P/0982522738.01.LZZZZZZZ.jpg","alt":"Cover of Starting Strength by Mark Rippetoe","quip":"A fundamentals-first barbell guide for readers inspired by the record but sensible enough not to open at 639 pounds.","salesPriority":4,"url":"https://www.amazon.com/dp/0982522738?tag=blappos-20"}
+    ],
+    "source": "https://www.wlrn.org/sports/2026-10-23/miami-fitness-coach-weightlifting-guinness-world-record",
+    "sourceName": "Read WLRN Public Media’s October 23 report and interview",
+    "sourcePublisher": "WLRN Public Media / Guinness World Records",
+    "socialSummary": "WLRN Public Media reported October 23 that Miami coach Lilian M. Zamora Alonso earned the women’s weighted hip-thrust record with 639 pounds held in the required straight-line position for six seconds.",
+    "socialPunchline": "Blappos: Miami made a piano obey leg day."
+  },
+  {
+    "id": "oct23-lionfish-tasting",
+    "isoDate": "2026-10-23",
+    "month": "October",
+    "date": "Oct 23, 2026",
+    "place": "Santorini, Greece",
+    "image": "assets/cards/2026-10-23-lionfish-tasting.webp",
+    "title": "Santorini Sets a Record by Eating the Invasion",
+    "facts": "The EU-funded GuardIAS project announced on October 23 that 370 people in Santorini earned a Guinness World Records title for the largest lionfish tasting event. At the October 22 gathering, 30 chefs prepared 20 recipes and each qualifying participant tasted at least three. GuardIAS identifies the fish as Pterois miles, an Indo-Pacific predator that entered the Mediterranean through the Suez Canal and has expanded rapidly in the eastern basin.",
+    "why": "The record was a conservation intervention with a scoreboard. GuardIAS says complete eradication is no longer realistic across the lionfish’s established range, but targeted removals can reduce local populations, particularly in sensitive areas. Creating a safe, traceable food market may give fishers an economic reason to remove the invader, but consumption is one management tool—not permission for untrained handling, unlimited harvest or claims that dinner alone repairs an ecosystem.",
+    "angle": "The record, species, participant total and management rationale come from GuardIAS; the claim ceiling ends there. The Blappos interpretation: Santorini put the ecological problem on small plates. The magnet’s fish, chefs, diners and caldera are original editorial illustration—not an event photograph, food-safety guide, harvest instruction or promise that every lionfish meal produces a conservation benefit.",
+    "amazonLinks": [
+      {"title":"The Lionfish Cookbook","image":"https://m.media-amazon.com/images/P/0615428924.01.LZZZZZZZ.jpg","alt":"Cover of The Lionfish Cookbook by Tricia Ferguson and Lad Akins","quip":"The topic-specific recipe book that turns one invasive predator into carefully prepared dinner.","salesPriority":5,"url":"https://www.amazon.com/dp/0615428924?tag=blappos-20"},
+      {"title":"Cook Lionfish: Recipes Suitable for Any White Fish","image":"https://m.media-amazon.com/images/P/0578866625.01.LZZZZZZZ.jpg","alt":"Cover of Cook Lionfish by Claire Wood and Polly Alford","quip":"A practical follow-up for the part of conservation gastronomy that happens after trained harvesters handle the spines.","salesPriority":5,"url":"https://www.amazon.com/dp/0578866625?tag=blappos-20"},
+      {"title":"Green Fig and Lionfish: Sustainable Caribbean Cooking","image":"https://m.media-amazon.com/images/P/1642501646.01.LZZZZZZZ.jpg","alt":"Cover of Green Fig and Lionfish by Allen Susser","quip":"Seventy sustainable Caribbean recipes that put the eat-the-invader idea into a broader food culture.","salesPriority":4,"url":"https://www.amazon.com/dp/1642501646?tag=blappos-20"}
+    ],
+    "source": "https://guardias.eu/guardias-and-the-university-of-the-aegean-achieve-guinness-world-records-title-for-the-largest-lionfish-tasting-event/",
+    "sourceName": "Read GuardIAS and the University of the Aegean’s October 23 primary account",
+    "sourcePublisher": "GuardIAS / University of the Aegean",
+    "socialSummary": "GuardIAS announced October 23 that 370 participants in Santorini set a record by each tasting at least three lionfish dishes, using gastronomy to support targeted removal of an invasive Mediterranean predator.",
+    "socialPunchline": "Blappos: The ecological problem arrived on small plates."
+  },
+  {
+    "id": "oct23-kangaroo-rumors",
+    "isoDate": "2026-10-23",
+    "month": "October",
+    "date": "Oct 23, 2026",
+    "place": "Mount Pleasant, Tennessee",
+    "image": "assets/cards/2026-10-23-kangaroo-rumors.webp",
+    "title": "Runaway Kangaroo Travels 15 Miles by Rumor, Zero by Road",
+    "facts": "WSMV reported on October 23 that Ollie, a pet kangaroo missing from Mount Pleasant since October 21, was found safe on Mack Benderman Road—the same road where he had last been seen wearing a purple collar and leash. Neighbors used social-media reports and sightings to track the search. One report placed him about 15 miles away near Riverside in Columbia, but the final location did not establish that Ollie ever traveled that distance.",
+    "why": "A search map records reports, not verified animal movement. That distinction matters whenever a community search turns sightings into an apparent route: duplicated, mistaken or delayed reports can make the subject look faster and farther-traveled than the evidence supports. The confirmed outcome is narrower and happier—Ollie was found safe near the original location after neighbors helped circulate information.",
+    "angle": "The dates, reported sighting, recovery road and safe return end above. The Blappos interpretation: the kangaroo traveled 15 miles by rumor and stayed on the same road in real life. The magnet’s animal, neighbors, map pins, phones and Tennessee road are original editorial illustration—not Ollie, his owners, a verified movement map or guidance for approaching an escaped exotic animal.",
+    "amazonLinks": [
+      {"title":"Kangaroos: Biology of the Largest Marsupials","image":"https://m.media-amazon.com/images/P/0801482623.01.LZZZZZZZ.jpg","alt":"Cover of Kangaroos by Terence J. Dawson","quip":"The biology, locomotion and behavior reference for the animal behind Tennessee’s least reliable travel map.","salesPriority":5,"url":"https://www.amazon.com/dp/0801482623?tag=blappos-20"},
+      {"title":"Australian Mammals: Biology and Captive Management","image":"https://m.media-amazon.com/images/P/1486315275.01.LZZZZZZZ.jpg","alt":"Cover of Australian Mammals by Stephen Jackson","quip":"Professional husbandry context for a story where secure containment matters more than a charming ending.","salesPriority":5,"url":"https://www.amazon.com/dp/1486315275?tag=blappos-20"},
+      {"title":"Explore My World: Kangaroos","image":"https://m.media-amazon.com/images/P/1426331576.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Kids Explore My World: Kangaroos by Jill Esbaum","quip":"A photo-rich, family-friendly guide to the marsupial everyone in Maury County was suddenly studying.","salesPriority":4,"url":"https://www.amazon.com/dp/1426331576?tag=blappos-20"}
+    ],
+    "source": "https://www.wsmv.com/2026/10/23/ollie-tennessee-kangaroo-is-back-home-safe-heres-what-owners-say-happened/",
+    "sourceName": "Read WSMV’s October 23 local report",
+    "sourcePublisher": "WSMV4",
+    "socialSummary": "WSMV reported October 23 that Ollie, a pet kangaroo missing since October 21, was found safe on the same Mount Pleasant road where he was last seen; a sighting 15 miles away was never a verified travel route.",
+    "socialPunchline": "Blappos: Fifteen miles by rumor, zero by road."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct23StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct23StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
