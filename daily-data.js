@@ -3338,7 +3338,7 @@ const oct23StagingStories = [
     "date": "Oct 23, 2026",
     "place": "Santorini, Greece",
     "image": "assets/cards/2026-10-23-lionfish-tasting.webp",
-    "title": "Santorini Sets a Record by Eating the Invasion",
+    "title": "Santorini Sets a Record by Eating the Invasion","magnetUrl":"https://blappos.printify.me/product/33485928","magnetPrice":"$9.99",
     "facts": "The EU-funded GuardIAS project announced on October 23 that 370 people in Santorini earned a Guinness World Records title for the largest lionfish tasting event. At the October 22 gathering, 30 chefs prepared 20 recipes and each qualifying participant tasted at least three. GuardIAS identifies the fish as Pterois miles, an Indo-Pacific predator that entered the Mediterranean through the Suez Canal and has expanded rapidly in the eastern basin.",
     "why": "The record was a conservation intervention with a scoreboard. GuardIAS says complete eradication is no longer realistic across the lionfish’s established range, but targeted removals can reduce local populations, particularly in sensitive areas. Creating a safe, traceable food market may give fishers an economic reason to remove the invader, but consumption is one management tool—not permission for untrained handling, unlimited harvest or claims that dinner alone repairs an ecosystem.",
     "angle": "The record, species, participant total and management rationale come from GuardIAS; the claim ceiling ends there. The Blappos interpretation: Santorini put the ecological problem on small plates. The magnet’s fish, chefs, diners and caldera are original editorial illustration—not an event photograph, food-safety guide, harvest instruction or promise that every lionfish meal produces a conservation benefit.",
