@@ -3360,7 +3360,7 @@ const oct23StagingStories = [
     "date": "Oct 23, 2026",
     "place": "Mount Pleasant, Tennessee",
     "image": "assets/cards/2026-10-23-kangaroo-rumors.webp",
-    "title": "Runaway Kangaroo Travels 15 Miles by Rumor, Zero by Road",
+    "title": "Runaway Kangaroo Travels 15 Miles by Rumor, Zero by Road","magnetUrl":"https://blappos.printify.me/product/33485932","magnetPrice":"$9.99",
     "facts": "WSMV reported on October 23 that Ollie, a pet kangaroo missing from Mount Pleasant since October 21, was found safe on Mack Benderman Road—the same road where he had last been seen wearing a purple collar and leash. Neighbors used social-media reports and sightings to track the search. One report placed him about 15 miles away near Riverside in Columbia, but the final location did not establish that Ollie ever traveled that distance.",
     "why": "A search map records reports, not verified animal movement. That distinction matters whenever a community search turns sightings into an apparent route: duplicated, mistaken or delayed reports can make the subject look faster and farther-traveled than the evidence supports. The confirmed outcome is narrower and happier—Ollie was found safe near the original location after neighbors helped circulate information.",
     "angle": "The dates, reported sighting, recovery road and safe return end above. The Blappos interpretation: the kangaroo traveled 15 miles by rumor and stayed on the same road in real life. The magnet’s animal, neighbors, map pins, phones and Tennessee road are original editorial illustration—not Ollie, his owners, a verified movement map or guidance for approaching an escaped exotic animal.",
