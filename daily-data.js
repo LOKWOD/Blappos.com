@@ -3453,3 +3453,5 @@ const oct24StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct24StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct24StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 24 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+// October 24 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
