@@ -3380,3 +3380,76 @@ window.dailyStories = window.dailyStories.filter(story => !oct23StagingStories.s
 window.dailyStories.unshift(...oct23StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 23 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
 // October 23 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
+
+// October 24 edition. These stories remain hidden from the public collection
+// until the Printify workflow publishes and links each exact physical magnet.
+const oct24StagingStories = [
+  {
+    "id": "oct24-las-vegas-no-tip",
+    "isoDate": "2026-10-24",
+    "month": "October",
+    "date": "Oct 24, 2026",
+    "place": "Las Vegas Strip, Nevada",
+    "image": "assets/cards/2026-10-24-las-vegas-no-tip.webp",
+    "title": "Las Vegas Puts ‘Tipping Is Not Required’ on the Skyline",
+    "facts": "LiveNOW from FOX reported on October 24 that Clark County had begun displaying ‘When watching performances or taking a photo, tipping is NOT required’ on digital message boards along the Las Vegas Strip. The messages started October 16 and address aggressive solicitation and false claims that a gratuity is mandatory; they do not discourage voluntary tips. The county action followed a September 30 confrontation in which tourists said a $20 payment led to escalating demands. Arrest-report allegations from that encounter remain allegations, not findings of guilt.",
+    "why": "The sign turns a murky social custom into a plain consumer boundary. A performer may request payment and a visitor may tip, but neither makes a voluntary gratuity legally compulsory. That distinction matters in a crowded tourism district where costumes, urgency and public pressure can make an invented rule feel official. It also shows a modest form of public-interest design: put the corrective statement where the disputed demand happens, in language that survives a three-second glance.",
+    "angle": "The county message, its start date and the reported trigger end above. The Blappos interpretation: Las Vegas has installed a giant subtitle for the word optional. The magnet’s tourists, performers, neon sign and skyline are original editorial illustration—not the real parties, a Strip photograph, a casino endorsement or a suggestion that performers should never be tipped for consensual work.",
+    "amazonLinks": [
+      {"title":"Tipping: An American Social History of Gratuities","image":"https://m.media-amazon.com/images/P/0786442468.01.LZZZZZZZ.jpg","alt":"Cover of Tipping: An American Social History of Gratuities by Kerry Segrave","quip":"The social history behind the custom Clark County had to explain in six giant words.","salesPriority":5,"url":"https://www.amazon.com/dp/0786442468?tag=blappos-20"},
+      {"title":"Emily Post’s Etiquette, 19th Edition","image":"https://m.media-amazon.com/images/I/71wV1q6X8UL._SL1500_.jpg","alt":"Cover of Emily Post’s Etiquette, 19th Edition","quip":"A modern manners reference for separating a welcome gratuity from an invented mandatory fee.","salesPriority":5,"url":"https://www.amazon.com/dp/0062439251?tag=blappos-20"},
+      {"title":"The Strip: Las Vegas and the Architecture of the American Dream","image":"https://m.media-amazon.com/images/P/0262544911.01.LZZZZZZZ.jpg","alt":"Cover of The Strip by Stefan Al","quip":"A history of the built spectacle now hosting the world’s most architectural reminder that optional still means optional.","salesPriority":4,"url":"https://www.amazon.com/dp/0262544911?tag=blappos-20"}
+    ],
+    "source": "https://www.livenowfox.com/news/las-vegas-tipping-costumed-strip-performers",
+    "sourceName": "Read LiveNOW from FOX’s October 24 report and the cited Clark County message",
+    "sourcePublisher": "LiveNOW from FOX / Clark County",
+    "socialSummary": "LiveNOW from FOX reported October 24 that Clark County is using Strip message boards to tell visitors that tips for photos or performances are optional, targeting aggressive demands without discouraging voluntary gratuities.",
+    "socialPunchline": "Blappos: Las Vegas installed a giant subtitle for the word optional."
+  },
+  {
+    "id": "oct24-rolling-snakes",
+    "isoDate": "2026-10-24",
+    "month": "October",
+    "date": "Oct 24, 2026",
+    "place": "Southeast Asia",
+    "image": "assets/cards/2026-10-24-rolling-snakes.webp",
+    "title": "Dwarf Snakes Discover Four-Wheel Drive Without Wheels",
+    "facts": "ScienceDaily reported on October 24 that Toho University researchers had documented a rolling locomotion mode in dwarf reedsnakes using synchronized multi-angle video. In controlled trials, the snakes reached peak rolling speeds of 1.72 to 3.69 meters per second—about four times their lateral-undulation speed—and followed a roughly 20-centimeter-wide track. Their heads stayed forward and relatively stable while the body rolled, and the team published the work in Current Biology.",
+    "why": "A rolling vertebrate is more than a novelty reel. The measurements distinguish sustained, directed locomotion from a defensive tumble or accidental fall: the animals repeatedly combined rolling and ordinary strokes while keeping the head oriented for navigation. That expands the known movement repertoire of limbless animals and gives biomechanics and robotics researchers a compact example of how body geometry can trade continuous contact for short bursts of speed.",
+    "angle": "The measured speeds, track width, head stability and paper venue end above. The Blappos interpretation: the snake did not reinvent the wheel; it filed the wheel as a whole-body expense. The magnet’s snake, forest track, motion rings and field marks are original scientific satire—not one study animal, a video frame, a species-identification guide or proof that every dwarf reedsnake uses the behavior in the wild.",
+    "amazonLinks": [
+      {"title":"How Snakes Work","image":"https://m.media-amazon.com/images/I/616fFL5NpgL.jpg","alt":"Cover of How Snakes Work by Harvey B. Lillywhite","quip":"The functional-biology reference for the animal that just added ‘become the wheel’ to its movement menu.","salesPriority":5,"url":"https://www.amazon.com/dp/0195380371?tag=blappos-20"},
+      {"title":"Snakes: The Evolution of Mystery in Nature","image":"https://m.media-amazon.com/images/I/91Oi3-h+6wL._SL1500_.jpg","alt":"Cover of Snakes: The Evolution of Mystery in Nature by Harry W. Greene","quip":"A natural-history classic for placing one spectacular locomotion result inside the larger evolution of snakes.","salesPriority":5,"url":"https://www.amazon.com/dp/0520224876?tag=blappos-20"},
+      {"title":"How to Walk on Water and Climb up Walls","image":"https://m.media-amazon.com/images/I/7132OOuFrRL._SL1500_.jpg","alt":"Cover of How to Walk on Water and Climb up Walls by David Hu","quip":"Animal movement meets robot design—the perfect bridge from rolling snake biomechanics to machines with better ideas.","salesPriority":4,"url":"https://www.amazon.com/dp/0691169861?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
+    "sourceName": "Read ScienceDaily’s October 24 research digest and the linked Current Biology paper",
+    "sourcePublisher": "ScienceDaily / Toho University / Current Biology",
+    "socialSummary": "ScienceDaily reported October 24 that researchers filmed dwarf reedsnakes using directed rolling locomotion at peak speeds about four times their ordinary lateral undulation while keeping their heads relatively stable.",
+    "socialPunchline": "Blappos: The snake filed the wheel as a whole-body expense."
+  },
+  {
+    "id": "oct24-ai-breakfast-soda",
+    "isoDate": "2026-10-24",
+    "month": "October",
+    "date": "Oct 24, 2026",
+    "place": "Northern Ireland, United Kingdom",
+    "image": "assets/cards/2026-10-24-ai-breakfast-soda.webp",
+    "title": "Just Eat Puts Breakfast in a Pint, Then Pauses the Robot Camera",
+    "facts": "Al Jazeera reported on October 24 that Just Eat had apologized after a trial of AI-generated menu images grossly misrepresented some dishes and was paused for further development. The test applied labeled synthetic images to listings that lacked restaurant-supplied photos. Earlier detailed reporting showed the standout failure: a Northern Irish soda bread breakfast was interpreted as bacon, egg and sausage floating in a cola-like pint rather than food served with soda bread.",
+    "why": "A menu image is a factual product claim, even when it is aesthetically persuasive and labeled as synthetic. Generating one without checking the cuisine, ingredients and plating can turn a helpful placeholder into false advertising at the exact moment a customer decides what to buy. The remedy is not just a better prompt: restaurants need approval, humans need a comparison target, uncertain dishes need no image, and mistakes need a visible correction path.",
+    "angle": "The trial, label, failure mode, apology and pause end above. The Blappos interpretation: the model saw ‘soda bread’ and promoted breakfast to beverage service. The magnet’s pint, food, diner, server and glitching tablet are original editorial illustration—not the live listing, a restaurant’s dish, an edible recipe, a Just Eat interface or proof that every image in the trial was inaccurate.",
+    "amazonLinks": [
+      {"title":"AI Snake Oil","image":"https://m.media-amazon.com/images/I/81GVLk9TznL._SL1500_.jpg","alt":"Cover of AI Snake Oil by Arvind Narayanan and Sayash Kapoor","quip":"A practical guide to asking what AI can actually verify before it puts breakfast in a glass.","salesPriority":5,"url":"https://www.amazon.com/dp/069124913X?tag=blappos-20"},
+      {"title":"The Food Lab","image":"https://m.media-amazon.com/images/I/71unTJwqvcL._SL1500_.jpg","alt":"Cover of The Food Lab by J. Kenji López-Alt","quip":"Evidence-based cooking for the useful distinction between soda bread and breakfast soda.","salesPriority":5,"url":"https://www.amazon.com/dp/0393081087?tag=blappos-20"},
+      {"title":"Food Photography: From Snapshots to Great Shots","image":"https://m.media-amazon.com/images/P/0134097254.01.LZZZZZZZ.jpg","alt":"Cover of Food Photography: From Snapshots to Great Shots by Nicole S. Young","quip":"The non-generative route to a menu image that resembles the food a customer will receive.","salesPriority":4,"url":"https://www.amazon.com/dp/0134097254?tag=blappos-20"}
+    ],
+    "source": "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder",
+    "sourceName": "Read Al Jazeera’s October 24 report and the earlier detailed reporting it followed",
+    "sourcePublisher": "Al Jazeera / The Independent / TechRadar",
+    "socialSummary": "Al Jazeera reported October 24 that Just Eat apologized and paused a trial of labeled AI menu images after some badly misrepresented dishes, including soda bread rendered as a pint of cola-like breakfast ingredients.",
+    "socialPunchline": "Blappos: The model promoted soda bread to beverage service."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct24StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct24StagingStories.filter(story => story.magnetUrl && story.magnetPrice));

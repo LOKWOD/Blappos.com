@@ -966,3 +966,30 @@ Publication check: the October 23 entries and claim-type matrix are prepared beh
 - Matching Blappos asset: https://blappos.com/verification/#oct22-chameleon-tree-rescue
 - Honest pitch angle: A source-labeled public-service entry that credits Station 14/C, preserves the October 12 incident versus October 22 publication clocks and explicitly refuses to turn one safe rescue into do-it-yourself reptile-handling advice.
 - Qualification: The department published the closest primary account and can correct the crew, date or outcome. Any optional message should use the routine public-information route, invite factual correction and avoid emergency lines, backlink requests or any implication that the department endorses the art, satire or merchandise.
+
+
+## October 24, 2026 — qualified opportunities (not contacted)
+
+### Clark County Office of Communications & Strategy — public tipping-notice boundary
+
+- Target: Clark County Office of Communications & Strategy
+- Route: https://www.clarkcountynv.gov/government/departments/public_communications/ (PIO@ClarkCountyNV.gov)
+- Matching Blappos asset: https://blappos.com/verification/#oct24-las-vegas-no-tip
+- Honest pitch angle: A permanent consumer-information entry that preserves the county message’s exact voluntary-versus-mandatory boundary, records its October 16 start date and refuses to turn arrest-report allegations into findings of guilt.
+- Qualification: Clark County owns the public message and can correct its wording, placement, timing or intent. Any optional contact should invite a factual correction or a link to stronger county guidance only; it must not seek promotion, imply county endorsement or foreground the commercial magnet.
+
+### Current Biology editorial office — rolling-locomotion evidence matrix
+
+- Target: Current Biology editorial office / Cell Press
+- Route: https://www.cell.com/current-biology/contact (current-biology@cell.com)
+- Matching Blappos asset: https://blappos.com/verification/#oct24-rolling-snakes
+- Honest pitch angle: A measurement-first public digest that keeps peak speed, track width and head stability inside the controlled-trial boundary while separating the peer-reviewed result from the visual joke and broader robotic inference.
+- Qualification: Current Biology published the paper and provides an official journal contact route. Any optional message should request correction of the method, units or scope, or a stable public paper link; it must not ask for a backlink, imply editorial endorsement or promote the product.
+
+### Just Eat Takeaway.com press office — synthetic menu-image checklist
+
+- Target: Just Eat Takeaway.com global press office
+- Route: https://newsroom.justeattakeaway.com/en-GB/contact/ (press@justeattakeaway.com)
+- Matching Blappos asset: https://blappos.com/verification/#oct24-ai-breakfast-soda
+- Honest pitch angle: A reusable product-image checklist that credits the company’s apology and pause, distinguishes an AI-generation label from accuracy and sets practical restaurant-approval, reference-image and correction gates.
+- Qualification: The company owns the trial status and can correct its scope, label, restaurant-consent process or remediation. Any optional contact should invite a factual correction or a stronger public policy link only; it must not seek promotion, claim every trial image failed or imply the company endorses the satire or merchandise.
