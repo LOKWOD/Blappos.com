@@ -3466,7 +3466,9 @@ const oct25StagingStories = [
     "date": "Oct 25, 2026",
     "place": "Washington, D.C.",
     "image": "assets/cards/2026-10-25-duck-ballot.webp",
-    "title": "D.C. Puts a 4½-Pound Duck on the Foie Gras Ballot","magnetUrl":"https://blappos.printify.me/product/33557440","magnetPrice":"$9.99",
+    "title": "D.C. Puts a 4½-Pound Duck on the Foie Gras Ballot",
+    "magnetUrl": "https://blappos.printify.me/product/33557440",
+    "magnetPrice": "$9.99",
     "facts": "The Washington Post reported October 25 that Olivia, a 4½-pound Swedish Blue duck, had become the public mascot for D.C. Initiative 86, a November 3 ballot measure that would prohibit force-feeding birds and the sale of products made from force-fed birds, including foie gras. The official ballot formulation assigns routine enforcement to the Department of Energy and Environment. If approved, the law would take effect July 1, 2027, with civil penalties; the D.C. Council could later amend it through legislation.",
     "why": "A charming campaign animal can focus attention, but it cannot replace the text voters are being asked to enact. The useful civic distinction is between the mascot, the advocates' animal-welfare case, opponents' objections about policy and wording, and the legally operative ballot summary. Reading those layers separately makes the story more than a photo opportunity and keeps a duck's popularity from being mistaken for statutory analysis.",
     "angle": "The duck's breed and weight, the campaign role, the ballot date and the measure's stated effect end above. The Blappos interpretation: Washington has finally found a lobbyist whose entire platform fits into one quack. The magnet's duck, voters, podium, ballot box and skyline are original editorial illustration—not Olivia, a campaign logo, a Capitol photograph, voting advice or an endorsement of either side.",
@@ -3488,7 +3490,9 @@ const oct25StagingStories = [
     "date": "Oct 25, 2026",
     "place": "Yunnan, China / northern Philippines",
     "image": "assets/cards/2026-10-25-tiny-people-mushroom.webp",
-    "title": "A Mushroom Apparently Hires Hundreds of Tiny People","magnetUrl":"https://blappos.printify.me/product/33557450","magnetPrice":"$9.99",
+    "title": "A Mushroom Apparently Hires Hundreds of Tiny People",
+    "magnetUrl": "https://blappos.printify.me/product/33557450",
+    "magnetPrice": "$9.99",
     "facts": "ScienceDaily's October 25 research digest revisited a 2026 Mycologia study in which DNA sequencing linked reports from southwest China and the northern Philippines to Lanmaoa asiatica. Independent accounts describe lilliputian hallucinations: numerous tiny human, animal or fantasy figures moving through the real environment. The University of Utah team found no close genomic matches to known biosynthetic genes for psilocybin or ibotenic acid, so the responsible compound and mechanism remain unknown.",
     "why": "The result is an identification and a research lead, not an invitation to experiment. Similar reports across separated cultures make the phenomenon scientifically interesting, while the missing chemical explanation is the important uncertainty—not a license to fill the gap with folklore. Wild mushrooms are frequently misidentified, potentially poisonous and unsuitable for self-testing; the public value is in documented specimens, sequencing and controlled chemistry.",
     "angle": "The October 25 digest clock, the earlier peer-reviewed study, the DNA link and the unknown-compound boundary end above. The Blappos interpretation: the mushroom does not contain a known psychedelic; it contains a fully staffed tiny-people department with unclear payroll. The magnet's mushroom, soup, spoon, miniature figures and Yunnan landscape are original surreal illustration—not a specimen photograph, identification guide, dosing advice or depiction of a verified individual experience.",
@@ -3510,7 +3514,9 @@ const oct25StagingStories = [
     "date": "Oct 25, 2026",
     "place": "Madrid, Spain",
     "image": "assets/cards/2026-10-25-madrid-sheep-detour.webp",
-    "title": "Madrid Reroutes 1,410 Sheep and Goats Around a Protest Camp","magnetUrl":"https://blappos.printify.me/product/33557461","magnetPrice":"$9.99",
+    "title": "Madrid Reroutes 1,410 Sheep and Goats Around a Protest Camp",
+    "magnetUrl": "https://blappos.printify.me/product/33557461",
+    "magnetPrice": "$9.99",
     "facts": "The Associated Press reported October 25 that Madrid's annual Transhumance Festival rerouted its livestock procession around a housing protest camp in Puerta del Sol. A city notice identified 1,250 sheep and 160 goats—1,410 animals total—and said the reception moved to Plaza de la Villa because the usual route could not cross the square. The protest followed the eviction of 87-year-old María del Carmen Abascal from her longtime home and her death in hospital shortly afterward.",
     "why": "The detour joins three real urban systems: a protected civic demonstration, a modern city route and an ancient seasonal livestock tradition. Transhumance is not merely pageantry; grazing animals can clear brush and other flammable growth, while the festival preserves knowledge that has declined with rural depopulation and industrial farming. The humane joke is the traffic plan, not the housing crisis or the death that intensified it.",
     "angle": "The AP report, municipal animal count, changed route and protest context end above. The Blappos interpretation: Madrid's traffic desk successfully rescheduled 1,410 bell-equipped pedestrians with no driver's licenses. The magnet's flock, shepherds, barriers, camp and square are original editorial illustration—not the real march, protesters, Maricarmen, an official route map or a claim that livestock resolved the housing dispute.",
@@ -3528,3 +3534,5 @@ const oct25StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct25StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct25StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 25 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+// October 25 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
