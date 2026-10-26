@@ -3479,7 +3479,7 @@ const oct25StagingStories = [
     ],
     "source": "https://www.washingtonpost.com/dc-md-va/2026/10/25/meet-olivia-duck-quacking-keep-foie-gras-off-dc-menus/",
     "sourceName": "Read The Washington Post's October 25 report and the official D.C. ballot formulation",
-    "sourcePublisher": "The Washington Post / D.C. Board of Elections",
+    "sourcePublisher": "The Washington Post",
     "socialSummary": "The Washington Post reported October 25 that Olivia, a 4½-pound Swedish Blue duck, is campaigning for D.C. Initiative 86, a November 3 ballot measure concerning force-feeding birds and sales of resulting foie gras products.",
     "socialPunchline": "Blappos: Washington found a lobbyist whose whole platform fits into one quack."
   },
@@ -3503,7 +3503,7 @@ const oct25StagingStories = [
     ],
     "source": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
     "sourceName": "Read ScienceDaily's October 25 digest and the linked Mycologia study",
-    "sourcePublisher": "ScienceDaily / University of Utah / Mycologia",
+    "sourcePublisher": "ScienceDaily",
     "socialSummary": "ScienceDaily's October 25 digest highlighted a 2026 study linking reports of tiny-figure hallucinations in China and the Philippines to Lanmaoa asiatica; researchers still do not know the active compound or mechanism.",
     "socialPunchline": "Blappos: The mushroom appears to maintain a fully staffed tiny-people department."
   },
@@ -3527,7 +3527,7 @@ const oct25StagingStories = [
     ],
     "source": "https://apnews.com/article/madrid-sheep-transhumance-festival-housing-protest-detour-4fae00a393370af0816c2460853b8e32",
     "sourceName": "Read The Associated Press's October 25 report and Madrid's municipal notice",
-    "sourcePublisher": "Associated Press / Madrid City Council",
+    "sourcePublisher": "Associated Press",
     "socialSummary": "The Associated Press reported October 25 that Madrid's Transhumance Festival rerouted its 1,250 sheep and 160 goats around a Puerta del Sol housing protest camp, preserving both the march and the demonstration.",
     "socialPunchline": "Blappos: Traffic control successfully rerouted 1,410 bell-equipped pedestrians."
   }
