@@ -1,8 +1,34 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-24
+Updated: 2026-10-26
 Status: research log only; no outreach sent.
-Publication check: the October 23 entries and claim-type matrix are prepared behind the physical-product gate; outreach remains unsent until the permanent pages are live.
+Publication check: the October 25 entries and evidence-clock matrix are prepared behind the physical-product gate; outreach remains unsent until the permanent pages are live.
+
+## October 25, 2026 — qualified opportunities (not contacted)
+
+### D.C. Board of Elections communications — mascot-versus-measure wording
+
+- Target: D.C. Board of Elections Communications Division
+- Route: https://dcboe.org/community-outreach/media (Sarah Graham, Director of Communications, is the listed media contact)
+- Matching Blappos asset: https://blappos.com/verification/#oct25-duck-ballot
+- Honest pitch angle: A voter-literacy entry that explicitly separates Olivia's campaign-mascot role from the Board's official Initiative 86 formulation, effective date, enforcement language and amendment path.
+- Qualification: DCBOE owns the authoritative ballot formulation and is the correct route for wording, election-date or measure-status corrections. Any optional contact should request a factual correction or stronger public voter resource only; it must not advocate for either side, ask for promotion or imply Board endorsement of the satire, affiliate products or magnet.
+
+### University of Utah science media — research-clock and unknown-compound boundary
+
+- Target: University of Utah Unews science media team and the <em>Lanmaoa asiatica</em> researchers
+- Route: https://unews.utah.edu/media-contacts/
+- Matching Blappos asset: https://blappos.com/verification/#oct25-tiny-people-mushroom
+- Honest pitch angle: A citation-ready digest that links the October 25 republication to the earlier <em>Mycologia</em> paper, records the DNA-supported species link and keeps the active compound and mechanism explicitly unresolved.
+- Qualification: The University team performed the specimen, sequencing and genome work and can correct the taxonomy, geography, gene-mining result or public-safety language. Any optional note should invite scientific correction or a stable public dataset/paper link only; it must not encourage consumption, request a backlink or suggest endorsement of the artwork, joke, affiliate cards or magnet.
+
+### Madrid City Council press office — route, count and civic-use matrix
+
+- Target: Ayuntamiento de Madrid press office and the Transhumance Festival information team
+- Route: https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/Datos-de-contacto/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=1fa2d013dfe1b510VgnVCM1000001d4a900aRCRD (prensa@madrid.es)
+- Matching Blappos asset: https://blappos.com/verification/#oct25-madrid-sheep-detour
+- Honest pitch angle: A public evidence matrix that preserves the city's 1,250-sheep and 160-goat count, identifies the Plaza de la Villa reception change and treats the march and Puerta del Sol demonstration as distinct, legitimate civic uses rather than a spectacle-versus-protest contest.
+- Qualification: The city published the closest route and animal-count notice and can correct logistics or festival context. Any optional message should invite a factual correction or permanent official route resource only; it must not minimize the housing protest, seek participant details, ask for promotion or imply municipal endorsement of the satire or products.
 
 ## October 23, 2026 — qualified opportunities (not contacted)
 

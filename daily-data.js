@@ -3455,3 +3455,82 @@ window.dailyStories = window.dailyStories.filter(story => !oct24StagingStories.s
 window.dailyStories.unshift(...oct24StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 24 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
 // October 24 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
+
+// October 25 edition. These stories remain hidden from the public collection
+// until the Printify workflow publishes and links each exact physical magnet.
+const oct25StagingStories = [
+  {
+    "id": "oct25-duck-ballot",
+    "isoDate": "2026-10-25",
+    "month": "October",
+    "date": "Oct 25, 2026",
+    "place": "Washington, D.C.",
+    "image": "assets/cards/2026-10-25-duck-ballot.webp",
+    "title": "D.C. Puts a 4½-Pound Duck on the Foie Gras Ballot",
+    "magnetUrl": "",
+    "magnetPrice": "",
+    "facts": "The Washington Post reported October 25 that Olivia, a 4½-pound Swedish Blue duck, had become the public mascot for D.C. Initiative 86, a November 3 ballot measure that would prohibit force-feeding birds and the sale of products made from force-fed birds, including foie gras. The official ballot formulation assigns routine enforcement to the Department of Energy and Environment. If approved, the law would take effect July 1, 2027, with civil penalties; the D.C. Council could later amend it through legislation.",
+    "why": "A charming campaign animal can focus attention, but it cannot replace the text voters are being asked to enact. The useful civic distinction is between the mascot, the advocates' animal-welfare case, opponents' objections about policy and wording, and the legally operative ballot summary. Reading those layers separately makes the story more than a photo opportunity and keeps a duck's popularity from being mistaken for statutory analysis.",
+    "angle": "The duck's breed and weight, the campaign role, the ballot date and the measure's stated effect end above. The Blappos interpretation: Washington has finally found a lobbyist whose entire platform fits into one quack. The magnet's duck, voters, podium, ballot box and skyline are original editorial illustration—not Olivia, a campaign logo, a Capitol photograph, voting advice or an endorsement of either side.",
+    "amazonLinks": [
+      {"title":"Contested Tastes: Foie Gras and the Politics of Food","image":"https://m.media-amazon.com/images/P/069118318X.01.LZZZZZZZ.jpg","alt":"Cover of Contested Tastes by Michaela DeSoucey","quip":"The book-length sociology of exactly how foie gras became a fight about taste, identity, animals and law.","salesPriority":5,"url":"https://www.amazon.com/dp/069118318X?tag=blappos-20"},
+      {"title":"The Citizen's Guide to Political Change","image":"https://m.media-amazon.com/images/P/B0DBFLFYB9.01.LZZZZZZZ.jpg","alt":"Cover of The Citizen's Guide to Political Change","quip":"A practical guide to ballot initiatives for everyone who wants to read past the mascot and into the mechanism.","salesPriority":5,"url":"https://www.amazon.com/dp/B0DBFLFYB9?tag=blappos-20"},
+      {"title":"Storey's Guide to Raising Ducks, 2nd Edition","image":"https://m.media-amazon.com/images/P/1603426922.01.LZZZZZZZ.jpg","alt":"Cover of Storey's Guide to Raising Ducks by Dave Holderread","quip":"The husbandry reference for understanding the actual bird behind Washington's most photogenic policy surrogate.","salesPriority":4,"url":"https://www.amazon.com/dp/1603426922?tag=blappos-20"}
+    ],
+    "source": "https://www.washingtonpost.com/dc-md-va/2026/10/25/meet-olivia-duck-quacking-keep-foie-gras-off-dc-menus/",
+    "sourceName": "Read The Washington Post's October 25 report and the official D.C. ballot formulation",
+    "sourcePublisher": "The Washington Post / D.C. Board of Elections",
+    "socialSummary": "The Washington Post reported October 25 that Olivia, a 4½-pound Swedish Blue duck, is campaigning for D.C. Initiative 86, a November 3 ballot measure concerning force-feeding birds and sales of resulting foie gras products.",
+    "socialPunchline": "Blappos: Washington found a lobbyist whose whole platform fits into one quack."
+  },
+  {
+    "id": "oct25-tiny-people-mushroom",
+    "isoDate": "2026-10-25",
+    "month": "October",
+    "date": "Oct 25, 2026",
+    "place": "Yunnan, China / northern Philippines",
+    "image": "assets/cards/2026-10-25-tiny-people-mushroom.webp",
+    "title": "A Mushroom Apparently Hires Hundreds of Tiny People",
+    "magnetUrl": "",
+    "magnetPrice": "",
+    "facts": "ScienceDaily's October 25 research digest revisited a 2026 Mycologia study in which DNA sequencing linked reports from southwest China and the northern Philippines to Lanmaoa asiatica. Independent accounts describe lilliputian hallucinations: numerous tiny human, animal or fantasy figures moving through the real environment. The University of Utah team found no close genomic matches to known biosynthetic genes for psilocybin or ibotenic acid, so the responsible compound and mechanism remain unknown.",
+    "why": "The result is an identification and a research lead, not an invitation to experiment. Similar reports across separated cultures make the phenomenon scientifically interesting, while the missing chemical explanation is the important uncertainty—not a license to fill the gap with folklore. Wild mushrooms are frequently misidentified, potentially poisonous and unsuitable for self-testing; the public value is in documented specimens, sequencing and controlled chemistry.",
+    "angle": "The October 25 digest clock, the earlier peer-reviewed study, the DNA link and the unknown-compound boundary end above. The Blappos interpretation: the mushroom does not contain a known psychedelic; it contains a fully staffed tiny-people department with unclear payroll. The magnet's mushroom, soup, spoon, miniature figures and Yunnan landscape are original surreal illustration—not a specimen photograph, identification guide, dosing advice or depiction of a verified individual experience.",
+    "amazonLinks": [
+      {"title":"Entangled Life","image":"https://m.media-amazon.com/images/P/052551032X.01.LZZZZZZZ.jpg","alt":"Cover of Entangled Life by Merlin Sheldrake","quip":"A lucid tour of fungal biology for the story where the organism is stranger than the familiar chemical explanation.","salesPriority":5,"url":"https://www.amazon.com/dp/052551032X?tag=blappos-20"},
+      {"title":"Mushrooms Demystified","image":"https://m.media-amazon.com/images/P/0898151694.01.LZZZZZZZ.jpg","alt":"Cover of Mushrooms Demystified by David Arora","quip":"A comprehensive field reference that also reinforces the first rule of mushroom mysteries: identify before you infer.","salesPriority":5,"url":"https://www.amazon.com/dp/0898151694?tag=blappos-20"},
+      {"title":"Fly Agaric: A Compendium","image":"https://m.media-amazon.com/images/P/0578714426.01.LZZZZZZZ.jpg","alt":"Cover of Fly Agaric edited by Kevin Feeney","quip":"History, pharmacology and folklore from a different psychoactive mushroom—useful contrast for a species whose active agent is still unknown.","salesPriority":4,"url":"https://www.amazon.com/dp/0578714426?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+    "sourceName": "Read ScienceDaily's October 25 digest and the linked Mycologia study",
+    "sourcePublisher": "ScienceDaily / University of Utah / Mycologia",
+    "socialSummary": "ScienceDaily's October 25 digest highlighted a 2026 study linking reports of tiny-figure hallucinations in China and the Philippines to Lanmaoa asiatica; researchers still do not know the active compound or mechanism.",
+    "socialPunchline": "Blappos: The mushroom appears to maintain a fully staffed tiny-people department."
+  },
+  {
+    "id": "oct25-madrid-sheep-detour",
+    "isoDate": "2026-10-25",
+    "month": "October",
+    "date": "Oct 25, 2026",
+    "place": "Madrid, Spain",
+    "image": "assets/cards/2026-10-25-madrid-sheep-detour.webp",
+    "title": "Madrid Reroutes 1,410 Sheep and Goats Around a Protest Camp",
+    "magnetUrl": "",
+    "magnetPrice": "",
+    "facts": "The Associated Press reported October 25 that Madrid's annual Transhumance Festival rerouted its livestock procession around a housing protest camp in Puerta del Sol. A city notice identified 1,250 sheep and 160 goats—1,410 animals total—and said the reception moved to Plaza de la Villa because the usual route could not cross the square. The protest followed the eviction of 87-year-old María del Carmen Abascal from her longtime home and her death in hospital shortly afterward.",
+    "why": "The detour joins three real urban systems: a protected civic demonstration, a modern city route and an ancient seasonal livestock tradition. Transhumance is not merely pageantry; grazing animals can clear brush and other flammable growth, while the festival preserves knowledge that has declined with rural depopulation and industrial farming. The humane joke is the traffic plan, not the housing crisis or the death that intensified it.",
+    "angle": "The AP report, municipal animal count, changed route and protest context end above. The Blappos interpretation: Madrid's traffic desk successfully rescheduled 1,410 bell-equipped pedestrians with no driver's licenses. The magnet's flock, shepherds, barriers, camp and square are original editorial illustration—not the real march, protesters, Maricarmen, an official route map or a claim that livestock resolved the housing dispute.",
+    "amazonLinks": [
+      {"title":"The Shepherd's Life","image":"https://m.media-amazon.com/images/P/1250060241.01.LZZZZZZZ.jpg","alt":"Cover of The Shepherd's Life by James Rebanks","quip":"A modern shepherd's account of the ancient work behind the flock that briefly became Madrid traffic.","salesPriority":5,"url":"https://www.amazon.com/dp/1250060241?tag=blappos-20"},
+      {"title":"The Sheep Book","image":"https://m.media-amazon.com/images/P/0804010323.01.LZZZZZZZ.jpg","alt":"Cover of The Sheep Book by Ronald B. Parker","quip":"A practical year in sheep and shepherding for the 1,250 members of the detour who supplied the wool.","salesPriority":5,"url":"https://www.amazon.com/dp/0804010323?tag=blappos-20"},
+      {"title":"Lonely Planet Madrid","image":"https://m.media-amazon.com/images/P/1838691863.01.LZZZZZZZ.jpg","alt":"Cover of Lonely Planet Madrid travel guide","quip":"A city guide for navigating Madrid on the days when the pedestrian route unexpectedly contains 1,410 livestock.","salesPriority":4,"url":"https://www.amazon.com/dp/1838691863?tag=blappos-20"}
+    ],
+    "source": "https://apnews.com/article/madrid-sheep-transhumance-festival-housing-protest-detour-4fae00a393370af0816c2460853b8e32",
+    "sourceName": "Read The Associated Press's October 25 report and Madrid's municipal notice",
+    "sourcePublisher": "Associated Press / Madrid City Council",
+    "socialSummary": "The Associated Press reported October 25 that Madrid's Transhumance Festival rerouted its 1,250 sheep and 160 goats around a Puerta del Sol housing protest camp, preserving both the march and the demonstration.",
+    "socialPunchline": "Blappos: Traffic control successfully rerouted 1,410 bell-equipped pedestrians."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct25StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct25StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
