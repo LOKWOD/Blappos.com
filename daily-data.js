@@ -3592,7 +3592,7 @@ const oct26StagingStories = [
     "date": "Oct 26, 2026",
     "place": "Mayang, Hunan, China",
     "image": "assets/cards/2026-10-26-water-motorcycle.webp",
-    "title": "The Road Ends; the Motorcycle Keeps Going for 40.74 Kilometers",
+    "title": "The Road Ends; the Motorcycle Keeps Going for 40.74 Kilometers","magnetUrl":"https://blappos.printify.me/product/33599765","magnetPrice":"$9.99",
     "facts": "UPI reported October 26 that Zhang Xue rode a modified ZXMOTO MX450 for 40.74 kilometers across open water in Mayang, Hunan, earning a Guinness World Records title. Reporting on the October 25 attempt describes repeated passes on the Chen River, a front ski for support and steering, waterproofing, an enlarged fuel tank and a rear tire that supplied propulsion while skimming the surface.",
     "why": "The record is a controlled demonstration of speed, flotation, traction and reliability—not evidence that a street motorcycle is secretly a boat. The exact category and specialized machine matter: repeated open-water passes accumulated the certified distance. That boundary makes the achievement more legible and keeps a striking clip from turning into unsafe imitation or a misleading consumer claim.",
     "angle": "The October 26 report, October 25 attempt, 40.74-kilometer certified distance and specialized-watercraft boundary end above. The Blappos interpretation: the road department forgot to pave the river, so the motorcycle filed a continuation plan. The magnet’s rider and machine are original editorial illustration—not Zhang, a ZXMOTO advertisement, a route map, ordinary-bike advice or encouragement to ride on water.",
