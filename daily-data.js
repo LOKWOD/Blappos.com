@@ -3548,7 +3548,7 @@ const oct26StagingStories = [
     "date": "Oct 26, 2026",
     "place": "Orlando, Florida",
     "image": "assets/cards/2026-10-26-evidence-detour.webp",
-    "title": "Orlando’s $760,000 Evidence Takes a Two-Week Detour",
+    "title": "Orlando’s $760,000 Evidence Takes a Two-Week Detour","magnetUrl":"https://blappos.printify.me/product/33599752","magnetPrice":"$9.99",
     "facts": "An October 26 report followed an October 22 State Attorney release announcing that a jury found Jaythan Gilder guilty of robbery and grand theft. Prosecutors said that in February 2025 he posed as a representative negotiating for a professional basketball player, took Tiffany & Co. merchandise valued above $760,000 and used force against an employee. After his arrest, he swallowed stolen earrings; authorities monitored him for nearly two weeks before recovering them. Sentencing was set for December 7.",
     "why": "The spectacle is not the whole case. The employee’s safety, a jury verdict and a still-pending sentence are the consequential facts; the unusual recovery belongs inside that legal timeline rather than replacing it. It also demonstrates why evidence custody sometimes extends beyond an evidence room—and why a prosecution release should be identified as the prosecution’s account even after a conviction.",
     "angle": "The October 26 report clock, the October 22 official verdict release, the February 2025 event and the pending sentence end above. The Blappos interpretation: the evidence entered transit without a tracking number. The magnet’s anonymous torso diagram, earrings, evidence envelope and courthouse are original editorial illustration—not a medical image, the defendant, the employee, a Tiffany design or a joke about the robbery victim.",
