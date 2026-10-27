@@ -3536,3 +3536,77 @@ window.dailyStories = window.dailyStories.filter(story => !oct25StagingStories.s
 window.dailyStories.unshift(...oct25StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 25 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
 // October 25 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
+
+// October 26 candidates remain invisible on the public site until the Printify workflow
+// publishes and links each exact physical magnet. Do not add blank magnet fields here:
+// the workflow selects stories for which magnetUrl is absent.
+const oct26StagingStories = [
+  {
+    "id": "oct26-evidence-detour",
+    "isoDate": "2026-10-26",
+    "month": "October",
+    "date": "Oct 26, 2026",
+    "place": "Orlando, Florida",
+    "image": "assets/cards/2026-10-26-evidence-detour.webp",
+    "title": "Orlando’s $760,000 Evidence Takes a Two-Week Detour",
+    "facts": "An October 26 report followed an October 22 State Attorney release announcing that a jury found Jaythan Gilder guilty of robbery and grand theft. Prosecutors said that in February 2025 he posed as a representative negotiating for a professional basketball player, took Tiffany & Co. merchandise valued above $760,000 and used force against an employee. After his arrest, he swallowed stolen earrings; authorities monitored him for nearly two weeks before recovering them. Sentencing was set for December 7.",
+    "why": "The spectacle is not the whole case. The employee’s safety, a jury verdict and a still-pending sentence are the consequential facts; the unusual recovery belongs inside that legal timeline rather than replacing it. It also demonstrates why evidence custody sometimes extends beyond an evidence room—and why a prosecution release should be identified as the prosecution’s account even after a conviction.",
+    "angle": "The October 26 report clock, the October 22 official verdict release, the February 2025 event and the pending sentence end above. The Blappos interpretation: the evidence entered transit without a tracking number. The magnet’s anonymous torso diagram, earrings, evidence envelope and courthouse are original editorial illustration—not a medical image, the defendant, the employee, a Tiffany design or a joke about the robbery victim.",
+    "amazonLinks": [
+      {"title":"Stoned: Jewelry, Obsession, and How Desire Shapes the World","image":"https://m.media-amazon.com/images/P/0062334700.01.LZZZZZZZ.jpg","alt":"Cover of Stoned by Aja Raden","quip":"A history of how precious objects acquire enough human meaning to turn a tiny pair of earrings into a very large case file.","salesPriority":5,"url":"https://www.amazon.com/dp/0062334700?tag=blappos-20"},
+      {"title":"The Cartiers: The Untold Story of the Family Behind the Jewelry Empire","image":"https://m.media-amazon.com/images/P/052562161X.01.LZZZZZZZ.jpg","alt":"Cover of The Cartiers by Francesca Cartier Brickell","quip":"A family and luxury-history companion for the world of high-value jewelry behind the evidence log.","salesPriority":5,"url":"https://www.amazon.com/dp/052562161X?tag=blappos-20"},
+      {"title":"Forensics: What Bugs, Burns, Prints, DNA, and More Tell Us About Crime","image":"https://m.media-amazon.com/images/P/0802125158.01.LZZZZZZZ.jpg","alt":"Cover of Forensics by Val McDermid","quip":"The evidence-science primer for a case whose chain of custody took the least glamorous possible route.","salesPriority":4,"url":"https://www.amazon.com/dp/0802125158?tag=blappos-20"}
+    ],
+    "source": "https://nypost.com/2026/10/26/us-news/florida-man-convicted-of-stealing-over-760k-worth-of-tiffanys-jewelry-he-swallowed/",
+    "sourceName": "Read the New York Post’s October 26 report and the State Attorney’s October 22 verdict release",
+    "sourcePublisher": "New York Post",
+    "socialSummary": "A jury convicted a man of robbery and grand theft in a $760,000 jewelry case; prosecutors said he swallowed stolen earrings after arrest, and authorities recovered them nearly two weeks later.",
+    "socialPunchline": "Blappos: The evidence entered transit without a tracking number."
+  },
+  {
+    "id": "oct26-prosthetic-sense",
+    "isoDate": "2026-10-26",
+    "month": "October",
+    "date": "Oct 26, 2026",
+    "place": "Pisa, Italy / Cleveland, Ohio",
+    "image": "assets/cards/2026-10-26-prosthetic-sense.webp",
+    "title": "A Prosthetic Hand Learns Where It Is Without Looking",
+    "facts": "SciTechDaily’s October 26 digest revisited a Science Advances study published in June. Researchers implanted three small biocompatible magnets in residual forearm muscles of one 34-year-old participant with a traumatic amputation. External electromagnetic coils vibrated individual implants without touching the skin; the participant reported coordinated sensations of the missing hand moving, a form of kinesthesia that could supply position feedback for a prosthetic interface.",
+    "why": "Most prosthetic control emphasizes sending a command out; natural movement also depends on feedback coming back. A position sense could reduce the need to watch a device constantly. But this was one participant during a short feasibility study, and the induced percepts concerned coordinated hand movement—not restored touch, independent finger sensation or proof that a broadly available clinical product is ready.",
+    "angle": "The October 26 digest clock, June paper, one-person sample and kinesthesia-versus-touch boundary end above. The Blappos interpretation: the hand has acquired an internal GPS and immediately stopped asking the eyeballs for directions. The magnet’s anonymous person, prosthetic hand, forearm implants and signal arcs are original editorial illustration—not the participant, surgical guidance, a product claim or a promise of restored sensation.",
+    "amazonLinks": [
+      {"title":"The Body Factory: From the First Prosthetics to the Augmented Human","image":"https://m.media-amazon.com/images/P/0271087064.01.LZZZZZZZ.jpg","alt":"Cover of The Body Factory by Héloïse Chochois","quip":"An illustrated history of prosthetics that puts one experimental sensory interface on a much longer engineering timeline.","salesPriority":5,"url":"https://www.amazon.com/dp/0271087064?tag=blappos-20"},
+      {"title":"Biomechanical Basis of Human Movement","image":"https://m.media-amazon.com/images/P/1451194048.01.LZZZZZZZ.jpg","alt":"Cover of Biomechanical Basis of Human Movement","quip":"The movement-science reference for understanding why knowing where a limb is matters as much as telling it where to go.","salesPriority":5,"url":"https://www.amazon.com/dp/1451194048?tag=blappos-20"},
+      {"title":"Ultimate Engineering: An Engineer Investigates the Biomechanics of the Human Body","image":"https://m.media-amazon.com/images/P/1637120842.01.LZZZZZZZ.jpg","alt":"Cover of Ultimate Engineering by Paul Mason","quip":"A younger-reader bridge from muscles and joints to the engineering problem of rebuilding useful feedback.","salesPriority":4,"url":"https://www.amazon.com/dp/1637120842?tag=blappos-20"}
+    ],
+    "source": "https://scitechdaily.com/tiny-magnets-implanted-in-muscles-are-giving-prosthetic-hands-a-remarkable-new-ability/",
+    "sourceName": "Read SciTechDaily’s October 26 digest and the linked Science Advances study",
+    "sourcePublisher": "SciTechDaily",
+    "socialSummary": "A June one-participant study resurfaced October 26: vibrating three magnets implanted in residual forearm muscles produced coordinated missing-hand movement sensations that could provide prosthetic position feedback.",
+    "socialPunchline": "Blappos: The hand got an internal GPS and stopped asking the eyeballs for directions."
+  },
+  {
+    "id": "oct26-water-motorcycle",
+    "isoDate": "2026-10-26",
+    "month": "October",
+    "date": "Oct 26, 2026",
+    "place": "Mayang, Hunan, China",
+    "image": "assets/cards/2026-10-26-water-motorcycle.webp",
+    "title": "The Road Ends; the Motorcycle Keeps Going for 40.74 Kilometers",
+    "facts": "UPI reported October 26 that Zhang Xue rode a modified ZXMOTO MX450 for 40.74 kilometers across open water in Mayang, Hunan, earning a Guinness World Records title. Reporting on the October 25 attempt describes repeated passes on the Chen River, a front ski for support and steering, waterproofing, an enlarged fuel tank and a rear tire that supplied propulsion while skimming the surface.",
+    "why": "The record is a controlled demonstration of speed, flotation, traction and reliability—not evidence that a street motorcycle is secretly a boat. The exact category and specialized machine matter: repeated open-water passes accumulated the certified distance. That boundary makes the achievement more legible and keeps a striking clip from turning into unsafe imitation or a misleading consumer claim.",
+    "angle": "The October 26 report, October 25 attempt, 40.74-kilometer certified distance and specialized-watercraft boundary end above. The Blappos interpretation: the road department forgot to pave the river, so the motorcycle filed a continuation plan. The magnet’s rider and machine are original editorial illustration—not Zhang, a ZXMOTO advertisement, a route map, ordinary-bike advice or encouragement to ride on water.",
+    "amazonLinks": [
+      {"title":"Zen and the Art of Motorcycle Maintenance","image":"https://m.media-amazon.com/images/P/0060589469.01.LZZZZZZZ.jpg","alt":"Cover of Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig","quip":"The classic road philosophy for the record attempt that calmly continued after the road had become a river.","salesPriority":5,"url":"https://www.amazon.com/dp/0060589469?tag=blappos-20"},
+      {"title":"How to Build a Motorcycle: A Nut-and-Bolt Guide to Customizing Your Bike","image":"https://m.media-amazon.com/images/P/1786277581.01.LZZZZZZZ.jpg","alt":"Cover of How to Build a Motorcycle by Gary Inman and Adi Gilbert","quip":"A customization guide for appreciating the mechanical craft—strictly on dry land—behind a purpose-built machine.","salesPriority":5,"url":"https://www.amazon.com/dp/1786277581?tag=blappos-20"},
+      {"title":"The Motorcycle: Design, Art, Desire","image":"https://m.media-amazon.com/images/P/1838666567.01.LZZZZZZZ.jpg","alt":"Cover of The Motorcycle: Design, Art, Desire","quip":"A visual design history for anyone who believes motorcycles have already exhausted every possible surface. They have not.","salesPriority":4,"url":"https://www.amazon.com/dp/1838666567?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/26/guinness-world-records-motorcycle-water/9111793033790/",
+    "sourceName": "Read UPI’s October 26 report and supporting record-attempt coverage",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Zhang Xue earned a Guinness World Records title by riding a specially modified motorcycle 40.74 kilometers across open water in Hunan, using a front ski and the rear tire for propulsion.",
+    "socialPunchline": "Blappos: The road ended, so the motorcycle filed a continuation plan."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct26StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct26StagingStories.filter(story => story.magnetUrl && story.magnetPrice));

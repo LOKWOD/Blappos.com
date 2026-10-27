@@ -1019,3 +1019,30 @@ Publication check: the October 25 entries and evidence-clock matrix are prepared
 - Matching Blappos asset: https://blappos.com/verification/#oct24-ai-breakfast-soda
 - Honest pitch angle: A reusable product-image checklist that credits the company’s apology and pause, distinguishes an AI-generation label from accuracy and sets practical restaurant-approval, reference-image and correction gates.
 - Qualification: The company owns the trial status and can correct its scope, label, restaurant-consent process or remediation. Any optional contact should invite a factual correction or a stronger public policy link only; it must not seek promotion, claim every trial image failed or imply the company endorses the satire or merchandise.
+
+
+## October 26, 2026 — qualified opportunities (not contacted)
+
+### Ninth Judicial Circuit State Attorney — verdict and evidence-custody record
+
+- Target: Office of the State Attorney, Ninth Judicial Circuit public information office
+- Route: https://sao9.net/contact-us/ (PIO@sao9.org)
+- Matching Blappos asset: https://blappos.com/verification/#oct26-evidence-detour
+- Honest pitch angle: A source-labeled verdict entry that separates the February 2025 event, October 22 official release, October 26 wider report and December 7 sentencing date while treating the employee and alleged force seriously.
+- Qualification: The office owns the closest public prosecution record and can correct the verdict, value, recovery timeline or sentencing date. Any optional message should invite factual correction or a stronger court-record link only; it must not seek promotion, imply endorsement, identify the victim or foreground satire and merchandise.
+
+### Scuola Superiore Sant’Anna — muscle-interface study boundary
+
+- Target: Scuola Superiore Sant’Anna communications office / BioRobotics Institute research team
+- Route: https://www.santannapisa.it/en/news/mano-robotica-che-sente-movimento-science-advances
+- Matching Blappos asset: https://blappos.com/verification/#oct26-prosthetic-sense
+- Honest pitch angle: A public evidence-transfer matrix that preserves the one-participant feasibility boundary and distinguishes coordinated kinesthetic feedback from touch, independent finger sensation and a clinically available product.
+- Qualification: The institution conducted the work and can correct the implant count, stimulation method, sample, duration or interpretation. Any optional contact should request factual correction or a stable public method link only; it must not imply institutional endorsement or advertise the magnet.
+
+### Guinness World Records press office — open-water category and method
+
+- Target: Guinness World Records press office
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct26-water-motorcycle
+- Honest pitch angle: A category-first record explainer that preserves the 40.74-kilometer certified distance, repeated-pass method and specialist machine boundary rather than implying an ordinary motorcycle crossed one continuous straight route.
+- Qualification: Guinness owns the record category and certification language and can correct the title, distance, attempt date or category scope. Any optional message should invite correction or the definitive public record page only; it must not seek a backlink, imply safety approval or turn certification into an endorsement of the art or product.
