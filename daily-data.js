@@ -3570,7 +3570,7 @@ const oct26StagingStories = [
     "date": "Oct 26, 2026",
     "place": "Pisa, Italy / Cleveland, Ohio",
     "image": "assets/cards/2026-10-26-prosthetic-sense.webp",
-    "title": "A Prosthetic Hand Learns Where It Is Without Looking",
+    "title": "A Prosthetic Hand Learns Where It Is Without Looking","magnetUrl":"https://blappos.printify.me/product/33599756","magnetPrice":"$9.99",
     "facts": "SciTechDaily’s October 26 digest revisited a Science Advances study published in June. Researchers implanted three small biocompatible magnets in residual forearm muscles of one 34-year-old participant with a traumatic amputation. External electromagnetic coils vibrated individual implants without touching the skin; the participant reported coordinated sensations of the missing hand moving, a form of kinesthesia that could supply position feedback for a prosthetic interface.",
     "why": "Most prosthetic control emphasizes sending a command out; natural movement also depends on feedback coming back. A position sense could reduce the need to watch a device constantly. But this was one participant during a short feasibility study, and the induced percepts concerned coordinated hand movement—not restored touch, independent finger sensation or proof that a broadly available clinical product is ready.",
     "angle": "The October 26 digest clock, June paper, one-person sample and kinesthesia-versus-touch boundary end above. The Blappos interpretation: the hand has acquired an internal GPS and immediately stopped asking the eyeballs for directions. The magnet’s anonymous person, prosthetic hand, forearm implants and signal arcs are original editorial illustration—not the participant, surgical guidance, a product claim or a promise of restored sensation.",
