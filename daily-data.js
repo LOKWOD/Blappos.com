@@ -3668,7 +3668,7 @@ const oct27StagingStories = [
     "date": "Oct 27, 2026",
     "place": "Atlanta, Georgia",
     "image": "assets/cards/2026-10-27-earwax-barrier.webp",
-    "title": "Earwax Turns Out to Be a Tiny Ant Obstacle Course",
+    "title": "Earwax Turns Out to Be a Tiny Ant Obstacle Course","magnetUrl":"https://blappos.printify.me/product/33640568","magnetPrice":"$9.99",
     "facts": "In an October 27 first-person explainer for The Conversation, Georgia Tech researcher David Hu described experiments published in Soft Matter showing that earwax is both slick and adhesive. The team used microscopy, rheology, ant-climbing tests and artificial earwax to study its porous, water-absorbing and viscoelastic behavior. Ants struggled both to climb wax-coated surfaces and to clean wax from their bodies.",
     "why": "The combined properties offer a mechanical explanation for how mammalian earwax could impede small invaders and may inspire lower-toxicity insect barriers. But this is a materials-and-ant study, not proof that earwax stops every insect, a finished repellent product or permission to put experimental substances in an ear. The paper also found that wax became brittle over roughly ten weeks, a possible route to self-removal.",
     "angle": "The October 27 explainer, September 22 paper, ant experiments and product ceiling end above. The Blappos interpretation: the ear canal has been operating a sticky-floor nightclub policy without a bouncer. The magnet's generic ear cross-section, ants and magnifier are original editorial illustration—not a medical diagram, treatment advice or a claim about any person's ear.",
