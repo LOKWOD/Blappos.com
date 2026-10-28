@@ -3624,7 +3624,7 @@ const oct27StagingStories = [
     "date": "Oct 27, 2026",
     "place": "Tennessee",
     "image": "assets/cards/2026-10-27-knuckle-handstand.webp",
-    "title": "A Gymnast Holds a Handstand on His Knuckles for 83 Seconds",
+    "title": "A Gymnast Holds a Handstand on His Knuckles for 83 Seconds","magnetUrl":"https://blappos.printify.me/product/33640558","magnetPrice":"$9.99",
     "facts": "Guinness World Records reported October 27 that Tennessee gymnast Madden Shelley earned the male title for longest handstand on the knuckles by balancing for 1 minute 23 seconds. The certified performance happened on September 11, 2025. Shelley said he trained in three phases for more than four months after injuries had interrupted his competitive gymnastics path.",
     "why": "The record is an unusually specific test of balance, body control and pain tolerance, not a general handstand recommendation. Shelley said the position compressed his knuckles beyond perpendicular and caused swelling after attempts. The certification date, exact category and long training timeline keep a striking result from becoming a safe-looking challenge for an untrained viewer.",
     "angle": "The October 27 publication clock, September 11, 2025 attempt, male record category and injury boundary end above. The Blappos interpretation: he put the entire concept of standing on the smallest possible support surface. The magnet's anonymous gymnast, gym and stopwatch are original editorial illustration—not Shelley, an instruction, a copied photograph or Guinness branding.",
