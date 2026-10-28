@@ -3688,3 +3688,5 @@ window.dailyStories = window.dailyStories.filter(story => !oct27StagingStories.s
 window.dailyStories.unshift(...oct27StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 27 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
 // October 27 permanent-page check passed: source context, artwork links and BUY CTAs are ready; authorize Buffer scheduling.
+
+// October 27 live-page QA passed: exact story magnet CTAs and product pages verified before social release.
