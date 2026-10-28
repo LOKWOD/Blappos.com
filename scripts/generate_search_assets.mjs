@@ -49,6 +49,24 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'oct27-knuckle-handstand': 'oct27-knuckle-handstand',
+    'oct27-spider-sleep': 'oct27-spider-sleep',
+    'oct27-earwax-barrier': 'oct27-earwax-barrier',
+    'oct26-evidence-detour': 'oct26-evidence-detour',
+    'oct26-prosthetic-sense': 'oct26-prosthetic-sense',
+    'oct26-water-motorcycle': 'oct26-water-motorcycle',
+    'oct25-duck-ballot': 'oct25-duck-ballot',
+    'oct25-tiny-people-mushroom': 'oct25-tiny-people-mushroom',
+    'oct25-madrid-sheep-detour': 'oct25-madrid-sheep-detour',
+    'oct24-las-vegas-no-tip': 'oct24-las-vegas-no-tip',
+    'oct24-rolling-snakes': 'oct24-rolling-snakes',
+    'oct24-ai-breakfast-soda': 'oct24-ai-breakfast-soda',
+    'oct23-miami-piano': 'oct23-miami-piano',
+    'oct23-lionfish-tasting': 'oct23-lionfish-tasting',
+    'oct23-kangaroo-rumors': 'oct23-kangaroo-rumors',
+    'oct22-earhart-driftwood': 'oct22-earhart-driftwood',
+    'oct22-busan-shark-return': 'oct22-busan-shark-return',
+    'oct22-chameleon-tree-rescue': 'oct22-chameleon-tree-rescue',
     'oct21-space-object': 'oct21-space-object',
     'oct21-696-car-train': 'oct21-696-car-train',
     'oct21-crocs-warm-climates': 'oct21-crocs-warm-climates',
@@ -196,11 +214,17 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'oct27-knuckle-handstand': ['oct8-five-hour-plank', 'oct11-stroller-velocity'],
+  'oct8-five-hour-plank': ['oct27-knuckle-handstand'],
+  'oct11-stroller-velocity': ['oct27-knuckle-handstand'],
+  'oct27-spider-sleep': ['oct24-rolling-snakes', 'sep21-singing-lemurs'],
+  'sep21-singing-lemurs': ['oct27-spider-sleep'],
+  'oct27-earwax-barrier': ['oct26-prosthetic-sense', 'jun-bacteria', 'oct7-mirror-molecules'],
   'oct26-evidence-detour': ['oct8-sewer-ring', 'sep22-inconvenience-store'],
   'oct8-sewer-ring': ['oct26-evidence-detour', 'oct21-space-object'],
   'sep22-inconvenience-store': ['oct26-evidence-detour'],
-  'oct26-prosthetic-sense': ['oct24-rolling-snakes', 'oct20-plant-help-desk'],
-  'oct24-rolling-snakes': ['oct26-prosthetic-sense'],
+  'oct26-prosthetic-sense': ['oct27-earwax-barrier', 'oct24-rolling-snakes', 'oct20-plant-help-desk'],
+  'oct24-rolling-snakes': ['oct27-spider-sleep', 'oct26-prosthetic-sense'],
   'oct20-plant-help-desk': ['oct26-prosthetic-sense', 'jun-bacteria', 'oct7-mirror-molecules'],
   'oct26-water-motorcycle': ['oct16-roadster-kickflip', 'oct7-ride-dive'],
   'oct16-roadster-kickflip': ['oct26-water-motorcycle'],
@@ -213,8 +237,8 @@ const topicLinks = {
   'oct21-crocs-warm-climates': ['sep11-prince-william-croc', 'oct8-water-mammal'],
   'sep11-prince-william-croc': ['oct21-crocs-warm-climates'],
   'oct8-water-mammal': ['oct21-crocs-warm-climates'],
-  'jun-bacteria': ['oct20-plant-help-desk'],
-  'oct7-mirror-molecules': ['oct20-plant-help-desk'],
+  'jun-bacteria': ['oct27-earwax-barrier', 'oct20-plant-help-desk'],
+  'oct7-mirror-molecules': ['oct27-earwax-barrier', 'oct20-plant-help-desk'],
   'oct20-cowboy-hat-bar': ['oct12-zeekr-25cm-drift', 'oct19-cube-robot'],
   'oct12-zeekr-25cm-drift': ['oct20-cowboy-hat-bar'],
   'oct19-cube-robot': ['oct21-696-car-train', 'oct20-cowboy-hat-bar'],
@@ -337,7 +361,7 @@ fs.writeFileSync(indexPath, homepage);
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-10-18' },
+  { loc: `${origin}/verification/`, lastmod: '2026-10-28' },
   { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];

@@ -3612,3 +3612,77 @@ window.dailyStories = window.dailyStories.filter(story => !oct26StagingStories.s
 window.dailyStories.unshift(...oct26StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 26 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
 // October 26 permanent-page check passed: source context, artwork links and BUY CTAs are ready; authorize Buffer scheduling.
+
+// October 27 candidates remain invisible on the public site until the Printify workflow
+// publishes and links each exact physical magnet. Do not add blank magnet fields here:
+// the workflow selects stories for which magnetUrl is absent.
+const oct27StagingStories = [
+  {
+    "id": "oct27-knuckle-handstand",
+    "isoDate": "2026-10-27",
+    "month": "October",
+    "date": "Oct 27, 2026",
+    "place": "Tennessee",
+    "image": "assets/cards/2026-10-27-knuckle-handstand.webp",
+    "title": "A Gymnast Holds a Handstand on His Knuckles for 83 Seconds",
+    "facts": "Guinness World Records reported October 27 that Tennessee gymnast Madden Shelley earned the male title for longest handstand on the knuckles by balancing for 1 minute 23 seconds. The certified performance happened on September 11, 2025. Shelley said he trained in three phases for more than four months after injuries had interrupted his competitive gymnastics path.",
+    "why": "The record is an unusually specific test of balance, body control and pain tolerance, not a general handstand recommendation. Shelley said the position compressed his knuckles beyond perpendicular and caused swelling after attempts. The certification date, exact category and long training timeline keep a striking result from becoming a safe-looking challenge for an untrained viewer.",
+    "angle": "The October 27 publication clock, September 11, 2025 attempt, male record category and injury boundary end above. The Blappos interpretation: he put the entire concept of standing on the smallest possible support surface. The magnet's anonymous gymnast, gym and stopwatch are original editorial illustration—not Shelley, an instruction, a copied photograph or Guinness branding.",
+    "amazonLinks": [
+      {"title":"Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength","image":"https://m.media-amazon.com/images/P/0990873854.01.LZZZZZZZ.jpg","alt":"Cover of Overcoming Gravity by Steven Low","quip":"A structured bodyweight-strength reference for understanding the preparation behind advanced balance skills—not a shortcut to the knuckle version.","salesPriority":5,"url":"https://www.amazon.com/dp/0990873854?tag=blappos-20"},
+      {"title":"Complete Calisthenics, Second Edition","image":"https://m.media-amazon.com/images/P/1623174112.01.LZZZZZZZ.jpg","alt":"Cover of Complete Calisthenics by Ashley Kalym","quip":"Progressions, recovery and technique for readers who would like their upside-down ambitions to begin somewhere more sensible than their knuckles.","salesPriority":5,"url":"https://www.amazon.com/dp/1623174112?tag=blappos-20"},
+      {"title":"Gymnastics: Skills, Techniques, Training","image":"https://m.media-amazon.com/images/P/1847974074.01.LZZZZZZZ.jpg","alt":"Cover of Gymnastics: Skills, Techniques, Training by Lloyd Readhead","quip":"A sport-specific guide that puts one record pose inside the much larger discipline of trained gymnastics movement.","salesPriority":4,"url":"https://www.amazon.com/dp/1847974074?tag=blappos-20"}
+    ],
+    "source": "https://www.guinnessworldrecords.com/news/2026/10/american-gymnast-knuckles-down-to-nail-record-breaking-handstand",
+    "sourceName": "Read Guinness World Records' October 27 report",
+    "sourcePublisher": "Guinness World Records",
+    "socialSummary": "Guinness World Records reported October 27 that Tennessee gymnast Madden Shelley earned the male knuckle-handstand title with a certified 1 minute 23 second performance after more than four months of specialized training.",
+    "socialPunchline": "Blappos: He put the entire concept of standing on the smallest possible support surface."
+  },
+  {
+    "id": "oct27-spider-sleep",
+    "isoDate": "2026-10-27",
+    "month": "October",
+    "date": "Oct 27, 2026",
+    "place": "Bonn, Germany / northern Australia",
+    "image": "assets/cards/2026-10-27-spider-sleep.webp",
+    "title": "Jumping Spiders Clock Two Sleep Stages; Dreams Stay Unverified",
+    "facts": "The University of Bonn reported October 27 that researchers found two distinguishable sleep stages in the Australian jumping spider Portia fimbriata, including a REM-like phase with eye movements and muscle twitches. The team recorded spiders over several day-night cycles, tested their responses to sound and interrupted sleep to look for compensating sleep rebound. The peer-reviewed study appeared in PNAS.",
+    "why": "The work supplies a strong behavioral case for regulated sleep in a spider and gives comparative biology a very distant branch for studying how sleep evolved. It does not prove that spiders dream: the team did not measure brain activity, and REM-like movement is evidence of a sleep stage rather than a transcript of subjective experience.",
+    "angle": "The two stages, behavioral tests, acoustic arousal method and dreaming limit end above. The Blappos interpretation: the web now has a night mode, but its browsing history remains private. The magnet's spider, silk hammock, moon and waveforms are original editorial illustration—not a study frame, brain trace or claim that researchers watched a spider dream.",
+    "amazonLinks": [
+      {"title":"Biology of Spiders","image":"https://m.media-amazon.com/images/P/0199734828.01.LZZZZZZZ.jpg","alt":"Cover of Biology of Spiders by Rainer F. Foelix","quip":"The comprehensive arachnid reference for placing one two-stage sleep result inside the biology of an extraordinarily varied order.","salesPriority":5,"url":"https://www.amazon.com/dp/0199734828?tag=blappos-20"},
+      {"title":"Spider Silk: Evolution and 400 Million Years of Spinning, Waiting, Snagging, and Mating","image":"https://m.media-amazon.com/images/P/0300181469.01.LZZZZZZZ.jpg","alt":"Cover of Spider Silk by Leslie Brunetta and Catherine L. Craig","quip":"A readable evolutionary history of the material that also gives Portia a place to hang upside down for the night shift.","salesPriority":5,"url":"https://www.amazon.com/dp/0300181469?tag=blappos-20"},
+      {"title":"The Private Life of Spiders","image":"https://m.media-amazon.com/images/P/0691150036.01.LZZZZZZZ.jpg","alt":"Cover of The Private Life of Spiders by Paul Hillyard","quip":"A visual tour of spider behavior for readers newly curious about what eight-legged lives contain when the laboratory lights go out.","salesPriority":4,"url":"https://www.amazon.com/dp/0691150036?tag=blappos-20"}
+    ],
+    "source": "https://www.uni-bonn.de/en/news/221-2026",
+    "sourceName": "Read the University of Bonn's October 27 research explainer and linked PNAS paper",
+    "sourcePublisher": "University of Bonn",
+    "socialSummary": "University of Bonn researchers reported two regulated sleep stages in Portia fimbriata jumping spiders, including a REM-like phase; response tests and sleep rebound supported sleep, but the study did not establish dreaming.",
+    "socialPunchline": "Blappos: The web has a night mode, but its browsing history remains private."
+  },
+  {
+    "id": "oct27-earwax-barrier",
+    "isoDate": "2026-10-27",
+    "month": "October",
+    "date": "Oct 27, 2026",
+    "place": "Atlanta, Georgia",
+    "image": "assets/cards/2026-10-27-earwax-barrier.webp",
+    "title": "Earwax Turns Out to Be a Tiny Ant Obstacle Course",
+    "facts": "In an October 27 first-person explainer for The Conversation, Georgia Tech researcher David Hu described experiments published in Soft Matter showing that earwax is both slick and adhesive. The team used microscopy, rheology, ant-climbing tests and artificial earwax to study its porous, water-absorbing and viscoelastic behavior. Ants struggled both to climb wax-coated surfaces and to clean wax from their bodies.",
+    "why": "The combined properties offer a mechanical explanation for how mammalian earwax could impede small invaders and may inspire lower-toxicity insect barriers. But this is a materials-and-ant study, not proof that earwax stops every insect, a finished repellent product or permission to put experimental substances in an ear. The paper also found that wax became brittle over roughly ten weeks, a possible route to self-removal.",
+    "angle": "The October 27 explainer, September 22 paper, ant experiments and product ceiling end above. The Blappos interpretation: the ear canal has been operating a sticky-floor nightclub policy without a bouncer. The magnet's generic ear cross-section, ants and magnifier are original editorial illustration—not a medical diagram, treatment advice or a claim about any person's ear.",
+    "amazonLinks": [
+      {"title":"Sticky: The Secret Science of Surfaces","image":"https://m.media-amazon.com/images/P/1472950836.01.LZZZZZZZ.jpg","alt":"Cover of Sticky by Laurie Winkless","quip":"A materials-science tour of adhesion and friction for the substance that somehow chose both sides of the slippery-versus-sticky argument.","salesPriority":5,"url":"https://www.amazon.com/dp/1472950836?tag=blappos-20"},
+      {"title":"Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World","image":"https://m.media-amazon.com/images/P/0544483944.01.LZZZZZZZ.jpg","alt":"Cover of Stuff Matters by Mark Miodownik","quip":"A guide to seeing everyday materials as engineering systems—even when the material was never invited onto the usual list.","salesPriority":5,"url":"https://www.amazon.com/dp/0544483944?tag=blappos-20"},
+      {"title":"Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees","image":"https://m.media-amazon.com/images/P/1541645766.01.LZZZZZZZ.jpg","alt":"Cover of Never Home Alone by Rob Dunn","quip":"A household-ecology companion for remembering that the tiny visitors around us have been negotiating barriers for a very long time.","salesPriority":4,"url":"https://www.amazon.com/dp/1541645766?tag=blappos-20"}
+    ],
+    "source": "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324",
+    "sourceName": "Read The Conversation's October 27 research explainer and the linked Soft Matter paper",
+    "sourcePublisher": "The Conversation",
+    "socialSummary": "A Georgia Tech team reported that earwax is both slick and adhesive: microscopy, materials testing and ant experiments showed ants struggled to climb wax-coated surfaces and remove wax from their bodies.",
+    "socialPunchline": "Blappos: The ear canal has been operating a sticky-floor nightclub policy without a bouncer."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct27StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct27StagingStories.filter(story => story.magnetUrl && story.magnetPrice));

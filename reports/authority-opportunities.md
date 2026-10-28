@@ -1046,3 +1046,30 @@ Publication check: the October 25 entries and evidence-clock matrix are prepared
 - Matching Blappos asset: https://blappos.com/verification/#oct26-water-motorcycle
 - Honest pitch angle: A category-first record explainer that preserves the 40.74-kilometer certified distance, repeated-pass method and specialist machine boundary rather than implying an ordinary motorcycle crossed one continuous straight route.
 - Qualification: Guinness owns the record category and certification language and can correct the title, distance, attempt date or category scope. Any optional message should invite correction or the definitive public record page only; it must not seek a backlink, imply safety approval or turn certification into an endorsement of the art or product.
+
+
+## October 27, 2026 — qualified opportunities (not contacted)
+
+### University of Bonn Institute of Organismic Biology — spider-sleep claim ceiling
+
+- Target: University of Bonn communications team and the Portia fimbriata sleep research group
+- Route: https://www.uni-bonn.de/en/news/221-2026 (researcher contact details are listed on the official release)
+- Matching Blappos asset: https://blappos.com/verification/#oct27-clip-to-claim-checklist and https://blappos.com/verification/#oct27-spider-sleep
+- Honest pitch angle: A compact evidence-literacy checklist and worked source note that preserve acoustic arousal, sleep rebound and the two-stage result while stating prominently that REM-like movement does not establish dreams.
+- Qualification: The university published the closest public explainer and links the PNAS paper. Any optional contact should invite correction of method, species, terminology or claim ceiling only; it must not request promotion, imply university endorsement or foreground the magnet and affiliate cards.
+
+### Georgia Tech Institute Communications — biomaterials and ant-test explainer
+
+- Target: Georgia Tech Institute Communications / College of Engineering research communications and the David Hu laboratory
+- Route: https://coe.gatech.edu/news/contact-us
+- Matching Blappos asset: https://blappos.com/verification/#oct27-clip-to-claim-checklist and https://blappos.com/verification/#oct27-earwax-barrier
+- Honest pitch angle: A public materials-science digest that connects microscopy, rheology and ant tests to the slick-plus-adhesive conclusion while keeping the eco-friendly-barrier idea at the level of future design rather than a finished repellent or medical claim.
+- Qualification: The authors are based at Georgia Tech and the college maintains a routine communications route. Any optional contact should ask for a factual or method correction, a stronger open paper link or clarification of the artificial-earwax formulation only; it must not seek a backlink or imply clinical or commercial endorsement.
+
+### Guinness World Records press office — certified-result versus safety boundary
+
+- Target: Guinness World Records press centre
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct27-clip-to-claim-checklist and https://blappos.com/verification/#oct27-knuckle-handstand
+- Honest pitch angle: A record-literacy example that separates the September 11, 2025 performance from the October 27, 2026 publication, preserves the exact male category and 1:23 result, and keeps the athlete's pain and swelling account attached as a safety boundary.
+- Qualification: Guinness owns the certification language and can correct the title, performance date, duration or category. Any optional contact should invite factual correction or a definitive public record page only; it must not ask for promotion or imply Guinness approval of the training method, artwork, merchandise or affiliate products.
