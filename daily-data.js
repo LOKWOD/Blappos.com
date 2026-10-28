@@ -3646,7 +3646,7 @@ const oct27StagingStories = [
     "date": "Oct 27, 2026",
     "place": "Bonn, Germany / northern Australia",
     "image": "assets/cards/2026-10-27-spider-sleep.webp",
-    "title": "Jumping Spiders Clock Two Sleep Stages; Dreams Stay Unverified",
+    "title": "Jumping Spiders Clock Two Sleep Stages; Dreams Stay Unverified","magnetUrl":"https://blappos.printify.me/product/33640563","magnetPrice":"$9.99",
     "facts": "The University of Bonn reported October 27 that researchers found two distinguishable sleep stages in the Australian jumping spider Portia fimbriata, including a REM-like phase with eye movements and muscle twitches. The team recorded spiders over several day-night cycles, tested their responses to sound and interrupted sleep to look for compensating sleep rebound. The peer-reviewed study appeared in PNAS.",
     "why": "The work supplies a strong behavioral case for regulated sleep in a spider and gives comparative biology a very distant branch for studying how sleep evolved. It does not prove that spiders dream: the team did not measure brain activity, and REM-like movement is evidence of a sleep stage rather than a transcript of subjective experience.",
     "angle": "The two stages, behavioral tests, acoustic arousal method and dreaming limit end above. The Blappos interpretation: the web now has a night mode, but its browsing history remains private. The magnet's spider, silk hammock, moon and waveforms are original editorial illustration—not a study frame, brain trace or claim that researchers watched a spider dream.",
