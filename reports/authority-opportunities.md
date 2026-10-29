@@ -1073,3 +1073,30 @@ Publication check: the October 25 entries and evidence-clock matrix are prepared
 - Matching Blappos asset: https://blappos.com/verification/#oct27-clip-to-claim-checklist and https://blappos.com/verification/#oct27-knuckle-handstand
 - Honest pitch angle: A record-literacy example that separates the September 11, 2025 performance from the October 27, 2026 publication, preserves the exact male category and 1:23 result, and keeps the athlete's pain and swelling account attached as a safety boundary.
 - Qualification: Guinness owns the certification language and can correct the title, performance date, duration or category. Any optional contact should invite factual correction or a definitive public record page only; it must not ask for promotion or imply Guinness approval of the training method, artwork, merchandise or affiliate products.
+
+
+## October 28, 2026 — qualified opportunities (not contacted)
+
+### Dimensional — deleted-listing evidence trail and human-in-the-loop boundary
+
+- Target: Dimensional dimOS documentation maintainers / company team
+- Route: https://docs.dimensional.org/ and https://jobs.ashbyhq.com/dimensional/f0f64b87-3be8-4ab3-8afb-4b581437c56f
+- Matching Blappos asset: https://blappos.com/verification/#oct28-source-durability-ladder and https://blappos.com/verification/#oct28-robot-dog-walkers
+- Honest pitch angle: A public source-durability example that clearly labels the Facebook listing as deleted, preserves the reported pay, shift and equipment requirements, and connects the experiment to the company’s own physical-intelligence description without upgrading field supervision into autonomous employment.
+- Qualification: Dimensional owns its current software and hiring descriptions and can correct the system purpose, current job status or human-supervision interpretation. Any optional message should invite a factual correction or a stable company statement only; it must not ask for a backlink, imply endorsement or present the magnet as company artwork.
+
+### Guinness World Records press office — spreadsheet certified-count boundary
+
+- Target: Guinness World Records press centre / records editorial team
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct28-source-durability-ladder and https://blappos.com/verification/#oct28-spreadsheet-collector
+- Honest pitch angle: A reusable record-literacy example that holds the 2018 certified count of 506 apart from Ariel Fischman’s current statement that the collection exceeds 1,000, while explaining why physical software archives matter.
+- Qualification: Guinness published the profile and owns the certification language. Any optional contact should invite correction of the certified count, date, collection category or current-status wording, or request a definitive record page; it must not ask for promotion or imply Guinness endorsement of the satire, magnet or affiliate books.
+
+### The Boston Globe Express / Metro desk — local advertising-protest source note
+
+- Target: The Boston Globe newsroom’s Express or Metro team
+- Route: https://www.bostonglobe.com/contact/ (newstip@globe.com)
+- Matching Blappos asset: https://blappos.com/verification/#oct28-source-durability-ladder and https://blappos.com/verification/#oct28-mascot-protest
+- Honest pitch angle: A compact public evidence note that records the peaceful protest, organizer-reported video reach and one costumed counter-protester while refusing to turn anti-mascot signs into claims about insurance policy or corporate conduct.
+- Qualification: The Globe maintains a local newsroom route for Boston events and can supply stronger local reporting, attendee counts or context. Any optional contact should offer the evidence ladder as a correction-ready local resource and ask for a more authoritative event link only; it must not pitch a commercial product, demand coverage or imply newsroom endorsement.
