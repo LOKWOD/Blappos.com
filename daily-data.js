@@ -3699,7 +3699,7 @@ const oct28StagingStories = [
     "date": "Oct 28, 2026",
     "place": "San Francisco, California",
     "image": "assets/cards/oct28-robot-dog-walkers.webp",
-    "title": "San Francisco’s Robot Dogs Still Need Human Walkers",
+    "title": "San Francisco’s Robot Dogs Still Need Human Walkers","magnetUrl":"https://blappos.printify.me/product/33682771","magnetPrice":"$9.99",
     "facts": "UPI reported October 28 that San Francisco startup Dimensional had advertised for people to walk robot dogs through public routes in the Dogpatch neighborhood. The since-deleted Bay Area Jobs post offered $20 an hour for four-to-six-hour shifts and required walkers to handle roughly 33-pound machines and carry a robot back if it failed. Founder Stash Pomichter told UPI the company is developing an open-source operating system for physical labor and still needs human help while its agents learn to control hardware.",
     "why": "The job makes a normally invisible stage of embodied-AI development visible: before a machine can work independently in public, people may have to supervise it, recover it and generate the real-world experience its software lacks. The listing is evidence of one company’s field-testing workflow, not proof that robot dogs are autonomous employees or that a $20-an-hour walker is being replaced by one.",
     "angle": "The October 28 report, deleted-listing status, pay, weight and human-supervision boundary end above. The Blappos interpretation: the robot dog has reached the part of technological progress where it needs a human to take it outside. The magnet’s anonymous walker, machines and Dogpatch street are original editorial illustration—not the company’s robots, listing or a claim that a living dog was involved.",
