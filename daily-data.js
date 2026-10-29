@@ -3743,7 +3743,7 @@ const oct28StagingStories = [
     "date": "Oct 28, 2026",
     "place": "Boston, Massachusetts",
     "image": "assets/cards/oct28-mascot-protest.webp",
-    "title": "Boston Gives an Insurance Mascot Its Own Opposition Party",
+    "title": "Boston Gives an Insurance Mascot Its Own Opposition Party","magnetUrl":"https://blappos.printify.me/product/33682781","magnetPrice":"$9.99",
     "facts": "UPI reported October 28 that dozens of people had gathered outside Liberty Mutual’s Boston headquarters on Sunday to protest the company’s recurring ‘Liberty Biberty’ advertising character. Organizer Connor Harvey, 19, said a video promoting the event had drawn about 600,000 views. The protest was peaceful, signs included ‘Liberty from Biberty,’ and one counter-protester arrived dressed as the mascot.",
     "why": "A joke about repetitive advertising became a real public assembly, showing how online attention can turn brand fatigue into an offline participatory event. The turnout documents a protest against a fictional campaign character—not a policy claim about the insurer, a labor dispute or evidence that every participant shared a deeper cause.",
     "angle": "The October 28 report, Sunday event, peaceful character and advertising-only claim ceiling end above. The Blappos interpretation: the ad budget finally generated its own opposition party and a one-mascot counter-demonstration. The magnet’s protesters, signs, office and fuzzy creature are original editorial illustration—not actual attendees, the branded mascot, Liberty Mutual trade dress or a copied event photograph.",
