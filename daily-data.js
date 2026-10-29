@@ -3763,3 +3763,4 @@ window.dailyStories = window.dailyStories.filter(story => !oct28StagingStories.s
 window.dailyStories.unshift(...oct28StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 28 staging gate: keep all three stories private until exact $9.99 Printify products are live and linked.
 // October 28 purchase QA passed: all three exact $9.99 Printify products are live; release permanent pages and social delivery.
+// October 28 live-page QA passed: exact magnet artwork, source links, three Amazon cards and both purchase CTAs verified before social release.
