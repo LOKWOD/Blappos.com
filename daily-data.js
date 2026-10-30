@@ -3788,7 +3788,7 @@ const oct29StagingStories = [
     "sourceName": "Read UPI’s October 29 report",
     "sourcePublisher": "UPI",
     "socialSummary": "UPI reported October 29 that a deer collided with a customer outside a Winston-Salem laundromat, broke through a window, crossed rows of machines and exited through the broken window; the owner said no one was injured.",
-    "socialPunchline": "Blappos: Heavy duty selected; spin cycle declined."
+    "socialPunchline": "Blappos: Heavy duty chosen; spin declined."
   },
   {
     "id": "oct29-fiambre-record",
@@ -3810,7 +3810,7 @@ const oct29StagingStories = [
     "sourceName": "Read UPI’s October 29 report and Guinness World Records’ event account",
     "sourcePublisher": "UPI",
     "socialSummary": "UPI reported October 29 that Guatemala City chefs earned a Guinness World Records title with a 4,325.9-pound fiambre salad; Guinness says the October 24 celebration used 52 ingredients and served the finished dish to the crowd.",
-    "socialPunchline": "Blappos: The bowl required municipal planning."
+    "socialPunchline": "Blappos: The bowl needed permits."
   },
   {
     "id": "oct29-sea-muppets",
@@ -3832,7 +3832,7 @@ const oct29StagingStories = [
     "sourceName": "Read ScienceDaily’s October 29 digest, Southern Cross University’s explainer and the linked paper",
     "sourcePublisher": "ScienceDaily",
     "socialSummary": "ScienceDaily’s October 29 digest highlighted research showing that three tiny Australian ‘sea muppet’ fishes evolved a seahorse-like body on a separate branch; the genus is known from eight preserved specimens and has never been verified alive in habitat.",
-    "socialPunchline": "Blappos: Evolution submitted the seahorse design twice."
+    "socialPunchline": "Blappos: Evolution tried the seahorse twice."
   }
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct29StagingStories.some(item => item.id === story.id));

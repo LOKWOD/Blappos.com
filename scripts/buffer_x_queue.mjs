@@ -88,7 +88,7 @@ function xText(story, url) {
     : sourcePublisher(story);
   const punchline = satiricalPunchline(story);
   let summary = factualSummary(story);
-  const build = () => `${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet: ${url}\nSource (${publisher}): ${source}`;
+  const build = () => `${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet: ${url}\nSource (${publisher}): ${source}\nAI art.`;
   let text = build();
   const words = summary.split(/\s+/);
   while (weightedXLength(text) > SAFE_X_WEIGHT && words.length > 8) {
@@ -120,8 +120,12 @@ function hasRequiredContext(post, story, service) {
   const sourcePresent = service === 'instagram'
     ? text.includes(story.source) || (text.includes(`Source credit: ${sourcePublisher(story)}`) && text.includes('exact reporting link is on the Blappos story'))
     : text.includes(story.source);
+  const artDisclosurePresent = service === 'twitter'
+    ? text.includes('AI art.')
+    : text.includes('Artwork: AI-generated satirical illustration.');
   return text.includes(`/stories/${story.id}/`) &&
     sourcePresent &&
+    artDisclosurePresent &&
     !/Blappos:\s*Blappos:/i.test(text) &&
     text.includes(`Blappos: ${satiricalPunchline(story)}`);
 }
