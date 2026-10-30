@@ -1100,3 +1100,30 @@ Publication check: the October 25 entries and evidence-clock matrix are prepared
 - Matching Blappos asset: https://blappos.com/verification/#oct28-source-durability-ladder and https://blappos.com/verification/#oct28-mascot-protest
 - Honest pitch angle: A compact public evidence note that records the peaceful protest, organizer-reported video reach and one costumed counter-protester while refusing to turn anti-mascot signs into claims about insurance policy or corporate conduct.
 - Qualification: The Globe maintains a local newsroom route for Boston events and can supply stronger local reporting, attendee counts or context. Any optional contact should offer the evidence ladder as a correction-ready local resource and ask for a more authoritative event link only; it must not pitch a commercial product, demand coverage or imply newsroom endorsement.
+
+
+## October 29, 2026 — qualified opportunities (not contacted)
+
+### Winston-Salem Journal community newsroom — local incident context
+
+- Target: Winston-Salem Journal community/newsroom staff
+- Route: https://journalnow.com/helpcenter/
+- Matching Blappos asset: https://blappos.com/verification/#oct29-evidence-clock-matrix and https://blappos.com/verification/#oct29-deer-laundromat
+- Honest pitch angle: A correction-ready evidence-clock note that keeps surveillance video, owner attribution, injuries, damage and the animal’s unknowable motive in separate lanes.
+- Qualification: The newsroom covers Winston-Salem and can add stronger local reporting or correct the incident date and damage description. Any optional contact should invite factual correction or a durable local link only; it must not ask for promotion or imply endorsement of the satire, artwork or magnet.
+
+### Guinness World Records press office — fiambre certification and recipe scope
+
+- Target: Guinness World Records press centre
+- Route: https://www.guinnessworldrecords.com/contact/press-enquiry
+- Matching Blappos asset: https://blappos.com/verification/#oct29-evidence-clock-matrix and https://blappos.com/verification/#oct29-fiambre-record
+- Honest pitch angle: A record-literacy note that separates the October 24 event from October 29 publication, preserves the certified 1,962.2-kilogram result and 52-ingredient account, and avoids presenting one batch as the definitive family recipe.
+- Qualification: Guinness owns the adjudication language and can correct the measurement, ingredients, date or record status. Any optional message should invite correction or a definitive public record link only; it must not request a backlink or imply Guinness endorsement.
+
+### Southern Cross University media team — research clock and “lost” status boundary
+
+- Target: Southern Cross University Media and Content Team
+- Route: https://www.scu.edu.au/news/contact-the-media-team/
+- Matching Blappos asset: https://blappos.com/verification/#oct29-evidence-clock-matrix and https://blappos.com/verification/#oct29-sea-muppets
+- Honest pitch angle: A public research digest that separates the July paper, August university explainer and October 29 news digest while preserving the eight-specimen evidence base and the distinction between an unverified living population and extinction.
+- Qualification: The university represents the research team and can correct the publication clock, specimen count, imaging method or conservation-status wording. Any optional contact should invite factual correction or a stronger open research link only; it must not ask for coverage or imply endorsement of the satire, artwork, magnet or affiliate books.

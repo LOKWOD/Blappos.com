@@ -3837,4 +3837,4 @@ const oct29StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !oct29StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct29StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
-// October 29 staging gate: all three stories remain private until exact Printify products are live and linked.
+// October 29 release gate passed: exact Printify product URLs and $9.99 prices are linked; permanent pages and social delivery may proceed.
