@@ -3775,7 +3775,7 @@ const oct29StagingStories = [
     "date": "Oct 29, 2026",
     "place": "Winston-Salem, North Carolina",
     "image": "assets/cards/oct29-deer-laundromat.webp",
-    "title": "A Deer Chooses the Laundromat’s Heavy-Duty Cycle",
+    "title": "A Deer Chooses the Laundromat’s Heavy-Duty Cycle","magnetUrl":"https://blappos.printify.me/product/33721064","magnetPrice":"$9.99",
     "facts": "UPI reported October 29 that security video from Wishy Washy Laundry in Winston-Salem showed a deer collide with a customer outside the business on Tuesday, break through a front window, run through the laundromat and climb onto rows of washers and dryers before leaving through the broken window. Owner Corey Pendergrass said no one was injured and the window was the only major damage.",
     "why": "The incident is more than a perfect visual gag: frightened wildlife inside a reflective, noisy room can injure people, itself or both. The verified outcome was unusually fortunate. The reporting establishes the route, the absence of injuries and the repaired window; it does not establish why the deer entered or whether it was the same animal seen elsewhere.",
     "angle": "The October 29 publication clock, Tuesday incident, video-supported route and no-injury boundary end above. The Blappos interpretation: the deer selected heavy duty, skipped detergent and left before the spin cycle. The magnet’s deer, customer, machines and storefront are original editorial illustration—not the real animal, customer, business trade dress or copied security footage.",
