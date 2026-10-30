@@ -3819,7 +3819,7 @@ const oct29StagingStories = [
     "date": "Oct 29, 2026",
     "place": "Great Southern Reef, Australia",
     "image": "assets/cards/oct29-sea-muppets.webp",
-    "title": "The Ocean Builds a Seahorse Twice",
+    "title": "The Ocean Builds a Seahorse Twice","magnetUrl":"https://blappos.printify.me/product/33721073","magnetPrice":"$9.99",
     "facts": "ScienceDaily’s October 29 digest resurfaced research first published in July and explained by Southern Cross University in August. Micro-CT scans and limited genetic evidence showed that three tiny southern Australian fishes nicknamed ‘sea muppets’ belong to the new genus Australyichthys, outside true seahorses, even though they independently evolved a bent head, grasping tail and enclosed male brood pouch. The paper describes eight preserved specimens collected from depths of 50 to 124 meters; none has been verified alive in its habitat.",
     "why": "This is a compact example of convergent evolution: similar ecological pressures can produce strikingly similar body plans in separate lineages. The evidence also shows why museum collections matter—fragile specimens misidentified for decades could be examined without destructive dissection. ‘Lost’ here is a search priority, not a declaration that the fishes are extinct.",
     "angle": "The October 29 digest clock, July paper, August explainer, eight-specimen evidence base and lost-versus-extinct boundary end above. The Blappos interpretation: evolution submitted the seahorse design twice and called the second build a separate branch. The magnet’s fish, reef, CT image and museum drawers are original editorial illustration—not a specimen photograph, a living-animal sighting, a university mark or a branded puppet character.",
