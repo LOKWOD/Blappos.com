@@ -3764,3 +3764,77 @@ window.dailyStories.unshift(...oct28StagingStories.filter(story => story.magnetU
 // October 28 staging gate: keep all three stories private until exact $9.99 Printify products are live and linked.
 // October 28 purchase QA passed: all three exact $9.99 Printify products are live; release permanent pages and social delivery.
 // October 28 live-page QA passed: exact magnet artwork, source links, three Amazon cards and both purchase CTAs verified before social release.
+
+// October 29 candidates remain invisible until the Printify workflow publishes
+// and writes back an exact physical-product URL and price for every story.
+const oct29StagingStories = [
+  {
+    "id": "oct29-deer-laundromat",
+    "isoDate": "2026-10-29",
+    "month": "October",
+    "date": "Oct 29, 2026",
+    "place": "Winston-Salem, North Carolina",
+    "image": "assets/cards/oct29-deer-laundromat.webp",
+    "title": "A Deer Chooses the Laundromat’s Heavy-Duty Cycle",
+    "facts": "UPI reported October 29 that security video from Wishy Washy Laundry in Winston-Salem showed a deer collide with a customer outside the business on Tuesday, break through a front window, run through the laundromat and climb onto rows of washers and dryers before leaving through the broken window. Owner Corey Pendergrass said no one was injured and the window was the only major damage.",
+    "why": "The incident is more than a perfect visual gag: frightened wildlife inside a reflective, noisy room can injure people, itself or both. The verified outcome was unusually fortunate. The reporting establishes the route, the absence of injuries and the repaired window; it does not establish why the deer entered or whether it was the same animal seen elsewhere.",
+    "angle": "The October 29 publication clock, Tuesday incident, video-supported route and no-injury boundary end above. The Blappos interpretation: the deer selected heavy duty, skipped detergent and left before the spin cycle. The magnet’s deer, customer, machines and storefront are original editorial illustration—not the real animal, customer, business trade dress or copied security footage.",
+    "amazonLinks": [
+      {"title":"The Hidden Life of Deer","image":"https://m.media-amazon.com/images/P/0061792101.01.LZZZZZZZ.jpg","alt":"Cover of The Hidden Life of Deer by Elizabeth Marshall Thomas","quip":"A naturalist’s close observation of deer behavior for understanding the animal behind the laundromat’s least predictable customer.","salesPriority":5,"url":"https://www.amazon.com/dp/0061792101?tag=blappos-20"},
+      {"title":"Deerland: America’s Hunt for Ecological Balance and the Essence of Wildness","image":"https://m.media-amazon.com/images/P/0762780274.01.LZZZZZZZ.jpg","alt":"Cover of Deerland by Al Cambronne","quip":"A broader look at the complicated places where abundant deer and human-built landscapes meet.","salesPriority":5,"url":"https://www.amazon.com/dp/0762780274?tag=blappos-20"},
+      {"title":"Laundry Love: Finding Joy in a Common Chore","image":"https://m.media-amazon.com/images/P/1250235219.01.LZZZZZZZ.jpg","alt":"Cover of Laundry Love by Patric Richardson","quip":"A laundry guide for every heavy-duty cycle that does not begin with antlers and a broken window.","salesPriority":4,"url":"https://www.amazon.com/dp/1250235219?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/29/deer-crashes-though-laundromat-winston-salem/5961793290016/",
+    "sourceName": "Read UPI’s October 29 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported October 29 that a deer collided with a customer outside a Winston-Salem laundromat, broke through a window, crossed rows of machines and exited through the broken window; the owner said no one was injured.",
+    "socialPunchline": "Blappos: The deer selected heavy duty and left before the spin cycle."
+  },
+  {
+    "id": "oct29-fiambre-record",
+    "isoDate": "2026-10-29",
+    "month": "October",
+    "date": "Oct 29, 2026",
+    "place": "Guatemala City, Guatemala",
+    "image": "assets/cards/oct29-fiambre-record.webp",
+    "title": "Guatemala Mixes 4,325.9 Pounds of Family Recipe",
+    "facts": "UPI reported October 29 that chefs in Guatemala City prepared a 4,325.9-pound fiambre salad recognized by Guinness World Records. Guinness says the October 24 event used 52 distinct ingredients and produced 1,962.2 kilograms of fiambre, surpassing the category’s 500-kilogram minimum. An adjudicator observed the weighing, and the finished salad was served to the crowd during a celebration with music and traditional weaving.",
+    "why": "Fiambre is associated with Guatemala’s All Saints and All Souls observances and is famously variable from family to family. The record turned that living tradition into a measured public event without making one recipe the official version. Naming the event date, certification process and organizer also keeps a sponsored celebration distinct from an anonymous folk origin story.",
+    "angle": "The October 29 report, October 24 event, certified weight, 52-ingredient count and cultural boundary end above. The Blappos interpretation: Guatemala scaled the family recipe until the serving bowl required municipal planning. The magnet’s chefs, plaza, bowl, textiles and ingredients are original editorial illustration—not event attendees, a copied photograph, company branding or a claim that one household recipe represents every fiambre.",
+    "amazonLinks": [
+      {"title":"Amalia’s Guatemalan Kitchen: Gourmet Cuisine with a Cultural Flair","image":"https://m.media-amazon.com/images/P/159298553X.01.LZZZZZZZ.jpg","alt":"Cover of Amalia’s Guatemalan Kitchen by Amalia Moreno-Damgaard","quip":"A Guatemalan-American chef’s award-winning collection for exploring the cuisine behind the record-sized celebration.","salesPriority":5,"url":"https://www.amazon.com/dp/159298553X?tag=blappos-20"},
+      {"title":"False Tongues and Sunday Bread: A Guatemalan and Mayan Cookbook","image":"https://m.media-amazon.com/images/P/0871314665.01.LZZZZZZZ.jpg","alt":"Cover of False Tongues and Sunday Bread by Copeland Marks","quip":"A classic Guatemalan and Mayan cookbook that treats food as culture rather than a one-day spectacle.","salesPriority":5,"url":"https://www.amazon.com/dp/0871314665?tag=blappos-20"},
+      {"title":"The Latin American Cookbook","image":"https://m.media-amazon.com/images/P/1838663126.01.LZZZZZZZ.jpg","alt":"Cover of The Latin American Cookbook by Virgilio Martínez","quip":"A wide regional reference that places Guatemala’s many fiambre traditions inside a much larger culinary map.","salesPriority":4,"url":"https://www.amazon.com/dp/1838663126?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/29/latam-guatemala-Guinness-world-records-largest-fiambre-salad/8871793291959/",
+    "sourceName": "Read UPI’s October 29 report and Guinness World Records’ event account",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported October 29 that Guatemala City chefs earned a Guinness World Records title with a 4,325.9-pound fiambre salad; Guinness says the October 24 celebration used 52 ingredients and served the finished dish to the crowd.",
+    "socialPunchline": "Blappos: The family recipe was scaled until the bowl required municipal planning."
+  },
+  {
+    "id": "oct29-sea-muppets",
+    "isoDate": "2026-10-29",
+    "month": "October",
+    "date": "Oct 29, 2026",
+    "place": "Great Southern Reef, Australia",
+    "image": "assets/cards/oct29-sea-muppets.webp",
+    "title": "The Ocean Builds a Seahorse Twice",
+    "facts": "ScienceDaily’s October 29 digest resurfaced research first published in July and explained by Southern Cross University in August. Micro-CT scans and limited genetic evidence showed that three tiny southern Australian fishes nicknamed ‘sea muppets’ belong to the new genus Australyichthys, outside true seahorses, even though they independently evolved a bent head, grasping tail and enclosed male brood pouch. The paper describes eight preserved specimens collected from depths of 50 to 124 meters; none has been verified alive in its habitat.",
+    "why": "This is a compact example of convergent evolution: similar ecological pressures can produce strikingly similar body plans in separate lineages. The evidence also shows why museum collections matter—fragile specimens misidentified for decades could be examined without destructive dissection. ‘Lost’ here is a search priority, not a declaration that the fishes are extinct.",
+    "angle": "The October 29 digest clock, July paper, August explainer, eight-specimen evidence base and lost-versus-extinct boundary end above. The Blappos interpretation: evolution submitted the seahorse design twice and called the second build a separate branch. The magnet’s fish, reef, CT image and museum drawers are original editorial illustration—not a specimen photograph, a living-animal sighting, a university mark or a branded puppet character.",
+    "amazonLinks": [
+      {"title":"Seahorses: A Life-Size Guide to Every Species","image":"https://m.media-amazon.com/images/P/022633841X.01.LZZZZZZZ.jpg","alt":"Cover of Seahorses by Sara A. Lourie","quip":"A species-by-species guide to true seahorses and relatives—the reference shelf this new lookalike branch complicates.","salesPriority":5,"url":"https://www.amazon.com/dp/022633841X?tag=blappos-20"},
+      {"title":"Convergent Evolution: Limited Forms Most Beautiful","image":"https://m.media-amazon.com/images/P/0262539099.01.LZZZZZZZ.jpg","alt":"Cover of Convergent Evolution by George R. McGhee Jr.","quip":"The evolutionary framework for understanding why separate fish lineages can arrive at the same improbable silhouette.","salesPriority":5,"url":"https://www.amazon.com/dp/0262539099?tag=blappos-20"},
+      {"title":"Seahorses and Their Relatives","image":"https://m.media-amazon.com/images/P/0977537218.01.LZZZZZZZ.jpg","alt":"Cover of Seahorses and Their Relatives by Rudie H. Kuiter","quip":"A visual encyclopedia of the family whose newly recognized branch spent decades wearing the wrong name tag.","salesPriority":4,"url":"https://www.amazon.com/dp/0977537218?tag=blappos-20"}
+    ],
+    "source": "https://sciencedaily.com/releases/2026/10/261029072119.htm",
+    "sourceName": "Read ScienceDaily’s October 29 digest, Southern Cross University’s explainer and the linked paper",
+    "sourcePublisher": "ScienceDaily",
+    "socialSummary": "ScienceDaily’s October 29 digest highlighted research showing that three tiny Australian ‘sea muppet’ fishes evolved a seahorse-like body on a separate branch; the genus is known from eight preserved specimens and has never been verified alive in habitat.",
+    "socialPunchline": "Blappos: Evolution submitted the seahorse design twice and called the second build a separate branch."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct29StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct29StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 29 staging gate: all three stories remain private until exact Printify products are live and linked.
