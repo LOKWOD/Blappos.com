@@ -3797,7 +3797,7 @@ const oct29StagingStories = [
     "date": "Oct 29, 2026",
     "place": "Guatemala City, Guatemala",
     "image": "assets/cards/oct29-fiambre-record.webp",
-    "title": "Guatemala Mixes 4,325.9 Pounds of Family Recipe",
+    "title": "Guatemala Mixes 4,325.9 Pounds of Family Recipe","magnetUrl":"https://blappos.printify.me/product/33721068","magnetPrice":"$9.99",
     "facts": "UPI reported October 29 that chefs in Guatemala City prepared a 4,325.9-pound fiambre salad recognized by Guinness World Records. Guinness says the October 24 event used 52 distinct ingredients and produced 1,962.2 kilograms of fiambre, surpassing the category’s 500-kilogram minimum. An adjudicator observed the weighing, and the finished salad was served to the crowd during a celebration with music and traditional weaving.",
     "why": "Fiambre is associated with Guatemala’s All Saints and All Souls observances and is famously variable from family to family. The record turned that living tradition into a measured public event without making one recipe the official version. Naming the event date, certification process and organizer also keeps a sponsored celebration distinct from an anonymous folk origin story.",
     "angle": "The October 29 report, October 24 event, certified weight, 52-ingredient count and cultural boundary end above. The Blappos interpretation: Guatemala scaled the family recipe until the serving bowl required municipal planning. The magnet’s chefs, plaza, bowl, textiles and ingredients are original editorial illustration—not event attendees, a copied photograph, company branding or a claim that one household recipe represents every fiambre.",
