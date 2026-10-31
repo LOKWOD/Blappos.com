@@ -3838,3 +3838,77 @@ const oct29StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !oct29StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct29StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 29 release gate passed: exact Printify product URLs, $9.99 prices, and permanent story pages are verified; social delivery may proceed.
+
+/* October 30 candidates stay invisible until the repository's Printify
+   automation publishes and writes back an exact $9.99 product URL and price. */
+const oct30StagingStories = [
+  {
+    "id": "oct30-k9-rock-buffet",
+    "isoDate": "2026-10-30",
+    "month": "October",
+    "date": "Oct 30, 2026",
+    "place": "Grand Rapids, Michigan",
+    "image": "assets/cards/oct30-k9-rock-buffet.webp",
+    "title": "A Police K-9 Turns Crock-Pot Juice Into a Rock Buffet",
+    "facts": "UPI reported October 30 that Grand Rapids Police K-9 Rocco swallowed landscaping rocks after his handler, Officer Austin Diekevers, tossed crock-pot scraps and juice outside for chickens and some of the liquid splashed onto the stones. When Rocco would not eat the next day, a veterinary X-ray found his stomach full of rocks. Surgeons at Animal Emergency and Specialty Hospital of Byron Center removed them, and the department said he was expected to return to duty in about a week.",
+    "why": "The absurd setup leads to a serious animal-safety point: swallowed stones and other foreign objects can obstruct or injure the digestive tract, and a sudden refusal to eat can warrant prompt veterinary attention. The reported facts establish the spill, X-ray, surgery and expected recovery; they do not establish that Rocco understood the rocks as food or that every dog with similar symptoms has the same problem.",
+    "angle": "The October 30 report, named handler, veterinary finding, surgery and recovery estimate end above. The Blappos interpretation: Rocco investigated the landscaping from the inside. The magnet's dog, crock pot, stones and radiograph inset are original editorial illustration—not the real K-9, a police insignia, veterinary image or copied photograph.",
+    "amazonLinks": [
+      {"title":"Pet First Aid: The First Aid Companion for Dogs & Cats","image":"https://m.media-amazon.com/images/P/1579543650.01.LZZZZZZZ.jpg","alt":"Cover of Pet First Aid by Amy D. Shojai","quip":"A practical first-aid reference for recognizing when a pet's odd snack has crossed into an emergency.","salesPriority":5,"url":"https://www.amazon.com/dp/1579543650?tag=blappos-20"},
+      {"title":"Field Guide: Dog First Aid","image":"https://m.media-amazon.com/images/P/1885106041.01.LZZZZZZZ.jpg","alt":"Cover of Field Guide: Dog First Aid by Randy Acker","quip":"Emergency-care guidance written for hunting, working and outdoor dogs—the jobs where curiosity travels with a badge.","salesPriority":5,"url":"https://www.amazon.com/dp/1885106041?tag=blappos-20"},
+      {"title":"K-9 Police Dogs","image":"https://m.media-amazon.com/images/P/1429644702.01.LZZZZZZZ.jpg","alt":"Cover of K-9 Police Dogs by Mari Schuh","quip":"An accessible look at the training and work behind the officer who briefly mistook the landscaping for lunch.","salesPriority":4,"url":"https://www.amazon.com/dp/1429644702?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/30/grand-rapids-michigan-rocko-dog-rocks/7341793380622/",
+    "sourceName": "Read UPI's October 30 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that Grand Rapids Police K-9 Rocco swallowed landscaping rocks splashed with crock-pot juice; a veterinary X-ray led to surgery, and the department expected him back on duty in about a week.",
+    "socialPunchline": "Blappos: Rocco investigated the landscaping from the inside."
+  },
+  {
+    "id": "oct30-fruit-dinosaur",
+    "isoDate": "2026-10-30",
+    "month": "October",
+    "date": "Oct 30, 2026",
+    "place": "Hell Creek Formation, Montana",
+    "image": "assets/cards/oct30-fruit-dinosaur.webp",
+    "title": "Hell Creek Invents a Fruit-Eating Chicken Before Chickens",
+    "facts": "Reuters reported October 30 on Infernogallus jamesi, a newly described, roughly turkey-sized caenagnathid dinosaur from Montana's Hell Creek Formation. A nearly complete articulated skull, CT scans and jaw analysis showed a toothless parrot-like beak, a mobile lower jaw and wear features suited to repeatedly crushing soft plant material. The peer-reviewed Nature Communications paper describes this as the first direct evidence of a dinosaur specialized for an angiosperm-based diet.",
+    "why": "The skull adds a rare feeding specialist to the ecosystem best known for Tyrannosaurus rex and shows that beaked dinosaurs divided plant foods more finely than a simple herbivore label suggests. Fruit eating is the authors' best-supported interpretation of the anatomy; the fossil does not preserve a last meal, and possible seed dispersal remains an ecological inference rather than a directly observed behavior.",
+    "angle": "The October 30 news hook, peer-reviewed anatomy, size, diet interpretation and inference boundary end above. The Blappos interpretation: T. rex handled enforcement while the hell chicken ran produce. The magnet's feathered dinosaur, berries and distant tyrannosaur are original editorial illustration—not the fossil, a life reconstruction from the paper or proof of a particular fruit species.",
+    "amazonLinks": [
+      {"title":"Dinosaurs Rediscovered: The Scientific Revolution in Paleontology","image":"https://m.media-amazon.com/images/P/0500295530.01.LZZZZZZZ.jpg","alt":"Cover of Dinosaurs Rediscovered by Michael J. Benton","quip":"A modern guide to how fossils, scans and evolutionary trees turn a strange skull into a testable dinosaur story.","salesPriority":5,"url":"https://www.amazon.com/dp/0500295530?tag=blappos-20"},
+      {"title":"The Complete Dinosaur, Second Edition","image":"https://m.media-amazon.com/images/P/0253357012.01.LZZZZZZZ.jpg","alt":"Cover of The Complete Dinosaur, Second Edition","quip":"A deep reference for placing one fruit specialist inside the much larger diversity of Mesozoic anatomy and ecology.","salesPriority":5,"url":"https://www.amazon.com/dp/0253357012?tag=blappos-20"},
+      {"title":"Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages","image":"https://m.media-amazon.com/images/P/0375824197.01.LZZZZZZZ.jpg","alt":"Cover of Dinosaurs by Thomas R. Holtz Jr.","quip":"An illustrated dinosaur encyclopedia for readers ready to give Hell Creek's produce aisle more than one employee.","salesPriority":4,"url":"https://www.amazon.com/dp/0375824197?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/strange-beaked-hell-chicken-is-first-fruit-eating-dinosaur-2026-10-30/",
+    "sourceName": "Read Reuters' October 30 report and the linked Nature Communications paper",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "Reuters reported that a nearly complete skull from Montana's Hell Creek Formation identifies Infernogallus jamesi as the first dinosaur known to be specialized for an angiosperm-based diet, most likely fruit.",
+    "socialPunchline": "Blappos: T. rex handled enforcement; the hell chicken ran produce."
+  },
+  {
+    "id": "oct30-cemetery-lot",
+    "isoDate": "2026-10-30",
+    "month": "October",
+    "date": "Oct 30, 2026",
+    "place": "Rural Pennsylvania",
+    "image": "assets/cards/oct30-cemetery-lot.webp",
+    "title": "The Dream-Home Lot Comes With Permanent Neighbors",
+    "facts": "People reported October 30 that Heidi Keeney bought more than four wooded acres from her parents in rural Pennsylvania to build a home—and that the parcel includes a historic cemetery with graves dating to the 1700s and 1800s. Keeney said her parents had acquired the larger former church property in 2013, that she hires a lawn service to maintain the cemetery, and that visitors may access the cemetery portion while the rest of her land remains private.",
+    "why": "Historic burial grounds can turn an ordinary-looking land purchase into a long-term stewardship and public-access responsibility. The account is also a useful privacy boundary: the cemetery's history is newsworthy, but the planned home is private property. The article reports Keeney's experience and maintenance arrangement; it does not establish supernatural activity, and Keeney said she had not noticed anything strange.",
+    "angle": "The October 30 interview, ownership history, maintenance, cemetery access and no-haunting boundary end above. The Blappos interpretation: the deed included four acres, a cemetery and the quietest HOA ever. The magnet's home site, owner figure, mower and headstones are original editorial illustration—not Keeney, her exact property, a map, grave transcription or copied photograph.",
+    "amazonLinks": [
+      {"title":"Stories in Stone: A Field Guide to Cemetery Symbolism and Iconography","image":"https://m.media-amazon.com/images/P/158685321X.01.LZZZZZZZ.jpg","alt":"Cover of Stories in Stone by Douglas Keister","quip":"A field guide to the symbols and visual language that turn old stones into readable community history.","salesPriority":5,"url":"https://www.amazon.com/dp/158685321X?tag=blappos-20"},
+      {"title":"A Graveyard Preservation Primer","image":"https://m.media-amazon.com/images/P/0759122423.01.LZZZZZZZ.jpg","alt":"Cover of A Graveyard Preservation Primer by Lynette Strangstad","quip":"The practical preservation reference for caring for a burial ground without treating historic stone like ordinary yard debris.","salesPriority":5,"url":"https://www.amazon.com/dp/0759122423?tag=blappos-20"},
+      {"title":"Your Guide to Cemetery Research","image":"https://m.media-amazon.com/images/P/1558705899.01.LZZZZZZZ.jpg","alt":"Cover of Your Guide to Cemetery Research by Sharon DeBartolo Carmack","quip":"A research guide for locating records, reading sites and respecting the difference between family history and somebody else's backyard.","salesPriority":4,"url":"https://www.amazon.com/dp/1558705899?tag=blappos-20"}
+    ],
+    "source": "https://people.com/woman-buys-4-acres-land-historic-cemetery-dating-back-1700s-to-build-dream-home-exclusive-12195329",
+    "sourceName": "Read People's October 30 interview",
+    "sourcePublisher": "People",
+    "socialSummary": "People reported that a Pennsylvania woman bought more than four acres for a future home and became steward of a historic cemetery with 1700s–1800s graves; visitors may access the cemetery while the rest stays private.",
+    "socialPunchline": "Blappos: Four acres, one cemetery, the quietest HOA ever."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct30StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct30StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 30 staging gate: keep all three stories private until exact $9.99 Printify products are live and linked.
