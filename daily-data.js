@@ -3893,7 +3893,7 @@ const oct30StagingStories = [
     "date": "Oct 30, 2026",
     "place": "Rural Pennsylvania",
     "image": "assets/cards/oct30-cemetery-lot.webp",
-    "title": "The Dream-Home Lot Comes With Permanent Neighbors",
+    "title": "The Dream-Home Lot Comes With Permanent Neighbors","magnetUrl":"https://blappos.printify.me/product/33763022","magnetPrice":"$9.99",
     "facts": "People reported October 30 that Heidi Keeney bought more than four wooded acres from her parents in rural Pennsylvania to build a home—and that the parcel includes a historic cemetery with graves dating to the 1700s and 1800s. Keeney said her parents had acquired the larger former church property in 2013, that she hires a lawn service to maintain the cemetery, and that visitors may access the cemetery portion while the rest of her land remains private.",
     "why": "Historic burial grounds can turn an ordinary-looking land purchase into a long-term stewardship and public-access responsibility. The account is also a useful privacy boundary: the cemetery's history is newsworthy, but the planned home is private property. The article reports Keeney's experience and maintenance arrangement; it does not establish supernatural activity, and Keeney said she had not noticed anything strange.",
     "angle": "The October 30 interview, ownership history, maintenance, cemetery access and no-haunting boundary end above. The Blappos interpretation: the deed included four acres, a cemetery and the quietest HOA ever. The magnet's home site, owner figure, mower and headstones are original editorial illustration—not Keeney, her exact property, a map, grave transcription or copied photograph.",
