@@ -1,8 +1,34 @@
 # Blappos authority opportunities
 
-Updated: 2026-10-26
+Updated: 2026-10-31
 Status: research log only; no outreach sent.
-Publication check: the October 25 entries and evidence-clock matrix are prepared behind the physical-product gate; outreach remains unsent until the permanent pages are live.
+Publication check: the October 30 entries and evidence-owner/privacy matrix are prepared for the permanent pages; no outreach has been sent.
+
+## October 30, 2026 — qualified opportunities (not contacted)
+
+### Grand Rapids Police Media Relations — working-dog outcome and source trail
+
+- Target: Grand Rapids Police Department Media Relations / Public Information Officer
+- Route: https://www.grandrapidsmi.gov/departments/police-department/grpd-contact-list/ (official page lists the Media Relations/PIO route)
+- Matching Blappos asset: https://blappos.com/verification/#oct30-k9-rock-buffet
+- Honest pitch angle: A compact source note that preserves the named handler account, veterinary X-ray, surgery and expected return-to-duty window while refusing to invent motive or expose a private veterinary record.
+- Qualification: GRPD owns the closest official outcome information and can correct the handler attribution, recovery status or return-to-duty timing. Any optional note should invite a factual update only; it must not seek medical records, request promotion or imply police endorsement of the joke, affiliate cards or magnet.
+
+### Stony Brook University science media — fossil evidence and inference ladder
+
+- Target: Stony Brook University External Communications / paleontology research team
+- Route: https://news.stonybrook.edu/for-journalists/media-relations-team/ (public media-relations route)
+- Matching Blappos asset: https://blappos.com/verification/#oct30-fruit-dinosaur
+- Honest pitch angle: A citation-ready evidence ladder connecting the October 30 news hook to the peer-reviewed skull and CT evidence, while marking fruit as the strongest dietary interpretation and seed dispersal as inference.
+- Qualification: The university's researcher and media team can correct the anatomy, body-size description, publication clock or ecological wording. Any optional message should invite scientific correction or a more durable dataset link only; it must not request a backlink or suggest endorsement of the artwork, joke, affiliate products or magnet.
+
+### Pennsylvania SHPO Community Preservation — cemetery stewardship and privacy checklist
+
+- Target: Pennsylvania State Historic Preservation Office Community Preservation team
+- Route: https://www.pa.gov/agencies/phmc/historic-preservation/community-preservation/contact-and-forms
+- Matching Blappos asset: https://blappos.com/verification/#oct30-cemetery-lot
+- Honest pitch angle: A reusable public-interest/privacy matrix that links readers to official cemetery-preservation resources, distinguishes visitor access from access to a private home site and omits address-level detail.
+- Qualification: PA SHPO maintains statewide cemetery-preservation guidance and is the appropriate source for general stewardship corrections. Any optional note should ask whether the linked public guidance is the best durable resource; it must not identify the parcel, seek owner information, request promotion or imply agency endorsement of the story or products.
 
 ## October 25, 2026 — qualified opportunities (not contacted)
 
