@@ -3871,7 +3871,7 @@ const oct30StagingStories = [
     "date": "Oct 30, 2026",
     "place": "Hell Creek Formation, Montana",
     "image": "assets/cards/oct30-fruit-dinosaur.webp",
-    "title": "Hell Creek Invents a Fruit-Eating Chicken Before Chickens",
+    "title": "Hell Creek Invents a Fruit-Eating Chicken Before Chickens","magnetUrl":"https://blappos.printify.me/product/33763000","magnetPrice":"$9.99",
     "facts": "Reuters reported October 30 on Infernogallus jamesi, a newly described, roughly turkey-sized caenagnathid dinosaur from Montana's Hell Creek Formation. A nearly complete articulated skull, CT scans and jaw analysis showed a toothless parrot-like beak, a mobile lower jaw and wear features suited to repeatedly crushing soft plant material. The peer-reviewed Nature Communications paper describes this as the first direct evidence of a dinosaur specialized for an angiosperm-based diet.",
     "why": "The skull adds a rare feeding specialist to the ecosystem best known for Tyrannosaurus rex and shows that beaked dinosaurs divided plant foods more finely than a simple herbivore label suggests. Fruit eating is the authors' best-supported interpretation of the anatomy; the fossil does not preserve a last meal, and possible seed dispersal remains an ecological inference rather than a directly observed behavior.",
     "angle": "The October 30 news hook, peer-reviewed anatomy, size, diet interpretation and inference boundary end above. The Blappos interpretation: T. rex handled enforcement while the hell chicken ran produce. The magnet's feathered dinosaur, berries and distant tyrannosaur are original editorial illustration—not the fossil, a life reconstruction from the paper or proof of a particular fruit species.",
