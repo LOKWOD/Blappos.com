@@ -3912,3 +3912,4 @@ const oct30StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !oct30StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct30StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 30 purchase gate passed: all three exact $9.99 Printify products are live and linked; release permanent pages and social delivery.
+// October 30 live-page QA passed: exact artwork, source links, three Amazon cards, two matching BUY CTAs and all $9.99 product pages verified before social release.
