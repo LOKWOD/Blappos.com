@@ -3849,7 +3849,7 @@ const oct30StagingStories = [
     "date": "Oct 30, 2026",
     "place": "Grand Rapids, Michigan",
     "image": "assets/cards/oct30-k9-rock-buffet.webp",
-    "title": "A Police K-9 Turns Crock-Pot Juice Into a Rock Buffet",
+    "title": "A Police K-9 Turns Crock-Pot Juice Into a Rock Buffet","magnetUrl":"https://blappos.printify.me/product/33762973","magnetPrice":"$9.99",
     "facts": "UPI reported October 30 that Grand Rapids Police K-9 Rocco swallowed landscaping rocks after his handler, Officer Austin Diekevers, tossed crock-pot scraps and juice outside for chickens and some of the liquid splashed onto the stones. When Rocco would not eat the next day, a veterinary X-ray found his stomach full of rocks. Surgeons at Animal Emergency and Specialty Hospital of Byron Center removed them, and the department said he was expected to return to duty in about a week.",
     "why": "The absurd setup leads to a serious animal-safety point: swallowed stones and other foreign objects can obstruct or injure the digestive tract, and a sudden refusal to eat can warrant prompt veterinary attention. The reported facts establish the spill, X-ray, surgery and expected recovery; they do not establish that Rocco understood the rocks as food or that every dog with similar symptoms has the same problem.",
     "angle": "The October 30 report, named handler, veterinary finding, surgery and recovery estimate end above. The Blappos interpretation: Rocco investigated the landscaping from the inside. The magnet's dog, crock pot, stones and radiograph inset are original editorial illustration—not the real K-9, a police insignia, veterinary image or copied photograph.",
