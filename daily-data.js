@@ -3922,7 +3922,7 @@ const oct31StagingStories = [
     "date": "Oct 31, 2026",
     "place": "Gunma, Japan",
     "image": "assets/cards/oct31-miko-moat.webp",
-    "title": "A 1,500-Year-Old Shrine Maiden Waits in the Moat",
+    "title": "A 1,500-Year-Old Shrine Maiden Waits in the Moat","magnetUrl":"https://blappos.printify.me/product/33824398","magnetPrice":"$9.99",
     "facts": "Live Science reported October 31 that archaeologists at the Nishikaminomiya site in Gunma Prefecture recovered a roughly 40-centimeter haniwa clay figure from the inner slope of a fifth- or sixth-century burial-mound moat. The official Gunma archaeology notice identifies the figure as a miko, or shrine maiden, and records its shoulder sash; the reported topknot, bracelets, red pigment and ritual rod support the interpretation of a ceremonial figure associated with Kofun-period funerary practice.",
     "why": "The find preserves unusually detailed evidence about ritual clothing and representation in early anthropomorphic haniwa, and the official excavation notice gives readers a durable primary record rather than a headline alone. “Miko” is the archaeologists’ interpretation of iconography, not a surviving name, biography or proof that the figure performed a supernatural act.",
     "angle": "The October 31 report, official excavation record, dimensions and interpretation boundary end above. The Blappos interpretation: after fifteen centuries, the shrine maiden still had moat duty. The magnet’s figurine, archaeologists, mound and landscape are original editorial illustration—not the artifact, excavation photograph, display installation or a reconstruction certified by the research team.",
