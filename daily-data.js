@@ -3929,7 +3929,7 @@ const oct31StagingStories = [
     "amazonLinks": [
       {
         "title": "Haniwa: The Clay Sculpture of Protohistoric Japan",
-        "image": "https://m.media-amazon.com/images/P/083482714X.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/9780834827141-L.jpg",
         "alt": "Cover of Haniwa by Fumio Miki",
         "quip": "The specialist classic on the clay figures that guarded and animated Japan’s ancient burial mounds.",
         "salesPriority": 5,
@@ -3937,7 +3937,7 @@ const oct31StagingStories = [
       },
       {
         "title": "The Archaeology of Japan",
-        "image": "https://m.media-amazon.com/images/P/052188490X.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/9780521884907-L.jpg",
         "alt": "Cover of The Archaeology of Japan by Koji Mizoguchi",
         "quip": "A scholarly history of the Yayoi and Kofun periods for placing one moat discovery inside the rise of the early state.",
         "salesPriority": 5,
@@ -3945,7 +3945,7 @@ const oct31StagingStories = [
       },
       {
         "title": "An Illustrated Companion to Japanese Archaeology",
-        "image": "https://m.media-amazon.com/images/P/1789693950.01.LZZZZZZZ.jpg",
+        "image": "https://books.google.com/books/content?id=VPWFzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "alt": "Cover of An Illustrated Companion to Japanese Archaeology",
         "quip": "A visual reference spanning Japanese archaeology, including the Kofun world that produced haniwa figures.",
         "salesPriority": 4,
@@ -3972,7 +3972,7 @@ const oct31StagingStories = [
     "amazonLinks": [
       {
         "title": "Liars, Cheats, and Copycats: Trickery and Deception in Nature",
-        "image": "https://m.media-amazon.com/images/P/0231225946.01.LZZZZZZZ.jpg",
+        "image": "https://cup-us.imgix.net/covers/9780231568234.jpg?auto=format&w=350",
         "alt": "Cover of Liars, Cheats, and Copycats by James O’Hanlon",
         "quip": "The October 2026 book behind the report, tracing biological deception from camouflage to tactical false alarms.",
         "salesPriority": 5,
@@ -3980,7 +3980,7 @@ const oct31StagingStories = [
       },
       {
         "title": "The Liars of Nature and the Nature of Liars",
-        "image": "https://m.media-amazon.com/images/P/0691198602.01.LZZZZZZZ.jpg",
+        "image": "https://books.google.com/books/content?id=LqiTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "alt": "Cover of The Liars of Nature and the Nature of Liars by Lixing Sun",
         "quip": "A behavior-and-evolution tour of cheating that helps separate a useful analogy from a claim about animal intent.",
         "salesPriority": 5,
@@ -3988,7 +3988,7 @@ const oct31StagingStories = [
       },
       {
         "title": "Nature’s Tricks: How Animals and Plants Use Disguises and Deception",
-        "image": "https://m.media-amazon.com/images/P/1913631117.01.LZZZZZZZ.jpg",
+        "image": "https://redfernnaturalhistory.com/wp-content/uploads/2023/02/Front-Cover-600x520.jpg",
         "alt": "Cover of Nature’s Tricks by Chien Lee and Stewart McPherson",
         "quip": "A visual survey of biological trickery for readers whose fraud syllabus should include feathers, flowers and camouflage.",
         "salesPriority": 4,
@@ -4015,7 +4015,7 @@ const oct31StagingStories = [
     "amazonLinks": [
       {
         "title": "Batmobile: The Complete History",
-        "image": "https://m.media-amazon.com/images/P/1608871037.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/9781608871032-L.jpg",
         "alt": "Cover of Batmobile: The Complete History by Mark Cotta Vaz",
         "quip": "A design history of the famous screen vehicle across comics, film and television—before one example acquired a seven-figure estimate.",
         "salesPriority": 5,
@@ -4023,7 +4023,7 @@ const oct31StagingStories = [
       },
       {
         "title": "Batman Returns: The Official Movie Book",
-        "image": "https://m.media-amazon.com/images/P/0553370308.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/9780553370300-L.jpg",
         "alt": "Cover of Batman Returns: The Official Movie Book by Michael Singer",
         "quip": "The 1992 behind-the-scenes companion for the production that put this particular hero car on screen.",
         "salesPriority": 5,
@@ -4031,7 +4031,7 @@ const oct31StagingStories = [
       },
       {
         "title": "Prop Man: From John Wick to Silver Linings Playbook",
-        "image": "https://m.media-amazon.com/images/P/1648961126.01.LZZZZZZZ.jpg",
+        "image": "https://covers.openlibrary.org/b/isbn/9781648961120-L.jpg",
         "alt": "Cover of Prop Man by Ross MacDonald and Steven Heller",
         "quip": "A close look at the craft that turns fabricated objects into believable screen history—and eventually collectible artifacts.",
         "salesPriority": 4,
@@ -4051,3 +4051,5 @@ window.dailyStories.unshift(...oct31StagingStories.filter(story => story.magnetU
 
 // October 31 purchase gate passed: all three exact $9.99 Printify products are live and linked; permanent pages, art links, three Amazon cards and source routes were verified before social release.
 // October 31 live-page QA passed: the complete magnet is visible, both BUY THIS MAGNET CTAs and the card artwork resolve to the matching Printify product for every story.
+
+// October 31 affiliate-card image QA passed: all nine cover images load from verified publisher, Open Library or Google Books sources; Amazon purchase destinations remain direct tagged /dp/ URLs.
