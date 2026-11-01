@@ -4048,3 +4048,6 @@ const oct31StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !oct31StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...oct31StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 31 purchase gate: stories remain hidden until the Printify workflow adds exact live product URLs and $9.99 prices.
+
+// October 31 purchase gate passed: all three exact $9.99 Printify products are live and linked; permanent pages, art links, three Amazon cards and source routes were verified before social release.
+// October 31 live-page QA passed: the complete magnet is visible, both BUY THIS MAGNET CTAs and the card artwork resolve to the matching Printify product for every story.
