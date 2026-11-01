@@ -4008,7 +4008,7 @@ const oct31StagingStories = [
     "date": "Oct 31, 2026",
     "place": "Los Angeles, California",
     "image": "assets/cards/oct31-night-drive.webp",
-    "title": "The $7 Million Night Drive Comes With a Flame Remote",
+    "title": "The $7 Million Night Drive Comes With a Flame Remote","magnetUrl":"https://blappos.printify.me/product/33824416","magnetPrice":"$9.99",
     "facts": "CBS Los Angeles reported October 31 that the screen-used hero Batmobile from the 1992 film “Batman Returns” will headline a November 23 Julien’s Auctions and Turner Classic Movies sale in Los Angeles and online. The auction house describes a custom fiberglass body built over two Chevrolet Impala chassis; CBS reported an original glossy-black finish, a radio-controlled flaming exhaust effect and an estimate reaching $7 million.",
     "why": "A functioning film prop can be part vehicle, part practical-effects machine and part cultural artifact, which is why provenance and screen matching can move its price far beyond transportation value. The $7 million figure is a pre-sale estimate, not a completed sale price, and the flame system is a controlled theatrical effect—not a road feature or purchasing recommendation.",
     "angle": "The October 31 report, November 23 sale date, construction details, flame system and estimate boundary end above. The Blappos interpretation: Los Angeles found a used car whose optional exhaust costs more than most houses. The magnet’s black fantasy prop car and auction scene are original editorial illustration—not the copyrighted vehicle, a studio logo, a lot photograph or proof of a final hammer price.",
