@@ -374,3 +374,5 @@ fs.writeFileSync(path.join(root, 'sitemap.xml'), sitemap);
 fs.writeFileSync(path.join(root, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${origin}/sitemap.xml\n`);
 
 console.log(`Generated ${stories.length} story pages and ${urls.length} sitemap URLs.`);
+
+// 2026-11-01: regenerate permanent pages after the October 31 Printify purchase gate passed.
