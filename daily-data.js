@@ -3913,3 +3913,138 @@ window.dailyStories = window.dailyStories.filter(story => !oct30StagingStories.s
 window.dailyStories.unshift(...oct30StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // October 30 purchase gate passed: all three exact $9.99 Printify products are live and linked; release permanent pages and social delivery.
 // October 30 live-page QA passed: exact artwork, source links, three Amazon cards, two matching BUY CTAs and all $9.99 product pages verified before social release.
+
+const oct31StagingStories = [
+  {
+    "id": "oct31-miko-moat",
+    "isoDate": "2026-10-31",
+    "month": "October",
+    "date": "Oct 31, 2026",
+    "place": "Gunma, Japan",
+    "image": "assets/cards/oct31-miko-moat.webp",
+    "title": "A 1,500-Year-Old Shrine Maiden Waits in the Moat",
+    "facts": "Live Science reported October 31 that archaeologists at the Nishikaminomiya site in Gunma Prefecture recovered a roughly 40-centimeter haniwa clay figure from the inner slope of a fifth- or sixth-century burial-mound moat. The official Gunma archaeology notice identifies the figure as a miko, or shrine maiden, and records its shoulder sash; the reported topknot, bracelets, red pigment and ritual rod support the interpretation of a ceremonial figure associated with Kofun-period funerary practice.",
+    "why": "The find preserves unusually detailed evidence about ritual clothing and representation in early anthropomorphic haniwa, and the official excavation notice gives readers a durable primary record rather than a headline alone. “Miko” is the archaeologists’ interpretation of iconography, not a surviving name, biography or proof that the figure performed a supernatural act.",
+    "angle": "The October 31 report, official excavation record, dimensions and interpretation boundary end above. The Blappos interpretation: after fifteen centuries, the shrine maiden still had moat duty. The magnet’s figurine, archaeologists, mound and landscape are original editorial illustration—not the artifact, excavation photograph, display installation or a reconstruction certified by the research team.",
+    "amazonLinks": [
+      {
+        "title": "Haniwa: The Clay Sculpture of Protohistoric Japan",
+        "image": "https://m.media-amazon.com/images/P/083482714X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Haniwa by Fumio Miki",
+        "quip": "The specialist classic on the clay figures that guarded and animated Japan’s ancient burial mounds.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/083482714X?tag=blappos-20"
+      },
+      {
+        "title": "The Archaeology of Japan",
+        "image": "https://m.media-amazon.com/images/P/052188490X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Archaeology of Japan by Koji Mizoguchi",
+        "quip": "A scholarly history of the Yayoi and Kofun periods for placing one moat discovery inside the rise of the early state.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/052188490X?tag=blappos-20"
+      },
+      {
+        "title": "An Illustrated Companion to Japanese Archaeology",
+        "image": "https://m.media-amazon.com/images/P/1789693950.01.LZZZZZZZ.jpg",
+        "alt": "Cover of An Illustrated Companion to Japanese Archaeology",
+        "quip": "A visual reference spanning Japanese archaeology, including the Kofun world that produced haniwa figures.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/1789693950?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.livescience.com/archaeology/ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old-burial-mound-in-japan",
+    "sourceName": "Read Live Science’s October 31 report and the linked Gunma excavation record",
+    "sourcePublisher": "Live Science",
+    "socialSummary": "Live Science reported that archaeologists in Gunma recovered a roughly 40-centimeter haniwa figure from a 1,500-year-old burial-mound moat; the official excavation record identifies the ceremonial figure as a miko, or shrine maiden.",
+    "socialPunchline": "Blappos: After fifteen centuries, she still had moat duty."
+  },
+  {
+    "id": "oct31-drongo-deception",
+    "isoDate": "2026-10-31",
+    "month": "October",
+    "date": "Oct 31, 2026",
+    "place": "Kalahari, Southern Africa",
+    "image": "assets/cards/oct31-drongo-deception.webp",
+    "title": "A Bird Keeps Lying by Changing the Lie",
+    "facts": "Live Science published an October 31 excerpt from zoologist James O’Hanlon’s new book about animal deception, highlighting fork-tailed drongos that mimic alarm calls to send meerkats and other foragers running before stealing abandoned food. The underlying peer-reviewed Science experiment found that repeated false calls lost effectiveness, but switching to a different call restored the targets’ response—flexible variation that lets the drongo’s deception keep paying.",
+    "why": "The behavior is a rare, testable example of tactical signal manipulation: receivers learn, the sender changes tactics, and food changes owners. Scientists can demonstrate flexible false alarms and theft without proving the bird holds a human-like concept of truth, so “lying” remains a provocative shorthand rather than a settled diagnosis of the drongo’s private mental state.",
+    "angle": "The October 31 book excerpt, the 2014 Science experiment and the cognition boundary end above. The Blappos interpretation: the drongo has a rotating password policy for fraud. The magnet’s megaphone, sound ribbons, meerkats and snack are original editorial illustration—not a field photograph, recording spectrogram or claim that birds use props.",
+    "amazonLinks": [
+      {
+        "title": "Liars, Cheats, and Copycats: Trickery and Deception in Nature",
+        "image": "https://m.media-amazon.com/images/P/0231225946.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Liars, Cheats, and Copycats by James O’Hanlon",
+        "quip": "The October 2026 book behind the report, tracing biological deception from camouflage to tactical false alarms.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0231225946?tag=blappos-20"
+      },
+      {
+        "title": "The Liars of Nature and the Nature of Liars",
+        "image": "https://m.media-amazon.com/images/P/0691198602.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Liars of Nature and the Nature of Liars by Lixing Sun",
+        "quip": "A behavior-and-evolution tour of cheating that helps separate a useful analogy from a claim about animal intent.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0691198602?tag=blappos-20"
+      },
+      {
+        "title": "Nature’s Tricks: How Animals and Plants Use Disguises and Deception",
+        "image": "https://m.media-amazon.com/images/P/1913631117.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Nature’s Tricks by Chien Lee and Stewart McPherson",
+        "quip": "A visual survey of biological trickery for readers whose fraud syllabus should include feathers, flowers and camouflage.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/1913631117?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.livescience.com/animals/birds/can-animals-lie-this-sneaky-bird-might-be-proof",
+    "sourceName": "Read Live Science’s October 31 excerpt and the linked peer-reviewed drongo research",
+    "sourcePublisher": "Live Science",
+    "socialSummary": "Live Science highlighted fork-tailed drongos that use false alarm calls to steal food; peer-reviewed experiments found that when one repeated call lost its effect, switching calls restored the victims’ response.",
+    "socialPunchline": "Blappos: The drongo has a rotating password policy for fraud."
+  },
+  {
+    "id": "oct31-seven-million-night-drive",
+    "isoDate": "2026-10-31",
+    "month": "October",
+    "date": "Oct 31, 2026",
+    "place": "Los Angeles, California",
+    "image": "assets/cards/oct31-night-drive.webp",
+    "title": "The $7 Million Night Drive Comes With a Flame Remote",
+    "facts": "CBS Los Angeles reported October 31 that the screen-used hero Batmobile from the 1992 film “Batman Returns” will headline a November 23 Julien’s Auctions and Turner Classic Movies sale in Los Angeles and online. The auction house describes a custom fiberglass body built over two Chevrolet Impala chassis; CBS reported an original glossy-black finish, a radio-controlled flaming exhaust effect and an estimate reaching $7 million.",
+    "why": "A functioning film prop can be part vehicle, part practical-effects machine and part cultural artifact, which is why provenance and screen matching can move its price far beyond transportation value. The $7 million figure is a pre-sale estimate, not a completed sale price, and the flame system is a controlled theatrical effect—not a road feature or purchasing recommendation.",
+    "angle": "The October 31 report, November 23 sale date, construction details, flame system and estimate boundary end above. The Blappos interpretation: Los Angeles found a used car whose optional exhaust costs more than most houses. The magnet’s black fantasy prop car and auction scene are original editorial illustration—not the copyrighted vehicle, a studio logo, a lot photograph or proof of a final hammer price.",
+    "amazonLinks": [
+      {
+        "title": "Batmobile: The Complete History",
+        "image": "https://m.media-amazon.com/images/P/1608871037.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Batmobile: The Complete History by Mark Cotta Vaz",
+        "quip": "A design history of the famous screen vehicle across comics, film and television—before one example acquired a seven-figure estimate.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1608871037?tag=blappos-20"
+      },
+      {
+        "title": "Batman Returns: The Official Movie Book",
+        "image": "https://m.media-amazon.com/images/P/0553370308.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Batman Returns: The Official Movie Book by Michael Singer",
+        "quip": "The 1992 behind-the-scenes companion for the production that put this particular hero car on screen.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0553370308?tag=blappos-20"
+      },
+      {
+        "title": "Prop Man: From John Wick to Silver Linings Playbook",
+        "image": "https://m.media-amazon.com/images/P/1648961126.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Prop Man by Ross MacDonald and Steven Heller",
+        "quip": "A close look at the craft that turns fabricated objects into believable screen history—and eventually collectible artifacts.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/1648961126?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.cbsnews.com/losangeles/news/batmobile-batman-returns-auction/",
+    "sourceName": "Read CBS Los Angeles’s October 31 report and the official auction listing",
+    "sourcePublisher": "CBS Los Angeles",
+    "socialSummary": "CBS Los Angeles reported that the screen-used hero car from “Batman Returns” will be auctioned November 23; the custom two-chassis prop has a radio-controlled flaming exhaust and an estimate reaching $7 million.",
+    "socialPunchline": "Blappos: The optional exhaust costs more than most houses."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct31StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct31StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 31 purchase gate: stories remain hidden until the Printify workflow adds exact live product URLs and $9.99 prices.
