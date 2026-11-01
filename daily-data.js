@@ -3965,7 +3965,7 @@ const oct31StagingStories = [
     "date": "Oct 31, 2026",
     "place": "Kalahari, Southern Africa",
     "image": "assets/cards/oct31-drongo-deception.webp",
-    "title": "A Bird Keeps Lying by Changing the Lie",
+    "title": "A Bird Keeps Lying by Changing the Lie","magnetUrl":"https://blappos.printify.me/product/33824409","magnetPrice":"$9.99",
     "facts": "Live Science published an October 31 excerpt from zoologist James O’Hanlon’s new book about animal deception, highlighting fork-tailed drongos that mimic alarm calls to send meerkats and other foragers running before stealing abandoned food. The underlying peer-reviewed Science experiment found that repeated false calls lost effectiveness, but switching to a different call restored the targets’ response—flexible variation that lets the drongo’s deception keep paying.",
     "why": "The behavior is a rare, testable example of tactical signal manipulation: receivers learn, the sender changes tactics, and food changes owners. Scientists can demonstrate flexible false alarms and theft without proving the bird holds a human-like concept of truth, so “lying” remains a provocative shorthand rather than a settled diagnosis of the drongo’s private mental state.",
     "angle": "The October 31 book excerpt, the 2014 Science experiment and the cognition boundary end above. The Blappos interpretation: the drongo has a rotating password policy for fraud. The magnet’s megaphone, sound ribbons, meerkats and snack are original editorial illustration—not a field photograph, recording spectrogram or claim that birds use props.",
