@@ -4053,3 +4053,138 @@ window.dailyStories.unshift(...oct31StagingStories.filter(story => story.magnetU
 // October 31 live-page QA passed: the complete magnet is visible, both BUY THIS MAGNET CTAs and the card artwork resolve to the matching Printify product for every story.
 
 // October 31 affiliate-card image QA passed: all nine cover images load from verified publisher, Open Library or Google Books sources; Amazon purchase destinations remain direct tagged /dp/ URLs.
+
+const nov1StagingStories = [
+  {
+    "id": "nov1-monster-placement",
+    "isoDate": "2026-11-01",
+    "month": "November",
+    "date": "Nov 1, 2026",
+    "place": "Raleigh, North Carolina",
+    "image": "assets/cards/nov1-monster-placement.webp",
+    "title": "Raleigh Promotes a Halloween Yard to Special Event",
+    "facts": "People reported November 1 that Jesse Jones's elaborate Historic Oakwood Halloween display, which he has staged for 15 years, was required to use Raleigh's special-event process after the city said its crowd and five-block street closure had outgrown an ordinary block-party permit. Jones estimated that the display drew about 6,000 children last year based on candy handed out. He described a 14-page application, insurance and workers' compensation requirements, and a staffing plan that was initially much larger than prior years. The city and Jones reached a compromise October 28: Raleigh would handle the road closures, four off-duty officers would work the event, and Jones said his total cost was about $4,000.",
+    "why": "A beloved neighborhood tradition can become a genuine public-safety operation when thousands of visitors and multiple street closures are involved. The city's threshold explains the permit change; Jones's named estimates and paperwork explain why the change felt disproportionate to a homeowner. The reported crowd count is his estimate, not an audited attendance figure, and the dollar total is his reported event cost rather than a fine.",
+    "angle": "The November 1 report, the city's crowd-and-road explanation, Jones's estimates and the October 28 resolution end above. The Blappos interpretation: the municipal org chart finally added a Vice President of Monster Placement. The magnet's homeowner, clerk, monsters and permit desk are original editorial illustration—not a portrait of Jones, a copy of his display, a city form or evidence of the crowd size.",
+    "amazonLinks": [
+      {
+        "title": "Halloween: From Pagan Ritual to Party Night",
+        "image": "https://covers.openlibrary.org/b/isbn/9780195168969-L.jpg",
+        "alt": "Cover of Halloween: From Pagan Ritual to Party Night by Nicholas Rogers",
+        "quip": "A researched cultural history for anyone wondering how neighborhood ritual became a permit-bearing civic event.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0195168968?tag=blappos-20"
+      },
+      {
+        "title": "The Halloween Encyclopedia",
+        "image": "https://covers.openlibrary.org/b/isbn/9780786415243-L.jpg",
+        "alt": "Cover of The Halloween Encyclopedia by Lisa Morton",
+        "quip": "A reference shelf of Halloween customs, folklore and modern traditions—administrative paperwork not included.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/078641524X?tag=blappos-20"
+      },
+      {
+        "title": "The Complete Guide to Special Event Management",
+        "image": "https://covers.openlibrary.org/b/isbn/9780471549086-L.jpg",
+        "alt": "Cover of The Complete Guide to Special Event Management by Ernst and Young",
+        "quip": "A serious operations manual for the moment your yard display acquires traffic control and an org chart.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0471549088?tag=blappos-20"
+      }
+    ],
+    "source": "https://people.com/man-never-had-problem-with-elaborate-halloween-display-until-this-year-cost-him-4k-exclusive-12193370",
+    "sourceName": "Read People’s November 1 report and Raleigh’s explanation of the special-event threshold",
+    "sourcePublisher": "People",
+    "socialSummary": "People reported that Raleigh moved a 15-year neighborhood Halloween display into its special-event process after crowds and five street closures outgrew a block-party permit; the homeowner said the compromise event cost him about $4,000.",
+    "socialPunchline": "Blappos: City Hall has appointed a Vice President of Monster Placement."
+  },
+  {
+    "id": "nov1-knee-oil-beetle",
+    "isoDate": "2026-11-01",
+    "month": "November",
+    "date": "Nov 1, 2026",
+    "place": "Pembrokeshire, Wales",
+    "image": "assets/cards/nov1-knee-oil-beetle.webp",
+    "title": "Wales Finds the Beetle With Knee Oil and a Bee Taxi",
+    "facts": "The Guardian reported November 1 that breeding by the rare short-necked oil beetle has been confirmed at Castlemartin in Pembrokeshire, nearly 60 years after the species was last known to breed in Wales. Adults can release an oily yellow-orange defensive fluid from their knee joints. The larvae have hook-like feet and hitch rides on solitary bees to reach their nests, where they feed on pollen stores; conservationists say only about one larva in 10,000 reaches adulthood. The beetle was found at the site in 2020, but the 2026 distribution of larvae supplied the stronger evidence of a successful hatch and breeding population.",
+    "why": "A rediscovered adult is encouraging; larvae spread across suitable habitat are stronger evidence that a population is reproducing. The species also depends on the right flowers, bare ground and solitary-bee hosts, so its recovery reflects a connected habitat rather than one charismatic insect. 'Nearly 60 years' refers to confirmed breeding in Wales, not an absence of every beetle sighting during that period.",
+    "angle": "The November 1 report, defensive chemistry, bee-hitchhiking life cycle and breeding evidence end above. The Blappos interpretation: evolution issued this beetle knee oil and a microscopic taxi account. The oversized beetle, larvae, bee and conservationist are original editorial illustration—not documentary wildlife evidence, a copied field photograph or a claim that the insects coordinate like human passengers.",
+    "amazonLinks": [
+      {
+        "title": "The Lives of Beetles",
+        "image": "https://covers.openlibrary.org/b/isbn/9780691236513-L.jpg",
+        "alt": "Cover of The Lives of Beetles by Arthur V. Evans",
+        "quip": "A richly illustrated beetle survey that puts one Welsh comeback inside the astonishing range of Coleoptera.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0691236518?tag=blappos-20"
+      },
+      {
+        "title": "Beetles: The Natural History and Diversity of Coleoptera",
+        "image": "https://covers.openlibrary.org/b/isbn/9780228100690-L.jpg",
+        "alt": "Cover of Beetles by Stephen A. Marshall",
+        "quip": "A photographic natural history for readers who want the anatomy and ecology behind the knee-oil headline.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0228100690?tag=blappos-20"
+      },
+      {
+        "title": "The Beetle Book",
+        "image": "https://covers.openlibrary.org/b/isbn/9780547680842-L.jpg",
+        "alt": "Cover of The Beetle Book by Steve Jenkins",
+        "quip": "An accessible illustrated introduction to beetle adaptations for the younger conservationist on the bee taxi.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0547680848?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.theguardian.com/environment/2026/nov/01/rare-short-necked-oil-beetle-rediscovered-wales",
+    "sourceName": "Read The Guardian’s November 1 report and its named conservation evidence",
+    "sourcePublisher": "The Guardian",
+    "socialSummary": "The Guardian reported that short-necked oil beetles are breeding again in Wales after nearly 60 years; the beetle releases defensive oil from its knees, while hook-footed larvae ride solitary bees to reach pollen-filled nests.",
+    "socialPunchline": "Blappos: Knee oil, bee taxi, still here."
+  },
+  {
+    "id": "nov1-reef-villain",
+    "isoDate": "2026-11-01",
+    "month": "November",
+    "date": "Nov 1, 2026",
+    "place": "Great Barrier Reef, Australia",
+    "image": "assets/cards/nov1-reef-villain.webp",
+    "title": "The Reef Villain Gets a Part-Time Gardening Job",
+    "facts": "ScienceDaily highlighted University of Sydney research on November 1 showing that crown-of-thorns starfish do not always erase the coral they feed on. At protected sites on One Tree Reef, live coral tissue remained after nearly 75 percent of observed feeding events. The researchers argue that at low densities the starfish can open space otherwise dominated by fast-growing corals, potentially helping slower-growing species and reef diversity. The underlying peer-reviewed study was published in Ecology and Evolution; the university first announced it September 24.",
+    "why": "Density changes the ecological meaning. Crown-of-thorns outbreaks remain devastating and active control is still necessary, but treating every individual as ecologically identical to an outbreak can hide the species' normal role in a reef. The authors' management point is conditional: after an outbreak is suppressed, complete local eradication may remove a native grazer that helps maintain patchiness and diversity.",
+    "angle": "The November 1 digest, September research clock, low-density qualifier and outbreak warning end above. The Blappos interpretation: the reef villain has been rehired as a part-time groundskeeper under very close supervision. The cap, shears, divers and safety rope are original editorial illustration—not field documentation, a literal management method or permission to handle a venomous starfish.",
+    "amazonLinks": [
+      {
+        "title": "Biology, Ecology and Management of Crown-of-Thorns Starfish",
+        "image": "https://mdpi-res.com/bookfiles/book/455/Biology_Ecology_and_Management_of_CrownofThorns_Starfish.png?v=1793584910",
+        "alt": "Cover of Biology, Ecology and Management of Crown-of-Thorns Starfish",
+        "quip": "The specialist collection for understanding why one native grazer and an outbreak demand different management.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/3038426024?tag=blappos-20"
+      },
+      {
+        "title": "Reef Life: A Guide to Tropical Marine Life",
+        "image": "https://books.google.com/books/content?id=GZlqzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "alt": "Cover of Reef Life by Brandon Cole and Scott Michael",
+        "quip": "A broad guide to the crowded neighborhood whose balance depends on more than heroes and villains.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0228102944?tag=blappos-20"
+      },
+      {
+        "title": "Coral Reefs: A Natural History",
+        "image": "https://books.google.com/books/content?id=yXogEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "alt": "Cover of Coral Reefs: A Natural History by Charles Sheppard",
+        "quip": "The reef-scale context for how competition, disturbance and recovery create a living mosaic.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0691198683?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/10/261030002957.htm",
+    "sourceName": "Read ScienceDaily’s November 1 digest, the University of Sydney release and the peer-reviewed study",
+    "sourcePublisher": "ScienceDaily",
+    "socialSummary": "ScienceDaily highlighted University of Sydney research finding that low-density crown-of-thorns starfish can leave live coral behind and create space for slower-growing species, even though outbreaks remain destructive.",
+    "socialPunchline": "Blappos: Keep one villain on staff, but take away the master key."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov1StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov1StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 1 purchase gate: stories remain hidden until the Printify workflow adds exact live product URLs and $9.99 prices.
