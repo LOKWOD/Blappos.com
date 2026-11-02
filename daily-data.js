@@ -4188,3 +4188,7 @@ const nov1StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !nov1StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...nov1StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 1 purchase gate: stories remain hidden until the Printify workflow adds exact live product URLs and $9.99 prices.
+
+// November 1 purchase gate passed: all three exact $9.99 Printify products are live, titled to match their stories and expose Add to cart.
+// November 1 permanent-page QA passed: each story page carries two matching Printify purchase routes and exactly three verified direct tagged Amazon /dp/ links.
+// November 1 affiliate-card image QA passed: all nine source images render as non-placeholder covers from Open Library, Google Books or the specialist publisher.
