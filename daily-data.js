@@ -4287,7 +4287,7 @@ const nov2StagingStories = [
     "date": "Nov 2, 2026",
     "place": "Harrisburg, Pennsylvania",
     "image": "assets/cards/nov2-1207-screenings.png",
-    "title": "A Pennsylvania Man Goes to the Movies 1,207 Times in a Year",
+    "title": "A Pennsylvania Man Goes to the Movies 1,207 Times in a Year","magnetUrl":"https://blappos.printify.me/product/33909548","magnetPrice":"$9.99",
     "facts": "UPI reported on November 2 that Glenwood Hoskin Jr. earned the Guinness World Records title for most films seen in a cinema in one year with 1,207 screenings—an average of 3.3 per day. Guinness says the record was achieved in Harrisburg on March 31, 2025, after Hoskin planned daily schedules from listings, used a roughly $28-per-month cinema subscription and surpassed the previous mark of 777.",
     "why": "This is a certified attendance record, not a claim that 1,207 different titles were released or that he watched continuously without ordinary breaks. The publication clock is also newer than the feat: UPI’s November 2, 2026 story followed Guinness’s October 30 feature about a record completed in March 2025. That separation keeps a fresh odd-news report from becoming a falsely fresh event.",
     "angle": "The certified total, achievement date and attendance-versus-unique-film boundary end above. The Blappos interpretation: after 1,207 screenings, the lobby should list him under building services. The anonymous fan, ushers, ticket mosaic and timetable are disclosed original AI-generated editorial illustration—not a likeness, theater-chain endorsement, movie poster or claim about any specific screening.",
