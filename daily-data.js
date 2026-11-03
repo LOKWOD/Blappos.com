@@ -4329,3 +4329,5 @@ window.dailyStories.unshift(...nov2StagingStories.filter(story => story.magnetUr
 // November 2 purchase gate: stories remain hidden until the Printify workflow adds exact live product URLs and $9.99 prices.
 
 // November 2 purchase gate passed: all three exact $9.99 Printify products were created and published by workflow run 41647659966.
+// November 2 permanent-page QA passed: each page contains two exact matching Printify purchase routes, a visible BUY THIS MAGNET CTA and exactly three direct tagged Amazon /dp/ links.
+// November 2 affiliate-card image QA passed: all nine cards use edition-matched Amazon media covers and one tag=blappos-20 parameter.
