@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-03 — November 2 claim-ceiling matrix
+
+### Devon Wildlife Trust species recovery
+- Target: Narrow-headed Ant recovery team and communications desk
+- Route: https://www.devonwildlifetrust.org/news/thieves-strike-ants-last-english-stronghold
+- Asset match: https://blappos.com/verification/#nov2-ant-nest
+- Honest angle: A public incident summary that credits the trust, preserves the typical-range-versus-count distinction, links the police reference and avoids identifying a suspect. A reasonable resource-share or correction opportunity only if the team considers it accurate.
+
+### University of Pisa / Current Biology research team
+- Target: Elisabetta Palagi’s ethology team and University of Pisa science communications
+- Route: https://www.cell.com/current-biology/fulltext/S0960-9822(26)01230-3
+- Asset match: https://blappos.com/verification/#nov2-pasture-plus-one
+- Honest angle: A concise observation-versus-inference reference that retains the authors’ selective-association result while explicitly refusing to infer inner emotion, fixed identity or evolutionary function from one case.
+
+### Guinness World Records editorial team
+- Target: Records editorial team for the most-films-in-a-cinema title
+- Route: https://www.guinnessworldrecords.com/world-records/405449-most-films-seen-in-a-cinema-in-one-year
+- Asset match: https://blappos.com/verification/#nov2-1207-screenings
+- Honest angle: A publication-clock explainer that links the official record and distinguishes screenings attended from unique films, without claiming that the March 2025 achievement occurred when the 2026 feature was published.
+
 ## 2026-11-02 — November 1 three-clock evidence matrix
 
 ### City of Raleigh Communications
@@ -41,4 +61,3 @@ This log records narrow, legitimate opportunities for the exact public-reference
 - Route: https://www.juliensauctions.com/en/auctions/the-ultimate-batmobile-auction
 - Asset match: https://blappos.com/verification/#oct31-seven-million-night-drive
 - Honest angle: A transparent estimate-versus-hammer-price reference that links the official catalog, attributes technical details and makes clear that the Blappos artwork is an original generic editorial illustration, not a lot image.
-

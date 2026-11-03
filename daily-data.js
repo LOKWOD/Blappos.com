@@ -4192,3 +4192,138 @@ window.dailyStories.unshift(...nov1StagingStories.filter(story => story.magnetUr
 // November 1 purchase gate passed: all three exact $9.99 Printify products are live, titled to match their stories and expose Add to cart.
 // November 1 permanent-page QA passed: each story page carries two matching Printify purchase routes and exactly three verified direct tagged Amazon /dp/ links.
 // November 1 affiliate-card image QA passed: all nine source images render as non-placeholder covers from Open Library, Google Books or the specialist publisher.
+
+const nov2StagingStories = [
+  {
+    "id": "nov2-ant-nest",
+    "isoDate": "2026-11-02",
+    "month": "November",
+    "date": "Nov 2, 2026",
+    "place": "Chudleigh Knighton Heath, England",
+    "image": "assets/cards/nov2-ant-nest.png",
+    "title": "England’s Rarest Ant Nest Vanishes by the Spadeful",
+    "facts": "UPI reported on November 2 that an entire narrow-headed-ant nest had been removed from Devon Wildlife Trust’s Chudleigh Knighton Heath reserve. The trust’s same-day primary account says researchers discovered a hollow in mid-October where a known nest had been, with spade marks around it. The reserve is the species’ last English stronghold; its latest survey counted 142 active nests. A mature colony can hold roughly 1,000 to 5,000 ants and one or more queens that may live for as long as 25 years.",
+    "why": "The 1,000–5,000 figure describes the normal range for a nest, not a counted inventory of the missing colony. The serious part is replacement time: a mature colony represents years of slow growth in a nationally rare species, so losing one nest is not equivalent to losing one season’s insects. Devon and Cornwall Police are treating the reserve damage as a reported crime; the published evidence does not identify a suspect or motive.",
+    "angle": "The primary conservation record, range-versus-count boundary and unresolved investigation end above. The Blappos interpretation: England’s rarest apartment block left a spade-shaped forwarding address. The moving ants, queen’s chair and miniature soil building are disclosed original AI-generated editorial illustration—not evidence that the ants relocated themselves, a depiction of the removed nest or an accusation against any person.",
+    "amazonLinks": [
+      {
+        "title": "The Ants",
+        "image": "https://m.media-amazon.com/images/P/0674040759.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Ants by Bert Hölldobler and Edward O. Wilson",
+        "quip": "The Pulitzer-winning scientific reference for understanding the colony that a spade cannot simply replace.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0674040759?tag=blappos-20"
+      },
+      {
+        "title": "Journey to the Ants",
+        "image": "https://m.media-amazon.com/images/P/0674485262.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Journey to the Ants by Bert Hölldobler and Edward O. Wilson",
+        "quip": "An accessible tour of ant societies for readers who want the real engineering behind the tiny tenant joke.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0674485262?tag=blappos-20"
+      },
+      {
+        "title": "The Lives of Ants",
+        "image": "https://m.media-amazon.com/images/P/0691158649.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Lives of Ants by Laurent Keller and Elisabeth Gordon",
+        "quip": "A compact natural history of queens, workers and colony life—the living system lost when a nest is removed.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0691158649?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/02/devon-wildlife-trust-narrow-headed-ant-nest-stolen/8801793637542/",
+    "sourceName": "Read UPI’s November 2 report and Devon Wildlife Trust’s primary account",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that a narrow-headed-ant nest was removed from Devon Wildlife Trust’s Chudleigh Knighton Heath reserve, the species’ last English stronghold; the trust says a typical nest can hold 1,000–5,000 ants and long-lived queens.",
+    "socialPunchline": "Blappos: England’s rarest apartment block left only a spade-shaped forwarding address."
+  },
+  {
+    "id": "nov2-pasture-plus-one",
+    "isoDate": "2026-11-02",
+    "month": "November",
+    "date": "Nov 2, 2026",
+    "place": "Ethiopian Highlands",
+    "image": "assets/cards/nov2-pasture-plus-one.png",
+    "title": "A Bull and a Donkey Turn the Pasture Into a Methods Section",
+    "facts": "UPI reported on November 2 that researchers studying geladas in Ethiopia instead documented a selective socio-sexual association between Achille, a bull, and Patroclo, a male donkey. The Current Biology paper records 51 mounting events from March 6 to March 19, 2026, alongside repeated licking, rubbing, nuzzling and close proximity. Both animals had access to other potential partners, and another male donkey showed avoidance when the bull approached him.",
+    "why": "The scientifically useful finding is the pattern around the mounting behavior: repeated proximity, selective affiliation and a contrast with another donkey’s avoidance. It broadens the record of same-sex and interspecies behavior beyond reproduction. It does not establish a human-style sexual identity, reveal exactly what either animal felt, prove a lifelong bond or explain the behavior’s evolutionary function; the authors present a single observational case and questions for future research.",
+    "angle": "The observed behavior, comparison case and inference limits end above. The Blappos interpretation: the pasture instituted a plus-one policy and accidentally opened an ethology department. The side-by-side animals and surprised clipboard researchers are disclosed original AI-generated editorial illustration—respectful satire, not field documentation or a claim that scientists can read animal minds.",
+    "amazonLinks": [
+      {
+        "title": "Queer Ducks (and Other Animals)",
+        "image": "https://m.media-amazon.com/images/P/0063069490.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Queer Ducks and Other Animals by Eliot Schrefer",
+        "quip": "An illustrated, research-led guide to the diversity of sexual behavior across the animal kingdom.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0063069490?tag=blappos-20"
+      },
+      {
+        "title": "Biological Exuberance",
+        "image": "https://m.media-amazon.com/images/P/031225377X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Biological Exuberance by Bruce Bagemihl",
+        "quip": "The landmark reference for placing one surprising pasture observation inside a much wider natural record.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/031225377X?tag=blappos-20"
+      },
+      {
+        "title": "Unlikely Friendships",
+        "image": "https://m.media-amazon.com/images/P/0761159134.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Unlikely Friendships by Jennifer S. Holland",
+        "quip": "Documented cross-species relationships for readers interested in the social bond surrounding the headline behavior.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0761159134?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/02/ethiopia-university-of-pisa-study-bull-donkey/9291793642411/",
+    "sourceName": "Read UPI’s November 2 report and the Current Biology paper",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that researchers in Ethiopia documented 51 mounting events plus repeated affiliative behavior between a bull and a male donkey; the peer-reviewed paper describes a selective association but does not claim to know the animals’ emotions or the behavior’s function.",
+    "socialPunchline": "Blappos: The pasture added a plus-one policy and accidentally opened an ethology department."
+  },
+  {
+    "id": "nov2-1207-screenings",
+    "isoDate": "2026-11-02",
+    "month": "November",
+    "date": "Nov 2, 2026",
+    "place": "Harrisburg, Pennsylvania",
+    "image": "assets/cards/nov2-1207-screenings.png",
+    "title": "A Pennsylvania Man Goes to the Movies 1,207 Times in a Year",
+    "facts": "UPI reported on November 2 that Glenwood Hoskin Jr. earned the Guinness World Records title for most films seen in a cinema in one year with 1,207 screenings—an average of 3.3 per day. Guinness says the record was achieved in Harrisburg on March 31, 2025, after Hoskin planned daily schedules from listings, used a roughly $28-per-month cinema subscription and surpassed the previous mark of 777.",
+    "why": "This is a certified attendance record, not a claim that 1,207 different titles were released or that he watched continuously without ordinary breaks. The publication clock is also newer than the feat: UPI’s November 2, 2026 story followed Guinness’s October 30 feature about a record completed in March 2025. That separation keeps a fresh odd-news report from becoming a falsely fresh event.",
+    "angle": "The certified total, achievement date and attendance-versus-unique-film boundary end above. The Blappos interpretation: after 1,207 screenings, the lobby should list him under building services. The anonymous fan, ushers, ticket mosaic and timetable are disclosed original AI-generated editorial illustration—not a likeness, theater-chain endorsement, movie poster or claim about any specific screening.",
+    "amazonLinks": [
+      {
+        "title": "The Story of Film",
+        "image": "https://m.media-amazon.com/images/P/191164182X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Story of Film by Mark Cousins",
+        "quip": "A global cinema history for giving all those seat-hours something larger than a scoreboard.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/191164182X?tag=blappos-20"
+      },
+      {
+        "title": "The Film Book",
+        "image": "https://m.media-amazon.com/images/P/0756691885.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Film Book by Ronald Bergan",
+        "quip": "An illustrated reference for the genres, movements and makers behind a truly unreasonable theater calendar.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0756691885?tag=blappos-20"
+      },
+      {
+        "title": "1001 Movies You Must See Before You Die",
+        "image": "https://m.media-amazon.com/images/P/1788406885.01.LZZZZZZZ.jpg",
+        "alt": "Cover of 1001 Movies You Must See Before You Die edited by Steven Jay Schneider and Ian Hayden Smith",
+        "quip": "A newly updated checklist whose title now looks less like a challenge and more like a warm-up.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/1788406885?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/02/guinness-world-records-movies-cinema-one-year/2311793639017/",
+    "sourceName": "Read UPI’s November 2 report and the Guinness record page",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that Glenwood Hoskin Jr. earned a Guinness title by attending 1,207 cinema screenings in one year, averaging 3.3 a day; the certified record was achieved in March 2025 and measures screenings attended, not necessarily unique films.",
+    "socialPunchline": "Blappos: After 1,207 screenings, the lobby should list him under building services."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov2StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov2StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 2 purchase gate: stories remain hidden until the Printify workflow adds exact live product URLs and $9.99 prices.
