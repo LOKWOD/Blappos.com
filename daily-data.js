@@ -4313,7 +4313,7 @@ const nov3StagingStories = [
     "date": "Nov 3, 2026",
     "place": "Detroit, Michigan",
     "image": "assets/cards/nov3-rubber-band-ball.png",
-    "title": "Detroit Builds an 11,578-Pound Ball of Stored Tension",
+    "title": "Detroit Builds an 11,578-Pound Ball of Stored Tension","magnetUrl":"https://blappos.printify.me/product/33954899","magnetPrice":"$9.99",
     "facts": "UPI and Guinness World Records reported on November 3 that Claude P. Moore's rubber-band ball had been certified as the world's largest. Guinness measured it at 11,578 pounds (5,251.69 kilograms) on Belle Isle in Detroit on August 29, 2026. Moore said making rubber-band balls began as something to do during childhood medical appointments for hemophilia; the giant version grew for about 11 years, eventually required its own storage container and needed volunteers plus a crane for the official weighing.",
     "why": "The achievement clock and publication clock are different: the certified weighing happened in August, while the feature appeared November 3. The title establishes a measured mass, not a diameter, bounce height or count of individual bands. Guinness says the previous record was a 9,032-pound ball completed in 2008, so Moore's total raised the mark by 2,546 pounds.",
     "angle": "The official mass, measurement date and backstory end above. The Blappos interpretation: Detroit spent a decade storing 11,578 pounds of tension and then invited a crane to help process it. The ball, workers, scale and riverfront are disclosed original AI-generated editorial illustration—not a photograph of Moore, the certified object or the Guinness ceremony.",
