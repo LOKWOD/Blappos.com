@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-04 — November 3 proof-limits matrix
+
+### Guinness World Records editorial team
+- Target: Record editorial team for the largest rubber-band ball
+- Route: https://www.guinnessworldrecords.com/world-records/largest-rubber-band-ball
+- Asset match: https://blappos.com/verification/#nov3-rubber-band-ball
+- Honest angle: A public certification-versus-publication-clock reference that preserves the exact measured mass and August achievement date while refusing to invent a diameter, bounce or rubber-band count. A correction or resource-share opportunity only if Guinness considers it accurate.
+
+### Ipatovo-5 paleopathology research team
+- Target: Natalia Berezina and coauthors of the North Caucasus urolith study
+- Route: https://doi.org/10.1007/s12520-026-02574-7
+- Asset match: https://blappos.com/verification/#nov3-bronze-age-urolith
+- Honest angle: A plain-language diagnostic-boundary digest that credits the multidisciplinary mineral analysis, uses the paper's “urinary stone” wording and explicitly declines to assign kidney versus bladder origin, organism or cause of death.
+
+### ALMA / NRAO science communications
+- Target: Communications team and authors of the Betelgeuse atmospheric-perturbation study
+- Route: https://www.almaobservatory.org/en/press-releases/alma-and-vla-reveal-signs-of-a-companion-stirring-betelgeuses-atmosphere/
+- Asset match: https://blappos.com/verification/#nov3-betelgeuse-plus-one
+- Honest angle: A reusable indirect-evidence explainer that links the primary release and DOI, distinguishes a changing stellar outline from direct imaging and preserves the authors' request for more orbital coverage.
+
 ## 2026-11-03 — November 2 claim-ceiling matrix
 
 ### Devon Wildlife Trust species recovery
