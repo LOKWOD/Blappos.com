@@ -4469,3 +4469,138 @@ window.dailyStories.unshift(...nov3StagingStories.filter(story => story.magnetUr
 // November 3 purchase gate passed: all three exact $9.99 Printify products were created and published by workflow run 41842010271.
 // November 3 permanent-page QA passed: each page contains two exact matching Printify purchase routes, a visible BUY THIS MAGNET CTA and exactly three direct tagged Amazon /dp/ links.
 // November 3 affiliate-card image QA passed: all nine cards use edition-matched Amazon media covers and one tag=blappos-20 parameter.
+
+const nov4StagingStories = [
+  {
+    "id": "nov4-flight-path",
+    "isoDate": "2026-11-04",
+    "month": "November",
+    "date": "Nov 4, 2026",
+    "place": "Fleet, Hampshire, England",
+    "image": "assets/cards/nov4-flight-path.png",
+    "title": "A Police Helicopter Draws the Shape of a Press Statement",
+    "facts": "UPI reported on November 4 that a National Police Air Service helicopter's tracking trail over Hampshire appeared to trace male anatomy. Fleet resident Gordon Bird said he checked the tracker after the aircraft circled for roughly 15 to 20 minutes late Monday night. NPAS told the BBC that the pattern was unintentional: the crew was supporting Thames Valley Police while searching for a vehicle that had failed to stop, orbiting locations assigned during a changing operation.",
+    "why": "A flight track records where an aircraft went; it does not, by itself, establish what the crew intended to draw. NPAS says police aircraft do not follow predetermined routes because operations respond to events on the ground. The legitimate search and the unfortunate geometry can both be real. The public report does not identify the pursued vehicle, disclose an arrest or prove deliberate skywriting.",
+    "angle": "The reported track, resident account and NPAS explanation end above. The Blappos interpretation: Hampshire received a legitimate policing purpose with the least helpful possible outline. The helicopter, dispatcher, town and glowing route are disclosed original AI-generated editorial illustration—not flight-tracker evidence, a real crew or an agency reconstruction.",
+    "amazonLinks": [
+      {
+        "title": "Helicopter Flying Handbook",
+        "image": "https://m.media-amazon.com/images/P/1510767207.01.LZZZZZZZ.jpg",
+        "alt": "Cover of the FAA Helicopter Flying Handbook",
+        "quip": "The serious technical manual for every maneuver that should remain aeronautical rather than anatomical.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1510767207?tag=blappos-20"
+      },
+      {
+        "title": "Helicopter Maneuvers Manual",
+        "image": "https://m.media-amazon.com/images/P/1560278919.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Helicopter Maneuvers Manual by Ryan Dale",
+        "quip": "A step-by-step illustrated guide to purposeful helicopter geometry, with no chapter on accidental route art.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1560278919?tag=blappos-20"
+      },
+      {
+        "title": "Flight: The Complete History of Aviation",
+        "image": "https://m.media-amazon.com/images/P/1465463275.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Flight: The Complete History of Aviation by R. G. Grant",
+        "quip": "The visual history for placing one very modern tracking embarrassment inside the larger story of controlled flight.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/1465463275?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/04/national-police-air-service-genitalia/1211793815983/",
+    "sourceName": "Read UPI's November 4 report and the NPAS operational guidance",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that a British police helicopter's flight-tracker trail over Hampshire appeared anatomically suggestive; NPAS said the shape was accidental while the crew searched for a vehicle that had failed to stop.",
+    "socialPunchline": "Blappos: Hampshire received a legitimate policing purpose with the least helpful possible outline."
+  },
+  {
+    "id": "nov4-roman-glass",
+    "isoDate": "2026-11-04",
+    "month": "November",
+    "date": "Nov 4, 2026",
+    "place": "Sheffield, England",
+    "image": "assets/cards/nov4-roman-glass.png",
+    "title": "Sheffield Rebuilds Rome's 1,600-Year-Old Mood-Ring Cup",
+    "facts": "Popular Mechanics reported on November 4 that University of Sheffield technician Lisa Hollands and collaborators reproduced in quantity the dichroic glass effect made famous by the fourth-century Lycurgus Cup. The recreated material appears jade green in reflected light and ruby red when light passes through it. Using a recipe derived from an original glass fragment, the team varied starting materials, furnace conditions and oxygen levels until tiny gold-and-silver-bearing structures produced the desired optical behavior.",
+    "why": "The project reproduces the material's color-changing behavior, not a complete record of how one Roman workshop made the surviving cup. The original object remains a British Museum artifact; the new material was used by glass artist Elliot Walker in a contemporary sculpture scheduled to debut November 6. The work also informs modern photonic glass and research on immobilizing nuclear waste, where controlling crystals and particles inside glass matters.",
+    "angle": "The optical effect, experimental route and remaining historical uncertainty end above. The Blappos interpretation: Sheffield reverse-engineered a 1,600-year-old cup that changes its story depending on who holds the flashlight. The technician, workshop, lamps and Roman-inspired vessel are disclosed original AI-generated editorial illustration—not the Lycurgus Cup, the commissioned sculpture or a documentary image of the researchers.",
+    "amazonLinks": [
+      {
+        "title": "Roman Glass",
+        "image": "https://m.media-amazon.com/images/P/0924171510.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Roman Glass by Stuart J. Fleming",
+        "quip": "A focused history of the material culture behind the one cup that still outperforms modern mood lighting.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0924171510?tag=blappos-20"
+      },
+      {
+        "title": "Glass of the Roman World",
+        "image": "https://m.media-amazon.com/images/P/1782977740.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Glass of the Roman World edited by Justine Bayley, Ian Freestone and Caroline Jackson",
+        "quip": "Eighteen specialist studies connecting Roman production, trade, technology and the scientific analysis used to reconstruct them.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1782977740?tag=blappos-20"
+      },
+      {
+        "title": "Glass: A World History",
+        "image": "https://m.media-amazon.com/images/P/0226500284.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Glass: A World History by Alan Macfarlane and Gerry Martin",
+        "quip": "The broad biography of the transparent material that reshaped art, science, windows and today's radioactive-waste research.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0226500284?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.popularmechanics.com/science/archaeology/a74296577/roman-cups-color-changing-magic/",
+    "sourceName": "Read Popular Mechanics' November 4 report and the University of Sheffield project release",
+    "sourcePublisher": "Popular Mechanics",
+    "socialSummary": "Popular Mechanics reported that University of Sheffield experts reproduced in quantity the Lycurgus Cup's 1,600-year-old dichroic glass effect: jade green in reflected light and ruby red in transmitted light.",
+    "socialPunchline": "Blappos: Sheffield rebuilt a Roman cup that changes its story depending on who holds the flashlight."
+  },
+  {
+    "id": "nov4-penguin-snow",
+    "isoDate": "2026-11-04",
+    "month": "November",
+    "date": "Nov 4, 2026",
+    "place": "West Antarctic Peninsula",
+    "image": "assets/cards/nov4-penguin-snow.png",
+    "title": "Penguins Fertilize the Snow Until It Melts Faster",
+    "facts": "The Guardian reported on November 4 that penguin guano supplies phosphorus and other nutrients to coastal snowfields, encouraging dense green snow-algae blooms. Researchers sampled red and green algae along five degrees of latitude on the West Antarctic Peninsula, including sites with and without penguin colonies. The peer-reviewed study linked phosphate-rich wildlife inputs with more algal biomass and chlorophyll-rich green pigmentation.",
+    "why": "Color changes energy absorption. The researchers report that green algal snow absorbs about 40% more solar energy than clean snow and roughly twice as much as red algal snow, increasing local melt potential. That is a coastal ecological feedback, not evidence that penguins are the primary cause of Antarctic ice loss. Temperature, snow conditions and nutrient transport still control where blooms can develop, and the paper calls the wildlife component a missing factor in projections of expanding ice-free areas.",
+    "angle": "The field sampling, nutrient association and albedo mechanism end above. The Blappos interpretation: Antarctica's least subtle commuters brought lunch, fertilizer and a local melt accelerator in the same tuxedo. The penguins, researcher, green snow and melt channel are disclosed original AI-generated editorial illustration—not a sampled colony, a global melt model or documentary field photography.",
+    "amazonLinks": [
+      {
+        "title": "Do Penguins Like the Cold?",
+        "image": "https://m.media-amazon.com/images/P/050065297X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Do Penguins Like the Cold? by Huw Lewis Jones and Sam Caldwell",
+        "quip": "An illustrated field trip through penguin life for readers ready to add snow chemistry to the usual cold-weather questions.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/050065297X?tag=blappos-20"
+      },
+      {
+        "title": "Scientists in the Wild: Antarctica",
+        "image": "https://m.media-amazon.com/images/P/1838748822.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Scientists in the Wild: Antarctica by Helen Scales and Kate Hendry",
+        "quip": "A look at the fieldwork, instruments and very cold logistics behind turning green snow into measured evidence.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1838748822?tag=blappos-20"
+      },
+      {
+        "title": "Penguins and Antarctica",
+        "image": "https://m.media-amazon.com/images/P/0375846646.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Penguins and Antarctica by Mary Pope Osborne and Natalie Pope Boyce",
+        "quip": "The compact background guide for the younger scientist asking how a colony connects ocean nutrients to coastal snow.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/0375846646?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster",
+    "sourceName": "Read The Guardian's November 4 report and the peer-reviewed snow-algae paper",
+    "sourcePublisher": "The Guardian",
+    "socialSummary": "The Guardian reported that penguin guano enriches Antarctic coastal snow with nutrients, promoting green algae that absorb more solar energy and can accelerate local snowmelt.",
+    "socialPunchline": "Blappos: Antarctica's commuters brought lunch, fertilizer and a local melt accelerator in the same tuxedo."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov4StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov4StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 4 purchase gate: stories remain hidden until the Printify workflow adds exact live product URLs and $9.99 prices.

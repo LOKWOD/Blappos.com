@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-05 — November 4 observation, replication and causal-scope matrix
+
+### National Police Air Service communications
+- Target: NPAS public-information and flight-activity communications team
+- Route: https://www.npas.police.uk/contact-us
+- Asset match: https://blappos.com/verification/#nov4-flight-path
+- Honest angle: A public tracker-versus-intent explainer that quotes the reported operational purpose, links NPAS's own FAQ and refuses to infer deliberate skywriting, identify the pursued vehicle or claim an arrest. A correction or resource-share opportunity only if NPAS considers the summary accurate.
+
+### University of Sheffield Lycurgus Project
+- Target: School of Chemical, Materials and Biological Engineering communications and the Lisa Hollands/Russell Hand project team
+- Route: https://sheffield.ac.uk/news/technician-cracks-1600-year-old-mystery-replicate-roman-masterpiece
+- Asset match: https://blappos.com/verification/#nov4-roman-glass
+- Honest angle: A plain-language replication boundary distinguishing the original Lycurgus Cup, the recreated dichroic material and Elliot Walker's new sculpture while preserving the modern photonics and nuclear-waste research connection.
+
+### American Geophysical Union / snow-algae research team
+- Target: AGU press office and Elise Ryan/Alia Khan research team
+- Route: https://www.eurekalert.org/news-releases/1146138
+- Asset match: https://blappos.com/verification/#nov4-penguin-snow
+- Honest angle: A reusable local-feedback-versus-global-cause reference that links the paper DOI, preserves the phosphate, pigment and energy mechanism and explicitly rejects the claim that penguins are the primary cause of Antarctic ice loss.
+
 ## 2026-11-04 — November 3 proof-limits matrix
 
 ### Guinness World Records editorial team
