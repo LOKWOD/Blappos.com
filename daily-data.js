@@ -4564,7 +4564,7 @@ const nov4StagingStories = [
     "date": "Nov 4, 2026",
     "place": "West Antarctic Peninsula",
     "image": "assets/cards/nov4-penguin-snow.png",
-    "title": "Penguins Fertilize the Snow Until It Melts Faster",
+    "title": "Penguins Fertilize the Snow Until It Melts Faster","magnetUrl":"https://blappos.printify.me/product/34001449","magnetPrice":"$9.99",
     "facts": "The Guardian reported on November 4 that penguin guano supplies phosphorus and other nutrients to coastal snowfields, encouraging dense green snow-algae blooms. Researchers sampled red and green algae along five degrees of latitude on the West Antarctic Peninsula, including sites with and without penguin colonies. The peer-reviewed study linked phosphate-rich wildlife inputs with more algal biomass and chlorophyll-rich green pigmentation.",
     "why": "Color changes energy absorption. The researchers report that green algal snow absorbs about 40% more solar energy than clean snow and roughly twice as much as red algal snow, increasing local melt potential. That is a coastal ecological feedback, not evidence that penguins are the primary cause of Antarctic ice loss. Temperature, snow conditions and nutrient transport still control where blooms can develop, and the paper calls the wildlife component a missing factor in projections of expanding ice-free areas.",
     "angle": "The field sampling, nutrient association and albedo mechanism end above. The Blappos interpretation: Antarctica's least subtle commuters brought lunch, fertilizer and a local melt accelerator in the same tuxedo. The penguins, researcher, green snow and melt channel are disclosed original AI-generated editorial illustration—not a sampled colony, a global melt model or documentary field photography.",
