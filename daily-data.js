@@ -4512,7 +4512,7 @@ const nov4StagingStories = [
     "sourceName": "Read UPI's November 4 report and the NPAS operational guidance",
     "sourcePublisher": "UPI",
     "socialSummary": "UPI reported that a British police helicopter's flight-tracker trail over Hampshire appeared anatomically suggestive; NPAS said the shape was accidental while the crew searched for a vehicle that had failed to stop.",
-    "socialPunchline": "Blappos: Hampshire received a legitimate policing purpose with the least helpful possible outline."
+    "socialPunchline": "Blappos: The search route acquired an unfortunate silhouette."
   },
   {
     "id": "nov4-roman-glass",
@@ -4555,7 +4555,7 @@ const nov4StagingStories = [
     "sourceName": "Read Popular Mechanics' November 4 report and the University of Sheffield project release",
     "sourcePublisher": "Popular Mechanics",
     "socialSummary": "Popular Mechanics reported that University of Sheffield experts reproduced in quantity the Lycurgus Cup's 1,600-year-old dichroic glass effect: jade green in reflected light and ruby red in transmitted light.",
-    "socialPunchline": "Blappos: Sheffield rebuilt a Roman cup that changes its story depending on who holds the flashlight."
+    "socialPunchline": "Blappos: Rome's cup still changes its story with the light."
   },
   {
     "id": "nov4-penguin-snow",
@@ -4598,7 +4598,7 @@ const nov4StagingStories = [
     "sourceName": "Read The Guardian's November 4 report and the peer-reviewed snow-algae paper",
     "sourcePublisher": "The Guardian",
     "socialSummary": "The Guardian reported that penguin guano enriches Antarctic coastal snow with nutrients, promoting green algae that absorb more solar energy and can accelerate local snowmelt.",
-    "socialPunchline": "Blappos: Antarctica's commuters brought lunch, fertilizer and a local melt accelerator in the same tuxedo."
+    "socialPunchline": "Blappos: Antarctic tuxedos now include fertilizer service."
   }
 ];
 window.dailyStories = window.dailyStories.filter(story => !nov4StagingStories.some(item => item.id === story.id));
