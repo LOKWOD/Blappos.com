@@ -4604,3 +4604,4 @@ const nov4StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !nov4StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...nov4StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 4 purchase gate: stories remain hidden until the Printify workflow adds exact live product URLs and $9.99 prices.
+// November 4 purchase gate passed: all three exact $9.99 Printify products were created and published by workflow run 42036646250.
