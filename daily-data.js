@@ -4478,7 +4478,7 @@ const nov4StagingStories = [
     "date": "Nov 4, 2026",
     "place": "Fleet, Hampshire, England",
     "image": "assets/cards/nov4-flight-path.png",
-    "title": "A Police Helicopter Draws the Shape of a Press Statement",
+    "title": "A Police Helicopter Draws the Shape of a Press Statement","magnetUrl":"https://blappos.printify.me/product/34001432","magnetPrice":"$9.99",
     "facts": "UPI reported on November 4 that a National Police Air Service helicopter's tracking trail over Hampshire appeared to trace male anatomy. Fleet resident Gordon Bird said he checked the tracker after the aircraft circled for roughly 15 to 20 minutes late Monday night. NPAS told the BBC that the pattern was unintentional: the crew was supporting Thames Valley Police while searching for a vehicle that had failed to stop, orbiting locations assigned during a changing operation.",
     "why": "A flight track records where an aircraft went; it does not, by itself, establish what the crew intended to draw. NPAS says police aircraft do not follow predetermined routes because operations respond to events on the ground. The legitimate search and the unfortunate geometry can both be real. The public report does not identify the pursued vehicle, disclose an arrest or prove deliberate skywriting.",
     "angle": "The reported track, resident account and NPAS explanation end above. The Blappos interpretation: Hampshire received a legitimate policing purpose with the least helpful possible outline. The helicopter, dispatcher, town and glowing route are disclosed original AI-generated editorial illustration—not flight-tracker evidence, a real crew or an agency reconstruction.",
