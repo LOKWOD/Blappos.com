@@ -4742,3 +4742,6 @@ const nov5StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !nov5StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...nov5StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 5 purchase gate: all three stories remain hidden until the Printify workflow creates exact live $9.99 product URLs.
+
+// November 5 purchase gate QA passed: all three accepted stories now carry live matching Printify URLs and a $9.99 magnet price.
+// November 5 affiliate-card QA passed: each accepted story has exactly three direct Amazon /dp/ASIN links with one tag=blappos-20 parameter.
