@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-06 — November 5 procedure, function and contested-inference matrix
+
+### Fair Work Commission public information
+- Target: Decisions-and-orders information team responsible for public access to Commission reasons
+- Route: https://www.fwc.gov.au/document-search?search-ui=decisions
+- Asset match: https://blappos.com/verification/#nov5-pineapple-labor
+- Honest angle: A procedural-outcome explainer that separates refusal of a late-filing extension from any merits decision about the dismissal or pineapple on pizza. A correction or resource-share opportunity only if the Commission considers the summary accurate.
+
+### Field Museum / ‘Akiapōlāʻau research team
+- Target: Field Museum press office and Alexander D. Clark, corresponding author of the functional-anatomy study
+- Route: https://www.fieldmuseum.org/about/press/this-endangered-hawaiian-bird-with-a-swiss-army-beak-uses-its-whole-body-to-drill
+- Asset match: https://blappos.com/verification/#nov5-two-tool-beak
+- Honest angle: A public anatomy-to-function digest that links the paper DOI, distinguishes measured morphology from the “Swiss army” metaphor and keeps the population estimate separate from a new census.
+
+### University of Bern archaeology media relations
+- Target: Gino Caspari and the University of Bern / Max Planck team behind the Tunnug 1 cannabis study
+- Route: https://mediarelations.unibe.ch/media_releases/2026/media_releases_2026/cannabis_was_used_as_an_intoxicant_as_early_as_2800_years_ago/index_eng.html
+- Asset match: https://blappos.com/verification/#nov5-tomb-drug-test
+- Honest angle: A claim-ceiling reference that presents the directly dated plant evidence and reported hair chemistry while preserving the AP-quoted contamination critique and the unknown route, dose, potency and cultivation status.
+
 ## 2026-11-05 — November 4 observation, replication and causal-scope matrix
 
 ### National Police Air Service communications

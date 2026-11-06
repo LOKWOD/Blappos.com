@@ -4607,3 +4607,138 @@ window.dailyStories.unshift(...nov4StagingStories.filter(story => story.magnetUr
 // November 4 purchase gate passed: all three exact $9.99 Printify products were created and published by workflow run 42036646250.
 // November 4 permanent-page QA passed: each page contains two exact matching Printify purchase routes, a visible BUY THIS MAGNET CTA and exactly three direct tagged Amazon /dp/ links.
 // November 4 affiliate-card image QA passed: all nine cards use edition-matched Amazon media covers and one tag=blappos-20 parameter.
+
+const nov5StagingStories = [
+  {
+    "id": "nov5-pineapple-labor",
+    "isoDate": "2026-11-05",
+    "month": "November",
+    "date": "Nov 5, 2026",
+    "place": "Brisbane, Australia",
+    "image": "assets/cards/nov5-pineapple-labor.jpg",
+    "title": "Pineapple Wins the Labor Dispute on a Filing Deadline",
+    "facts": "The Guardian reported on November 5 that Brisbane chef Davide Tamburella had been dismissed from the now-closed La Costa restaurant after several workplace concerns, one of which was his repeated refusal to put ham and pineapple on pizzas for a large function. He told management the direction offended his Italian culture and acknowledged it was the third time in four years that he had refused it. The employer also cited language, leadership and escalation concerns; the topping was not the only stated reason for dismissal.",
+    "why": "Australia's Fair Work Commission dismissed Tamburella's application because it was filed after the statutory deadline and the commissioner found no exceptional circumstances for an extension. The commission therefore did not rule that pineapple belongs on pizza, decide whether the refusal alone justified dismissal or determine the merits of his broader workplace claims. The news hook is a real employment-law decision whose funniest ingredient was not actually adjudicated.",
+    "angle": "The reported management allegations, repeated refusal and filing-deadline outcome end above. The Blappos interpretation: pineapple won a labor dispute without being called as a witness. The chef, manager, diner, kitchen and evidence-table pizza are disclosed original AI-generated editorial illustration—not portraits, a reconstruction of the hearing or a judgment about Italian identity.",
+    "amazonLinks": [
+      {
+        "title": "Mastering Pizza",
+        "image": "https://m.media-amazon.com/images/P/0399579222.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Mastering Pizza by Marc Vetri and David Joachim",
+        "quip": "A chef-led manual for the dough, oven and regional craft that made one requested topping into a workplace boundary.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0399579222?tag=blappos-20"
+      },
+      {
+        "title": "The Elements of Pizza",
+        "image": "https://m.media-amazon.com/images/P/160774838X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Elements of Pizza by Ken Forkish",
+        "quip": "A world-style pizza guide for checking whether pineapple appears in technique, tradition or only the next management direction.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/160774838X?tag=blappos-20"
+      },
+      {
+        "title": "The Pizza Bible",
+        "image": "https://m.media-amazon.com/images/P/1607746050.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Pizza Bible by Tony Gemignani",
+        "quip": "A comparative tour of pizza styles for the kitchen argument the Fair Work Commission never had to decide on its merits.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1607746050?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work",
+    "sourceName": "Read The Guardian's November 5 report and the Fair Work Commission decision described there",
+    "sourcePublisher": "The Guardian",
+    "socialSummary": "The Guardian reported that an Italian chef's repeated refusal to put pineapple on pizza was among several reasons cited for his Brisbane dismissal; Australia's Fair Work Commission rejected his application as late and did not decide the merits.",
+    "socialPunchline": "Blappos: Pineapple won the labor dispute without being called as a witness."
+  },
+  {
+    "id": "nov5-two-tool-beak",
+    "isoDate": "2026-11-05",
+    "month": "November",
+    "date": "Nov 5, 2026",
+    "place": "Hawaiʻi Island",
+    "image": "assets/cards/nov5-two-tool-beak.jpg",
+    "title": "Hawaiʻi Gives One Bird Two Union Jobs and No Woodpeckers",
+    "facts": "The Field Museum reported on November 5 that a new Ornithology study gives the most detailed anatomical account yet of the critically endangered ‘akiapōlāʻau. Its short, stout lower bill gouges into wood while its long, slender, down-curved upper bill probes for insect prey. Comparisons of museum specimens also found hindlimb and femur features consistent with bracing the whole body during gouging, helping the honeycreeper fill a woodpecker-like niche on an island chain without native woodpeckers.",
+    "why": "The work connects internal anatomy with behavior that researchers can still observe in a living species: a material-flexibility trade-off in the upper bill, stronger ankle dorsiflexion and a low center of mass all support specialized foraging. It also sharpens the conservation stakes. The Field Museum says fewer than 2,000 birds remain, all on the northeastern slope of one mountain on Hawaiʻi Island. The paper describes function from anatomy and observation; it does not claim the bird literally operates interchangeable tools.",
+    "angle": "The anatomical measurements, observed feeding roles and population estimate end above. The Blappos interpretation: one beak is covering two union jobs because woodpeckers never opened a Hawaiʻi local. The bird, tree, larva and volcanic forest are disclosed original AI-generated editorial illustration—not wildlife photography, a museum specimen or a population map.",
+    "amazonLinks": [
+      {
+        "title": "The Hawaiian Honeycreepers: Drepanidinae",
+        "image": "https://m.media-amazon.com/images/P/019854653X.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Hawaiian Honeycreepers: Drepanidinae by H. Douglas Pratt",
+        "quip": "The specialist family history for the adaptive radiation that produced the ‘akiapōlāʻau's split-duty bill.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/019854653X?tag=blappos-20"
+      },
+      {
+        "title": "A Field Guide to the Birds of Hawaii and the Tropical Pacific",
+        "image": "https://m.media-amazon.com/images/P/0691023999.01.LZZZZZZZ.jpg",
+        "alt": "Cover of A Field Guide to the Birds of Hawaii and the Tropical Pacific",
+        "quip": "The regional field reference for identifying the yellow specialist behind the chisel-and-probe anatomy.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0691023999?tag=blappos-20"
+      },
+      {
+        "title": "The Genius of Birds",
+        "image": "https://m.media-amazon.com/images/P/1594205213.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Genius of Birds by Jennifer Ackerman",
+        "quip": "A broader tour of avian problem-solving for placing one extraordinary feeding system inside the strange range of bird adaptations.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/1594205213?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.fieldmuseum.org/about/press/this-endangered-hawaiian-bird-with-a-swiss-army-beak-uses-its-whole-body-to-drill",
+    "sourceName": "Read the Field Museum's November 5 release and the linked Ornithology paper",
+    "sourcePublisher": "Field Museum",
+    "socialSummary": "The Field Museum reported that the endangered Hawaiian ‘akiapōlāʻau uses a stout lower bill to gouge wood, a long flexible upper bill to probe for prey and hindlimb anatomy suited to full-body drilling.",
+    "socialPunchline": "Blappos: One beak is covering two union jobs."
+  },
+  {
+    "id": "nov5-tomb-drug-test",
+    "isoDate": "2026-11-05",
+    "month": "November",
+    "date": "Nov 5, 2026",
+    "place": "Tuva, southern Siberia",
+    "image": "assets/cards/nov5-tomb-drug-test.jpg",
+    "title": "A 2,800-Year-Old Tomb Tests Positive; Forensics Requests a Retest",
+    "facts": "The Associated Press reported on November 5 that archaeologists at the Scythian-era Tunnug 1 burial mound found more than 1,000 cannabis seeds and preserved human hair. Six seeds were radiocarbon dated to the early eighth century BCE, and the research team reported molecular traces in hair that it interpreted as evidence of cannabis consumption. The peer-reviewed Science paper presents the combined plant and human evidence as the oldest directly dated archaeological case for psychoactive cannabis use.",
+    "why": "Seeds alone cannot establish intoxication because cannabis also supplied oil and fiber, which is why the hair chemistry matters. The study still cannot say whether the plant was inhaled or ingested, how much THC it contained or whether it was cultivated for potency. An independent forensic toxicologist quoted by AP argued that the hair tests did not adequately distinguish consumption from external exposure; another archaeological specialist said the established method supports the authors' interpretation. The headline-worthy result therefore comes with a genuine expert dispute, not a completed certainty stamp.",
+    "angle": "The radiocarbon dates, reported molecular traces, authors' interpretation and independent criticism end above. The Blappos interpretation: the burial goods came with a toxicology report and a peer reviewer asking for one more test. The archaeologist, chamber, evidence tray and field instrument are disclosed original AI-generated editorial illustration—not excavator portraits, recovered objects or a reconstruction of Scythian ritual.",
+    "amazonLinks": [
+      {
+        "title": "Cannabis: A History",
+        "image": "https://m.media-amazon.com/images/P/0312424941.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Cannabis: A History by Martin Booth",
+        "quip": "A long history of the plant for locating one early-eighth-century BCE claim inside millennia of uses beyond intoxication.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0312424941?tag=blappos-20"
+      },
+      {
+        "title": "Cannabis in the Ancient Greek and Roman World",
+        "image": "https://m.media-amazon.com/images/P/1498560377.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Cannabis in the Ancient Greek and Roman World by Alan Sumler",
+        "quip": "A sourcebook that directly surveys ancient references and archaeological finds, including Scythian burial contexts.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1498560377?tag=blappos-20"
+      },
+      {
+        "title": "The Scythians: Nomad Warriors of the Steppe",
+        "image": "https://m.media-amazon.com/images/P/0198820127.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Scythians: Nomad Warriors of the Steppe by Barry Cunliffe",
+        "quip": "The archaeological and historical context for the steppe culture, elite burials and organic remains behind the new toxicology claim.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0198820127?tag=blappos-20"
+      }
+    ],
+    "source": "https://apnews.com/article/2af72e5afb915d835b233f14b20ad185",
+    "sourceName": "Read the Associated Press November 5 report, the University of Bern release and the Science paper",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "The Associated Press reported that 2,800-year-old cannabis seeds and molecular traces in hair led researchers to infer psychoactive use at a Scythian burial; one independent toxicologist challenged whether exposure was ruled out.",
+    "socialPunchline": "Blappos: The burial goods came with a toxicology report and a request for one more test."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov5StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov5StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 5 purchase gate: all three stories remain hidden until the Printify workflow creates exact live $9.99 product URLs.

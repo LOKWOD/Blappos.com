@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov5-pineapple-labor': 'nov5-pineapple-labor',
+    'nov5-two-tool-beak': 'nov5-two-tool-beak',
+    'nov5-tomb-drug-test': 'nov5-tomb-drug-test',
     'oct27-knuckle-handstand': 'oct27-knuckle-handstand',
     'oct27-spider-sleep': 'oct27-spider-sleep',
     'oct27-earwax-barrier': 'oct27-earwax-barrier',
@@ -214,6 +217,9 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov5-pineapple-labor': ['sep16-pickle-patty', 'oct29-fiambre-record', 'oct16-scrapple-sculpture'],
+  'nov5-two-tool-beak': ['oct17-nightjar-mileage', 'oct31-drongo-deception', 'oct14-jurassic-flightless-bird'],
+  'nov5-tomb-drug-test': ['nov3-bronze-age-urolith', 'oct15-shanidar-care-and-spear', 'oct18-kikai-regional-settings'],
   'oct27-knuckle-handstand': ['oct8-five-hour-plank', 'oct11-stroller-velocity'],
   'oct8-five-hour-plank': ['oct27-knuckle-handstand'],
   'oct11-stroller-velocity': ['oct27-knuckle-handstand'],
