@@ -4709,7 +4709,7 @@ const nov5StagingStories = [
     "amazonLinks": [
       {
         "title": "Cannabis: A History",
-        "image": "https://m.media-amazon.com/images/P/0312424941.01.LZZZZZZZ.jpg",
+        "image": "https://mpd-biblio-covers.imgix.net/9780312424947.jpg?dpr=2&v=2&w=900",
         "alt": "Cover of Cannabis: A History by Martin Booth",
         "quip": "A long history of the plant for locating one early-eighth-century BCE claim inside millennia of uses beyond intoxication.",
         "salesPriority": 5,
