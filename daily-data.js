@@ -4822,3 +4822,5 @@ window.dailyStories.unshift(...nov6StagingStories.filter(story => story.magnetUr
 
 // November 6 purchase gate QA passed: all three accepted stories now carry live matching Printify URLs and a $9.99 magnet price.
 // November 6 affiliate-card QA passed: each accepted story has exactly three direct Amazon /dp/ASIN links with one tag=blappos-20 parameter.
+
+// November 6 live-page QA passed: all three permanent URLs return their exact matching Printify product URL, purchase CTA and three tagged Amazon cards.
