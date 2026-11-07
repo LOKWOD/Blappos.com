@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-07 — November 6 evidence-survival matrix
+
+### NASA Neil Gehrels Swift mission communications
+- Target: Swift mission science and public-information team
+- Route: https://science.nasa.gov/universe/exoplanets/nasas-neil-gehrels-swift-observatory/
+- Asset match: https://blappos.com/verification/#nov6-swift-farewell
+- Honest angle: A dated mission-lifecycle reference that preserves the agency's re-entry time and region, links the mission-end update and clearly labels every visible breakup and debris detail as illustration rather than observed imagery. A correction or resource-share opportunity only if NASA considers the summary accurate.
+
+### NC State Entomology and Plant Pathology Extension
+- Target: Lorena Lopez, Kenneth Geisert and the NC State blueberry-pest research team
+- Route: https://news.ncsu.edu/2026/06/scientists-identify-mystery-beetle-attacking-blueberry-farms-across-north-carolina/
+- Asset match: https://blappos.com/verification/#nov6-blueberry-larva
+- Honest angle: A grower-facing evidence boundary that links the peer-reviewed pest profile, explains the 98–99% barcode match and refuses to convert species identification into an unlabeled pesticide recommendation.
+
+### University of Würzburg chemistry communications
+- Target: Holger Braunschweig, Rian Dewhurst and the oxoborane research communications team
+- Route: https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/oxoboranes/
+- Asset match: https://blappos.com/verification/#nov6-oxoboranes
+- Honest angle: A plain-language isolation-versus-application digest that links the open-access Nature Chemistry paper, records the three compounds and keeps the 60-year milestone separate from scale-up or consumer-product claims.
+
 ## 2026-11-06 — November 5 procedure, function and contested-inference matrix
 
 ### Fair Work Commission public information

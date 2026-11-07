@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov6-swift-farewell': 'nov6-swift-farewell',
+    'nov6-blueberry-larva': 'nov6-blueberry-larva',
+    'nov6-oxoboranes': 'nov6-oxoboranes',
     'nov5-pineapple-labor': 'nov5-pineapple-labor',
     'nov5-two-tool-beak': 'nov5-two-tool-beak',
     'nov5-tomb-drug-test': 'nov5-tomb-drug-test',
@@ -217,6 +220,9 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov6-swift-farewell': ['oct13-perseverance-distance-record', 'sep28-starship-orbit', 'nov3-betelgeuse-plus-one'],
+  'nov6-blueberry-larva': ['nov1-knee-oil-beetle', 'oct27-earwax-barrier', 'sep20-turf-heat'],
+  'nov6-oxoboranes': ['oct7-mirror-molecules', 'nov4-roman-glass', 'oct27-earwax-barrier'],
   'nov5-pineapple-labor': ['sep16-pickle-patty', 'oct29-fiambre-record', 'oct16-scrapple-sculpture'],
   'nov5-two-tool-beak': ['oct17-nightjar-mileage', 'oct31-drongo-deception', 'oct14-jurassic-flightless-bird'],
   'nov5-tomb-drug-test': ['nov3-bronze-age-urolith', 'oct15-shanidar-care-and-spear', 'oct18-kikai-regional-settings'],

@@ -4747,3 +4747,75 @@ window.dailyStories.unshift(...nov5StagingStories.filter(story => story.magnetUr
 // November 5 affiliate-card QA passed: each accepted story has exactly three direct Amazon /dp/ASIN links with one tag=blappos-20 parameter.
 
 // November 5 live-page QA passed: all three permanent URLs return their exact matching Printify product URL, purchase CTA and three tagged Amazon cards.
+
+const nov6StagingStories = [
+  {
+    "id": "nov6-swift-farewell",
+    "isoDate": "2026-11-06",
+    "month": "November",
+    "date": "Nov 6, 2026",
+    "place": "Western Indonesia",
+    "image": "assets/cards/nov6-swift-farewell.jpg",
+    "title": "Swift Clocks Out in a Blaze After Nearly 22 Years",
+    "facts": "NASA's November 6 Astronomy Picture of the Day reported that the Neil Gehrels Swift Observatory re-entered Earth's atmosphere on November 4 at 7:39 a.m. EST over North Sumatra, Indonesia, after nearly 22 years in orbit. The roughly 3,200-pound telescope launched in 2004 for a two-year mission and became a rapid-response observer of gamma-ray bursts and other violent cosmic events. NASA says the spacecraft burned up during re-entry; the illustrated satellite and visible breakup are editorial reconstruction, not an observation of recovered debris.",
+    "why": "Swift's long life turned a short planned mission into two decades of coordinated space astronomy. It could detect a burst, calculate its position and quickly point its X-ray and ultraviolet/optical instruments at the same event, helping other observatories follow up. Its final clock is also a reminder that low-Earth-orbit missions eventually meet atmospheric drag: a failed 2026 commercial boost attempt could not extend Swift's orbit, and mission operators ended science work before the uncontrolled return.",
+    "angle": "The re-entry time and region, mission duration, instrument role and failed extension attempt end above. The Blappos interpretation: after nearly 22 years of taking emergency calls from exploding stars, Swift submitted its exit interview directly to the atmosphere. The satellite, Indonesian coastline, gamma-ray panel and fiery trail are disclosed original AI-generated editorial illustration—not NASA imagery, a debris map or a claim that fragments reached the ground.",
+    "amazonLinks": [
+      {"title":"Black Hole Survival Guide","image":"https://images-na.ssl-images-amazon.com/images/P/1984899791.01.LZZZZZZZ.jpg","alt":"Cover of Black Hole Survival Guide by Janna Levin","quip":"A compact tour of the extreme objects Swift spent almost 22 years catching in the act.","salesPriority":5,"url":"https://www.amazon.com/dp/1984899791?tag=blappos-20"},
+      {"title":"The End of Everything: (Astrophysically Speaking)","image":"https://images-na.ssl-images-amazon.com/images/P/1982103558.01.LZZZZZZZ.jpg","alt":"Cover of The End of Everything by Katie Mack","quip":"Cosmic endings at every scale, for the telescope whose own finale arrived over Indonesia.","salesPriority":5,"url":"https://www.amazon.com/dp/1982103558?tag=blappos-20"},
+      {"title":"A Brief History of Time","image":"https://images-na.ssl-images-amazon.com/images/P/0553380168.01.LZZZZZZZ.jpg","alt":"Cover of A Brief History of Time by Stephen Hawking","quip":"The classic big-picture companion to a mission built around the universe's shortest and most violent alerts.","salesPriority":4,"url":"https://www.amazon.com/dp/0553380168?tag=blappos-20"}
+    ],
+    "source": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+    "sourceName": "Read NASA's November 6 farewell and re-entry update",
+    "sourcePublisher": "NASA",
+    "socialSummary": "NASA's November 6 astronomy feature said the Neil Gehrels Swift Observatory re-entered over North Sumatra on November 4 after nearly 22 years studying gamma-ray bursts and other cosmic events.",
+    "socialPunchline": "Blappos: After two decades taking calls from exploding stars, Swift filed its exit interview with the atmosphere."
+  },
+  {
+    "id": "nov6-blueberry-larva",
+    "isoDate": "2026-11-06",
+    "month": "November",
+    "date": "Nov 6, 2026",
+    "place": "North Carolina",
+    "image": "assets/cards/nov6-blueberry-larva.jpg",
+    "title": "North Carolina Blueberries Have a Five-Inch Basement Tenant",
+    "facts": "A North Carolina State University research digest published November 6 identified the tile-horned prionus, Prionus imbricornis, as the long-mysterious larva damaging blueberry roots in North Carolina. The team trapped adults at six farms in four counties and compared standardized DNA barcode segments from larvae with known adult sequences, obtaining 98–99% matches. The larvae live underground, can grow to about five inches and may consume enough root tissue to kill a bush.",
+    "why": "The species-level identification matters because similar-looking longhorn beetle larvae can attack different parts of a plant and require different management. NC State says guessing the wrong species can lead to an ineffective treatment and harm non-target insects. North Carolina is the first state to document this species feeding on blueberries, and the university says no insecticides are currently labeled for it in that crop; trials are underway, so the result is a diagnostic starting point rather than a ready-made control recommendation.",
+    "angle": "The field sites, barcode match, size, root damage and current control gap end above. The Blappos interpretation: every blueberry bush has discovered the worst possible basement tenant—five inches long, rent-free and already eating the plumbing. The cutaway field, larva, researchers, ruler and DNA sheet are disclosed original AI-generated editorial illustration—not a specimen photograph, management instruction or pesticide endorsement.",
+    "amazonLinks": [
+      {"title":"Garden Insects of North America: The Ultimate Guide to Backyard Bugs","image":"https://images-na.ssl-images-amazon.com/images/P/0691167443.01.LZZZZZZZ.jpg","alt":"Cover of Garden Insects of North America by Whitney Cranshaw and David Shetlar","quip":"A serious visual reference for telling a root-boring tenant from the many insects that merely look guilty.","salesPriority":5,"url":"https://www.amazon.com/dp/0691167443?tag=blappos-20"},
+      {"title":"The Backyard Berry Book","image":"https://images-na.ssl-images-amazon.com/images/P/0963452061.01.LZZZZZZZ.jpg","alt":"Cover of The Backyard Berry Book by Stella Otto","quip":"A hands-on berry-growing guide for everything above the soil line—and the warning signs below it.","salesPriority":5,"url":"https://www.amazon.com/dp/0963452061?tag=blappos-20"},
+      {"title":"Blueberries for Sal","image":"https://images-na.ssl-images-amazon.com/images/P/014050169X.01.LZZZZZZZ.jpg","alt":"Cover of Blueberries for Sal by Robert McCloskey","quip":"The classic blueberry expedition, mercifully featuring bears instead of five-inch root larvae.","salesPriority":4,"url":"https://www.amazon.com/dp/014050169X?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+    "sourceName": "Read the November 6 NC State research digest and linked peer-reviewed paper",
+    "sourcePublisher": "North Carolina State University / ScienceDaily",
+    "socialSummary": "A November 6 NC State research digest said DNA barcoding identified five-inch tile-horned prionus larvae as an emerging root pest in North Carolina blueberries; no insecticide is currently labeled for it in that crop.",
+    "socialPunchline": "Blappos: The berry patch has a basement tenant, and it is eating the plumbing."
+  },
+  {
+    "id": "nov6-oxoboranes",
+    "isoDate": "2026-11-06",
+    "month": "November",
+    "date": "Nov 6, 2026",
+    "place": "Würzburg, Germany",
+    "image": "assets/cards/nov6-oxoboranes.jpg",
+    "title": "The Molecule Finally Holds Still After a 60-Year Search",
+    "facts": "A University of Würzburg research digest published November 6 described the first synthesis and isolation of stable organic oxoboranes—molecules with a boron–oxygen triple bond that chemists had pursued since at least the early 1960s. Two doctoral researchers independently reacted a diboracumulene with different ketones and found unexpected orange or yellow solids. The Nature Chemistry paper reports three isolable oxoboranes, supported by computational work from Tezpur University.",
+    "why": "Earlier work had detected or trapped related boron–oxygen species only under extreme conditions or inferred them indirectly. Isolating three stable examples means researchers can now examine their structures and electronic behavior directly and test whether the route generalizes. The discovery does not mean boron–oxygen triple bonds are ordinary, that every proposed oxoborane is stable or that an immediate consumer application exists; it establishes a new synthetic foothold.",
+    "angle": "The 60-year target, three compounds, reaction route and publication status end above. The Blappos interpretation: chemistry spent six decades asking one molecule to sit still for a photograph, and it finally arrived as an orange solid without an appointment. The chemists, period laboratory, glassware, calendar and crystals are disclosed original AI-generated editorial illustration—not researcher portraits, experimental instructions or photographs of the reported compounds.",
+    "amazonLinks": [
+      {"title":"The Disappearing Spoon","image":"https://images-na.ssl-images-amazon.com/images/P/0316051632.01.LZZZZZZZ.jpg","alt":"Cover of The Disappearing Spoon by Sam Kean","quip":"Elemental history and chemical oddities for a boron–oxygen bond that refused to become a collectible until now.","salesPriority":5,"url":"https://www.amazon.com/dp/0316051632?tag=blappos-20"},
+      {"title":"Stuff Matters","image":"https://images-na.ssl-images-amazon.com/images/P/0544483944.01.LZZZZZZZ.jpg","alt":"Cover of Stuff Matters by Mark Miodownik","quip":"A materials tour for the leap from an unexpected solid to the question every chemist asks next: what can this stuff do?","salesPriority":5,"url":"https://www.amazon.com/dp/0544483944?tag=blappos-20"},
+      {"title":"Periodic Tales","image":"https://images-na.ssl-images-amazon.com/images/P/0061824739.01.LZZZZZZZ.jpg","alt":"Cover of Periodic Tales by Hugh Aldersey-Williams","quip":"A cultural tour of the elements for readers who want boron's strange personality beyond one triple bond.","salesPriority":4,"url":"https://www.amazon.com/dp/0061824739?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
+    "sourceName": "Read the November 6 University of Würzburg digest and linked Nature Chemistry paper",
+    "sourcePublisher": "University of Würzburg / ScienceDaily",
+    "socialSummary": "A November 6 University of Würzburg research digest said chemists isolated three stable oxoboranes after a 60-year search, when simple ketone reactions unexpectedly produced orange and yellow solids.",
+    "socialPunchline": "Blappos: Chemistry finally got the molecule to hold still for the group photo."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov6StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov6StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 6 purchase gate: all three stories remain hidden until the Printify workflow creates exact live $9.99 product URLs.
