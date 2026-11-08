@@ -2139,8 +2139,8 @@ const oct8Stories = [
     "date": "Oct 8, 2026",
     "place": "Sheffield, Alabama",
     "image": "assets/cards/oct8-sewer-ring.webp",
-    "title": "Sewer workers return a 1965 class ring lost for decades","magnetUrl":"https://blappos.printify.me/product/32903249","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 8 that Alabama wastewater workers found a 1965 Burrell-Slater High School class ring while clearing a clogged sewer main. Plant operator Junior Riner used the initials inside the ring and help from family and local contacts to identify owner Oscar James Meredith, who had given it to his future wife before it disappeared; the ring was returned and still fit.",
+    "title": "A 1965 Class Ring Found in a Sewer After Decades Still Fits","magnetUrl":"https://blappos.printify.me/product/32903249","magnetPrice":"$9.99",
+    "facts": "UPI reported on October 8 that Alabama wastewater workers found a 1965 Burrell-Slater High School class ring while clearing a clogged sewer main. Plant operator Junior Riner used the initials inside the ring and help from family and local contacts to identify owner Oscar James Meredith, who had given it to his future wife before it disappeared decades ago; after the ring was returned, it still fit.",
     "why": "The recovery joins overlooked infrastructure work with local history. Burrell-Slater served Black students before closing during integration, while the ring reconnected Meredith with memories of his late wife and a school community whose records made the identification possible.",
     "angle": "Found in the Sewer. Still Fits. Municipal infrastructure finally launched a sixty-year customer-service ticket with a happy ending. The illustration uses invented workers, an anonymous reunion scene and a generic 1965 crest—not the real people, school emblem or recovered ring.",
     "amazonLinks": [
@@ -4824,3 +4824,79 @@ window.dailyStories.unshift(...nov6StagingStories.filter(story => story.magnetUr
 // November 6 affiliate-card QA passed: each accepted story has exactly three direct Amazon /dp/ASIN links with one tag=blappos-20 parameter.
 
 // November 6 live-page QA passed: all three permanent URLs return their exact matching Printify product URL, purchase CTA and three tagged Amazon cards.
+
+// November 7 edition is staged behind the hard purchase gate. The objects are
+// committed without magnetUrl/magnetPrice so the Printify workflow can create
+// the exact physical products; the filter below keeps them off the public site
+// until those fields are written back by automation.
+const nov7StagingStories = [
+  {
+    "id": "nov7-turtle-traffic",
+    "isoDate": "2026-11-07",
+    "month": "November",
+    "date": "Nov 7, 2026",
+    "place": "New Rochelle, New York",
+    "image": "assets/cards/nov7-turtle-traffic.jpg",
+    "title": "New Rochelle Assigns the State Reptile to Traffic Duty",
+    "facts": "News 12 Westchester reported on November 7 that a New Rochelle police officer moved a large turtle out of a busy roadway on Friday and relocated it to a safer area. The report cites photographs shared by the department. A separate local account identified the animal as a common snapping turtle near Pine Brook Lake; the exact weight, age and destination were not reported.",
+    "why": "Road crossings are a serious mortality risk for long-lived turtles. New York's Department of Environmental Conservation advises motorists to avoid sudden swerves, slow near wetlands and, only when it is safe, help a turtle to the shoulder in the direction it was already traveling. DEC specifically urges extreme caution around snapping turtles and warns never to lift one by the tail. This report documents a trained responder's intervention, not a general instruction to imitate the pictured handling.",
+    "angle": "The roadway rescue, source photographs and DEC guidance end above. The Blappos interpretation: New York's official state reptile briefly joined the New Rochelle traffic unit and declined to sign the incident report. The officer, turtle, lake road, cone and vehicle are disclosed original AI-generated editorial illustration—not a portrait, police photograph, handling tutorial or department insignia.",
+    "amazonLinks": [
+      {"title":"Biology of the Snapping Turtle (Chelydra serpentina)","image":"https://images-na.ssl-images-amazon.com/images/P/0801887240.01.LZZZZZZZ.jpg","alt":"Cover of Biology of the Snapping Turtle","quip":"The definitive species reference for the prehistoric-looking commuter at the center of the roadway rescue.","salesPriority":5,"url":"https://www.amazon.com/dp/0801887240?tag=blappos-20"},
+      {"title":"Turtles of the United States and Canada","image":"https://images-na.ssl-images-amazon.com/images/P/0801891213.01.LZZZZZZZ.jpg","alt":"Cover of Turtles of the United States and Canada","quip":"A detailed regional reference for the 56 turtle species sharing roads, wetlands and conservation problems across North America.","salesPriority":5,"url":"https://www.amazon.com/dp/0801891213?tag=blappos-20"},
+      {"title":"Turtles of the World: A Guide to Every Family","image":"https://images-na.ssl-images-amazon.com/images/P/069122322X.01.LZZZZZZZ.jpg","alt":"Cover of Turtles of the World","quip":"A photo-rich family-by-family guide for putting one imposing New York snapper into the global turtle tree.","salesPriority":4,"url":"https://www.amazon.com/dp/069122322X?tag=blappos-20"}
+    ],
+    "source": "https://newyork.news12.com/slow-and-steady-turtle-gets-police-escort-in-new-rochelle",
+    "sourceName": "Read News 12 Westchester's November 7 report",
+    "sourcePublisher": "News 12 Westchester",
+    "socialSummary": "News 12 Westchester reported on November 7 that a New Rochelle police officer safely moved a large turtle out of a busy roadway and relocated it away from danger; New York DEC urges extreme caution around snapping turtles.",
+    "socialPunchline": "Blappos: The state reptile joined traffic enforcement and refused to write itself a ticket."
+  },
+  {
+    "id": "nov7-moon-hiring",
+    "isoDate": "2026-11-07",
+    "month": "November",
+    "date": "Nov 7, 2026",
+    "place": "Houston, Texas / the Moon",
+    "image": "assets/cards/nov7-moon-hiring.jpg",
+    "title": "NASA Posts the Moon's Most Competitive Help-Wanted Ad",
+    "facts": "NASA opened applications on November 7 for its next astronaut-candidate class, with completed materials due by 11:59 p.m. EST on December 3. The agency expects to announce the final selection in late 2027. NASA says the candidates will train for lunar-surface operations and missions beyond Earth as the United States builds a Moon Base and develops systems for eventual crewed missions to Mars.",
+    "why": "The announcement turns a moon program into a real, tightly specified federal hiring process. NASA lists U.S. citizenship, a qualifying advanced STEM or medical/test-pilot credential, at least three years of related professional experience, a long-duration flight physical and strong leadership, teamwork and communication skills. More than 8,000 people applied in 2024 and NASA selected 10 in 2025; the current corps has 32 active astronauts. An application is an entry to a multi-year selection and training pipeline, not a ticket to a particular flight.",
+    "angle": "The deadline, requirements, prior applicant count, selection timeline and training scope end above. The Blappos interpretation: humanity has finally posted the entry-level moon job, provided your résumé already contains an advanced degree, three years of experience and the ability to remain calm while the office leaves Earth. The lunar hiring desk, astronaut, rover and base are disclosed original AI-generated editorial illustration—not NASA imagery, a real applicant, an official logo or a promise of flight assignment.",
+    "amazonLinks": [
+      {"title":"The Astronaut Selection Test Book: Do You Have What It Takes for Space?","image":"https://images-na.ssl-images-amazon.com/images/P/1787461459.01.LZZZZZZZ.jpg","alt":"Cover of The Astronaut Selection Test Book by Tim Peake and the European Space Agency","quip":"One hundred selection-style puzzles for the part of the application NASA cannot fit into a help-wanted headline.","salesPriority":5,"url":"https://www.amazon.com/dp/1787461459?tag=blappos-20"},
+      {"title":"An Astronaut's Guide to Life on Earth","image":"https://images-na.ssl-images-amazon.com/images/P/0316253030.01.LZZZZZZZ.jpg","alt":"Cover of An Astronaut's Guide to Life on Earth by Chris Hadfield","quip":"Chris Hadfield's account of the preparation, judgment and teamwork behind the glamorous one percent of the job.","salesPriority":5,"url":"https://www.amazon.com/dp/0316253030?tag=blappos-20"},
+      {"title":"Endurance: A Year in Space, A Lifetime of Discovery","image":"https://images-na.ssl-images-amazon.com/images/P/0525432434.01.LZZZZZZZ.jpg","alt":"Cover of Endurance by Scott Kelly","quip":"A veteran astronaut's full account of the training, isolation and operational discipline behind a long-duration mission.","salesPriority":5,"url":"https://www.amazon.com/dp/0525432434?tag=blappos-20"}
+    ],
+    "source": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "sourceName": "Read NASA's November 7 astronaut-candidate announcement",
+    "sourcePublisher": "NASA",
+    "socialSummary": "NASA opened applications on November 7 for its next astronaut class, due December 3; the agency expects a late-2027 selection for candidates who will train for lunar operations and missions beyond Earth.",
+    "socialPunchline": "Blappos: Moon experience is optional; the résumé capable of surviving the application is not."
+  },
+  {
+    "id": "nov7-banana-airlift",
+    "isoDate": "2026-11-07",
+    "month": "November",
+    "date": "Nov 7, 2026",
+    "place": "Fort Pierce, Florida",
+    "image": "assets/cards/nov7-banana-airlift.jpg",
+    "title": "Florida Sends a Banana by Air Because the Golf Cart Is Underwater",
+    "facts": "The Associated Press reported on November 7 that flooding at Save the Chimps near Fort Pierce submerged internal roads normally used to move about 3,000 pounds of food per day by golf cart. Care houses remained safe on high ground, but a 38-year-old chimpanzee named Kaleb was temporarily cut off in an outdoor area. Staff used an emergency delivery drone to bring him food and blankets until he moved to a more accessible location.",
+    "why": "The surreal delivery documents practical redundancy during a real emergency. Some veterinary and other staff stayed overnight, a swamp buggy helped and then broke down, and crews used trucks and a tractor for the rest of the sanctuary's 200 chimpanzees. AP reported that the animals stayed safe, meals remained on schedule and water was receding by Saturday, while flooding still complicated staff access and damaged equipment. The episode is not evidence that consumer drones can replace trained disaster planning or animal-care teams.",
+    "angle": "The flooding, daily food volume, named chimp, drone delivery and staff response end above. The Blappos interpretation: when the golf-cart route becomes a canal, the banana acquires a flight number and the blankets are upgraded to air cargo. The chimpanzee, drone, paper bag, sanctuary and distant staff are disclosed original AI-generated editorial illustration—not the AP photograph, Kaleb's exact likeness, a sanctuary mark or drone-operating guidance.",
+    "amazonLinks": [
+      {"title":"In the Shadow of Man","image":"https://images-na.ssl-images-amazon.com/images/P/0618056769.01.LZZZZZZZ.jpg","alt":"Cover of In the Shadow of Man by Jane Goodall","quip":"Jane Goodall's classic field account for understanding chimpanzees beyond one remarkable emergency-delivery clip.","salesPriority":5,"url":"https://www.amazon.com/dp/0618056769?tag=blappos-20"},
+      {"title":"Chimpanzee: Lessons from Our Sister Species","image":"https://images-na.ssl-images-amazon.com/images/P/1107544416.01.LZZZZZZZ.jpg","alt":"Cover of Chimpanzee Lessons from Our Sister Species by Kevin D. Hunt","quip":"A research-grounded overview of chimp anatomy, behavior and culture for the animal behind the airborne banana.","salesPriority":5,"url":"https://www.amazon.com/dp/1107544416?tag=blappos-20"},
+      {"title":"The Disaster-Ready Home","image":"https://images-na.ssl-images-amazon.com/images/P/1507217366.01.LZZZZZZZ.jpg","alt":"Cover of The Disaster-Ready Home by Creek Stewart","quip":"A practical preparedness manual for the less specialized households that do not keep an emergency chimpanzee delivery drone.","salesPriority":5,"url":"https://www.amazon.com/dp/1507217366?tag=blappos-20"}
+    ],
+    "source": "https://apnews.com/article/florida-flooding-chimpanzee-sanctuary-drone-feeding-fdeea05bc614d13f7779034b4394211c",
+    "sourceName": "Read the Associated Press's November 7 report",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "The Associated Press reported on November 7 that floods submerged Save the Chimps' internal roads near Fort Pierce, so staff used an emergency drone to bring 38-year-old Kaleb food and blankets while the sanctuary kept all 200 chimpanzees safe and fed.",
+    "socialPunchline": "Blappos: The golf-cart route became a canal, so one banana was cleared for takeoff."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov7StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov7StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 7 purchase gate: all three stories remain hidden until the Printify workflow creates exact live $9.99 product URLs.

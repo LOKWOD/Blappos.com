@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-08 — November 7 source-clock and action matrix
+
+### New York State Department of Environmental Conservation amphibian and reptile program
+- Target: DEC wildlife education team responsible for turtle-road safety guidance
+- Route: https://dec.ny.gov/nature/animals-fish-plants/amphibians-reptiles
+- Asset match: https://blappos.com/verification/#nov7-turtle-traffic
+- Honest angle: A local-report-plus-primary-guidance reference that preserves what News 12 documented, links DEC's species-aware road-crossing instructions and refuses to turn a trained responder's photograph into a universal snapping-turtle handling tutorial. A correction or resource-share opportunity only if DEC considers the summary useful and accurate.
+
+### NASA Astronaut Selection communications
+- Target: NASA Headquarters and Johnson Space Center media contacts named on release 26-093
+- Route: https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/
+- Asset match: https://blappos.com/verification/#nov7-moon-hiring
+- Honest angle: A deadline-and-claim-ceiling digest that links the agency's own application announcement, preserves every published baseline requirement and states plainly that application or selection does not guarantee a Moon flight or named mission.
+
+### Save the Chimps media team
+- Target: Sanctuary communications team for the Fort Pierce flood response
+- Route: https://savethechimps.org/contact/
+- Asset match: https://blappos.com/verification/#nov7-banana-airlift
+- Honest angle: A public emergency-redundancy digest that credits the sanctuary and Associated Press, distinguishes the one drone delivery from the trucks, tractor and overnight staffing that sustained all 200 chimpanzees, and labels the magnet scene as illustration. No fundraising claim or operational endorsement is inferred.
+
 ## 2026-11-07 — November 6 evidence-survival matrix
 
 ### NASA Neil Gehrels Swift mission communications
