@@ -4837,7 +4837,7 @@ const nov7StagingStories = [
     "date": "Nov 7, 2026",
     "place": "New Rochelle, New York",
     "image": "assets/cards/nov7-turtle-traffic.jpg",
-    "title": "New Rochelle Assigns the State Reptile to Traffic Duty",
+    "title": "New Rochelle Assigns the State Reptile to Traffic Duty","magnetUrl":"https://blappos.printify.me/product/34132380","magnetPrice":"$9.99",
     "facts": "News 12 Westchester reported on November 7 that a New Rochelle police officer moved a large turtle out of a busy roadway on Friday and relocated it to a safer area. The report cites photographs shared by the department. A separate local account identified the animal as a common snapping turtle near Pine Brook Lake; the exact weight, age and destination were not reported.",
     "why": "Road crossings are a serious mortality risk for long-lived turtles. New York's Department of Environmental Conservation advises motorists to avoid sudden swerves, slow near wetlands and, only when it is safe, help a turtle to the shoulder in the direction it was already traveling. DEC specifically urges extreme caution around snapping turtles and warns never to lift one by the tail. This report documents a trained responder's intervention, not a general instruction to imitate the pictured handling.",
     "angle": "The roadway rescue, source photographs and DEC guidance end above. The Blappos interpretation: New York's official state reptile briefly joined the New Rochelle traffic unit and declined to sign the incident report. The officer, turtle, lake road, cone and vehicle are disclosed original AI-generated editorial illustration—not a portrait, police photograph, handling tutorial or department insignia.",
