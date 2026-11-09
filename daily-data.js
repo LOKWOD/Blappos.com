@@ -4903,3 +4903,78 @@ window.dailyStories.unshift(...nov7StagingStories.filter(story => story.magnetUr
 // November 7 purchase-gate QA passed: Printify published all three exact story products and wrote their live $9.99 URLs back to the repository.
 // November 7 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
 // November 7 story-page QA passed locally: each generated permanent page contains its matching artwork, Printify purchase CTA, source and three affiliate cards.
+
+// November 8 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov8StagingStories = [
+  {
+    "id": "nov8-snake-house",
+    "isoDate": "2026-11-08",
+    "month": "November",
+    "date": "Nov 8, 2026",
+    "place": "Salvisa, Kentucky",
+    "image": "assets/cards/nov8-snake-house.jpg",
+    "title": "The Starter Home Comes With at Least 25 Snakes",
+    "facts": "WBKO published a WKYT report on November 8 about Mercer County couple Justin and Braylen Combs, who said they found at least 25 snakes after buying their first home near Salvisa. The account says they first noticed droppings and an odor, then found snakes in the walls, ceiling and basement; one measured roughly six feet. Neighbors told the couple the cottage was locally known as the snake house. The count comes from the homeowners' documented experience, not a wildlife-agency census of the building.",
+    "why": "The absurd roommate count points to a practical distinction between a wildlife sighting and a building-entry problem. Kentucky Fish and Wildlife says the state has 32 snake types, only four venomous, and identifies the central ratsnake as nonvenomous. Its guidance recommends removing shelter and prey sources and sealing openings larger than a quarter-inch with mortar, hardware cloth or caulk. That is general prevention guidance, not a diagnosis of this house or a substitute for an inspection by qualified local professionals.",
+    "angle": "The November 8 report, homeowners' minimum count, approximate length and Kentucky guidance end above. The Blappos interpretation: the first-time buyers closed on a cottage, a basement and the most established roommate group in Mercer County. The couple, cottage, clipboard and snakes are disclosed original AI-generated editorial illustration—not homeowner likenesses, the actual property, a copied photograph or a handling tutorial.",
+    "amazonLinks": [
+      {"title":"Snakes of the United States and Canada","image":"https://images-na.ssl-images-amazon.com/images/P/1588340198.01.LZZZZZZZ.jpg","alt":"Cover of Snakes of the United States and Canada by Carl H. Ernst and Evelyn M. Ernst","quip":"The comprehensive species reference for identifying the legitimate Kentucky residents before the walls are assigned a head count.","salesPriority":5,"url":"https://www.amazon.com/dp/1588340198?tag=blappos-20"},
+      {"title":"Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America","image":"https://images-na.ssl-images-amazon.com/images/P/0544129970.01.LZZZZZZZ.jpg","alt":"Cover of Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America","quip":"A portable identification guide covering Kentucky's central ratsnake and its far less welcome venomous neighbors.","salesPriority":5,"url":"https://www.amazon.com/dp/0544129970?tag=blappos-20"},
+      {"title":"Snakes of the World: A Guide to Every Family","image":"https://images-na.ssl-images-amazon.com/images/P/0691240663.01.LZZZZZZZ.jpg","alt":"Cover of Snakes of the World by Mark O'Shea","quip":"A family-by-family visual guide for remembering that the surprise tenants belong to a much bigger global tree.","salesPriority":4,"url":"https://www.amazon.com/dp/0691240663?tag=blappos-20"}
+    ],
+    "source": "https://www.wbko.com/2026/11/08/mercer-county-couple-finds-least-25-snakes-newly-purchased-home/",
+    "sourceName": "Read WBKO's November 8 publication of WKYT's Mercer County report",
+    "sourcePublisher": "WBKO / WKYT",
+    "socialSummary": "WBKO published a WKYT report on November 8 saying a Mercer County couple found at least 25 snakes in the walls, ceiling and basement of their newly purchased first home near Salvisa; one was roughly six feet long.",
+    "socialPunchline": "Blappos: The starter home came with the most established roommate group in Mercer County."
+  },
+  {
+    "id": "nov8-holmes-lookalike",
+    "isoDate": "2026-11-08",
+    "month": "November",
+    "date": "Nov 8, 2026",
+    "place": "San Francisco, California",
+    "image": "assets/cards/nov8-holmes-lookalike.jpg",
+    "title": "A Stanford Doctor Wins the Elizabeth Holmes Look-Alike Contest",
+    "facts": "SFist reported on November 8 that about two dozen Elizabeth Holmes look-alikes and a separate group of Nathan Fielder imitators competed in San Francisco's Lafayette Park before a crowd of several hundred. Organizers said the Partiful listing drew about 1,000 RSVPs. Stanford plastic-surgery resident Sierra Stingl won the Holmes category, while San Francisco podcaster Alex Kesin won the Fielder category; contestants faced staring, dancing and mock startup-pitch challenges.",
+    "why": "The joke became an unusually large in-person gathering built around a documentary, Halloween costumes and Silicon Valley history. It also rewards a useful numbers boundary: 1,000 RSVPs is not the same as 1,000 confirmed attendees, and the reporting describes several hundred spectators. The winners were chosen in a recreational resemblance contest, not endorsed by the film, Stanford, Holmes, Fielder or any scientific review process.",
+    "angle": "The November 8 publication, Saturday event, reported turnout and contest format end above. The Blappos interpretation: San Francisco subjected the black turtleneck to staring, dancing and startup pitching, then returned a peer-reviewed winner. The park, contestants, crown, easel and skyline are disclosed original AI-generated editorial illustration—not real-person likenesses, a copied event photo, an A24 mark or a medical-device claim.",
+    "amazonLinks": [
+      {"title":"Bad Blood: Secrets and Lies in a Silicon Valley Startup","image":"https://images-na.ssl-images-amazon.com/images/P/0525431993.01.LZZZZZZZ.jpg","alt":"Cover of Bad Blood by John Carreyrou","quip":"The rigorously reported Theranos history behind a park full of black turtlenecks and mock startup pitches.","salesPriority":5,"url":"https://www.amazon.com/dp/0525431993?tag=blappos-20"},
+      {"title":"The Cult of We: WeWork, Adam Neumann, and the Great Startup Delusion","image":"https://images-na.ssl-images-amazon.com/images/P/0593237112.01.LZZZZZZZ.jpg","alt":"Cover of The Cult of We by Eliot Brown and Maureen Farrell","quip":"Another Silicon Valley-scale cautionary tale for contestants practicing the most confident pitch in Lafayette Park.","salesPriority":5,"url":"https://www.amazon.com/dp/0593237112?tag=blappos-20"},
+      {"title":"The Art of Gathering: How We Meet and Why It Matters","image":"https://images-na.ssl-images-amazon.com/images/P/1594634939.01.LZZZZZZZ.jpg","alt":"Cover of The Art of Gathering by Priya Parker","quip":"A practical study of purposeful gatherings for the organizers who turned a costume bit into a real city crowd.","salesPriority":4,"url":"https://www.amazon.com/dp/1594634939?tag=blappos-20"}
+    ],
+    "source": "https://sfist.com/2026/11/08/elizabeth-holmes-look-alike-contest-draws-mass-of-black-turtlenecks-to-lafayette-park/",
+    "sourceName": "Read SFist's November 8 report and its links to the San Francisco Chronicle and KRON4",
+    "sourcePublisher": "SFist",
+    "socialSummary": "SFist reported on November 8 that about two dozen Elizabeth Holmes look-alikes and Nathan Fielder imitators competed in a San Francisco park before several hundred spectators; a Stanford plastic-surgery resident won the Holmes category.",
+    "socialPunchline": "Blappos: San Francisco returned a peer-reviewed turtleneck."
+  },
+  {
+    "id": "nov8-orange-killifish",
+    "isoDate": "2026-11-08",
+    "month": "November",
+    "date": "Nov 8, 2026",
+    "place": "Amapá, Brazil",
+    "image": "assets/cards/nov8-orange-killifish.jpg",
+    "title": "The Amazon Releases a Three-Centimeter Fish in Three Tiny Pools",
+    "facts": "A ScienceDaily digest published November 8 highlighted Laimosemion laranja, a newly described killifish from the lower Rio Cajari drainage in Brazil's Amapá state. The peer-reviewed Zoosystematics and Evolution paper identifies the species with morphological characters and mitochondrial DNA; males carry vivid orange spots and chevrons, and the standard body length is under three centimeters. Researchers have found it in only three small forest pools across an estimated 25-square-kilometer range.",
+    "why": "A new species can be scientifically valid and already vulnerable at the moment it receives a name. The authors say every known site shows disturbance from deforestation, mining, urban expansion or plastic pollution and argue that the fish meets IUCN criteria for Endangered status. That is a research-team recommendation, not a completed IUCN listing, and three known pools are the current evidence boundary—not proof that no undiscovered population exists elsewhere.",
+    "angle": "The November 8 digest clock, paper, size, three-site range and proposed conservation status end above. The Blappos interpretation: the Amazon launched a new orange fish as an extremely limited release and immediately misplaced the expansion plan. The fish, pools, map and hand lens are disclosed original AI-generated editorial illustration—not a specimen photograph, scientific figure, exact range map or aquarium-care promise.",
+    "amazonLinks": [
+      {"title":"Field Guide to the Fishes of the Amazon, Orinoco, and Guianas","image":"https://images-na.ssl-images-amazon.com/images/P/0691170746.01.LZZZZZZZ.jpg","alt":"Cover of Field Guide to the Fishes of the Amazon, Orinoco, and Guianas","quip":"The first complete genus-level field guide to the extraordinarily crowded freshwater neighborhood that just gained another name.","salesPriority":5,"url":"https://www.amazon.com/dp/0691170746?tag=blappos-20"},
+      {"title":"Why Fish Don't Exist","image":"https://images-na.ssl-images-amazon.com/images/P/1501160273.01.LZZZZZZZ.jpg","alt":"Cover of Why Fish Don't Exist by Lulu Miller","quip":"A strange history of taxonomy and persistence for the human urge to name one tiny orange fish correctly.","salesPriority":5,"url":"https://www.amazon.com/dp/1501160273?tag=blappos-20"},
+      {"title":"Half-Earth: Our Planet's Fight for Life","image":"https://images-na.ssl-images-amazon.com/images/P/1631490826.01.LZZZZZZZ.jpg","alt":"Cover of Half-Earth by Edward O. Wilson","quip":"A conservation argument scaled to the problem of a species whose entire known world fits inside three disturbed pools.","salesPriority":4,"url":"https://www.amazon.com/dp/1631490826?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
+    "sourceName": "Read ScienceDaily's November 8 digest and the open-access Zoosystematics and Evolution paper",
+    "sourcePublisher": "ScienceDaily / Zoosystematics and Evolution",
+    "socialSummary": "A November 8 ScienceDaily digest highlighted Laimosemion laranja, an orange-patterned Amazon killifish under three centimeters long known from three disturbed forest pools; researchers recommend Endangered status.",
+    "socialPunchline": "Blappos: New species, extremely limited release."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov8StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov8StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 8 purchase gate: all three stories remain private until exact live Printify products and prices are written back.

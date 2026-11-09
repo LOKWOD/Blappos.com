@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-09 — November 8 home-surprise checklist and proof-boundary matrix
+
+### Kentucky Department of Fish and Wildlife Resources Nongame Wildlife Program
+- Target: Wildlife-education team responsible for Kentucky's public snake-identification and unwanted-snake guidance
+- Route: https://fw.ky.gov/Wildlife/Pages/Snakes.aspx
+- Asset match: https://blappos.com/verification/#nov8-property-evidence-checklist
+- Honest angle: A reusable homeowner evidence checklist that links the department's own exclusion guidance, distinguishes a locally reported minimum snake count from a professional building inspection and avoids turning a dramatic first-home report into handling advice. A correction or resource-share opportunity only if the program considers the summary accurate and useful.
+
+### Zoosystematics and Evolution / Pensoft communications
+- Target: Journal communications team and authors of the <em>Laimosemion laranja</em> species description
+- Route: https://zse.pensoft.net/article/187659/
+- Asset match: https://blappos.com/verification/#nov8-orange-killifish
+- Honest angle: A plain-language species-description digest that links the open-access paper, preserves the three-pool and 25-square-kilometer evidence base and clearly distinguishes the authors' Endangered recommendation from a completed IUCN listing.
+
+### SFist editorial and corrections desk
+- Target: Local newsroom responsible for the November 8 Lafayette Park contest report
+- Route: https://sfist.com/about/contact/
+- Asset match: https://blappos.com/verification/#nov8-holmes-lookalike
+- Honest angle: A turnout-literacy example that credits SFist, preserves the difference between roughly 1,000 RSVPs and several hundred observed spectators and labels all magnet participants as invented. A correction or methodology-share opportunity only; no request for favorable coverage.
+
 ## 2026-11-08 — November 7 source-clock and action matrix
 
 ### New York State Department of Environmental Conservation amphibian and reptile program
