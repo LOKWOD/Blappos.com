@@ -280,7 +280,8 @@ async function main() {
 
     // A caption repair can leave one replacement only a few minutes from an
     // already-scheduled edition post. Re-space the surviving edition in place
-    // so retries preserve the same deliberate cadence as the initial batch.
+    // so retries preserve the same deliberate 45-minute cadence as the initial
+    // batch instead of treating Buffer acceptance as the end of delivery QA.
     const scheduledEditionPosts = knownPosts
       .filter(post =>
         post.status === 'scheduled' &&
