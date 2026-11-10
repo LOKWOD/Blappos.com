@@ -5006,7 +5006,7 @@ const nov9StagingStories = [
     "sourceName": "Read New Scientist's November 9 report and the open-access Journal of Archaeological Science: Reports paper",
     "sourcePublisher": "New Scientist / Journal of Archaeological Science: Reports",
     "socialSummary": "New Scientist reported on November 9 that a study of 817 British handaxes found seven unusually large, skillfully made ficrons; experimental replicas cut rope about 22 percent slower, supporting but not proving a social-display role.",
-    "socialPunchline": "Blappos: Prehistoric Britain introduced three kilograms of prestige with no productivity upgrade."
+    "socialPunchline": "Blappos: Three kilograms of prestige; no productivity upgrade."
   },
   {
     "id": "nov9-cat-face-filter",
@@ -5028,7 +5028,7 @@ const nov9StagingStories = [
     "sourceName": "Read Dartmouth College's November 9 report and the linked Cortex case report",
     "sourcePublisher": "Dartmouth College / Cortex",
     "socialSummary": "Dartmouth College reported on November 9 that a 28-year-old man's post-surgical palinopsia can transfer remembered cat-eye shapes and markings onto human faces, or human facial features onto his cat, in a documented single case.",
-    "socialPunchline": "Blappos: The brain selected the first face of the morning and applied the cat preset to everyone else."
+    "socialPunchline": "Blappos: First face, cat; everyone else gets the preset."
   },
   {
     "id": "nov9-move-the-bean",
