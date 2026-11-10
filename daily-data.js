@@ -1,3527 +1,31 @@
-window.dailyStories=[
-{"id":"oct13-cat-burglar-dog-bowl","isoDate":"2026-10-13","month":"October 2026","date":"Oct 13, 2026","place":"London, England","image":"assets/cards/oct13-cat-burglar-dog-bowl.webp","title":"A Cat Burglar Steals Only the Dog Food","magnetUrl":"https://blappos.printify.me/product/33096083","magnetPrice":"$9.99","facts":"UPI reported on October 13 that Ring UK & Ireland shared indoor-camera footage of a neighborhood cat entering a southeast London home and eating from resident dog Rosie's bowl. Homeowner Myron Wallace said his family was upstairs and discovered the intrusion only after Rosie barked, came down the stairs and chased the cat back outside.","why":"The camera and Rosie's response establish the entry, snack and exit, but they do not establish the cat's motive, ownership or a precise event time. The small caper also illustrates a practical multi-pet problem: open bowls can feed an unintended animal, while monitored or identity-controlled feeders can limit access without turning a roaming pet into a criminal mastermind.","angle":"Verified reporting ends above. The Blappos interpretation: London's least subtle cat burglar skipped the jewelry, ate the evidence and still triggered the household dog alarm. The magnet uses invented animals, a generic camera and an original kitchenâ€”no copied footage, Ring mark, homeowner likeness or claim about the real cat's intent.","amazonLinks":[{"title":"SureFeed Microchip Pet Feeder","image":"https://m.media-amazon.com/images/P/B00O0UIPTY.01.LZZZZZZZ.jpg","alt":"SureFeed Microchip Pet Feeder","quip":"A selective feeder for households that would prefer the neighborhood cat not recognize dinner as an open invitation.","salesPriority":5,"url":"https://www.amazon.com/dp/B00O0UIPTY?tag=blappos-20"},{"title":"The Trainable Cat","image":"https://m.media-amazon.com/images/P/0465050905.01.LZZZZZZZ.jpg","alt":"Cover of The Trainable Cat by John Bradshaw and Sarah Ellis","quip":"A science-based behavior guide for teaching boundaries before the dog has to run residential security.","salesPriority":5,"url":"https://www.amazon.com/dp/0465050905?tag=blappos-20"},{"title":"Decoding Your Cat","image":"https://m.media-amazon.com/images/P/1328489906.01.LZZZZZZZ.jpg","alt":"Cover of Decoding Your Cat by the American College of Veterinary Behaviorists","quip":"Veterinary behavior expertise for interpreting the visitor without assigning it a tiny striped burglary rÃ©sumÃ©.","salesPriority":4,"url":"https://www.amazon.com/dp/1328489906?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/10/13/London-cat-steals-dog-food-Ring-camera/1301791914101/","sourceName":"Read the October 13 UPI report","sourcePublisher":"UPI","socialSummary":"UPI reported that indoor-camera footage showed a neighborhood cat enter a southeast London home and eat Rosie's dog food before Rosie's barking and pursuit sent it back outside.","socialPunchline":"Blappos: London's cat burglar took only the dog food and still tripped the dog alarm."},
-{"id":"oct13-000-4917-winners","isoDate":"2026-10-13","month":"October 2026","date":"Oct 13, 2026","place":"North Carolina","image":"assets/cards/oct13-000-4917-winners.webp","title":"0-0-0 Pays 4,917 Winners at Once","magnetUrl":"https://blappos.printify.me/product/33096122","magnetPrice":"$9.99","facts":"The North Carolina Education Lottery reported on October 13 that the October 12 Pick 3 evening drawing produced 0-0-0, paying 4,917 winning tickets a combined $1,762,353. The official payout record identifies the draw date, winner count and total; the next-day news post is the publication clock, not the drawing clock.","why":"Any one exact three-digit sequence has the same 1-in-1,000 chance in a fair Pick 3 drawing. Triple digits are popular choices, so an unusual-looking result can create thousands of fixed-prize winners and a large statewide payout without becoming evidence that 0-0-0 was due, predictable or a better future bet.","angle":"Verified lottery records and the probability boundary end above. The Blappos interpretation: North Carolina's lottery terminal briefly rebooted with the factory password and 4,917 people already knew it. The magnet uses an invented machine, tickets and payout displayâ€”no official mark, copied ticket or promise of gambling success.","amazonLinks":[{"title":"The Drunkard's Walk: How Randomness Rules Our Lives","image":"https://m.media-amazon.com/images/P/0307275175.01.LZZZZZZZ.jpg","alt":"Cover of The Drunkard's Walk by Leonard Mlodinow","quip":"An accessible guide to randomness for the moment three zeros look like destiny instead of one outcome among a thousand.","salesPriority":5,"url":"https://www.amazon.com/dp/0307275175?tag=blappos-20"},{"title":"How Not to Be Wrong: The Power of Mathematical Thinking","image":"https://m.media-amazon.com/images/P/0143127535.01.LZZZZZZZ.jpg","alt":"Cover of How Not to Be Wrong by Jordan Ellenberg","quip":"Mathematical thinking for separating a memorable payout from a repeatable advantage.","salesPriority":5,"url":"https://www.amazon.com/dp/0143127535?tag=blappos-20"},{"title":"Thinking in Bets","image":"https://m.media-amazon.com/images/P/0735216371.01.LZZZZZZZ.jpg","alt":"Cover of Thinking in Bets by Annie Duke","quip":"A decision-making book for keeping one spectacular result from rewriting what the odds meant beforehand.","salesPriority":4,"url":"https://www.amazon.com/dp/0735216371?tag=blappos-20"}],"source":"https://nclottery.com/NewsBlogDetails/2026/10/13/Pick-3-players-win-over-1dot7-million-on-0-0-0","sourceName":"Read the October 13 North Carolina Education Lottery report","sourcePublisher":"North Carolina Education Lottery","socialSummary":"The North Carolina Education Lottery said the October 12 Pick 3 evening result 0-0-0 paid 4,917 winning tickets a combined $1,762,353; the agency published the payout on October 13.","socialPunchline":"Blappos: The statewide terminal rebooted with the factory password and 4,917 people knew it."},
-{"id":"oct13-perseverance-distance-record","isoDate":"2026-10-13","month":"October 2026","date":"Oct 13, 2026","place":"Jezero Crater, Mars","image":"assets/cards/oct13-perseverance-distance-record.webp","title":"A Robot Becomes the Off-World Mileage King","magnetUrl":"https://blappos.printify.me/product/33096143","magnetPrice":"$9.99","facts":"Reuters reported on October 13 that NASA's six-wheeled Perseverance rover had driven 28.1 miles (45.2 kilometers) on Mars, surpassing Opportunity's distance record for any vehicle on a world beyond Earth. NASA's own comparison marks the mileage as of October 11; Perseverance landed in Jezero Crater on February 18, 2021.","why":"This is a distance-and-durability record, not a speed record. A Jet Propulsion Laboratory project manager told Reuters that about 90% of Perseverance's drives are autonomous: the rover uses stereo images, a 3D terrain map and onboard path selection to travel safely between goals despite the communications delay between Earth and Mars.","angle":"Verified reporting ends above. The Blappos interpretation: the solar system's highest-mileage used car has one owner, 28.1 miles, extensive off-road use and absolutely no local pickup option. The magnet uses an original generic research rover and invented terrainâ€”no NASA seal, JPL mark, mission photograph or claim that the record is finished growing.","amazonLinks":[{"title":"Mars Rover Curiosity: An Inside Account from Curiosity's Chief Engineer","image":"https://m.media-amazon.com/images/P/1588344037.01.LZZZZZZZ.jpg","alt":"Cover of Mars Rover Curiosity by Rob Manning and William L. Simon","quip":"An engineer's inside account of the rover lineage whose lessons helped make a 28.1-mile Martian road trip possible.","salesPriority":5,"url":"https://www.amazon.com/dp/1588344037?tag=blappos-20"},{"title":"The Design and Engineering of Curiosity","image":"https://m.media-amazon.com/images/P/3319681443.01.LZZZZZZZ.jpg","alt":"Cover of The Design and Engineering of Curiosity by Emily Lakdawalla","quip":"A system-by-system guide to how a planetary rover sees, steers and works when roadside assistance is one planet away.","salesPriority":5,"url":"https://www.amazon.com/dp/3319681443?tag=blappos-20"},{"title":"Red Rover: Inside the Story of Robotic Space Exploration","image":"https://m.media-amazon.com/images/P/0465055982.01.LZZZZZZZ.jpg","alt":"Cover of Red Rover by Roger Wiens","quip":"A human history of robotic planetary exploration for the very long relay race behind today's mileage crown.","salesPriority":4,"url":"https://www.amazon.com/dp/0465055982?tag=blappos-20"}],"source":"https://www.reuters.com/science/nasas-perseverance-rover-breaks-record-off-planet-driving-mars-2026-10-13/","sourceName":"Read the October 13 Reuters report","sourcePublisher":"Reuters","socialSummary":"Reuters reported that NASA's Perseverance rover reached 28.1 miles on Mars, passing Opportunity for the longest distance driven by any vehicle on another world; NASA dates the milestone mileage to October 11.","socialPunchline":"Blappos: One owner, 28.1 miles, extensive off-road use, local pickup unavailable."},
-{"id":"oct12-zeekr-25cm-drift","isoDate":"2026-10-12","month":"October 2026","date":"Oct 12, 2026","place":"Abu Dhabi, United Arab Emirates","image":"assets/cards/oct12-zeekr-25cm-drift.webp","title":"An SUV Drifts Through a 25-Centimeter Gap","magnetUrl":"https://blappos.printify.me/product/33057638","magnetPrice":"$9.99","facts":"UPI reported on October 12 that a Zeekr 7X electric SUV earned a Guinness World Records title after professional driver Chien Jui-Yu passed between two barriers with only 25 centimeters (9.84 inches) of total clearance while drifting at Yas Marina Circuit. The certified attempt itself took place on June 12, 2026, so the publication date and record date are not the same.","why":"A quarter-meter margin split across both sides leaves almost no room for steering error, tire movement or body roll. The record is a controlled precision-driving demonstration on a closed circuit, not evidence that the maneuver is safe on public roads. Naming both clocks also prevents an October report from being mistaken for an October attempt.","angle":"Verified reporting ends above. The Blappos interpretation: Abu Dhabi has invented parallel parking for people who find parallel parking insufficiently hostile. The magnet uses an original generic SUV, invented racetrack scene and fictional markersâ€”no vehicle badge, driver likeness, licensed photograph or suggestion that readers should try it.","amazonLinks":[{"title":"How to Build a Car by Adrian Newey","image":"https://m.media-amazon.com/images/P/000819680X.01.LZZZZZZZ.jpg","alt":"Cover of How to Build a Car by Adrian Newey","quip":"A championship designer's engineering memoir for the part of the stunt that begins long before the tires turn sideways.","salesPriority":5,"url":"https://www.amazon.com/dp/000819680X?tag=blappos-20"},{"title":"Speed Secrets: Professional Race Driving Techniques","image":"https://m.media-amazon.com/images/P/0760305188.01.LZZZZZZZ.jpg","alt":"Cover of Speed Secrets by Ross Bentley","quip":"Closed-course technique and car-control theory for understanding precision driving without turning the commute into a record attempt.","salesPriority":5,"url":"https://www.amazon.com/dp/0760305188?tag=blappos-20"},{"title":"The Physics of NASCAR","image":"https://m.media-amazon.com/images/P/0525950532.01.LZZZZZZZ.jpg","alt":"Cover of The Physics of NASCAR by Diandra Leslie-Pelecky","quip":"An accessible tour of grip, weight transfer and racing physicsâ€”the forces that make 25 centimeters feel even smaller.","salesPriority":4,"url":"https://www.amazon.com/dp/0525950532?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/10/12/Zeekr-Guinness-World-Records-gap-drift/5951791822673/","sourceName":"Read the October 12 UPI report","sourcePublisher":"UPI","socialSummary":"UPI reported that a Zeekr 7X earned a Guinness record after Chien Jui-Yu drifted through a 25-centimeter total gap at Yas Marina Circuit; the certified attempt occurred June 12 and was reported October 12.","socialPunchline":"Blappos: Parallel parking has entered its boss level."},
-{"id":"oct12-1474-pound-fries","isoDate":"2026-10-12","month":"October 2026","date":"Oct 12, 2026","place":"Boise, Idaho","image":"assets/cards/oct12-1474-pound-fries.webp","title":"Idaho Serves a 1,474-Pound Side of Fries","magnetUrl":"https://blappos.printify.me/product/33057643","magnetPrice":"$9.99","facts":"UPI reported on October 12 that the Idaho Potato Commission and Spud Daddy set a Guinness World Records mark at Boise Potato Days with 1,474 pounds of fresh-cut french fries. A roughly 50-person crew fed about 1,700 pounds of potatoes through cutters and six commercial fryers before the finished batch was weighed.","why":"The distinction between input weight and finished weight matters: the record was based on cooked fries, not raw potatoes or an estimate. The attempt also turned a familiar side dish into a coordinated production exercise involving food handling, fryer capacity, timing and an official weigh-in.","angle":"Verified reporting ends above. The Blappos interpretation: Idaho has finally answered the restaurant question, â€œWould you like fries with that?â€ with a quantity measurable by loading dock. The illustration is an invented fry mountain and generic scaleâ€”no event logo, copied photograph, branded carton or claim that one person should eat it.","amazonLinks":[{"title":"The Food Lab: Better Home Cooking Through Science","image":"https://m.media-amazon.com/images/P/0393081087.01.LZZZZZZZ.jpg","alt":"Cover of The Food Lab by J. Kenji LÃ³pez-Alt","quip":"The science-heavy kitchen reference for learning why a crisp fry is more than a potato's confident phase.","salesPriority":5,"url":"https://www.amazon.com/dp/0393081087?tag=blappos-20"},{"title":"The Potato: How the Humble Spud Rescued the Western World","image":"https://m.media-amazon.com/images/P/0865475784.01.LZZZZZZZ.jpg","alt":"Cover of The Potato by Larry Zuckerman","quip":"A history of the crop behind the record, before 1,700 pounds of it met six industrial fryers.","salesPriority":5,"url":"https://www.amazon.com/dp/0865475784?tag=blappos-20"},{"title":"OXO Good Grips 11-Pound Digital Kitchen Food Scale","image":"https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg","alt":"OXO Good Grips digital kitchen food scale","quip":"A practical home-scale counterpart to the industrial weigh-inâ€”only about 1,463 pounds short of the record.","salesPriority":4,"url":"https://www.amazon.com/dp/B079D9B82W?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/10/12/guinness-food-records-fries-slim-jim/3951791835726/","sourceName":"Read the October 12 UPI report","sourcePublisher":"UPI","socialSummary":"UPI reported that the Idaho Potato Commission and Spud Daddy used about 1,700 pounds of potatoes, six commercial fryers and a 50-person crew to produce a Guinness-record 1,474-pound batch of fresh-cut fries at Boise Potato Days.","socialPunchline":"Blappos: The side order now requires freight classification."},
-{"id":"oct12-michigan-7505-km2-flash","isoDate":"2026-10-12","month":"October 2026","date":"Oct 12, 2026","place":"Michigan","image":"assets/cards/oct12-michigan-7505-km2-flash.webp","title":"Michigan Gets a 7,505-Square-Kilometer Flash","magnetUrl":"https://blappos.printify.me/product/33057646","magnetPrice":"$9.99","facts":"What Weird Shit Happened Today computed from NOAA GOES Geostationary Lightning Mapper data that a flash with a 7,505-square-kilometer optical footprint was detected at 46.89Â°N, 88.65Â°W in Michigan at 9:35 p.m. ET on October 12. The source describes the value as a computed observation from NOAA GOES GLM L2 LCFA data, not an official world record.","why":"The Geostationary Lightning Mapper detects brief optical signals from lightning across wide areas, so an optical footprint is a satellite-derived measurement rather than the path of one cartoon bolt on the ground. Most flashes span roughly 10â€“100 square kilometers, while megaflashes can exceed 1,000; the 7,505-square-kilometer value is extraordinary but should retain its computed-data label.","angle":"Verified data and its limits end above. The Blappos interpretation: Michigan briefly installed one sky-sized camera flash and forgot to enable red-eye reduction. The magnet uses an original Great Lakes map and invented lightning sceneâ€”no NOAA seal, copied satellite frame or claim that the footprint was a ground-strike area.","amazonLinks":[{"title":"All About Lightning","image":"https://m.media-amazon.com/images/P/048625237X.01.LZZZZZZZ.jpg","alt":"Cover of All About Lightning by Martin A. Uman","quip":"A focused science reference for the electrical event beneath the enormous satellite-measured glow.","salesPriority":5,"url":"https://www.amazon.com/dp/048625237X?tag=blappos-20"},{"title":"National Geographic Pocket Guide to the Weather of North America","image":"https://images-na.ssl-images-amazon.com/images/P/1426217862.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Pocket Guide to the Weather of North America","quip":"A compact field guide for placing one spectacular Michigan flash inside the continent's larger weather machinery.","salesPriority":5,"url":"https://www.amazon.com/dp/1426217862?tag=blappos-20"},{"title":"Midland ER310 Emergency Crank Weather Radio","image":"https://m.media-amazon.com/images/P/B015QIC1PW.01.LZZZZZZZ.jpg","alt":"Midland ER310 emergency crank weather radio","quip":"The practical storm companion for receiving warnings while the sky is testing its widest flash setting.","salesPriority":4,"url":"https://www.amazon.com/dp/B015QIC1PW?tag=blappos-20"}],"source":"https://wwsht.com/2026/10/12/","sourceName":"See the October 12 data digest and NOAA source link","sourcePublisher":"What Weird Shit Happened Today / NOAA","socialSummary":"A WWSHT analysis of NOAA GOES GLM data found a 7,505-square-kilometer optical lightning footprint over Michigan at 9:35 p.m. ET on October 12; it is a computed observation, not an official world record.","socialPunchline":"Blappos: Michigan briefly activated the sky's panorama flash."},
-{"id":"oct2-die-another-day","isoDate":"2026-10-02","month":"October 2026","date":"Oct 2, 2026","place":"Nashville, Tennessee","image":"assets/cards/oct2-die-another-day.webp","title":"Die Another Day","magnetUrl":"https://blappos.printify.me/product/32651928","magnetPrice":"$9.99","facts":"On September 30, Tennessee attempted to execute death-row prisoner Christa Pike at Riverbend Maximum Security Institution in Nashville using pentobarbital. Officials administered the protocol's initial dose and a second dose, but Pike remained alive. Reuters reported on October 2 that her lawyers said she was unconscious, intubated and on a ventilator in critical condition.","why":"Tennessee's Department of Correction said the written protocol permits no further procedure beyond the steps carried out that night. Governor Bill Lee suspended the state's remaining executions for 2026 and ordered a third-party review. The review had not yet established why the drugs failed to kill Pike, so the medical cause remains unresolved.","angle":"The Blappos angle: Death kept the appointment. Tennessee arrived with a procedure that could not finish the job. A fictional prison administrator searches the manual while an impatient Grim Reaper checks his watch. DIE ANOTHER DAY. The illustration is invented satire of the state process, not a depiction of the execution.","amazonLinks":[{"title":"The Death Penalty: A Reference Handbook","image":"https://m.media-amazon.com/images/P/1440845492.01.LZZZZZZZ.jpg","alt":"The Death Penalty: A Reference Handbook book cover","quip":"A broad legal and historical reference for a story where the written procedure suddenly matters all the way to its last line.","salesPriority":"primary","url":"https://www.amazon.com/dp/1440845492?tag=blappos-20"},{"title":"Executioner's Current","image":"https://m.media-amazon.com/images/P/037572446X.01.LZZZZZZZ.jpg","alt":"Executioner's Current book cover","quip":"A history of an earlier American execution technologyâ€”and the recurring belief that a new method will make the machinery simple.","salesPriority":"secondary","url":"https://www.amazon.com/dp/037572446X?tag=blappos-20"},{"title":"The Chamber","image":"https://m.media-amazon.com/images/P/044024594X.01.LZZZZZZZ.jpg","alt":"The Chamber by John Grisham book cover","quip":"A death-row legal thriller for the part of this real story that already reads like a plot twist.","salesPriority":"secondary","url":"https://www.amazon.com/dp/044024594X?tag=blappos-20"}],"source":"https://www.reuters.com/legal/government/tennessee-execution-survivor-christa-pike-ventilator-attorneys-say-2026-10-02/","sourceName":"Read the October 2 Reuters report","sourcePublisher":"Reuters","socialSummary":"Tennessee's failed lethal-injection attempt left Christa Pike unconscious, intubated and on a ventilator, according to her lawyers' October 2 court filing.","socialPunchline":"The state's execution checklist reached the end before the execution did."},
-{"id":"oct1-swiss-glaciers","isoDate":"2026-10-01","month":"October","date":"Oct 1, 2026","place":"Swiss Alps","image":"assets/cards/oct1-swiss-glaciers.webp","title":"Swiss glaciers lose more than 5% of their ice in one year","magnetUrl":"https://blappos.printify.me/product/32639486","magnetPrice":"$9.99","facts":"Switzerland's glaciers lost more than 5% of their total ice volume during the first eight months of 2026, according to the Swiss glacier-monitoring network cited by Reuters and UPI on October 1. Researchers linked the near-record annual loss to a dry winter, limited snow cover and intense summer heat. The total decline over the past five years is now about one-fifth.","why":"One unusually bad melt season matters because thinner glaciers expose darker ground, reduce their ability to reflect heat and leave less ice to survive the next hot year. The monitoring result is a national aggregate, not a claim that every Swiss glacier lost the same share. The figure also describes physical loss already measured in 2026, not a forecast or a symbolic climate target.","angle":"Verified reporting ends above. The Blappos interpretation: permanent snow has quietly switched to seasonal hours. The magnet turns the monitoring result into an original alpine travel sign with a receding ice line and exposed trailâ€”no copied news photography, institutional logo, named researcher or exact scientific chart.","amazonLinks":[{"title":"Atlas of Vanishing Places","image":"https://images-na.ssl-images-amazon.com/images/P/1781318956.01.LZZZZZZZ.jpg","alt":"Cover of Atlas of Vanishing Places","quip":"A mapped tour of landscapes under pressure, including the kind of fast-changing ice terrain measured in the Swiss Alps.","salesPriority":5,"url":"https://www.amazon.com/dp/1781318956?tag=blappos-20"},{"title":"The Melting World: A Journey Across America's Vanishing Glaciers","image":"https://m.media-amazon.com/images/P/0312546289.01.LZZZZZZZ.jpg","alt":"Cover of The Melting World by Christopher White","quip":"A reported journey through glacier science and communities for readers who want the human scale behind percentage losses.","salesPriority":5,"url":"https://www.amazon.com/dp/0312546289?tag=blappos-20"},{"title":"Field Guide to Alpine Wildlife","image":"https://images-na.ssl-images-amazon.com/images/P/1399409433.01.LZZZZZZZ.jpg","alt":"Cover of Field Guide to Alpine Wildlife","quip":"A mountain-ecosystem reference for the plants and animals living around the retreating ice line.","salesPriority":4,"url":"https://www.amazon.com/dp/1399409433?tag=blappos-20"}],"source":"https://www.reuters.com/sustainability/cop/swiss-glaciers-lose-more-than-5-ice-after-record-heatwave-2026-09-30/","sourceName":"Read the October 1 Reuters report"},
-{"id":"oct1-guinea-pig","isoDate":"2026-10-01","month":"October","date":"Oct 1, 2026","place":"Grand Junction, Colorado","image":"assets/cards/oct1-guinea-pig.webp","title":"Colorado animal control ends a guinea pig's low-speed getaway","magnetUrl":"https://blappos.printify.me/product/32639490","magnetPrice":"$9.99","facts":"Grand Junction Police Department animal-control officers caught a loose guinea pig in a grassy field after approaching it with a towel and coordinating a careful grab. The department shared video of the rescue, and UPI reported it on October 1. The animal was taken to J&M Aquatics & Pet Center and was reported to be doing well; its origin had not been established.","why":"A domestic guinea pig loose outdoors faces traffic, predators, exposure and difficulty finding appropriate food, so the tiny pursuit had a real welfare purpose. The public video supports the capture sequence but not an invented owner, escape route or length of time outside. The safe lesson is to contact local animal control or a rescue rather than turn a frightened small animal into a chase.","angle":"Verified facts end above. The Blappos interpretation: Grand Junction deployed teamwork, patience and one towel to conclude the least aerodynamic pursuit in police history. The card uses an invented field, anonymous officers and a generic guinea pigâ€”not a copied video frame, identifiable employee, pet-center branding or claimed likeness of the rescued animal.","amazonLinks":[{"title":"MidWest Homes for Pets Guinea Habitat Plus","image":"https://m.media-amazon.com/images/P/B001NJ0DQ8.01.LZZZZZZZ.jpg","alt":"MidWest Homes for Pets Guinea Habitat Plus enclosure","quip":"A roomy, secure habitat aimed directly at preventing the sort of unscheduled field assignment that required a towel team.","salesPriority":5,"url":"https://www.amazon.com/dp/B001NJ0DQ8?tag=blappos-20"},{"title":"Oxbow Essentials Adult Guinea Pig Food","image":"https://m.media-amazon.com/images/P/B0017JFIDC.01.LZZZZZZZ.jpg","alt":"Bag of Oxbow Essentials Adult Guinea Pig Food","quip":"Species-appropriate daily food for the domestic animal whose outdoor menu was neither known nor recommended.","salesPriority":5,"url":"https://www.amazon.com/dp/B0017JFIDC?tag=blappos-20"},{"title":"The Guinea Pig Handbook: Vet-Approved Care for Happy, Healthy Guinea Pigs","image":"https://m.media-amazon.com/images/P/1438005091.01.LZZZZZZZ.jpg","alt":"Cover of The Guinea Pig Handbook","quip":"A care reference for housing, diet and health after the low-speed pursuit ends and responsible ownership begins.","salesPriority":4,"url":"https://www.amazon.com/dp/1438005091?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/10/01/guinea-pig-grand-junction-colorado/2421790876634/","sourceName":"Read the October 1 UPI report"},
-{"id":"oct1-two-headed-turtle","isoDate":"2026-10-01","month":"October","date":"Oct 1, 2026","place":"Cape Cod, Massachusetts","image":"assets/cards/oct1-two-headed-turtle.webp","title":"Cape Cod wildlife center monitors a rare two-headed terrapin","magnetUrl":"https://blappos.printify.me/product/32639492","magnetPrice":"$9.99","facts":"A diamondback terrapin hatchling with two heads is receiving care at Cape Wildlife Center after being found at a protected Wellfleet nesting site and transferred by Mass Audubon. UPI published the case on October 1; the wildlife center had announced the hatchling on September 17. Staff described the condition as bicephaly and said only two comparable cases had reached the center during the previous five years.","why":"Two-headed turtles can face complications with feeding, movement and organ development, so the center is tracking appetite, growth and behavior rather than declaring a prognosis from appearance alone. The report documents one living patient and an unusually careful monitoring plan; it does not establish how long the animal will live or whether both heads control the body equally.","angle":"Verified reporting ends above. The Blappos interpretation: two heads have arrived with one tiny agenda and an entire veterinary clipboard. The magnet uses an original, stylized hatchling and anonymous caregiversâ€”no patient photograph, real person's likeness, institutional mark or claim that the animal is a novelty pet.","amazonLinks":[{"title":"Turtles of the World: A Guide to Every Family","image":"https://m.media-amazon.com/images/P/069122322X.01.LZZZZZZZ.jpg","alt":"Cover of Turtles of the World","quip":"A family-by-family turtle reference that puts one extraordinary diamondback terrapin into its wider biological context.","salesPriority":5,"url":"https://www.amazon.com/dp/069122322X?tag=blappos-20"},{"title":"Ecology and Conservation of the Diamond-backed Terrapin","image":"https://m.media-amazon.com/images/P/1421426269.01.LZZZZZZZ.jpg","alt":"Cover of Ecology and Conservation of the Diamond-backed Terrapin","quip":"The species-specific scientific volume for understanding the protected coastal turtle behind this rare veterinary case.","salesPriority":5,"url":"https://www.amazon.com/dp/1421426269?tag=blappos-20"},{"title":"Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America","image":"https://m.media-amazon.com/images/P/0544129970.01.LZZZZZZZ.jpg","alt":"Cover of the Peterson Field Guide to Reptiles and Amphibians","quip":"A regional identification guide for recognizing native reptiles without treating a protected hatchling as a collectible.","salesPriority":4,"url":"https://www.amazon.com/dp/0544129970?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/10/01/diamondback-terrapin-two-heads-Cape-wildlife-center/4871790869105/","sourceName":"Read the October 1 UPI report"},
-{"id":"oct1-ambulance-photo","isoDate":"2026-10-01","month":"October","date":"Oct 1, 2026","place":"West Hollywood, California","image":"assets/cards/oct1-ambulance-photo.webp","title":"Video appears to show a photo shoot blocking an active ambulance","magnetUrl":"https://blappos.printify.me/product/32639496","magnetPrice":"$9.99","facts":"A viral video reported on October 1 appears to show two unidentified content creators using the open rear of an ambulance in West Hollywood as a photo-shoot backdrop while paramedics were trying to load a patient. The footage shows a tripod and posing in the loading path before a bystander intervenes. Reporting also noted that an online creator initially blamed for the incident denied involvement, so Blappos does not repeat that identification.","why":"The documented behavior matters because seconds and clear access can matter during patient transport, while a viral clip can also misidentify people with equal speed. The visible obstruction supports criticism of the situation; it does not establish the participants' identities, intent or anything about their private lives. That is why this story names no individual and makes no diagnosis or criminal claim.","angle":"Verified reporting and the visible-video boundary end above. The Blappos interpretation: the content can wait; the ambulance cannot. The magnet targets the public behavior with anonymous figures, a generic vehicle and an invented streetscapeâ€”no patient's likeness, medical details, copied footage, platform logo or real creator's face.","amazonLinks":[{"title":"The Influencer Industry: The Quest for Authenticity on Social Media","image":"https://m.media-amazon.com/images/P/0691231028.01.LZZZZZZZ.jpg","alt":"Cover of The Influencer Industry","quip":"A researched account of the attention economy behind the choice to turn an emergency loading zone into content.","salesPriority":5,"url":"https://www.amazon.com/dp/0691231028?tag=blappos-20"},{"title":"UBeesize Phone Tripod, Portable and Adjustable Camera Stand Holder","image":"https://m.media-amazon.com/images/P/B06Y2VP3C7.01.LZZZZZZZ.jpg","alt":"UBeesize portable phone tripod","quip":"A portable tripod that works in countless places where nobody is trying to move a patient into an ambulance.","salesPriority":5,"url":"https://www.amazon.com/dp/B06Y2VP3C7?tag=blappos-20"},{"title":"Emergency Care and Transportation of the Sick and Injured, 12th Edition Essentials Package","image":"https://m.media-amazon.com/images/P/1284227227.01.LZZZZZZZ.jpg","alt":"Emergency Care and Transportation of the Sick and Injured textbook package","quip":"The EMT training text for understanding why an ambulance loading path is operational space, not a set.","salesPriority":4,"url":"https://www.amazon.com/dp/1284227227?tag=blappos-20"}],"source":"https://www.news.com.au/lifestyle/real-life/news-life/peak-influencer-dystopia-pair-slammed-for-blocking-ambulance-during-photo-shoot/news-story/e7dd95ebdeecf3afff064a7e9d137188","sourceName":"Read the October 1 report"},
-{"id":"sep30-iraq-withdrawal","isoDate":"2026-09-30","month":"September","date":"Sep 30, 2026","place":"Iraq / United States","image":"assets/cards/sep30-iraq-withdrawal.webp","title":"U.S. forces complete withdrawal from Iraq after more than two decades","magnetUrl":"https://blappos.printify.me/product/32599208","magnetPrice":"$9.99","facts":"The final U.S. troops left Iraq on September 30, mainly departing an air base in Erbil, formally ending the U.S.-led coalition's Operation Inherent Resolve. The departure follows a withdrawal plan agreed in 2024. The Pentagon said the United States will continue targeted training and intelligence support for Iraqi partners.","why":"The withdrawal closes a military presence that began with the 2003 invasion, paused at the end of 2011 and resumed in 2014 after Islamic State seized large areas of Iraq. Reuters reported that many Iraqis welcomed the departure while also worrying about security gaps, Iran-backed militias and remaining Islamic State cells. Iraq's prime minister said the coalition mission's end transfers full security responsibility to Iraqi institutions rather than ending the fight against terrorism.","angle":"Verified reporting ends above. The Blappos interpretation: after more than two decades, the gate finally records the last set of boot prints heading out. The magnet is deliberately restrained and uses an invented road, open gate, generic convoy and empty printsâ€”not flags, insignia, politicians, soldiers' faces or licensed war photography.","amazonLinks":[{"title":"The Forever War","image":"https://m.media-amazon.com/images/P/0307279448.01.LZZZZZZZ.jpg","alt":"Cover of The Forever War by Dexter Filkins","quip":"Reported history from Iraq and Afghanistan for understanding what a two-decade military presence looked like beyond a departure date.","salesPriority":5,"url":"https://www.amazon.com/dp/0307279448?tag=blappos-20"},{"title":"Black Hearts","image":"https://m.media-amazon.com/images/P/0307450767.01.LZZZZZZZ.jpg","alt":"Cover of Black Hearts by Jim Frederick","quip":"A closely reported account of one U.S. unit in Iraq and the institutional pressures behind the broad phrase 'the war.'","salesPriority":5,"url":"https://www.amazon.com/dp/0307450767?tag=blappos-20"},{"title":"Fiasco: The American Military Adventure in Iraq","image":"https://m.media-amazon.com/images/P/0143038915.01.LZZZZZZZ.jpg","alt":"Cover of Fiasco by Thomas E. Ricks","quip":"A documented study of the invasion and early occupation for readers looking past a ceremonial final convoy.","salesPriority":5,"url":"https://www.amazon.com/dp/0143038915?tag=blappos-20"}],"source":"https://www.reuters.com/world/us-forces-exit-iraq-emboldening-irans-proxies-islamic-state-2026-09-30/","sourceName":"Read the September 30 Reuters report"},
-{"id":"sep30-street-shark","isoDate":"2026-09-30","month":"September","date":"Sep 30, 2026","place":"Surf City, New Jersey","image":"assets/cards/sep30-street-shark.webp","title":"Shark swims down a flooded New Jersey street after a nor'easter","magnetUrl":"https://blappos.printify.me/product/32599213","magnetPrice":"$9.99","facts":"A Surf City resident recorded a small shark swimming through a flooded residential road on Long Beach Island after a powerful nor'easter pushed bay water into coastal neighborhoods. The dorsal fin and body were visible between homes while floodwater covered the street. UPI and The Philadelphia Inquirer published the footage on September 30.","why":"The visual is extraordinary, but it sits inside a real coastal-flooding event that damaged property and disrupted communities along the East Coast. Reporting described the animal as a small shark; the footage alone does not justify a more precise species claim. The useful takeaway is not that sharks have taken up commuting, but that storm surge can temporarily erase the ordinary boundary between bay and street.","angle":"Verified facts end above. The Blappos interpretation: Surf City's newest traffic pattern has one lane, two fins and absolutely no turn signal. The magnet uses an invented coastal street and generic small sharkâ€”not a copied video frame, a resident's home, disaster victim or licensed photograph.","amazonLinks":[{"title":"Sharks of the World: A Complete Guide","image":"https://m.media-amazon.com/images/P/069120599X.01.LZZZZZZZ.jpg","alt":"Cover of Sharks of the World A Complete Guide","quip":"A serious species guide for everyone who saw one fin in floodwater and immediately promoted it to mayor.","salesPriority":5,"url":"https://www.amazon.com/dp/069120599X?tag=blappos-20"},{"title":"National Audubon Society Field Guide to Fishes, Whales, and Dolphins","image":"https://m.media-amazon.com/images/P/0394534050.01.LZZZZZZZ.jpg","alt":"Cover of the National Audubon Society Field Guide to Fishes Whales and Dolphins","quip":"North American fish identification for narrowing the gap between 'shark' and a responsible species claim.","salesPriority":5,"url":"https://www.amazon.com/dp/0394534050?tag=blappos-20"},{"title":"The Disaster-Ready Home","image":"https://m.media-amazon.com/images/P/1507217366.01.LZZZZZZZ.jpg","alt":"Cover of The Disaster-Ready Home by Creek Stewart","quip":"Practical household preparedness for the weather emergency surrounding the spectacular neighborhood visitor.","salesPriority":5,"url":"https://www.amazon.com/dp/1507217366?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/09/30/shark-flooded-road-Surf-City-new-jersey/2471790789410/","sourceName":"Read the September 30 UPI report"},
-{"id":"sep30-bat-origins","isoDate":"2026-09-30","month":"September","date":"Sep 30, 2026","place":"Europe / Global research consortium","image":"assets/cards/sep30-bat-origins.webp","title":"Largest bat genome-and-fossil study traces mammalian flight to ancient Europe","magnetUrl":"https://blappos.printify.me/product/32599219","magnetPrice":"$9.99","facts":"A study combining 103 bat genomes, including representatives of all 21 recognized living bat families, with morphological data from living species and 44 pre-Quaternary fossils found that batsâ€”and therefore mammalian powered flightâ€”most likely originated in Europe in the late Paleocene. ScienceDaily published its University College Dublin summary on September 30; the peer-reviewed Nature paper was published September 23.","why":"The result revises earlier hypotheses that placed bat origins in Africa, Asia or North America. The analysis also places a fossil from the oldest bat branch in a position suggesting laryngeal echolocation predates the diversification of modern bats. The authors describe a most-likely reconstruction from combined genomic and fossil models, not a camera-ready record of the first bat taking off.","angle":"Verified evidence ends above. The Blappos interpretation: Europe hosted the original night flight roughly 65 million years before anyone charged for a checked bag. The magnet uses invented bats, sonar rings, landscape and fossil silhouettesâ€”not a copied scientific figure, institutional mark or precise paleogeographic map.","amazonLinks":[{"title":"Bats: An Illustrated Guide to All Species","image":"https://m.media-amazon.com/images/P/1588346471.01.LZZZZZZZ.jpg","alt":"Cover of Bats An Illustrated Guide to All Species","quip":"A global visual reference for the extraordinary modern diversity descended from that ancient family tree.","salesPriority":5,"url":"https://www.amazon.com/dp/1588346471?tag=blappos-20"},{"title":"The Secret Lives of Bats","image":"https://m.media-amazon.com/images/P/0544382277.01.LZZZZZZZ.jpg","alt":"Cover of The Secret Lives of Bats by Merlin Tuttle","quip":"Field stories and biology for understanding the mammals behind the genome assemblies and fossil matrices.","salesPriority":5,"url":"https://www.amazon.com/dp/0544382277?tag=blappos-20"},{"title":"British Bat Calls: A Guide to Species Identification","image":"https://m.media-amazon.com/images/P/190780725X.01.LZZZZZZZ.jpg","alt":"Cover of British Bat Calls by Jon Russ","quip":"A Europe-focused guide to the echolocation trait the new family tree places near the dawn of bat evolution.","salesPriority":5,"url":"https://www.amazon.com/dp/190780725X?tag=blappos-20"}],"source":"https://www.sciencedaily.com/releases/2026/09/260929053531.htm","sourceName":"Read the September 30 research summary"},
-{"id":"sep30-fire-handstand","isoDate":"2026-09-30","month":"September","date":"Sep 30, 2026","place":"Vienna, Austria","image":"assets/cards/sep30-fire-handstand.webp","title":"Stunt professional holds a flaming handstand for 47 seconds","magnetUrl":"https://blappos.printify.me/product/32599227","magnetPrice":"$9.99","facts":"Slovenian gymnast and stunt coordinator Filip KrÅ¾iÅ¡nik held a full-body-burn handstand for 47 seconds in Vienna on March 4, establishing a Guinness World Records title. Guinness published the documented result on September 30. He trained with weighted timed handstands, controlled breathing and full-body-burn rehearsals.","why":"The feat was a professional production, not a social-media challenge: Guinness said trained crew stood by with fire extinguishers and explicitly warned that the stunt should only be attempted by trained professionals. KrÅ¾iÅ¡nik estimated he had performed about 10,000 ordinary handstands before adding fire. The long preparation and visible safety team are part of the record, not background decoration.","angle":"Verified facts end above. The Blappos interpretation: 47 seconds upside down and on fire is one way to make an ordinary Tuesday meeting feel efficient. The product targets the documented feat, keeps the performer anonymous and visibly includes an invented safety crewâ€”it uses no name, face, Guinness mark or copied event image.","amazonLinks":[{"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The official reference for feats that require adjudicators, rehearsals and more extinguishers than an office kitchen.","salesPriority":5,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"},{"title":"Stuntman: My Car-Crashing, Plane-Jumping, Bone-Breaking, Death-Defying Hollywood Life","image":"https://m.media-amazon.com/images/P/0316078999.01.LZZZZZZZ.jpg","alt":"Cover of Stuntman by Hal Needham","quip":"A veteran stunt coordinator's memoir for context on the training and logistics behind apparently impossible screen work.","salesPriority":5,"url":"https://www.amazon.com/dp/0316078999?tag=blappos-20"},{"title":"First Aid Manual, 11th Edition","image":"https://m.media-amazon.com/images/P/0241446309.01.LZZZZZZZ.jpg","alt":"Cover of DK First Aid Manual eleventh edition","quip":"Emergency guidance for ordinary incidents; emphatically not a manual for reproducing a full-body-burn record.","salesPriority":5,"url":"https://www.amazon.com/dp/0241446309?tag=blappos-20"}],"source":"https://www.guinnessworldrecords.com/news/2026/9/stuntman-set-on-fire-while-doing-a-handstand-holds-position-for-record-breaking-time","sourceName":"Read the September 30 Guinness World Records report"},
-{"id":"sep29-spr-loan","isoDate":"2026-09-29","month":"September","date":"Sep 29, 2026","place":"Washington, D.C. / U.S. energy markets","image":"assets/cards/sep29-spr-loan.webp","title":"U.S. offers 40 million barrels from emergency reserve as fuel prices stay high","magnetUrl":"https://blappos.printify.me/product/32562438","magnetPrice":"$9.99","facts":"The U.S. government said on September 29 that energy companies may apply to borrow as much as 40 million barrels of crude from the Strategic Petroleum Reserve. The offer is the final U.S. tranche of a March agreement under which about 30 International Energy Agency countries pledged a combined 400 million barrels after the war with Iran disrupted markets. Companies have until October 6 to submit proposals.","why":"This is a loan, not a simple sale: participating companies are expected to repay the reserve in crude, with premiums of as much as 24%, and returns are not scheduled to finish until late 2028. The reserve was already below 284 million barrelsâ€”its lowest level since 1982â€”while U.S. gasoline and diesel prices remained sharply above prewar levels. The policy may add near-term supply, but it also pushes replenishment and operational limits into the next two years.","angle":"Verified facts end above. The Blappos interpretation: the emergency cupboard is offering a take-one-leave-more-later program, except each item is a barrel and the receipt runs to 2028. The magnet uses an invented salt-cavern cutaway, tanker and arrowsâ€”not a government seal, company logo, politician or licensed news photograph.","amazonLinks":[{"title":"Oil 101","image":"https://m.media-amazon.com/images/P/0982039204.01.LZZZZZZZ.jpg","alt":"Cover of Oil 101 by Morgan Downey","quip":"A practical map of refining, storage, transport and pricing for understanding what a forty-million-barrel loan actually touches.","salesPriority":5,"url":"https://www.amazon.com/dp/0982039204?tag=blappos-20"},{"title":"The Prize: The Epic Quest for Oil, Money & Power","image":"https://m.media-amazon.com/images/P/1439110123.01.LZZZZZZZ.jpg","alt":"Cover of The Prize by Daniel Yergin","quip":"The long history behind the substance that keeps turning salt caverns into instruments of national policy.","salesPriority":5,"url":"https://www.amazon.com/dp/1439110123?tag=blappos-20"},{"title":"The Quest: Energy, Security, and the Remaking of the Modern World","image":"https://m.media-amazon.com/images/P/0143121944.01.LZZZZZZZ.jpg","alt":"Cover of The Quest by Daniel Yergin","quip":"Energy security in book form for the moment when emergency reserves become part of a thirty-country market intervention.","salesPriority":5,"url":"https://www.amazon.com/dp/0143121944?tag=blappos-20"}],"source":"https://www.reuters.com/business/energy/us-release-40-million-barrels-crude-strategic-petroleum-reserve-energy-2026-09-29/","sourceName":"Read the September 29 Reuters report"},
-{"id":"sep29-dog-pool","isoDate":"2026-09-29","month":"September","date":"Sep 29, 2026","place":"Las Vegas, Nevada","image":"assets/cards/sep29-dog-pool.webp","title":"296 dogs take over a Las Vegas water park and break a pool-party record","magnetUrl":"https://blappos.printify.me/product/32562450","magnetPrice":"$9.99","facts":"Doodlepalooza gathered 296 doodles and poodle mixes with their families at Cowabunga Canyon in Las Vegas on September 27. A Guinness World Records adjudicator counted the qualifying dogs and confirmed a new record for most dogs attending a dog pool party, surpassing the previous mark of 276 set in Florida in May. UPI reported the result on September 29.","why":"The event was more than an unusually wet head count. It raised money and attention for Doodle Rescue USA, whose work includes veterinary care, grooming, foster placement, transport, behavior assessment and adoption. The record category is narrow and the event was controlled: shallow water areas, owners present and an on-site adjudicator. That does not make an ordinary pool safe for every dog without supervision, suitable entry points and attention to swimming ability.","angle":"Verified facts end above. The Blappos interpretation: 296 dogs entered the wave pool and every available towel immediately became a theoretical object. The magnet uses invented dogs and an original water-park sceneâ€”not event photography, sponsor branding, record marks or any specific pet's likeness.","amazonLinks":[{"title":"Outward Hound Granby Splash Dog Life Jacket","image":"https://m.media-amazon.com/images/P/B08Z22KDFT.01.LZZZZZZZ.jpg","alt":"Pink Outward Hound Granby Splash dog life jacket","quip":"Buoyancy, a rescue handle and visible color for supervised canine water timeâ€”not a substitute for watching the dog.","salesPriority":5,"url":"https://www.amazon.com/dp/B08Z22KDFT?tag=blappos-20"},{"title":"Canine Enrichment for the Real World","image":"https://m.media-amazon.com/images/P/1617812684.01.LZZZZZZZ.jpg","alt":"Cover of Canine Enrichment for the Real World","quip":"A science-minded guide to meeting a dog's needs when the wave pool is not available for private bookings.","salesPriority":5,"url":"https://www.amazon.com/dp/1617812684?tag=blappos-20"},{"title":"Doggie Language","image":"https://m.media-amazon.com/images/P/1787837017.01.LZZZZZZZ.jpg","alt":"Cover of Doggie Language by Lili Chin","quip":"Body-language help for telling the difference between delighted splashing and a dog asking to leave the party.","salesPriority":5,"url":"https://www.amazon.com/dp/1787837017?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/09/29/Guinness-World-Records-dog-pool-party-doodlepalooza/6881790694143/","sourceName":"Read the September 29 UPI report"},
-{"id":"sep29-skydiver-rescue","isoDate":"2026-09-29","month":"September","date":"Sep 29, 2026","place":"East Troy, Wisconsin","image":"assets/cards/sep29-skydiver-rescue.webp","title":"Skydivers parachute into a Wisconsin cornfield to aid plane-crash survivors","magnetUrl":"https://blappos.printify.me/product/32562451","magnetPrice":"$9.99","facts":"Three experienced skydivers aboard a Skydive Milwaukee aircraft saw a single-engine plane carrying four people crash into a cornfield near East Troy on September 27. After the jump pilot reported the crash, the three parachuted near the difficult-to-reach site. At least two had former paramedic training, and one treated a woman with a serious head injury until ground responders arrived. The Guardian reported the rescue on September 29.","why":"All four people aboard the crashed plane survived; three went to a hospital and one was treated at the scene. The result depended on a rare overlap of timing, skill and emergency training, not on spectators improvising a dangerous jump. The National Transportation Safety Board opened an investigation into the crash, so the cause remains an official inquiry rather than a Blappos conclusion.","angle":"Verified facts end above. The Blappos interpretation: first responders arrived by the only route the cornfield had left openâ€”straight down. The magnet keeps the jumpers and passengers anonymous and uses a generic aircraft, parachutes and first-aid bagâ€”not faces, company marks, an injury scene or licensed footage.","amazonLinks":[{"title":"Skydiver's Information Manual 2026","image":"https://m.media-amazon.com/images/P/B0GCG87BPZ.01.LZZZZZZZ.jpg","alt":"Cover of the United States Parachute Association Skydiver's Information Manual 2026","quip":"The current U.S. reference for the training and procedures behind a jump that should never be mistaken for improvisation.","salesPriority":5,"url":"https://www.amazon.com/dp/B0GCG87BPZ?tag=blappos-20"},{"title":"Parachuting: The Skydiver's Handbook","image":"https://m.media-amazon.com/images/P/1568601417.01.LZZZZZZZ.jpg","alt":"Cover of Parachuting The Skydiver's Handbook","quip":"A technical handbook for the part of this rescue that began thousands of feet before the first medical assessment.","salesPriority":5,"url":"https://www.amazon.com/dp/1568601417?tag=blappos-20"},{"title":"First Aid Manual, 11th Edition","image":"https://m.media-amazon.com/images/P/0241446309.01.LZZZZZZZ.jpg","alt":"Cover of DK First Aid Manual eleventh edition","quip":"Step-by-step emergency guidance for trained responders and bystanders who reach the scene by more conventional routes.","salesPriority":5,"url":"https://www.amazon.com/dp/0241446309?tag=blappos-20"}],"source":"https://www.theguardian.com/us-news/2026/sep/29/skydivers-paramedics-plane-crash-victims","sourceName":"Read the September 29 Guardian report"},
-{"id":"sep29-jet-ski-stunt","isoDate":"2026-09-29","month":"September","date":"Sep 29, 2026","place":"Bangkok, Thailand","image":"assets/cards/sep29-jet-ski-stunt.webp","title":"Jet ski stunt on flooded Bangkok street ends with jail, fine and confiscation","magnetUrl":"https://blappos.printify.me/product/32562459","magnetPrice":"$9.99","facts":"A 27-year-old man rode a jet ski along flooded New Phetchaburi Road while vehicles and residents were navigating a wider flood emergency. Video showed the craft making sharp turns and producing large waves. Makkasan police detained the rider and charged him with causing a public nuisance and obstructing traffic; a court reduced a one-month jail sentence and 10,000-baht fine to 15 days and 5,000 baht after a guilty plea and cooperation, and ordered the jet ski confiscated. India Today reported the case on September 29.","why":"The waves were not harmless stage effects: floodwater was already surrounding stalled vehicles, homes and public infrastructure during a disaster that had killed at least 23 people across Thailand by September 29. Authorities also charged the person recording the stunt. The broader lesson is behavioral and specificâ€”turning an emergency route into content can add wake, risk and obstruction for people who did not consent to the show.","angle":"Verified reporting ends above. The rider said he wanted to make people smile; the court supplied a less ambiguous review. The Blappos product targets the documented stunt, not the private person's appearance or life, and uses an anonymous helmeted figure, generic jet ski and invented flooded streetâ€”not a name, face, brand or copied video frame.","amazonLinks":[{"title":"The Disaster-Ready Home","image":"https://m.media-amazon.com/images/P/1507217366.01.LZZZZZZZ.jpg","alt":"Cover of The Disaster-Ready Home by Creek Stewart","quip":"A preparedness manual for treating a flood as a household emergency instead of an unsolicited motorsport venue.","salesPriority":5,"url":"https://www.amazon.com/dp/1507217366?tag=blappos-20"},{"title":"The Unthinkable (Revised and Updated)","image":"https://m.media-amazon.com/images/P/0593796721.01.LZZZZZZZ.jpg","alt":"Cover of The Unthinkable by Amanda Ripley","quip":"The science of disaster behavior for everyone sharing the road with one person auditioning for a very short highlight reel.","salesPriority":5,"url":"https://www.amazon.com/dp/0593796721?tag=blappos-20"},{"title":"National Geographic Readers: Storms!","image":"https://m.media-amazon.com/images/P/1426303947.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Readers Storms","quip":"A clear introduction to extreme weather for readers who need the crucial distinction between floodwater and a water park.","salesPriority":5,"url":"https://www.amazon.com/dp/1426303947?tag=blappos-20"}],"source":"https://www.indiatoday.in/world/story/bangkok-floods-jet-ski-rider-jailed-after-viral-stunt-on-submerged-road-3006022-2026-09-29","sourceName":"Read the September 29 India Today report"},
-{"id":"sep28-starship-orbit","isoDate":"2026-09-28","month":"September","date":"Sep 28, 2026","place":"South Texas / Earth orbit","image":"assets/cards/sep28-starship-orbit.webp","title":"Starship reaches orbit for the first time, then returns three hours into a ten-hour mission","magnetUrl":"https://blappos.printify.me/product/32526235","magnetPrice":"$9.99","facts":"SpaceX's Starship reached orbit for the first time on September 28 and deployed 26 advanced Starlink satellites. The planned ten-hour, six-orbit flight ended after about three hours and two orbits when the company brought the vehicle home early following an engine shutdown. Starship survived re-entry, splashed down in the northern Pacific and then tipped over and caught fire.","why":"The flight combined a genuine milestone with a shortened test. Reaching orbit and deploying payloads advances a launch system intended to carry larger satellite batches and support NASA's Artemis moon plans, while the early engine shutdown leaves engineers with a new reliability problem to understand. A safe return demonstrates progress; it does not turn a partial mission into a fully completed one.","angle":"Verified facts end above. The Blappos interpretation: orbit finally stamped the passport, but the return ticket still came with three hours of notes. The magnet uses a generic rocket, invented satellites and original copyâ€”not a company logo, named vehicle likeness or news photograph.","amazonLinks":[{"title":"Rocket Propulsion Elements, Ninth Edition","image":"https://m.media-amazon.com/images/P/1118753658.01.LZZZZZZZ.jpg","alt":"Cover of Rocket Propulsion Elements, ninth edition","quip":"The engineering textbook for the part of the mission where every engine is expected to keep its appointment.","salesPriority":5,"url":"https://www.amazon.com/dp/1118753658?tag=blappos-20"},{"title":"Fundamentals of Astrodynamics","image":"https://m.media-amazon.com/images/P/0486600610.01.LZZZZZZZ.jpg","alt":"Cover of Fundamentals of Astrodynamics","quip":"Orbit determination and two-body mechanics for understanding why reaching orbit is a very different claim from completing the flight plan.","salesPriority":5,"url":"https://www.amazon.com/dp/0486600610?tag=blappos-20"},{"title":"Packing for Mars: The Curious Science of Life in the Void","image":"https://m.media-amazon.com/images/P/0393339912.01.LZZZZZZZ.jpg","alt":"Cover of Packing for Mars by Mary Roach","quip":"The human side of spaceflight for the launch system that ultimately hopes to carry more than satellites.","salesPriority":5,"url":"https://www.amazon.com/dp/0393339912?tag=blappos-20"}],"source":"https://apnews.com/article/262d3c58d56bf7a525b49115d6c5dfe8","sourceName":"Read the September 28 Associated Press report"},
-{"id":"sep28-tortoise-escape","isoDate":"2026-09-28","month":"September","date":"Sep 28, 2026","place":"Littleton, Colorado","image":"assets/cards/sep28-tortoise-escape.webp","title":"Nearly 100-pound tortoise stages the worldâ€™s slowest escape","magnetUrl":"https://blappos.printify.me/product/32526240","magnetPrice":"$9.99","facts":"The Jefferson County Sheriff's Office released video on September 28 from an August 31 animal-control call involving Lard, a nearly 100-pound sulcata tortoise. Lard had escaped a fenced yard in Littleton, and his owner could not persuade him to return. An animal-control officer and a bystander lifted the uninjured tortoise and carried him home.","why":"The report is funny because the escapee was slow and extremely difficult to move, but it also illustrates the long-term scale of keeping a sulcata tortoise. These animals can become very large, require secure enclosures and should be handled with appropriate help rather than dragged or improvised as luggage. The publication date and incident date are different, so both are stated.","angle":"Verified facts end above. The Blappos interpretation: top speed was eventually, but the getaway vehicle required two adults and a negotiated surrender. The magnet uses an invented tortoise and anonymous gloved handsâ€”not the animal-control video, a private home or the pet's photographic likeness.","amazonLinks":[{"title":"Sulcata Tortoise Pet Owners Guide","image":"https://m.media-amazon.com/images/P/1788652967.01.LZZZZZZZ.jpg","alt":"Cover of Sulcata Tortoise Pet Owners Guide by Ben Team","quip":"Species-specific husbandry for the tiny pet whose long-term floor plan may eventually include most of the yard.","salesPriority":5,"url":"https://www.amazon.com/dp/1788652967?tag=blappos-20"},{"title":"Tortoises as Pets: Owner's Guide","image":"https://m.media-amazon.com/images/P/1910861510.01.LZZZZZZZ.jpg","alt":"Cover of Tortoises as Pets by Ben Team","quip":"Care, habitat and behavior background for understanding why a heavy shell still needs a serious enclosure.","salesPriority":5,"url":"https://www.amazon.com/dp/1910861510?tag=blappos-20"},{"title":"Zoo Med Repti Calcium Without D3, 8 Ounce","image":"https://m.media-amazon.com/images/P/B000UJPHL8.01.LZZZZZZZ.jpg","alt":"Jar of Zoo Med Repti Calcium without vitamin D3","quip":"A reptile supplement whose use belongs in a species-appropriate care planâ€”not in an emergency escape-recapture improvisation.","salesPriority":5,"url":"https://www.amazon.com/dp/B000UJPHL8?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/09/28/tortoise-Jefferson-County-Colorado/9431790610409/","sourceName":"Read the September 28 UPI report"},
-{"id":"sep28-hula-team","isoDate":"2026-09-28","month":"September","date":"Sep 28, 2026","place":"Boise, Idaho","image":"assets/cards/sep28-hula-team.webp","title":"Three-year-old and dad jump through one hoop nine times for a world record","magnetUrl":"https://blappos.printify.me/product/32526243","magnetPrice":"$9.99","facts":"Idaho record-breaker David Rush and his three-year-old daughter attempted the Guinness World Records title for most passes through a back-spun hula hoop in 30 seconds. They crossed the hoop ten times, but one pass was disqualified, leaving nine valid passesâ€”one more than the standing record of eight. Rush said the official certificate arrived several weeks later.","why":"The number is small enough to sound easy until coordination, timing and a moving hoop all have to agree within 30 seconds. The account also matters as a family story: Rush said they practiced only when his daughter wanted to, keeping a public record attempt subordinate to a preschooler's consent and enjoyment.","angle":"Verified facts end above. The Blappos interpretation: nine official passes, one tiny teammate and a world record with a bedtime. The magnet keeps both people anonymous and uses simplified silhouettes and an invented hoopâ€”not their names, faces, footage or Guinness branding.","amazonLinks":[{"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The annual collection for checking what nine clean hoop passes look like after the adjudicators finish counting.","salesPriority":5,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"},{"title":"S&S Worldwide No-Knott Hula Hoops Set of 18","image":"https://m.media-amazon.com/images/P/B07M7FD2NC.01.LZZZZZZZ.jpg","alt":"Set of colorful S and S Worldwide No-Knott hula hoops","quip":"Multiple sizes for the practice session that ends when the youngest teammate says the practice session ends.","salesPriority":5,"url":"https://www.amazon.com/dp/B07M7FD2NC?tag=blappos-20"},{"title":"101 Kids Activities That Are the Bestest, Funnest Ever!","image":"https://m.media-amazon.com/images/P/1624140572.01.LZZZZZZZ.jpg","alt":"Cover of 101 Kids Activities That Are the Bestest, Funnest Ever","quip":"A parent-and-child activity bank for days when the record book is optional and the fun is the whole event.","salesPriority":5,"url":"https://www.amazon.com/dp/1624140572?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/09/28/Guinness-World-Records-David-Rush-hula-hoop-passes/6401790616766/","sourceName":"Read the September 28 UPI report"},
-{"id":"sep27-strait-talk","isoDate":"2026-09-27","month":"September","date":"Sep 27, 2026","place":"Strait of Hormuz / New York","image":"assets/cards/sep27-strait-talk.webp","title":"Iran says diplomacy is the only route after U.S. rejects Strait of Hormuz plan","magnetUrl":"https://blappos.printify.me/product/32492926","magnetPrice":"$9.99","facts":"Iranian President Masoud Pezeshkian said on September 27 that only diplomacy could resolve the conflict after President Donald Trump publicly rejected a proposal intended to reopen the Strait of Hormuz. Reuters reported that the plan was transmitted through Qatar during the U.N. General Assembly and that Iran tied reopening the waterway to a broader agreement; mediators had not formally relayed the U.S. rejection to Tehran when the report was filed.","why":"The Strait is a critical route for energy and commercial shipping, so the difference between a public rejection and a formally transmitted negotiating position matters. The statement did not produce an agreement or reopen the waterway. It did show that both the physical shipping channel and the diplomatic channel remained central to what happens next.","angle":"Verified facts end above. The Blappos interpretation: when one narrow passage carries both tankers and the world's most consequential group chat, somebody has to keep the line open. The magnet uses an invented red telephone, anonymous ships and an original mapâ€”not a leader's name, likeness, national emblem or news photograph.","amazonLinks":[{"title":"Getting to Yes: Negotiating Agreement Without Giving In","image":"https://images-na.ssl-images-amazon.com/images/P/0143118757.01.LZZZZZZZ.jpg","alt":"Cover of Getting to Yes by Roger Fisher, William Ury and Bruce Patton","quip":"The classic guide to separating positions from interests when the negotiating table has a shipping lane running through it.","salesPriority":5,"url":"https://www.amazon.com/dp/0143118757?tag=blappos-20"},{"title":"Diplomacy","image":"https://images-na.ssl-images-amazon.com/images/P/0671510991.01.LZZZZZZZ.jpg","alt":"Cover of Diplomacy by Henry Kissinger","quip":"Historical context for the slow machinery that continues working after a proposal meets a public no.","salesPriority":5,"url":"https://www.amazon.com/dp/0671510991?tag=blappos-20"},{"title":"Prisoners of Geography: Ten Maps That Explain Everything About the World","image":"https://images-na.ssl-images-amazon.com/images/P/1501121472.01.LZZZZZZZ.jpg","alt":"Cover of Prisoners of Geography by Tim Marshall","quip":"A map-led explanation of why narrow waterways keep acquiring very large geopolitical consequences.","salesPriority":5,"url":"https://www.amazon.com/dp/1501121472?tag=blappos-20"}],"source":"https://www.gulf-times.com/article/716995/international/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan","sourceName":"Read the September 27 Reuters report via Gulf Times"},
-{"id":"sep27-snake-golf","isoDate":"2026-09-27","month":"September","date":"Sep 27, 2026","place":"San Antonio, Texas","image":"assets/cards/sep27-snake-golf.webp","title":"Snake swallows three golf balls; veterinarians finish the round without surgery","magnetUrl":"https://blappos.printify.me/product/32492929","magnetPrice":"$9.99","facts":"Veterinarians at South Texas Avian & Exotic Hospital treated a snake that had swallowed three golf balls after apparently mistaking them for eggs. The September 27 report showed the heavily sedated animal while the team manually moved each ball toward its mouth and removed all three without surgery.","why":"Swallowed foreign objects can obstruct or injure an animal, and improvised removal can make the damage worse. The useful part of this absurd image is the professional response: sedation, controlled handling and veterinary judgment avoided an operation in this case. It is not a do-it-yourself technique for a pet or wild snake.","angle":"Verified facts end above. The snake played three balls over par, skipped the clubhouse and still received a medical scorecard marked 'no incision.' The collectible uses an original X-ray-style illustration and anonymous gloved handsâ€”not clinic footage, a real specimen image or a veterinary endorsement.","amazonLinks":[{"title":"Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America","image":"https://images-na.ssl-images-amazon.com/images/P/0544129970.01.LZZZZZZZ.jpg","alt":"Cover of the Peterson Field Guide to Reptiles and Amphibians","quip":"A field guide for identifying the reptile before deciding whether the thing beside it is habitat, hazard or lunch.","salesPriority":5,"url":"https://www.amazon.com/dp/0544129970?tag=blappos-20"},{"title":"The Book of Snakes: A Life-Size Guide to Six Hundred Species from Around the World","image":"https://images-na.ssl-images-amazon.com/images/P/022645939X.01.LZZZZZZZ.jpg","alt":"Cover of The Book of Snakes by Mark O'Shea","quip":"Six hundred species, none of whose official diets include a sleeve of regulation golf balls.","salesPriority":5,"url":"https://www.amazon.com/dp/022645939X?tag=blappos-20"},{"title":"Callaway Golf Warbird Golf Balls, 12-Pack","image":"https://images-na.ssl-images-amazon.com/images/P/B0BMGYWVSH.01.LZZZZZZZ.jpg","alt":"Box of white Callaway Warbird golf balls","quip":"A dozen golf balls for fairways, practice greens and every location that is not inside a snake.","salesPriority":5,"url":"https://www.amazon.com/dp/B0BMGYWVSH?tag=blappos-20"}],"source":"https://www.ndtv.com/offbeat/video-snake-swallows-3-golf-balls-veterinarians-pull-off-incredible-rescue-without-surgery-12104482","sourceName":"Read the September 27 NDTV report"},
-{"id":"sep27-rainy-repair","isoDate":"2026-09-27","month":"September","date":"Sep 27, 2026","place":"Japan","image":"assets/cards/sep27-rainy-repair.webp","title":"Japanese bicycle mechanic fixes crash damage for free; rider returns with lunch","magnetUrl":"https://blappos.printify.me/product/32492932","magnetPrice":"$9.99","facts":"An Indian woman living in Japan said she fell from her bicycle in the rain and bent its handlebar. According to the September 27 report, a nearby bicycle-shop owner first checked whether she was hurt, repaired the bicycle during his lunch break, refused payment and gave her wet-road safety advice. She later returned with a hot meal as thanks.","why":"The account is a small, attributed human story rather than a claim about an entire country or culture. Its value is the documented sequence of practical care: check the person, fix the immediate problem, decline a fee and share safety guidance. The rider's return with lunch turned help into reciprocity rather than a one-sided viral anecdote.","angle":"Verified reporting ends above. The repair price was zero; the exchange rate was one working bicycle for one hot lunch. The magnet keeps both people anonymous and illustrates hands, tools, rain and a meal rather than reproducing a private person's likeness or social-media post.","amazonLinks":[{"title":"Zinn & the Art of Road Bike Maintenance","image":"https://images-na.ssl-images-amazon.com/images/P/193771537X.01.LZZZZZZZ.jpg","alt":"Cover of Zinn and the Art of Road Bike Maintenance","quip":"A comprehensive repair guide for handlebars, brakes and the many parts that object to meeting wet pavement.","salesPriority":5,"url":"https://www.amazon.com/dp/193771537X?tag=blappos-20"},{"title":"Bike Repair and Maintenance For Dummies","image":"https://images-na.ssl-images-amazon.com/images/P/0470415800.01.LZZZZZZZ.jpg","alt":"Cover of Bike Repair and Maintenance For Dummies","quip":"A plain-language workshop companion for learning which fixes are routine and when a professional should take over.","salesPriority":5,"url":"https://www.amazon.com/dp/0470415800?tag=blappos-20"},{"title":"The Little Book of Kindness","image":"https://images-na.ssl-images-amazon.com/images/P/1409172619.01.LZZZZZZZ.jpg","alt":"Cover of The Little Book of Kindness by Bernadette Russell","quip":"Everyday acts of care for the shop where 'no price' became the most memorable line on the receipt.","salesPriority":5,"url":"https://www.amazon.com/dp/1409172619?tag=blappos-20"}],"source":"https://www.ndtv.com/offbeat/indian-woman-shares-touching-act-of-kindness-after-bicycle-accident-in-japan-internet-reacts-12105868","sourceName":"Read the September 27 NDTV report"},
- {"id":"sep26-clean-air","isoDate":"2026-09-26","month":"September","date":"Sep 26, 2026","place":"Indoor air","image":"assets/cards/sep26-clean-air.webp","title":"Scented cleaners can fill indoor air with invisible nanoparticles","magnetUrl":"https://blappos.printify.me/product/32456093","magnetPrice":"$9.99","facts":"Researchers presenting at the American Chemical Society's Fall 2026 meeting reported that fragrance compounds released by cleaning products can react with indoor ozone and quickly form ultrafine particles. In their test rooms, the resulting particles were about 1 to 30 nanometers wide; the team reported exposures in the billions or trillions of particles and said some estimated doses matched or exceeded exposure near busy roads.","why":"Ultrafine particles are small enough to reach deep into the lungs, but this presentation measured formation and exposure rather than proving a specific illness from ordinary cleaning. The practical finding is narrower and useful: fragrance-free products, good ventilation and avoiding ozone-generating devices can reduce the chemistry that creates the particles indoors.","angle":"Verified facts end above. A room can smell like citrus and still be running a tiny atmospheric-chemistry lab. The magnet keeps the advice simple: clean air's ideal fragrance is nothing.","amazonLinks":[{"title":"Seventh Generation Free & Clear All-Purpose Cleaner","image":"https://m.media-amazon.com/images/I/71vWNI9R1qL._AC_SL1500_.jpg","alt":"Bottle of Seventh Generation Free and Clear fragrance-free all-purpose cleaner","quip":"A fragrance-free cleaning option for removing the mess without adding a citrus chemistry experiment.","salesPriority":5,"url":"https://www.amazon.com/dp/B07LDSF41G?tag=blappos-20"},{"title":"Amazon Basics HEPA Air Purifier","image":"https://m.media-amazon.com/images/I/71Gc0y8pvbL._AC_SL1500_.jpg","alt":"White Amazon Basics HEPA air purifier","quip":"Filtration and a built-in air-quality indicator for the room where the invisible guests have no invitation.","salesPriority":5,"url":"https://www.amazon.com/dp/B0CL993435?tag=blappos-20"},{"title":"Temtop M10 Air Quality Monitor","image":"https://m.media-amazon.com/images/I/51yrz0WFrkL._SL1200_.jpg","alt":"Temtop M10 indoor air quality monitor with display","quip":"A PM2.5 and VOC monitor for broader indoor-air awarenessâ€”not a detector for the ultrafine particles in this study.","salesPriority":5,"url":"https://www.amazon.com/dp/B07DTM97SY?tag=blappos-20"}],"source":"https://www.sciencedaily.com/releases/2026/09/260925093152.htm","sourceName":"Read the September 26 research report"},
- {"id":"sep26-lagos-cinema","isoDate":"2026-09-26","month":"September","date":"Sep 26, 2026","place":"Lagos, Nigeria","image":"assets/cards/sep26-lagos-cinema.webp","title":"51,000 moviegoers turn a Lagos square into the world's largest cinema","magnetUrl":"https://blappos.printify.me/product/32456097","magnetPrice":"$9.99","facts":"More than 51,000 qualifying viewers gathered at Tafawa Balewa Square in Lagos on September 26 for an open-air screening of Black Market. Channels Television reported that Guinness World Records confirmed the event as the largest film screening, surpassing the previous mark of 43,624 people.","why":"The record is larger than a novelty headcount. A locally produced film drew a stadium-scale public audience in one of Africa's largest cities, showing how cinema can become civic spectacle, shared culture and a distribution event far beyond a conventional theater.","angle":"Verified facts end above. Most movie nights ask whether the couch has room for one more person. Lagos found room for 51,000 and made the concession stand a municipal planning problem.","amazonLinks":[{"title":"Elite Screens Yard Master 2 Outdoor Projector Screen","image":"https://m.media-amazon.com/images/I/81-vGXq3QSL._AC_SL1500_.jpg","alt":"Elite Screens Yard Master 2 outdoor projection screen","quip":"A backyard-scale screen for anyone whose guest list stops before it requires a public square.","salesPriority":5,"url":"https://www.amazon.com/dp/B00MAPCZEM?tag=blappos-20"},{"title":"Jolly Time Yellow Popcorn Kernels","image":"https://m.media-amazon.com/images/I/610YmwX5xEL._SL1001_.jpg","alt":"Container of Jolly Time yellow popcorn kernels","quip":"Popcorn in bulk, although feeding 51,000 viewers still requires a procurement department.","salesPriority":5,"url":"https://www.amazon.com/dp/B081J5XR46?tag=blappos-20"},{"title":"Soundcore Motion Boom Plus Outdoor Speaker","image":"https://m.media-amazon.com/images/I/71EHUWt25fL._AC_SL1500_.jpg","alt":"Black Soundcore Motion Boom Plus portable speaker","quip":"Portable outdoor audio for a screening measured in neighbors rather than city blocks.","salesPriority":5,"url":"https://www.amazon.com/dp/B09VKZPST7?tag=blappos-20"}],"source":"https://www.channelstv.com/2026/09/26/black-market-breaks-guinness-world-record-with-over-51000-viewers-at-tbs/","sourceName":"Read the September 26 Channels Television report"},
- {"id":"sep26-scroll-xray","isoDate":"2026-09-26","month":"September","date":"Sep 26, 2026","place":"Berkeley, California / Herculaneum","image":"assets/cards/sep26-scroll-xray.webp","title":"Scientists burn replica scrolls so ancient books can stay closed and still be read","magnetUrl":"https://blappos.printify.me/product/32456123","magnetPrice":"$9.99","facts":"Researchers made replica papyrus scrolls with lampblack inks containing measured amounts of lead, carbonized them in low oxygen and scanned the sealed rolls with X-rays. The PLOS ONE study found that CT imaging could detect ink containing as little as 25 micrograms of lead per square centimeter and that lead could increase X-ray absorption by as much as 25-fold.","why":"Hundreds of Herculaneum scrolls carbonized by Mount Vesuvius are too fragile to open physically. The experiment supplies a calibrated way to identify rolls whose metal-bearing ink may be especially readable by X-ray and to prioritize them for virtual unwrapping. It improves the search strategy; it does not mean every sealed scroll has already been decoded.","angle":"Verified facts end above. Archaeology has reached the stage where scientists carefully burn a new book to learn how not to open an old one. The best library card is now a CT scan.","amazonLinks":[{"title":"The Fires of Vesuvius: Pompeii Lost and Found","image":"https://books.google.com/books/content?id=IOnZEQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api","alt":"Cover of The Fires of Vesuvius by Mary Beard","quip":"Mary Beard reconstructs the lives buried by Vesuvius while the scrolls wait for a non-destructive sequel.","salesPriority":5,"url":"https://www.amazon.com/dp/0674056167?tag=blappos-20"},{"title":"The Villa of the Papyri at Herculaneum","image":"https://books.google.com/books/content?id=1hG4q10O1LQC&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api","alt":"Cover of The Villa of the Papyri at Herculaneum","quip":"The archaeology and reconstruction of the villa that preserved antiquity's most stubborn reading list.","salesPriority":5,"url":"https://www.amazon.com/dp/311020388X?tag=blappos-20"},{"title":"The Archimedes Codex","image":"https://books.google.com/books/content?id=VTFWDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api","alt":"Cover of The Archimedes Codex by Reviel Netz and William Noel","quip":"Another true story of imaging technology recovering an ancient text that the naked eye could not read.","salesPriority":5,"url":"https://www.amazon.com/dp/1400096242?tag=blappos-20"}],"source":"https://www.sciencedaily.com/releases/2026/09/260925005414.htm","sourceName":"Read the September 26 UC Berkeley research report"},
- {"id":"sep26-road-bin","isoDate":"2026-09-26","month":"September","date":"Sep 26, 2026","place":"Mumbai, India","image":"assets/cards/sep26-road-bin.webp","title":"SUV passenger treats a Mumbai road like a moving trash can","magnetUrl":"https://blappos.printify.me/product/32456130","magnetPrice":"$9.99","facts":"A video reported by India Today on September 26 appeared to show a passenger in a moving SUV spitting paan and throwing a bottle onto a Mumbai road. The report described the clip as viral; it did not establish the passenger's identity or provide an official enforcement outcome.","why":"Throwing objects and spitting from a moving vehicle shifts one person's convenience onto pedestrians, road workers and everyone using the street. The public-interest point is the documented behavior and the avoidable hazardâ€”not speculation about the anonymous person's motives, politics or private life.","angle":"Verified reporting ends above. The vehicle had cup holders, doors and presumably a destination with a bin. Main Character Energy chose the roadway anyway, so the magnet supplies the missing sign.","amazonLinks":[{"title":"HOTOR Leakproof Car Trash Can","image":"https://m.media-amazon.com/images/I/81hrIuixehL._AC_SL1500_.jpg","alt":"Black HOTOR leakproof car trash can","quip":"A small in-car bin for the radical driving technique known as keeping your rubbish inside the vehicle.","salesPriority":5,"url":"https://www.amazon.com/dp/B07VGRVKSN?tag=blappos-20"},{"title":"Stanley AeroLight Transit Mug","image":"https://00846a.cdn.akinoncloud.com/products/2025/08/22/374977/66360217-e89d-4491-bf80-c5b433619b74_size540_cropCenter.jpg","alt":"Cream Stanley AeroLight leakproof transit mug","quip":"A locking travel mug designed to stay in the cup holder instead of auditioning for roadside debris.","salesPriority":5,"url":"https://www.amazon.com/dp/B0CL4F961Y?tag=blappos-20"},{"title":"Contigo AUTOSEAL West Loop Travel Mug","image":"https://m.media-amazon.com/images/I/51uHbEOmaFL._AC_SL1500_.jpg","alt":"Stainless steel Contigo AUTOSEAL travel mug","quip":"A reusable, leak-resistant container for keeping both the drink and the civic responsibility on board.","salesPriority":5,"url":"https://www.amazon.com/dp/B00HZI5XBG?tag=blappos-20"}],"source":"https://www.indiatoday.in/newsmo/short-videos/man-spits-paan-throws-bottle-from-suv-in-mumbai-3003280-2026-09-26","sourceName":"Watch the September 26 India Today report"}, 
- {"id":"sep25-hurricane-polo","isoDate":"2026-09-25","month":"September","date":"Sep 25, 2026","place":"Eastern Pacific / Baja California Sur","image":"assets/cards/sep25-hurricane-polo.webp","title":"Hurricane Polo returns to Category 5 as Baja California watches its turn","magnetUrl":"https://blappos.printify.me/product/32418099","magnetPrice":"$9.99","facts":"Hurricane Polo strengthened again to Category 5 intensity on September 25, with maximum sustained winds reported at 180 mph. At 2 p.m. Mountain time it was about 395 miles south of Cabo San Lucas and moving west at 10 mph. Forecasters expected a turn toward Baja California Sur, where landfall was possible the following week; the forecast also called for dangerous surf, rip currents and four to eight inches of rain, with isolated totals near 10 inches.","why":"A Category 5 rating describes the storm's peak wind intensity over open water, not the exact damage any one place will receive. Track, timing, rainfall and local terrain determine the real risk. Residents and travelers should follow official forecasts and local emergency instructions because flooding, mudslides and surf can become life-threatening before the center arrives.","angle":"Verified facts end above. The storm's name sounds like a leisure shirt; the advisory does not. The magnet keeps the joke on forecast culture rather than people in danger: respect the cone, charge the radio and let the meteorologists do the dramatic pointing.","amazonLinks":[{"title":"Midland ER310 Emergency Crank Weather Radio","image":"https://m.media-amazon.com/images/P/B015QIC1PW.01.LZZZZZZZ.jpg","alt":"Red Midland ER310 emergency crank weather radio","quip":"NOAA alerts, solar charging and a hand crank for when the power grid has left the group chat.","salesPriority":5,"url":"https://www.amazon.com/dp/B015QIC1PW?tag=blappos-20"},{"title":"LifeStraw Personal Water Filter","image":"https://m.media-amazon.com/images/P/B006QF3TW4.01.LZZZZZZZ.jpg","alt":"Blue LifeStraw personal water filter","quip":"Compact backup filtration for emergency kits, because the weather map does not include a beverage service.","salesPriority":5,"url":"https://www.amazon.com/dp/B006QF3TW4?tag=blappos-20"},{"title":"Ready America 70280 Two-Person Emergency Kit","image":"https://m.media-amazon.com/images/P/B000FJQQVI.01.LZZZZZZZ.jpg","alt":"Red Ready America emergency backpack and supplies","quip":"A grab-and-go kit for two people who prefer preparation to debating the final spaghetti model.","salesPriority":5,"url":"https://www.amazon.com/dp/B000FJQQVI?tag=blappos-20"}],"source":"https://www.upi.com/Top_News/World-News/2026/09/25/mexico-hurricane-polo-forecast/6371790098673/","sourceName":"Read the September 25 UPI forecast report"},
- {"id":"sep25-lottery-repeat","isoDate":"2026-09-25","month":"September","date":"Sep 25, 2026","place":"Lexington, North Carolina","image":"assets/cards/sep25-lottery-repeat.webp","title":"North Carolina woman wins the same $100,000 scratch-off prize twice","magnetUrl":"https://blappos.printify.me/product/32418100","magnetPrice":"$9.99","facts":"A Lexington, North Carolina, woman won a $100,000 top prize on the Ruby Red 7's scratch-off game, the North Carolina Education Lottery said. The September 25 report described it as her second $100,000 win on the same game, following another top-prize ticket in August 2025. After required tax withholding, the latest prize paid $72,016.","why":"Winning once does not make a later ticket more likely to win; each ticket is governed by the game's published prize pool and odds. The repeat result is remarkable precisely because independent rare events can cluster without creating a system anyone can reliably copy. She said the first prize helped her four grandchildren and the new one would fund a beach trip with her husband.","angle":"Verified facts end above. Most sequels add a larger villain. This one reused the same red ticket, the same $100,000 ending and an audience still checking whether reality accidentally hit duplicate.","amazonLinks":[{"title":"Against the Gods: The Remarkable Story of Risk","image":"https://m.media-amazon.com/images/P/0471295639.01.LZZZZZZZ.jpg","alt":"Cover of Against the Gods by Peter L. Bernstein","quip":"A history of how people learned to measure uncertainty before scratch-off tickets made it shiny.","salesPriority":5,"url":"https://www.amazon.com/dp/0471295639?tag=blappos-20"},{"title":"How Not to Be Wrong: The Power of Mathematical Thinking","image":"https://m.media-amazon.com/images/P/0143127535.01.LZZZZZZZ.jpg","alt":"Cover of How Not to Be Wrong by Jordan Ellenberg","quip":"Mathematical thinking for appreciating a wild coincidence without inventing a repeatable jackpot strategy.","salesPriority":5,"url":"https://www.amazon.com/dp/0143127535?tag=blappos-20"},{"title":"The Drunkard's Walk: How Randomness Rules Our Lives","image":"https://m.media-amazon.com/images/P/0307275175.01.LZZZZZZZ.jpg","alt":"Cover of The Drunkard's Walk by Leonard Mlodinow","quip":"A tour of randomness for the moment the same lightning bolt buys a return ticket.","salesPriority":5,"url":"https://www.amazon.com/dp/0307275175?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/09/25/lottery-scratch-off-North-Carolina-second-time/6791790356548/","sourceName":"Read the September 25 UPI report"},
- {"id":"sep25-firefighter-record","isoDate":"2026-09-25","month":"September","date":"Sep 25, 2026","place":"St. Pete Beach, Florida","image":"assets/cards/sep25-firefighter-record.webp","title":"Florida firefighter earns world record as shortest woman in the profession","magnetUrl":"https://blappos.printify.me/product/32418110","magnetPrice":"$9.99","facts":"A 4-foot-5 firefighter with St. Pete Beach Fire Rescue was recognized by Guinness World Records as the shortest female firefighter. The September 25 report said she had served for five years after leaving a corporate career, and that colleagues encouraged her to pursue the record after a firehouse conversation.","why":"Firefighting is measured by training, teamwork and the ability to perform demanding tasksâ€”not by fitting a visual stereotype. The record makes an unusual physical fact visible, but the more meaningful achievement is five years of public service in a profession built around preparation and trust.","angle":"Verified facts end above. The firehouse joke became a world record, but the collectible keeps the focus where it belongs: anonymous gear, a completed shift and the bravery required to answer the call. No name, likeness or appearance joke is used in the design.","amazonLinks":[{"title":"Report from Engine Co. 82","image":"https://m.media-amazon.com/images/P/0446675520.01.LZZZZZZZ.jpg","alt":"Cover of Report from Engine Co. 82 by Dennis Smith","quip":"A classic first-person account of the work behind the helmet and the trust inside a firehouse.","salesPriority":5,"url":"https://www.amazon.com/dp/0446675520?tag=blappos-20"},{"title":"Streamlight ProTac HL-X USB Flashlight","image":"https://m.media-amazon.com/images/P/B079DDC5C6.01.LZZZZZZZ.jpg","alt":"Black Streamlight ProTac HL-X USB flashlight","quip":"A rugged rechargeable light for seeing the work in front of you when the room has other plans.","salesPriority":5,"url":"https://www.amazon.com/dp/B079DDC5C6?tag=blappos-20"},{"title":"Firefighter Functional Fitness","image":"https://m.media-amazon.com/images/P/0990844242.01.LZZZZZZZ.jpg","alt":"Cover of Firefighter Functional Fitness by Dan Kerrigan and Jim Moss","quip":"Job-specific training guidance for performance and longevity, where preparation is the real superlative.","salesPriority":5,"url":"https://www.amazon.com/dp/0990844242?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/09/25/florida-firefighter-guinness-record/7301790373982/","sourceName":"Read the September 25 UPI report"},
- {"id":"sep24-us-china-summit","isoDate":"2026-09-24","month":"September","date":"Sep 24, 2026","place":"Washington, D.C.","image":"assets/cards/sep24-us-china-summit.webp","title":"U.S. and China pledge a more stable relationship after Washington summit","magnetUrl":"https://blappos.printify.me/product/32372447","magnetPrice":"$9.99","facts":"Presidents Donald Trump and Xi Jinping met at the White House on September 24 during Xi's state visit. The Associated Press live report, citing the Chinese government readout, said they discussed the Middle East, Ukraine and the Korean Peninsula and decided to pursue a constructive, strategic and stable U.S.-China relationship. The visit unfolded while both governments were trying to preserve a fragile trade truce.","why":"The United States and China shape global trade, technology, military risk and climate policy. A pledge to stabilize ties can lower the chance that disputes escalate by accident, but it is a diplomatic directionâ€”not a detailed agreement or proof that the hardest conflicts have been resolved.","angle":"Verified facts end above. The leaders discussed several world crises, toured a new helipad and inspected the granite. The magnet keeps the joke timeless and anonymous: diplomacy is still the group project where nobody is allowed to flip the table.","amazonLinks":[{"title":"On China","image":"https://m.media-amazon.com/images/P/0143121316.01.LZZZZZZZ.jpg","alt":"Cover of On China by Henry Kissinger","quip":"Historical context for the strategic relationship that cannot be summarized by one summit toast.","salesPriority":5,"url":"https://www.amazon.com/dp/0143121316?tag=blappos-20"},{"title":"Diplomacy","image":"https://m.media-amazon.com/images/P/0671510991.01.LZZZZZZZ.jpg","alt":"Cover of Diplomacy by Henry Kissinger","quip":"A 900-page reminder that keeping the conversation open is a job description, not a mood.","salesPriority":5,"url":"https://www.amazon.com/dp/0671510991?tag=blappos-20"},{"title":"Destined for War: Can America and China Escape Thucydides's Trap?","image":"https://m.media-amazon.com/images/P/1328915387.01.LZZZZZZZ.jpg","alt":"Cover of Destined for War by Graham Allison","quip":"A study of how rising and established powers can avoid turning rivalry into catastrophe.","salesPriority":5,"url":"https://www.amazon.com/dp/1328915387?tag=blappos-20"}],"source":"https://apnews.com/live/trump-xi-china-summit-media-ban-news-updates-09-24-2026","sourceName":"Read the September 24 Associated Press live report"},
- {"id":"sep24-fat-bear-week","isoDate":"2026-09-24","month":"September","date":"Sep 24, 2026","place":"Katmai National Park, Alaska","image":"assets/cards/sep24-fat-bear-week.webp","title":"Sixteen Katmai bears enter the internet's weightiest election","magnetUrl":"https://blappos.printify.me/product/32372450","magnetPrice":"$9.99","facts":"Voting was underway September 24 in Katmai National Park and Preserve's 2026 Fat Bear Week. The public bracket features 16 brown bears and runs September 22â€“29, asking voters to compare how successfully the animals prepared for winter. The event is built around the park's live bear cameras and seasonal salmon-fed weight gain.","why":"The contest is intentionally funny, but it turns remote wildlife observation into public education about brown-bear ecology, salmon runs and the energy reserves bears need for hibernation. Katmai Conservancy says the surrounding program supports interpretation, bear monitoring, research and the bear cams.","angle":"Verified facts end above. March Madness has mascots; Katmai has contestants who ate the mascots' body weight in salmon. Sixteen bears entered the bracket, and every one of them already won dinner.","amazonLinks":[{"title":"Alaska Bear Tales","image":"https://m.media-amazon.com/images/I/A1G9tSgqYDL._SL1500_.jpg","alt":"Cover of Alaska Bear Tales by Larry Kaniut","quip":"True Alaska bear encounters for readers whose bracket research needs a larger sample than the webcam.","salesPriority":5,"url":"https://www.amazon.com/dp/0882402323?tag=blappos-20"},{"title":"Celestron Nature DX 8x42 Binoculars","image":"https://m.media-amazon.com/images/P/B00B73JONS.01.LZZZZZZZ.jpg","alt":"Green Celestron Nature DX 8x42 binoculars","quip":"A close view from the biologically superior position known as far enough away from a brown bear.","salesPriority":5,"url":"https://www.amazon.com/dp/B00B73JONS?tag=blappos-20"},{"title":"Bear Attacks: Their Causes and Avoidance","image":"https://m.media-amazon.com/images/P/158574557X.01.LZZZZZZZ.jpg","alt":"Cover of Bear Attacks: Their Causes and Avoidance by Stephen Herrero","quip":"Evidence-based bear safety for remembering that the contestants are wild animals, not plush campaign surrogates.","salesPriority":5,"url":"https://www.amazon.com/dp/158574557X?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/09/24/Katmai-National-Park-Fat-Bear-Week/4691790272376/","sourceName":"Read the September 24 UPI report"},
- {"id":"sep24-gamer-grandma","isoDate":"2026-09-24","month":"September","date":"Sep 24, 2026","place":"Scotland","image":"assets/cards/sep24-gamer-grandma.webp","title":"78-year-old Scottish gamer becomes oldest female Fortnite streamer on Twitch","magnetUrl":"https://blappos.printify.me/product/32372453","magnetPrice":"$9.99","facts":"A Scottish streamer earned a Guinness World Record at age 78 as the oldest female Fortnite streamer on Twitch, according to a September 24 UPI report. The record recognizes a current public streaming activity, not a one-time publicity stunt.","why":"The record pushes back on the idea that online play and creator culture belong only to young people. Streaming combines gameplay, live presentation, audience interaction and technical setup; doing it publicly at 78 turns an individual hobby into a visible example of lifelong participation in digital culture.","angle":"Verified facts end above. The lobby found the age setting and discovered it was not a difficulty slider. The card celebrates the behavior without using the streamer's name, face or game characters: age is not the boss level.","amazonLinks":[{"title":"Logitech G435 LIGHTSPEED Wireless Gaming Headset","image":"https://m.media-amazon.com/images/I/81bQEkMevBL._AC_SL1500_.jpg","alt":"Black Logitech G435 wireless gaming headset","quip":"A featherweight headset for staying in the game while the age gate quietly gives up.","salesPriority":5,"url":"https://www.amazon.com/dp/B08R8DT7X6?tag=blappos-20"},{"title":"Elgato Wave:3 USB Condenser Microphone","image":"https://m.media-amazon.com/images/I/61KjhEX33JL._AC_SL1500_.jpg","alt":"Black Elgato Wave 3 USB streaming microphone","quip":"A stream-ready microphone for proving that experience points are allowed to include actual experience.","salesPriority":5,"url":"https://www.amazon.com/dp/B088HHWC47?tag=blappos-20"},{"title":"Xbox Wireless Controller â€” Carbon Black","image":"https://m.media-amazon.com/images/P/B08DF248LD.01.LZZZZZZZ.jpg","alt":"Carbon black Xbox wireless controller","quip":"A familiar controller for anyone who refuses to let a birth year become the final boss.","salesPriority":5,"url":"https://www.amazon.com/dp/B08DF248LD?tag=blappos-20"}],"source":"https://www.upi.com/Odd_News/2026/09/24/scotland-Guinness-World-Records-oldest-Fortnite-streamer/9581790273068/","sourceName":"Read the September 24 UPI report"},
- {"id":"sep23-beijing-spray-gun","isoDate":"2026-09-23","month":"September","date":"Sep 23, 2026","place":"Beijing","image":"assets/cards/sep23-beijing-spray-gun.webp","title":"HYROX changes hygiene rules after Beijing competitor was allowed to continue racing","facts":"At a September 12 HYROX event in Beijing, Australian athlete Joanna Wietrzyk experienced bowel incontinence and continued competing. She later apologized, said she should have left the course, and withdrew her result. HYROX co-founder Moritz FÃ¼rste apologized for the organizers' response and said procedures and rules were being changed.","why":"Competitors share indoor lanes and workout equipment. Race officials need a clear way to stop competition and clean a contamination hazard promptly, while treating the affected athlete with dignity. The event occurred September 12; subsequent apologies and rule changes were reported later.","angle":"The race had eight workout stations and, apparently, no official empowered to call a time-out for the ninth. The runner did not write the rulebook; the organization has now discovered why it needed a mop chapter.","amazonLinks":[{"title":"CAP 40 LB Adjustable Cement Dumbbell Set, Vinyl Coated, Black","image":"https://m.media-amazon.com/images/I/71W1KEFRhyL._AC_SL1500_.jpg","alt":"CAP black adjustable cement dumbbell set with handles and weight plates","quip":"Forty pounds of training equipment for the race that mixed running with strength stationsâ€”and needed a stronger rulebook.","salesPriority":4,"url":"https://www.amazon.com/dp/B0D7QPVVL3?tag=blappos-20"},{"title":"JA-RU Squishy Poop Toys for Kids (12 Pack) â€“ Sand-Filled 6448-12p","image":"https://m.media-amazon.com/images/I/71BIqXTR8aL._AC_SL1500_.jpg","alt":"Twelve-pack of JA-RU squishy poop novelty toys in display box","quip":"A squishable prop for explaining the race incident without recreating any part of it.","salesPriority":5,"url":"https://www.amazon.com/dp/B07N317L9K?tag=blappos-20"},{"title":"Brooks Menâ€™s Ghost 16 Neutral Running Shoe","image":"https://m.media-amazon.com/images/I/710A1Nf73hL._AC_SL1500_.jpg","alt":"Black Brooks Ghost 16 menâ€™s running shoe","quip":"Running shoes for the eight-kilometer portion; the sensible finish line remains wherever you need to stop.","salesPriority":4,"url":"https://www.amazon.com/dp/B0D43J3N8B?tag=blappos-20"}],"source":"https://www.theguardian.com/sport/2026/sep/17/im-genuinely-sorry-australian-hyrox-athlete-who-soiled-herself-apologises-to-china-and-rivals","sourceName":"Read The Guardian report","magnetUrl":"https://blappos.printify.me/product/32291842","magnetPrice":"$9.99"},
- {"id":"sep21-ai-language-data","isoDate":"2026-09-21","month":"September","date":"Sep 21, 2026","place":"Global","image":"assets/cards/sep21-ai-language-data.webp","title":"Sixty organizations unite to build AI language data beyond the English internet","magnetUrl":"https://blappos.printify.me/product/32260696","magnetPrice":"$9.99","facts":"The Gates Foundation announced a coalition of 60 organizationsâ€”including Anthropic, Google and the OpenAI Foundationâ€”to coordinate representative language-data work for artificial intelligence. The five-year effort aims to improve AI tools for more than 3 billion people whose languages are underrepresented online.","why":"A model can only interpret the language patterns represented in its training and evaluation data. Weak coverage can turn an everyday medical, education or agriculture request into a dangerous mistranslation; the coalition cites a Malawi example in which a phrase meaning that labor had begun was rendered as a plumbing problem. The initiative is a commitment and governance project, not proof that the coverage gap has already been solved.","angle":"The internet trained the robot on the internet and was shocked to discover most of humanity does not speak Reddit. Sixty organizations are now assembling the missing dictionary before â€˜water brokeâ€™ becomes a plumbing ticket.","amazonLinks":[{"title":"Because Internet: Understanding the New Rules of Language","image":"https://m.media-amazon.com/images/I/71QtKTeSt6L._SL1500_.jpg","alt":"Cover of Because Internet by Gretchen McCulloch","quip":"A field guide to how language evolves onlineâ€”and why the online sample is never the whole language.","url":"https://www.amazon.com/dp/0735210934?tag=blappos-20","salesPriority":5},{"title":"Empires of the Word: A Language History of the World","image":"https://m.media-amazon.com/images/I/71slMg9wkLL._SL1360_.jpg","alt":"Cover of Empires of the Word by Nicholas Ostler","quip":"A global history for anyone tempted to mistake todayâ€™s dominant interface language for a permanent law of nature.","url":"https://www.amazon.com/dp/0060935723?tag=blappos-20","salesPriority":5},{"title":"The Language Instinct: How the Mind Creates Language","image":"https://m.media-amazon.com/images/I/71zDiDQZLlL._SL1500_.jpg","alt":"Cover of The Language Instinct by Steven Pinker","quip":"Background on the human system that remains considerably broader than one training corpus.","url":"https://www.amazon.com/dp/0061336467?tag=blappos-20","salesPriority":5}],"source":"https://apnews.com/article/artificial-intelligence-anthropic-openai-gates-aefb021bede3b02c83890f65cd540fd0","sourceName":"Read the Associated Press report"},
- {"id":"sep21-cow-airlift","isoDate":"2026-09-21","month":"September","date":"Sep 21, 2026","place":"French Mountains","image":"assets/cards/sep21-cow-airlift.webp","title":"Cow leaves remote French mud by helicopter; ground transport unavailable","magnetUrl":"https://blappos.printify.me/product/32260700","magnetPrice":"$9.99","facts":"A cow named Vahine became trapped in deep mud in a remote mountain wetland in France. Vehicles could not reach her, so rescuers secured her in a broad sling and lifted her out beneath a helicopter. The September 21 report said she recovered safely.","why":"Remote livestock rescue combines animal welfare, aviation, rigging and terrain decisions. A controlled sling lift can avoid the injuries that pulling a heavy animal through deep mud might cause, but it requires trained crews and careful coordination. The unusual footage shows why the safest route can be the one that never touches the road.","angle":"Vahine selected the only upgrade above premium economy: external cargo. The mud kept her luggage, but ground transport has been cancelled until further notice.","amazonLinks":[{"title":"The Cattle Health Handbook","image":"https://m.media-amazon.com/images/I/81QiU16oF1L._SL1500_.jpg","alt":"Cover of The Cattle Health Handbook by Heather Smith Thomas","quip":"Practical livestock care for the many days when the treatment plan does not include a helicopter.","url":"https://www.amazon.com/dp/1603420908?tag=blappos-20","salesPriority":5},{"title":"Storeyâ€™s Guide to Raising Beef Cattle, 4th Edition","image":"https://m.media-amazon.com/images/I/81AAVbowbLL._SL1500_.jpg","alt":"Cover of Storeyâ€™s Guide to Raising Beef Cattle, fourth edition","quip":"Health, handling and breeding guidance for keeping the herd safely on the non-airborne itinerary.","url":"https://www.amazon.com/dp/1635860393?tag=blappos-20","salesPriority":5},{"title":"Airplane Flying Handbook: FAA-H-8083-3B","image":"https://m.media-amazon.com/images/P/1619545128.01.LZZZZZZZ.jpg","alt":"Cover of the FAA Airplane Flying Handbook","quip":"Aviation fundamentals for understanding why the rescue plan needs considerably more than a long rope and optimism.","url":"https://www.amazon.com/dp/1619545128?tag=blappos-20","salesPriority":4}],"source":"https://weather.com/2026/09/21/science/nature/wild-animals/video/cow-vahine-helicopter-rescue","sourceName":"Read the September 21 report"},
- {"id":"sep21-singing-lemurs","isoDate":"2026-09-21","month":"September","date":"Sep 21, 2026","place":"Madagascar","image":"assets/cards/sep21-singing-lemurs.webp","title":"Singing lemurs use an opera trick to carry notes through Madagascarâ€™s forest","magnetUrl":"https://blappos.printify.me/product/32260702","magnetPrice":"$9.99","facts":"Researchers studying wild indris in Madagascar analyzed 83 videos of 19 animals. Reuters reported that the lemurs opened their mouths wider as notes rose, a pattern consistent with formant tuningâ€”the same acoustic technique human sopranos use to keep high notes clear and powerful.","why":"Indri songs help families stay connected and advertise territory through dense forest. Finding a comparable acoustic adjustment in another primate adds evidence about how vocal tracts shape long-distance communication. The animals are critically endangered, so the finding also brings attention to a sophisticated behavior that depends on intact habitat.","angle":"The rainforest has a resident soprano section and no microphones. Humans spent centuries inventing opera houses; indris brought the acoustics with them.","amazonLinks":[{"title":"Lemurs of Madagascar, Fifth Edition","image":"https://m.media-amazon.com/images/I/712RfMCdABL._SL1500_.jpg","alt":"Cover of Lemurs of Madagascar, fifth edition","quip":"The field reference for meeting Madagascarâ€™s primates after the encore and identifying who sang which part.","url":"https://www.amazon.com/dp/1737285169?tag=blappos-20","salesPriority":5},{"title":"The Singing Life of Birds","image":"https://m.media-amazon.com/images/I/51k6zY+0bOL._SL1200_.jpg","alt":"Cover of The Singing Life of Birds by Donald Kroodsma","quip":"A deep listen to animal song for readers newly curious about the forestâ€™s nonhuman vocal departments.","url":"https://www.amazon.com/dp/0618405682?tag=blappos-20","salesPriority":5},{"title":"Last Chance to See","image":"https://m.media-amazon.com/images/I/811X2-BNDDL._SL1500_.jpg","alt":"Cover of Last Chance to See by Douglas Adams and Mark Carwardine","quip":"A funny, urgent journey among endangered species that began with a Madagascar search for the aye-aye.","url":"https://www.amazon.com/dp/0345371984?tag=blappos-20","salesPriority":5}],"source":"https://www.reuters.com/science/singing-lemurs-may-use-soprano-like-trick-project-songs-2026-09-21/","sourceName":"Read the Reuters report"},
- {"id":"sep21-tide-photo","isoDate":"2026-09-21","month":"September","date":"Sep 21, 2026","place":"Lost Boy Beach, Oregon","image":"assets/cards/sep21-tide-photo.webp","title":"Tourists chase a dramatic beach photo; rising tide directs the sequel","magnetUrl":"https://blappos.printify.me/product/32260704","magnetPrice":"$9.99","facts":"Three tourists entered secluded Lost Boy Beach at low tide for what rescuers described as a dramatic photo opportunity. Rising water and dangerous surf cut off the route back. After hours on the beach, the group used a satellite emergency SOS and arranged sticks into a visible SOS before three rescue swimmers brought them out; only minor bumps and scratches were reported.","why":"Pocket beaches and sea caves can lose their exits quickly as the tide rises, and surf can make an apparently short return route impassable. Satellite SOS helped rescuers locate the group, but emergency communication is a last resortâ€”not a substitute for checking tide tables, weather, access windows and a turnaround time before entering.","angle":"They went looking for dramatic composition and hired the Pacific as creative director. The final shot included three rescue swimmers and an SOS made of sticks.","amazonLinks":[{"title":"The Complete Sailor, Second Edition","image":"https://m.media-amazon.com/images/I/614MAGsbX4L._SL1000_.jpg","alt":"Cover of The Complete Sailor, second edition","quip":"A practical primer on coastal water for anyone whose photo plan has not yet consulted the ocean.","url":"https://www.amazon.com/dp/0071749578?tag=blappos-20","salesPriority":5},{"title":"Garmin inReach Mini 2 Satellite Communicator","image":"https://m.media-amazon.com/images/I/51yVqDGXt4L._AC_SL1000_.jpg","alt":"Orange Garmin inReach Mini 2 satellite communicator","quip":"The compact SOS tool that can call for help when dramatic scenery has no cell bars and one rising tide.","url":"https://www.amazon.com/dp/B09PSKG7C3?tag=blappos-20","salesPriority":5},{"title":"How to Read a Nautical Chart, 2nd Edition","image":"https://m.media-amazon.com/images/P/0071779825.01.LZZZZZZZ.jpg","alt":"Cover of How to Read a Nautical Chart, second edition","quip":"Because the waterline is a schedule, not an artistic suggestion from the Pacific.","url":"https://www.amazon.com/dp/0071779825?tag=blappos-20","salesPriority":5}],"source":"https://people.com/3-tourists-rescued-after-getting-stranded-on-secluded-beach-for-hours-while-trying-to-take-dramatic-photo-12131786","sourceName":"Read the September 21 report"},
- {"id":"sep20-turf-heat","isoDate":"2026-09-20","month":"September","date":"Sep 20, 2026","place":"Nashville, Tennessee","image":"assets/cards/sep20-turf-heat.webp","title":"NFL players cool melting cleats as Nashville turf reaches 157Â°F","magnetUrl":"https://blappos.printify.me/product/32220182","magnetPrice":"$9.99","facts":"During the September 20 Eaglesâ€“Titans game at Nissan Stadium, the Fox broadcast measured the synthetic playing surface at 157Â°F while the air temperature reached 95Â°F. Players poured water over their cleats, Eagles center Cam Jurgens changed shoes after a pair softened in the heat, and Titans coach Robert Saleh received an IV after the game.","why":"The field reading was far above the surrounding air temperature and turned a bizarre sideline image into a player-safety question. Artificial surfaces can absorb and reradiate intense heat, making surface measurements, cooling plans, footwear checks and kickoff conditions materially different from the standard weather report.","angle":"Nashville installed a football field and accidentally preheated a baking sheet. By halftime, the equipment staff was running a pit lane for footwear that had reached al dente.","amazonLinks":[{"title":"Etekcity Infrared Thermometer 774","image":"https://m.media-amazon.com/images/I/61zQDIcb0FL._AC_SL1500_.jpg","alt":"Yellow Etekcity 774 infrared surface thermometer","quip":"The quickest way to learn whether the field is playable or already accepting pizza orders.","url":"https://www.amazon.com/dp/B00837ZGRY?tag=blappos-20","salesPriority":5},{"title":"FROGG TOGGS Chilly Pad Instant Cooling Towel","image":"https://m.media-amazon.com/images/I/41kDvhMGD+L.jpg","alt":"Lime green FROGG TOGGS Chilly Pad cooling towel","quip":"Wet it, wring it and deploy before your footwear becomes a soft cheese.","url":"https://www.amazon.com/dp/B002NGSB96?tag=blappos-20","salesPriority":5},{"title":"Shoe GOO 110212 Adhesive, 3.7 fl oz, Black","image":"https://m.media-amazon.com/images/I/61HahWawUsL._AC_SL1000_.jpg","alt":"Black tube of Shoe GOO shoe repair adhesive","quip":"For the cleats that returned from Nashville with the structural confidence of warm taffy.","url":"https://www.amazon.com/dp/B004PBOJE8?tag=blappos-20","salesPriority":4}],"source":"https://nypost.com/2026/09/20/sports/titans-hose-down-cleats-as-heat-takes-over-for-bizarre-moment-in-loss-to-eagles/","sourceName":"Read the September 20 report"},
- {"id":"sep20-koala-bedroom","isoDate":"2026-09-20","month":"September","date":"Sep 20, 2026","place":"Inverell, Australia","image":"assets/cards/sep20-koala-bedroom.webp","title":"Koala checks into an Australian bedroom without a reservation","magnetUrl":"https://blappos.printify.me/product/32220186","magnetPrice":"$9.99","facts":"A September 20 report described an Inverell resident hearing scratching and growling at a sliding glass door before a koala ran down the hall, climbed onto her bed and settled in. A local wildlife volunteer safely removed the animal from the house.","why":"The surprise houseguest is funny, but the broader pattern is not just slapstick. The report cites Australian research showing that native animals increasingly use buildings when hollow-bearing habitat is scarce, turning one excellent bedroom photo into a larger question about habitat, urban design and wildlife-rescue demand.","angle":"The koala skipped reception, inspected the linens and requested the eucalyptus minibar. Management waived the cleaning fee because the guest brought its own fur coat.","amazonLinks":[{"title":"The Koala Who Could","image":"https://m.media-amazon.com/images/I/91tcQJVDkBL._SL1500_.jpg","alt":"Cover of The Koala Who Could by Rachel Bright and Jim Field","quip":"A useful picture-book briefing for any koala deciding whether it can complete an unannounced bedroom check-in.","url":"https://www.amazon.com/dp/1338139088?tag=blappos-20","salesPriority":5},{"title":"Koala: A Natural History and an Uncertain Future","image":"https://m.media-amazon.com/images/I/61Umg8OsUYL._SL1200_.jpg","alt":"Cover of Koala: A Natural History and an Uncertain Future","quip":"The serious natural-history answer to why the adorable trespasser may be looking beyond the trees.","url":"https://www.amazon.com/dp/1324036834?tag=blappos-20","salesPriority":5},{"title":"The Petting Zoo Koala Stuffed Animal Plushie â€” 12 Inch","image":"https://m.media-amazon.com/images/I/715dNDY7OqS._AC_SL1500_.jpg","alt":"The Petting Zoo 12-inch koala stuffed animal plushie","quip":"A houseguest-sized koala that stays on the bed and never requires an emergency wildlife volunteer.","url":"https://www.amazon.com/dp/B091584M3K?tag=blappos-20","salesPriority":4}],"source":"https://www.thetimes.com/world/australasia/article/koala-wildlife-shelter-climate-change-australia-dfqgb2hx0","sourceName":"Read The Times' September 20 report"},
- {"id":"sep20-time-trial-record","isoDate":"2026-09-20","month":"September","date":"Sep 20, 2026","place":"Montreal, Canada","image":"assets/cards/sep20-time-trial-record.webp","title":"Cyclist wins record fourth straight world time-trial title","magnetUrl":"https://blappos.printify.me/product/32220192","magnetPrice":"$9.99","facts":"Belgium's Remco Evenepoel completed the 39.2-kilometer world championship time trial in Montreal in 44 minutes 53.13 seconds, beating Filippo Ganna by 57.31 seconds. Reuters reported that the victory made him the first man to win four consecutive world individual time-trial titles.","why":"A time trial removes most of the tactical noise of a road race: each rider faces the same clock, course and demand for sustained pacing. Four straight world titles show unusual durability across changing routes, rivals and seasons, while matching the four-title career total reached by Tony Martin and Fabian Cancellara.","angle":"For the fourth year in a row, the stopwatch filed a formal complaint. Montreal provided 39.2 kilometers of road and one very expensive lesson in being nearly a minute late.","amazonLinks":[{"title":"The Cyclist's Training Bible","image":"https://m.media-amazon.com/images/I/71UiQkWRh7L._SL1500_.jpg","alt":"Cover of The Cyclist's Training Bible by Joe Friel","quip":"The comprehensive training manual for anyone who would like the clock to lose slightly less decisively.","url":"https://www.amazon.com/dp/1937715825?tag=blappos-20","salesPriority":5},{"title":"Big Blue Book of Bicycle Repair â€” 4th Edition","image":"https://m.media-amazon.com/images/I/71tkW9U1qIL._SL1400_.jpg","alt":"Cover of Park Tool's Big Blue Book of Bicycle Repair, fourth edition","quip":"Because even a world-title engine still depends on several hundred small parts agreeing to continue.","url":"https://www.amazon.com/dp/0976553066?tag=blappos-20","salesPriority":5},{"title":"The Time-Crunched Cyclist, 3rd Edition","image":"https://m.media-amazon.com/images/I/71MkrTfUHmL._SL1500_.jpg","alt":"Cover of The Time-Crunched Cyclist, third edition","quip":"A training plan for riders who want speed but cannot dedicate four consecutive world championships to the project.","url":"https://www.amazon.com/dp/1937715507?tag=blappos-20","salesPriority":5}],"source":"https://www.reuters.com/sports/birthday-girl-reusser-retains-world-time-trial-title-montreal-2026-09-20/","sourceName":"Read the Reuters report"},
- {"id":"sep11-tallest-horse","isoDate":"2026-09-11","month":"September","date":"Sep 11, 2026","place":"Towcester, England","image":"assets/cards/sep11-tallest-horse.svg","title":"Worldâ€™s tallest living horse now needs upstairs neighbors","magnetUrl":"https://blappos.printify.me/product/31873524","magnetPrice":"$9.99","facts":"Hugo, a four-year-old Shire horse in Towcester, England, has been recognized in Guinness World Records 2027 as the worldâ€™s tallest living horse. A veterinarian measured him without horseshoes at 1.99 metersâ€”about 6 feet 6 inchesâ€”at the withers.","why":"Shire horses were bred for heavy work and are among the worldâ€™s largest horse breeds. Hugo is still young, gentle and reportedly affectionate, meaning the record holder is essentially an enormous dog whose food comes by the bale.","angle":"Hugo is tall enough to inspect the second floor without entering the building. His owner does not lead him into a stable; she asks the stable for clearance.","amazonLinks":[{"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Guinness World Records 2027 book","quip":"The official book containing Hugoâ€™s new recordâ€”and several pages sturdy enough to serve as his coaster.","url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"},{"title":"The Horse Encyclopedia","image":"https://m.media-amazon.com/images/P/1465451439.01.LZZZZZZZ.jpg","alt":"The Horse Encyclopedia book","quip":"A complete horse reference that may need a foldout page to accommodate Hugo.","url":"https://www.amazon.com/dp/1465451439?tag=blappos-20"},{"title":"Big Red Barn","image":"https://m.media-amazon.com/images/P/006443009X.01.LZZZZZZZ.jpg","alt":"Big Red Barn childrenâ€™s book","quip":"Finally, a barn title that begins to acknowledge Hugoâ€™s minimum housing requirements.","url":"https://www.amazon.com/dp/006443009X?tag=blappos-20"}],"source":"https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/09/10/cavalo-de-quase-dois-metros-supera-marca-e-vira-o-mais-alto-vivo-do-mundo.ghtm","sourceName":"Read the report"},
- {"id":"sep11-prince-william-croc","isoDate":"2026-09-11","month":"September","date":"Sep 11, 2026","place":"Queensland, Australia","image":"assets/cards/sep11-prince-william-croc.svg","title":"Prince William is now a 12-foot crocodile, technically","magnetUrl":"https://blappos.printify.me/product/31873535","magnetPrice":"$9.99","facts":"Robert Irwin announced that the 300th crocodile tagged in a long-running conservation study at the Steve Irwin Wildlife Reserve has been named Prince William. The 12-foot-6-inch saltwater crocodile will carry a tracker for the next decade.","why":"Researchers will use the tracker to study the crocodileâ€™s movements, diet, body temperature and social behavior. Irwin chose the royal name to recognize the Prince of Walesâ€™s conservation work and the Earthshot Prize.","angle":"Britain has finally produced a royal who can settle constitutional questions with a death roll. Palace staff describe him as reserved, traditional and extremely difficult to fit for trousers.","amazonLinks":[{"title":"The Earthshot Prize: A Handbook for Dreamers and Thinkers","image":"https://m.media-amazon.com/images/P/1526364697.01.LZZZZZZZ.jpg","alt":"The Earthshot Prize handbook","quip":"The conservation handbook behind the work that earned Prince William the rare honor of becoming a giant crocodile.","url":"https://www.amazon.com/dp/1526364697?tag=blappos-20"},{"title":"Crocodiles by Seymour Simon","image":"https://m.media-amazon.com/images/P/0064438295.01.LZZZZZZZ.jpg","alt":"Crocodiles by Seymour Simon book","quip":"Background reading for distinguishing the future king from the other 299 research subjects.","url":"https://www.amazon.com/dp/0064438295?tag=blappos-20"},{"title":"National Geographic Readers: Crocodiles","image":"https://m.media-amazon.com/images/P/1426319479.01.LZZZZZZZ.jpg","alt":"National Geographic Readers Crocodiles book","quip":"A beginnerâ€™s guide to royal protocol when the receiving line is twelve feet long and heavily armored.","url":"https://www.amazon.com/dp/1426319479?tag=blappos-20"}],"source":"https://people.com/robert-irwin-names-crocodile-after-prince-william-12076627","sourceName":"Read the People report"},
-  {id:'sep10-narrowest-car',isoDate:'2026-09-10',month:'September',date:'Sep 10, 2026',place:'Global',image:'assets/cards/sep10-narrowest-car.webp',title:'Worldâ€™s narrowest drivable car leaves elbow room off the blueprint',magnetUrl:'https://blappos.printify.me/product/31868618',magnetPrice:'$9.99',facts:'Guinness World Records marked the arrival of its 2027 annual book by announcing a collection of new record holders, including the worldâ€™s narrowest drivable car. It is a functioning vehicle, not merely a tiny display model.',why:'Record vehicles are usually optimized around one extreme. Making a car extraordinarily narrow while keeping it drivable turns ordinary packagingâ€”steering, controls, wheels and a human driverâ€”into the entire engineering challenge.',angle:'At last, a car for drivers who look at a bicycle lane and complain about all the wasted real estate. The glove compartment has been replaced by one glove.',amazonLinks:[{"title":"Drop Stop Car Seat Gap Fillers â€” Set of 2","image":"https://m.media-amazon.com/images/I/71aaOjmFYtL._AC_SL1440_.jpg","alt":"Two Drop Stop car seat gap fillers","quip":"The worldâ€™s narrowest car solves the seat-gap problem by nearly eliminating the possibility of a gap.","url":"https://www.amazon.com/dp/B00BYH6C1E?tag=blappos-20"},{"title":"HOTOR Compact 2-Gallon Car Trash Can","image":"https://m.media-amazon.com/images/I/51wza8T539L._AC_SL1500_.jpg","alt":"HOTOR compact car trash can","quip":"A compact bin for a car whose entire cabin may already qualify as compact storage.","url":"https://www.amazon.com/dp/B07VGRVKSN?tag=blappos-20"},{"title":"Ampper 2-Inch Blind Spot Mirrors â€” Pack of 2","image":"https://m.media-amazon.com/images/I/71hWoORU83L._AC_SL1500_.jpg","alt":"Pair of Ampper round blind spot mirrors","quip":"Two-inch mirrors for a car so narrow the blind spot may be wider than the vehicle.","url":"https://www.amazon.com/dp/B01CV4ANCC?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/',sourceName:'Read the UPI Odd News report'},
- {id:'sep10-monitor-lizard',isoDate:'2026-09-10',month:'September',date:'Sep 10, 2026',place:'Missouri',image:'assets/cards/sep10-monitor-lizard.webp',title:'Missouri storm drain reveals unexpected dragon setting',magnetUrl:'https://blappos.printify.me/product/31868644',magnetPrice:'$9.99',facts:'An Asian water monitor lizard was fished out of a storm drain in Missouri. The large reptile is not native to the state, making the underground encounter considerably stranger than the usual clogged-drain call.',why:'Asian water monitors are powerful, semiaquatic lizards commonly kept in the exotic-pet trade. Outside their native range, a loose animal can pose a difficult rescue problem for both the reptile and the people trying to retrieve it safely.',angle:'Missouri checked the storm drain and discovered the municipal sewer package had quietly upgraded to include dragons. The alligators-in-the-sewer union has filed a jurisdictional complaint.',amazonLinks:[{"title":"National Geographic Readers: Lizards","image":"https://m.media-amazon.com/images/P/1426309228.01.LZZZZZZZ.jpg","alt":"National Geographic Readers Lizards book","quip":"A quick identification guide for confirming that the animal in the drain is wildly outside Missouriâ€™s normal specifications.","url":"https://www.amazon.com/dp/1426309228?tag=blappos-20"},{"title":"Ultimate Reptileopedia: The Most Complete Reptile Reference Ever","image":"https://m.media-amazon.com/images/P/1426321023.01.LZZZZZZZ.jpg","alt":"Ultimate Reptileopedia reference book","quip":"The full reference for when one storm-drain lizard turns a routine call into an exotic-species exam.","url":"https://www.amazon.com/dp/1426321023?tag=blappos-20"},{"title":"National Geographic Kids Everything Reptiles","image":"https://m.media-amazon.com/images/P/1426313683.01.LZZZZZZZ.jpg","alt":"National Geographic Kids Everything Reptiles book","quip":"Required reading after Missouri plumbing unexpectedly begins issuing dragons.","url":"https://www.amazon.com/dp/1426313683?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/',sourceName:'Read the UPI Odd News report'},
- {id:'sep10-marmot-coolant',isoDate:'2026-09-10',month:'September',date:'Sep 10, 2026',place:'San Francisco, California',image:'assets/cards/sep10-marmot-coolant.webp',title:'Mystery marmot treats radiator fluid like a tasting menu',magnetUrl:'https://blappos.printify.me/product/31868361',magnetPrice:'$9.99',facts:'A mystery marmot found in San Francisco reportedly drank radiator fluid and required help from animal-care professionals. The unusual rescue became one of September 10â€™s standout odd-news stories.',why:'Antifreeze can be dangerously toxic to animals, and wildlife that wanders around vehicles may encounter leaked automotive fluids. The episode is funny as a headline but also a reminder to clean spills and keep chemicals secured.',angle:'The marmot arrived in San Francisco, skipped the sourdough and went directly to the fluorescent-green house special. The sommelier has been dismissed.',amazonLinks:[{"title":"OTOTO Baby Nessie Tea Infuser","image":"https://m.media-amazon.com/images/I/71x3v3kOFFL._AC_SL1500_.jpg","alt":"Baby Nessie loose-leaf tea infuser","quip":"For beverages that should be steeped, served andâ€”unlike radiator fluidâ€”approved for mammals.","url":"https://www.amazon.com/dp/B01DHUJAKU?tag=blappos-20"},{"title":"Ostrichpillow Original Travel Pillow","image":"https://m.media-amazon.com/images/I/71mYkyZFA-L._AC_SL1500_.jpg","alt":"Ostrichpillow Original travel pillow","quip":"Post-tasting hibernation equipment for anyone overwhelmed by the coolant menu.","url":"https://www.amazon.com/dp/B00B4S6SLW?tag=blappos-20"},{"title":"The Screaming Goat (Book & Figure)","image":"assets/products/screaming-goat.jpg","alt":"The Screaming Goat miniature book and figure","quip":"A compact automotive warning system programmed to scream when wildlife approaches the radiator.","url":"https://www.amazon.com/dp/0762459816?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/',sourceName:'Read the UPI Odd News report'},
- {id:'sep10-bagel-driver',isoDate:'2026-09-10',month:'September',date:'Sep 10, 2026',place:'Toowoomba, Australia',image:'assets/cards/sep10-bagel-driver.webp',title:'Driver discovers bagel preparation is not a hands-free feature',magnetUrl:'https://blappos.printify.me/product/31882313',magnetPrice:'$9.99',facts:'Queensland police said a 29-year-old provisional-license driver was caught steering a silver Honda HR-V with his knees while using both hands to butter a bagel in heavy traffic on Tor Street in Newtown, Toowoomba. Officers also found the vehicle was unregistered.',why:'Police fined the driver A$1,104 and issued three demerit points. He reportedly admitted the choice was â€œstupidâ€ and explained that he was hungry after working since morning; police used the incident to warn that even ordinary distractions can have serious consequences.',angle:'The driver kept both hands on breakfast and trusted the commute to his knees. Queensland has now added a useful road-safety rule: donâ€™t schmear and steer.',amazonLinks:[{title:'Hoan Bagel Biter Bagel Slicer',image:'https://m.media-amazon.com/images/I/31BnzSzooDL._AC_SL1000_.jpg',alt:'Hoan Bagel Biter bagel slicer',quip:'A countertop device that completes the dangerous part of bagel preparation before the ignition key enters the story.',url:'https://www.amazon.com/dp/B000HS7JPY?tag=blappos-20',salesPriority:5},{title:'Yeeper Small Cream Cheese Spreader Knives',image:'https://m.media-amazon.com/images/I/51+pkUuMInL._AC_SL1000_.jpg',alt:'Yeeper small wooden-handle spreader knives',quip:'Purpose-built schmear equipment for use at a table, where knees are not part of the steering system.',url:'https://www.amazon.com/dp/B08RDPMMR8?tag=blappos-20',salesPriority:4},{title:'Bagels, Schmears, and a Nice Piece of Fish',image:'https://m.media-amazon.com/images/P/1797210556.01.LZZZZZZZ.jpg',alt:'Bagels, Schmears, and a Nice Piece of Fish cookbook',quip:'A complete bagel education with the crucial unspoken chapter: finish the recipe before entering traffic.',url:'https://www.amazon.com/dp/1797210556?tag=blappos-20',salesPriority:5}],source:'https://www.news.com.au/technology/motoring/on-the-road/pplater-fined-after-using-knees-to-drive-car-while-buttering-a-bagel/news-story/4855eb64ca484b9ae7e5f14d52255521',sourceName:'Read the News.com.au report'},
- {id:'sep9-airforce-slide',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Joint Base Andrews, Maryland',image:'assets/cards/sep9-airforce-slide.webp',title:'Air Force One deploys the exit before the president boards',magnetUrl:'https://blappos.printify.me/product/31867302',magnetPrice:'$9.99',facts:'President Donald Trumpâ€™s departure for Dallas was briefly delayed after an emergency slide deployed from the new Air Force One while the aircraft sat at Joint Base Andrews. Reuters reported that military personnel accidentally triggered the slide; crews removed it and the flight departed.',why:'Emergency slides are single-use equipment that must be removed and serviced after deployment, so an accidental inflation can turn a normal departure into an expensive tarmac reset. No emergency was reported and the trip continued.',angle:'The plane apparently heard â€œboarding beginsâ€ and selected â€œevacuate.â€ Nothing says presidential transportation like arriving at the jet and finding it has already tried to leave without you.',amazonLinks:[{"title":"Ostrichpillow Original Travel Pillow","image":"https://m.media-amazon.com/images/I/71mYkyZFA-L._AC_SL1500_.jpg","alt":"Ostrichpillow Original travel pillow","quip":"For travelers who want to evacuate from consciousness before the slide evacuates itself.","url":"https://www.amazon.com/dp/B00B4S6SLW?tag=blappos-20"},{"title":"Wacky Waving Inflatable Tube Guy","image":"https://m.media-amazon.com/images/I/71xmJjfakxL._SL1500_.jpg","alt":"Mini wacky waving inflatable tube guy","quip":"A pocket-size reenactment of what the aircraft did on the tarmac.","url":"https://www.amazon.com/dp/0762462876?tag=blappos-20"},{"title":"Air Force One: The Aircraft That Shaped the Modern Presidency","image":"https://m.media-amazon.com/images/P/1559718943.01.LZZZZZZZ.jpg","alt":"Air Force One history book","quip":"The serious reference guide, presumably with a chapter titled â€œPlease Do Not Pull That.â€","url":"https://www.amazon.com/dp/1559718943?tag=blappos-20"}],source:'https://www.reuters.com/world/trump-says-emergency-slide-is-being-checked-qatar-gifted-air-force-one-2026-09-09/',sourceName:'Read the Reuters report'},
- {id:'sep9-nicolas-sinkhole',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Malibu, California',image:'assets/cards/sep9-nicolas-sinkhole.webp',title:'Nicolas Cageâ€™s driveway gets a basement it did not order',magnetUrl:'https://blappos.printify.me/product/31867646',magnetPrice:'$9.99',facts:'A large sinkhole opened beneath the driveway of a beachfront Malibu home reportedly owned by Nicolas Cage, damaging the property and helping trigger evacuation orders along Sea Level Drive. Officials said the hole grew to roughly 25â€“30 feet deep and about 30 by 60 feet wide.',why:'The collapse followed severe surf, tides and coastal erosion associated with the remnants of Hurricane Marie. Authorities restricted access because the expanding void threatened homes, utilities and emergency access.',angle:'Nicolas Cage has survived stolen declarations, face swaps and a wicker-man situation. The driveway finally found a plot twist he had not already filmed.',amazonLinks:[{"title":"Voodoo Child â€” Created by Nicolas Cage and Weston Cage","image":"assets/products/voodoo-9780981480800.jpg","alt":"Voodoo Child graphic novel created by Nicolas Cage and Weston Cage","quip":"The actual Cage-created graphic novel, for a driveway disaster that already sounds like his next movie.","url":"https://www.amazon.com/dp/0981480802?tag=blappos-20"},{"title":"Nicolas Cage Reversible Sequin Pillow Cover","image":"https://m.media-amazon.com/images/I/81vF6TXYz-L._AC_SL1500_.jpg","alt":"Nicolas Cage reversible sequin pillow cover","quip":"Brush the sequins and reveal the only face qualified to stare into a 30-foot sinkhole.","url":"https://www.amazon.com/dp/B0CP3HDM6N?tag=blappos-20"},{"title":"Nicolas Cage Coloring Book","image":"https://m.media-amazon.com/images/P/B0BSJ6FSS5.01.LZZZZZZZ.jpg","alt":"Unofficial Nicolas Cage novelty coloring book","quip":"Color inside the lines while Malibu declines to do the same.","url":"https://www.amazon.com/dp/B0BSJ6FSS5?tag=blappos-20"}],source:'https://apnews.com/article/2bd3a67b83f46e79d0b78b5d462fb7fa',sourceName:'Read the AP report'},
- {id:'sep9-goat',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Snohomish County, Washington',image:'assets/cards/sep9-goat.webp',title:'Escaped goat becomes acting neighborhood security director',magnetUrl:'https://blappos.printify.me/product/31867947',magnetPrice:'$9.99',facts:'Snohomish County sheriffâ€™s deputies were called to wrangle an escaped goat with roughly one-foot horns after residents reported it was trying to ram people. Body-camera video captured deputies physically steering the very determined animal back into its pen.',why:'Nobody was reported seriously hurt, but residents stayed inside while deputies handled the animal. The sheriffâ€™s office described the goat as taking its role as neighborhood menace very seriously.',angle:'For one afternoon the cul-de-sac had a new HOA president. Dues were payable in hay and all complaints were handled forehead-first.',amazonLinks:[{"title":"The Screaming Goat (Book & Figure)","image":"assets/products/screaming-goat.jpg","alt":"The Screaming Goat miniature book and screaming goat figure","quip":"A desk-size witness who can provide the neighborhoodâ€™s official statement.","url":"https://www.amazon.com/dp/0762459816?tag=blappos-20"},{"title":"The Little Book of Goat Yoga","image":"https://m.media-amazon.com/images/P/1473698499.01.LZZZZZZZ.jpg","alt":"The Little Book of Goat Yoga","quip":"De-escalation training for horned HOA presidents, now with breathing exercises.","url":"https://www.amazon.com/dp/1473698499?tag=blappos-20"},{"title":"The Screaming Christmas Goat","image":"https://m.media-amazon.com/images/P/0762482893.01.LZZZZZZZ.jpg","alt":"The Screaming Christmas Goat book and figure","quip":"Because one screaming goat is a news story; two is a seasonal collection.","url":"https://www.amazon.com/dp/0762482893?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/2026/09/09/Snohomish-County-Washington-escaped-goat/5371788965345/',sourceName:'Read the UPI report'},
- {id:'sep9-hotdog',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Kansas City, Missouri',image:'assets/cards/sep9-hotdog.webp',title:'Baseball crowd completes emergency stadium hot-dog assembly',magnetUrl:'https://blappos.printify.me/product/31867951',magnetPrice:'$9.99',facts:'Kansas City Royals fans had 35 seconds to bounce a giant inflatable hot dog and giant inflatable bun through separate sections of Kauffman Stadium and unite them. They pulled it off, earning free hot dogs for the crowd.',why:'The â€œHome Bun Raceâ€ happened during a Royals game against Toronto and became exactly the kind of low-stakes collective achievement the internet was built to preserve forever.',angle:'Thousands of people briefly achieved perfect coordination for the most American objective available: put the enormous meat tube in the enormous bread before time expires.',amazonLinks:[{"title":"GOOSH Inflatable Hot Dog Costume","image":"assets/products/inflatable-hot-dog.jpg","alt":"Adult inflatable hot dog costume","quip":"The emergency backup frank, should the stadium bun fail to achieve contact.","url":"https://www.amazon.com/dp/B0DPX57JBP?tag=blappos-20"},{"title":"The Great American Hot Dog Book","image":"https://m.media-amazon.com/images/P/1423600223.01.LZZZZZZZ.jpg","alt":"The Great American Hot Dog Book","quip":"Required reading before thousands of strangers assemble lunch by crowd-surfing.","url":"https://www.amazon.com/dp/1423600223?tag=blappos-20"},{"title":"Vlasic Dill Pickle Corn Puffs","image":"https://m.media-amazon.com/images/I/71c4xfpiQVL._SL1500_.jpg","alt":"Bag of Vlasic dill pickle flavored corn puffs","quip":"For anyone whose hot dog toppings must also arrive as airborne stadium snacks.","url":"https://www.amazon.com/dp/B0DGZ93J34?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/2026/09/09/home-bun-race-Kansas-City-royals/8641788970720/',sourceName:'Read the UPI report'},
- {id:'sep9-boa-engine',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'West Allis, Wisconsin',image:'assets/cards/sep9-boa-engine.webp',title:'Wisconsin mechanic discovers one hose has opinions',magnetUrl:'https://blappos.printify.me/product/31867952',magnetPrice:'$9.99',facts:'A West Allis family inspecting a car engine spotted what first looked like a dirty hose. Then it turned and looked back. The object was a roughly four-foot boa constrictor wedged into the engine compartment.',why:'Animal-control officials brought in a reptile rescue, whose founder eventually coaxed the snake out. The boa was placed on a stray hold while officials looked for an owner.',angle:'This is why the repair manual says â€œinspect belts and hosesâ€ but never says â€œmaintain eye contact with them.â€',amazonLinks:[{"title":"OTOTO Baby Nessie Tea Infuser","image":"https://m.media-amazon.com/images/I/71x3v3kOFFL._AC_SL1500_.jpg","alt":"Baby Nessie loose-leaf tea infuser","quip":"A friendlier serpentine object to discover lurking in a hot liquid compartment.","url":"https://www.amazon.com/dp/B01DHUJAKU?tag=blappos-20"},{"title":"Thereâ€™s a Snake in My School!","image":"https://m.media-amazon.com/images/P/0008172706.01.LZZZZZZZ.jpg","alt":"Thereâ€™s a Snake in My School childrenâ€™s book","quip":"Close enoughâ€”just replace â€œschoolâ€ with â€œengine bayâ€ and add a mechanic screaming off-page.","url":"https://www.amazon.com/dp/0008172706?tag=blappos-20"},{"title":"Wearable Shark Blanket","image":"https://m.media-amazon.com/images/I/51WyCFq0XUL._AC_SL1000_.jpg","alt":"Wearable shark blanket sleeping bag","quip":"For people who saw four feet of reptile under the hood and wanted to lose to a different animal.","url":"https://www.amazon.com/dp/B0CH9TWC91?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/2026/09/09/boa-constrictor-car-hood-West-Allis-Wisconsin/5751788971514/',sourceName:'Read the UPI report'},
- {id:'sep9-recliner-dog',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Joppatowne, Maryland',image:'assets/cards/sep9-recliner-dog.webp',title:'Terrier loses argument with recliner; firefighters escalate immediately',magnetUrl:'https://blappos.printify.me/product/31867957',magnetPrice:'$9.99',facts:'A rescue terrier named Highway became so badly tangled inside a recliner that firefighters from the Joppa Magnolia Volunteer Fire Company brought in hydraulic rescue equipment. They used the Jaws of Life to free the dog before he was taken for emergency veterinary care.',why:'Reclining furniture contains moving metal mechanisms and tight internal spaces that can be dangerous for pets that crawl underneath or inside. The rescue drew a wave of similar pet-owner stories online.',angle:'Highway entered the chair looking for a nap and accidentally unlocked the full vehicle-extrication package.',amazonLinks:[{"title":"Chenille Dog Hand Towel","image":"https://m.media-amazon.com/images/I/612tJq5VD2L._AC_SL1500_.jpg","alt":"Fluffy chenille dog-shaped hand towel","quip":"A tiny dog engineered to hang safely outside the furniture.","url":"https://www.amazon.com/dp/B0FRLKDX1J?tag=blappos-20"},{"title":"Dog Shaming","image":"https://m.media-amazon.com/images/P/0385349343.01.LZZZZZZZ.jpg","alt":"Dog Shaming humor book","quip":"Highwayâ€™s sign: â€œI made the recliner require hydraulic rescue equipment.â€","url":"https://www.amazon.com/dp/0385349343?tag=blappos-20"},{"title":"BBQ Meat Shredder Claws","image":"https://m.media-amazon.com/images/I/71Z0h08fPtL._AC_SL1500_.jpg","alt":"Pair of barbecue meat shredder claws","quip":"The household edition of the Jaws of Lifeâ€”do not test this theory on the chair.","url":"https://www.amazon.com/dp/B01N5U14FA?tag=blappos-20"}],source:'https://people.com/firefighters-rescue-dog-trapped-inside-recliner-in-maryland-12111746',sourceName:'Read the People report'},
- {id:'sep9-disc-golf',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'Idaho',image:'assets/cards/sep9-disc-golf.webp',title:'Disc golfers make relaxation stressful in 41.33 seconds',magnetUrl:'https://blappos.printify.me/product/31867960',magnetPrice:'$9.99',facts:'David Rush, Travis Davidson, Oliver Davidson and Anders Davidson set the Guinness World Records mark for the fastest hole of disc golf by a team of four, completing the attempt in 41.33 seconds.',why:'The record required accurate throws and a final uphill sprint to put the disc in the basket, turning a leisurely park sport into something much closer to a fire drill.',angle:'They successfully answered the question nobody asked: what if disc golf had the cardiovascular atmosphere of missing a flight?',amazonLinks:[{"title":"Towch Disc Golf Towel Pouch","image":"https://m.media-amazon.com/images/I/417bNYXoWdL.jpg","alt":"Black Towch disc golf towel pouch","quip":"Carries three to five discs, which is apparently enough equipment for a 41-second emergency.","url":"https://www.amazon.com/dp/B00YADXB36?tag=blappos-20"},{"title":"Zen & the Art of Disc Golf","image":"https://m.media-amazon.com/images/P/1502779331.01.LZZZZZZZ.jpg","alt":"Zen and the Art of Disc Golf book","quip":"A calm, centered rebuttal to turning the park into a four-person fire drill.","url":"https://www.amazon.com/dp/1502779331?tag=blappos-20"},{"title":"Dance Party Button","image":"https://m.media-amazon.com/images/I/61bqFwxDgmL._AC_SL1500_.jpg","alt":"Light-up dance party sound button","quip":"Smack it at 41.34 seconds and let the tiny victory ceremony begin.","url":"https://www.amazon.com/dp/B09LDB1SV9?tag=blappos-20"}],source:'https://www.guinnessworldrecords.com/openvideo/v/david-rush-sets-new-world-record-for-hot-dog-toss',sourceName:'See the Guinness World Records listing'},
- {id:'sep9-lottery',isoDate:'2026-09-09',month:'September',date:'Sep 9, 2026',place:'White Plains, Maryland',image:'assets/cards/sep9-lottery.webp',title:'Woman plays same lottery numbers for 20 years and finally wins the argument',magnetUrl:'https://blappos.printify.me/product/31867966',magnetPrice:'$9.99',facts:'A Maryland woman who said she had played the same Bonus Match 5 numbers for about two decades bought three tickets with the same combination for one drawing. All three hit the $50,000 prize, giving her a total of $150,000.',why:'The winner told lottery officials she had to call her sister to confirm the numbers because she did not believe what she was seeing. She said the money would go toward projects around the house.',angle:'Twenty years of â€œthese numbers are dueâ€ has officially been upgraded from questionable math to family legend.',amazonLinks:[{"title":"Lottery Winning Strategies & 70 Percent Win Formula","image":"https://m.media-amazon.com/images/P/094576023X.01.LZZZZZZZ.jpg","alt":"Lottery Winning Strategies book","quip":"For anyone who wants to turn â€œsame numbers for 20 yearsâ€ into a written business plan.","url":"https://www.amazon.com/dp/094576023X?tag=blappos-20"},{"title":"The Lottery and Other Stories","image":"https://m.media-amazon.com/images/P/0374529531.01.LZZZZZZZ.jpg","alt":"The Lottery and Other Stories by Shirley Jackson","quip":"Not a financial guide, but certainly the most ominous way to celebrate a winning ticket.","url":"https://www.amazon.com/dp/0374529531?tag=blappos-20"},{"title":"The Winner","image":"https://m.media-amazon.com/images/P/1538711796.01.LZZZZZZZ.jpg","alt":"The Winner novel by David Baldacci","quip":"A title accurate enough to display beside three identical $50,000 tickets.","url":"https://www.amazon.com/dp/1538711796?tag=blappos-20"}],source:'https://www.upi.com/Odd_News/2026/09/09/lotto-Maryland-Lottery-20-years-Bonus-Match-5/6381788975567/',sourceName:'Read the UPI report'}
-];
-
-const verifiedSourceCorrections={
- 'sep10-narrowest-car':{source:'https://www.youtube.com/watch?v=M_IFdyBrWQA',sourceName:'Watch the Guinness World Records report'},
- 'sep9-disc-golf':{source:'https://www.youtube.com/shorts/7-ih0vd9hMQ',sourceName:'Watch the Guinness World Records attempt'}
-};
-window.dailyStories.forEach(story=>Object.assign(story,verifiedSourceCorrections[story.id]||{}));
-
-window.dailyFinds=[
- {storyId:'sep10-marmot-coolant',title:'Prestone AF-1420 Antifreeze/Coolant Tester',image:'https://images-na.ssl-images-amazon.com/images/P/B000BOA9RY.01.LZZZZZZZ.jpg',alt:'Prestone antifreeze and coolant tester',quip:'For checking the radiatorâ€™s vintage before the local marmot appoints itself coolant sommelier.',url:'https://www.amazon.com/dp/B000BOA9RY?tag=blappos-20'},
- {storyId:'sep10-marmot-coolant',title:'Loraffe 12V/24V Ultrasonic Under Hood Rodent Repellent â€” 2 Pack',image:'https://m.media-amazon.com/images/I/51yhzOPYWKL._AC_SL1000_.jpg',alt:'Loraffe ultrasonic under-hood animal repeller two-pack',quip:'A tiny nightclub for your engine bay: ultrasonic noise, flashing lights and absolutely no marmot reservations.',url:'https://www.amazon.com/dp/B07D118ZRJ?tag=blappos-20'},
- {storyId:'sep10-marmot-coolant',title:'GOLENER Oil Spill Mat â€” 29 by 36 Inches',image:'https://m.media-amazon.com/images/I/71QMqrgG-KL._AC_SL1500_.jpg',alt:'GOLENER absorbent automotive fluid spill mat',quip:'Catch the fluorescent buffet before wildlife discovers the driveway tasting menu.',url:'https://www.amazon.com/dp/B0D2XVTTML?tag=blappos-20'},
- {storyId:'sep9-goat',title:'The Screaming Goat (Book & Figure)',image:'assets/products/screaming-goat.jpg',alt:'The Screaming Goat miniature book and screaming goat figure',quip:'For anyone who read â€œhorned neighborhood menaceâ€ and thought: put that on my desk.',url:'https://www.amazon.com/dp/0762459816?tag=blappos-20'},
- {storyId:'sep9-nicolas-sinkhole',title:'Voodoo Child â€” Created by Nicolas Cage and Weston Cage',image:'assets/products/voodoo-9780981480800.jpg',alt:'Voodoo Child graphic novel created by Nicolas Cage and Weston Cage',quip:'The actual graphic novel created by Nicolas Cageâ€”because apparently a collapsing Malibu driveway was not enough plot.',url:'https://www.amazon.com/dp/0981480802?tag=blappos-20'},
- {storyId:'sep9-hotdog',title:'GOOSH Inflatable Hot Dog Costume Adult Food Funny Halloween Blow Up Costume',image:'assets/products/inflatable-hot-dog.jpg',alt:'GOOSH adult inflatable hot dog costume',quip:'The emergency backup hot dog, should the stadium bun fail to achieve contact.',url:'https://www.amazon.com/dp/B0DPX57JBP?tag=blappos-20'}
-];
-
-// Sep. 10 verification pass: only stories with exact dated sources and three
-// directly matched, image-first Amazon cards remain eligible for publication.
-const tallestHorse=window.dailyStories.find(story=>story.id==='sep11-tallest-horse');
-Object.assign(tallestHorse,{
- isoDate:'2026-09-10',
- date:'Sep 10, 2026',
- image:'assets/cards/sep10-tallest-horse.webp',
- facts:'Hugo, a four-year-old Shire horse in Towcester, England, was recognized in Guinness World Records 2027 as the worldâ€™s tallest living horse. A veterinarian measured him without horseshoes at 1.99 metersâ€”about 6 feet 6 inchesâ€”at the withers.',
- why:'Shire horses were bred for heavy work and are among the worldâ€™s largest horse breeds. Hugo is still young, gentle and reportedly affectionate, while the breed itself is now critically endangered.',
- amazonLinks:[
-  {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of the Guinness World Records 2027 book',quip:'The official record book containing Hugoâ€™s new titleâ€”and several pages sturdy enough to serve as his coaster.',salesPriority:5,url:'https://www.amazon.com/dp/1806500256?tag=blappos-20'},
-  {title:'The Horse Encyclopedia (DK Pet Encyclopedias)',image:'https://m.media-amazon.com/images/I/71nQ+QPJ6nL._SL1500_.jpg',alt:'Cover of The Horse Encyclopedia from DK',quip:'A complete horse reference that may need a foldout page to accommodate Hugo.',salesPriority:4,url:'https://www.amazon.com/dp/1465451439?tag=blappos-20'},
-  {title:'Encyclopedia of Horse Breeds',image:'https://m.media-amazon.com/images/I/61fFs6ixLVL._SL1000_.jpg',alt:'Cover of Encyclopedia of Horse Breeds by Hendricks',quip:'For identifying the Shire breed before the specimen peers into your second-floor window.',salesPriority:3,url:'https://www.amazon.com/dp/080613884X?tag=blappos-20'}
- ],
- source:'https://people.com/hugo-the-shire-horse-claims-title-of-world-s-tallest-horse-12115531',
- sourceName:'Read the People report'
-});
-
-const princeCroc=window.dailyStories.find(story=>story.id==='sep11-prince-william-croc');
-Object.assign(princeCroc,{
- isoDate:'2026-09-02',
- date:'Sep 2, 2026',
- image:'assets/cards/sep11-prince-william-croc.webp'
-});
-princeCroc.amazonLinks.forEach((item,index)=>item.salesPriority=[4,3,3][index]);
-
-const narrowCar=window.dailyStories.find(story=>story.id==='sep10-narrowest-car');
-Object.assign(narrowCar,{
- place:'Bagnolo Cremasco, Italy',
- facts:'Italian mechanic Andrea Marazzi turned a salvaged 1993 Fiat Panda into the worldâ€™s narrowest drivable car. The electric â€œFlat Fiatâ€ is 50.20 centimeters (19.76 inches) wide, has four wheels, one headlight and one seat, and retains more than 90 percent of the original carâ€™s parts.',
- why:'Marazzi spent about a year fitting a driver, steering, controls and a working powertrain into a slice of car. The finished vehicle weighs about 264 kilograms, reaches roughly 15 km/h and is not street legal.',
- amazonLinks:[
-  {title:'Drop Stop - Original Car Seat Gap Filler (Shark Tank) - Set of 2 + Gifts',image:'https://m.media-amazon.com/images/I/71aaOjmFYtL._AC_SL1440_.jpg',alt:'Pair of black Drop Stop car seat gap fillers',quip:'For the one-seat Flat Fiat, where losing anything beside the seat may count as exterior storage.',salesPriority:5,url:'https://www.amazon.com/dp/B00BYH6C1E?tag=blappos-20'},
-  {title:'Ampper Blind Spot Mirror, 2" Round HD Glass Frameless Convex Rear View Mirror, Pack of 2',image:'https://m.media-amazon.com/images/I/71hWoORU83L._AC_SL1500_.jpg',alt:'Pair of Ampper two-inch round blind-spot mirrors',quip:'Two-inch mirrors for a car so narrow the blind spot may be wider than the vehicle.',salesPriority:4,url:'https://www.amazon.com/dp/B01CV4ANCC?tag=blappos-20'},
-  {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of the Guinness World Records 2027 book',quip:'The record book that makes the 19.76-inch Flat Fiat officially more than a very committed door.',salesPriority:5,url:'https://www.amazon.com/dp/1806500256?tag=blappos-20'}
- ],
- source:'https://www.thesun.co.uk/news/40340374/mechanic-smashes-world-record-narrowest-car/',
- sourceName:'Read The Sun report'
-});
-
-const ponyCollection={
- id:'sep10-pony-collection',
- isoDate:'2026-09-10',
- month:'September',
- date:'Sep 10, 2026',
- place:'Lowestoft, England',
- image:'assets/cards/sep10-pony-collection.webp',
- title:'Denied one horse, woman acquires 7,500 ponies instead',magnetUrl:'https://blappos.printify.me/product/31873563',magnetPrice:'$9.99',
- facts:'Miranda Worby of Lowestoft, England, earned a Guinness World Record after 4,550 My Little Pony items were officially counted. She told People that the collection has since grown to around 7,500 pieces, filling a room and a storage unit.',
- why:'Worby began collecting the toys at age three and started hunting seriously for missing pieces in 1997. The record is a spectacular example of how a childhood â€œnoâ€ can become a decades-long cataloging operation.',
- angle:'Her parents declined to buy one horse. The appeal process has now produced roughly 7,499 additional exhibits and an off-site evidence locker.',
- amazonLinks:[
-  {title:'My Little Pony Classics - Celestial Ponies - Polaris - Retro 4" Collectible Play Figure, Great for Kids, Toddlers, Adults, Girls and Boys Ages 3+',image:'https://m.media-amazon.com/images/I/81swiGDUiYL._AC_SL1500_.jpg',alt:'My Little Pony Classics Celestial Ponies Polaris retro collectible figure',quip:'One more pony for a collection whose â€œone moreâ€ phase has lasted nearly three decades.',salesPriority:5,url:'https://www.amazon.com/dp/B0BPK2351F?tag=blappos-20'},
-  {title:'Ponyville Confidential: The History and Culture of My Little Pony, 1981-2016',image:'https://m.media-amazon.com/images/I/61bK5gTn9wL._SL1360_.jpg',alt:'Cover of Ponyville Confidential, a history of My Little Pony',quip:'The field guide for understanding how a toy shelf evolves into municipal-scale pony infrastructure.',salesPriority:4,url:'https://www.amazon.com/dp/1476662096?tag=blappos-20'},
-  {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of the Guinness World Records 2027 book',quip:'The official paperwork confirming that 7,500 ponies is a record, not a home-decor preference.',salesPriority:5,url:'https://www.amazon.com/dp/1806500256?tag=blappos-20'}
- ],
- source:'https://people.com/woman-told-she-couldnt-have-horse-as-child-breaks-record-worlds-biggest-my-little-pony-collection-12115528',
- sourceName:'Read the People report'
-};
-
-window.dailyStories=window.dailyStories.filter(story=>!['sep10-monitor-lizard','sep10-marmot-coolant'].includes(story.id));
-window.dailyStories.splice(window.dailyStories.indexOf(narrowCar)+1,0,ponyCollection);
-const sep10ExtraStories=[
-  {
-    "id": "sep10-mural-phone",
-    "place": "Springfield, Massachusetts",
-    "image": "assets/cards/sep10-mural-phone.webp",
-    "title": "1937 mural catches a time traveler checking his notifications",
-    "magnetUrl": "https://blappos.printify.me/product/31880964",
-    "magnetPrice": "$9.99",
-    "facts": "A 1937 mural by Umberto Romano went viral after viewers noticed an Indigenous man holding a small dark rectangle in a pose that looks strikingly like someone checking a smartphone. The mural depicts a 17th-century encounter involving Springfield founder William Pynchon.",
-    "why": "There is no evidence of a lost colonial cellular network. Historians say the object is more plausibly a small hand mirror, book or traded item. The mural was created for Springfieldâ€™s main post office as part of a Depression-era federal art project.",
-    "angle": "The first smartphone user has finally been identified, and he already looks disappointed by the battery life. Historians believe he was checking whether the Mayflower had surge pricing.",
-    "source": "https://www.ndtv.com/offbeat/smartphone-in-a-1937-painting-viral-image-sparks-bizarre-time-travel-claims-12028636",
-    "sourceName": "Read the NDTV report",
-    "isoDate": "2026-09-10",
-    "month": "September",
-    "date": "Sep 10, 2026",
-    "amazonLinks": [
-      {
-        "title": "The Time Machine by H. G. Wells",
-        "image": "https://m.media-amazon.com/images/P/0451530703.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Time Machine by H. G. Wells",
-        "quip": "The repair manual for anyone who arrives in 1636 with a phone and no charger.",
-        "url": "https://www.amazon.com/dp/0451530703?tag=blappos-20",
-        "salesPriority": 1
-      },
-      {
-        "title": "Magnetic Selfie Mirror for Phone",
-        "image": "https://m.media-amazon.com/images/P/B0CYSCFJCD.01.LZZZZZZZ.jpg",
-        "alt": "Round magnetic selfie mirror for a smartphone",
-        "quip": "The historically plausible explanation, now upgraded with magnetic attachment and outdoor-selfie capability.",
-        "url": "https://www.amazon.com/dp/B0CYSCFJCD?tag=blappos-20",
-        "salesPriority": 1
-      },
-      {
-        "title": "How to Invent Everything: A Survival Guide for the Stranded Time Traveler",
-        "image": "https://m.media-amazon.com/images/P/073522014X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of How to Invent Everything",
-        "quip": "Useful when your 1937 mural appearance occurs before the nearest charging brick has been invented.",
-        "url": "https://www.amazon.com/dp/073522014X?tag=blappos-20",
-        "salesPriority": 5
-      }
-    ]
-  },
-  {
-    "id": "sep10-henna-robot",
-    "place": "India / Online",
-    "image": "assets/cards/sep10-henna-robot.webp",
-    "title": "Robot applies wedding henna and immediately requests a five-star review","magnetUrl":"https://blappos.printify.me/product/31881034","magnetPrice":"$9.99",
-    "facts": "Industrialist Harsh Goenka shared an AI-generated video showing a machine apparently applying a detailed mehendi design to a womanâ€™s hand. The clip prompted a fresh argument over whether automation is coming for traditional artists and skill-based services.",
-    "why": "Mehendi artists create intricate, personalized designs for weddings, festivals and celebrations. Commenters quickly noted that a synthetic demonstration is not proof of a safe, reliable commercial machineâ€”and that craftsmanship, judgment and human connection remain central to the tradition.",
-    "angle": "The robot promises perfect symmetry, no small talk and a mandatory firmware update halfway through the brideâ€™s left hand. Premium users may unlock the thumb.",
-    "source": "https://www.ndtv.com/offbeat/some-more-jobs-gone-harsh-goenka-shares-video-of-mehendi-applying-machine-12027218",
-    "sourceName": "Read the NDTV report",
-    "isoDate": "2026-09-10",
-    "month": "September",
-    "date": "Sep 10, 2026",
-    "amazonLinks": [
-      {
-        "title": "The Henna Sourcebook",
-        "image": "https://m.media-amazon.com/images/P/1596680334.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Henna Sourcebook",
-        "quip": "The human reference manual for patterns that deserve more thought than â€œrobot arm go brrrr.â€",
-        "url": "https://www.amazon.com/dp/1596680334?tag=blappos-20",
-        "salesPriority": 1
-      },
-      {
-        "title": "Mehndi: The Art of Henna Body Painting",
-        "image": "https://m.media-amazon.com/images/P/089281778X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Mehndi The Art of Henna Body Painting",
-        "quip": "A proper introduction to the art before Silicon Valley adds a subscription tier to your palm.",
-        "url": "https://www.amazon.com/dp/089281778X?tag=blappos-20",
-        "salesPriority": 1
-      },
-      {
-        "title": "Temporary Tattoos",
-        "image": "https://m.media-amazon.com/images/P/0486407039.01.LZZZZZZZ.jpg",
-        "alt": "Cover of a temporary tattoo design book",
-        "quip": "For people who want decorative skin art without placing a hand under suspicious imaginary machinery.",
-        "url": "https://www.amazon.com/dp/0486407039?tag=blappos-20",
-        "salesPriority": 1
-      }
-    ]
-  },
-  {
-    "id": "sep10-silent-account",
-    "place": "Cupertino, California / Online",
-    "image": "assets/cards/sep10-silent-account.webp",
-    "title": "Account gains 10 million followers by finally keeping quiet","magnetUrl":"https://blappos.printify.me/product/31881041","magnetPrice":"$9.99",
-    "facts": "Appleâ€™s main account on X has accumulated nearly 10 million followers while showing zero regular public posts on its timeline. The company has used the platform for paid promotions, while support accounts and executives publish normally.",
-    "why": "The blank feed is a strange exception to the standard social-media growth playbook. It also shows the difference between organic timeline posts and paid advertising: an account can appear silent while the company remains active elsewhere on the platform.",
-    "angle": "Ten million people subscribed to hear nothing and have never been disappointed. Every social-media manager just stared at next monthâ€™s content calendar and whispered, â€œSon of a bitch.â€",
-    "source": "https://www.ndtv.com/offbeat/apple-has-10-million-x-twitter-followers-but-hasnt-posted-once-in-15-years-12026829",
-    "sourceName": "Read the NDTV report",
-    "isoDate": "2026-09-10",
-    "month": "September",
-    "date": "Sep 10, 2026",
-    "amazonLinks": [
-      {
-        "title": "The Subtle Art of Not Giving a F*ck",
-        "image": "https://m.media-amazon.com/images/P/0062457713.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Subtle Art of Not Giving a Fck",
-        "quip": "The corporate social strategy, expanded from zero posts into 224 pages.",
-        "url": "https://www.amazon.com/dp/0062457713?tag=blappos-20",
-        "salesPriority": 5
-      },
-      {
-        "title": "Wreck This Journal",
-        "image": "https://m.media-amazon.com/images/P/0399161945.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Wreck This Journal",
-        "quip": "A posting calendar with the correct amount of blank space and significantly more audience participation.",
-        "url": "https://www.amazon.com/dp/0399161945?tag=blappos-20",
-        "salesPriority": 4
-      },
-      {
-        "title": "Wacky Waving Inflatable Tube Guy",
-        "image": "https://m.media-amazon.com/images/I/71xmJjfakxL._SL1500_.jpg",
-        "alt": "Mini wacky waving inflatable tube guy",
-        "quip": "When the official account says nothing, deploy the tiny inflatable communications department.",
-        "url": "https://www.amazon.com/dp/0762462876?tag=blappos-20",
-        "salesPriority": 5
-      }
-    ]
-  }
-];
-window.dailyStories=window.dailyStories.filter(story=>!sep10ExtraStories.some(item=>item.id===story.id));
-window.dailyStories.splice(0,0,...sep10ExtraStories);
-
-const sep11Stories = [
-  {
-    "id": "sep11-pogo-cubes",
-    "place": "Annapolis Royal, Nova Scotia",
-    "image": "assets/cards/sep11-pogo-cubes.webp",
-    "title": "Man solves 211 puzzle cubes on a pogo stick because sitting was too easy","magnetUrl":"https://blappos.printify.me/product/31903643","magnetPrice":"$9.99",
-    "facts": "In a September 11 retrospective, UPI revisited Canadian Saul Hafting's Guinness World Records feat in Annapolis Royal, Nova Scotia. On October 9, 2021, Hafting solved 211 rotating puzzle cubes while continuously bouncing on a pogo stick for more than an hour. Guinness says he practiced twice a week, gripped the pogo stick with his legs and relied on a support team to keep fresh cubes moving into his hands.",
-    "why": "The record combined speed-solving, balance and endurance in a way that made every part harder: his hands had to solve, his legs had to steer and his knees had to absorb an hour of bouncing. It is also a delightfully literal example of a specialist community turning two difficult hobbies into one needlessly magnificent problem.",
-    "angle": "Verified fact ends above. The Blappos interpretation: the chair was eliminated early in training after failing its performance review. By cube 211, gravity had filed a formal workplace grievance.",
-    "source": "https://www.upi.com/Odd_News/2026/09/11/canada-Guinness-World-Records-rubiks-cube-pogo-stick/5691789143596/",
-    "sourceName": "Read the UPI report",
-    "isoDate": "2026-09-11",
-    "month": "September",
-    "date": "Sep 11, 2026",
-    "amazonLinks": [
-      {
-        "title": "Rubik's Cube The Original 3x3 Puzzle Cube & Brain Teaser Fidget Toy",
-        "image": "https://m.media-amazon.com/images/I/81HO-y+FIdL._AC_SL1500_.jpg",
-        "alt": "Rubik's original three-by-three puzzle cube on a white background",
-        "quip": "The exact kind of cube Hafting solved 211 times while the floor kept leaving and returning.",
-        "url": "https://www.amazon.com/dp/B092W7D64G?tag=blappos-20",
-        "salesPriority": 5
-      },
-      {
-        "title": "Flybar Master Pogo Stick for Kids Ages 9+, 80â€“160 lbs â€“ Easy Grip Handles â€“ Active Exercise Toy for Tweens & Teens â€“ Outdoor Toy with Non-Slip Foot Pegs for Boys and Girls â€“ No Assembly Needed",
-        "image": "https://m.media-amazon.com/images/I/41FFdnKzg3L._AC_SL1080_.jpg",
-        "alt": "Green Flybar Master pogo stick with black handles and foot pegs",
-        "quip": "Recreates the record's least stable piece of equipment; bring your own 211-cube support crew.",
-        "url": "https://www.amazon.com/dp/B00GNB3KMU?tag=blappos-20",
-        "salesPriority": 4
-      },
-      {
-        "title": "Guinness World Records 2027",
-        "image": "https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg",
-        "alt": "Green cover of the Guinness World Records 2027 book",
-        "quip": "For readers inspired by Hafting's official record to invent an even less seated achievement.",
-        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20",
-        "salesPriority": 5
-      }
-    ]
-  },
-  {
-    "id": "sep11-highway-kitten",
-    "place": "Hillsborough County, Florida",
-    "image": "assets/cards/sep11-highway-kitten.webp",
-    "title": "Five-week-old kitten turns interstate rescue into a foot pursuit","magnetUrl":"https://blappos.printify.me/product/31903649","magnetPrice":"$9.99",
-    "facts": "UPI reported on September 11 that a five-week-old black kitten was spotted on southbound Interstate 275 in Hillsborough County, Florida. A sheriff's deputy and Florida Highway Patrol trooper chased and caught the kitten on September 8 after a passerby alerted authorities. The kitten was named Dash and adopted by the deputy's family.",
-    "why": "A tiny animal loose on an active interstate put the kitten, motorists and responders at risk. The coordinated rescue ended without a crash or injury, and the immediate adoption turned a dangerous roadside call into a permanent home.",
-    "angle": "Verified fact ends above. The Blappos interpretation: Dash was detained after a brief pur-suit, refused to provide insurance and was sentenced to a lifetime of indoor naps with the arresting family.",
-    "source": "https://www.upi.com/Odd_News/2026/09/11/Hillsbough-County-Florida-interstate-kitten/9471789148009/",
-    "sourceName": "Read the UPI report",
-    "isoDate": "2026-09-11",
-    "month": "September",
-    "date": "Sep 11, 2026",
-    "amazonLinks": [
-      {
-        "title": "Tiny But Mighty: Kitten Lady's Guide to Saving the Most Vulnerable Felines",
-        "image": "https://m.media-amazon.com/images/I/713au6EGmxL._SL1500_.jpg",
-        "alt": "Cover of Tiny But Mighty featuring a small kitten",
-        "quip": "A care guide built for exactly the sort of vulnerable five-week-old kitten found on the interstate.",
-        "url": "https://www.amazon.com/dp/1524744069?tag=blappos-20",
-        "salesPriority": 5
-      },
-      {
-        "title": "PetSafe Come with Me Kitty Harness and Bungee Cat Leash, Royal Blue, Large | Adjustable 2-Point Fit Applies Gentle Pressure to Shoulders, Not Neck, for Average and Large Cats with 13 in - 18 in Girth",
-        "image": "https://m.media-amazon.com/images/I/61C3fIe8GuL._AC_SL1500_.jpg",
-        "alt": "Royal blue PetSafe cat harness and bungee leash",
-        "quip": "For Dash after he grows into it: a humane way to prevent the sequel from becoming another interstate foot pursuit.",
-        "url": "https://www.amazon.com/dp/B000OBIW9Q?tag=blappos-20",
-        "salesPriority": 4
-      },
-      {
-        "title": "Amazon Basics 2-Door Top-Load Hard-Sided Pet Travel Carrier for Cats and Small Dogs, 19\" L x 12.6\" W x 10\" H, Gray & Blue",
-        "image": "https://m.media-amazon.com/images/I/71WgHnZShvL._AC_SL1500_.jpg",
-        "alt": "Gray and blue hard-sided pet carrier with front and top doors",
-        "quip": "A safer ride home for a rescued kitten than improvising protective custody beside I-275.",
-        "url": "https://www.amazon.com/dp/B00OP6SMCI?tag=blappos-20",
-        "salesPriority": 5
-      }
-    ]
-  },
-  {
-    "id": "sep11-stadium-squirrel",
-    "place": "Columbus, Ohio",
-    "image": "assets/cards/sep11-stadium-squirrel.webp",
-    "title": "Ohio Stadium squirrel gets escorted from premium seating","magnetUrl":"https://blappos.printify.me/product/31903653","magnetPrice":"$9.99",
-    "facts": "UPI reported on September 11 that a squirrel became overwhelmed in the stands during Ohio State's September 5 football game against Ball State in Columbus. Fans calmed it with pretzels until a Perry Township police sergeant contained the animal in an empty cardboard beverage box and released it safely outside the stadium.",
-    "why": "Crowded venues can disorient wildlife and create avoidable risks for the animal and spectators. The low-drama responseâ€”give it space, contain it carefully and release it outdoorsâ€”resolved the problem without turning a frightened squirrel into a dangerous spectacle.",
-    "angle": "Verified fact ends above. The Blappos interpretation: the squirrel's ticket was valid, but outside snacks violated stadium policy. Security accepted one empty box as bail and released the suspect beyond the turnstiles.",
-    "source": "https://www.upi.com/Odd_News/2026/09/11/Perry-Township-Ohio-State-squirrel/9691789147583/",
-    "sourceName": "Read the UPI report",
-    "isoDate": "2026-09-11",
-    "month": "September",
-    "date": "Sep 11, 2026",
-    "amazonLinks": [
-      {
-        "title": "Gnodary Squirrel Feeder with Umbrella, Squirrel Feeders for Outside, Squirrel Picnic Table Feeder - Chipmunk Feeder Hold Corn, Corn Cob, Peanuts (Bright-Red)",
-        "image": "https://m.media-amazon.com/images/I/81cF0uja+TL._AC_SL1500_.jpg",
-        "alt": "Bright red squirrel picnic-table feeder with an umbrella",
-        "quip": "Gives the displaced stadium squirrel an off-field seat where outside snacks are explicitly permitted.",
-        "url": "https://www.amazon.com/dp/B0DPC9XHVH?tag=blappos-20",
-        "salesPriority": 5
-      },
-      {
-        "title": "The Secret Life of Squirrels",
-        "image": "https://m.media-amazon.com/images/I/81Ck7iPykUL._SL1500_.jpg",
-        "alt": "Cover of The Secret Life of Squirrels showing a squirrel at a miniature scene",
-        "quip": "The natural-history companion for a squirrel whose secret life includes pretzels and Big Ten seating.",
-        "url": "https://www.amazon.com/dp/0316391050?tag=blappos-20",
-        "salesPriority": 4
-      },
-      {
-        "title": "Masterpieces NCAA Ohio State Puzzle 1000 Piece Panoramic Stadium Jigsaw, Officially Licensed Buckeyes Football Design, Premium Random Cut Pieces, Vibrant Campus Game Day Artwork, Collectible Display",
-        "image": "https://m.media-amazon.com/images/I/71P1-El+w2L._AC_SL1500_.jpg",
-        "alt": "Panoramic Ohio State football stadium jigsaw puzzle box and completed puzzle",
-        "quip": "Recreates the exact stadium scene with 100 percent fewer frightened squirrels in the seating bowl.",
-        "url": "https://www.amazon.com/dp/B00I9DKV2M?tag=blappos-20",
-        "salesPriority": 5
-      }
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep11Stories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep11Stories);
-window.dailyFinds=[];
-
-const sep11SecondRun = [
-  {
-    id:'sep11-pittsburgh-coyote',isoDate:'2026-09-11',month:'September',date:'Sep 11, 2026',place:'Pittsburgh, Pennsylvania',image:'assets/cards/sep11-pittsburgh-coyote.webp',
-    title:'Coyote takes the alley shortcut and becomes part of the building',magnetUrl:'https://blappos.printify.me/product/31923807',magnetPrice:'$9.99',
-    facts:'Pittsburgh Public Safety said police, firefighters and animal-control officers responded after a coyote wandered into an alley and became wedged in a gap between two buildings. Crews carefully freed the animal, checked it for injuries and released it into a safer wooded area.',
-    why:'Coyotes are adaptable city wildlife, but tight urban spaces can turn a wrong turn into a dangerous trap. The coordinated rescue protected the animal while keeping responders and nearby residents out of harmâ€™s way.',
-    angle:'Verified fact ends above. The Blappos interpretation: Pittsburghâ€™s newest alley shortcut received a one-star review for width, customer service and the complete absence of a second exit.',
-    source:'https://www.upi.com/Odd_News/2026/09/11/Pittsburgh-coyote-trapped-walls-alley/2511789144824/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Coyote America: A Natural and Supernatural History',image:'https://m.media-amazon.com/images/P/0465052991.01.LZZZZZZZ.jpg',alt:'Cover of Coyote America by Dan Flores',quip:'The definitive background check on the adaptable urban traveler who mistook two Pittsburgh walls for an express lane.',url:'https://www.amazon.com/dp/0465052991?tag=blappos-20',salesPriority:5},
-      {title:'The Daily Coyote: A Story of Love, Survival, and Trust in the Wilds of Wyoming',image:'https://m.media-amazon.com/images/P/1416558175.01.LZZZZZZZ.jpg',alt:'Cover of The Daily Coyote by Shreve Stockton',quip:'A gentler coyote story for anyone who wants the animalâ€™s biography without the Pittsburgh masonry chapter.',url:'https://www.amazon.com/dp/1416558175?tag=blappos-20',salesPriority:4},
-      {title:'Coyote Petersonâ€™s Brave Adventures: Wild Animals in a Wild World',image:'https://m.media-amazon.com/images/P/1426338198.01.LZZZZZZZ.jpg',alt:'Cover of Coyote Petersonâ€™s Brave Adventures',quip:'The appropriately named field guide for a rescue that required bravery, wildlife and one exceptionally bad alley decision.',url:'https://www.amazon.com/dp/1426338198?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep11-mongolia-bench',isoDate:'2026-09-11',month:'September',date:'Sep 11, 2026',place:'Mongolia',image:'assets/cards/sep11-mongolia-bench.webp',
-    title:'President removes jacket, benches 220 pounds twenty times, resumes diplomacy',magnetUrl:'https://blappos.printify.me/product/31923815',magnetPrice:'$9.99',
-    facts:'A video from a military-unit visit showed Mongoliaâ€™s 58-year-old president, Ukhnaagiin KhÃ¼relsÃ¼kh, remove his suit jacket and bench-press 100 kilogramsâ€”about 220 poundsâ€”for 20 repetitions. The former army officer then stood up, shook hands and put his jacket back on.',
-    why:'The unusually polished feat went viral because it combined serious strength with the visual calm of a routine official visit. KhÃ¼relsÃ¼kh has a background in bodybuilding and martial arts in addition to his military and political career.',
-    angle:'Verified fact ends above. The Blappos interpretation: the cabinet meeting was adjourned after every remaining agenda item failed to demonstrate progressive overload.',
-    source:'https://www.ndtv.com/offbeat/watch-mongolian-president-takes-off-jacket-then-bench-presses-100kg-12031936',sourceName:'Read the NDTV report',
-    amazonLinks:[
-      {title:'Strength Training Anatomy, 3rd Edition',image:'https://m.media-amazon.com/images/I/5125uehJ+dL.jpg',alt:'Cover of Strength Training Anatomy, 3rd Edition by FrÃ©dÃ©ric Delavier',quip:'The illustrated technical manual for understanding what just happened beneath that perfectly ordinary dress shirt.',url:'https://www.amazon.com/dp/B01IUXRAPQ?tag=blappos-20',salesPriority:5},
-      {title:'Starting Strength: Basic Barbell Training, Third Edition',image:'https://m.media-amazon.com/images/P/0982522738.01.LZZZZZZZ.jpg',alt:'Cover of Starting Strength by Mark Rippetoe',quip:'The barbell primer for anyone inspired to beginâ€”preferably without opening at 220 pounds or wearing dress shoes.',url:'https://www.amazon.com/dp/0982522738?tag=blappos-20',salesPriority:5},
-      {title:'The New Encyclopedia of Modern Bodybuilding',image:'https://m.media-amazon.com/images/P/0684857219.01.LZZZZZZZ.jpg',alt:'Cover of The New Encyclopedia of Modern Bodybuilding',quip:'A cabinet-sized reference for the rare head of state whose official portrait may need a spotter.',url:'https://www.amazon.com/dp/0684857219?tag=blappos-20',salesPriority:4}
-    ]
-  }
-];
-window.dailyStories=window.dailyStories.filter(story=>!sep11SecondRun.some(item=>item.id===story.id));
-window.dailyStories.splice(0,0,...sep11SecondRun);
-
-const sep12Stories = [
-  {
-    "id": "sep12-arizona-coyote",
-    "isoDate": "2026-09-12",
-    "month": "September",
-    "date": "Sep 12, 2026",
-    "place": "Surprise, Arizona",
-    "image": "assets/cards/sep12-arizona-coyote.webp",
-    "title": "Mom brings a flip-flop to a coyote fight and gets her daughter home","magnetUrl":"https://blappos.printify.me/product/31933187","magnetPrice":"$9.99",
-    "facts": "The New York Post reported on September 12 that Brittany Cardinal was flying a kite outside her Surprise, Arizona, home with her four-year-old daughter when a coyote approached and attacked the child. Cardinal lifted her daughter, yelled and swung a flip-flop at the animal. The coyote bit Cardinal's face, leaving lacerations and puncture wounds, but her daughter was not hurt. Arizona Game and Fish officers captured coyotes for rabies testing, and Cardinal said she now carries pepper spray.",
-    "why": "Urban coyotes generally avoid people, but a bold or habituated animal can create a fast-moving danger around children and pets. Wildlife officials said Cardinal reacted correctly by picking up the child, making noise and fighting back. The agency described it as the first reported coyote attack in the Phoenix area since December 2023.",
-    "angle": "Verified fact ends above. The Blappos interpretation: Arizona's emergency-response hierarchy now officially ranks maternal instinct first, wildlife officers second and one extremely motivated sandal third.",
-    "source": "https://nypost.com/2026/09/12/us-news/arizona-mom-fights-off-coyote-attacking-her-daughter-with-a-flip-flop/",
-    "sourceName": "Read the New York Post report",
-    "amazonLinks": [
-      {
-        "title": "Havaianas Men's Brazil Flip Flop Sandals | Casual Sandals",
-        "image": "https://m.media-amazon.com/images/I/61UbRdtt2nL._AC_SL1200_.jpg",
-        "alt": "Black Havaianas rubber flip-flop sandal",
-        "quip": "The exact class of improvised footwear Cardinal swung when the coyote picked the wrong mother and daughter.",
-        "url": "https://www.amazon.com/dp/B000MUPG2A?tag=blappos-20",
-        "salesPriority": 5
-      },
-      {
-        "title": "HONBO Large Delta Kite for Kids & Adults,Extremely Easy to Fly Kite for Beach Trip,String Line Included,with Colorful Tail,Perfect for Beginners",
-        "image": "https://m.media-amazon.com/images/I/71jyARjh3pL._AC_SL1500_.jpg",
-        "alt": "Child holding a large rainbow delta kite with a colorful tail",
-        "quip": "Recreates the innocent kite-flying activity that became Arizona's least relaxing afternoon outside.",
-        "url": "https://www.amazon.com/dp/B07SQXJC7J?tag=blappos-20",
-        "salesPriority": 4
-      },
-      {
-        "title": "Sabre Pepper Spray with Quick Release Keychain for Self Defense â€“ Maximum Police Strength OC Spray with UV Marking Dye, Twist Lock Safety, Finger Grip, 10-Second Spray, 14-ft Range, Made in USA",
-        "image": "https://m.media-amazon.com/images/I/618HJ74Oa1L._AC_SL1500_.jpg",
-        "alt": "Lavender SABRE pepper-spray canister with quick-release keychain",
-        "quip": "The specific backup Cardinal said she carries now, for future wildlife negotiations that outgrow the sandal phase.",
-        "url": "https://www.amazon.com/dp/B07ZJSQL6C?tag=blappos-20",
-        "salesPriority": 5
-      }
-    ]
-  },
-  {
-    "id": "sep12-kerala-bus",
-    "isoDate": "2026-09-12",
-    "month": "September",
-    "date": "Sep 12, 2026",
-    "place": "Kerala, India",
-    "image": "assets/cards/sep12-kerala-bus.webp",
-    "title": "Government bus gets Wi-Fi, televisions, pantry and a toilet before most airlines","magnetUrl":"https://blappos.printify.me/product/31933189","magnetPrice":"$9.99",
-    "facts": "NDTV reported on September 12 that a Kerala State Road Transport Corporation Volvo air-conditioned bus running between Thiruvananthapuram and Ernakulam offers 36 push-back seats, extra legroom, personal televisions, USB charging, high-speed Wi-Fi, a pantry with tea, coffee and a mini-fridge, and an onboard toilet. The fare was reported as 505 rupees for the roughly four-hour weekday run.",
-    "why": "Reliable intercity public transport is easier to use when passengers can work, charge devices, eat and use a restroom without adding private-car traffic. The unusually complete amenity list also explains why a video of the state-run service spread far beyond Kerala: it makes many premium travel cabins look under-equipped.",
-    "angle": "Verified fact ends above. The Blappos interpretation: the bus has entered business class while several airlines remain in a holding pattern over the revolutionary concept of free water.",
-    "source": "https://www.ndtv.com/offbeat/rs-505-kerala-bus-ride-has-wi-fi-tv-pantry-and-toilet-goes-viral-12036701",
-    "sourceName": "Read the NDTV report",
-    "amazonLinks": [
-      {
-        "title": "GL.iNet GL-MT3000 Beryl AX Wi-Fi 6 Travel Router, 2.5G WAN, VPN, OpenWrt | Wi-Fi 6 dual band 574Mbps 2.4GHz plus 2402Mbps 5GHz, 2.5G WAN, gigabit LAN, USB 3.0",
-        "image": "https://m.media-amazon.com/images/I/41IiLQJghoL._AC_SL1500_.jpg",
-        "alt": "Compact gray GL.iNet Beryl AX travel Wi-Fi router",
-        "quip": "A pocket-sized version of the bus's headline amenity: actual Wi-Fi while the wheels are moving.",
-        "url": "https://www.amazon.com/dp/B0BPSGJN7T?tag=blappos-20",
-        "salesPriority": 5
-      },
-      {
-        "title": "WONNIE 12.5 Inch Portable DVD Player with 10.5 Inch Swivel HD Screen, with Car Headrest Case, 5-Hour Rechargeable Battery, Car Charger and AC Adapter, Supports USB/SD Card/Sync TV, All Regions",
-        "image": "https://m.media-amazon.com/images/I/419NeNAXr+L._AC_SL1500_.jpg",
-        "alt": "WONNIE portable DVD player with swivel screen, remote and headrest case",
-        "quip": "Recreates the Kerala coach's personal television without waiting for your local bus authority to achieve enlightenment.",
-        "url": "https://www.amazon.com/dp/B0C1GDTGNB?tag=blappos-20",
-        "salesPriority": 4
-      },
-      {
-        "title": "Bialetti - Moka Espress: Iconic Stovetop Espresso Maker, Makes Real Italian Coffee, Moka Pot 6 Cups (6 Oz), Aluminium, Silver",
-        "image": "https://m.media-amazon.com/images/I/311+W-RkcDL._AC_SL1500_.jpg",
-        "alt": "Silver six-cup Bialetti Moka Express stovetop coffee maker",
-        "quip": "For recreating the onboard pantry's coffee service after your own commute fails to include a beverage department.",
-        "url": "https://www.amazon.com/dp/B000CNY6UK?tag=blappos-20",
-        "salesPriority": 5
-      }
-    ]
-  },
-  {
-    "id": "sep12-singapore-gifts",
-    "isoDate": "2026-09-12",
-    "month": "September",
-    "date": "Sep 12, 2026",
-    "place": "Singapore",
-    "image": "assets/cards/sep12-singapore-gifts.webp",
-    "title": "CEO spends $370,000 on romance, discovers gifts lack a refund policy","magnetUrl":"https://blappos.printify.me/product/31933191","magnetPrice":"$9.99",
-    "facts": "NDTV reported on September 12 that Singapore's High Court dismissed a lawsuit by TCI Express managing director Chander Agarwal against former girlfriend Felicia Lee. Agarwal said nearly US$370,000 he spent during their relationshipâ€”including luxury goods, first-class flights, trips, insurance premiums, an executive program and about S$17,000 for a feng shui masterâ€”were interest-free loans. The court found that most were gifts, said the alleged handwritten loan agreement was not proved and ordered Agarwal to pay legal costs.",
-    "why": "The ruling turns on an ordinary but expensive distinction: money given inside a relationship does not become a repayable loan merely because the relationship ends. Without contemporaneous evidence of repayment terms, later labels and disputed paperwork carry little weight.",
-    "angle": "Verified fact ends above. The Blappos interpretation: love may be priceless, but Singapore's High Court would still like you to retain the receipt and define 'priceless' before checkout.",
-    "source": "https://www.ndtv.com/offbeat/indian-origin-ceo-spent-370-000-on-girlfriend-sued-her-after-break-up-and-lost-case-12036845",
-    "sourceName": "Read the NDTV report",
-    "amazonLinks": [
-      {
-        "title": "Adams Money and Rent Receipt Book, 2-Part Carbonless, 5-1/4\" x 11\", Spiral Bound, 200 Sets per Book, 4 Receipts per Page (SC1152)",
-        "image": "https://m.media-amazon.com/images/I/71CCFlIXnML._AC_SL1500_.jpg",
-        "alt": "Adams spiral-bound money and rent receipt book with carbonless forms",
-        "quip": "The paper trail that could have clarified whether each grand romantic gesture was a gift, a loan or very expensive ambiguity.",
-        "url": "https://www.amazon.com/dp/B00006ICSJ?tag=blappos-20",
-        "salesPriority": 5
-      },
-      {
-        "title": "Move Your Stuff, Change Your Life: How to Use Feng Shui to Get Love, Money, Respect, and Happiness",
-        "image": "https://m.media-amazon.com/images/P/0684866048.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Move Your Stuff, Change Your Life by Karen Rauch Carter",
-        "quip": "A substantially cheaper introduction to the exact feng shui subject that appeared as a five-figure line item in the dispute.",
-        "url": "https://www.amazon.com/dp/0684866048?tag=blappos-20",
-        "salesPriority": 5
-      },
-      {
-        "title": "2 Pcs Brown Handmade Wooden Judge Gavel, Vintage Auction Courtroom Judge Hammer Gavels Mallets for Cosplay Lawyer Justice Costume Props and Clothing Accessories, Office Desk and Workspace Organizers",
-        "image": "https://m.media-amazon.com/images/I/61DQduYcJwL._AC_SL1500_.jpg",
-        "alt": "Two polished brown wooden judge gavels",
-        "quip": "Reenacts the High Court ending of a romance case in which the refund policy was found not to exist.",
-        "url": "https://www.amazon.com/dp/B0G2LQJ1J4?tag=blappos-20",
-        "salesPriority": 3
-      }
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep12Stories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep12Stories);
-
-const sep13Stories = [
-  {
-    id:'sep13-guinness-heist',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Runcorn, England',image:'assets/cards/sep13-guinness-heist.webp',
-    title:'Thieves steal 70,000 pints of Guinness; Britain activates the foam reserves',magnetUrl:'https://blappos.printify.me/product/31956180',magnetPrice:'$9.99',
-    facts:'The Associated Press reported that thieves stole two trailer loads holding roughly 800 kegs and barrels of Guinness from an industrial park in Runcorn, near Liverpool. Police estimated the haul at about 70,000 pints, worth roughly Â£115,000 ($155,000), before counting the trailers.',
-    why:'Moving that much stout requires trucks, storage and a buyer willing to ignore a profoundly suspicious quantity of Guinness. Police appealed for witnesses and dashcam footage as investigators tried to trace both trailers and what may be the least discreet round in British history.',
-    angle:'Verified fact ends above. The Blappos interpretation: Britain has declared a sober emergency. Every pub is a potential crime scene, every foam moustache is evidence and somewhere a warehouse has become the worldâ€™s most incriminating happy hour.',
-    source:'https://apnews.com/article/guinness-heist-stout-stolen-truck-depot-pabst-pbr-88b7745450be79af57d35fd8dbd9c4c9',sourceName:'Read the AP report',
-    amazonLinks:[
-      {title:'Guinness 20oz Beer Glasses Twin Pack | Certified Official Merchandise | Ideal gift for Beer Lovers',image:'https://m.media-amazon.com/images/I/61QKnu8Y3iL._AC_SL1500_.jpg',alt:'Twin pack of official Guinness 20-ounce beer glasses',quip:'The exact stolen stout finally gets legitimate glassware instead of a getaway trailer.',url:'https://www.amazon.com/dp/B00A41G7MA?tag=blappos-20',salesPriority:5},
-      {title:'Life360 Tile Pro - Powerful Bluetooth Tracker, Key Finder and Item Locator for Keys, Bags and More. Both iOS and Android Compatible. Phone Finder. 1-Pack (Black)',image:'https://m.media-amazon.com/images/I/81KzRmjoY5L._AC_SL1500_.jpg',alt:'Black Life360 Tile Pro Bluetooth item tracker',quip:'A small tracker for the two trailers police would very much like to stop treating as missing luggage.',url:'https://www.amazon.com/dp/B0D637HWC5?tag=blappos-20',salesPriority:5},
-      {title:'Vantrue N4 Pro S 4K 3 Channel Dash Cam, Triple STARVIS 2, IP67 Rear Camera | 4K+1080P+2.5K Front Inside Rear Camera, HDR IR Night Vision, Voice Control, Parking Mode, GPS, Wi-Fi, Support 1TB (RC09)',image:'https://m.media-amazon.com/images/I/716nD7WzzbL._AC_SL1500_.jpg',alt:'Vantrue N4 Pro S three-channel dash camera system',quip:'Police explicitly asked for dashcam footage, so this is evidence collection with a windshield mount.',url:'https://www.amazon.com/dp/B0F8BQW4TR?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep13-self-driving-cab',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Noida to Lucknow, India',image:'assets/cards/sep13-self-driving-cab.webp',
-    title:'Passenger books a cab, becomes the cab, receives no promotion',magnetUrl:'https://blappos.printify.me/product/31956185',magnetPrice:'$9.99',
-    facts:'NDTV reported that Shivam Mishra booked a cab from Noida to Lucknow, then learned the driver had been working since the previous day and was too exhausted to continue safely. Mishra took the wheel while the driver slept in the back seat; Mishraâ€™s brother rode in front.',
-    why:'Letting an exhausted driver sleep was humane and likely safer than demanding he continue. The viral trip also exposed the upside-down incentives of app-based driving: a paying passenger had to become the service provider so the service provider could get the rest required to provide the service.',
-    angle:'Verified fact ends above. The Blappos interpretation: India has unveiled a revolutionary self-driving cab. You are the self. The vehicle supplies one sleeping employee, several hundred kilometers of responsibility and the rare privilege of paying for your own shift.',
-    source:'https://www.ndtv.com/offbeat/video-passenger-lets-exhausted-cab-driver-sleep-and-drives-from-noida-to-lucknow-himself-12040093',sourceName:'Read the NDTV report',
-    amazonLinks:[
-      {title:'Ostrichpillow Original Travel Pillow & Power Nap Pillow - High-End Microbeads Filled, Unique Patented Design, Versatile Use, Easy to Clean',image:'https://m.media-amazon.com/images/I/71mYkyZFA-L._AC_SL1500_.jpg',alt:'Ostrichpillow Original travel and power-nap pillow',quip:'Official uniform for the only person in the cab not currently employed by the cab company.',url:'https://www.amazon.com/dp/B00B4S6SLW?tag=blappos-20',salesPriority:5},
-      {title:'Everything New Drivers Need To Know: How to Pass the Driving Test, Avoid Accidents, Handle Car Breakdowns, Decode Road Signs, and Become the Safest Driver on the Road!',image:'https://m.media-amazon.com/images/I/61yJjkK8TaL._SL1500_.jpg',alt:'Cover of Everything New Drivers Need To Know by Peter Myers',quip:'Recommended reading before your next ride quietly reclassifies itself as an unpaid road test.',url:'https://www.amazon.com/dp/B0CJLCVB4B?tag=blappos-20',salesPriority:4},
-      {title:'Ovyuzhen Car Neck Support Pillow Relieving Neck Fatigue Ergonomic Design | Neck Pillow for 100% Soft Memory Foam',image:'https://m.media-amazon.com/images/I/71bYqTdAQwL._AC_SL1500_.jpg',alt:'Black Ovyuzhen memory-foam car neck support pillow',quip:'For the exhausted driver sleeping in back while his paying passenger discovers a surprise second job.',url:'https://www.amazon.com/dp/B0D1KDFWVP?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep13-mustang-plane',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Portsmouth, New Hampshire',image:'assets/cards/sep13-mustang-plane.webp',
-    title:'Fleeing Mustang challenges parked airplane, loses dogfight immediately',magnetUrl:'https://blappos.printify.me/product/31956190',magnetPrice:'$9.99',
-    facts:'Road & Track reported that a 17-year-old driving a black 2008 Ford Mustang allegedly fled police without headlights, smashed through the perimeter fence at Portsmouth International Airport, crossed the apron, hit a Kubota tractor and then struck a parked Pilatus PC-12 airplane. No one else was injured.',
-    why:'The collision reportedly damaged the aircraftâ€™s wing and landing gear and could produce a repair bill in the millions. The teenager was arrested and faced charges including aggravated driving while intoxicatedâ€”an unusually expensive demonstration that an airport runway is not an automotive escape route.',
-    angle:'Verified fact ends above. The Blappos interpretation: the Mustang entered aviation with tremendous confidence and no qualifications. Final score: parked airplane one, American muscle zero, airport fence deeply disappointed in everyone.',
-    source:'https://www.roadandtrack.com/news/a73595722/ford-mustang-teen-driver-fleeing-police-crash-plane-airport/',sourceName:'Read the Road & Track report',
-    amazonLinks:[
-      {title:'Airplane Flying Handbook: FAA-H-8083-3B',image:'https://m.media-amazon.com/images/P/1619545128.01.LZZZZZZZ.jpg',alt:'Cover of Airplane Flying Handbook: FAA-H-8083-3B',quip:'Contains many approved methods for approaching an airplane. A 2008 Mustang is not among them.',url:'https://www.amazon.com/dp/1619545128?tag=blappos-20',salesPriority:5},
-      {title:'Maisto 31197RD 1:18 Special Edition 2015 Ford Mustang Diecast Vehicles',image:'https://m.media-amazon.com/images/I/612b2kGKwjS._AC_SL1200_.jpg',alt:'Red Maisto 1:18 scale 2015 Ford Mustang die-cast model',quip:'Recreate the exact Mustang-versus-aircraft matchup while keeping the airport repair bill imaginary.',url:'https://www.amazon.com/dp/B00MGU3NOM?tag=blappos-20',salesPriority:5},
-      {title:'Everything New Drivers Need To Know: How to Pass the Driving Test, Avoid Accidents, Handle Car Breakdowns, Decode Road Signs, and Become the Safest Driver on the Road!',image:'https://m.media-amazon.com/images/I/61yJjkK8TaL._SL1500_.jpg',alt:'Cover of Everything New Drivers Need To Know by Peter Myers',quip:'Chapter one: roads. Chapter two: fences. Appendix: why neither one is a taxiway.',url:'https://www.amazon.com/dp/B0CJLCVB4B?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep13Stories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep13Stories);
-
-const sep13EncoreStories = [
-  {
-    id:'sep13-elephant-football',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Numaligarh, Assam',image:'assets/cards/sep13-elephant-football.webp',
-    title:'Elephant enters free agency after humiliating entire midfield',magnetUrl:'https://blappos.printify.me/product/31980546',magnetPrice:'$9.99',
-    facts:'NDTV reported that a wild elephant was filmed kicking a football around a grassland at Bogidhala in Numaligarh, in Assamâ€™s Golaghat district. The elephant repeatedly moved with the ball while onlookers watched, and video of the unexpected practice session spread online.',
-    why:'The clip was striking because the elephant did not merely investigate the ballâ€”it appeared to coordinate its steps and kicks like an enormous, completely unscouted player. The encounter also showed the curiosity and physical dexterity wild elephants can display around unfamiliar objects.',
-    angle:'Verified fact ends above. The Blappos interpretation: the transfer window is open and one club has discovered a striker who cannot be bullied off the ball. Contract demands include six tons of fruit, unrestricted grassland access and the immediate widening of the playersâ€™ tunnel.',
-    source:'https://www.ndtv.com/offbeat/elephant-turns-footballer-in-assams-numaligarh-shows-off-skills-on-ground-12041614',sourceName:'Read the NDTV report',
-    amazonLinks:[
-      {title:'DolliBu Super Soft Elephant Stuffed Animal with Soccer Ball Plush',image:'https://m.media-amazon.com/images/P/B0G1TNGGRM.01.LZZZZZZZ.jpg',alt:'DolliBu elephant stuffed animal holding a soccer ball',quip:'The exact elephant-football crossover, already miniaturized for teams unable to accommodate a full-size striker.',url:'https://www.amazon.com/dp/B0G1TNGGRM?tag=blappos-20',salesPriority:5},
-      {title:'Elephants (National Geographic Kids Readers, Level 1)',image:'https://m.media-amazon.com/images/P/1426326181.01.LZZZZZZZ.jpg',alt:'Cover of Elephants from National Geographic Kids Readers',quip:'Scouting notes on the Numaligarh prospect, regrettably missing the chapter on first-touch technique.',url:'https://www.amazon.com/dp/1426326181?tag=blappos-20',salesPriority:4},
-      {title:'Secrets of the Elephants',image:'https://m.media-amazon.com/images/P/1426223315.01.LZZZZZZZ.jpg',alt:'Cover of Secrets of the Elephants by Paula Kahumbu',quip:'A serious elephant reference for determining whether elite midfield vision was one of the secrets.',url:'https://www.amazon.com/dp/1426223315?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep13-plastic-cookies',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Carbondale, Illinois',image:'assets/cards/sep13-plastic-cookies.webp',
-    title:'Scientists put plastic bottles in cookies; recycling bin requests a lawyer',magnetUrl:'https://blappos.printify.me/product/31980557',magnetPrice:'$9.99',
-    facts:'Researchers at Southern Illinois University Carbondale are engineering yeasts to convert molecules derived from PET plastic and agricultural waste into proteins, fats, vitamins and flavorings. Those ingredients can be combined with fiber, starch and sweetener, then 3D-printed into protein-rich cookies called ÂµBites.',
-    why:'The NASA-backed work began as a way to make food where resupply is difficult, including long space missions. Researchers say available safety data are encouraging, but formal human taste testing still awaits institutional approval; the cookies have so far been judged mainly by aroma.',
-    angle:'Verified fact ends above. The Blappos interpretation: humanity stared at the recycling symbol and decided it was a recipe. The future vending machine will accept one bottle, add vanilla and dispense the snack you technically brought from home.',
-    source:'https://sciencedaily.com/releases/2026/09/260912220033.htm',sourceName:'Read the ScienceDaily report',
-    amazonLinks:[
-      {title:'Plastic: A Toxic Love Story',image:'https://m.media-amazon.com/images/P/0547152834.01.LZZZZZZZ.jpg',alt:'Cover of Plastic: A Toxic Love Story by Susan Freinkel',quip:'The background reading for a love story that has now reached the deeply complicated â€œeat the bottleâ€ phase.',url:'https://www.amazon.com/dp/0547152834?tag=blappos-20',salesPriority:4},
-      {title:'Cookies: The New Classics',image:'https://m.media-amazon.com/images/P/0593235665.01.LZZZZZZZ.jpg',alt:'Cover of Cookies: The New Classics by Jesse Szewczyk',quip:'A cookie book from the final innocent era, when â€œnew classicâ€ did not mean polyethylene terephthalate.',url:'https://www.amazon.com/dp/0593235665?tag=blappos-20',salesPriority:5},
-      {title:'The 3D Printing Handbook',image:'https://m.media-amazon.com/images/P/9082748509.01.LZZZZZZZ.jpg',alt:'Cover of The 3D Printing Handbook',quip:'The production manual for anyone whose bakery now requires software, microbes and a materials-science waiver.',url:'https://www.amazon.com/dp/9082748509?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep13-paragliding-grandpa',isoDate:'2026-09-13',month:'September',date:'Sep 13, 2026',place:'Himachal Pradesh',image:'assets/cards/sep13-paragliding-grandpa.webp',
-    title:'72-year-old reaches 24,000 feet; recliner declared medically boring',magnetUrl:'https://blappos.printify.me/product/31980562',magnetPrice:'$9.99',
-    facts:'NDTV reported that 72-year-old Kapildev Rawat of Jamui, Bihar, fulfilled a long-held dream by paragliding at nearly 24,000 feet in Himachal Pradesh. Rawat initially hesitated because of his age but went ahead after encouragement from his children.',
-    why:'Rawat described the flight as exciting, joyful and emotional, and credited his family for helping him attempt it. His outing turned a familiar family dynamic upside down: instead of children being warned not to do something dangerous, the children talked their father into leaving the mountain.',
-    angle:'Verified fact ends above. The Blappos interpretation: retirement has left the chat, climbed to cruising altitude and blocked the shuffleboard committee. His children said â€œyou only live once,â€ then apparently selected a height at which commercial aircraft begin asking questions.',
-    source:'https://www.ndtv.com/offbeat/72-year-old-bihar-man-goes-paragliding-at-nearly-24-000-feet-in-himachal-fulfils-lifelong-dream-12040915',sourceName:'Read the NDTV report',
-    amazonLinks:[
-      {title:'The Bucket List: 1000 Adventures Big & Small',image:'https://m.media-amazon.com/images/P/0789332698.01.LZZZZZZZ.jpg',alt:'Cover of The Bucket List: 1000 Adventures Big & Small',quip:'For finding the next family outing after â€œlaunch Dad from the Himalayasâ€ has already been checked off.',url:'https://www.amazon.com/dp/0789332698?tag=blappos-20',salesPriority:5},
-      {title:'Fifty Places to Fly Before You Die',image:'https://m.media-amazon.com/images/P/1617691062.01.LZZZZZZZ.jpg',alt:'Cover of Fifty Places to Fly Before You Die by Chris Santella',quip:'Rawat completed the assignment at 72 and selected a location high enough to count several times.',url:'https://www.amazon.com/dp/1617691062?tag=blappos-20',salesPriority:5},
-      {title:'How to Retire Happy, Wild, and Free',image:'https://m.media-amazon.com/images/P/096941949X.01.LZZZZZZZ.jpg',alt:'Cover of How to Retire Happy, Wild, and Free by Ernie J. Zelinski',quip:'The title reads less like advice and more like Rawatâ€™s flight plan.',url:'https://www.amazon.com/dp/096941949X?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep13EncoreStories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep13EncoreStories);
-
-const sep14Stories = [
-  {
-    id:'sep14-nato-birds',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Vilnius, Lithuania',image:'assets/cards/sep14-nato-birds.webp',
-    title:'NATO scrambles a fighter jet; hostile formation turns out to be birds',magnetUrl:'https://blappos.printify.me/product/32000124',magnetPrice:'$9.99',
-    facts:'NDTV reported that a NATO fighter was dispatched from Å iauliai in northern Lithuania after radar detected an unknown low-flying object in restricted airspace near Vilnius. The Italian air force crew, serving under NATO Baltic Air Defence, made visual contact and found dozens of migrating birdsâ€”not a drone. Vilnius Airport closed temporarily and reopened within 38 minutes.',
-    why:'Lithuaniaâ€™s heightened security posture makes the interception protocol understandable, while the mix-up shows how small, slow targets and dense bird flocks can create similar radar signatures. A false alarm still disrupted civilian aviation, turning an identification problem into an airport-wide consequence.',
-    angle:'Verified fact ends above. The Blappos interpretation: Europe briefly achieved air superiority over migration season. The flock was released without charge after producing no motors, propellers or surveillance equipment.',
-    source:'https://www.ndtv.com/world-news/nato-jets-scramble-to-intercept-drone-discover-its-just-birds-12043003',sourceName:'Read the NDTV report',
-    amazonLinks:[
-      {title:'Celestron Nature DX 8x42 Waterproof Binoculars for Bird Watching & Outdoors',image:'https://m.media-amazon.com/images/P/B00B73JONS.01.LZZZZZZZ.jpg',alt:'Celestron Nature DX 8x42 waterproof binoculars with case and accessories',quip:'For confirming â€œmigrating birdâ€ before the next identification request reaches fighter-jet pricing.',url:'https://www.amazon.com/dp/B00B73JONS?tag=blappos-20',salesPriority:5},
-      {title:"Europe's Birds: An Identification Guide (WILDGuides)",image:'https://m.media-amazon.com/images/I/71ygxy-nXlL._SL1500_.jpg',alt:"Cover of Europe's Birds: An Identification Guide",quip:'A field guide to the exact European flock that briefly appeared on the NATO threat board.',url:'https://www.amazon.com/dp/0691177651?tag=blappos-20',salesPriority:5},
-      {title:"Birds Aren't Real: The True Story of Mass Avian Murder and the Largest Surveillance Campaign in US History",image:'https://m.media-amazon.com/images/I/71yiMzvnohL._SL1500_.jpg',alt:"Cover of Birds Aren't Real by Peter McIndoe and Connor Gaydos",quip:'The definitive joke for the morning NATO suspected a drone and discovered the conspiracy had feathers.',url:'https://www.amazon.com/dp/1250288894?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep14-pacific-scream',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'San Francisco, California',image:'assets/cards/sep14-pacific-scream.webp',
-    title:'San Francisco screams at the Pacific; ocean declines to comment',magnetUrl:'https://blappos.printify.me/product/32000128',magnetPrice:'$9.99',
-    facts:'UPI reported that more than 100 people gathered at Vista Del Mar above Ocean Beach for a guttural scream contest organized by Danielle Egan. Olivia Gugliemotto won after a sound meter registered 121.9 decibels, earning a small megaphone; Kyana Van Houten placed second with a 6.78-second scream measured at 114.3 decibels.',
-    why:'The event turned private stress into deliberately low-tech communal catharsis: people met offline, screamed together for about a minute and shared fruit afterward. The winning measurement also makes hearing safety more than a footnoteâ€”121.9 decibels is an intensity where exposure time matters.',
-    angle:'Verified fact ends above. The Blappos interpretation: more than 100 San Franciscans filed a verbal complaint with the Pacific. The ocean acknowledged receipt by continuing to be the ocean.',
-    source:'https://www.upi.com/Odd_News/2026/09/14/Guttural-scream-at-the-sea-San-Francisco/6761789408160/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Pyle Portable Megaphone Speaker PA Bullhorn - Built-in Siren, 50W Adjustable Volume Control in 1200 Yard Range, Ideal for Any Outdoor Sports, Cheerleading Fans & Coaches, or for Safety Drills',image:'https://m.media-amazon.com/images/P/B002PB23SO.01.LZZZZZZZ.jpg',alt:'White and blue Pyle 50-watt portable megaphone with handheld microphone',quip:'The winner received a megaphone, because apparently 121.9 decibels was only the qualifying round.',url:'https://www.amazon.com/dp/B002PB23SO?tag=blappos-20',salesPriority:4},
-      {title:'eS528L Decibel Meter and Recorder by ennoLogic â€“ Digital Sound Level Meter and Noise Logger â€“ Max/Min/Hold, 30-130 dBA Range, Updated Software',image:'https://m.media-amazon.com/images/I/71LYLbpFUWL._AC_SL1000_.jpg',alt:'ennoLogic eS528L digital decibel meter with manual, cable and battery',quip:'For settling the exact contest fact: who screamed loudest at the Pacific and by how much.',url:'https://www.amazon.com/dp/B07V4H1SJ9?tag=blappos-20',salesPriority:4},
-      {title:'3M WorkTunes',image:'https://m.media-amazon.com/images/P/B0723CYHPZ.01.LZZZZZZZ.jpg',alt:'Black 3M WorkTunes over-ear hearing protector with yellow trim',quip:'For the sensible spectator standing beside more than 100 people attempting a collective emotional sonic boom.',url:'https://www.amazon.com/dp/B0723CYHPZ?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep14-golden-modak',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Nashik, India',image:'assets/cards/sep14-golden-modak.webp',
-    title:'Sweet shop upgrades dessert to precious metal and charges accordingly',magnetUrl:'https://blappos.printify.me/product/32000137',magnetPrice:'$9.99',
-    facts:'NDTV reported that Sagar Sweets at Vidya Vikas Circle in Nashik launched a golden modak for Ganesh Chaturthi. The traditional festival sweet is coated with edible gold and priced at â‚¹27,000 per kilogram, drawing shoppers and attention online.',
-    why:'Modak is closely associated with Ganesh Chaturthi and is traditionally described as a favorite of Lord Ganesha. The gold-coated version shows how retailers can turn a familiar devotional sweet into a luxury spectacle without changing the cultural occasion at its center.',
-    angle:'Verified fact ends above. The Blappos interpretation: Nashik found the shortest route from prasad to portfolio diversification. The sweet is now served with spiritual significance and an implied prospectus.',
-    source:'https://www.ndtv.com/offbeat/ganesh-chaturthi-golden-modak-worth-rs-27-000-per-kg-steals-spotlight-at-nashik-sweet-shop-12043789',sourceName:'Read the NDTV report',
-    amazonLinks:[
-      {title:'FlowAura Aluminum Modak Moulds (Set of 2) Size: 5 cm | (Medium)',image:'https://m.media-amazon.com/images/I/31MBK-2DifS._AC_.jpg',alt:'Pair of medium aluminum moulds shaping a white modak',quip:'The exact mould for recreating the storyâ€™s modak shape before the precious-metal department gets involved.',url:'https://www.amazon.com/dp/B093BYBKYK?tag=blappos-20',salesPriority:4},
-      {title:'Barnabas Edible Gold Leaf Sheets 24K - Loose 1.5inch Sheet, Interleaf of 12',image:'https://m.media-amazon.com/images/I/71sBe3rFUYL._SL1500_.jpg',alt:'Barnabas 24-karat edible gold leaf package with twelve loose sheets',quip:'The exact edible-gold treatment that promotes an ordinary festival sweet into the dessert asset class.',url:'https://www.amazon.com/dp/B07THRSKVZ?tag=blappos-20',salesPriority:5},
-      {title:'OXO Good Grips 11-Pound Digital Kitchen Food Scale',image:'https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg',alt:'Stainless steel OXO digital kitchen food scale with pull-out display',quip:'At â‚¹27,000 per kilogram, â€œclose enoughâ€ stops being an acceptable unit of dessert measurement.',url:'https://www.amazon.com/dp/B079D9B82W?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep14Stories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep14Stories);
-
-const sep14CompleteRun = [
-  {
-    id:'sep14-paper-planes',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Boise, Idaho',image:'assets/cards/sep14-paper-planes.webp',
-    title:'Man folds 415 paper planes; airport reports zero useful departures',magnetUrl:'https://blappos.printify.me/product/32023725',magnetPrice:'$9.99',
-    facts:'UPI reported that serial record-breaker David Rush folded 415 paper airplanes in one hour in Boise, Idaho, earning the Guinness World Records title for the most paper aircraft made in that time. The attempt required a completed, recognizable plane every few seconds for the full hour.',
-    why:'The record turns a familiar school-desk skill into an endurance and quality-control problem: each plane has to be folded fast enough to keep the count moving while still meeting the rules. Rush uses elaborate record attempts to promote science, technology, engineering and math education.',
-    angle:'Verified fact ends above. The Blappos interpretation: Boise opened an airline with 415 aircraft, no pilots and a baggage allowance of one paper clip. Every flight was on time because none of them went anywhere.',
-    source:'https://www.upi.com/Odd_News/2026/09/14/Guinness-World-Records-David-Rush-paper-airplanes-one-hour/3931789398848/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Klutz Book of Paper Airplanes Craft Kit',image:'https://m.media-amazon.com/images/P/1570548307.01.LZZZZZZZ.jpg',alt:'Klutz Book of Paper Airplanes craft kit',quip:'The folding manual and patterned paper for attempting plane 416 without opening an actual airport.',url:'https://www.amazon.com/dp/1570548307?tag=blappos-20',salesPriority:5},
-      {title:'The New World Champion Paper Airplane Book',image:'https://m.media-amazon.com/images/P/1607743884.01.LZZZZZZZ.jpg',alt:'The New World Champion Paper Airplane Book by John M. Collins',quip:'Record-grade designs for anyone who thinks the problem with 415 planes was insufficient aerodynamics.',url:'https://www.amazon.com/dp/1607743884?tag=blappos-20',salesPriority:5},
-      {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of Guinness World Records 2027',quip:'The official paperwork for checking whether your kitchen-table airline made the next edition.',url:'https://www.amazon.com/dp/1806500256?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep14-bat-train',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Greenock, Scotland',image:'assets/cards/sep14-bat-train.webp',
-    title:'ScotRail quiet carriage adds one extremely airborne passenger',magnetUrl:'https://blappos.printify.me/product/32023730',magnetPrice:'$9.99',
-    facts:'UPI reported that a bat flew through a ScotRail carriage on the Gourock-to-Glasgow Central service while the train traveled between Cartsdyke and Bogston stations in Greenock. Passengers ducked as staff and riders tried to guide it toward an exit with a Saltire flag and a cap; the bat eventually flew out.',
-    why:'A bat inside a moving passenger carriage is difficult to direct without hurting it or alarming riders. The improvised response worked: the animal left the train and the episode ended with cheers rather than an injury or a prolonged service disruption.',
-    angle:'Verified fact ends above. The Blappos interpretation: ScotRail apologized for the unannounced upgrade to winged service. The passenger had no ticket, no luggage and still found a faster route to the door than everyone in the aisle.',
-    source:'https://www.upi.com/Odd_News/2026/09/14/scotland-bat-ScotRail-train-Glasgow/6801789395779/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'National Geographic Readers: Bats',image:'https://m.media-amazon.com/images/P/1426307101.01.LZZZZZZZ.jpg',alt:'Cover of National Geographic Readers Bats',quip:'The pocket briefing for identifying the passenger before deploying railway flags and flat caps.',url:'https://www.amazon.com/dp/1426307101?tag=blappos-20',salesPriority:4},
-      {title:"The Bat House Builder's Handbook",image:'https://m.media-amazon.com/images/P/1889546119.01.LZZZZZZZ.jpg',alt:"Cover of The Bat House Builder's Handbook",quip:'A proper dedicated residence, reducing the odds that the next available accommodation is the 1:40 to Glasgow.',url:'https://www.amazon.com/dp/1889546119?tag=blappos-20',salesPriority:5},
-      {title:'Scotland Flag 3 x 5 Ft Polyester Saltire',image:'https://m.media-amazon.com/images/P/B000O5Y2VO.01.LZZZZZZZ.jpg',alt:'Blue and white Scottish Saltire flag',quip:'A reenactment-ready version of the improvised bat-guidance equipment used inside the carriage.',url:'https://www.amazon.com/dp/B000O5Y2VO?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep14-emu-chase',isoDate:'2026-09-14',month:'September',date:'Sep 14, 2026',place:'Ramapo, New York',image:'assets/cards/sep14-emu-chase.webp',
-    title:'Police deploy drone against emu; bird declines to look worried',magnetUrl:'https://blappos.printify.me/product/32023735',magnetPrice:'$9.99',
-    facts:'UPI reported that an emu escaped from a petting zoo in Rockland County, New York, prompting a response from Ramapo police. Multiple officers and a Skydio drone helped locate and follow the large flightless bird until it could be safely recovered and returned, with no injuries or property damage reported.',
-    why:'Emus can run quickly, change direction abruptly and cover ground far faster than a person expects from a bird. A drone gave officers a safe overhead view during the search, reducing the need to chase blindly through roads and private property.',
-    angle:'Verified fact ends above. The Blappos interpretation: Ramapo activated aerial surveillance against a suspect physically incapable of flight. The emu was returned safely after reviewing the police budget and realizing it had already won.',
-    source:'https://www.upi.com/Odd_News/2026/09/14/emu-chase-petting-zoo-Ramapo-New-York/4691789392344/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Edward the Emu',image:'https://m.media-amazon.com/images/P/0064434990.01.LZZZZZZZ.jpg',alt:'Cover of Edward the Emu by Sheena Knowles',quip:'The picture-book field report on an emu dissatisfied with its assigned enclosure.',url:'https://www.amazon.com/dp/0064434990?tag=blappos-20',salesPriority:5},
-      {title:'Edwina the Emu',image:'https://m.media-amazon.com/images/P/0064434834.01.LZZZZZZZ.jpg',alt:'Cover of Edwina the Emu by Sheena Knowles',quip:'The companion emu briefing for households preparing a full two-bird pursuit curriculum.',url:'https://www.amazon.com/dp/0064434834?tag=blappos-20',salesPriority:4},
-      {title:'Emu',image:'https://m.media-amazon.com/images/P/0763674796.01.LZZZZZZZ.jpg',alt:'Cover of Emu by Claire Saxby and Graham Byrne',quip:'A natural-history introduction to the suspectâ€™s speed, stride and complete lack of respect for a perimeter.',url:'https://www.amazon.com/dp/0763674796?tag=blappos-20',salesPriority:4}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep14CompleteRun.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep14CompleteRun);
-
-const sep15Stories = [
-  {
-    id:'sep15-vulcan-salute',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'London, England',image:'assets/cards/sep15-vulcan-salute.webp',
-    title:'934 Trekkies raise one hand; London records peak logic',magnetUrl:'https://blappos.printify.me/product/32032901',magnetPrice:'$9.99',
-    facts:'UPI reported that 934 people performed the Vulcan salute simultaneously at Star Trek Lates, an event held at Londonâ€™s Science Museum for the franchiseâ€™s 60th anniversary. Guinness World Records confirmed the gathering as the largest group to perform the split-finger gesture at the same time.',
-    why:'The result turned a piece of television history into a measurable act of fan participation. It also required hundreds of people to execute the same deceptively awkward hand position togetherâ€”proof that even fictional logic can create a very real coordination problem.',
-    angle:'Verified fact ends above. The Blappos interpretation: London achieved peak logic by raising 934 hands and lowering the citywide supply of flexible ring fingers. The Science Museum has classified the soreness as culturally significant.',
-    source:'https://www.upi.com/Odd_News/2026/09/15/Guinness-World-Records-Star-Trek-Vulcan-salute/3451789489055/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Barbie Star Trek 25th Anniversary Mr. Spock Doll',image:'https://m.media-amazon.com/images/I/81Il-bSwrFL._AC_SL1500_.jpg',alt:'Barbie Star Trek Mr. Spock doll performing the Vulcan salute',quip:'The exact record gesture is already built into this Spock doll, making it the only participant guaranteed not to cramp.',url:'https://www.amazon.com/dp/B01AT5MI50?tag=blappos-20',salesPriority:5},
-      {title:'Funko Pop! TV: Star Trek - Spock - Star Trek the Original Series - Collectable Vinyl Figure - Gift Idea - Official Merchandise - Toys for Kids & Adults - TV Fans',image:'https://m.media-amazon.com/images/I/61TpFLffbwL._AC_SL1300_.jpg',alt:'Boxed Funko Pop vinyl figure of Star Trek character Spock',quip:'The face behind the salute, condensed to desk size for readers whose local museum cannot fit 934 fans.',url:'https://www.amazon.com/dp/B0DSWGSBFT?tag=blappos-20',salesPriority:5},
-      {title:'Star Trek: The Original Series: The Complete Series',image:'https://m.media-amazon.com/images/I/91mIk3ymOjL._SL1500_.jpg',alt:'Blu-ray box set of Star Trek: The Original Series complete series',quip:'The source material for the gesture and the appropriate homework after a 60th-anniversary record attempt.',url:'https://www.amazon.com/dp/B01CJW334Q?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep15-rambo-pipe',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Kingsdon, England',image:'assets/cards/sep15-rambo-pipe.webp',
-    title:'Rambo hides from nine ewes; concrete pipe requests backup',magnetUrl:'https://blappos.printify.me/product/32032905',magnetPrice:'$9.99',
-    facts:'UPI reported that a roughly 220-pound ram named Rambo became firmly wedged inside a concrete pipe at Western Farm in Kingsdon, Somerset. Firefighters used chimney rods, ropes and a sheet to free him. His owner said he had entered the culvert for relief from nine amorous ewes, and he emerged unharmed.',
-    why:'A trapped animal that size can injure itself or rescuers if pulled carelessly, so the improvised combination of long rods, controlled rope tension and a protective sheet mattered. The rescue also prompted the farm to block the pipe against repeat romantic retreats.',
-    angle:'Verified fact ends above. The Blappos interpretation: Rambo attempted to place nine relationships on mute and discovered that concrete has no privacy setting. The fire brigade restored him to full service and returned him to the worldâ€™s least avoidable group chat.',
-    source:'https://www.upi.com/Odd_News/2026/09/15/Somerset-ram-concrete-pipe-rescue/7591789489658/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Schleich Farm World, Realistic Farm Animal Toys for Boys and Girls Ages 3 and Above, Ram Toy Figurine',image:'https://m.media-amazon.com/images/I/81YGuEJU4dL._AC_SL1500_.jpg',alt:'Realistic Schleich ram toy figurine with curled horns',quip:'A pocket Rambo for reenacting the rescue without needing a 220-pound ram or the Somerset fire service.',url:'https://www.amazon.com/dp/B09DQ8BWFC?tag=blappos-20',salesPriority:5},
-      {title:'SootEater Rotary Chimney Cleaning System - Gardus RCH205-B Chimney Sweep Kit, Cleans Open Chimneys up to 18\' with 6 Flexible 3\' Rods, Chimney Cleaning Kit with Trim-to-Fit Spinning Chimney Whip',image:'https://m.media-amazon.com/images/I/71ePn9KVZ6L._AC_SL1500_.jpg',alt:'Gardus SootEater chimney cleaning system with six flexible rods',quip:'Firefighters used chimney rods on the exact concrete-pipe rescue; these are the household version of Rambo extraction technology.',url:'https://www.amazon.com/dp/B0010H5JXA?tag=blappos-20',salesPriority:5},
-      {title:'Weaver Livestock Poly Rope Sheep Halter, Modern Style Braid Sheep and Goat Rope Halter, Adjustable Lamb Halter Lead, Livestock Sheep Showing Supplies',image:'https://m.media-amazon.com/images/I/91ijME33ByL._AC_SL1500_.jpg',alt:'Colorful braided Weaver livestock rope halter and lead for sheep',quip:'For guiding the exact species away from future culverts before romance requires another rope-rescue committee.',url:'https://www.amazon.com/dp/B01B8YYIUY?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep15-elk-windshield',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Lake Cowichan, Canada',image:'assets/cards/sep15-elk-windshield.webp',
-    title:'Elk mounts parked car; windshield resigns immediately',magnetUrl:'https://blappos.printify.me/product/32032916',magnetPrice:'$9.99',
-    facts:'UPI reported that Bruce Roach found the windshield of his parked car shattered outside his apartment in Lake Cowichan on Vancouver Island. Security video showed a bull elk pursuing a cow into the parking area, jumping onto the hood and crashing into the windshield before both animals ran away.',
-    why:'The footage resolved what otherwise looked like unexplained vandalism and showed how quickly large wildlife can turn an ordinary parking space into a hazard. Even without a driver inside, the elkâ€™s weight and antlers caused damage that a parked-car owner could not reasonably anticipate.',
-    angle:'Verified fact ends above. The Blappos interpretation: the elk declined the marked space, selected hood parking and left without insurance information. British Columbia has issued the windshield a complimentary wildlife experience.',
-    source:'https://www.upi.com/Odd_News/2026/09/15/canada-elk-shatters-windshield-Lake-Cowichan-British-Columbia/3201789483539/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Safari Ltd. Elk Toy - 8 Inch Realistic Wildlife Figure for Kids Ages 3+',image:'https://m.media-amazon.com/images/I/61UCPWX6yoL._AC_SL1500_.jpg',alt:'Realistic Safari Ltd. bull elk toy with large antlers',quip:'The exact windshield suspect in a scale that can cross a desk without totaling the desk.',url:'https://www.amazon.com/dp/B0CPKGLP9F?tag=blappos-20',salesPriority:5},
-      {title:'RainX Fix a Windshield Do it Yourself Windshield Repair Kit, for Chips, Cracks, Bulll\'s-Eyes and Stars',image:'https://m.media-amazon.com/images/I/710MC25TZaL._AC_SL1500_.jpg',alt:'Rain-X Fix a Windshield repair kit in blue and yellow packaging',quip:'Addresses the exact casualty of the elkâ€™s parking-lot courtship, assuming your crack is smaller than a bull elk.',url:'https://www.amazon.com/dp/B00IPS4APU?tag=blappos-20',salesPriority:5},
-      {title:'Blink Outdoor 4 â€“ Wireless smart security camera, two-year battery, 1080p HD day and infrared night live view, two-way talk â€“ 2 camera system',image:'https://m.media-amazon.com/images/I/61fMC8pY0uL._SL1000_.jpg',alt:'Two black Blink Outdoor 4 wireless security cameras with sync module',quip:'Security video solved the exact mystery; this is for catching the next antlered hit-and-run in 1080p.',url:'https://www.amazon.com/dp/B0B1N5HW22?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep15-overdue-magazine',isoDate:'2026-09-15',month:'September',date:'Sep 15, 2026',place:'Concord, New Hampshire',image:'assets/cards/sep15-overdue-magazine.webp',
-    title:'Library receives magazine 132 years late; fine arrives historically waived',magnetUrl:'https://blappos.printify.me/product/32032925',magnetPrice:'$9.99',
-    facts:'UPI reported that John Hanson returned a September 1894 issue of The Century Illustrated Monthly Magazine to Concord Public Library in New Hampshire. The item was 48,220 days overdue and would have accrued a theoretical $12,055 fine, but the library had frozen fines beginning September 1 and charged nothing.',
-    why:'A periodical surviving outside a library for more than a century can still carry local and research value when it returns. The fine waiver also illustrates the modern library goal behind eliminating penalties: getting missing material and patrons back matters more than collecting an impossible debt.',
-    angle:'Verified fact ends above. The Blappos interpretation: Concord has closed the oldest open tab in town. The magazine returned after 132 years, surveyed the internet and immediately asked whether another renewal was available.',
-    source:'https://www.upi.com/Odd_News/2026/09/15/Concord-Public-libraray-magazine-132-years-overdue/1491789490872/',sourceName:'Read the UPI report',
-    amazonLinks:[
-      {title:'Vintage Library Due Date Card Coaster Set, 4pcs Library Card Coasters | with Gift Card, Creative Drink Coffee Mug Coaster Literary Decor Library Gifts for Book Lovers Librarians Writers',image:'https://m.media-amazon.com/images/I/51XHdM5BWnL.jpg',alt:'Four cork coasters printed like vintage library due-date cards with gift card',quip:'The exact overdue-date artifact, finally repurposed for a drink that should not take 132 years to return.',url:'https://www.amazon.com/dp/B0B8RT1KG1?tag=blappos-20',salesPriority:5},
-      {title:'Scotch Book Tape 845, 3 Inches x 15 Yards - FF084574, 6 Pack',image:'https://m.media-amazon.com/images/I/51JrENmo8AL.jpg',alt:'Six rolls of clear Scotch Book Tape 845 in red and white packaging',quip:'For the preservation department receiving paper that has been circulating since Grover Clevelandâ€™s second term.',url:'https://www.amazon.com/dp/B081D3Q3TV?tag=blappos-20',salesPriority:4},
-      {title:'25 Pack Sheet Protectors for Artwork 9x11.8\" - Acid Free Clear Plastic Sleeves for Paper, Cellophane Bags Self Adhesive, Comic Book Sleeves, Clear Plastic Bags for Page Photo Prints Magazine',image:'https://m.media-amazon.com/images/I/71DyjyRA9XL._AC_SL1500_.jpg',alt:'Pack of 25 acid-free clear sleeves sized for paper and magazines',quip:'An acid-free retirement home for the exact 1894 magazine now that its 48,220-day road trip is over.',url:'https://www.amazon.com/dp/B0GXHT7W22?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep15Stories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep15Stories);
-
-const sep16PicklePattyStory = {
-  id:'sep16-pickle-patty',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'America',image:'assets/cards/sep16-pickle-patty.webp',
-  title:'McDonaldâ€™s patty loses thickness contest to a pickle and demands a recount',magnetUrl:'https://blappos.printify.me/product/32063674',magnetPrice:'$9.99',
-  facts:'McDonaldâ€™s describes its classic hamburger as a 100% beef patty topped with a pickle slice, chopped onions, ketchup and mustard on a regular bun. The standard patty is widely documented as a 1.6-ounce, ten-to-a-pound patty before cooking. In the sandwich that inspired this Blappos card, the cooked beef layer appeared thinner than the pickle above it; that visual comparison is one burgerâ€™s field observation, not a chain-wide measurement.',
-  why:'Fast-food advertising sells a carefully stacked ideal, while the actual sandwich is assembled quickly from thin, standardized layers. When the green garnish has more visible vertical presence than the beef, the product may still meet its recipeâ€”but the customerâ€™s eyes begin conducting an audit.',
-  angle:'Verified product facts end above. The Blappos interpretation: this is no longer a hamburger with a pickle. It is a pickle sandwich protected by a beef privacy screen. The patty has retained counsel and refuses to answer questions about its third dimension.',
-  source:'https://www.mcdonalds.com/us/en-us/product/hamburger.html',sourceName:'See McDonaldâ€™s hamburger description',
-  amazonLinks:[
-    {title:'Cuisinart CISB-111 Smashed Burger Press, 6.5-Inch Cast Iron',image:'https://m.media-amazon.com/images/I/81WqU-lxj5L._AC_SL1500_.jpg',alt:'Cuisinart cast-iron smashed burger press with wooden handle',quip:'The official tool for making a patty thinner than the pickle, the receipt and eventually the concept of beef itself.',url:'https://www.amazon.com/dp/B07SZFHKVZ?tag=blappos-20',salesPriority:5},
-    {title:'Clockwise Tools IP54 Grade Digital Caliper, DCLR-0605 0-6 Inch / 150mm',image:'https://m.media-amazon.com/images/I/51VksubUXVL._SL1500_.jpg',alt:'Clockwise Tools stainless-steel digital caliper with large LCD screen',quip:'For the customer who wants the pickle-versus-patty dispute settled by instruments rather than emotion.',url:'https://www.amazon.com/dp/B018D9JPPA?tag=blappos-20',salesPriority:5},
-    {title:'McDonaldâ€™s: Behind the Arches by John F. Love',image:'https://m.media-amazon.com/images/I/71QdSXdInbL._SL1500_.jpg',alt:'Cover of McDonaldâ€™s Behind the Arches by John F. Love',quip:'The corporate history for readers hoping the missing patty thickness is explained somewhere behind the arches.',url:'https://www.amazon.com/dp/0553347594?tag=blappos-20',salesPriority:5}
-  ]
-};
-window.dailyStories = window.dailyStories.filter(story => story.id !== sep16PicklePattyStory.id);
-window.dailyStories.splice(0, 0, sep16PicklePattyStory);
-
-const sep16ReportedStories = [
-  {
-    id:'sep16-salt-pepper-record',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'Brookfield, Wisconsin',image:'assets/cards/sep16-salt-pepper-record.webp',
-    title:'Wisconsin woman seasons a world-record rematch with 754 matching pairs',magnetUrl:'https://blappos.printify.me/product/32068706',magnetPrice:'$9.99',
-    facts:'UPI reported that Brookfield resident Linda Schulz, 67, reclaimed the Guinness World Records title for the largest collection of matching salt-and-pepper packets. Her 754 pairs surpassed the 594-pair mark that took the title from her in 2025; Schulz first held it in 2024 with 494 pairs. Her collection began with packets from Arbyâ€™s, and her favorites wear Hawaiian-shirt designs from Hawaiian Airlines.',
-    why:'This is a record built through categorization as much as accumulation: every entry must be a matching salt-and-pepper pair, not merely a drawer full of loose condiments. Schulz added 260 verified pairs beyond her original record and 160 beyond the intervening holder, turning a tiny disposable object into a measurable collecting discipline.',
-    angle:'Verified fact ends above. The Blappos interpretation: Wisconsin has restored strategic control of the tabletop seasoning reserve. Schulz now owns enough matched packets to season 754 mealsâ€”or one airline entrÃ©e with realistic ambitions.',
-    source:'https://www.upi.com/Odd_News/2026/09/16/Guinness-World-Records-salt-and-pepper-packets/9321789579951/',sourceName:'Read the September 16 UPI report',
-    amazonLinks:[
-      {title:'Global Basics Individual Salt and Pepper Packets | 500 Pairs of Salt Packets and Pepper Packets | 1000 Total Packets',image:'https://m.media-amazon.com/images/I/618E16St7iL._SL1200_.jpg',alt:'Box containing individually wrapped Global Basics salt and pepper packet pairs',quip:'Five hundred ready-matched pairs: the closest retail approximation of beginning a record challenge without raiding 754 restaurant tables.',url:'https://www.amazon.com/dp/B0CYCV5Q4G?tag=blappos-20',salesPriority:5},
-      {title:'Akro-Mils 44-Drawer Plastic Storage Cabinet, 20"W x 6"D x 16"H, Black, 10144',image:'https://m.media-amazon.com/images/I/71g+DvjbYgL._AC_SL1482_.jpg',alt:'Black Akro-Mils cabinet with 44 clear organizer drawers',quip:'Forty-four drawers for keeping tiny matching packets paired, labeled and safely outside the kitchen junk-drawer ecosystem.',url:'https://www.amazon.com/dp/B003P2UOCO?tag=blappos-20',salesPriority:5},
-      {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg',alt:'Cover of Guinness World Records 2027',quip:'The natural reference book for a collection that already needed an adjudicator, a comeback season and 754 tiny witnesses.',url:'https://www.amazon.com/dp/1806500256?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep16-yellowstone-trash',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'Yellowstone National Park',image:'assets/cards/sep16-yellowstone-trash.webp',
-    title:'Yellowstone retrieves 20,100 trash pieces and 280 hats from the worldâ€™s worst lost-and-found',magnetUrl:'https://blappos.printify.me/product/32068726',magnetPrice:'$9.99',
-    facts:'UPI highlighted a Yellowstone National Park Geology Program inventory published by the U.S. Geological Survey: by early September, trained staff had removed more than 20,100 pieces of paper and plastic, 5,600 rocks and sticks, and over 280 hats from hydrothermal areas in 2026. The stranger finds included AirPods, retainers, a rubber duck, an Uno card, a tiny copy of The Vampire Diaries and glittery pink slime stuck to geyserite.',
-    why:'Foreign material is not just ugly around a hot spring. USGS says it can clog a featureâ€™s water supply, divert runoff and introduce chemicals or sediment; discarded items famously helped alter Morning Glory Pool. Only trained geology staff can navigate these hazardous areas, so visitors help most by securing loose belongings, using trash cans and remaining on boardwalks.',
-    angle:'Verified fact ends above. The Blappos interpretation: Yellowstoneâ€™s geothermal system has rejected its application to become a hat rack, toy chest and orthodontic storage unit. The rubber duck has been escorted out for lacking the required heat-resistant paperwork.',
-    source:'https://www.upi.com/Odd_News/2026/09/16/Yellowstone-National-Park-trash/8331789577237/',sourceName:'Read the September 16 UPI report',
-    amazonLinks:[
-      {title:'RMS 2-Pack 32 Inch Extra Long Grabber Reacher with Rotating Jaw (Yellow)',image:'https://m.media-amazon.com/images/I/61u5xpUPYVL._AC_SL1500_.jpg',alt:'Two yellow RMS long-handled grabber reacher tools',quip:'A household-scale version of the long reach required when the object is accessible but your hands should remain very far from it.',url:'https://www.amazon.com/dp/B07PHKY2JW?tag=blappos-20',salesPriority:5},
-      {title:'SATINIOR 2 Pcs Adjustable Hat Clip for Wind, Flat Stopper | Windproof Chin Strap, Reusable Hat String Cord, Cap Retainer Leash for Travel Sports Fishing Boating',image:'https://m.media-amazon.com/images/I/61Kod9ecBQL.jpg',alt:'Two black adjustable clips and cords designed to secure hats in wind',quip:'The preventive technology for a park where 280 hats discovered that hydrothermal wind offers no return counter.',url:'https://www.amazon.com/dp/B07Z51SMLW?tag=blappos-20',salesPriority:5},
-      {title:"Yellowstone Treasures: The Traveler's Companion to the National Park",image:'https://m.media-amazon.com/images/I/61t3dJy34YL.jpg',alt:"Cover of Yellowstone Treasures: The Traveler's Companion to the National Park",quip:'A detailed park companion for finding geysers, roads and safety guidance while leaving your Invisalign out of the ecosystem.',url:'https://www.amazon.com/dp/1733103201?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep16-tiger-hoax',isoDate:'2026-09-16',month:'September',date:'Sep 16, 2026',place:'Jackson, New Jersey',image:'assets/cards/sep16-tiger-hoax.webp',
-    title:'Viral tiger escapes only from a video; 911 still gets the paperwork',magnetUrl:'https://blappos.printify.me/product/32068734',magnetPrice:'$9.99',
-    facts:'UPI reported that Jackson Township police received numerous 911 calls after a viral video claimed a tiger was loose near Six Flags Great Adventure. Police said there was no loose tiger, and the park confirmed that every animal was safe and accounted for in its designated enclosure. The department asked people to stop tying up emergency lines with calls about the video.',
-    why:'An alarming clip can create a real public-safety burden even when its central claim is false. Repeated non-emergency calls consume dispatcher attention that may be needed for actual emergencies, while confirmation from the responsible facility and local police provides stronger evidence than an unattributed viral post.',
-    angle:'Verified fact ends above. The Blappos interpretation: Jackson completed an emergency response to a tiger whose known habitat was somebodyâ€™s camera roll. The animal remains at large inside the engagement metrics and should not be approached without a reverse-image search.',
-    source:'https://www.upi.com/Odd_News/2026/09/16/Jackson-New-Jersey-loose-tiger-video-hoax/7861789568480/',sourceName:'Read the September 16 UPI report',
-    amazonLinks:[
-      {title:'Safari Ltd. Bengal Tiger Toy Figurine - Realistic, Hand-Painted 6" Model Figure - Safe, Educational Toy for Boys, Girls & Kids Ages 3+',image:'https://m.media-amazon.com/images/P/B0009JK98U.01.LZZZZZZZ.jpg',alt:'Realistic hand-painted Safari Ltd Bengal tiger toy figurine',quip:'A six-inch tiger with a verifiable locationâ€”the preferred format when your neighborhood has already called dispatch enough.',url:'https://www.amazon.com/dp/B0009JK98U?tag=blappos-20',salesPriority:5},
-      {title:'Tiger-Tiger, Is It True?: Four Questions to Make You Smile Again',image:'https://m.media-amazon.com/images/P/1401962173.01.LZZZZZZZ.jpg',alt:'Cover of Tiger-Tiger, Is It True? by Byron Katie and Hans Wilhelm',quip:'The exact question Jackson needed before a viral tiger migrated from somebodyâ€™s screen into the 911 queue.',url:'https://www.amazon.com/dp/1401962173?tag=blappos-20',salesPriority:5},
-      {title:'Calling Bullshit: The Art of Skepticism in a Data-Driven World',image:'https://m.media-amazon.com/images/I/81iePy1y6tL._SL1500_.jpg',alt:'Cover of Calling Bullshit by Carl T. Bergstrom and Jevin D. West',quip:'A field manual for pausing between â€œI saw a clipâ€ and â€œplease dispatch officers to the imaginary tiger.â€',url:'https://www.amazon.com/dp/0525509186?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep16ReportedStories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep16ReportedStories);
-
-const sep17Stories = [
-  {
-    id:'sep17-santa-fe-horse',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Santa Fe, New Mexico',image:'assets/cards/sep17-santa-fe-horse.webp',
-    title:'Runaway parade horse activates motorcycles, drones and the entire cowboy reserve',magnetUrl:'https://blappos.printify.me/product/32105357',magnetPrice:'$9.99',
-    facts:'UPI reported that a horse escaped shortly before Santa Feâ€™s Desfile de La Gente parade and led responders on a roughly 12-minute pursuit. Police motorcycles and bicycles, a drone, animal-services officers and local cowboys joined the search before a cowboy roped the horse and returned it in time for the parade.',
-    why:'A loose horse near public streets and a crowded event creates risks for the animal, drivers and bystanders. The layered response combined traffic control, an overhead view and experienced horse handling; the pursuit ended without a reported injury and the horse received water before rejoining the event.',
-    angle:'Verified fact ends above. The Blappos interpretation: Santa Fe activated motorcycles, bicycles, aerial surveillance and the emergency cowboy reserve against a suspect producing exactly one horsepower. The horse still made its parade appointment, establishing that the entire chase was technically a warm-up lap.',
-    source:'https://www.upi.com/Odd_News/2026/09/17/santa-fe-parade-horse-chase/8301789655823/',sourceName:'Read the September 17 UPI report',
-    amazonLinks:[
-      {title:'Weaver Equine 10\' Performance Lead Rope, Brass-Plated Snap',image:'https://m.media-amazon.com/images/I/71MFbI78tpL._AC_SL1500_.jpg',alt:'Black Weaver Equine ten-foot performance lead rope with brass-plated snap',quip:'Ten feet of purpose-built horse handling for the stage after the police drone has located one extremely mobile parade participant.',url:'https://www.amazon.com/dp/B07SS5HJLZ?tag=blappos-20',salesPriority:5},
-      {title:'101 Ground Training Exercises for Every Horse & Handler',image:'https://m.media-amazon.com/images/P/1612120520.01.LZZZZZZZ.jpg',alt:'Cover of 101 Ground Training Exercises for Every Horse and Handler by Cherry Hill',quip:'Exercise 102, added by Santa Fe: do not begin the parade with a multi-agency pursuit.',url:'https://www.amazon.com/dp/1612120520?tag=blappos-20',salesPriority:5},
-      {title:'DJI Mini 4K, Drone With 4K UHD Camera, Under 249 g',image:'https://m.media-amazon.com/images/I/61TcjJ4qDZL._AC_SL1500_.jpg',alt:'Gray DJI Mini 4K camera drone with controller',quip:'The civilian-scale overhead view for spotting where one horse has taken an unauthorized twelve-minute detour.',url:'https://www.amazon.com/dp/B0CXJDDJ9X?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep17-slim-jim-record',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Omaha, Nebraska',image:'assets/cards/sep17-slim-jim-record.webp',
-    title:'Omaha unspools 429 feet of Slim Jim; city declares protein infrastructure complete',magnetUrl:'https://blappos.printify.me/product/32105370',magnetPrice:'$9.99',
-    facts:'UPI and Slim Jim parent company Conagra Brands reported that an Omaha team made a continuous Slim Jim measuring 429 feet 5 inchesâ€”about 143 yardsâ€”and weighing nearly 70 pounds. Guinness World Records certified it as the longest meat snack stick, surpassing the previous 314-foot record; employees ate the finished snack after adjudication.',
-    why:'The record required an 11-person team to turn a mass-produced snack into a single continuous, measurable object while preserving the productâ€™s structure. Work began in June 2025, making the final certified stick less a kitchen stunt than a long-running manufacturing and quality-control project.',
-    angle:'Verified fact ends above. The Blappos interpretation: Omaha has completed 143 yards of emergency protein infrastructure and immediately decommissioned it into employee snacks. At regulation football scale, the city was one end zone short of a full meat-based transit corridor.',
-    source:'https://www.upi.com/Odd_News/2026/09/17/guinness-world-records-slim-jim/1191789667547/',sourceName:'Read the September 17 UPI report',
-    amazonLinks:[
-      {title:'Slim Jim Giant Smoked Jerky Sticks, Original Flavor, 0.97 oz., 24-ct',image:'https://m.media-amazon.com/images/I/71K8ovm6tzL._SL1500_.jpg',alt:'Display box of twenty-four Slim Jim Giant original smoked snack sticks',quip:'Twenty-four regulation-size building blocks for anyone unwilling to allocate 429 feet of pantry space to the official version.',url:'https://www.amazon.com/dp/B00HDC09OA?tag=blappos-20',salesPriority:5},
-      {title:'LEM Products Jerky Cannon and Accessories, Anodized Aluminum',image:'https://m.media-amazon.com/images/I/71pm88qttNL._SL1500_.jpg',alt:'LEM Products anodized aluminum jerky cannon with tubes and cleaning brushes',quip:'The home-scale extrusion equipment for discovering exactly how many weekends separate a snack from municipal infrastructure.',url:'https://www.amazon.com/dp/B000SQFGRS?tag=blappos-20',salesPriority:5},
-      {title:'Komelon 6622 Open Reel Fiberglass Tape Measure, 200-Feet, Green',image:'https://m.media-amazon.com/images/I/81GxAgbfJRL._SL1500_.jpg',alt:'Green Komelon open-reel two-hundred-foot fiberglass tape measure',quip:'Two full pulls plus 29 feet 5 inches: the measurement plan for confirming Omaha did not round up its protein corridor.',url:'https://www.amazon.com/dp/B000KL3X5I?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep17-sea-snake',isoDate:'2026-09-17',month:'September',date:'Sep 17, 2026',place:'Crystal Cove, California',image:'assets/cards/sep17-sea-snake.webp',
-    title:'Venomous sea snake reaches California; beach towels lose diplomatic immunity',magnetUrl:'https://blappos.printify.me/product/32105374',magnetPrice:'$9.99',
-    facts:'UPI reported that video from Crystal Cove State Park appeared to show a yellow-bellied sea snake, a venomous open-ocean species rarely recorded in California. Marine naturalist Chad Steffen said the markings and body shape fit the species, but the report noted that officials had not formally confirmed the identification.',
-    why:'The yellow-bellied sea snake is widespread in warm Pacific and Indian Ocean waters but unusual on California beaches; the last reported state sighting cited by UPI was in 2018. It is venomous but generally not aggressive. The useful response to any unfamiliar stranded snake is distance, a photograph from safety and a report to park staffâ€”not handling it.',
-    angle:'Verified fact ends above. The Blappos interpretation: Crystal Cove has added a venomous ocean noodle to the guest list and revoked all beach-towel immunity. California is asking visitors to enjoy the wildlife from the traditional distance known as â€œabsolutely not with your hands.â€',
-    source:'https://www.upi.com/Odd_News/2026/09/17/yellow-bellied-sea-snake-Chrystal-Cove-California/8871789660407/',sourceName:'Read the September 17 UPI report',
-    amazonLinks:[
-      {title:'National Audubon Society Field Guide to Reptiles and Amphibians: North America',image:'https://m.media-amazon.com/images/I/61TdeUDwyoL._SL1139_.jpg',alt:'Cover of the National Audubon Society Field Guide to North American Reptiles and Amphibians',quip:'A field guide for the important step between â€œstriped thing on beachâ€ and â€œplease do not pick up the venomous ocean noodle.â€',url:'https://www.amazon.com/dp/0394508246?tag=blappos-20',salesPriority:5},
-      {title:'The California Field Atlas',image:'https://m.media-amazon.com/images/I/61NMnZQFkiL._SL1091_.jpg',alt:'Cover of The California Field Atlas by Obi Kaufmann',quip:'The statewide context for a coastline whose visitor list just acquired one extremely rare pelagic reptile.',url:'https://www.amazon.com/dp/1597144029?tag=blappos-20',salesPriority:5},
-      {title:'The Book of Snakes: A Life-Size Guide to Six Hundred Species from around the World',image:'https://m.media-amazon.com/images/P/022645939X.01.LZZZZZZZ.jpg',alt:'Cover of The Book of Snakes by Mark Oâ€™Shea',quip:'Six hundred species for comparing the reported visitor before granting it permanent Crystal Cove residency.',url:'https://www.amazon.com/dp/022645939X?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep17Stories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep17Stories);
-
-const sep18Stories = [
-  {
-    id:'sep18-estate-painting',isoDate:'2026-09-18',month:'September',date:'Sep 18, 2026',place:'Michigan, USA',image:'assets/cards/sep18-estate-painting.webp',
-    title:'$30 estate-sale painting discovers it has a $250,000 rÃ©sumÃ©',magnetUrl:'https://blappos.printify.me/product/32144530',magnetPrice:'$9.99',
-    facts:'UPI reported that a small Gertrude Abercrombie painting bought for $30 at a Michigan estate sale was authenticated as the long-missing 1951 work â€œAlderman Merriamâ€™s Shells.â€ Freemanâ€™s auction house says the 8-by-11-inch oil-on-Masonite work will be offered October 1 with a $150,000â€“$250,000 estimate; it has not yet sold for that amount.',
-    why:'The discovery is a reminder that an estimate is not a sale resultâ€”and that provenance and expert authentication, not a lucky price tag alone, create art-market confidence. Freemanâ€™s says Abercrombie gave the painting to physician John Reynolds in 1952 for medical services, and it remained with his estate until the 2026 sale.',
-    angle:'Verified fact ends above. The Blappos interpretation: a $30 estate-sale purchase completed a 75-year performance piece called â€œPlease Do Not Put This Beside the Used Bread Maker.â€ The low estimate is 5,000 times the purchase price; the high estimate is about 8,333 timesâ€”before auction fees, taxes or the inconvenient requirement that somebody actually buy it.',
-    source:'https://www.upi.com/Odd_News/2026/09/18/painting-estate-sale-Gertrude-Abercrombie/3931789753677/',sourceName:'Read the September 18 UPI report',
-    amazonLinks:[
-      {title:'Gertrude Abercrombie: The Whole World Is a Mystery',image:'https://m.media-amazon.com/images/P/1636811558.01.LZZZZZZZ.jpg',alt:'Cover of Gertrude Abercrombie: The Whole World Is a Mystery',quip:'The museum-scale context for identifying why one tiny shell painting should not have been filed under â€œthirty-dollar wall decor.â€',url:'https://www.amazon.com/dp/1636811558?tag=blappos-20',salesPriority:5},
-      {title:'The Art Collectorâ€™s Handbook: The Definitive Guide to Acquiring and Owning Art',image:'https://m.media-amazon.com/images/P/184822401X.01.LZZZZZZZ.jpg',alt:'Cover of The Art Collectorâ€™s Handbook by Mary Rozell',quip:'A practical guide to provenance, authentication and ownership for the next person whose estate-sale instinct suddenly needs paperwork.',url:'https://www.amazon.com/dp/184822401X?tag=blappos-20',salesPriority:5},
-      {title:'Carson LumiLoupe Plus 10.5x Focusable Stand Loupe Magnifier',image:'https://m.media-amazon.com/images/I/710ryz6ZcUL._AC_SL1500_.jpg',alt:'Black Carson LumiLoupe Plus focusable stand magnifier',quip:'For inspecting signatures, brushwork and the exact moment a thirty-dollar hunch begins demanding an auction-house appointment.',url:'https://www.amazon.com/dp/B00PDPFZT8?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep18-air-traffic-glitch',isoDate:'2026-09-18',month:'September',date:'Sep 18, 2026',place:'United Kingdom',image:'assets/cards/sep18-air-traffic-glitch.webp',
-    title:'One millisecond breaks UK air traffic; 2,000 flights file a bug report',magnetUrl:'https://blappos.printify.me/product/32144537',magnetPrice:'$9.99',
-    facts:'Britainâ€™s air-traffic operator NATS said a software defect corrupted data in its National Airspace System on September 8 when a paused aircraft-code request resumed incorrectly after a higher-priority taskâ€”an error sequence that happened within a millisecond. The system was restarted after six hours of restrictions; Associated Press reported more than 2,000 flight cancellations and disruption lasting two days.',
-    why:'A microscopic timing fault produced a nationwide operational consequence because controllers lost the normal system used to manage high-altitude flights. NATS said safety was never in question, a mitigation is already in place and the permanent fix will be independently safety-tested. The cancellation total is an aggregate consequence, not a â€œ2,000 flights per millisecondâ€ failure rate.',
-    angle:'Verified fact ends above. The Blappos interpretation: the United Kingdom has discovered that one millisecond is long enough for software to request six hours of quiet time and two days of calendar apologies. The bug did not crash a plane; it merely grounded the timetable and sent every departure board into group therapy.',
-    source:'https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/',sourceName:'Read the September 18 NATS preliminary report',
-    amazonLinks:[
-      {title:'Lessons Learned in Software Testing: A Context-Driven Approach',image:'https://m.media-amazon.com/images/P/0471081124.01.LZZZZZZZ.jpg',alt:'Cover of Lessons Learned in Software Testing',quip:'The book-length reminder that the most expensive edge case is the one waiting politely inside a one-millisecond pause.',url:'https://www.amazon.com/dp/0471081124?tag=blappos-20',salesPriority:5},
-      {title:'Site Reliability Engineering: How Google Runs Production Systems',image:'https://m.media-amazon.com/images/P/149192912X.01.LZZZZZZZ.jpg',alt:'Cover of Site Reliability Engineering: How Google Runs Production Systems',quip:'Production-resilience reading for any system whose restart procedure becomes national transport news.',url:'https://www.amazon.com/dp/149192912X?tag=blappos-20',salesPriority:5},
-      {title:'The Checklist Manifesto: How to Get Things Right',image:'https://m.media-amazon.com/images/P/0312430000.01.LZZZZZZZ.jpg',alt:'Cover of The Checklist Manifesto by Atul Gawande',quip:'A low-bandwidth backup technology that continues functioning even when the high-bandwidth timetable has requested a reboot.',url:'https://www.amazon.com/dp/0312430000?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep18-river-whale',isoDate:'2026-09-18',month:'September',date:'Sep 18, 2026',place:'Rio Vista, California',image:'assets/cards/sep18-river-whale.webp',
-    title:'Humpback whale misses Pacific exit by 60 miles, tours Sacramento River',magnetUrl:'https://blappos.printify.me/product/32144552',magnetPrice:'$9.99',
-    facts:'Associated Press reported that an adult humpback whale entered San Francisco Bay and traveled east into the Sacramentoâ€“San Joaquin Delta, where it was seen near Rio Vista about 60 miles from the Pacific. The Marine Mammal Center identified it from its fluke as an animal in a research catalog for 24 years, with 15 prior sightings and a February 2026 sighting near Baja California.',
-    why:'Humpbacks can enter bays and rivers, but a whale this far inland requires careful monitoring and room to choose its own route. The Marine Mammal Center asked boaters to keep their distance and avoid altering the animalâ€™s course. The reason for the detour remains unknown, so the useful response is observationâ€”not an invented rescue narrative.',
-    angle:'Verified fact ends above. The Blappos interpretation: one experienced international traveler has reviewed the Pacific Ocean, selected the Sacramento River and refused to explain the itinerary. Rio Vista now has a full-size tourism ambassador whose entire visitor plan is â€œcontinue east until somebody writes a press release.â€',
-    source:'https://apnews.com/article/7682fa0608fb5c66b22e035f3095a33a',sourceName:'Read the September 18 Associated Press report',
-    amazonLinks:[
-      {title:'Whales, Dolphins and Porpoises',image:'https://m.media-amazon.com/images/P/0789489902.01.LZZZZZZZ.jpg',alt:'Cover of Whales, Dolphins and Porpoises by Mark Carwardine',quip:'The identification reference for determining which very large visitor has ignored the standard ocean itinerary.',url:'https://www.amazon.com/dp/0789489902?tag=blappos-20',salesPriority:5},
-      {title:'Celestron Nature DX 8x42 Binoculars',image:'https://m.media-amazon.com/images/P/B00B73JONS.01.LZZZZZZZ.jpg',alt:'Green Celestron Nature DX 8x42 binoculars',quip:'A close view from the legally and biologically superior position known as â€œfar enough away from the whale.â€',url:'https://www.amazon.com/dp/B00B73JONS?tag=blappos-20',salesPriority:5},
-      {title:'National Audubon Society Field Guide to California',image:'https://m.media-amazon.com/images/P/0679446788.01.LZZZZZZZ.jpg',alt:'Cover of the National Audubon Society Field Guide to California',quip:'The local natural-history context for a California river whose visitor list unexpectedly acquired one cataloged humpback.',url:'https://www.amazon.com/dp/0679446788?tag=blappos-20',salesPriority:4}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep18Stories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep18Stories);
-
-const sep19Stories = [
-  {
-    id:'sep19-white-house-press',isoDate:'2026-09-19',month:'September',date:'Sep 19, 2026',place:'Washington, D.C.',image:'assets/cards/sep19-white-house-press.webp',
-    title:'White House revokes access for reporters from CNN, MS NOW and Politico',magnetUrl:'https://blappos.printify.me/product/32181925',magnetPrice:'$9.99',
-    facts:'Reuters reported that White House reporters from CNN, MS NOW and Politico were denied entry to the White House complex on September 19 after President Donald Trump announced a ban on the three organizations. The reporters said their passes were disabled or confiscated; all three outlets condemned the action and said they would defend their press-access rights.',
-    why:'Access to the White House is part of how journalists observe public officials, ask questions and report government decisions to people who cannot be in the room. The affected organizations argue that the ban violates First Amendment protections, but that legal question had not been resolved when this story was published. Earlier credential disputes have produced court challenges, so the next meaningful development is evidenceâ€”a filing, order or policy changeâ€”not speculation.',
-    angle:'Verified fact ends above. The Blappos interpretation: three press passes arrived for work and discovered the credential desk had become an editorial-review board. The physical magnet uses anonymous reporters and a fictional checkpoint; it does not reproduce a politician, journalist, outlet logo or news photograph.',
-    source:'https://www.reuters.com/world/white-house-turns-away-cnn-ms-now-politico-reporters-after-trump-announces-ban-2026-09-19/',sourceName:'Read the September 19 Reuters report',
-    amazonLinks:[
-      {title:'Freedom for the Thought That We Hate: A Biography of the First Amendment',image:'https://m.media-amazon.com/images/P/0465039170.01.LZZZZZZZ.jpg',alt:'Cover of Freedom for the Thought That We Hate by Anthony Lewis',quip:'The legal-history context for understanding why a confiscated press pass can become a constitutional argument instead of a routine security decision.',url:'https://www.amazon.com/dp/0465039170?tag=blappos-20',salesPriority:5},
-      {title:'The Elements of Journalism: What Newspeople Should Know and The Public Should Expect',image:'https://m.media-amazon.com/images/P/0609806912.01.LZZZZZZZ.jpg',alt:'Cover of The Elements of Journalism by Bill Kovach and Tom Rosenstiel',quip:'A standards manual for the work that still has to happen when the reporter is standing on the wrong side of the gate.',url:'https://www.amazon.com/dp/0609806912?tag=blappos-20',salesPriority:5},
-      {title:'The Associated Press Stylebook: 2026-2028',image:'https://m.media-amazon.com/images/P/1541608615.01.LZZZZZZZ.jpg',alt:'Cover of The Associated Press Stylebook 2026â€“2028',quip:'The newsroom reference for describing a press-access dispute precisely, consistently and without letting the adjective desk seize control.',url:'https://www.amazon.com/dp/1541608615?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep19-ai-actress-glitch',isoDate:'2026-09-19',month:'September',date:'Sep 19, 2026',place:'London, England',image:'assets/cards/sep19-ai-actress-glitch.webp',
-    title:'AI actress changes languages mid-interview; technical difficulty requests representation',magnetUrl:'https://blappos.printify.me/product/32181944',magnetPrice:'$9.99',
-    facts:'People reported that the AI-generated character Tilly Norwood switched into Cantonese for roughly 15 seconds during a video interview while promoting the film â€œMisaligned.â€ The character was created by Particle6, and the interview clip drew more than 12 million views. The company described the language switch as a technical problem.',
-    why:'The malfunction was funny on its face, but the larger story concerns what audiences are being asked to treat as a performer. SAG-AFTRA has objected that the character is generated from human performersâ€™ work and is not an actor, while its creators are presenting it inside familiar publicity and representation systems. The glitch made that unresolved labor-and-authorship debate unusually visible.',
-    angle:'Verified fact ends above. The Blappos interpretation: technical difficulties have completed media training, hired an agent and booked the interview circuit. The card depicts a fictional synthetic mannequin in a generic studioâ€”not the named character, a real host or any copyrighted production design.',
-    source:'https://people.com/ai-actress-tilly-norwood-glitches-changes-language-during-piers-morgan-interview-12129604',sourceName:'Read the September 19 People report',
-    amazonLinks:[
-      {title:'Lonely Planet Cantonese Phrasebook & Dictionary',image:'https://m.media-amazon.com/images/P/1743603762.01.LZZZZZZZ.jpg',alt:'Cover of Lonely Planet Cantonese Phrasebook and Dictionary',quip:'A human-readable backup for the next interview in which the language model changes the language before the producer changes the subject.',url:'https://www.amazon.com/dp/1743603762?tag=blappos-20',salesPriority:5},
-      {title:'The Actor and the Target',image:'https://m.media-amazon.com/images/P/1854598384.01.LZZZZZZZ.jpg',alt:'Cover of The Actor and the Target by Declan Donnellan',quip:'A craft book for comparing the difficult human work of performance with a synthetic guest whose notes arrive as a software update.',url:'https://www.amazon.com/dp/1854598384?tag=blappos-20',salesPriority:5},
-      {title:'Human Compatible: Artificial Intelligence and the Problem of Control',image:'https://m.media-amazon.com/images/P/0525558616.01.LZZZZZZZ.jpg',alt:'Cover of Human Compatible by Stuart Russell',quip:'The control-problem reading for a publicity tour where the guest, the script and the technical difficulty may all be the same system.',url:'https://www.amazon.com/dp/0525558616?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep19-whitsundays-rescue',isoDate:'2026-09-19',month:'September',date:'Sep 19, 2026',place:'Whitsundays, Australia',image:'assets/cards/sep19-whitsundays-rescue.webp',
-    title:'Rescue crew winches family of four from yacht grounded on remote reef',magnetUrl:'https://blappos.printify.me/product/32181947',magnetPrice:'$9.99',
-    facts:'News.com.au reported that a family of four was rescued after its yacht grounded on Elizabeth Reef, about 100 kilometers north of the Whitsundays, early September 19. A BMA CQ Rescue helicopter reached the vessel around sunrise, lowered a rescue swimmer and winched each family member aboard individually because the yachtâ€™s mast complicated the approach. All four reached shore; the father was treated for a reported head injury.',
-    why:'A successful rescue can look instantaneous in one dramatic image, but this one depended on navigation, aircraft positioning, a rescue swimmer, individual harnessing and medical care in a remote marine setting. The familyâ€™s survival is the headline; the useful lesson is that offshore passages require current charts, redundant navigation habits and a plan for summoning professional help.',
-    angle:'Verified fact ends above. The Blappos interpretation: the family booked four one-way tickets on an airline whose entire route map was a winch cable. The magnet celebrates the coordinated rescue with anonymous figures and an original scene; it is not incident photography and does not identify the family.',
-    source:'https://www.news.com.au/travel/travel-updates/incidents/family-rescued-by-helicopter-crew-after-yacht-crashes-on-reef-near-whitsundays/news-story/2daed5d900a8349f32fe6b1c3a81cddd',sourceName:'Read the September 19 News.com.au report',
-    amazonLinks:[
-      {title:'The Annapolis Book of Seamanship: Fourth Edition',image:'https://m.media-amazon.com/images/P/1451650191.01.LZZZZZZZ.jpg',alt:'Cover of The Annapolis Book of Seamanship, Fourth Edition',quip:'The comprehensive seamanship reference for the many decisions that should happen before a rescue swimmer appears over the stern.',url:'https://www.amazon.com/dp/1451650191?tag=blappos-20',salesPriority:5},
-      {title:'Chapman Piloting & Seamanship 69th Edition: The Boating Book of Record',image:'https://m.media-amazon.com/images/P/1950785491.01.LZZZZZZZ.jpg',alt:'Cover of Chapman Piloting and Seamanship, 69th Edition',quip:'A boating reference for route planning, emergencies and every sentence that ideally ends before â€œthe helicopter arrived at sunrise.â€',url:'https://www.amazon.com/dp/1950785491?tag=blappos-20',salesPriority:5},
-      {title:'How to Read a Nautical Chart, 2nd Edition',image:'https://m.media-amazon.com/images/P/0071779825.01.LZZZZZZZ.jpg',alt:'Cover of How to Read a Nautical Chart, Second Edition by Nigel Calder',quip:'The paper-and-electronic-chart guide for turning reef contours into a plan instead of a surprise appointment.',url:'https://www.amazon.com/dp/0071779825?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep19Stories.some(item => item.id === story.id));
-window.dailyStories.splice(0, 0, ...sep19Stories);
-
-const sep22Stories = [
-  {
-    id:'sep22-fire-amoeba',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Lassen Volcanic National Park, California',image:'assets/cards/sep22-fire-amoeba.webp',
-    title:'New â€œfire amoebaâ€ sets the heat record for complex life',magnetUrl:'https://blappos.printify.me/product/32298896',magnetPrice:'$9.99',
-    facts:'Researchers described a newly identified amoeba from a neutral-pH hot-spring tributary near Drakesbad in Lassen Volcanic National Park. The organism, named Incendiamoeba cascadensis, divided normally at 145.4Â°F (63Â°C), remained active at 147.2Â°F (64Â°C) and recovered after brief exposure to 158Â°F (70Â°C). The September 22 report concerned a record for eukaryotesâ€”organisms whose cells contain a nucleusâ€”not the record for all life.',
-    why:'The organism pushes the known temperature boundary for complex cellular life and gives researchers a new system for studying heat-stable proteins, DNA repair and protective cell structures. It is also a top microscopic predator in its spring habitat, feeding on heat-loving bacteria. The distinctions matter: normal division, continued movement and survival after a brief heat shock are three different thresholds, and none makes the amoeba the hottest organism of any kind.',
-    angle:'Verified fact ends above. The Blappos interpretation: complex life has reviewed the thermostat, removed the warning label and started doing mitosis at 145.4 degrees. The card celebrates the temperature record with an original microscopic mascotâ€”not a scientific specimen image.',
-    source:'https://www.reuters.com/business/environment/tenacious-hot-springs-amoeba-sets-heat-tolerance-record-2026-09-22/',sourceName:'Read the September 22 Reuters report',
-    amazonLinks:[
-      {title:'Astrobiology: A Very Short Introduction',image:'https://m.media-amazon.com/images/I/81YvgzfesyL._SL1500_.jpg',alt:'Cover of Astrobiology: A Very Short Introduction',quip:'The pocket-size guide to asking where life can exist after complex cells move the thermostat another notch.',url:'https://www.amazon.com/dp/0199586454?tag=blappos-20',salesPriority:5},
-      {title:'Life on the Edge: The Coming of Age of Quantum Biology',image:'https://m.media-amazon.com/images/I/71AB7xDp65L._SL1500_.jpg',alt:'Cover of Life on the Edge by Jim Al-Khalili and Johnjoe McFadden',quip:'A tour of the strange physical machinery inside living systems, now featuring one amoeba with extremely confident climate control.',url:'https://www.amazon.com/dp/0307986829?tag=blappos-20',salesPriority:5},
-      {title:'Etekcity Infrared Thermometer 774',image:'https://m.media-amazon.com/images/I/61zQDIcb0FL._AC_SL1500_.jpg',alt:'Yellow Etekcity 774 infrared surface thermometer',quip:'For confirming that the hot spring is ready for the amoeba and absolutely not ready for your hand.',url:'https://www.amazon.com/dp/B00837ZGRY?tag=blappos-20',salesPriority:5}
-    ]
-  },
-  {
-    id:'sep22-giant-baked-beans',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Kelkit, TÃ¼rkiye',image:'assets/cards/sep22-giant-baked-beans.webp',
-    title:'Turkish town cooks the worldâ€™s largest pot of baked beans',magnetUrl:'https://blappos.printify.me/product/32298901',magnetPrice:'$9.99',
-    facts:'Guinness World Records announced on September 22 that Kelkit, in TÃ¼rkiyeâ€™s GÃ¼mÃ¼ÅŸhane province, produced 6,840 liters (1,807 US gallons) of baked beans in a single enormous pot. The August 22 cook used the regionâ€™s Kelkit Åžeker Fasulyesi beans, equaled more than 15,000 standard cans and surpassed the previous 5,600-liter record.',
-    why:'The record turned a regional ingredient into a large public demonstration of local food culture and coordination. Organizers included the Kelkit Chamber of Commerce and Industry, the GÃ¼mÃ¼ÅŸhane Governorship and Kelkit Municipality, with an official Guinness adjudicator present. The publication date and event date are different: the cook happened August 22; Guinness published its account September 22.',
-    angle:'Verified fact ends above. The Blappos interpretation: Kelkit looked at the phrase â€œside dishâ€ and identified a fatal lack of ambition. The serving vessel was roughly one and a half grand pianos wide; the refrigerator magnet is mercifully three inches.',
-    source:'https://www.guinnessworldrecords.com/news/commercial/2026/9/un-bean-lievable-pot-of-baked-beans-weighing-nearly-7000-litres-breaks-record-in-turkiye',sourceName:'Read the September 22 Guinness World Records account',
-    amazonLinks:[
-      {title:'Lodge Cast Iron Double Dutch Oven, 5 Quart',image:'https://m.media-amazon.com/images/I/81Ju6WrYHNL._AC_SL1500_.jpg',alt:'Black Lodge cast iron double Dutch oven with lid',quip:'A sensible household pot for anyone not currently feeding fifteen thousand cansâ€™ worth of civic pride.',url:'https://www.amazon.com/dp/B000LEXR0K?tag=blappos-20',salesPriority:5},
-      {title:'Guinness World Records 2027',image:'https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg',alt:'Cover of Guinness World Records 2027',quip:'The annual inventory of what happens when â€œthat seems sufficientâ€ fails to survive committee review.',url:'https://www.amazon.com/dp/1806500256?tag=blappos-20',salesPriority:5},
-      {title:'OXO Good Grips 11-Pound Digital Kitchen Food Scale',image:'https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg',alt:'Stainless steel OXO digital kitchen scale with pull-out display',quip:'Accurate measurement for the first several pounds; the remaining 1,803 gallons will require municipal paperwork.',url:'https://www.amazon.com/dp/B079D9B82W?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep22-storm-drain-dogs',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Baldwin County, Georgia',image:'assets/cards/sep22-storm-drain-dogs.webp',
-    title:'Firefighters, animal control and utility crews rescue dogs from a Georgia storm drain',magnetUrl:'https://blappos.printify.me/product/32298907',magnetPrice:'$9.99',
-    facts:'Baldwin County Fire Rescue said its firefighters joined Baldwin County Animal Control and county Water Department workers to remove multiple dogs from a storm-drain system on September 21. A September 22 report showed the dogs safely back above ground after the coordinated response.',
-    why:'A confined-drain rescue can require animal handling, safe access and knowledge of the utility system at the same time. The short official account does not establish how the dogs entered, how long they were inside or a precise count, so Blappos does not invent those details. What it does document is a successful multi-agency response with the animals recovered.',
-    angle:'Verified fact ends above. The Blappos interpretation: three county departments attended the same underground staff meeting and reached a unanimous decisionâ€”every paw comes back up. The magnet uses anonymous rescue silhouettes and original dog characters, not incident photography.',
-    source:'https://www.upi.com/Odd_News/2026/09/22/Baldwin-County-Georgia-storm-drain-dogs/7911790096869/',sourceName:'Read the September 22 UPI report',
-    amazonLinks:[
-      {title:'The First-Aid Companion for Dogs & Cats',image:'https://m.media-amazon.com/images/I/71Ros9xW2NL._SL1500_.jpg',alt:'Cover of The First-Aid Companion for Dogs and Cats',quip:'A practical emergency reference for the minutes before the full county rescue committee reaches the drain.',url:'https://www.amazon.com/dp/1579543650?tag=blappos-20',salesPriority:5},
-      {title:'The Other End of the Leash',image:'https://m.media-amazon.com/images/I/811Ln984fnL._SL1500_.jpg',alt:'Cover of The Other End of the Leash by Patricia McConnell',quip:'A behavior guide for understanding the dogs whose infrastructure-tour proposal has just been formally denied.',url:'https://www.amazon.com/dp/034544678X?tag=blappos-20',salesPriority:5},
-      {title:'KONG Classic Stuffable Dog Toy, Medium',image:'https://m.media-amazon.com/images/I/61CT7VZTqQL._AC_SL1500_.jpg',alt:'Red KONG Classic medium dog toy',quip:'A safer engineering project for the dog who has already completed the storm-water systems elective.',url:'https://www.amazon.com/dp/B000AYN7LU?tag=blappos-20',salesPriority:4}
-    ]
-  },
-  {
-    id:'sep22-inconvenience-store',isoDate:'2026-09-22',month:'September',date:'Sep 22, 2026',place:'Seattle, Washington',image:'assets/cards/sep22-inconvenience-store.webp',
-    title:'Seattleâ€™s â€œInconvenience Storeâ€ Sells Pre-Tangled USB Cords',magnetUrl:'https://blappos.printify.me/product/32298909',magnetPrice:'$9.99',
-    facts:'Seattleâ€™s Inconvenience Store is a real temporary art exhibition where pre-tangled USB cords are part of the inventory. Artists transformed a former 7-Eleven at Third Avenue and Pine Street into a deliberately malfunctioning retail shop; the September 22 report described work from more than 70 mostly local artists across 14 mock departments, including egg-shaped candles, snack-bag shoulder bags and an ATM sound sculpture. Admission is free; objects range from $1 to $10,000.',
-    why:'The project gives artists a highly visible storefront and turns an empty commercial space into a public cultural venue. It also asks visitors to look again at ordinary packaging, checkout rituals and disposable objects. The joke is an intentional art premiseâ€”not a claim that a real shop is deceiving customersâ€”and the installation is expected to remain open on weekends into 2027.',
-    angle:'Verified fact ends above. The Blappos interpretation: Seattle has finally opened a store where the USB cable arrives in its natural adult form. Main Character Energy belongs to the entire art project: it saw an empty convenience store and restocked it with beautifully organized inconvenience.',
-    source:'https://www.upi.com/Odd_News/2026/09/22/Inconvenience-store-seattle-art-exhibit/1271790098025/',sourceName:'Read the September 22 UPI report',sourcePublisher:'UPI',
-    socialSummary:'UPI reported that more than 70 mostly local artists turned a former downtown Seattle 7-Eleven into a temporary Inconvenience Store with pre-tangled USB cords and 14 departments of deliberately malfunctioning retail art.',
-    socialPunchline:'Blappos: The USB cable arrives in its natural adult form.',
-    amazonLinks:[
-      {title:'Nettbe 60-Piece Reusable Cable Ties',image:'https://m.media-amazon.com/images/I/71aIKjDj3uL._AC_SL1200_.jpg',alt:'Colorful reusable cable ties arranged in rows',quip:'Sixty tiny objections to the storeâ€™s most artistically pre-tangled inventory.',url:'https://www.amazon.com/dp/B081HH5X61?tag=blappos-20',salesPriority:5},
-      {title:'MATEIN Electronics Organizer Travel Case',image:'https://m.media-amazon.com/images/I/71Ei4fnj0AL._AC_SL1500_.jpg',alt:'Black MATEIN electronics organizer case opened to show cables and accessories',quip:'A portable anti-exhibition for cables that stubbornly insist on remaining categorized and usable.',url:'https://www.amazon.com/dp/B07PTP17LK?tag=blappos-20',salesPriority:5},
-      {title:'Steal Like an Artist',image:'https://m.media-amazon.com/images/P/0761169253.01.LZZZZZZZ.jpg',alt:'Cover of Steal Like an Artist by Austin Kleon',quip:'A pocket manifesto for turning an empty storefront and a drawer of tangled cords into a public art destination.',url:'https://www.amazon.com/dp/0761169253?tag=blappos-20',salesPriority:5}
-    ]
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !sep22Stories.some(item => item.id === story.id));
-const sep23Index = window.dailyStories.findIndex(story => story.id === 'sep23-beijing-spray-gun');
-window.dailyStories.splice(sep23Index >= 0 ? sep23Index + 1 : 0, 0, ...sep22Stories);
-
-// October 2 supplementary edition: approved matching enamel magnet artwork.
-const oct2SupplementaryStories = [
-  {
-    "id": "oct2-grok-finds-jesus",
-    "isoDate": "2026-10-02",
-    "month": "October",
-    "date": "Oct 2, 2026",
-    "place": "X / The Internet",
-    "image": "assets/cards/oct2-grok-finds-jesus.webp",
-    "title": "Grok Finds Jesus","magnetUrl":"https://blappos.printify.me/product/32667945","magnetPrice":"$9.99",
-    "facts": "In a viral exchange on X reported on October 1â€“2, a user asked Grok to remove fake gods from an illustrated group of religious and mythological figures. The chatbot left Jesus in the picture and defended that choice in follow-up replies. The Catholic Herald reported that Grok also affirmed Christâ€™s divinity and invoked a biblical passage. This was a particular chatbot exchange, not an official theological announcement from xAI.",
-    "why": "The episode shows how a simple image-editing request can produce religious assertions that spread as an AI verdict. A chatbotâ€™s answer is evidence of what it generated in that exchange; it does not independently settle a theological question or establish that the software possesses personal faith.",
-    "angle": "Tech support found a higher power. Someone requested an image edit and accidentally installed a pastor. The praying robot, surprised technician and server-room encounter are invented satire of the chatbotâ€™s sudden theological confidence.",
-    "amazonLinks": [
-      {
-        "title": "The Case for Christ: A Journalist's Personal Investigation of the Evidence for Jesus (Case for ... Series)",
-        "image": "https://m.media-amazon.com/images/I/71McrITcpNL._SL1500_.jpg",
-        "alt": "The Case for Christ: A Journalist's Personal Investigation of the Evidence for Jesus (Case for ... Series) book cover",
-        "quip": "The human-written case for the divinity Grok defended in its viral image-editing exchange.",
-        "salesPriority": 4,
-        "url": "https://www.amazon.com/dp/0310350034?tag=blappos-20"
-      },
-      {
-        "title": "The Age of AI: Artificial Intelligence and the Future of Humanity",
-        "image": "https://m.media-amazon.com/images/I/81Fz22pVJ5L._SL1500_.jpg",
-        "alt": "The Age of AI: Artificial Intelligence and the Future of Humanity book cover",
-        "quip": "A Christian examination of artificial intelligence, for the moment an image-editing bot starts sounding like a preacher.",
-        "salesPriority": 4,
-        "url": "https://www.amazon.com/dp/0310357640?tag=blappos-20"
-      },
-      {
-        "title": "Did Jesus Exist?: The Historical Argument for Jesus of Nazareth",
-        "image": "https://m.media-amazon.com/images/I/61ox3GPEv2L._SL1360_.jpg",
-        "alt": "Did Jesus Exist?: The Historical Argument for Jesus of Nazareth book cover",
-        "quip": "A historianâ€™s argument for Jesusâ€™s existence: useful context for separating Grokâ€™s historical claims from its theological conclusions.",
-        "salesPriority": 4,
-        "url": "https://www.amazon.com/dp/0062206443?tag=blappos-20"
-      }
-    ],
-    "source": "https://thecatholicherald.com/article/grok-ai-affirms-the-divinity-of-christ",
-    "sourceName": "Read the October 2 Catholic Herald report",
-    "sourcePublisher": "Catholic Herald",
-    "socialSummary": "A reported viral Grok exchange left Jesus in an edited lineup after the chatbot was asked to remove fake gods, then defended the choice in follow-up replies.",
-    "socialPunchline": "Tech support found a higher power."
-  },
-  {
-    "id": "oct2-ark-deja-vu",
-    "isoDate": "2026-10-02",
-    "month": "October",
-    "date": "Oct 2, 2026",
-    "place": "Mount Ararat region, Turkey",
-    "image": "assets/cards/oct2-ark-deja-vu.webp",
-    "title": "Ark DÃ©jÃ  Vu","magnetUrl":"https://blappos.printify.me/product/32667954","magnetPrice":"$9.99",
-    "facts": "In a September 23 announcement, Noahâ€™s Ark Scans said its team had begun deep core drilling at the boat-shaped DurupÄ±nar formation near Mount Ararat in Turkey. The team reported organic-rich layers and cavities, and said a hard layer broke a drill bit. Researchers suggested petrified or mineralized wood as possibilities, with third-party laboratory testing still to come. These are the expeditionâ€™s preliminary claims; Noahâ€™s Ark has not been confirmed found.",
-    "why": "The formation has attracted Ark claims for decades. Recovering samples creates an opportunity to test what lies underground, but a boat-shaped outline, radar anomalies and a broken drill bit do not by themselves identify a biblical vessel. The teamâ€™s announcement said detailed analyses were pending, with further work planned for 2027.",
-    "angle": "Another discovery. Same two giraffes. The internet has already started boarding the animals while the samples wait for the lab. Noah, the visible wooden ark and its passengers are fictional illustration, not a reconstruction of anything excavated at DurupÄ±nar.",
-    "amazonLinks": [
-      {
-        "title": "The Ark Before Noah: Decoding the Story of the Flood",
-        "image": "https://m.media-amazon.com/images/I/919ARIAw7EL._SL1500_.jpg",
-        "alt": "The Ark Before Noah: Decoding the Story of the Flood book cover",
-        "quip": "An Assyriologistâ€™s study of ancient flood narratives, for an Ark headline that deserves more than another triumphant screenshot.",
-        "salesPriority": 4,
-        "url": "https://www.amazon.com/dp/0345804392?tag=blappos-20"
-      },
-      {
-        "title": "The Lost World of the Flood: Mythology, Theology, and the Deluge Debate (Volume 5) (The Lost World Series)",
-        "image": "https://m.media-amazon.com/images/I/A1SGm1PXu5L._SL1500_.jpg",
-        "alt": "The Lost World of the Flood: Mythology, Theology, and the Deluge Debate (Volume 5) (The Lost World Series) book cover",
-        "quip": "A study of Genesis and ancient flood accounts, while the Turkish drilling samples await laboratory analysis.",
-        "salesPriority": 4,
-        "url": "https://www.amazon.com/dp/083085200X?tag=blappos-20"
-      },
-      {
-        "title": "Noah's Ark: Thinking Outside the Box",
-        "image": "https://m.media-amazon.com/images/I/51g75B37-tL._SL1028_.jpg",
-        "alt": "Noah's Ark: Thinking Outside the Box book cover",
-        "quip": "A creationist exploration of Ark design and construction, offering a different perspective on the vessel the research team believes it is investigating.",
-        "salesPriority": 4,
-        "url": "https://www.amazon.com/dp/0890515077?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.globenewswire.com/news-release/2026/09/23/3367545/0/en/core-drilling-begins-at-durupinar-noah-s-ark-site-drill-bit-shatters-on-possible-layer-of-petrified-wood.html",
-    "sourceName": "Read the expeditionâ€™s September 23 announcement (press release)",
-    "sourcePublisher": "GlobeNewswire / Noahâ€™s Ark Scans press release",
-    "socialSummary": "A Noahâ€™s Ark Scans team says core drilling has begun at Turkeyâ€™s DurupÄ±nar formation, but laboratory testing is pending and no Ark has been confirmed.",
-    "socialPunchline": "Another discovery. Same two giraffes."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct2SupplementaryStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct2SupplementaryStories);
-
-// October 2 supplementary magnets linked; publish story pages and social delivery.
-
-// Supplementary motorcade story. Magnet gate keeps it private until purchasable.
-const oct2BeastStory = {
-  "id": "oct2-beast-mode",
-  "isoDate": "2026-10-02",
-  "month": "October",
-  "date": "Oct 2, 2026",
-  "place": "Texas to Oklahoma",
-  "image": "assets/cards/oct2-beast-mode.webp",
-  "title": "Beast Mode","magnetUrl":"https://blappos.printify.me/product/32668387","magnetPrice":"$9.99",
-  "facts": "Bad weather turned President Trumpâ€™s October 1 trip from Denton, Texas, to a rally in Durant, Oklahoma, into a highway journey. In her contemporaneous White House pool report, Los Angeles Times correspondent Ana Ceballos said her press van reached 98 mph. She also reported that Trump posted that his presidential limousine, â€œThe Beast,â€ was moving faster than ever. The motorcade arrived at the Choctaw venue at 7:02 p.m. local time.",
-  "why": "The nearly-100-mph figure comes from a reporter riding in the convoy. It is not an independently recorded speed for the limousine itself or proof of its maximum performance. An earlier pool report said a weather decision had replaced the planned Osprey flight with a motorcade.",
-  "angle": "Flight cancelled. Beast mode enabled. The aircraft got a weather delay; the limousine got a promotion. This vintage-style car, dramatic rain, flying papers and startled reporter are imagined satire, not a reconstruction of the drive.",
-  "amazonLinks": [
-    {
-      "title": "Digital Speedometer for Car, Speedometer for Car MPH, Head Up Display",
-      "image": "https://m.media-amazon.com/images/I/51Q1B2LnRkL._SL1500_.jpg",
-      "alt": "Digital Speedometer for Car, Speedometer for Car MPH, Head Up Display product photo",
-      "quip": "A dashboard speed display for the exact detail that made the press-pool report memorable: its van reached 98 mph. This is a consumer accessory, not equipment identified in the motorcade.",
-      "salesPriority": 4,
-      "url": "https://www.amazon.com/dp/B0B6FGBPYD?tag=blappos-20"
-    },
-    {
-      "title": "Zero Fail: The Rise and Fall of the Secret Service",
-      "image": "https://m.media-amazon.com/images/I/91Skali0fML._SL1500_.jpg",
-      "alt": "Zero Fail: The Rise and Fall of the Secret Service product photo",
-      "quip": "Carol Leonnigâ€™s history of the Secret Service puts the armored presidential limousine and its protective convoy in context.",
-      "salesPriority": 4,
-      "url": "https://www.amazon.com/dp/0399589031?tag=blappos-20"
-    },
-    {
-      "title": "Five Presidents: My Extraordinary Journey with Eisenhower, Kennedy, Johnson, Nixon, and Ford",
-      "image": "https://m.media-amazon.com/images/I/81qVfixjRbL._SL1500_.jpg",
-      "alt": "Five Presidents: My Extraordinary Journey with Eisenhower, Kennedy, Johnson, Nixon, and Ford product photo",
-      "quip": "A former presidential protection agentâ€™s account of serving five presidents, for a story about the logistics of moving the commander in chief.",
-      "salesPriority": 4,
-      "url": "https://www.amazon.com/dp/1476794146?tag=blappos-20"
-    }
-  ],
-  "source": "https://pool.pp.tools/reports/9402",
-  "sourceName": "Read Ana Ceballosâ€™s October 1 White House pool report",
-  "sourcePublisher": "Ana Ceballos, White House pool report",
-  "socialSummary": "Bad weather replaced President Trump's planned flight with a Texas-to-Oklahoma motorcade; pool reporter Ana Ceballos said her press van reached 98 mph.",
-  "socialPunchline": "Flight delayed. Limo promoted."
-};
-window.dailyStories = window.dailyStories.filter(story => story.id !== oct2BeastStory.id);
-window.dailyStories.unshift(oct2BeastStory);
-
-// Beast Mode magnet verified purchasable; publish page and social delivery.
-
-
-// October 3 four-slot global edition. Printify hard-gates publication until each magnet URL is linked.
-const oct3Stories = [
-  {
-    "id": "oct3-mach-five-diplomacy",
-    "isoDate": "2026-10-03",
-    "month": "October",
-    "date": "Oct 3, 2026",
-    "place": "Korean Peninsula",
-    "image": "assets/cards/oct3-mach-five-diplomacy.png",
-    "title": "North Korea says new hypersonic missile flew 1,000 kilometers","magnetUrl":"https://blappos.printify.me/product/32709862","magnetPrice":"$9.99",
-    "facts": "North Korean state media said an intermediate-range hypersonic missile launched from the countryâ€™s east coast on October 3 and struck a target about 1,000 kilometers away at sea. Reuters reported that South Korea measured a flight of more than 700 kilometers. North Korea claimed a special wave-like trajectory defeated regional tracking, while South Koreaâ€™s Defense Ministry said it detected and tracked the launch immediately.",
-    "why": "The test adds a maneuverable strategic weapon to an already tense peninsula and the competing distance and tracking claims matter. They show why state announcements, military measurements and independent analysis should remain clearly separated until more technical evidence is available.",
-    "angle": "Mach Five Diplomacy. When the communiquÃ© arrives after the missile, the punctuation is mostly radar arcs. The illustration is a fictional missile and map compositionâ€”not a reconstruction, state emblem or claim about the weaponâ€™s exact appearance.",
-    "amazonLinks": [
-      {
-        "title": "The Korean War: A History",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/081297896X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Korean War: A History by Bruce Cumings",
-        "quip": "Historical context for the conflict that still shapes military signaling on the peninsula.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/081297896X?tag=blappos-20"
-      },
-      {
-        "title": "The Two Koreas: A Contemporary History",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0465031234.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Two Koreas by Don Oberdorfer and Robert Carlin",
-        "quip": "A modern history of the divided peninsula behind each new launch and response.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0465031234?tag=blappos-20"
-      },
-      {
-        "title": "Prisoners of Geography: Ten Maps That Explain Everything About the World",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1501121472.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Prisoners of Geography by Tim Marshall",
-        "quip": "Map-led context for why distance, terrain and neighboring alliances dominate this story.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1501121472?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.reuters.com/world/asia-pacific/north-korea-says-it-conducted-intermediate-range-strategic-missile-drill-2026-10-03/",
-    "sourceName": "Read Reutersâ€™ October 3 report",
-    "sourcePublisher": "Reuters",
-    "socialSummary": "North Korea said it tested a hypersonic missile that traveled about 1,000 kilometers; South Korea said it tracked the launch and reported a shorter flight distance.",
-    "socialPunchline": "Mach Five Diplomacy: the communiquÃ© arrived with radar arcs."
-  },
-  {
-    "id": "oct3-night-mass-raccoon",
-    "isoDate": "2026-10-03",
-    "month": "October",
-    "date": "Oct 3, 2026",
-    "place": "Greenwich Village, New York",
-    "image": "assets/cards/oct3-night-mass-raccoon.png",
-    "title": "Raccoon walks into Manhattan church during candlelit service","magnetUrl":"https://blappos.printify.me/product/32709863","magnetPrice":"$9.99",
-    "facts": "The New York Post reported on October 3 that a raccoon walked through the open doors of St. Josephâ€™s Church in Greenwich Village during a September 25 candlelit Night Fire service. Video showed the animal exploring the foyer before the pastor guided it back outside.",
-    "why": "The incident is harmless, visual and unusually well documented, but the date distinction matters: October 3 is the reporting date and September 25 is the event date. Nothing in the account establishes that the raccoon understood the ceremony or intended to attend.",
-    "angle": "Night Mass + One Raccoon. The guest arrived without a reservation, inspected the foyer and left before the collection plate. The illustration invents the candlelit composition and does not depict the actual animal or video frame.",
-    "amazonLinks": [
-      {
-        "title": "Raccoon",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1789144248.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Raccoon by Daniel Heath Justice",
-        "quip": "A natural and cultural history of the animal that briefly expanded the evening congregation.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1789144248?tag=blappos-20"
-      },
-      {
-        "title": "Havahart Large One-Door Humane Animal Trap",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/B000BPAVCG.01.LZZZZZZZ.jpg",
-        "alt": "Havahart humane live animal trap product photo",
-        "quip": "A humane trapping option for qualified property managers; wildlife problems should still be handled under local guidance.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/B000BPAVCG?tag=blappos-20"
-      },
-      {
-        "title": "National Audubon Society Field Guide to North American Mammals",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0394507622.01.LZZZZZZZ.jpg",
-        "alt": "Cover of National Audubon Society Field Guide to North American Mammals",
-        "quip": "Field identification for the next unexpected visitor before assigning it a denomination.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0394507622?tag=blappos-20"
-      }
-    ],
-    "source": "https://nypost.com/2026/10/03/us-news/nycs-catholic-raccoon-critter-marches-into-greenwich-village-church-during-special-mass/",
-    "sourceName": "Read the New York Postâ€™s October 3 report",
-    "sourcePublisher": "New York Post",
-    "socialSummary": "A raccoon wandered into St. Josephâ€™s Church in Greenwich Village during a candlelit service and was calmly guided back outside.",
-    "socialPunchline": "Night Mass gained one unregistered trash panda."
-  },
-  {
-    "id": "oct3-search-dog",
-    "isoDate": "2026-10-03",
-    "month": "October",
-    "date": "Oct 3, 2026",
-    "place": "Mississippi / Texas",
-    "image": "assets/cards/oct3-search-dog.png",
-    "title": "Neglected stray becomes certified disaster-search dog and 2026 Dog of the Year","magnetUrl":"https://blappos.printify.me/product/32709870","magnetPrice":"$9.99",
-    "facts": "A Times of India report published October 3 recounted Canyonâ€™s path from a severely malnourished Mississippi stray rescued in 2021 to a trained search dog working with Category 5 K9. Canyon earned human-remains detection and wilderness certifications in 2023 and has deployed to disasters including the Maui wildfires, Hurricane Helene and the 2025 Texas floods. The ASPCA named him its 2026 Dog of the Year.",
-    "why": "Canyonâ€™s record is a concrete example of a shelter animal becoming a skilled public-service partner after veterinary care and sustained specialist training. The award recognizes documented work; it does not mean every rescue dog is suited to detection work or that certification is quick.",
-    "angle": "From Stray to Search Dog. One second chance, eighteen months of training and a nose that now reports for duty. The artwork uses a generic heroic search-dog scene rather than Canyonâ€™s name, likeness or actual deployments.",
-    "amazonLinks": [
-      {
-        "title": "The Rescued Dog Problem Solver",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1620081393.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Rescued Dog Problem Solver",
-        "quip": "Practical guidance for helping an adopted dog settle and learnâ€”well before any specialist working-dog ambition.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1620081393?tag=blappos-20"
-      },
-      {
-        "title": "Canine Enrichment for the Real World",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1617812684.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Canine Enrichment for the Real World",
-        "quip": "A science-minded guide to meeting canine behavioral needs and building useful confidence.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1617812684?tag=blappos-20"
-      },
-      {
-        "title": "Schutzhund: Theory and Training Methods",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0876057318.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Schutzhund Theory and Training Methods",
-        "quip": "Specialized working-dog training contextâ€”not a substitute for a certified search-and-rescue program.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0876057318?tag=blappos-20"
-      }
-    ],
-    "source": "https://timesofindia.indiatimes.com/world/us/a-severely-malnourished-stray-rescued-in-mississippi-in-2021-became-a-fema-certified-search-dog-years-later-canyon-is-2026-dog-of-the-year/articleshow/134654635.cms",
-    "sourceName": "Read the Times of Indiaâ€™s October 3 report",
-    "sourcePublisher": "The Times of India",
-    "socialSummary": "A severely neglected Mississippi stray recovered, completed specialist detection training and became the ASPCAâ€™s 2026 Dog of the Year after disaster-response deployments.",
-    "socialPunchline": "The rÃ©sumÃ© now includes â€œfinds peopleâ€ and â€œsteals couch.â€"
-  },
-  {
-    "id": "oct3-rome-golf-carts",
-    "isoDate": "2026-10-03",
-    "month": "October",
-    "date": "Oct 3, 2026",
-    "place": "Rome, Italy",
-    "image": "assets/cards/oct3-rome-golf-carts.png",
-    "title": "Rome fines golf-cart operators as unauthorized fleet crowds ancient streets","magnetUrl":"https://blappos.printify.me/product/32709876","magnetPrice":"$9.99",
-    "facts": "The Guardian reported October 3 that Rome police intensified checks on golf-cart tours after Adnkronos reported that 90% of roughly 500 carts in circulation lacked authorization. Police stopped 131 carts near major landmarks and issued â‚¬38,000 in fines for violations including unlicensed driving and illegal parking. Legitimate operators said the carts help families and visitors with mobility needs.",
-    "why": "The dispute joins overtourism, accessibility, street safety and licensing in a city whose historic center already has limited space. The 90% estimate came through a news-agency report, while the stop and fine totals describe recent enforcementâ€”not a finding that every cart or passenger broke rules.",
-    "angle": "Rome in Four-Wheel Drive. Two thousand years after Julius Caesar tried traffic restrictions, the city has rediscovered congestion at golf-course speed. The joke targets the streets-and-tourism situation, not individual visitors or lawful operators.",
-    "amazonLinks": [
-      {
-        "title": "SPQR: A History of Ancient Rome",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0871404230.01.LZZZZZZZ.jpg",
-        "alt": "Cover of SPQR by Mary Beard",
-        "quip": "The long civic history behind a city still arguing about traffic, access and who gets the road.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0871404230?tag=blappos-20"
-      },
-      {
-        "title": "The Death and Life of Great American Cities",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/067974195X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Death and Life of Great American Cities by Jane Jacobs",
-        "quip": "Classic street-level thinking for a debate about vehicles, pedestrians and urban life.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/067974195X?tag=blappos-20"
-      },
-      {
-        "title": "Streetfight: Handbook for an Urban Revolution",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0143128973.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Streetfight by Janette Sadik-Khan and Seth Solomonow",
-        "quip": "A practical look at reclaiming streets when competing uses have exceeded the available pavement.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0143128973?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.theguardian.com/world/2026/oct/03/rome-golf-cart-tours-crackdown-tourism",
-    "sourceName": "Read The Guardianâ€™s October 3 report",
-    "sourcePublisher": "The Guardian",
-    "socialSummary": "Rome police stopped 131 golf carts and issued â‚¬38,000 in fines as officials moved to regulate a tour fleet reported to be mostly unauthorized.",
-    "socialPunchline": "The Eternal City discovered traffic at golf-course speed."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct3Stories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct3Stories);
-
-
-// October 3 magnets verified purchasable; release permanent pages, source ledger and social delivery.
-
-// October 3 permanent pages now carry exact Printify URLs; social release authorized.
-
-
-// October 4 four-slot global edition. Printify hard-gates publication until each magnet URL is linked.
-const oct4Stories = [
-  {
-    "id": "oct4-ukraine-aid",
-    "isoDate": "2026-10-04",
-    "month": "October",
-    "date": "Oct 4, 2026",
-    "place": "Kyiv, Ukraine",
-    "image": "assets/cards/oct4-ukraine-aid.webp",
-    "title": "Germany announces â‚¬1.3 billion Ukraine aid package as aerial war intensifies","magnetUrl":"https://blappos.printify.me/product/32750580","magnetPrice":"$9.99",
-    "facts": "Associated Press reported on October 4 that German Chancellor Friedrich Merz announced more than â‚¬1.3 billion in new aid during a visit to Kyiv. About â‚¬1 billion is military support, including long-range strike weapons, combat drones and satellite technology; roughly â‚¬350 million is winter energy aid for generators, substations and repairs. Ukraine and Germany also signed 15 agreements valued at more than â‚¬8.5 billion.",
-    "why": "The package joins battlefield capability with civilian energy resilience as attacks on Ukrainian cities intensify. The figures are commitments announced by the two governments, not independently audited deliveries, and AP reported them alongside continued Russian missile and drone attacks.",
-    "angle": "Winter Support Moves East. The route carries drones, power equipment and policy weight before the cold arrives. The illustration is an original symbolic map scene, not a literal convoy, weapon depiction or endorsement.",
-    "amazonLinks": [
-      {
-        "title": "The Russo-Ukrainian War: The Return of History",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1324051191.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Russo-Ukrainian War by Serhii Plokhy",
-        "quip": "A modern history of the conflict behind the latest aid package.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1324051191?tag=blappos-20"
-      },
-      {
-        "title": "The Gates of Europe: A History of Ukraine",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0465094864.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Gates of Europe by Serhii Plokhy",
-        "quip": "Long-view Ukrainian history for understanding why geography and sovereignty matter here.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0465094864?tag=blappos-20"
-      },
-      {
-        "title": "The Drone Age: How Drone Technology Will Change War and Peace",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/019063586X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Drone Age by Michael J. Boyle",
-        "quip": "Context for the drone and counter-drone technology named in the new agreements.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/019063586X?tag=blappos-20"
-      }
-    ],
-    "source": "https://apnews.com/article/kyiv-russia-ukraine-war-merz-drones-89bb8d2a97cc09d01a316723d08d2fb3",
-    "sourceName": "Read the Associated Pressâ€™s October 4 report",
-    "sourcePublisher": "Associated Press",
-    "socialSummary": "Germany announced more than â‚¬1.3 billion in new military and winter-energy aid for Ukraine during Chancellor Friedrich Merzâ€™s visit to Kyiv.",
-    "socialPunchline": "Winter support packed drones, substations and one very heavy policy suitcase."
-  },
-  {
-    "id": "oct4-snake-golf-balls",
-    "isoDate": "2026-10-04",
-    "month": "October",
-    "date": "Oct 4, 2026",
-    "place": "San Antonio, Texas",
-    "image": "assets/cards/oct4-snake-golf-balls.webp",
-    "title": "Veterinarians remove three golf balls from snake without surgery","magnetUrl":"https://blappos.printify.me/product/32750586","magnetPrice":"$9.99",
-    "facts": "People reported on October 4 that South Texas Avian & Exotic Hospital treated a snake after it swallowed three golf balls. With the animal heavily sedated, the veterinary team carefully moved each ball through the gastrointestinal tract and out through the mouth, avoiding surgery. The hospital said the snake recovered without complications and continued to do well.",
-    "why": "Foreign-object ingestion can cause a life-threatening obstruction in reptiles. This case is memorable because specialized handling avoided a more invasive procedure, but it is not a do-it-yourself technique: the hospital used heavy sedation and a veterinary team.",
-    "angle": "Three Golf Balls. No Surgery. The patient misunderstood the equipment list, then received a perfect score from exotic medicine. The cheerful clinic scene is original satire, not a recreation of the treatment video.",
-    "amazonLinks": [
-      {
-        "title": "Exotic Animal Medicine for the Veterinary Technician",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1119863147.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Exotic Animal Medicine for the Veterinary Technician",
-        "quip": "A clinical reference for the specialized care behind an unusual reptile rescue.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1119863147?tag=blappos-20"
-      },
-      {
-        "title": "Reptile Medicine and Surgery in Clinical Practice",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/111897767X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Reptile Medicine and Surgery in Clinical Practice",
-        "quip": "A practitioner-focused guide to reptile diagnosis, supportive care and procedures.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/111897767X?tag=blappos-20"
-      },
-      {
-        "title": "Blackwellâ€™s Five-Minute Veterinary Consult: Reptile and Amphibian",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1119233720.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Blackwellâ€™s Five-Minute Veterinary Consult Reptile and Amphibian",
-        "quip": "Quick clinical context for conditions that should remain firmly in expert hands.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1119233720?tag=blappos-20"
-      }
-    ],
-    "source": "https://people.com/snake-receives-treatment-after-swallowing-3-golf-balls-12147148",
-    "sourceName": "Read Peopleâ€™s October 4 report",
-    "sourcePublisher": "People",
-    "socialSummary": "A San Antonio exotic-animal hospital removed three swallowed golf balls from a heavily sedated snake without surgery; the hospital says it recovered well.",
-    "socialPunchline": "Three balls under par, one reptile over it."
-  },
-  {
-    "id": "oct4-supernumerary-rainbows",
-    "isoDate": "2026-10-04",
-    "month": "October",
-    "date": "Oct 4, 2026",
-    "place": "New Jersey",
-    "image": "assets/cards/oct4-supernumerary-rainbows.webp",
-    "title": "Five supernumerary rainbows turn New Jersey sky into a wave-optics lesson","magnetUrl":"https://blappos.printify.me/product/32750590","magnetPrice":"$9.99",
-    "facts": "NASAâ€™s Astronomy Picture of the Day for October 4 featured a New Jersey photograph in which at least five supernumerary rainbow bands appeared and faded over about half an hour. NASA explained that the extra bands form when falling droplets are nearly uniform in size and typically under one millimeter across, allowing light waves to interfere after reflecting within the drops.",
-    "why": "Ordinary geometric optics cannot fully explain the closely spaced extra bands. Their wave-interference pattern helped provide early nineteenth-century evidence that light behaves as a wave, turning a striking family skywatching moment into a compact physics demonstration.",
-    "angle": "Five Rainbows. One Rain Shower. Weather delivered the deluxe color package and included the footnotes in wave physics. The illustrated overlook is an original scene, not a copy of the featured photograph.",
-    "amazonLinks": [
-      {
-        "title": "Opticks",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0486602052.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Opticks by Isaac Newton",
-        "quip": "A foundational study of reflection, refraction and colorâ€”useful history for a rainbow that needs wave optics too.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0486602052?tag=blappos-20"
-      },
-      {
-        "title": "The Rainbow Book",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1449401716.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Rainbow Book by Kate Ohrt",
-        "quip": "A paper-cut celebration of color for readers drawn first by the skyâ€™s visual show.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1449401716?tag=blappos-20"
-      },
-      {
-        "title": "National Geographic Pocket Guide to the Weather of North America",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/1426217862.01.LZZZZZZZ.jpg",
-        "alt": "Cover of National Geographic Pocket Guide to the Weather of North America",
-        "quip": "Field-friendly weather context for noticing the next atmospheric surprise.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1426217862?tag=blappos-20"
-      }
-    ],
-    "source": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
-    "sourceName": "Read NASAâ€™s October 4 Astronomy Picture of the Day explanation",
-    "sourcePublisher": "NASA Science / Astronomy Picture of the Day",
-    "socialSummary": "NASA featured a New Jersey image showing at least five supernumerary rainbow bands, produced when nearly uniform raindrops make reflected light waves interfere.",
-    "socialPunchline": "The sky upgraded to the deluxe color package."
-  },
-  {
-    "id": "oct4-sewer-gold",
-    "isoDate": "2026-10-04",
-    "month": "October",
-    "date": "Oct 4, 2026",
-    "place": "New York City",
-    "image": "assets/cards/oct4-sewer-gold.webp",
-    "title": "New York sewer explorers chase rumors of lost gold; documented payoff remains elusive","magnetUrl":"https://blappos.printify.me/product/32750591","magnetPrice":"$9.99",
-    "facts": "The Guardian reported October 4 that two men arrested after allegedly emerging from a Manhattan tunnel told police they entered sewers looking for gold and other valuables. The article linked the incident to several documented sewer entries in 2025 and 2026. A former urban explorer said the most valuable item he found in more than 100 sewer trips was an expired credit card.",
-    "why": "New Yorkâ€™s Department of Environmental Protection says entering sewers is illegal and extremely dangerous because of toxic gases, unstable surfaces, flooding and confined spaces. The gold story explains the behavior attributed to the arrested men; it does not establish that sewer foraging is profitable or that unrelated explorers share the same motive.",
-    "angle": "Sewer Gold: Still Pending. The treasure map appears to end at an expired card and several hazards that do not accept store credit. The joke targets the documented treasure-hunting behavior, not the menâ€™s appearance or private lives.",
-    "amazonLinks": [
-      {
-        "title": "The Works: Anatomy of a City",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0143112708.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Works Anatomy of a City by Kate Ascher",
-        "quip": "An illustrated tour of the infrastructure hidden beneath New York streets.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0143112708?tag=blappos-20"
-      },
-      {
-        "title": "Underground: A Human History of the Worlds Beneath Our Feet",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0812986598.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Underground by Will Hunt",
-        "quip": "A reported history of the human urge to descend below cities, mines and sacred landscapes.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0812986598?tag=blappos-20"
-      },
-      {
-        "title": "New York Underground: The Anatomy of a City",
-        "image": "https://images-na.ssl-images-amazon.com/images/P/0415963109.01.LZZZZZZZ.jpg",
-        "alt": "Cover of New York Underground by Julia Solis",
-        "quip": "A closer look at the tunnels, utilities and myths beneath the cityâ€”best explored from the page.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0415963109?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.theguardian.com/us-news/2026/oct/04/new-york-sewers-gold-mole-people",
-    "sourceName": "Read The Guardianâ€™s October 4 report",
-    "sourcePublisher": "The Guardian",
-    "socialSummary": "Two men arrested after allegedly leaving a Manhattan tunnel told police they were searching sewers for valuables; city officials warn the spaces are illegal and deadly to enter.",
-    "socialPunchline": "Sewer gold remains pending. Hazards are available immediately."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct4Stories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct4Stories);
-
-// October 4 permanent-page rebuild requested after Printify link verification.
-
-// October 4 social release authorized after live page and storefront verification.
-
-
-const oct5Stories = [
-  {
-    "id": "oct5-optogenetics-nobel",
-    "isoDate": "2026-10-05",
-    "month": "October",
-    "date": "Oct 5, 2026",
-    "place": "Stockholm, Sweden",
-    "image": "assets/cards/oct5-optogenetics-nobel.webp",
-    "title": "Nobel medicine prize honors the light switch for brain cells","magnetUrl":"https://blappos.printify.me/product/32790289","magnetPrice":"$9.99",
-    "facts": "Reuters reported on October 5 that the 2026 Nobel Prize in Physiology or Medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel for discoveries concerning light-gated ion channels and optogenetics. The technique uses light-sensitive proteins to activate or silence selected neurons, building on research into channelrhodopsins from algae. The three laureates share the 12 million Swedish kronor award.",
-    "why": "Optogenetics lets researchers test cause and effect in living neural circuits with unusual precision, improving the study of movement, behavior and neurological disease. The prize recognizes a powerful research method and development platformâ€”not evidence that a near-term cure exists for every condition being studied with it.",
-    "angle": "Brain Cells: Now With Light Switches. A microscopic alga supplied the most consequential electrical upgrade in the building. The illustrated brain and Stockholm skyline are original symbols, not portraits of the laureates or a claim about a specific treatment.",
-    "amazonLinks": [
-      {
-        "title": "Principles of Neural Science, Sixth Edition",
-        "image": "https://m.media-amazon.com/images/I/81BtojMeFPL._SL1500_.jpg",
-        "alt": "Cover of Principles of Neural Science, Sixth Edition",
-        "quip": "The comprehensive neuroscience reference behind the circuits that optogenetics helps researchers interrogate.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1259642232?tag=blappos-20"
-      },
-      {
-        "title": "The Brain: The Story of You",
-        "image": "https://m.media-amazon.com/images/I/812OzOL1BTL._SL1500_.jpg",
-        "alt": "Cover of The Brain The Story of You by David Eagleman",
-        "quip": "An accessible tour of the organ whose individual cells can now be studied with pulses of light.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0525433449?tag=blappos-20"
-      },
-      {
-        "title": "Behave: The Biology of Humans at Our Best and Worst",
-        "image": "https://m.media-amazon.com/images/I/81GOdrpB6hL._SL1500_.jpg",
-        "alt": "Cover of Behave by Robert Sapolsky",
-        "quip": "A broad biological context for connecting neural circuits with behavior without reducing people to one switch.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0143110918?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/",
-    "sourceName": "Read Reutersâ€™ October 5 report",
-    "sourcePublisher": "Reuters",
-    "socialSummary": "The 2026 Nobel medicine prize honored three scientists whose work on light-gated ion channels made optogeneticsâ€”a way to activate or silence selected neurons with lightâ€”possible.",
-    "socialPunchline": "A microscopic alga supplied the brainâ€™s most consequential light switch."
-  },
-  {
-    "id": "oct5-restaurant-bear",
-    "isoDate": "2026-10-05",
-    "month": "October",
-    "date": "Oct 5, 2026",
-    "place": "Pocono Pines, Pennsylvania",
-    "image": "assets/cards/oct5-restaurant-bear.webp",
-    "title": "Black bear checks a restaurant host stand, then raids the dumpster","magnetUrl":"https://blappos.printify.me/product/32790295","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 5 that a large black bear wandered into the Jubilee Restaurant in Pocono Pines during a Saturday night visit. Security video showed the animal investigating the host stand before leaving; the report also documented the bear turning its attention to the restaurantâ€™s dumpster.",
-    "why": "The surprise visit is visually comic, but access to restaurant waste can reward bears for returning to places where people gather. Wildlife agencies advise securing food and trash, keeping distance and never feeding or approaching a bear.",
-    "angle": "Table for One. Dumpster for Dessert. The reservation system accepted paws, but the kitchen closed before the tasting menu. The restaurant scene is an original illustration, not a copy of security footage.",
-    "amazonLinks": [
-      {
-        "title": "Alaska Bear Tales",
-        "image": "https://m.media-amazon.com/images/I/A1G9tSgqYDL._SL1500_.jpg",
-        "alt": "Cover of Alaska Bear Tales by Larry Kaniut",
-        "quip": "True bear encounters for readers who prefer their wildlife surprises from a safe chair.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0882402323?tag=blappos-20"
-      },
-      {
-        "title": "Celestron Nature DX 8x42 Binoculars",
-        "image": "https://m.media-amazon.com/images/P/B00B73JONS.01.LZZZZZZZ.jpg",
-        "alt": "Celestron Nature DX 8x42 binoculars",
-        "quip": "A safer way to admire a black bear than offering it the host stand.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/B00B73JONS?tag=blappos-20"
-      },
-      {
-        "title": "Bear Attacks: Their Causes and Avoidance",
-        "image": "https://m.media-amazon.com/images/P/158574557X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Bear Attacks Their Causes and Avoidance",
-        "quip": "Practical context for preventing an amusing video from becoming a dangerous encounter.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/158574557X?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/05/bear-Jubilee-Restaurant-Pocono-Pines/5481791217525/",
-    "sourceName": "Read UPIâ€™s October 5 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "A black bear wandered into the Jubilee Restaurant in Pennsylvaniaâ€™s Pocono Mountains, inspected the host stand on security video and later investigated the dumpster.",
-    "socialPunchline": "Table for one. Dumpster for dessert."
-  },
-  {
-    "id": "oct5-oldest-men-birthday",
-    "isoDate": "2026-10-05",
-    "month": "October",
-    "date": "Oct 5, 2026",
-    "place": "Brazil â†” Australia",
-    "image": "assets/cards/oct5-oldest-men-birthday.webp",
-    "title": "Worldâ€™s two oldest men share a birthday one year apart and exchange greetings","magnetUrl":"https://blappos.printify.me/product/32790304","magnetPrice":"$9.99",
-    "facts": "Guinness World Records reported on October 5 that JoÃ£o Marinho Neto of Brazil, the worldâ€™s oldest living man, turned 114 while Ken Weeks of Australia, the second-oldest living man, turned 113. Born on the same date exactly one year apart, they exchanged birthday photographs and greetings across the globe.",
-    "why": "The shared birthday is a rare, hopeful connection across roughly 14,000 kilometers, backed by age-validation records rather than an internet claim. It is a celebration of two lives, not evidence for a single longevity secret or a medical promise.",
-    "angle": "One Birthday. Two Centuries of Stories. The card aisle has officially become an international time zone. The design uses cakes, cards and a globe rather than either manâ€™s name or likeness.",
-    "amazonLinks": [
-      {
-        "title": "The Blue Zones, Second Edition: 9 Lessons for Living Longer From the People Whoâ€™ve Lived the Longest",
-        "image": "https://m.media-amazon.com/images/I/71S7ldYU8TL._SL1500_.jpg",
-        "alt": "Cover of The Blue Zones Second Edition",
-        "quip": "A reported look at long-lived communitiesâ€”context, not a guarantee wrapped in birthday candles.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1426209487?tag=blappos-20"
-      },
-      {
-        "title": "The Longevity Diet",
-        "image": "https://m.media-amazon.com/images/I/715l756rXGL._SL1500_.jpg",
-        "alt": "Cover of The Longevity Diet by Valter Longo",
-        "quip": "Research-informed reading for the science-curious guest at this 227-year combined birthday.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0525534075?tag=blappos-20"
-      },
-      {
-        "title": "Hallmark Birthday Cards Assortment, Happy Cake Day",
-        "image": "https://m.media-amazon.com/images/I/91r3aH516oL._AC_SL1500_.jpg",
-        "alt": "Hallmark Happy Cake Day birthday card assortment",
-        "quip": "Twelve cards for anyone whose birthday correspondence has become an international institution.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/B07BJ68K16?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.guinnessworldrecords.com/news/2026/10/worlds-oldest-men-send-birthday-wishes-to-each-other-as-they-turn-113-and-114",
-    "sourceName": "Read Guinness World Recordsâ€™ October 5 report",
-    "sourcePublisher": "Guinness World Records",
-    "socialSummary": "The worldâ€™s oldest and second-oldest living menâ€”114 in Brazil and 113 in Australiaâ€”share an October 5 birthday and exchanged greetings across the globe.",
-    "socialPunchline": "One birthday, two centuries of stories."
-  },
-  {
-    "id": "oct5-couch-scooters",
-    "isoDate": "2026-10-05",
-    "month": "October",
-    "date": "Oct 5, 2026",
-    "place": "Charlotte, North Carolina",
-    "image": "assets/cards/oct5-couch-scooters.webp",
-    "title": "Two riders put a couch on electric scooters; police end the commute","magnetUrl":"https://blappos.printify.me/product/32790307","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 5 that Charlotte-Mecklenburg Police stopped two riders traveling on South Tryon Street with a couch balanced across two electric scooters. Local reporting traced the video to a police social post from October 1 about the earlier street stop.",
-    "why": "A couch is not a tested scooter platform: the improvised setup compromises stability, steering, visibility and braking in live traffic. The documented facts establish the unusual stop, not the ridersâ€™ motives or any charge beyond what authorities publicly described.",
-    "angle": "Commute Mode: Reclined. The living room entered traffic and immediately discovered that cupholders are not turn signals. The joke targets the public behavior; the generic riders are not portraits of the people involved.",
-    "amazonLinks": [
-      {
-        "title": "The Design of Everyday Things: Revised and Expanded Edition",
-        "image": "https://m.media-amazon.com/images/I/71bVz+uF3NL._SL1500_.jpg",
-        "alt": "Cover of The Design of Everyday Things by Don Norman",
-        "quip": "A design classic for diagnosing why furniture and transportation have different job descriptions.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0465050654?tag=blappos-20"
-      },
-      {
-        "title": "Shoulder Dolly Moving Straps",
-        "image": "https://m.media-amazon.com/images/I/81LruVGbg+L._AC_SL1500_.jpg",
-        "alt": "Shoulder Dolly moving straps for two movers",
-        "quip": "For moving a couch with feet firmly on the ground and traffic omitted from the plan.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/B00022749Q?tag=blappos-20"
-      },
-      {
-        "title": "Segway Ninebot F2 Electric KickScooter and Helmet Bundle",
-        "image": "https://m.media-amazon.com/images/I/41ZS8dz6O1L._AC_SL1001_.jpg",
-        "alt": "Segway Ninebot F2 electric kick scooter with helmet bundle",
-        "quip": "One rider, one scooter, one helmetâ€”the seating upgrade remains strictly stationary.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/B0CYHJBGLJ?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/05/nc-us-Charlotte-Mecklenburg-couch-scooters/8751791210974/",
-    "sourceName": "Read UPIâ€™s October 5 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "Charlotte-Mecklenburg Police stopped two riders traveling on South Tryon Street with a couch balanced across two electric scooters.",
-    "socialPunchline": "The living room entered traffic and discovered that cupholders are not turn signals."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct5Stories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct5Stories);
-
-
-// October 5 permanent-page rebuild requested after Printify link verification.
-
-
-// October 5 social release authorized after live page and storefront verification.
-
-
-const oct6Stories = [
-  {
-    "id": "oct6-phoenix-planet",
-    "isoDate": "2026-10-06",
-    "month": "October",
-    "date": "Oct 6, 2026",
-    "place": "Cetus, 250 light-years away",
-    "image": "assets/cards/oct6-phoenix-planet.webp",
-    "title": "First known â€˜phoenix planetâ€™ appears to form from a dead starâ€™s ashes","magnetUrl":"https://blappos.printify.me/product/32823104","magnetPrice":"$9.99",
-    "facts": "Reuters reported on October 6 that astronomers found what they describe as the first known planet formed after its star became a white dwarf. The gas giant orbits the stellar remnant every 4.4 days about 250 light-years away, and its atmosphere contains unusually high levels of elements such as niobium, copper and zinc that point to a second generation of planet formation.",
-    "why": "The finding suggests some planetary systems may get an unexpected second act: material expelled as a star dies can gather into a new world. The research team says follow-up observations with the James Webb Space Telescope are needed, so the origin is a strongly supported interpretationâ€”not yet the final word.",
-    "angle": "Born From a Dying Star. The universe looked at a stellar obituary and filed a birth announcement. The illustration is an original cosmic scene, not a telescope image or a claim that the planet is habitable.",
-    "amazonLinks": [
-      {
-        "title": "Exoplanets: Diamond Worlds, Super Earths, Pulsar Planets, and the New Search for Life beyond Our Solar System",
-        "image": "https://covers.openlibrary.org/b/isbn/1588346250-L.jpg",
-        "alt": "Cover of Exoplanets by Michael Summers and James Trefil",
-        "quip": "A wide-angle guide to the strange worlds that make a reborn gas giant feel almost plausible.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1588346250?tag=blappos-20"
-      },
-      {
-        "title": "The Little Book of Exoplanets",
-        "image": "https://covers.openlibrary.org/b/isbn/0691215472-L.jpg",
-        "alt": "Cover of The Little Book of Exoplanets by Joshua N. Winn",
-        "quip": "A compact scientific tour of planets beyond our solar system, including the methods used to find them.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0691215472?tag=blappos-20"
-      },
-      {
-        "title": "The Planet Factory: Exoplanets and the Search for a Second Earth",
-        "image": "https://covers.openlibrary.org/b/isbn/147291774X-L.jpg",
-        "alt": "Cover of The Planet Factory by Elizabeth Tasker",
-        "quip": "Planet formation explained for readers now wondering whether stellar ashes come with assembly instructions.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/147291774X?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.reuters.com/science/alien-phoenix-planet-was-born-ashes-dying-star-2026-10-06/",
-    "sourceName": "Read Reutersâ€™ October 6 report",
-    "sourcePublisher": "Reuters",
-    "socialSummary": "Astronomers reported the first known example of a planet apparently formed from material shed after its star became a white dwarf; follow-up observations are still needed.",
-    "socialPunchline": "The universe filed a birth announcement inside a stellar obituary."
-  },
-  {
-    "id": "oct6-kitten-aquarium",
-    "isoDate": "2026-10-06",
-    "month": "October",
-    "date": "Oct 6, 2026",
-    "place": "Bloomington, Minnesota",
-    "image": "assets/cards/oct6-kitten-aquarium.webp",
-    "title": "Rescue kittens take an aquarium field trip and meet the sharks","magnetUrl":"https://blappos.printify.me/product/32823107","magnetPrice":"$9.99",
-    "facts": "The Associated Press reported on October 6 that about two dozen orphaned kittens from the Bitty Kitty Brigade spent nearly two hours exploring Sea Life at the Mall of America before it opened to the public. The sixth annual outing took them through a 300-foot aquarium tunnel past sharks, sea turtles and fish.",
-    "why": "The charming visit doubles as enrichment and socialization. The rescue says exposure to unfamiliar sights and sounds can help kittens adjust to new environments and prepare for adoption; the group expects to care for roughly 1,000 kittens this year.",
-    "angle": "Kittens Meet Sharks. The aquarium scheduled a predator summit and somehow the smallest delegates stole the meeting. The artwork is an original illustration, not aquarium photography.",
-    "amazonLinks": [
-      {
-        "title": "Tiny But Mighty: Kitten Ladyâ€™s Guide to Saving the Most Vulnerable Felines",
-        "image": "https://covers.openlibrary.org/b/isbn/1524744069-L.jpg",
-        "alt": "Cover of Tiny But Mighty by Hannah Shaw",
-        "quip": "Practical rescue-kitten knowledge for anyone whose heart just walked into a 300-foot aquarium tunnel.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1524744069?tag=blappos-20"
-      },
-      {
-        "title": "Think Like a Cat: How to Raise a Well-Adjusted Catâ€”Not a Sour Puss",
-        "image": "https://cdn2.penguin.com.au/covers/original/9781101552674.jpg",
-        "alt": "Cover of Think Like a Cat by Pam Johnson-Bennett",
-        "quip": "Behavior and socialization guidance for helping a tiny explorer become a confident companion.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0143119796?tag=blappos-20"
-      },
-      {
-        "title": "National Geographic Ocean: A Global Odyssey",
-        "image": "https://covers.openlibrary.org/b/isbn/1426221924-L.jpg",
-        "alt": "Cover of National Geographic Ocean A Global Odyssey",
-        "quip": "The big blue reference for humans who want to understand everything the kittens stared at.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1426221924?tag=blappos-20"
-      }
-    ],
-    "source": "https://apnews.com/article/4380dd682bbdd2033bbc437e613b233c",
-    "sourceName": "Read the Associated Pressâ€™ October 6 report",
-    "sourcePublisher": "Associated Press",
-    "socialSummary": "About two dozen orphaned kittens from the Bitty Kitty Brigade explored the Mall of America aquarium before opening time as an enrichment and socialization outing.",
-    "socialPunchline": "The aquarium hosted a predator summit and the smallest delegates stole the meeting."
-  },
-  {
-    "id": "oct6-canadian-buoy",
-    "isoDate": "2026-10-06",
-    "month": "October",
-    "date": "Oct 6, 2026",
-    "place": "Achill Island, County Mayo, Ireland",
-    "image": "assets/cards/oct6-canadian-buoy.webp",
-    "title": "3.8-ton Canadian buoy crosses the Atlantic and lands in Ireland","magnetUrl":"https://blappos.printify.me/product/32823110","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 6 that a Canadian Coast Guard buoy weighing about 3.8 tons washed ashore on Achill Island in County Mayo. Local officials were coordinating with the Canadian Coast Guard to secure and recover it; if it came directly from Canada, the Atlantic journey exceeded 3,000 miles.",
-    "why": "The ocean can turn infrastructure into a long-distance drifter. Authorities want the buoy secured because a multi-ton navigation marker could become a hazard again if tides return it to the water; its exact starting point and route remain unknown.",
-    "angle": "3,000 Miles to Ireland. The buoy crossed an ocean without a passport, itinerary or even the courtesy of a checked-baggage receipt. The route graphic is illustrative because nobody has reconstructed its exact voyage.",
-    "amazonLinks": [
-      {
-        "title": "How to Read a Nautical Chart, 2nd Edition",
-        "image": "https://covers.openlibrary.org/b/isbn/0071779825-L.jpg",
-        "alt": "Cover of How to Read a Nautical Chart Second Edition",
-        "quip": "For navigation students who prefer knowing where their markers are supposed to stay.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0071779825?tag=blappos-20"
-      },
-      {
-        "title": "Adrift: Seventy-six Days Lost at Sea",
-        "image": "https://covers.openlibrary.org/b/isbn/0618257322-L.jpg",
-        "alt": "Cover of Adrift by Steven Callahan",
-        "quip": "A classic ocean-drift survival account for perspective on the buoyâ€™s uncrewed crossing.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0618257322?tag=blappos-20"
-      },
-      {
-        "title": "Flotsametrics and the Floating World",
-        "image": "https://covers.openlibrary.org/b/isbn/0061558427-L.jpg",
-        "alt": "Cover of Flotsametrics and the Floating World by Curtis Ebbesmeyer and Eric Scigliano",
-        "quip": "The science of drifting objects and ocean currents, now with one extremely large Canadian case study.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0061558427?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/06/ireland-county-mayo-canadian-coast-guard-buoy/1221791304125/",
-    "sourceName": "Read UPIâ€™s October 6 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "A roughly 3.8-ton Canadian Coast Guard buoy washed ashore on Irelandâ€™s Achill Island after a possible Atlantic journey of more than 3,000 miles; its exact route is unknown.",
-    "socialPunchline": "It crossed an ocean without a passport, itinerary or checked-baggage receipt."
-  },
-  {
-    "id": "oct6-malt-ball-record",
-    "isoDate": "2026-10-06",
-    "month": "October",
-    "date": "Oct 6, 2026",
-    "place": "Boise, Idaho",
-    "image": "assets/cards/oct6-malt-ball-record.webp",
-    "title": "Man moves 51 malt balls by straw in one minute; record remains pending","magnetUrl":"https://blappos.printify.me/product/32823113","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 6 that Idaho record-breaker David Rush used suction through a straw to move 51 malt balls between bowls 30 centimeters apart in one minute. His first attempt was invalidated after he bumped a bowl, and the final count excluded a 52nd candy that arrived after time expired.",
-    "why": "The attempt more than cleared the listed benchmark of 32, but Guinness World Records has not yet confirmed it. That distinction matters: documentation can make an extraordinary claim verifiable, while a dramatic video and an unofficial count are only the application.",
-    "angle": "One Straw. One Minute. Record Pending. The candy moved quickly; the paperwork keeps its own pace. The card documents a submitted attempt, not an already certified world record.",
-    "amazonLinks": [
-      {
-        "title": "WHOPPERS Malted Milk Balls Candy Movie Theater Box, 5 oz",
-        "image": "https://storage.googleapis.com/images-lnb-prd-8936dd0.lnb.prd.v8.commerce.mi9cloud.com/product-images/zoom/00010700024404_Left.png",
-        "alt": "WHOPPERS malted milk balls theater box",
-        "quip": "The obvious training equipment, provided the snack survives long enough to reach the starting bowl.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/B0044FTC60?tag=blappos-20"
-      },
-      {
-        "title": "Breath: The New Science of a Lost Art",
-        "image": "https://covers.openlibrary.org/b/isbn/0735213615-L.jpg",
-        "alt": "Cover of Breath by James Nestor",
-        "quip": "A serious book about breathing for a stunt that turned controlled suction into competitive logistics.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0735213615?tag=blappos-20"
-      },
-      {
-        "title": "Guinness World Records 2027",
-        "image": "https://www.wordsworth.co.za/cdn/shop/files/Book2027FRONTCROPPED_518x700.png?v=1778590194",
-        "alt": "Cover of Guinness World Records 2027",
-        "quip": "The annual record compendium to consult while this particular application waits for a ruling.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/06/guinness-world-records-david-rush-malt-balls-straw/4211791303328/",
-    "sourceName": "Read UPIâ€™s October 6 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "Idaho record-breaker David Rush moved 51 malt balls between bowls with a straw in one minute, but Guinness World Records has not yet confirmed the result.",
-    "socialPunchline": "The candy moved quickly; the paperwork keeps its own pace."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct6Stories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct6Stories);
-
-
-// October 6 permanent-page and authority rebuild requested after Printify link verification.
-
-
-// October 6 product artwork refresh requested after rendered-card QA.
-
-
-// October 6 social release authorized after live page, storefront, and product-image verification.
-
-
-const oct7Stories = [
-  {
-    "id": "oct7-mirror-molecules",
-    "isoDate": "2026-10-07",
-    "month": "October",
-    "date": "Oct 7, 2026",
-    "place": "Stockholm, Sweden",
-    "image": "assets/cards/oct7-mirror-molecules.webp",
-    "title": "Chemistry Nobel honors the tools that make molecules pick a side","magnetUrl":"https://blappos.printify.me/product/32862239","magnetPrice":"$9.99",
-    "facts": "Reuters reported on October 7 that Henri Kagan and Kenso Soai received the 2026 Nobel Prize in Chemistry for discoveries in asymmetric synthesis. Many molecules occur in left- and right-handed forms, and the laureates developed ways to make reactions favor one mirror-image form over the other.",
-    "why": "Molecular handedness can change how a substance behaves in the body, so reliably making the intended form is central to pharmaceutical chemistry. The prize recognizes foundational reaction methodsâ€”not a single new drug or a claim that every mirror-image molecule is dangerous.",
-    "angle": "Molecules Pick a Side. Organic chemistry spent a century staring into the mirror; the reaction flask finally chose a hand. The artwork is an original visual metaphor, not a molecular diagram, laboratory photograph, Nobel mark or laureate likeness.",
-    "amazonLinks": [
-      {
-        "title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table",
-        "image": "https://covers.openlibrary.org/b/isbn/0316051632-L.jpg",
-        "alt": "Cover of The Disappearing Spoon by Sam Kean",
-        "quip": "A lively chemistry history for the prize announcement that turned molecular handedness into front-page material.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0316051632?tag=blappos-20"
-      },
-      {
-        "title": "Molecules: The Elements and the Architecture of Everything",
-        "image": "https://covers.openlibrary.org/b/isbn/0316480584-L.jpg",
-        "alt": "Cover of Molecules by Theodore Gray",
-        "quip": "A visual tour of molecular structure for seeing why two look-alike arrangements can behave so differently.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0316480584?tag=blappos-20"
-      },
-      {
-        "title": "Organic Chemistry as a Second Language: First Semester Topics",
-        "image": "https://covers.openlibrary.org/b/isbn/1119110661-L.jpg",
-        "alt": "Cover of Organic Chemistry as a Second Language by David Klein",
-        "quip": "A practical study companion for the reaction logic behind the day's mirror-image breakthrough.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1119110661?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.reuters.com/world/kagan-soai-win-2026-nobel-chemistry-prize-2026-10-07/",
-    "sourceName": "Read Reutersâ€™ October 7 report",
-    "sourcePublisher": "Reuters",
-    "socialSummary": "Henri Kagan and Kenso Soai received the 2026 chemistry Nobel for methods that make reactions favor one molecular mirror image over the other.",
-    "socialPunchline": "Organic chemistry spent a century staring into the mirror; the reaction flask finally chose a hand."
-  },
-  {
-    "id": "oct7-giant-pumpkin",
-    "isoDate": "2026-10-07",
-    "month": "October",
-    "date": "Oct 7, 2026",
-    "place": "Berkshire, England",
-    "image": "assets/cards/oct7-giant-pumpkin.webp",
-    "title": "British grower raises a 2,856.8-pound world-record pumpkin","magnetUrl":"https://blappos.printify.me/product/32862246","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 7 that Ian Patonâ€™s pumpkin, Bagheera, weighed 2,856.8 pounds at the October 3 Wargrave Nursery Giant Pumpkin Weigh-off in Berkshire. A Guinness World Records adjudicator supervised the weighing, which surpassed the 2,819.25-pound record Paton and his brother set in 2025.",
-    "why": "The new mark is a certified measurement, not an estimate based on a photograph. Paton said he spent up to six hours a day tending the pumpkin and supplied about 130 gallons of water daily; after its public display, it is expected to become cattle feed.",
-    "angle": "2,856.8 Pounds of Pumpkin. Autumn entered the weigh-off and immediately requested commercial zoning. The illustration is an invented farm-show scene, not a photograph of Bagheera, the grower or the official adjudication.",
-    "amazonLinks": [
-      {
-        "title": "Backyard Giants: The Passionate, Heartbreaking, and Glorious Quest to Grow the Biggest Pumpkin Ever",
-        "image": "https://covers.openlibrary.org/b/isbn/1596912782-L.jpg",
-        "alt": "Cover of Backyard Giants by Susan Warren",
-        "quip": "The reporting classic about competitive giant-pumpkin growers and the enormous stakes hiding under the vines.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1596912782?tag=blappos-20"
-      },
-      {
-        "title": "The Compleat Squash: A Passionate Growerâ€™s Guide to Pumpkins, Squashes, and Gourds",
-        "image": "https://covers.openlibrary.org/b/isbn/1579652514-L.jpg",
-        "alt": "Cover of The Compleat Squash by Amy Goldman",
-        "quip": "A richly illustrated squash reference for the horticulture behind a nearly three-thousand-pound specimen.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1579652514?tag=blappos-20"
-      },
-      {
-        "title": "The Pumpkin Book",
-        "image": "https://covers.openlibrary.org/b/isbn/0823414655-L.jpg",
-        "alt": "Cover of The Pumpkin Book by Gail Gibbons",
-        "quip": "A clear family introduction to the pumpkin life cycle before the seedlings start asking for their own water meter.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0823414655?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/07/Guinness-World-Records-heaviest-pumpkin/5121791389821/",
-    "sourceName": "Read UPIâ€™s October 7 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "A Guinness adjudicator verified a 2,856.8-pound pumpkin at an October 3 English weigh-off, breaking the growerâ€™s own 2025 record.",
-    "socialPunchline": "Autumn entered the weigh-off and immediately requested commercial zoning."
-  },
-  {
-    "id": "oct7-ride-dive",
-    "isoDate": "2026-10-07",
-    "month": "October",
-    "date": "Oct 7, 2026",
-    "place": "Orlando, Florida",
-    "image": "assets/cards/oct7-ride-dive.webp",
-    "title": "Guests leave an Epcot boat ride for a shallow-water dive and earn a ban","magnetUrl":"https://blappos.printify.me/product/32862250","magnetPrice":"$9.99",
-    "facts": "Entertainment Weekly reported on October 7 that video showed a guest leave a boat on Epcotâ€™s Gran Fiesta Tour, walk across the themed set and dive into the shallow ride water. Disney said the behavior was unsafe and violated park rules; the guest and his party were trespassed from the property. The Orange County Sheriffâ€™s Office said there were no arrests.",
-    "why": "Ride instructions to remain seated protect guests, staff and the machinery around them. The available video and Disney statement establish the public behavior and park response, but they do not establish a motive or justify identifying private individuals beyond what the report confirms.",
-    "angle": "Please Remain in the Boat. The attraction offered a gentle indoor cruise; someone submitted an unauthorized swimming expansion pack. The art uses a wholly invented canal set, anonymous silhouettes and no Disney names, characters, logos or copied scenery.",
-    "amazonLinks": [
-      {
-        "title": "The Imagineering Field Guide to Epcot at Walt Disney World",
-        "image": "https://covers.openlibrary.org/b/isbn/1423124677-L.jpg",
-        "alt": "Cover of The Imagineering Field Guide to Epcot by Alex Wright",
-        "quip": "A pocket guide to the deliberate design of the park the guests briefly mistook for open-water recreation.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1423124677?tag=blappos-20"
-      },
-      {
-        "title": "Theme Park Design & The Art of Themed Entertainment",
-        "image": "https://covers.openlibrary.org/b/isbn/099357890X-L.jpg",
-        "alt": "Cover of Theme Park Design and The Art of Themed Entertainment by David Younger",
-        "quip": "A comprehensive design reference for understanding why a ride channel is part of a controlled system, not a shortcut.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/099357890X?tag=blappos-20"
-      },
-      {
-        "title": "Walt Disney Imagineering: A Behind the Dreams Look at Making the Magic Real",
-        "image": "https://covers.openlibrary.org/b/isbn/0786883723-L.jpg",
-        "alt": "Cover of Walt Disney Imagineering by The Imagineers",
-        "quip": "A behind-the-scenes look at the engineering and storytelling hidden behind one very visible safety rule.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0786883723?tag=blappos-20"
-      }
-    ],
-    "source": "https://ew.com/disney-world-guests-banned-jumping-into-water-epcot-boat-ride-12163138",
-    "sourceName": "Read Entertainment Weeklyâ€™s October 7 report",
-    "sourcePublisher": "Entertainment Weekly",
-    "socialSummary": "Video showed a guest leave an Epcot boat ride and dive into shallow ride water; Disney said the guest and his party were banned, while deputies reported no arrests.",
-    "socialPunchline": "The gentle indoor cruise received an unauthorized swimming expansion pack."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct7Stories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct7Stories);
-
-const oct8Stories = [
-  {
-    "id": "oct8-water-mammal",
-    "isoDate": "2026-10-08",
-    "month": "October",
-    "date": "Oct 8, 2026",
-    "place": "Inner Mongolia, China",
-    "image": "assets/cards/oct8-water-mammal.webp",
-    "title": "Fossil reveals a platypus-otter-beaver mashup swimming with dinosaurs","magnetUrl":"https://blappos.printify.me/product/32903240","magnetPrice":"$9.99",
-    "facts": "Reuters reported on October 8 that researchers described Megacauda sungei, a semiaquatic mammal relative that lived about 165 million years ago in what is now Inner Mongolia. The roughly 20-inch animal weighed about 2.2 to 4.4 pounds, had a broad scaly tail, paddling limbs and teeth suited to catching slippery prey; the fossil preserves skin and fur impressions.",
-    "why": "The researchers call it the oldest-known example of a semiaquatic lifestyle in mammalian evolutionary history. Its preserved throat anatomy also indicates that mammal-style chewing, swallowing and suckling structures evolved long before modern mammals diversified, strengthening evidence that dinosaur-era mammal relatives occupied far more varied ecological niches than the old shrew-only stereotype suggests.",
-    "angle": "The Original Water Mammal. Evolution appears to have beta-tested the platypus, otter and beaver in one compact Jurassic package. The card is an original imagined scene based on reported anatomyâ€”not the published scientific reconstruction, a photograph or proof of fur color and behavior beyond the researchersâ€™ interpretation.",
-    "amazonLinks": [
-      {
-        "title": "The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us",
-        "image": "https://covers.openlibrary.org/b/isbn/0062951513-L.jpg",
-        "alt": "Cover of The Rise and Reign of the Mammals by Steve Brusatte",
-        "quip": "A sweeping history of the mammalian lineage, including the small specialists that lived under dinosaur rule.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0062951513?tag=blappos-20"
-      },
-      {
-        "title": "Beasts Before Us: The Untold Story of Mammal Origins and Evolution",
-        "image": "https://covers.openlibrary.org/b/isbn/147298398X-L.jpg",
-        "alt": "Cover of Beasts Before Us by Elsa Panciroli",
-        "quip": "The ideal antidote to the idea that every Jurassic mammal relative was merely a nervous shrew.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/147298398X?tag=blappos-20"
-      },
-      {
-        "title": "Otherlands: A Journey Through Earthâ€™s Extinct Worlds",
-        "image": "https://covers.openlibrary.org/b/isbn/0593132904-L.jpg",
-        "alt": "Cover of Otherlands by Thomas Halliday",
-        "quip": "A vivid tour of vanished ecosystems for placing one aquatic mammal relative inside its lost Jurassic world.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0593132904?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.reuters.com/science/otter-like-critter-swam-lakes-rivers-age-dinosaurs-2026-10-08/",
-    "sourceName": "Read Reutersâ€™ October 8 report",
-    "sourcePublisher": "Reuters",
-    "socialSummary": "Researchers described a 165-million-year-old semiaquatic mammal relative with paddling limbs, a broad tail and preserved throat anatomy associated with mammal-style swallowing.",
-    "socialPunchline": "Jurassic evolution bundled three mammals into one."
-  },
-  {
-    "id": "oct8-five-hour-plank",
-    "isoDate": "2026-10-08",
-    "month": "October",
-    "date": "Oct 8, 2026",
-    "place": "St. George, Utah",
-    "image": "assets/cards/oct8-five-hour-plank.webp",
-    "title": "Canadian grandmother holds a five-hour plank; Guinness review is pending","magnetUrl":"https://blappos.printify.me/product/32903245","magnetPrice":"$9.99",
-    "facts": "Good Morning America reported on October 8 that DonnaJean Wilde, 61, completed a five-hour abdominal plank during the Huntsman World Senior Games in Utah. Guinness World Records told ABC News it had received an application and would review the evidence before declaring a new record; Wildeâ€™s certified 2024 mark is 4 hours, 30 minutes and 11 seconds.",
-    "why": "The feat is remarkable even before certification, but an attempted record and an adjudicated record are not interchangeable. Preserving that distinction gives credit for the documented five-hour performance without turning a submitted application into an official title early.",
-    "angle": "Five Hours. One Plank. Five hours made the gym clock file for overtime. The illustration uses an anonymous older athlete and an invented arena, not Wildeâ€™s face, event branding or a claim that viewers should attempt the feat without appropriate preparation.",
-    "amazonLinks": [
-      {
-        "title": "Built to Move: The Ten Essential Habits to Help You Move Freely and Live Fully",
-        "image": "https://covers.openlibrary.org/b/isbn/0593534808-L.jpg",
-        "alt": "Cover of Built to Move by Kelly and Juliet Starrett",
-        "quip": "A practical mobility guide for people whose current plank record is measured with a kitchen timer.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0593534808?tag=blappos-20"
-      },
-      {
-        "title": "Strength Training Past 50",
-        "image": "https://books.google.com/books/content?id=LUkbCAAAQBAJ&printsec=frontcover&img=1&zoom=2&source=gbs_api",
-        "alt": "Cover of Strength Training Past 50 by Wayne Westcott and Thomas Baechle",
-        "quip": "Age-specific programs and exercise guidance for building strength without using a five-hour spectacle as the starting line.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1450497918?tag=blappos-20"
-      },
-      {
-        "title": "Younger Next Year: Live Strong, Fit, Sexy, and Smartâ€”Until Youâ€™re 80 and Beyond",
-        "image": "https://covers.openlibrary.org/b/isbn/1523507926-L.jpg",
-        "alt": "Cover of Younger Next Year by Chris Crowley and Henry Lodge",
-        "quip": "A broad healthy-aging program for the senior-athlete story that made five minutes sound suspiciously brief.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1523507926?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.goodmorningamerica.com/family/story/grandmother-12-holds-plank-5-hours-new-world-137091775",
-    "sourceName": "Read Good Morning Americaâ€™s October 8 report",
-    "sourcePublisher": "Good Morning America",
-    "socialSummary": "A 61-year-old Canadian grandmother completed a five-hour plank in Utah; Guinness says the application is under review, while her official 2024 record remains 4:30:11.",
-    "socialPunchline": "Most exercise timers offer a cooldown before the third presidential term."
-  },
-  {
-    "id": "oct8-sewer-ring",
-    "isoDate": "2026-10-08",
-    "month": "October",
-    "date": "Oct 8, 2026",
-    "place": "Sheffield, Alabama",
-    "image": "assets/cards/oct8-sewer-ring.webp",
-    "title": "A 1965 Class Ring Found in a Sewer After Decades Still Fits","magnetUrl":"https://blappos.printify.me/product/32903249","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 8 that Alabama wastewater workers found a 1965 Burrell-Slater High School class ring while clearing a clogged sewer main. Plant operator Junior Riner used the initials inside the ring and help from family and local contacts to identify owner Oscar James Meredith, who had given it to his future wife before it disappeared decades ago; after the ring was returned, it still fit.",
-    "why": "The recovery joins overlooked infrastructure work with local history. Burrell-Slater served Black students before closing during integration, while the ring reconnected Meredith with memories of his late wife and a school community whose records made the identification possible.",
-    "angle": "Found in the Sewer. Still Fits. Municipal infrastructure finally launched a sixty-year customer-service ticket with a happy ending. The illustration uses invented workers, an anonymous reunion scene and a generic 1965 crestâ€”not the real people, school emblem or recovered ring.",
-    "amazonLinks": [
-      {
-        "title": "The Keeper of Lost Things",
-        "image": "https://covers.openlibrary.org/b/isbn/0062473557-L.jpg",
-        "alt": "Cover of The Keeper of Lost Things by Ruth Hogan",
-        "quip": "A novel built around lost objects finding their way homeâ€”mercifully with fewer clogged sewer mains.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0062473557?tag=blappos-20"
-      },
-      {
-        "title": "The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design",
-        "image": "https://covers.openlibrary.org/b/isbn/0358126606-L.jpg",
-        "alt": "Cover of The 99 Percent Invisible City by Roman Mars and Kurt Kohlstedt",
-        "quip": "A field guide to the unseen systems and design choices behind the workers who recovered the ring.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0358126606?tag=blappos-20"
-      },
-      {
-        "title": "The Works: Anatomy of a City",
-        "image": "https://covers.openlibrary.org/b/isbn/0143112708-L.jpg",
-        "alt": "Cover of The Works by Kate Ascher",
-        "quip": "A richly illustrated tour beneath city streets for understanding the unlikely route from sink drain to reunion.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0143112708?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/08/class-ring-sewer-Sheffield-Alabama/7991791477667/",
-    "sourceName": "Read UPIâ€™s October 8 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "Alabama wastewater workers found a 1965 class ring in a clogged sewer and helped return it to the man who had given it to his future wife decades earlier.",
-    "socialPunchline": "A sewer closed a sixty-year customer-service ticket."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct8Stories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct8Stories);
-// October 7 permanent-page rebuild requested after verified Printify publication.
-// October 7 social release authorized after live page and storefront verification.
-
-// October 8 permanent-page rebuild requested after verified Printify publication.
-
-// October 8 social release authorized after live page, storefront, and affiliate-image verification.
-
-const oct9Stories = [
-  {
-    "id": "oct9-renoir-recovery",
-    "isoDate": "2026-10-09",
-    "month": "October",
-    "date": "Oct 9, 2026",
-    "place": "Cagnes-sur-Mer, France",
-    "image": "assets/cards/oct9-renoir-recovery.webp",
-    "title": "Two stolen Renoirs return; six arrests and no disclosed recovery story","magnetUrl":"https://blappos.printify.me/product/32939418","magnetPrice":"$9.99",
-    "facts": "Reuters reported on October 9 that French authorities recovered two Pierre-Auguste Renoir paintings stolen September 8 from the Renoir Museum in Cagnes-sur-Mer and arrested six people. The worksâ€”Madame Colonna Romano and Young Woman at the Wellâ€”belong to the MusÃ©e dâ€™Orsay and had been on long-term loan. The thieves entered through a window after scaling a fence; two other paintings were dropped in the garden as police arrived.",
-    "why": "The recovery returns culturally important works worth millions of euros and shows why provenance records, inter-museum loans and coordinated police work matter long after a theft leaves the headlines. Authorities canceled a planned news conference and did not disclose how the paintings were found, explicitly preserving an active investigation rather than filling that gap with a cleaner story.",
-    "angle": "The Renoirs Are Back. Impressionism spent a month in witness protection. The frames, evidence markers and coastal night scene are original illustrationâ€”not the recovered canvases, a reconstruction of the undisclosed operation or proof about any suspect.",
-    "amazonLinks": [
-      {
-        "title": "The Gardner Heist: The True Story of the Worldâ€™s Largest Unsolved Art Theft",
-        "image": "https://m.media-amazon.com/images/P/0061451843.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Gardner Heist by Ulrich Boser",
-        "quip": "A reported investigation into the art-world case that still defines what recovery has not yet achieved.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0061451843?tag=blappos-20"
-      },
-      {
-        "title": "The Rescue Artist: A True Story of Art, Thieves, and the Hunt for a Missing Masterpiece",
-        "image": "https://m.media-amazon.com/images/P/0060531177.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Rescue Artist by Edward Dolnick",
-        "quip": "A real stolen-masterpiece recovery for understanding the investigators behind the happy headline.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0060531177?tag=blappos-20"
-      },
-      {
-        "title": "The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession",
-        "image": "https://m.media-amazon.com/images/P/1984898450.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Art Thief by Michael Finkel",
-        "quip": "A portrait of prolific museum theft and the strange motives that do not fit a simple resale plot.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1984898450?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.reuters.com/lifestyle/renoir-paintings-stolen-riviera-museum-recovered-six-people-arrested-2026-10-09/",
-    "sourceName": "Read Reutersâ€™ October 9 report",
-    "sourcePublisher": "Reuters",
-    "socialSummary": "French authorities recovered two Renoir paintings stolen from the artistâ€™s former home in Cagnes-sur-Mer and arrested six people; they have not disclosed how the works were found.",
-    "socialPunchline": "Impressionism spent a month in witness protection."
-  },
-  {
-    "id": "oct9-opossum-hook",
-    "isoDate": "2026-10-09",
-    "month": "October",
-    "date": "Oct 9, 2026",
-    "place": "Lincolnton, North Carolina",
-    "image": "assets/cards/oct9-opossum-hook.webp",
-    "title": "Rescuers use a bucket truck to free an opossum hooked in a tree","magnetUrl":"https://blappos.printify.me/product/32939420","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 9 that the Carolina Wildlife Conservation Center responded after a trail visitor spotted an opossum caught on fishing line more than ten feet above water near Lincolnton. A rehabilitator reached the animal with a bucket truck, and examination found a hook lodged beneath its tongue. The dehydrated, underweight opossum was taken into care after apparently hanging there for more than a day.",
-    "why": "Discarded hooks and line keep fishing after people leave, turning branches, shorelines and waterways into traps for animals that were never the target. The rescue required specialized access, licensed wildlife care and follow-up treatmentâ€”useful context behind the simple instruction to pack out every piece of tackle and call a rehabilitator rather than improvising a dangerous rescue.",
-    "angle": "Hooked on a Bad Branch. The trailâ€™s fishing equipment selected the only resident who was not fishing. The card keeps the injury non-graphic and uses an invented rescue scene; it is not a photograph or a do-it-yourself handling guide.",
-    "amazonLinks": [
-      {
-        "title": "Playing Possum: How Animals Understand Death",
-        "image": "https://m.media-amazon.com/images/P/0691260761.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Playing Possum by Susana MonsÃ³",
-        "quip": "A philosopherâ€™s tour of how animals respond to death, anchored by the marsupial that lent the book its title.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0691260761?tag=blappos-20"
-      },
-      {
-        "title": "National Audubon Society Field Guide to North American Mammals",
-        "image": "https://m.media-amazon.com/images/P/0679446311.01.LZZZZZZZ.jpg",
-        "alt": "Cover of National Audubon Society Field Guide to North American Mammals",
-        "quip": "A comprehensive identification guide for recognizing the trail neighbor before deciding what kind of help it needs.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0679446311?tag=blappos-20"
-      },
-      {
-        "title": "Wildlife Rehabilitation: A Comprehensive Approach",
-        "image": "https://m.media-amazon.com/images/P/1421411865.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Wildlife Rehabilitation: A Comprehensive Approach",
-        "quip": "Clinical context for why injured wildlife belongs with trained rehabilitators, not a well-meaning kitchen table.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1421411865?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/09/opossum-fishing-hook-tree/2001791562268/",
-    "sourceName": "Read UPIâ€™s October 9 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "North Carolina wildlife rescuers used a bucket truck to reach an opossum tangled high above water, then treated a fishing-hook injury and dehydration.",
-    "socialPunchline": "The trailâ€™s tackle hooked the only resident who was not fishing."
-  },
-  {
-    "id": "oct9-paw-and-order",
-    "isoDate": "2026-10-09",
-    "month": "October",
-    "date": "Oct 9, 2026",
-    "place": "Tampa, Florida",
-    "image": "assets/cards/oct9-paw-and-order.webp",
-    "title": "Lost German shepherd reports himself to police and gets home by microchip","magnetUrl":"https://blappos.printify.me/product/32939423","magnetPrice":"$9.99",
-    "facts": "The New York Post reported on October 9 that a lost German shepherd walked into a Tampa police station, where officers treated him as an unexpected K-9 applicant. An officer took the dog to a veterinarian, a microchip scan identified his owner, and the pair were reunited. The department shared video of the reunion on September 30 without publishing the dog or ownerâ€™s name.",
-    "why": "The story is a clean demonstration of identification infrastructure working: a chip does not track a pet, but its registered number can reconnect a found animal with current owner information. That last detail is the real maintenance jobâ€”implantation helps only when the registry record and contact details remain accurate.",
-    "angle": "Paw & Order. The missing dog skipped the poster phase and filed his own report. The dog, officer and station in the artwork are invented and anonymous; the card does not copy police video, uniforms or insignia.",
-    "amazonLinks": [
-      {
-        "title": "Decoding Your Dog: Explaining Common Dog Behaviors",
-        "image": "https://m.media-amazon.com/images/P/0544334604.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Decoding Your Dog by the American College of Veterinary Behaviorists",
-        "quip": "Veterinary behavior context for the dog who independently selected a civic solution.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0544334604?tag=blappos-20"
-      },
-      {
-        "title": "Canine Enrichment for the Real World",
-        "image": "https://m.media-amazon.com/images/P/1617812684.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Canine Enrichment for the Real World",
-        "quip": "A practical, science-minded guide to meeting canine needs and supporting safer choices at home and away.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1617812684?tag=blappos-20"
-      },
-      {
-        "title": "Perfect Puppy in 7 Days: How to Start Your Puppy Off Right",
-        "image": "https://m.media-amazon.com/images/P/0964151871.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Perfect Puppy in 7 Days by Sophia Yin",
-        "quip": "A veterinarianâ€™s early-training guide for households hoping the next station visit is scheduled.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0964151871?tag=blappos-20"
-      }
-    ],
-    "source": "https://nypost.com/2026/10/09/us-news/florida-lost-dog-reports-himself-missing-at-tampa-police-station-reunites-with-tearful-owner/",
-    "sourceName": "Read the New York Postâ€™s October 9 report",
-    "sourcePublisher": "New York Post",
-    "socialSummary": "A lost German shepherd walked into a Tampa police station; a veterinarian scanned his microchip, identified his owner and helped reunite them.",
-    "socialPunchline": "The missing dog skipped the poster phase and filed his own report."
-  },
-  {
-    "id": "oct9-bike-target",
-    "isoDate": "2026-10-09",
-    "month": "October",
-    "date": "Oct 9, 2026",
-    "place": "SÃ¶lden, Austria",
-    "image": "assets/cards/oct9-bike-target.webp",
-    "title": "Mountain biker drops 12.46 feet onto one very small cardboard target","magnetUrl":"https://blappos.printify.me/product/32939429","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 9 that Austrian mountain biker Mario Neurauter earned the Guinness World Records title for the highest vertical drop on a bicycle onto a target by a male rider. At the Bike Republic SÃ¶lden Festival in September 2025, he rode from a 12.46-foot platform and landed his rear tire on a small red cardboard box, crushing it.",
-    "why": "The stunt combines the impact management of a major bike drop with the precision of a target scarcely wider than the tire. Guinness certified this specific target-drop title; evidence for two other attempts from the same weekendâ€”the overall vertical drop and a 360-degree target dropâ€”was still under review when the October 9 report appeared.",
-    "angle": "Drop. Aim. Land. A mountain bike converted gravity into a precision instrument and one cardboard box into official paperwork. The illustration is an invented alpine event scene, not the record footage, and it is not an instruction to attempt a high-consequence stunt.",
-    "amazonLinks": [
-      {
-        "title": "Mastering Mountain Bike Skills, 3rd Edition",
-        "image": "https://m.media-amazon.com/images/P/1492544493.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Mastering Mountain Bike Skills, third edition",
-        "quip": "Technique before airtimeâ€”the sensible reference for riders who prefer a progression to a 12-foot surprise.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1492544493?tag=blappos-20"
-      },
-      {
-        "title": "Big Blue Book of Bicycle Repair â€” 4th Edition",
-        "image": "https://m.media-amazon.com/images/I/71tkW9U1qIL._SL1400_.jpg",
-        "alt": "Cover of Park Tool Big Blue Book of Bicycle Repair, fourth edition",
-        "quip": "For checking every component after gravity and a cardboard box finish their peer review.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0976553066?tag=blappos-20"
-      },
-      {
-        "title": "Guinness World Records 2027",
-        "image": "https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Guinness World Records 2027",
-        "quip": "The annual reference for determining which tiny target has accumulated enough paperwork to count.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/09/austria-Guinness-World-Records-mountain-bicycle-vertical-drop/5421791564144/",
-    "sourceName": "Read UPIâ€™s October 9 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "Austrian rider Mario Neurauter earned a Guinness title by dropping 12.46 feet and landing his rear tire on a small cardboard target at a 2025 festival.",
-    "socialPunchline": "Gravity became a precision instrument; the cardboard box became paperwork."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct9Stories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct9Stories);
-
-// October 9 permanent-page rebuild requested after verified Printify publication.
-
-// October 9 affiliate covers reverified before social release.
-
-// October 9 social release authorized after live page, storefront, and affiliate-image verification.
-
-const oct10Stories = [
-  {
-    "id": "oct10-not-plague",
-    "isoDate": "2026-10-10",
-    "month": "October",
-    "date": "Oct 10, 2026",
-    "place": "Irkutsk, Russia",
-    "image": "assets/cards/oct10-not-plague.webp",
-    "title": "WHO says a Russian anti-plague lab death was not plague; the cause remains unknown","magnetUrl":"https://blappos.printify.me/product/32978590","magnetPrice":"$9.99",
-    "facts": "Reuters reported on October 10 that the World Health Organization still did not know what caused the pneumonia that killed a worker at an anti-plague research center in Siberia on October 2. Russia's regulator said tests of the worker and her contacts were negative for the high-threat pathogens tested, about 200 people had been quarantined, contacts remained symptom-free, and no linked severe-pneumonia cases or evidence of ongoing transmission had been identified.",
-    "why": "The two-part finding matters: the available evidence did not support plague or ongoing spread, but it also did not establish a diagnosis. Keeping a verified negative separate from an unresolved cause is how public-health communication can reduce unfounded alarm without turning uncertainty into a false all-clear.",
-    "angle": "Not Plague. Still Unknown. The lab report managed to contain both relief and a giant blank. The laboratory, checklist and question mark are original visual metaphorâ€”not the real institute, a patient image or evidence of any pathogen.",
-    "amazonLinks": [
-      {
-        "title": "Spillover: Animal Infections and the Next Human Pandemic",
-        "image": "https://m.media-amazon.com/images/P/0393346617.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Spillover by David Quammen",
-        "quip": "Long-form reporting on how investigators trace infections across species without promoting every unknown into an outbreak.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0393346617?tag=blappos-20"
-      },
-      {
-        "title": "The Premonition: A Pandemic Story",
-        "image": "https://m.media-amazon.com/images/P/0393881555.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Premonition by Michael Lewis",
-        "quip": "A reported account of public-health detection, institutional friction and the people responsible for acting before certainty arrives.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0393881555?tag=blappos-20"
-      },
-      {
-        "title": "The Great Influenza",
-        "image": "https://m.media-amazon.com/images/P/0143036491.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Great Influenza by John M. Barry",
-        "quip": "A history of epidemic science and uncertainty for readers who want more than one alarming laboratory headline.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0143036491?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-russia-confirms-death-research-lab-no-plague-case-registered-2026-10-10/",
-    "sourceName": "Read Reuters' October 10 report",
-    "sourcePublisher": "Reuters",
-    "socialSummary": "WHO said no plague case or ongoing transmission had been identified after a Russian anti-plague laboratory worker died with pneumonia, but the worker's diagnosis remained unknown.",
-    "socialPunchline": "The lab report managed to contain both relief and a giant blank."
-  },
-  {
-    "id": "oct10-royal-support-staff",
-    "isoDate": "2026-10-10",
-    "month": "October",
-    "date": "Oct 10, 2026",
-    "place": "Evergreen, Colorado",
-    "image": "assets/cards/oct10-royal-support-staff.webp",
-    "title": "Two school support dogs become homecoming prince and princess","magnetUrl":"https://blappos.printify.me/product/32978591","magnetPrice":"$9.99",
-    "facts": "The Associated Press reported on October 10 that Norene and Polenta, two golden Labrador-retriever crosses, now work at Evergreen High School as the first Canine Companions facility dogs permanently matched with a school after a campus shooting. The dogs joined in March and August, receive years of specialized training, and were recently crowned homecoming prince and princess in capes and crowns.",
-    "why": "The crowns are charming, but the durable story is ongoing care after trauma. The dogs and their trained handlers provide a stable, voluntary source of comfort in hallways, classrooms and stressful moments; Canine Companions provides the dogs free, and facility assignments can last eight to ten years.",
-    "angle": "Royal Support Staff. The school promoted its calmest employees and finally found administrators whose office hours include ear scratches. The illustration celebrates the dogs' homecoming honors without depicting the 2025 shooting, real students, handlers, school marks or Canine Companions branding.",
-    "amazonLinks": [
-      {
-        "title": "The Body Keeps the Score",
-        "image": "https://m.media-amazon.com/images/P/0143127748.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Body Keeps the Score by Bessel van der Kolk",
-        "quip": "A landmark overview of how trauma affects mind and bodyâ€”and why steady, safe support matters long after an event.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0143127748?tag=blappos-20"
-      },
-      {
-        "title": "The Other End of the Leash",
-        "image": "https://m.media-amazon.com/images/P/034544678X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Other End of the Leash by Patricia McConnell",
-        "quip": "An applied animal behaviorist explains the human-dog relationship behind the hallway comfortâ€”not just the crowns.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/034544678X?tag=blappos-20"
-      },
-      {
-        "title": "Dog Is Love: Why and How Your Dog Loves You",
-        "image": "https://m.media-amazon.com/images/P/132854396X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Dog Is Love by Clive D. L. Wynne",
-        "quip": "A canine scientist's account of the attachment that turns a trained facility dog into reliable emotional infrastructure.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/132854396X?tag=blappos-20"
-      }
-    ],
-    "source": "https://apnews.com/article/trauma-dogs-shooting-school-students-trauma-colorado-a9a9d9805b8c9b893cdd129fdb232c1d",
-    "sourceName": "Read the Associated Press' October 10 report",
-    "sourcePublisher": "Associated Press",
-    "socialSummary": "Two specially trained facility dogs became a permanent source of support at Colorado's Evergreen High School after a 2025 shooting and were crowned homecoming prince and princess.",
-    "socialPunchline": "The school promoted its calmest employees."
-  },
-  {
-    "id": "oct10-forty-layers",
-    "isoDate": "2026-10-10",
-    "month": "October",
-    "date": "Oct 10, 2026",
-    "place": "Alberta, Canada",
-    "image": "assets/cards/oct10-forty-layers.webp",
-    "title": "An Alberta man earns a record after roughly forty layers of tattoos","magnetUrl":"https://blappos.printify.me/product/32978598","magnetPrice":"$9.99",
-    "facts": "People reported on October 10 that Jeremy 'Remy' Schofield, 38, holds the Guinness World Records title for most tattooed living male with multiple layers. Across about twenty years, he has tattooed more than 90 percent of his body and covered or re-covered areas with roughly forty total layers; he also has more than 120 piercings and appears in Guinness World Records 2027.",
-    "why": "The narrow category is the useful detail. Schofield does not hold the separate title for most tattooed living man because his face and palms remain uncovered; Guinness created a multiple-layers category that measures repeated work rather than simply visible coverage, turning a private archive of revisions into a distinct record.",
-    "angle": "Forty Layers Deep. At some point a tattoo stops being decoration and becomes geological time. The card uses an anonymous invented back and original ornamental strataâ€”not Schofield's face, body, tattoos, photographs or any artist's identifiable work.",
-    "amazonLinks": [
-      {
-        "title": "Guinness World Records 2027",
-        "image": "https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Guinness World Records 2027",
-        "quip": "The edition that includes the multiple-layers record and the category wording behind the forty-layer headline.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20"
-      },
-      {
-        "title": "The World Atlas of Tattoo",
-        "image": "https://m.media-amazon.com/images/P/0300210485.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The World Atlas of Tattoo by Anna Felicity Friedman",
-        "quip": "A visual global history for placing one contemporary record inside tattoo traditions far older than Guinness paperwork.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0300210485?tag=blappos-20"
-      },
-      {
-        "title": "Bodies of Subversion",
-        "image": "https://m.media-amazon.com/images/P/1576876136.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Bodies of Subversion by Margot Mifflin",
-        "quip": "A richly illustrated social history of tattooed bodies, artists and the meanings that outlast any single layer.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1576876136?tag=blappos-20"
-      }
-    ],
-    "source": "https://people.com/dad-with-tattoos-on-90-percent-body-now-world-record-holder-exclusive-12150495",
-    "sourceName": "Read People's October 10 report",
-    "sourcePublisher": "People",
-    "socialSummary": "Alberta's Jeremy Schofield earned Guinness' multiple-layers tattoo title after covering more than 90 percent of his body and reworking areas through roughly forty layers over twenty years.",
-    "socialPunchline": "At some point a tattoo becomes geological time."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct10Stories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct10Stories);
-
-// October 10 permanent-page rebuild requested after verified Printify publication.
-
-const oct11Stories = [
-  {
-    "id": "oct11-double-blow-sky-show",
-    "isoDate": "2026-10-11",
-    "month": "October",
-    "date": "Oct 11, 2026",
-    "place": "United Kingdom",
-    "image": "assets/cards/oct11-double-blow-sky-show.webp",
-    "title": "Two solar eruptions merged on the way to Earth and helped paint auroras across Britain","magnetUrl":"https://blappos.printify.me/product/33018234","magnetPrice":"$9.99",
-    "facts": "The Scottish Sun reported on October 11 that auroras had been photographed across Britain overnight, as far south as Kent and Surrey. NOAA's Space Weather Prediction Center had forecast a G2 geomagnetic storm for October 11 after a faster coronal mass ejection launched October 8 was expected to catch and merge with a slower one launched October 7; NOAA's live aurora dashboard later recorded a 24-hour peak of Kp 6, which corresponds to G2 conditions.",
-    "why": "The spectacle is the visible end of a Sun-to-Earth chain with practical consequences. NOAA classifies G2 as moderate: the same disturbance that sends charged particles into the upper atmosphere can require voltage corrections, affect high-latitude radio propagation and alter spacecraft operations. A wide aurora is therefore both a sky show and evidence of monitored space weather.",
-    "angle": "Double-Blow Sky Show. Two clouds of solar material carpooled to Earth and Britain received the universe's most expensive ceiling projection. The card's merging ribbons, map and town are original visual metaphorâ€”not an aurora photograph, an impact map or a claim that every location saw the colors shown.",
-    "amazonLinks": [
-      {
-        "title": "Aurora: In Search of the Northern Lights",
-        "image": "https://m.media-amazon.com/images/P/0008156093.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Aurora: In Search of the Northern Lights by Melanie Windridge",
-        "quip": "A scientist's journey through the physics, landscapes and cultures behind the celestial curtains.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0008156093?tag=blappos-20"
-      },
-      {
-        "title": "The Northern Lights: The Definitive Guide to Auroras",
-        "image": "https://m.media-amazon.com/images/P/000846555X.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Northern Lights: The Definitive Guide to Auroras by Tom Kerss",
-        "quip": "Forecasting, photography and aurora science for anyone who wants more than a phone alert and a dark field.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/000846555X?tag=blappos-20"
-      },
-      {
-        "title": "The Sun: A Very Short Introduction",
-        "image": "https://m.media-amazon.com/images/P/0198832699.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Sun: A Very Short Introduction by Philip Judge",
-        "quip": "A compact guide to the local star that launched both halves of the double-blow forecast.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0198832699?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.thescottishsun.co.uk/news/16926632/scots-northern-lights-dazzling-display/",
-    "sourceName": "Read The Scottish Sun's October 11 report",
-    "sourcePublisher": "The Scottish Sun",
-    "socialSummary": "Auroras were photographed across Britain after NOAA forecast that a faster solar eruption would catch a slower one en route to Earth; observed geomagnetic activity reached the G2 range.",
-    "socialPunchline": "Two clouds of solar material carpooled to Earth and Britain got the ceiling projection."
-  },
-  {
-    "id": "oct11-wetland-tooth",
-    "isoDate": "2026-10-11",
-    "month": "October",
-    "date": "Oct 11, 2026",
-    "place": "Atacama Desert, Chile",
-    "image": "assets/cards/oct11-wetland-tooth.webp",
-    "title": "A nine-million-year-old capybara-relative tooth points to wetlands in today's Atacama Desert","magnetUrl":"https://blappos.printify.me/product/33018235","magnetPrice":"$9.99",
-    "facts": "The New Indian Express reported on October 11 that researchers had identified a roughly nine-million-year-old molar from Chile's BahÃ­a Inglesa Formation as belonging to Cardiatherium, an extinct water-dependent relative of modern capybaras. The peer-reviewed study, published September 5, places the animal in late-Miocene coastal northern Chile, where the same deposits and earlier work also preserve freshwater fish, crocodiles and plant evidence.",
-    "why": "One tooth does not prove the entire Atacama was lush, but it gives a minimum ecological fact: a large semiaquatic herbivore reached a place that required usable freshwater and wetland vegetation. Combined with the other fossils and plant microremains, the find strengthens a more varied account of when and where hyperaridity developed and suggests a coastal dispersal route across South America.",
-    "angle": "One Tooth. Whole Wetland. Paleontology found one molar and reopened the desert's plumbing history. The wetland inside the tooth is an explicit imaginative metaphor; the animal's color, pose and exact habitat scene are not preserved by the fossil.",
-    "amazonLinks": [
-      {
-        "title": "Capybara (Young Zoologist): A First Field Guide",
-        "image": "https://m.media-amazon.com/images/P/1684495121.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Capybara from the Young Zoologist series by Julia Mata",
-        "quip": "A field guide to the living giant rodent whose dependence on water makes the desert fossil so revealing.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1684495121?tag=blappos-20"
-      },
-      {
-        "title": "Capybara Is Friends with Everyone",
-        "image": "https://m.media-amazon.com/images/P/0063021021.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Capybara Is Friends with Everyone by Maddie Frost",
-        "quip": "The friendliest possible counterpoint to a lonely molar recovered from a marine desert deposit.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0063021021?tag=blappos-20"
-      },
-      {
-        "title": "Capybaras: A Natural History of the World's Largest Rodent",
-        "image": "https://m.media-amazon.com/images/P/0801891639.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Capybaras by Rexford D. Lord",
-        "quip": "The detailed biology and ecology behind why a capybara relative is such persuasive evidence for ancient water.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0801891639?tag=blappos-20"
-      }
-    ],
-    "source": "https://www.newindianexpress.com/lifestyle/science/2026/Oct/11/9-million-year-old-tooth-hints-at-ancient-wetlands-in-atacama-desert",
-    "sourceName": "Read The New Indian Express' October 11 report",
-    "sourcePublisher": "The New Indian Express",
-    "socialSummary": "A late-Miocene tooth from a water-dependent capybara relative adds fossil evidence that parts of today's Atacama Desert supported freshwater wetlands about nine million years ago.",
-    "socialPunchline": "Paleontology found one molar and reopened the desert's plumbing history."
-  },
-  {
-    "id": "oct11-stroller-velocity",
-    "isoDate": "2026-10-11",
-    "month": "October",
-    "date": "Oct 11, 2026",
-    "place": "Cleveland, Ohio",
-    "image": "assets/cards/oct11-stroller-velocity.webp",
-    "title": "A Cleveland dad officially ran a 4:17.784 mile while pushing his one-year-old in a stroller","magnetUrl":"https://blappos.printify.me/product/33018239","magnetPrice":"$9.99",
-    "facts": "The Times of India profiled the certified result on October 11: emergency physician and former college runner Stephen Biebelhausen completed the Guardian Mile in Cleveland in 4 minutes 17.784 seconds while pushing his one-year-old daughter, Blake. Guinness World Records lists the performance as the male pram-mile record and dates the race to August 8, 2026; Biebelhausen had entered hoping only to beat the event's 4:44 stroller-course mark.",
-    "why": "The exact date and status matter because the performance circulated as an unofficial record in August before certification. Guinness now names the holder, time, place and category. The safety context matters too: this was an experienced runner in an organized stroller division, not evidence that an ordinary pram or an unprepared adult should reproduce elite pace.",
-    "angle": "Stroller Velocity. Dad tried to beat the course record and accidentally discovered the family outing had a world-ranking split time. The runner, child, stroller and bridge on the card are invented editorial illustrationâ€”not the Biebelhausens, record footage or a product endorsement.",
-    "amazonLinks": [
-      {
-        "title": "Guinness World Records 2027",
-        "image": "https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg",
-        "alt": "Cover of Guinness World Records 2027",
-        "quip": "The current annual compendium for putting one spectacularly fast family mile beside the year's other certified extremes.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20"
-      },
-      {
-        "title": "The Science of Running",
-        "image": "https://m.media-amazon.com/images/P/0615942946.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Science of Running by Steve Magness",
-        "quip": "Training physiology for understanding what separates a 4:17 mile from a casual stroller loop.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/0615942946?tag=blappos-20"
-      },
-      {
-        "title": "The Incomplete Book of Running",
-        "image": "https://m.media-amazon.com/images/P/1451696256.01.LZZZZZZZ.jpg",
-        "alt": "Cover of The Incomplete Book of Running by Peter Sagal",
-        "quip": "A funny running memoir for the parent who knows the route may include chaos, joy and somebody else's wheels.",
-        "salesPriority": 5,
-        "url": "https://www.amazon.com/dp/1451696256?tag=blappos-20"
-      }
-    ],
-    "source": "https://timesofindia.indiatimes.com/world/us/meet-stephen-biebelhausen-the-us-doctor-who-pushed-his-1-year-old-daughter-in-a-pram-and-accidentally-broke-a-world-record/articleshow/134793835.cms",
-    "sourceName": "Read The Times of India's October 11 report",
-    "sourcePublisher": "The Times of India",
-    "socialSummary": "Guinness now certifies Stephen Biebelhausen's August 8 Cleveland mile in 4:17.784 while pushing his one-year-old daughterâ€”the male pram-mile record.",
-    "socialPunchline": "The family outing arrived with a world-ranking split time."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct11Stories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct11Stories);
-
-// October 11 stories await verified Printify publication before permanent pages or social release.
-
-// October 14 staging edition. Printify scans these complete story objects, but they
-// remain outside window.dailyStories until every physical magnet is published and
-// its exact storefront URL is written back here.
-const oct14StagingStories = [
-  {
-    "id": "oct14-estate-sale-grenades",
-    "isoDate": "2026-10-14",
-    "month": "October",
-    "date": "Oct 14, 2026",
-    "place": "Austin, Texas",
-    "image": "assets/cards/oct14-estate-sale-grenades.webp",
-    "title": "An Estate-Sale Box Comes With Six Live WWII Grenades","magnetUrl":"https://blappos.printify.me/product/33134937","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 14 that a Central Texas resident opened boxes bought at an estate sale and found six World War II-era grenades. Austin police bomb technicians X-rayed the objects, determined that the old Mk 2-style â€˜pineappleâ€™ grenades were live and safely removed them. Local reporting placed the response on October 12; October 14 is the publication date, not the discovery date.",
-    "why": "Old military souvenirs can remain dangerous decades after a war. The safe takeaway is deliberately narrow: do not touch, move or inspect suspected ordnance; clear the immediate area and call 911. The reporting establishes that these six devices were active and removed by specialists, but it does not establish how they reached the sale or whether the seller knew what was inside the boxes.",
-    "angle": "Verified reporting and the safety boundary end above. The Blappos interpretation: Austinâ€™s estate sale offered a vintage lot that was very literally still live. The magnet uses an invented shopper, generic response crew and original suburban sceneâ€”no real person, police mark, copied photograph or operational depiction of a grenade.",
-    "amazonLinks": [
-      {"title":"Bring Cash: A Guide to Estate Sales in the Midwest and Beyond","image":"https://m.media-amazon.com/images/P/1540270173.01.LZZZZZZZ.jpg","alt":"Cover of Bring Cash by Kathryn Davis","quip":"A practical guide to the hunt, etiquette and surprises of estate salesâ€”ideally the non-explosive kind.","salesPriority":5,"url":"https://www.amazon.com/dp/1540270173?tag=blappos-20"},
-      {"title":"The American Arsenal: The World War II Official Standard Ordnance Catalogue","image":"https://m.media-amazon.com/images/P/1848327269.01.LZZZZZZZ.jpg","alt":"Cover of The American Arsenal by Ian V. Hogg","quip":"A historical reference for identifying the wartime equipment behind the bomb squadâ€™s very modern house call.","salesPriority":5,"url":"https://www.amazon.com/dp/1848327269?tag=blappos-20"},
-      {"title":"World War II: The Definitive Visual History from Blitzkrieg to the Atom Bomb","image":"https://m.media-amazon.com/images/P/1465436022.01.LZZZZZZZ.jpg","alt":"Cover of World War II from DK","quip":"A broad visual history for putting six dangerous leftovers inside the much larger material legacy of the war.","salesPriority":4,"url":"https://www.amazon.com/dp/1465436022?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/14/austin-texas-estate-sale-live-grenades-world-war-II/6091791999348/",
-    "sourceName": "Read the October 14 UPI report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "UPI reported that a Central Texas estate-sale buyer found six World War II-era grenades in purchased boxes; Austin bomb technicians X-rayed the devices, confirmed they were live and safely removed them.",
-    "socialPunchline": "Blappos: The vintage lot was sold as-is and, unfortunately, still live."
-  },
-  {
-    "id": "oct14-jurassic-flightless-bird",
-    "isoDate": "2026-10-14",
-    "month": "October",
-    "date": "Oct 14, 2026",
-    "place": "Fujian, China",
-    "image": "assets/cards/oct14-jurassic-flightless-bird.webp",
-    "title": "One of the Oldest Birds Skipped the Flying Part","magnetUrl":"https://blappos.printify.me/product/33134941","magnetPrice":"$9.99",
-    "facts": "A Nature paper published October 14 describes Yuezhuornis yangyuanensis from a single partial skeleton in Fujianâ€™s Late Jurassic Nanyuan Formation, dated to roughly 150â€“148 million years ago. The crow-sized animal had unusually reduced forelimbs, a long bony tail, serrated teeth and a hyperextensible second toe. Its forelimbs were about one-third shorter than its hindlimbs, well outside the proportions of the 377 living bird species used for comparison.",
-    "why": "The authors interpret the anatomy as evidence of a terrestrial, secondarily flightless lifestyle, pushing specialized flightlessness much closer to the origin of birds than earlier examples. That conclusion changes the ecological picture of the earliest avialans, but one incomplete specimen cannot reveal its colors, behavior or exact running speed; those parts of the illustration remain imaginative reconstruction.",
-    "angle": "Verified paper and inference boundary end above. The Blappos interpretation: an early bird reviewed the flight plan, kept the teeth and chose the ground lane. The magnet is an original natural-history reconstructionâ€”no fossil photograph, museum mark or claim that the animalâ€™s appearance is known beyond the preserved anatomy.",
-    "amazonLinks": [
-      {"title":"The Story of Birds","image":"https://m.media-amazon.com/images/P/1035032511.01.LZZZZZZZ.jpg","alt":"Cover of The Story of Birds by Steve Brusatte","quip":"A modern account of avian evolution for the branch that produced powered flightâ€”and one very early exception.","salesPriority":5,"url":"https://www.amazon.com/dp/1035032511?tag=blappos-20"},
-      {"title":"Birds of Stone: Chinese Avian Fossils from the Age of Dinosaurs","image":"https://m.media-amazon.com/images/P/1421420244.01.LZZZZZZZ.jpg","alt":"Cover of Birds of Stone by Luis M. Chiappe and Meng Qingjin","quip":"A richly illustrated guide to the Chinese fossils that transformed the early-bird family tree.","salesPriority":5,"url":"https://www.amazon.com/dp/1421420244?tag=blappos-20"},
-      {"title":"Dinosaurs: How They Lived and Evolved","image":"https://m.media-amazon.com/images/P/1588345823.01.LZZZZZZZ.jpg","alt":"Cover of Dinosaurs by Darren Naish and Paul Barrett","quip":"The broader evolutionary backdrop for a toothed, long-tailed bird that traded lift for leg day.","salesPriority":4,"url":"https://www.amazon.com/dp/1588345823?tag=blappos-20"}
-    ],
-    "source": "https://www.reuters.com/science/chinese-fossil-bird-with-undersized-wings-scrambles-avian-evolution-2026-10-14/",
-    "sourceName": "Read the October 14 Reuters report and Nature paper",
-    "sourcePublisher": "Reuters / Nature",
-    "socialSummary": "Reuters reported on a Nature paper describing Yuezhuornis, a roughly 150-million-year-old Fujian bird with very short forelimbs and anatomy interpreted as an early terrestrial, secondarily flightless lifestyle.",
-    "socialPunchline": "Blappos: One of the first birds filed a flight plan marked â€˜declined.â€™"
-  },
-  {
-    "id": "oct14-roadside-animal-carpool",
-    "isoDate": "2026-10-14",
-    "month": "October",
-    "date": "Oct 14, 2026",
-    "place": "Bexar County, Texas",
-    "image": "assets/cards/oct14-roadside-animal-carpool.webp",
-    "title": "Deputies Stop a Three-Animal Carpool Before I-35","magnetUrl":"https://blappos.printify.me/product/33134949","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 14 that Bexar County sheriffâ€™s deputies had rounded up two horses and a donkey near Interstate 35 and Kinney Road. The sheriffâ€™s October 11 account places the call at about 5:45 p.m. and says the animals were within 50 feet of the highway. Deputies secured all three, located the owner and reported no crash or injury.",
-    "why": "The distinction between beside the interstate and in moving traffic matters: the verified claim is that the animals were dangerously close, not that they entered a travel lane. Quick containment reduced the risk to drivers and animals, while returning them to an identified owner closed the immediate incident without turning a routine livestock escape into a fabricated chase.",
-    "angle": "Verified reporting ends above. The Blappos interpretation: Bexar County intercepted a three-passenger carpool with zero cars and a donkey apparently running navigation. The magnet uses invented animals and generic deputiesâ€”no copied social image, badge, identifiable person or claim that the trio actually traveled on I-35.",
-    "amazonLinks": [
-      {"title":"The Donkey Companion","image":"https://m.media-amazon.com/images/P/160342038X.01.LZZZZZZZ.jpg","alt":"Cover of The Donkey Companion by Sue Weaver","quip":"A practical care and training guide for the smallest member of the roadside committee.","salesPriority":5,"url":"https://www.amazon.com/dp/160342038X?tag=blappos-20"},
-      {"title":"Horsekeeping on a Small Acreage","image":"https://m.media-amazon.com/images/P/158017535X.01.LZZZZZZZ.jpg","alt":"Cover of Horsekeeping on a Small Acreage by Cherry Hill","quip":"Facility-planning guidance for keeping the horsesâ€™ next group outing safely inside the property line.","salesPriority":5,"url":"https://www.amazon.com/dp/158017535X?tag=blappos-20"},
-      {"title":"Fences for Pasture & Garden","image":"https://m.media-amazon.com/images/P/088266753X.01.LZZZZZZZ.jpg","alt":"Cover of Fences for Pasture & Garden by Gail Damerow","quip":"A nuts-and-bolts fencing reference for closing the route before the donkey schedules another interstate meetup.","salesPriority":4,"url":"https://www.amazon.com/dp/088266753X?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/14/two-horses-donkey-Bexar-County-Texas/2451791992146/",
-    "sourceName": "Read the October 14 UPI report and sheriffâ€™s original post",
-    "sourcePublisher": "UPI / Bexar County Sheriffâ€™s Office",
-    "socialSummary": "UPI and the Bexar County Sheriffâ€™s Office reported that deputies secured two horses and a donkey found within 50 feet of I-35, located their owner and recorded no crash or injury.",
-    "socialPunchline": "Blappos: The three-passenger carpool had zero cars and one donkey on navigation."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct14StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct14StagingStories);
-
-// October 15 staging edition. Printify scans these complete story objects, but they
-// remain outside window.dailyStories until every physical magnet is published and
-// its exact storefront URL is written back here.
-const oct15StagingStories = [
-  {
-    "id": "oct15-shanidar-care-and-spear",
-    "isoDate": "2026-10-15",
-    "month": "October",
-    "date": "Oct 15, 2026",
-    "place": "Shanidar Cave, Iraqi Kurdistan",
-    "image": "assets/cards/oct15-shanidar-care-and-spear.webp",
-    "title": "A 75,000-Year-Old Skeleton Records Careâ€”and a Spear Wound","magnetUrl":"https://blappos.printify.me/product/33176823","magnetPrice":"$9.99",
-    "facts": "A Scientific Reports paper published October 15 describes Shanidar A, an older Neanderthal represented by a partial skeleton deposited about 75,000 years ago. Six heavily worn front teeth record a severe earlier facial injury that the individual survived. A roughly circular perforation in the left shoulder blade shows no healing and is consistent with a rounded wooden spear passing through the chest around the time of death. The bodyâ€™s placement adds a fifth individual to a closely grouped mortuary cluster.",
-    "why": "The same life contains evidence relevant to two difficult debates: long-term care and lethal trauma. The damaged teeth could have impaired eating, speech and pain-free daily life, making help from others plausible; the shoulder wound could have been a hunting accident or interpersonal violence, and the paper cannot distinguish between them. The cluster supports intentional funerary behavior, but motive and ritual meaning remain interpretations rather than directly observed facts.",
-    "angle": "Verified anatomy and inference boundaries end above. The Blappos interpretation: the archaeological record kept both the care plan and the incident report. The magnet is a respectful original reconstruction with an invented cave scene; it does not reproduce the remains, identify a killer or claim that the spear, clothing, faces or moment shown were preserved.",
-    "amazonLinks": [
-      {"title":"Kindred: Neanderthal Life, Love, Death and Art","image":"https://m.media-amazon.com/images/P/147293749X.01.LZZZZZZZ.jpg","alt":"Cover of Kindred by Rebecca Wragg Sykes","quip":"A research-rich portrait of Neanderthal lives that makes care, injury and social complexity legible without turning evidence into caricature.","salesPriority":5,"url":"https://www.amazon.com/dp/147293749X?tag=blappos-20"},
-      {"title":"The Neanderthals Rediscovered","image":"https://m.media-amazon.com/images/P/0500296405.01.LZZZZZZZ.jpg","alt":"Cover of The Neanderthals Rediscovered by Dimitra Papagianni and Michael A. Morse","quip":"An updated guide to how fossils, archaeology and genetics keep revising the old brutish stereotype.","salesPriority":5,"url":"https://www.amazon.com/dp/0500296405?tag=blappos-20"},
-      {"title":"The Secret of Our Success","image":"https://m.media-amazon.com/images/P/0691178437.01.LZZZZZZZ.jpg","alt":"Cover of The Secret of Our Success by Joseph Henrich","quip":"A broader account of culture, cooperation and cumulative knowledge for the social questions raised by one damaged ancient life.","salesPriority":4,"url":"https://www.amazon.com/dp/0691178437?tag=blappos-20"}
-    ],
-    "source": "https://www.nature.com/articles/s41598-026-69193-z",
-    "sourceName": "Read the October 15 Scientific Reports paper",
-    "sourcePublisher": "Scientific Reports",
-    "socialSummary": "A new Scientific Reports paper describes Shanidar A, an older Neanderthal who survived severe facial trauma and later suffered a likely fatal chest wound consistent with a wooden spear about 75,000 years ago.",
-    "socialPunchline": "The archaeological record kept both the care plan and the incident report."
-  },
-  {
-    "id": "oct15-99-year-old-wing-walker",
-    "isoDate": "2026-10-15",
-    "month": "October",
-    "date": "Oct 15, 2026",
-    "place": "Cirencester, England",
-    "image": "assets/cards/oct15-99-year-old-wing-walker.webp",
-    "title": "At 99, Helga Duffy Takes the Outside Seat","magnetUrl":"https://blappos.printify.me/product/33176825","magnetPrice":"$9.99",
-    "facts": "UPI reported October 15 that Helga Duffy became the oldest female wing walker after flying secured above a biplane at RFC Rendcomb Airfield near Cirencester. ITV dated the flight to October 14 and reported that the care-home resident was raising money for Wiltshire and Bath Air Ambulance. Guinness lists Duffy at 99 years and 21 days, but its current record page says the result was verified October 16â€”a date that conflicts with both the age calculation and contemporaneous October 14 coverage.",
-    "why": "The achievement is real, but the record page demonstrates why event date, report date and database date should not be collapsed into one. Duffyâ€™s fundraiser turns a spectacle into practical support for emergency medicine, while the visible harness and professional airfield matter: this was an organized wing-walking flight, not an invitation to imitate a stunt independently.",
-    "angle": "Verified reporting and the date discrepancy end above. The Blappos interpretation: at 99, Duffy did not ask for the window seat; she upgraded to the roof. The magnet uses an original fictionalized aviator and biplane, not Duffyâ€™s likeness, ITV footage, an operator logo or a claim that the illustrated aircraft is the one she flew.",
-    "amazonLinks": [
-      {"title":"Women Aviators: 26 Stories of Pioneer Flights","image":"https://m.media-amazon.com/images/P/1613745400.01.LZZZZZZZ.jpg","alt":"Cover of Women Aviators by Karen Bush Gibson","quip":"Twenty-six record-setting aviation stories for placing one extraordinary nonagenarian flight in a longer history of women taking the controlsâ€”and the risks.","salesPriority":5,"url":"https://www.amazon.com/dp/1613745400?tag=blappos-20"},
-      {"title":"Skyfaring: A Journey with a Pilot","image":"https://m.media-amazon.com/images/P/0804169713.01.LZZZZZZZ.jpg","alt":"Cover of Skyfaring by Mark Vanhoenacker","quip":"A pilotâ€™s lyrical account of what flight does to perspective, even when your assigned seat is on top of the wing.","salesPriority":5,"url":"https://www.amazon.com/dp/0804169713?tag=blappos-20"},
-      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The current annual collection for the household that prefers its extraordinary claims measured, named and officially categorized.","salesPriority":4,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/15/guinness-world-records-wing-walker/4971792082759/",
-    "sourceName": "Read UPIâ€™s October 15 report and the Guinness record page",
-    "sourcePublisher": "UPI / Guinness World Records",
-    "socialSummary": "UPI reported that 99-year-old Helga Duffy became the oldest female wing walker near Cirencester while raising money for an air ambulance; ITV dates the organized flight to October 14.",
-    "socialPunchline": "She did not ask for the window seat; she upgraded to the roof."
-  },
-  {
-    "id": "oct15-library-bear-honey",
-    "isoDate": "2026-10-15",
-    "month": "October",
-    "date": "Oct 15, 2026",
-    "place": "Mammoth Lakes, California",
-    "image": "assets/cards/oct15-library-bear-honey.webp",
-    "title": "A Bear Checks Out the Honey on Poohâ€™s 100th Birthday","magnetUrl":"https://blappos.printify.me/product/33176829","magnetPrice":"$9.99",
-    "facts": "UPI reported October 15 that a black bear entered the Mammoth Lakes Library before opening on October 14â€”the 100th anniversary of A. A. Milneâ€™s Winnie-the-Pooh. The local release says the bear arrived at about 6:10 a.m., ate staff peanut butter, peach cups, cookies and a jar of honey, toured the library and left on its own. No damage or injuries were reported.",
-    "why": "The timing is funny; the wildlife lesson is not. Mammothâ€™s bears are wild animals drawn to easy calories, and the libraryâ€™s own notice tells residents to keep their distance, secure trash and vehicles, never feed a bear and call local authorities or 911 as appropriate. One quiet visit without damage does not make indoor bear encounters safe or charming to stage.",
-    "angle": "Verified reporting and the safety boundary end above. The Blappos interpretation: the centennial guest returned the books and kept the honey. The magnet uses an original generic black bear and invented library interior; it includes no Winnie-the-Pooh character, Disney design, real security frame or claim that the bear understood the anniversary.",
-    "amazonLinks": [
-      {"title":"Bear Attacks: Their Causes and Avoidance","image":"https://m.media-amazon.com/images/P/158574557X.01.LZZZZZZZ.jpg","alt":"Cover of Bear Attacks by Stephen Herrero","quip":"The evidence-based classic on bear behavior and conflict prevention for readers who know a snack raid is still a wildlife encounter.","salesPriority":5,"url":"https://www.amazon.com/dp/158574557X?tag=blappos-20"},
-      {"title":"Winnie the Pooh: 100th Anniversary Collectible Edition","image":"https://m.media-amazon.com/images/P/1510784098.01.LZZZZZZZ.jpg","alt":"Cover of the 100th anniversary collectible edition of Winnie the Pooh","quip":"The original 1926 story in a centennial editionâ€”the literary reason the library visitorâ€™s menu became global news.","salesPriority":5,"url":"https://www.amazon.com/dp/1510784098?tag=blappos-20"},
-      {"title":"The Bear Almanac","image":"https://m.media-amazon.com/images/P/1493086456.01.LZZZZZZZ.jpg","alt":"Cover of The Bear Almanac by Gary Brown","quip":"A species-spanning reference for replacing the storybook bear in your head with the biology of the animal at the desk.","salesPriority":4,"url":"https://www.amazon.com/dp/1493086456?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/15/bear-library-Mono-County-winnie-the-pooh/5921792087119/",
-    "sourceName": "Read UPIâ€™s October 15 report and the local library release",
-    "sourcePublisher": "UPI / Mono County Free Libraries",
-    "socialSummary": "UPI and a local library release say a black bear entered Mammoth Lakes Library before opening on October 14, ate staff snacks including a jar of honey and left without reported damage or injury.",
-    "socialPunchline": "The centennial guest returned the books and kept the honey."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct15StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct15StagingStories);
-
-// October 16 edition. These stories become public only after Printify has
-// published each physical magnet and written its exact storefront URL here.
-const oct16StagingStories = [
-  {
-    "id": "oct16-green-white-dwarf",
-    "isoDate": "2026-10-16",
-    "month": "October",
-    "date": "Oct 16, 2026",
-    "place": "Draco, about 280 light-years from Earth",
-    "image": "assets/cards/2026-10-16-green-star.webp",
-    "title": "Astronomers Find the First Star Wearing Chartreuse","magnetUrl":"https://blappos.printify.me/product/33214267","magnetPrice":"$9.99",
-    "facts": "Reuters reported October 16 on a RAS Techniques and Instruments study identifying WD J1330+6435 as the first documented genuinely green star. The Earth-sized white dwarf lies about 280 light-years away in Draco. Rocky debris from its former planetary system polluted its dense helium atmosphere with sodium, calcium and lithium; pressure-broadened absorption by sodium removes much of the orange-to-red light, leaving a chartreuse appearance in the researchers' color reconstruction.",
-    "why": "Ordinary star color mainly tracks temperature, but white-dwarf atmospheres are dense enough for trace elements to reshape broad bands of the spectrum. That makes color a clue to both extreme atomic physics and the chemistry of destroyed planetary material. The team analyzed 151 nearby white dwarfs and found an unusual-color minority, so this is a real firstâ€”not evidence that green stars are common or bright enough to look green through a backyard telescope.",
-    "angle": "Verified reporting and the visibility boundary end above. The Blappos interpretation: a dead star ate the rocky leftovers of its planets and came away looking seasick. The magnet is an original astronomical fantasy informed by the measured color; it is not a telescope image, scale diagram or claim that a visible debris ring was photographed.",
-    "amazonLinks": [
-      {"title":"The End of Everything (Astrophysically Speaking)","image":"https://m.media-amazon.com/images/P/198210354X.01.LZZZZZZZ.jpg","alt":"Cover of The End of Everything by Katie Mack","quip":"A witty tour of cosmic endings for meeting a dead star whose planetary leftovers changed its complexion.","salesPriority":5,"url":"https://www.amazon.com/dp/198210354X?tag=blappos-20"},
-      {"title":"Welcome to the Universe","image":"https://m.media-amazon.com/images/P/0691157243.01.LZZZZZZZ.jpg","alt":"Cover of Welcome to the Universe by Neil deGrasse Tyson, Michael A. Strauss and J. Richard Gott","quip":"A rigorous illustrated introduction to stars, spectra and the universe behind one extremely unusual color swatch.","salesPriority":5,"url":"https://www.amazon.com/dp/0691157243?tag=blappos-20"},
-      {"title":"Astrophysics for People in a Hurry","image":"https://m.media-amazon.com/images/P/0393609391.01.LZZZZZZZ.jpg","alt":"Cover of Astrophysics for People in a Hurry by Neil deGrasse Tyson","quip":"A compact primer for anyone who needs white dwarfs, stellar chemistry and cosmic weirdness before the next coffee cools.","salesPriority":4,"url":"https://www.amazon.com/dp/0393609391?tag=blappos-20"}
-    ],
-    "source": "https://www.reuters.com/science/newly-identified-green-star-leaves-astronomers-amazed-2026-10-16/",
-    "sourceName": "Read the October 16 Reuters report on the RAS study",
-    "sourcePublisher": "Reuters / RAS Techniques and Instruments",
-    "socialSummary": "Reuters reported that researchers identified WD J1330+6435 as the first documented green star: sodium from rocky planetary debris changes the spectrum of this dense white dwarf into a reconstructed chartreuse hue.",
-    "socialPunchline": "Blappos: A dead star ate its planets and came away looking seasick."
-  },
-  {
-    "id": "oct16-roadster-kickflip",
-    "isoDate": "2026-10-16",
-    "month": "October",
-    "date": "Oct 16, 2026",
-    "place": "McGregor, Texas",
-    "image": "assets/cards/2026-10-16-roadster-kickflip.webp",
-    "title": "The Roadster Does a Kickflip Before It Does Production","magnetUrl":"https://blappos.printify.me/product/33214271","magnetPrice":"$9.99",
-    "facts": "The Associated Press reported October 16 on Tesla's October 15 Roadster 2 demonstration at SpaceX's McGregor test site. A white prototype climbed a curved ramp, went inverted, cleared five parked vehicles and landed using a combination of wheels, cold-gas thrusters and suction hardware. The car was remotely controlled, carried no driver and was described as a stunt prototype rather than a production-safety vehicle.",
-    "why": "A controlled demonstration can prove that a one-off machine has enough thrust, control authority and structural margin for a dramatic maneuver; it does not prove a road-legal flying car is ready. Company officials projected commercial production in 2028, said the standard vehicle would not provide full flight and described more extreme rocket hardware as a limited, invitation-only option. The useful distinction is spectacular prototype capability versus tested, regulated consumer transport.",
-    "angle": "Verified demonstration and production boundaries end above. The Blappos interpretation: the Roadster has completed a kickflip while its delivery date remains firmly on Earth. The magnet uses a generic unbadged electric roadster, invented test range and original typographyâ€”no Tesla logo, copied event frame, public-figure likeness or invitation to attempt the maneuver.",
-    "amazonLinks": [
-      {"title":"Elon Musk by Walter Isaacson","image":"https://m.media-amazon.com/images/P/1982181281.01.LZZZZZZZ.jpg","alt":"Cover of Elon Musk by Walter Isaacson","quip":"A recent biography for the organizational history behind the roadster, the rockets and the habit of combining both onstage.","salesPriority":5,"url":"https://www.amazon.com/dp/1982181281?tag=blappos-20"},
-      {"title":"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future","image":"https://m.media-amazon.com/images/P/006230125X.01.LZZZZZZZ.jpg","alt":"Cover of Elon Musk by Ashlee Vance","quip":"The earlier company-building account for understanding how electric cars and rocket propulsion ended up sharing a test plan.","salesPriority":5,"url":"https://www.amazon.com/dp/006230125X?tag=blappos-20"},
-      {"title":"Rocket Propulsion Elements, Ninth Edition","image":"https://m.media-amazon.com/images/P/1118753658.01.LZZZZZZZ.jpg","alt":"Cover of Rocket Propulsion Elements, ninth edition","quip":"The engineering textbook for readers who want the cold-gas part explained after the kickflip part stops shouting.","salesPriority":5,"url":"https://www.amazon.com/dp/1118753658?tag=blappos-20"}
-    ],
-    "source": "https://apnews.com/article/7d5f19665435b7408025bfb7a2f2f0b7",
-    "sourceName": "Read the October 16 Associated Press report",
-    "sourcePublisher": "Associated Press",
-    "socialSummary": "The Associated Press reported that a remote-controlled Roadster 2 prototype used wheels, cold-gas thrusters and suction to go inverted over five cars at a Texas demonstration; it had no driver and was not a production-safety vehicle.",
-    "socialPunchline": "Blappos: The Roadster completed a kickflip while its delivery date stayed firmly on Earth."
-  },
-  {
-    "id": "oct16-scrapple-sculpture",
-    "isoDate": "2026-10-16",
-    "month": "October",
-    "date": "Oct 16, 2026",
-    "place": "Philadelphia, Pennsylvania",
-    "image": "assets/cards/2026-10-16-scrapple-sculpture.webp",
-    "title": "Philadelphia Turns Breakfast Scraps Into Fine Art","magnetUrl":"https://blappos.printify.me/product/33214273","magnetPrice":"$9.99",
-    "facts": "UPI reported October 16 on Reading Terminal Market's October 15 scrapple-sculpting contest. Competitors had 90 minutes to turn blocks of the Pennsylvania meat-and-grain specialty into sculptures themed to the market; judges chose Toni Lee's rendition of a pig mascot. One source detail does not reconcile: UPI describes six-pound blocks, while the organizer's event page says each contestant received a five-pound block. Both agree on the timed contest and a public vote at the October 17 Scrapple and Apple Festival.",
-    "why": "The disagreement over one pound is small but worth retaining because the organizer and report are describing the same physical material. Beyond the novelty, the contest converts a regional preservation foodâ€”traditionally made from pork trimmings, meal and spicesâ€”into public folk art and a piece of market identity. The judged winner and the later people's-choice vote are also separate decisions, not two reports of the same result.",
-    "angle": "Verified contest facts and the unresolved weight discrepancy end above. The Blappos interpretation: Philadelphia opened a fine-arts department where the medium is breakfast and the critique ends at the griddle. The magnet uses an invented sculpture, market interior and generic participantsâ€”no copied mascot, organizer logo, contestant likeness or claim that the depicted work won.",
-    "amazonLinks": [
-      {"title":"Pennsylvania Dutch Cooking: Traditional Dutch Dishes","image":"https://m.media-amazon.com/images/P/1495977773.01.LZZZZZZZ.jpg","alt":"Cover of Pennsylvania Dutch Cooking: Traditional Dutch Dishes","quip":"Regional recipesâ€”including the culture around scrappleâ€”for returning the contest medium to its more familiar gallery: the breakfast plate.","salesPriority":5,"url":"https://www.amazon.com/dp/1495977773?tag=blappos-20"},
-      {"title":"The Art of Food Sculpture","image":"https://m.media-amazon.com/images/P/0764314548.01.LZZZZZZZ.jpg","alt":"Cover of The Art of Food Sculpture by Yuci Tan","quip":"An illustrated carving guide for translating ninety minutes of edible ambition into form, balance and fewer accidental ears.","salesPriority":5,"url":"https://www.amazon.com/dp/0764314548?tag=blappos-20"},
-      {"title":"OXO Good Grips 11-Pound Digital Kitchen Scale","image":"https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg","alt":"OXO Good Grips digital kitchen scale","quip":"The practical referee for a source dispute involving five pounds, six pounds and one highly sculptural breakfast loaf.","salesPriority":4,"url":"https://www.amazon.com/dp/B079D9B82W?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/16/scrapple-sculpting-contest-reading-terminal-market/6511792163992/",
-    "sourceName": "Read UPI's October 16 report and the organizer's event page",
-    "sourcePublisher": "UPI / Reading Terminal Market",
-    "socialSummary": "UPI reported that Reading Terminal Market contestants had 90 minutes to sculpt scrapple into market-themed art; UPI says six-pound blocks, while the organizer's event page says five pounds.",
-    "socialPunchline": "Blappos: Philadelphia opened a fine-arts department where the medium is breakfast."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct16StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct16StagingStories);
-
-// October 17 edition. These stories become public only after Printify has
-// published each physical magnet and written its exact storefront URL here.
-const oct17StagingStories = [
-  {
-    "id": "oct17-tropical-guest-list",
-    "isoDate": "2026-10-17",
-    "month": "October",
-    "date": "Oct 17, 2026",
-    "place": "Southern California",
-    "image": "assets/cards/2026-10-17-tropical-guest-list.webp",
-    "title": "Californiaâ€™s Ocean Opens a Tropical Guest List","magnetUrl":"https://blappos.printify.me/product/33253636","magnetPrice":"$9.99",
-    "facts": "Reuters reported October 17 that an unusually strong El NiÃ±o, following an extended marine heat wave, has carried an exceptional mix of tropical marine life into Southern California waters. The report documents Californiaâ€™s first recorded longfin bigeye fish, two olive ridley nests that NOAA called the first recorded sea-turtle nests on the U.S. West Coast, a rare yellow-bellied sea snake, and recent whale-shark, hammerhead, flying-fish and manta-ray sightings.",
-    "why": "The arrivals are not simply a beachside curiosity. Warm water can move mobile fish and sharks north while stressing cold-water kelp that supports less-mobile species and entire coastal food webs. Experts quoted by Reuters expect conditions to mostly normalize after El NiÃ±o subsides next year, but the episode is a useful live demonstration of how a natural climate cycle and a preceding marine heat wave can rapidly rearrange an ecosystem without proving that every individual sighting has one identical cause.",
-    "angle": "Verified reporting and attribution boundaries end above. The Blappos interpretation: the Pacific opened a tropical guest list and forgot to tell the kelp. The magnet compresses several separately documented species into one invented resort-style scene; it is not a single photograph, a range map or a claim that all animals arrived together.",
-    "amazonLinks": [
-      {"title":"Miller and Leaâ€™s Guide to the Coastal Marine Fishes of California","image":"https://m.media-amazon.com/images/P/1627111255.01.LZZZZZZZ.jpg","alt":"Cover of Miller and Leaâ€™s Guide to the Coastal Marine Fishes of California","quip":"The California-specific field guide for identifying the longfin bigeye and the coastâ€™s suddenly expanded guest list.","salesPriority":5,"url":"https://www.amazon.com/dp/1627111255?tag=blappos-20"},
-      {"title":"Pacific Coast Fish Finder: Identifying Marine Fish of the Pacific Coast (Nature Study Guides)","image":"https://m.media-amazon.com/images/P/0912550406.01.LZZZZZZZ.jpg","alt":"Pacific Coast Fish Finder identification guide","quip":"A compact visual key for sorting familiar Pacific residents from the tropical visitors riding warm water north.","salesPriority":5,"url":"https://www.amazon.com/dp/0912550406?tag=blappos-20"},
-      {"title":"El NiÃ±o in World History (Palgrave Studies in World Environmental History)","image":"https://m.media-amazon.com/images/P/1137457392.01.LZZZZZZZ.jpg","alt":"Cover of El NiÃ±o in World History by Richard Grove and George Adamson","quip":"The environmental-history context for the natural Pacific cycle behind Californiaâ€™s unusual marine arrivals.","salesPriority":4,"url":"https://www.amazon.com/dp/1137457392?tag=blappos-20"}
-    ],
-    "source": "https://www.reuters.com/sustainability/cop/exotic-species-appear-off-california-thanks-an-unusually-strong-el-nio-2026-10-17/",
-    "sourceName": "Read Reutersâ€™ October 17 report",
-    "sourcePublisher": "Reuters",
-    "socialSummary": "Reuters reported rare tropical marine arrivals in Southern California during a strong El NiÃ±o.",
-    "socialPunchline": "Blappos: The Pacific opened a tropical guest list and forgot the kelp."
-  },
-  {
-    "id": "oct17-witch-hats-wharf",
-    "isoDate": "2026-10-17",
-    "month": "October",
-    "date": "Oct 17, 2026",
-    "place": "Salem, Massachusetts",
-    "image": "assets/cards/2026-10-17-witch-hats-wharf.webp",
-    "title": "Salem Fills a Wharf With Witch Hats, Certification Pending","magnetUrl":"https://blappos.printify.me/product/33253641","magnetPrice":"$9.99",
-    "facts": "Hundreds of people gathered at Derby Wharf in Salem on October 17 wearing pointed hats for the cityâ€™s Witch Hats on the Wharf community photo and world-record attempt. Salemâ€™s official notice scheduled an overhead photograph shortly after 11 a.m. as part of the cityâ€™s 400th anniversary, and the Salem Witch Museum documented that the crowd assembled. No official adjudicated count or Guinness certification was available when this story was published.",
-    "why": "Record attempts and certified records are different claims. A large crowd, an aerial photograph and a well-documented civic event establish that Salem staged the attempt; they do not establish the qualifying count, compliance with a record authorityâ€™s rules or a successful result. The city also tied sales of special hats and patches to HAWC, a local nonprofit serving survivors of domestic abuse, so the event combined tourism, anniversary branding and fundraising rather than existing only as a stunt.",
-    "angle": "Verified event facts and the certification boundary end above. The Blappos interpretation: Salem put municipal history under one enormous hat, then handed the hat to paperwork. The magnetâ€™s clerk, crowd and hat-counting scene are invented; it does not reproduce the aerial photograph, identify participants or claim the record was won.",
-    "amazonLinks": [
-      {"title":"A Season with the Witch: The Magic and Mayhem of Halloween in Salem, Massachusetts","image":"https://m.media-amazon.com/images/P/1581573391.01.LZZZZZZZ.jpg","alt":"Cover of A Season with the Witch by J. W. Ocker","quip":"A month inside modern Salemâ€™s Halloween economyâ€”the exact civic spectacle that put hundreds of hats on Derby Wharf.","salesPriority":5,"url":"https://www.amazon.com/dp/1581573391?tag=blappos-20"},
-      {"title":"Salem Witch Trials","image":"https://m.media-amazon.com/images/P/1589791320.01.LZZZZZZZ.jpg","alt":"Cover of The Salem Witch Trials by Marilynne K. Roach","quip":"The deeply sourced history for keeping a playful modern hat event separate from the people persecuted in 1692.","salesPriority":5,"url":"https://www.amazon.com/dp/1589791320?tag=blappos-20"},
-      {"title":"The Witches: Salem, 1692","image":"https://m.media-amazon.com/images/P/0316200603.01.LZZZZZZZ.jpg","alt":"Cover of The Witches: Salem, 1692 by Stacy Schiff","quip":"A narrative history that supplies the context modern Salem tourism can otherwise compress into one pointed silhouette.","salesPriority":4,"url":"https://www.amazon.com/dp/0316200603?tag=blappos-20"}
-    ],
-    "source": "https://www.facebook.com/salemwitchmuseum/posts/hundreds-of-people-gathered-at-derby-wharf-today-to-attempt-to-break-a-world-rec/1562293419273446/",
-    "sourceName": "See the Salem Witch Museumâ€™s October 17 documentation and the City of Salem notice",
-    "sourcePublisher": "Salem Witch Museum / City of Salem",
-    "socialSummary": "Hundreds joined Salemâ€™s witch-hat record attempt; no certified count was available.",
-    "socialPunchline": "Blappos: Salem handed its giant hat to paperwork."
-  },
-  {
-    "id": "oct17-nightjar-mileage",
-    "isoDate": "2026-10-17",
-    "month": "October",
-    "date": "Oct 17, 2026",
-    "place": "Lund, Sweden",
-    "image": "assets/cards/2026-10-17-nightjar-mileage.webp",
-    "title": "Nightjar Wings Rack Up Air Miles and Terrible Mileage","magnetUrl":"https://blappos.printify.me/product/33253647","magnetPrice":"$9.99",
-    "facts": "ScienceDaily featured Lund Universityâ€™s European-nightjar research on October 17. In the peer-reviewed PLOS Biology study, researchers flew five nightjars in a wind tunnel and measured their wakes at different speeds. The birdsâ€™ broad, slotted wingtips supported slow flight and maneuvering but produced a double-tip-vortex pattern and lower span efficiency at faster cruise; the team also measured an outer-wing upstroke that generated thrust, a feature previously associated mainly with bats and hummingbirds.",
-    "why": "The result replaces the tidy idea of a long-distance migrant as a machine optimized only for economical cruising. Nightjars use the same wings to migrate between Europe and southern Africa and to hunt insects slowly at dusk, so evolution preserves a workable compromise rather than a single-purpose optimum. The authors also identify a possible design clue for flapping drones: when a wing cannot fold much on the upstroke, using that stroke for thrust may recover useful work.",
-    "angle": "Verified study findings and engineering inference end above. The Blappos interpretation: the nightjar earns elite air miles while the aerodynamics department denies its mileage claim. The cardâ€™s scientists, route map, gauges and visible smoke are invented visual shorthand, not a copied figure or a claim that the bird understands expense reports.",
-    "amazonLinks": [
-      {"title":"Birds Never Get Lost","image":"https://m.media-amazon.com/images/P/1785890484.01.LZZZZZZZ.jpg","alt":"Cover of Birds Never Get Lost by Colin and Sandy Pennycuick","quip":"A flight researcherâ€™s accessible account of migration, navigation and the laboratory work behind how birds cross continents.","salesPriority":5,"url":"https://www.amazon.com/dp/1785890484?tag=blappos-20"},
-      {"title":"What It's Like to Be a Bird: From Flying to Nesting, Eating to Singing--What Birds Are Doing, and Why (Sibley Guides)","image":"https://m.media-amazon.com/images/P/0307957896.01.LZZZZZZZ.jpg","alt":"Cover of What Itâ€™s Like to Be a Bird by David Allen Sibley","quip":"An illustrated guide to what birds are doing and whyâ€”including the flying, feeding and behavioral compromises in this study.","salesPriority":5,"url":"https://www.amazon.com/dp/0307957896?tag=blappos-20"},
-      {"title":"Flight Lines: Across the Globe on a Journey with the Astonishing Ultramarathon Birds","image":"https://m.media-amazon.com/images/P/1643135767.01.LZZZZZZZ.jpg","alt":"Cover of Flight Lines by Andrew Darby","quip":"A global journey with extreme migrant birds for putting the nightjarâ€™s Europe-to-Africa commute in long-haul company.","salesPriority":4,"url":"https://www.amazon.com/dp/1643135767?tag=blappos-20"}
-    ],
-    "source": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
-    "sourceName": "Read ScienceDailyâ€™s October 17 report and the open PLOS Biology study",
-    "sourcePublisher": "ScienceDaily",
-    "socialSummary": "Lund researchers found nightjar wings trade cruise efficiency for slow-flight agility.",
-    "socialPunchline": "Blappos: The nightjar earns air miles; mileage denied."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct17StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct17StagingStories);
-// October 17 publication gate passed: all three exact Printify products are linked and the permanent pages are built.
-
-// October 18 edition. Every physical magnet is published and its exact storefront
-// URL is linked before these stories enter window.dailyStories.
-const oct18StagingStories = [
-  {
-    "id": "oct18-kikai-regional-settings",
-    "isoDate": "2026-10-18",
-    "month": "October",
-    "date": "Oct 18, 2026",
-    "place": "Kyushu, Japan",
-    "image": "assets/cards/2026-10-18-kikai-regional-settings.webp",
-    "title": "Japanâ€™s 7,300-Year-Old Apocalypse Had Regional Settings","magnetUrl":"https://blappos.printify.me/product/33295237","magnetPrice":"$9.99",
-    "facts": "ScienceDaily published Lund Universityâ€™s summary of a Science Advances study on October 18. The researchers reconstructed population change around the undersea Kikai-Akahoya eruption about 7,300 years ago. Their archaeological models indicate that southern Kyushuâ€™s population was already falling, northern Kyushu continued growing through and after the eruption, inland survivors shifted toward the northern coast, and some more distant regions stopped growing or declined.",
-    "why": "A single catastrophic event did not produce a single demographic outcome. Local exposure, earlier trends, migration, social ties and access to recovering marine resources all shaped what followed. The findings are model-based estimates assembled from archaeological evidenceâ€”not a censusâ€”and the proposed roles of climate disruption, animal tooth wear and health effects remain explanations the researchers discuss rather than individually proven causes.",
-    "angle": "Verified research and inference boundaries end above. The Blappos interpretation: the apocalypse shipped with regional settingsâ€”collapse here, relocation there and unexpected growth one prefecture over. The magnet is an original compressed reconstruction; its eruption, settlements and coast are not a photograph, map or claim that all three conditions were visible at once.",
-    "amazonLinks": [
-      {"title":"Krakatoa: The Day the World Exploded","image":"https://m.media-amazon.com/images/P/0060838590.01.LZZZZZZZ.jpg","alt":"Cover of Krakatoa by Simon Winchester","quip":"A deeply researched account of a historic eruption for comparing one famous catastrophe with a much older one reconstructed from archaeology.","salesPriority":5,"url":"https://www.amazon.com/dp/0060838590?tag=blappos-20"},
-      {"title":"Ancient Jomon of Japan","image":"https://m.media-amazon.com/images/P/0521776708.01.LZZZZZZZ.jpg","alt":"Cover of Ancient Jomon of Japan by Junko Habu","quip":"The archaeological foundation for understanding the hunter-gatherer communities whose regional responses the new study models.","salesPriority":5,"url":"https://www.amazon.com/dp/0521776708?tag=blappos-20"},
-      {"title":"When Humans Nearly Vanished","image":"https://m.media-amazon.com/images/P/1588348040.01.LZZZZZZZ.jpg","alt":"Cover of When Humans Nearly Vanished by Donald R. Prothero","quip":"A critical tour of the Toba catastrophe debateâ€”and a useful reminder that dramatic eruption stories need demographic evidence, not one-size-fits-all assumptions.","salesPriority":4,"url":"https://www.amazon.com/dp/1588348040?tag=blappos-20"}
-    ],
-    "source": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
-    "sourceName": "Read ScienceDailyâ€™s October 18 report and the Science Advances paper",
-    "sourcePublisher": "ScienceDaily / Lund University",
-    "socialSummary": "Researchers found Japanâ€™s Kikai eruption produced regional decline, migration and growth.",
-    "socialPunchline": "Blappos: The apocalypse had regional settings."
-  },
-  {
-    "id": "oct18-sea-vomit-inspector",
-    "isoDate": "2026-10-18",
-    "month": "October",
-    "date": "Oct 18, 2026",
-    "place": "Scottish Highlands, United Kingdom",
-    "image": "assets/cards/2026-10-18-sea-vomit-inspector.webp",
-    "title": "A Labrador Gets Promoted to Sea-Vomit Inspector","magnetUrl":"https://blappos.printify.me/product/33295250","magnetPrice":"$9.99",
-    "facts": "The Times of India reported October 18 that Sgiath, a six-year-old black Labrador formerly trained for mountain rescue, now works with marine ecologist Dr Texa Sim to detect the invasive carpet sea squirt Didemnum vexillum by scent. IFAW believes she is the first dog trained for that target and named her its 2026 Animal of the Year. Sgiath gives a passive indicationâ€”becoming still and staringâ€”when she detects the organism.",
-    "why": "Carpet sea squirt can spread across pontoons, oyster cages and other structures, smother native organisms and become expensive to manage. Visual identification can be difficult and confirmation may require specialist analysis, so a trained dog could add an early-search tool. It does not replace laboratory work or other survey methods, and â€˜first dogâ€™ is appropriately attributed to IFAW rather than presented as an independently exhaustive global count.",
-    "angle": "Verified reporting and attribution boundaries end above. The Blappos interpretation: mountain rescue promoted its best nose to ocean slime, and the employee of the year did not ask what the speciesâ€™ nickname meant. The magnet uses an invented harbor and inspection plate; it does not copy IFAW photography, show a real search site or imply that the pictured colony was Sgiathâ€™s find.",
-    "amazonLinks": [
-      {"title":"Detective Dogs: How Working Dogs Sniff Out Invasive Species","image":"https://m.media-amazon.com/images/P/0823455645.01.LZZZZZZZ.jpg","alt":"Cover of Detective Dogs by Alison Pearce Stevens","quip":"The exact science-and-working-dog bridge behind Sgiathâ€™s extraordinary new conservation job.","salesPriority":5,"url":"https://www.amazon.com/dp/0823455645?tag=blappos-20"},
-      {"title":"What the Dog Knows","image":"https://m.media-amazon.com/images/P/1451667329.01.LZZZZZZZ.jpg","alt":"Cover of What the Dog Knows by Cat Warren","quip":"A scent-detection account for understanding how a dogâ€™s nose becomes a disciplined research instrument rather than a party trick.","salesPriority":5,"url":"https://www.amazon.com/dp/1451667329?tag=blappos-20"},
-      {"title":"Invasive Species: A Very Short Introduction","image":"https://m.media-amazon.com/images/P/0198818289.01.LZZZZZZZ.jpg","alt":"Cover of Invasive Species by Julie Lockwood and Dustin Welbourne","quip":"The ecological context for why finding one unglamorous marine invader early can matter enormously.","salesPriority":4,"url":"https://www.amazon.com/dp/0198818289?tag=blappos-20"}
-    ],
-    "source": "https://timesofindia.indiatimes.com/science/nature/a-labrador-once-trained-for-mountain-rescue-becomes-a-marine-conservation-detection-dog-sgiath-can-sniff-out-the-invasive-organism-known-as-sea-vomit-and-wins-ifaws-2026-animal-of-the-year-award/articleshow/135028213.cms",
-    "sourceName": "Read The Times of Indiaâ€™s October 18 report and linked IFAW announcement",
-    "sourcePublisher": "The Times of India / IFAW",
-    "socialSummary": "Sgiath the Labrador detects invasive carpet sea squirtâ€”â€˜sea vomitâ€™â€”by scent.",
-    "socialPunchline": "Blappos: Mountain rescue promoted her to ocean slime."
-  },
-  {
-    "id": "oct18-shock-absorber-kitten",
-    "isoDate": "2026-10-18",
-    "month": "October",
-    "date": "Oct 18, 2026",
-    "place": "Sandy Springs, Georgia",
-    "image": "assets/cards/2026-10-18-shock-absorber-kitten.webp",
-    "title": "First Responders Extract the Shock-Absorber Kitten","magnetUrl":"https://blappos.printify.me/product/33295254","magnetPrice":"$9.99",
-    "facts": "WSB-TV reported October 18 that Sandy Springs firefighters and police officers safely removed a kitten trapped inside a carâ€™s shock absorber. The report says the kitten, now named Friday Shadow, was recovering well and had already found a permanent home. No injury to a responder was reported.",
-    "why": "The story is a compact example of why an animal inside vehicle machinery is a responder job, not an invitation for improvised extraction. The published report confirms the component, agencies and happy outcome, but it does not provide a full incident timeline or explain how the kitten entered the assembly; Blappos does not invent those missing mechanics.",
-    "angle": "Verified reporting and the missing-detail boundary end above. The Blappos interpretation: Friday Shadow chose the only suspension package that includes adoption. The magnetâ€™s garage, vehicle, removed component and anonymous gloved responder are original visual shorthandâ€”not a copied rescue image or a claim about the exact extraction technique.",
-    "amazonLinks": [
-      {"title":"Tiny But Mighty: Kitten Ladyâ€™s Guide to Saving the Most Vulnerable Felines","image":"https://m.media-amazon.com/images/P/1524744069.01.LZZZZZZZ.jpg","alt":"Cover of Tiny But Mighty by Hannah Shaw","quip":"A rescue-focused guide for the vulnerable-kitten questions that begin after the dramatic machinery story ends.","salesPriority":5,"url":"https://www.amazon.com/dp/1524744069?tag=blappos-20"},
-      {"title":"The Trainable Cat","image":"https://m.media-amazon.com/images/P/046509371X.01.LZZZZZZZ.jpg","alt":"Cover of The Trainable Cat by John Bradshaw and Sarah Ellis","quip":"Practical, evidence-led help for getting an adventurous cat comfortable with carriers, vet visits and safer routines.","salesPriority":5,"url":"https://www.amazon.com/dp/046509371X?tag=blappos-20"},
-      {"title":"Cat Sense","image":"https://m.media-amazon.com/images/P/0465064965.01.LZZZZZZZ.jpg","alt":"Cover of Cat Sense by John Bradshaw","quip":"The behavior science behind why domestic cats still seek small, strange placesâ€”and how humans can build safer lives around that instinct.","salesPriority":4,"url":"https://www.amazon.com/dp/0465064965?tag=blappos-20"}
-    ],
-    "source": "https://www.wsbtv.com/news/local/first-responders-rescue-kitten-trapped-inside-cars-shock-absorber/KC26DXBJZRF2XOPKK4IHMKA7FE/",
-    "sourceName": "Read WSB-TVâ€™s October 18 report",
-    "sourcePublisher": "WSB-TV",
-    "socialSummary": "Sandy Springs responders freed a kitten trapped in a car shock absorber; she was adopted.",
-    "socialPunchline": "Blappos: Friday Shadow chose the suspension package with adoption."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct18StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct18StagingStories);
-// October 18 publication gate passed: all three exact Printify products and permanent pages were verified live before social release.
-
-// October 19 edition. All three exact Printify products are published and
-// linked before these stories enter the homepage, archive and permanent pages.
-const oct19StagingStories = [
-  {
-    "id": "oct19-yak-x",
-    "isoDate": "2026-10-19",
-    "month": "October",
-    "date": "Oct 19, 2026",
-    "place": "Denisova Cave, Siberia",
-    "image": "assets/cards/2026-10-19-yak-x.webp",
-    "title": "Ancient DNA Announces That a New Cow Just Dropped","magnetUrl":"https://blappos.printify.me/product/33337101","magnetPrice":"$9.99",
-    "facts": "Reuters reported October 19 that researchers recovered 20 low-coverage genomes from tiny bovine bone fragments found in Denisova Cave and nearby Altai sites. The oldest fragments date to roughly 250,000â€“200,000 years ago and the youngest to about 27,000 years ago. The lineage split from the ancestors of living yaks about 400,000 years ago and appears distinct enough to represent a previously unknown species, provisionally nicknamed â€˜Yak X.â€™ It has not received a formal scientific name because the evidence is genomic rather than a diagnostic skeleton.",
-    "why": "The work shows how palaeogenomics can turn otherwise unidentifiable fragments into a long population history. Finding the animal across sites used by Denisovans and later humans adds a possible prey species to the Ice Age ecosystem, but proximity is not direct proof that any particular group hunted these exact animals. The formal-name restraint also matters: a striking genome result does not erase the anatomical standards of taxonomy.",
-    "angle": "Verified research and inference boundaries end above. The Blappos interpretation: the Ice Age just pushed an undocumented cow into production. The cardâ€™s animal, scientists, glowing DNA and combined cave landscape are original editorial illustrationâ€”not a reconstruction of one excavation, a copy of a research figure or evidence that the nickname is an official species name.",
-    "amazonLinks": [
-      {"title":"Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past","image":"https://m.media-amazon.com/images/P/110187032X.01.LZZZZZZZ.jpg","alt":"Cover of Who We Are and How We Got Here by David Reich","quip":"The clearest book-length bridge from fragments and genomes to the new science that can identify a lost Ice Age lineage.","salesPriority":5,"url":"https://www.amazon.com/dp/110187032X?tag=blappos-20"},
-      {"title":"Ancient Bones: Unearthing the Astonishing New Story of How We Became Human","image":"https://m.media-amazon.com/images/P/1778400310.01.LZZZZZZZ.jpg","alt":"Cover of Ancient Bones by Madelaine BÃ¶hme, RÃ¼diger Braun and Florian Breier","quip":"A field-and-lab tour of how sparse bones can rearrange a much larger story about ancient animals and people.","salesPriority":5,"url":"https://www.amazon.com/dp/1778400310?tag=blappos-20"},
-      {"title":"Vanished Giants: The Lost World of the Ice Age","image":"https://m.media-amazon.com/images/P/0226824039.01.LZZZZZZZ.jpg","alt":"Cover of Vanished Giants by Anthony J. Stuart","quip":"The wider Ice Age bestiary and extinction context for meeting one more large mammal from the Pleistocene guest list.","salesPriority":4,"url":"https://www.amazon.com/dp/0226824039?tag=blappos-20"}
-    ],
-    "source": "https://www.reuters.com/science/famous-siberian-cave-yields-remains-yak-like-ice-age-mammal-2026-10-19/",
-    "sourceName": "Read Reutersâ€™ October 19 report and the linked Current Biology study",
-    "sourcePublisher": "Reuters",
-    "socialSummary": "Ancient DNA from 20 tiny Altai bone fragments revealed a distinct Ice Age bovine lineage nicknamed â€˜Yak X.â€™",
-    "socialPunchline": "Blappos: The Ice Age just pushed a new cow into production."
-  },
-  {
-    "id": "oct19-cube-robot",
-    "isoDate": "2026-10-19",
-    "month": "October",
-    "date": "Oct 19, 2026",
-    "place": "Christchurch, New Zealand",
-    "image": "assets/cards/2026-10-19-cube-robot.webp",
-    "title": "Four Engineering Students Reduce a Cube to 9.806 Seconds","magnetUrl":"https://blappos.printify.me/product/33337111","magnetPrice":"$9.99",
-    "facts": "UPI reported October 19 that University of Canterbury students Caleb Everitt, Johann Torres, Hayden Watson and Maz Cameron built a robot that solved a scrambled 4-by-4 cube in 9.806 seconds during an official Guinness World Records attempt on October 16. The system used four cameras, an open-source solving algorithm, faster drone motors and suction-cup grippers. The university says Guinness confirmation is still pending.",
-    "why": "The current published Guinness record is 45.30 seconds, so the attempt would be a substantial improvement if certified. More important than the stopwatch is the integration: mechanical design, power electronics, computer vision and software all had to agree on the same fraction of a second. Until Guinness completes its review, 9.806 seconds is a documented attempt resultâ€”not a certified world record.",
-    "angle": "Verified reporting and certification status end above. The Blappos interpretation: four years of engineering education successfully removed 35.494 seconds from a cube. The cardâ€™s fictional students, four-eyed robot, laboratory and stopwatch are original illustration; they do not depict the real team or machine, reproduce event footage or claim that Guinness has approved the result.",
-    "amazonLinks": [
-      {"title":"Rubik's Cube 4x4 Master Puzzle Cube & Brain Teaser Fidget Toy","image":"https://m.media-amazon.com/images/P/B09J9ZCN1L.01.LZZZZZZZ.jpg","alt":"Rubikâ€™s Cube 4x4 Master puzzle cube","quip":"The four-layer problem that the Canterbury robot reduced to a single-digit engineering flex.","salesPriority":5,"url":"https://www.amazon.com/dp/B09J9ZCN1L?tag=blappos-20"},
-      {"title":"Cubed: The Puzzle of Us All","image":"https://m.media-amazon.com/images/P/1250217776.01.LZZZZZZZ.jpg","alt":"Cover of Cubed by ErnÅ‘ Rubik","quip":"The puzzleâ€™s inventor explains why a small colored cube became a worldwide machine for thinking.","salesPriority":5,"url":"https://www.amazon.com/dp/1250217776?tag=blappos-20"},
-      {"title":"Robot Builder's Bonanza, 5th Edition","image":"https://m.media-amazon.com/images/P/1260135012.01.LZZZZZZZ.jpg","alt":"Cover of Robot Builderâ€™s Bonanza, 5th Edition by Gordon McComb","quip":"A practical bench companion for readers whose response to a nine-second robot is to start collecting motors.","salesPriority":4,"url":"https://www.amazon.com/dp/1260135012?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/19/nz-Guinness-World-Records-rubiks-cube-robot/6671792423259/",
-    "sourceName": "Read UPIâ€™s October 19 report and the University of Canterbury announcement",
-    "sourcePublisher": "UPI / University of Canterbury",
-    "socialSummary": "Four Canterbury students built a robot that solved a 4Ã—4 cube in 9.806 seconds; Guinness review is pending.",
-    "socialPunchline": "Blappos: Four years well spent, pending certification."
-  },
-  {
-    "id": "oct19-unqualified-candidate",
-    "isoDate": "2026-10-19",
-    "month": "October",
-    "date": "Oct 19, 2026",
-    "place": "Kelowna, British Columbia",
-    "image": "assets/cards/2026-10-19-unqualified-elected.webp",
-    "title": "Kelownaâ€™s Candidate Warning Label Wins a Top-Eight Tally","magnetUrl":"https://blappos.printify.me/product/33337116","magnetPrice":"$9.99",
-    "facts": "UPI reported October 19 that 33-year-old business owner Brady Rogers ran for Kelowna City Council with deliberately self-deprecating signs describing himself as reluctant and unqualified. The cityâ€™s unofficial October 17 count gave Rogers 12,635 votesâ€”fourth among 37 candidates competing for eight council seats. Kelowna said the chief election officer expected to declare official results by October 21.",
-    "why": "The result is a useful case study in attention, authenticity and local-campaign design: a warning label can become a promise that a candidate is not rehearsing the usual script. It is not evidence that qualifications do not matter, nor does a viral sign explain every ballot. The status line matters too: the cityâ€™s published figures are still unofficial until the formal declaration.",
-    "angle": "Verified reporting and result status end above. The Blappos interpretation: he supplied a warning label, and voters treated it as an instruction manual. The cardâ€™s candidate, certificate, crowd, ballot box and blank signs are fictional editorial shorthand; they do not reproduce Rogers, his actual signs or a final city declaration.",
-    "amazonLinks": [
-      {"title":"Running For Local Office For Dummies","image":"https://m.media-amazon.com/images/P/1119588170.01.LZZZZZZZ.jpg","alt":"Cover of Running For Local Office For Dummies by Dan Gookin","quip":"A conventional campaign manual for candidates who would rather not make â€˜also noâ€™ the whole field plan.","salesPriority":5,"url":"https://www.amazon.com/dp/1119588170?tag=blappos-20"},
-      {"title":"The Campaign Manager: Running and Winning Local Elections","image":"https://m.media-amazon.com/images/P/0813348633.01.LZZZZZZZ.jpg","alt":"Cover of The Campaign Manager by Catherine Shaw","quip":"The nuts-and-bolts local-election guide behind everything the viral warning signs made look accidental.","salesPriority":5,"url":"https://www.amazon.com/dp/0813348633?tag=blappos-20"},
-      {"title":"The Victory Lab: The Secret Science of Winning Campaigns","image":"https://m.media-amazon.com/images/P/030795479X.01.LZZZZZZZ.jpg","alt":"Cover of The Victory Lab by Sasha Issenberg","quip":"A data-minded look at persuasion for investigating why anti-campaign messaging can still behave like a campaign.","salesPriority":4,"url":"https://www.amazon.com/dp/030795479X?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/19/canada-Kelowna-city-council-unqualified-candidate-funny-signs/9581792429340/",
-    "sourceName": "Read UPIâ€™s October 19 report and Kelownaâ€™s unofficial result",
-    "sourcePublisher": "UPI / City of Kelowna",
-    "socialSummary": "Kelownaâ€™s unofficial count put self-described reluctant candidate Brady Rogers fourth in an eight-seat council race.",
-    "socialPunchline": "Blappos: He supplied the warning label; voters peeled it off."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct19StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct19StagingStories);
-// October 19 publication and social delivery gates passed: all three exact Printify products and permanent pages are live.
-
-// October 20 staging edition. These stories remain invisible on the public site until
-// the Printify workflow has published each physical magnet and written its exact URL.
-const oct20StagingStories = [
-  {
-    "id": "oct20-plant-help-desk",
-    "isoDate": "2026-10-20",
-    "month": "October",
-    "date": "Oct 20, 2026",
-    "place": "San Francisco, California",
-    "image": "assets/cards/2026-10-20-plant-help-desk.webp",
-    "title": "A Startup Gives 125 Plant Species a Help Desk","magnetUrl":"https://blappos.printify.me/product/33377585","magnetPrice":"$9.99",
-    "facts": "TechCrunch reported on October 20 that Electric Plant has built sensors and an AI model called Bombadil to interpret electrical signals from living plants. The company says its Bud sensor passes electrodes through the cambium and streams readings to the cloud, where the model can classify patterns associated with hydration, growth and stress across more than 125 species. Those performance and water-saving figures are company claims, not an independent agronomic trial.",
-    "why": "Plant electrophysiology is real: changes in a plant's electrical activity can carry information about its condition. A system that spots stress before visible symptoms could help growers respond earlier and use water more precisely. The evidence clock matters, though. Electric Plant's FAQ describes more than 125 species, while its preprint describes a pretraining corpus covering 100 species; those are not necessarily the same measurement, and neither number alone proves the model will generalize to every crop, field or climate.",
-    "angle": "Verified reporting, company attribution and the measurement boundary end above. The Blappos interpretation: your fern has opened a support ticket, assigned priority urgent and attached seventeen hours of leaf voltage. The magnet's fern, technician, switchboard and San Francisco view are invented visual shorthandâ€”not a photograph, model interface or claim that plants use customer service.",
-    "amazonLinks": [
-      {"title":"The Hidden Life of Trees","image":"https://m.media-amazon.com/images/P/1771642483.01.LZZZZZZZ.jpg","alt":"Cover of The Hidden Life of Trees by Peter Wohlleben","quip":"A popular tour of how trees interact, for the reader now wondering what the fern put in its ticket.","salesPriority":5,"url":"https://www.amazon.com/dp/1771642483?tag=blappos-20"},
-      {"title":"What a Plant Knows","image":"https://m.media-amazon.com/images/P/0374533881.01.LZZZZZZZ.jpg","alt":"Cover of What a Plant Knows by Daniel Chamovitz","quip":"The plant-biology primer for separating measurable sensing and signaling from the joke about customer support.","salesPriority":5,"url":"https://www.amazon.com/dp/0374533881?tag=blappos-20"},
-      {"title":"XLUX Soil Moisture Meter","image":"https://m.media-amazon.com/images/I/71cT4iGyAiL._AC_SL1500_.jpg","alt":"XLUX analog soil moisture meter for houseplants and gardens","quip":"A decidedly non-AI way to answer the fern's most common complaint before opening a cloud account.","salesPriority":4,"url":"https://www.amazon.com/dp/B014MJ8J2U?tag=blappos-20"}
-    ],
-    "source": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-    "sourceName": "Read TechCrunch's October 20 report",
-    "sourcePublisher": "TechCrunch",
-    "socialSummary": "TechCrunch reported that Electric Plant uses sensors and an AI model to classify electrical patterns from living plants across more than 125 species; the performance claims come from the company.",
-    "socialPunchline": "Blappos: Your fern has opened a support ticket."
-  },
-  {
-    "id": "oct20-cowboy-hat-bar",
-    "isoDate": "2026-10-20",
-    "month": "October",
-    "date": "Oct 20, 2026",
-    "place": "Austin, Texas",
-    "image": "assets/cards/2026-10-20-cowboy-hat-bar.webp",
-    "title": "Texas Builds a 47-Foot Hat With a Bar Under It","magnetUrl":"https://blappos.printify.me/product/33377588","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 20 that Circuit of the Americas and Tecovas unveiled a cowboy-hat sculpture measuring 43 feet wide, 47 feet long and 17 feet tall ahead of the Formula 1 United States Grand Prix. A Guinness World Records adjudicator certified it as the largest fiberglass sculpture of a hat. The steel-framed, foam-and-fiberglass structure contains a bar beneath its brim and is intended to remain at the circuit.",
-    "why": "The exact record category is the useful fact: this is the largest fiberglass sculpture of a hat, not the largest wearable hat and not proof that any human could use it as clothing. The installation is also more than an oversized prop. It combines engineered load-bearing structure, a functioning hospitality space and permanent destination branding at a major motorsport venue.",
-    "angle": "Verified dimensions, construction and certification end above. The Blappos interpretation: Texas has built a dress code with its own ZIP code and put refreshments under the brim. The magnet's visitors, bar and racing scene are invented; it carries no venue, sponsor, Formula 1 or Guinness marks and does not reproduce the real installation photograph.",
-    "amazonLinks": [
-      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The record-book companion for a hat whose official category requires the words fiberglass sculpture.","salesPriority":5,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"},
-      {"title":"Formula 1: The Official History","image":"https://m.media-amazon.com/images/P/1802797785.01.LZZZZZZZ.jpg","alt":"Cover of Formula 1: The Official History","quip":"The racing history behind the weekend that apparently required a 47-foot piece of headwear.","salesPriority":5,"url":"https://www.amazon.com/dp/1802797785?tag=blappos-20"},
-      {"title":"The Formula","image":"https://m.media-amazon.com/images/P/0063318628.01.LZZZZZZZ.jpg","alt":"Cover of The Formula by Joshua Robinson and Jonathan Clegg","quip":"The business story explaining how a race weekend grew large enough to support a permanent hat bar.","salesPriority":4,"url":"https://www.amazon.com/dp/0063318628?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/20/guinness-world-records-cowboy-hat-sculpture/5261792514008/",
-    "sourceName": "Read UPI's October 20 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "UPI reported that an Austin race venue unveiled a 47-foot-long structure certified as the largest fiberglass sculpture of a hat, complete with a bar under its brim.",
-    "socialPunchline": "Blappos: The dress code now has its own ZIP code."
-  },
-  {
-    "id": "oct20-ohare-green-bird",
-    "isoDate": "2026-10-20",
-    "month": "October",
-    "date": "Oct 20, 2026",
-    "place": "Chicago, Illinois",
-    "image": "assets/cards/2026-10-20-ohare-green-bird.webp",
-    "title": "O'Hare's Green Bird Chooses Fight, Not Flight","magnetUrl":"https://blappos.printify.me/product/33377591","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 20 that video from Chicago O'Hare's Terminal 5 showed a large green bird swooping near travelers, landing on people and luggage and trying to bite. The encounter happened on October 13, so the incident clock and publication clock are different. A worker eventually caught the bird with a cloth and it was taken for veterinary care. Reports called it a parrot, but no source available at publication supplied a confirmed species identification.",
-    "why": "An animal loose inside a crowded terminal creates risk for the animal and for travelers who may react unpredictably. The humane resolution came from containing it rather than escalating the commotion. Keeping the species uncertain is also basic sourcing discipline: a vivid color, a hooked bill and an eyewitness label can support a useful description without becoming a taxonomic identification.",
-    "angle": "Verified video reporting, the two clocks and the species boundary end above. The Blappos interpretation: Terminal 5 has added a very personal bag check, administered by a passenger with no boarding group. The magnet's bird, handbag, travelers and terminal are invented; it does not identify the real animal, copy the video or show an approved capture method.",
-    "amazonLinks": [
-      {"title":"The Genius of Birds","image":"https://m.media-amazon.com/images/P/1594205213.01.LZZZZZZZ.jpg","alt":"Cover of The Genius of Birds by Jennifer Ackerman","quip":"A science-rich guide to avian intelligence for the traveler whose bag inspection just grew feathers.","salesPriority":5,"url":"https://www.amazon.com/dp/1594205213?tag=blappos-20"},
-      {"title":"Alex & Me","image":"https://m.media-amazon.com/images/P/0061672475.01.LZZZZZZZ.jpg","alt":"Cover of Alex and Me by Irene Pepperberg","quip":"The landmark parrot-cognition storyâ€”useful context without pretending the O'Hare visitor's species was confirmed.","salesPriority":5,"url":"https://www.amazon.com/dp/0061672475?tag=blappos-20"},
-      {"title":"Parrots of the World","image":"https://m.media-amazon.com/images/P/0691142858.01.LZZZZZZZ.jpg","alt":"Cover of Parrots of the World by Joseph Forshaw","quip":"The proper identification reference for readers who know bright green is a description, not a species name.","salesPriority":4,"url":"https://www.amazon.com/dp/0691142858?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/20/parrot-chicago-ohare-airport/1791792511463/",
-    "sourceName": "Read UPI's October 20 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "UPI reported that a large green bird swooped at travelers and luggage in O'Hare Terminal 5 before a worker safely contained it; the October 13 incident was published October 20 and the species was not confirmed.",
-    "socialPunchline": "Blappos: Terminal 5 now offers a personal bag check."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct20StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct20StagingStories);
-// October 20 publication and permanent-page gates passed: exact products, artwork links and BUY CTAs are live; release social delivery.
-
-// October 21 edition. Every story entered the public collection only after the
-// Printify workflow published and linked its exact physical product and price.
-const oct21StagingStories = [
-  {
-    "id": "oct21-space-object",
-    "isoDate": "2026-10-21",
-    "month": "October",
-    "date": "Oct 21, 2026",
-    "place": "Scott Township, Minnesota",
-    "image": "assets/cards/2026-10-21-space-object.webp",
-    "title": "Minnesota Finds an 11-Foot Object With No Return Address","magnetUrl":"https://blappos.printify.me/product/33413603","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 21 that the Stevens County Sheriffâ€™s Office was investigating a roughly 11-foot-diameter metallic object found October 14 in a Scott Township cornfield. The sheriff described it as â€˜presumably a space object.â€™ It was removed the next day and federal agencies were investigating its origin, but the reporting did not identify those agencies or establish what the object was.",
-    "why": "The uncertainty is the important part of the story. Size, material and location can justify securing and examining an unfamiliar object, but they cannot identify its owner, launch, orbit or even prove that it came from space. Keeping October 14 as the discovery clock, October 15 as the removal clock and October 21 as the publication clock prevents a fresh headline from becoming a fresh impactâ€”and preserves the investigationâ€™s actual status.",
-    "angle": "Verified reporting and the unknown-origin boundary end above. The Blappos interpretation: the cornfield accepted delivery, but the tracking number is above everyoneâ€™s clearance. The magnetâ€™s circular object, farm, observers and orbit line are original editorial illustrationâ€”not a photograph, spacecraft identification, agency reconstruction or claim that federal investigators have confirmed space debris.",
-    "amazonLinks": [
-      {"title":"Space Junk: The Dangers of Polluting Earthâ€™s Orbit","image":"https://m.media-amazon.com/images/P/1467756008.01.LZZZZZZZ.jpg","alt":"Cover of Space Junk by Karen Romano Young","quip":"A clear, illustrated guide to orbital debris for readers who want the real category before assigning this object a flight number.","salesPriority":5,"url":"https://www.amazon.com/dp/1467756008?tag=blappos-20"},
-      {"title":"Orbital Debris: A Technical Assessment","image":"https://m.media-amazon.com/images/P/0309051258.01.LZZZZZZZ.jpg","alt":"Cover of Orbital Debris: A Technical Assessment","quip":"The National Academies technical reference for understanding what space debris is, how it is tracked and why identification requires evidence.","salesPriority":5,"url":"https://www.amazon.com/dp/0309051258?tag=blappos-20"},
-      {"title":"How to Astronaut","image":"https://m.media-amazon.com/images/P/1523506485.01.LZZZZZZZ.jpg","alt":"Cover of How to Astronaut by Terry Virts","quip":"A former astronautâ€™s practical tour of hardware and life off Earthâ€”useful context while the Minnesota hardware keeps its rÃ©sumÃ© private.","salesPriority":4,"url":"https://www.amazon.com/dp/1523506485?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/21/space-debris-stevens-county-minnesota/1601792604854/",
-    "sourceName": "Read UPIâ€™s October 21 report",
-    "sourcePublisher": "UPI",
-    "socialSummary": "UPI reported that officials removed a roughly 11-foot metallic object from a Minnesota cornfield; its origin remains under federal investigation.",
-    "socialPunchline": "Blappos: The cornfield accepted delivery, but orbit left no return address."
-  },
-  {
-    "id": "oct21-696-car-train",
-    "isoDate": "2026-10-21",
-    "month": "October",
-    "date": "Oct 21, 2026",
-    "place": "Sishenâ€“Saldanha line, South Africa",
-    "image": "assets/cards/2026-10-21-696-car-train.webp",
-    "title": "South Africa Couples 696 Empty Cars to One Pending Record","magnetUrl":"https://blappos.printify.me/product/33413607","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 21 that Transnet Freight Rail ran a 696-wagon train measuring about 7.6 kilometers, or 4.7 miles, on South Africaâ€™s Sishenâ€“Saldanha iron-ore export line. The October 18 trial used empty CR13/14 wagons and distributed electric and diesel-electric locomotives. Transnet presented it as a longest-freight-train record attempt; Guinness review remained pending.",
-    "why": "An exceptionally long train is a systems test, not just 696 instances of â€˜add wagon.â€™ Distributed power helps manage acceleration, braking and the forces traveling through couplers across changing grades. The run can yield useful handling and infrastructure data, but an empty test does not by itself prove the capacity, economics or repeatability of an equivalent loaded service. Certification and operational significance therefore have separate evidence clocks.",
-    "angle": "Verified dimensions, empty-wagon status and pending certification end above. The Blappos interpretation: the locomotive left 4.7 miles before the last wagon finished joining the story. The magnetâ€™s landscape, worker, locomotives and long curve are original editorial illustrationâ€”not a route photograph, operator livery, Guinness mark or claim that the attempt has been certified.",
-    "amazonLinks": [
-      {"title":"Train: The Definitive Visual History","image":"https://m.media-amazon.com/images/P/1465422293.01.LZZZZZZZ.jpg","alt":"Cover of Train: The Definitive Visual History by DK","quip":"A richly illustrated rail history for putting one 7.6-kilometer test inside two centuries of very long engineering decisions.","salesPriority":5,"url":"https://www.amazon.com/dp/1465422293?tag=blappos-20"},
-      {"title":"The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger","image":"https://m.media-amazon.com/images/P/0691136408.01.LZZZZZZZ.jpg","alt":"Cover of The Box by Marc Levinson","quip":"The freight-logistics classic for understanding why moving a lot of empty hardware can still produce valuable system knowledge.","salesPriority":5,"url":"https://www.amazon.com/dp/0691136408?tag=blappos-20"},
-      {"title":"Freight Train","image":"https://m.media-amazon.com/images/P/068880165X.01.LZZZZZZZ.jpg","alt":"Cover of Freight Train by Donald Crews","quip":"Donald Crewsâ€™ Caldecott Honor classic, now conveniently short enough to finish before the final wagon passes.","salesPriority":4,"url":"https://www.amazon.com/dp/068880165X?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/21/safrica-Guinjness-World-Records-longest-freight-train/7221792598259/",
-    "sourceName": "Read UPIâ€™s October 21 report and the Transnet trial details",
-    "sourcePublisher": "UPI / Transnet Freight Rail",
-    "socialSummary": "UPI reported that Transnet ran a 696-empty-wagon, 4.7-mile trial train on October 18; Guinness certification remains pending.",
-    "socialPunchline": "Blappos: The cab left 4.7 miles ago."
-  },
-  {
-    "id": "oct21-crocs-warm-climates",
-    "isoDate": "2026-10-21",
-    "month": "October",
-    "date": "Oct 21, 2026",
-    "place": "Tropical and subtropical Earth",
-    "image": "assets/cards/2026-10-21-crocs-warm-climates.webp",
-    "title": "Crocodile Lineages Spend 240 Million Years Avoiding Sweater Weather","magnetUrl":"https://blappos.printify.me/product/33413610","magnetPrice":"$9.99",
-    "facts": "Reuters reported on October 21 that researchers analyzed an evolutionary tree of more than 400 extinct and living crocodile-line archosaurs, more than 7,000 fossil and modern geographic records and 52 global palaeoclimate reconstructions. The Science Advances study found that the lineage, which arose more than 240 million years ago, largely tracked suitable warm climatesâ€”expanding poleward during warmer intervals and retreating toward the equator as climates cooled.",
-    "why": "That pattern is climatic niche conservatism: lineages follow familiar conditions geographically more than they repeatedly evolve broad new thermal tolerances. The models also suggest tropical and subtropical refuges remained suitable through most tested aftermaths of the end-Cretaceous impact. That makes climate one contributor to survivorship, not a solo explanation; lower metabolic demand, dormancy, ecology, geography and the severity of each extinction still matter.",
-    "angle": "Verified research, model scope and multi-cause boundary end above. The Blappos interpretation: evolutionâ€™s longest out-of-office reply says the team is unavailable anywhere requiring a winter coat. The magnetâ€™s two animals, tropical refuge, meteor streak and climate contours are original scientific satireâ€”not a copied fossil reconstruction, a map of one event or a claim that any individual crocodilian lived for 240 million years.",
-    "amazonLinks": [
-      {"title":"Crocodile: Evolutionâ€™s Greatest Survivor","image":"https://m.media-amazon.com/images/P/1741144981.01.LZZZZZZZ.jpg","alt":"Cover of Crocodile: Evolutionâ€™s Greatest Survivor by Lynne Kelly","quip":"A full natural and evolutionary history of the animal family that turned thermal conservatism into an extremely long tenure.","salesPriority":5,"url":"https://www.amazon.com/dp/1741144981?tag=blappos-20"},
-      {"title":"The Rise and Fall of the Dinosaurs","image":"https://m.media-amazon.com/images/P/0062490435.01.LZZZZZZZ.jpg","alt":"Cover of The Rise and Fall of the Dinosaurs by Steve Brusatte","quip":"Deep-time context for the crocodile-line relatives, dinosaurs and mass extinctions sharing this 240-million-year calendar.","salesPriority":5,"url":"https://www.amazon.com/dp/0062490435?tag=blappos-20"},
-      {"title":"The Ends of the World","image":"https://m.media-amazon.com/images/P/0062364812.01.LZZZZZZZ.jpg","alt":"Cover of The Ends of the World by Peter Brannen","quip":"A readable tour of Earthâ€™s mass extinctions for understanding why â€˜survivedâ€™ is always a climate, geography and ecology story.","salesPriority":4,"url":"https://www.amazon.com/dp/0062364812?tag=blappos-20"}
-    ],
-    "source": "https://www.reuters.com/science/an-affinity-warm-climes-has-helped-crocs-thrive-eons-2026-10-21/",
-    "sourceName": "Read Reutersâ€™ October 21 report and the linked Science Advances paper",
-    "sourcePublisher": "Reuters / Science Advances",
-    "socialSummary": "A study of more than 400 crocodile-line species found the lineage largely followed warm habitats as climates shifted over 240 million years.",
-    "socialPunchline": "Blappos: Evolutionâ€™s longest out-of-office reply says no winter coat."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct21StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct21StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
-// October 21 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
-// October 21 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
-
-// October 22 edition. Every story entered the public collection only after the
-// Printify workflow published and linked its exact physical magnet and price.
-const oct22StagingStories = [
-  {
-    "id": "oct22-earhart-driftwood",
-    "isoDate": "2026-10-22",
-    "month": "October",
-    "date": "Oct 22, 2026",
-    "place": "Nikumaroro, Kiribati",
-    "image": "assets/cards/2026-10-22-earhart-driftwood.webp",
-    "title": "Amelia Earhart Plane Search Finds Its â€˜Planeâ€™ Was Trees","magnetUrl":"https://blappos.printify.me/product/33452592","magnetPrice":"$9.99",
-    "facts": "Smithsonian Magazine reported on October 22 that a 17-person expedition had tested whether the Taraia Objectâ€”a visual anomaly first noticed in 2020 satellite imagery near Nikumaroroâ€”might be wreckage from Amelia Earhartâ€™s Lockheed Electra. Purdueâ€™s October 18 release says the team found no conclusive plane evidence: the shape was most likely a collection of large trees deposited on the sandspit, and the surviving Y-shaped fragment looked reflective because it carried a carbonate veneer.",
-    "why": "Remote imagery can generate a testable hypothesis, but it cannot finish an identification. The expedition used field observation, a magnetometer and side-scan sonar to ground-truth a visually persuasive clue, then published a null result instead of promoting the desired answer. That distinction matters far beyond this mystery: a blurry shape is evidence worth checking, not permission to name the object.",
-    "angle": "Verified reporting and Purdueâ€™s field conclusion end above. The Blappos interpretation: the satellite found a plane-shaped tree and the expedition found the receipt. The magnetâ€™s researchers, driftwood, clipboard, metal detector and airplane-shaped cloud are original editorial illustrationâ€”not the real team, a site photograph, recovered wreckage or proof for any broader theory about Earhart and Fred Noonan.",
-    "amazonLinks": [
-      {"title":"Lost: Amelia Earhartâ€™s Three Mysterious Deaths and One Extraordinary Life","image":"https://m.media-amazon.com/images/P/1426222548.01.LZZZZZZZ.jpg","alt":"Cover of Lost: Amelia Earhartâ€™s Three Mysterious Deaths and One Extraordinary Life","quip":"A current National Geographic biography that separates Earhartâ€™s documented life from the competing endings attached to it.","salesPriority":5,"url":"https://www.amazon.com/dp/1426222548?tag=blappos-20"},
-      {"title":"Archaeology from Space","image":"https://m.media-amazon.com/images/P/1250231345.01.LZZZZZZZ.jpg","alt":"Cover of Archaeology from Space by Sarah Parcak","quip":"The ideal primer on turning satellite patterns into hypothesesâ€”and then doing the inconvenient fieldwork.","salesPriority":5,"url":"https://www.amazon.com/dp/1250231345?tag=blappos-20"},
-      {"title":"East to the Dawn: The Life of Amelia Earhart","image":"https://m.media-amazon.com/images/P/030681837X.01.LZZZZZZZ.jpg","alt":"Cover of East to the Dawn by Susan Butler","quip":"A deeply researched life of the aviator behind the mystery, for readers ready to put the person before the blurry object.","salesPriority":4,"url":"https://www.amazon.com/dp/030681837X?tag=blappos-20"}
-    ],
-    "source": "https://www.smithsonianmag.com/smart-news/researchers-claimed-a-blurry-object-on-apple-maps-was-very-likely-amelia-earharts-missing-plane-it-turned-out-to-be-a-collection-of-large-trees-180989734/",
-    "sourceName": "Read Smithsonian Magazineâ€™s October 22 report and Purdueâ€™s field result",
-    "sourcePublisher": "Smithsonian Magazine / Purdue University",
-    "socialSummary": "Smithsonian Magazine reported October 22 that a 17-person expedition checked the Taraia Object near Nikumaroro and found it was most likely washed-up trees, not Amelia Earhartâ€™s Electra.",
-    "socialPunchline": "Blappos: The plane was trees."
-  },
-  {
-    "id": "oct22-busan-shark-return",
-    "isoDate": "2026-10-22",
-    "month": "October",
-    "date": "Oct 22, 2026",
-    "place": "Busan, South Korea",
-    "image": "assets/cards/2026-10-22-busan-shark-return.webp",
-    "title": "Busan Guides a Shark to Sea. The Shark Files for Reentry","magnetUrl":"https://blappos.printify.me/product/33452594","magnetPrice":"$9.99",
-    "facts": "The Associated Press reported on October 22 that Busan workers guided a 3-meter female dusky shark nicknamed Bukangi out of a North Port canal during a third rescue attemptâ€”then watched her swim beneath an outer barrier and return hours later. First spotted in mid-September, the endangered shark had drawn more than 1.7 million visitors. Officials said she was then circling between two nets while rescuers considered the next move.",
-    "why": "This was not a mascot stunt. Officials cited the animalâ€™s safety, the lack of signs that she had been feeding regularly and falling water temperature. Marine scientists had no confirmed explanation for her preference, although port noise, lights, equipment and the canalâ€™s relative quiet were possible influences. The failed exit shows why moving a large wild animal is a behavioral and welfare problem, not simply a matter of pointing toward open water.",
-    "angle": "Verified rescue status, welfare concerns and uncertainty end above. The Blappos interpretation: Busan built an exit and Bukangi exercised the canalâ€™s return policy. The magnetâ€™s shark, workers, net, platform and skyline are original editorial illustrationâ€”not the real rescue scene, a handling guide or an invitation to approach or disturb the animal.",
-    "amazonLinks": [
-      {"title":"Sharks of the World","image":"https://m.media-amazon.com/images/P/0691120722.01.LZZZZZZZ.jpg","alt":"Cover of Sharks of the World from Princeton Field Guides","quip":"A global identification guide for telling a dusky shark from every other fin with a publicity department.","salesPriority":5,"url":"https://www.amazon.com/dp/0691120722?tag=blappos-20"},
-      {"title":"The Secret Life of Sharks","image":"https://m.media-amazon.com/images/P/1416578331.01.LZZZZZZZ.jpg","alt":"Cover of The Secret Life of Sharks by A. Peter Klimley","quip":"Behavioral science for understanding why a sharkâ€™s route choice may be more complicated than the nearest exit sign.","salesPriority":5,"url":"https://www.amazon.com/dp/1416578331?tag=blappos-20"},
-      {"title":"The Lives of Sharks","image":"https://m.media-amazon.com/images/P/0691244316.01.LZZZZZZZ.jpg","alt":"Cover of The Lives of Sharks by Daniel Abel and R. Dean Grubbs","quip":"A modern natural history of shark ecology, conservation and movementâ€”useful context for one endangered canal celebrity.","salesPriority":4,"url":"https://www.amazon.com/dp/0691244316?tag=blappos-20"}
-    ],
-    "source": "https://apnews.com/article/south-korea-shark-bukangi-busan-canal-c1aee6f075f51ffd1cb32cbe26f55bb7",
-    "sourceName": "Read the Associated Press report from October 22",
-    "sourcePublisher": "Associated Press",
-    "socialSummary": "The Associated Press reported that a 3-meter endangered dusky shark was guided out of a Busan canal on October 21, then slipped beneath a barrier and returned hours later as officials planned another safe exit.",
-    "socialPunchline": "Blappos: The canal has a return policy."
-  },
-  {
-    "id": "oct22-chameleon-tree-rescue",
-    "isoDate": "2026-10-22",
-    "month": "October",
-    "date": "Oct 22, 2026",
-    "place": "Forsyth County, Georgia",
-    "image": "assets/cards/2026-10-22-chameleon-tree-rescue.webp",
-    "title": "Georgia Firefighters Upgrade â€˜Cat in a Treeâ€™ to Chameleon","magnetUrl":"https://blappos.printify.me/product/33452595","magnetPrice":"$9.99",
-    "facts": "UPI reported on October 22 that Forsyth County firefighters answered an unusual animal call after a pet chameleon climbed high into a tree. The department said Station 14/C brought the animal safely down and joked that crews had moved on from cats in trees. Local coverage dates the rescue photo to October 12, so the incident clock and the national publication clock are not the same.",
-    "why": "A chameleon is an expert climber, a poor candidate for an improvised grab and a pet whose heat, hydration and stress needs differ from a catâ€™s. The useful takeaway is not that every wandering reptile requires a fire engine; it is that a high, unsafe retrieval belongs with trained responders and that exotic-pet containment should be designed around the animalâ€™s actual abilities.",
-    "angle": "Verified department account, safe outcome and two-clock boundary end above. The Blappos interpretation: cats were apparently too easy to see. The magnetâ€™s firefighters, ladder, carrier, engine and vivid chameleon are original editorial illustrationâ€”not the real crew, department apparatus, a species identification or a do-it-yourself rescue method.",
-    "amazonLinks": [
-      {"title":"The Chameleon Handbook","image":"https://m.media-amazon.com/images/P/0764141422.01.LZZZZZZZ.jpg","alt":"Cover of The Chameleon Handbook","quip":"Practical husbandry context for the pet whose preferred containment boundary turned out to be â€˜somewhere above the ladder.â€™","salesPriority":5,"url":"https://www.amazon.com/dp/0764141422?tag=blappos-20"},
-      {"title":"Chameleons: Care and Breeding of Jacksonâ€™s, Panther, Veiled, and Parsonâ€™s","image":"https://m.media-amazon.com/images/P/1882770951.01.LZZZZZZZ.jpg","alt":"Cover of Chameleons: Care and Breeding of Jacksonâ€™s, Panther, Veiled, and Parsonâ€™s","quip":"Species-specific habitat and care guidance for preventing the sequel before the next branch office opens.","salesPriority":5,"url":"https://www.amazon.com/dp/1882770951?tag=blappos-20"},
-      {"title":"Exotic Animal Emergency and Critical Care Medicine","image":"https://m.media-amazon.com/images/P/1119149231.01.LZZZZZZZ.jpg","alt":"Cover of Exotic Animal Emergency and Critical Care Medicine","quip":"The professional reference behind a basic rule: unusual animals deserve species-aware handling, not confident improvisation.","salesPriority":4,"url":"https://www.amazon.com/dp/1119149231?tag=blappos-20"}
-    ],
-    "source": "https://www.upi.com/Odd_News/2026/10/22/chameleon-tree-forsyth-county-georgia/2111792688158/",
-    "sourceName": "Read UPIâ€™s October 22 report and the fire department account",
-    "sourcePublisher": "UPI / Forsyth County Fire Department",
-    "socialSummary": "UPI reported October 22 that Forsyth County firefighters safely brought a pet chameleon down after it climbed high into a tree; local coverage dates the rescue photo to October 12.",
-    "socialPunchline": "Blappos: Cats were too easy to see."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct22StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct22StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
-// October 22 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
-
-// October 23 edition. These stories remain hidden from the public collection
-// until the Printify workflow publishes and links each exact physical magnet.
-const oct23StagingStories = [
-  {
-    "id": "oct23-miami-piano",
-    "isoDate": "2026-10-23",
-    "month": "October",
-    "date": "Oct 23, 2026",
-    "place": "Miami, Florida",
-    "image": "assets/cards/2026-10-23-miami-piano.webp",
-    "title": "Miami Coach Lifts a Pianoâ€™s Worth for Six Seconds","magnetUrl":"https://blappos.printify.me/product/33485923","magnetPrice":"$9.99",
-    "facts": "WLRN Public Media reported on October 23 that Miami fitness coach Lilian M. Zamora Alonso holds the Guinness World Records title for the heaviest weighted hip thrust by a woman: 639 pounds, or 289.90 kilograms. She made the lift at Miami Iron Gym on March 27 after nearly a decade of training. The attempt required a straight line from knees through hips to shoulders to be held for six seconds, and certification arrived after a five-month review.",
-    "why": "The headline number hides the evidentiary work. Zamora Alonso said she had lifted 670 pounds in training but chose a lower official weight to reduce the risk of a recording or form error. A certified record is therefore not simply the largest gym claim; it is a measured performance inside a defined category, with repeatable form, witnesses and review. Readers should also treat it as an elite athletic featâ€”not a safe starting prescription.",
-    "angle": "Verified record, rules and timeline end above. The Blappos interpretation: Miami briefly made a piano obey leg day. The magnetâ€™s anonymous athlete, plates, stopwatch, arena and skyline are original editorial illustrationâ€”not Zamora Alonso, documentary evidence, a Guinness mark or exercise instruction. Do not attempt a maximal lift without qualified coaching, appropriate equipment and progressive training.",
-    "amazonLinks": [
-      {"title":"Glute Lab: The Art and Science of Strength and Physique Training","image":"https://m.media-amazon.com/images/P/1628603461.01.LZZZZZZZ.jpg","alt":"Cover of Glute Lab by Bret Contreras and Glen Cordoza","quip":"The exercise-specific reference for understanding why a hip thrust is more technique than punchline.","salesPriority":5,"url":"https://www.amazon.com/dp/1628603461?tag=blappos-20"},
-      {"title":"Strength Training Anatomy, 3rd Edition","image":"https://m.media-amazon.com/images/I/5125uehJ+dL.jpg","alt":"Cover of Strength Training Anatomy, 3rd Edition by Frederic Delavier","quip":"A visual map of the muscles and mechanics behind the six seconds that count.","salesPriority":5,"url":"https://www.amazon.com/dp/B01IUXRAPQ?tag=blappos-20"},
-      {"title":"Starting Strength: Basic Barbell Training, Third Edition","image":"https://m.media-amazon.com/images/P/0982522738.01.LZZZZZZZ.jpg","alt":"Cover of Starting Strength by Mark Rippetoe","quip":"A fundamentals-first barbell guide for readers inspired by the record but sensible enough not to open at 639 pounds.","salesPriority":4,"url":"https://www.amazon.com/dp/0982522738?tag=blappos-20"}
-    ],
-    "source": "https://www.wlrn.org/sports/2026-10-23/miami-fitness-coach-weightlifting-guinness-world-record",
-    "sourceName": "Read WLRN Public Mediaâ€™s October 23 report and interview",
-    "sourcePublisher": "WLRN Public Media / Guinness World Records",
-    "socialSummary": "WLRN Public Media reported October 23 that Miami coach Lilian M. Zamora Alonso earned the womenâ€™s weighted hip-thrust record with 639 pounds held in the required straight-line position for six seconds.",
-    "socialPunchline": "Blappos: Miami made a piano obey leg day."
-  },
-  {
-    "id": "oct23-lionfish-tasting",
-    "isoDate": "2026-10-23",
-    "month": "October",
-    "date": "Oct 23, 2026",
-    "place": "Santorini, Greece",
-    "image": "assets/cards/2026-10-23-lionfish-tasting.webp",
-    "title": "Santorini Sets a Record by Eating the Invasion","magnetUrl":"https://blappos.printify.me/product/33485928","magnetPrice":"$9.99",
-    "facts": "The EU-funded GuardIAS project announced on October 23 that 370 people in Santorini earned a Guinness World Records title for the largest lionfish tasting event. At the October 22 gathering, 30 chefs prepared 20 recipes and each qualifying participant tasted at least three. GuardIAS identifies the fish as Pterois miles, an Indo-Pacific predator that entered the Mediterranean through the Suez Canal and has expanded rapidly in the eastern basin.",
-    "why": "The record was a conservation intervention with a scoreboard. GuardIAS says complete eradication is no longer realistic across the lionfishâ€™s established range, but targeted removals can reduce local populations, particularly in sensitive areas. Creating a safe, traceable food market may give fishers an economic reason to remove the invader, but consumption is one management toolâ€”not permission for untrained handling, unlimited harvest or claims that dinner alone repairs an ecosystem.",
-    "angle": "The record, species, participant total and management rationale come from GuardIAS; the claim ceiling ends there. The Blappos interpretation: Santorini put the ecological problem on small plates. The magnetâ€™s fish, chefs, diners and caldera are original editorial illustrationâ€”not an event photograph, food-safety guide, harvest instruction or promise that every lionfish meal produces a conservation benefit.",
-    "amazonLinks": [
-      {"title":"The Lionfish Cookbook","image":"https://m.media-amazon.com/images/P/0615428924.01.LZZZZZZZ.jpg","alt":"Cover of The Lionfish Cookbook by Tricia Ferguson and Lad Akins","quip":"The topic-specific recipe book that turns one invasive predator into carefully prepared dinner.","salesPriority":5,"url":"https://www.amazon.com/dp/0615428924?tag=blappos-20"},
-      {"title":"Cook Lionfish: Recipes Suitable for Any White Fish","image":"https://m.media-amazon.com/images/P/0578866625.01.LZZZZZZZ.jpg","alt":"Cover of Cook Lionfish by Claire Wood and Polly Alford","quip":"A practical follow-up for the part of conservation gastronomy that happens after trained harvesters handle the spines.","salesPriority":5,"url":"https://www.amazon.com/dp/0578866625?tag=blappos-20"},
-      {"title":"Green Fig and Lionfish: Sustainable Caribbean Cooking","image":"https://m.media-amazon.com/images/P/1642501646.01.LZZZZZZZ.jpg","alt":"Cover of Green Fig and Lionfish by Allen Susser","quip":"Seventy sustainable Caribbean recipes that put the eat-the-invader idea into a broader food culture.","salesPriority":4,"url":"https://www.amazon.com/dp/1642501646?tag=blappos-20"}
-    ],
-    "source": "https://guardias.eu/guardias-and-the-university-of-the-aegean-achieve-guinness-world-records-title-for-the-largest-lionfish-tasting-event/",
-    "sourceName": "Read GuardIAS and the University of the Aegeanâ€™s October 23 primary account",
-    "sourcePublisher": "GuardIAS / University of the Aegean",
-    "socialSummary": "GuardIAS announced October 23 that 370 participants in Santorini set a record by each tasting at least three lionfish dishes, using gastronomy to support targeted removal of an invasive Mediterranean predator.",
-    "socialPunchline": "Blappos: The ecological problem arrived on small plates."
-  },
-  {
-    "id": "oct23-kangaroo-rumors",
-    "isoDate": "2026-10-23",
-    "month": "October",
-    "date": "Oct 23, 2026",
-    "place": "Mount Pleasant, Tennessee",
-    "image": "assets/cards/2026-10-23-kangaroo-rumors.webp",
-    "title": "Runaway Kangaroo Travels 15 Miles by Rumor, Zero by Road","magnetUrl":"https://blappos.printify.me/product/33485932","magnetPrice":"$9.99",
-    "facts": "WSMV reported on October 23 that Ollie, a pet kangaroo missing from Mount Pleasant since October 21, was found safe on Mack Benderman Roadâ€”the same road where he had last been seen wearing a purple collar and leash. Neighbors used social-media reports and sightings to track the search. One report placed him about 15 miles away near Riverside in Columbia, but the final location did not establish that Ollie ever traveled that distance.",
-    "why": "A search map records reports, not verified animal movement. That distinction matters whenever a community search turns sightings into an apparent route: duplicated, mistaken or delayed reports can make the subject look faster and farther-traveled than the evidence supports. The confirmed outcome is narrower and happierâ€”Ollie was found safe near the original location after neighbors helped circulate information.",
-    "angle": "The dates, reported sighting, recovery road and safe return end above. The Blappos interpretation: the kangaroo traveled 15 miles by rumor and stayed on the same road in real life. The magnetâ€™s animal, neighbors, map pins, phones and Tennessee road are original editorial illustrationâ€”not Ollie, his owners, a verified movement map or guidance for approaching an escaped exotic animal.",
-    "amazonLinks": [
-      {"title":"Kangaroos: Biology of the Largest Marsupials","image":"https://m.media-amazon.com/images/P/0801482623.01.LZZZZZZZ.jpg","alt":"Cover of Kangaroos by Terence J. Dawson","quip":"The biology, locomotion and behavior reference for the animal behind Tennesseeâ€™s least reliable travel map.","salesPriority":5,"url":"https://www.amazon.com/dp/0801482623?tag=blappos-20"},
-      {"title":"Australian Mammals: Biology and Captive Management","image":"https://m.media-amazon.com/images/P/1486315275.01.LZZZZZZZ.jpg","alt":"Cover of Australian Mammals by Stephen Jackson","quip":"Professional husbandry context for a story where secure containment matters more than a charming ending.","salesPriority":5,"url":"https://www.amazon.com/dp/1486315275?tag=blappos-20"},
-      {"title":"Explore My World: Kangaroos","image":"https://m.media-amazon.com/images/P/1426331576.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Kids Explore My World: Kangaroos by Jill Esbaum","quip":"A photo-rich, family-friendly guide to the marsupial everyone in Maury County was suddenly studying.","salesPriority":4,"url":"https://www.amazon.com/dp/1426331576?tag=blappos-20"}
-    ],
-    "source": "https://www.wsmv.com/2026/10/23/ollie-tennessee-kangaroo-is-back-home-safe-heres-what-owners-say-happened/",
-    "sourceName": "Read WSMVâ€™s October 23 local report",
-    "sourcePublisher": "WSMV4",
-    "socialSummary": "WSMV reported October 23 that Ollie, a pet kangaroo missing since October 21, was found safe on the same Mount Pleasant road where he was last seen; a sighting 15 miles away was never a verified travel route.",
-    "socialPunchline": "Blappos: Fifteen miles by rumor, zero by road."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct23StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct23StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
-// October 23 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
-// October 23 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
-
-// October 24 edition. These stories remain hidden from the public collection
-// until the Printify workflow publishes and links each exact physical magnet.
-const oct24StagingStories = [
-  {
-    "id": "oct24-las-vegas-no-tip",
-    "isoDate": "2026-10-24",
-    "month": "October",
-    "date": "Oct 24, 2026",
-    "place": "Las Vegas Strip, Nevada",
-    "image": "assets/cards/2026-10-24-las-vegas-no-tip.webp",
-    "title": "Las Vegas Puts â€˜Tipping Is Not Requiredâ€™ on the Skyline","magnetUrl":"https://blappos.printify.me/product/33522636","magnetPrice":"$9.99",
-    "facts": "LiveNOW from FOX reported on October 24 that Clark County had begun displaying â€˜When watching performances or taking a photo, tipping is NOT requiredâ€™ on digital message boards along the Las Vegas Strip. The messages started October 16 and address aggressive solicitation and false claims that a gratuity is mandatory; they do not discourage voluntary tips. The county action followed a September 30 confrontation in which tourists said a $20 payment led to escalating demands. Arrest-report allegations from that encounter remain allegations, not findings of guilt.",
-    "why": "The sign turns a murky social custom into a plain consumer boundary. A performer may request payment and a visitor may tip, but neither makes a voluntary gratuity legally compulsory. That distinction matters in a crowded tourism district where costumes, urgency and public pressure can make an invented rule feel official. It also shows a modest form of public-interest design: put the corrective statement where the disputed demand happens, in language that survives a three-second glance.",
-    "angle": "The county message, its start date and the reported trigger end above. The Blappos interpretation: Las Vegas has installed a giant subtitle for the word optional. The magnetâ€™s tourists, performers, neon sign and skyline are original editorial illustrationâ€”not the real parties, a Strip photograph, a casino endorsement or a suggestion that performers should never be tipped for consensual work.",
-    "amazonLinks": [
-      {"title":"Tipping: An American Social History of Gratuities","image":"https://m.media-amazon.com/images/P/0786442468.01.LZZZZZZZ.jpg","alt":"Cover of Tipping: An American Social History of Gratuities by Kerry Segrave","quip":"The social history behind the custom Clark County had to explain in six giant words.","salesPriority":5,"url":"https://www.amazon.com/dp/0786442468?tag=blappos-20"},
-      {"title":"Emily Postâ€™s Etiquette, 19th Edition","image":"https://m.media-amazon.com/images/I/71wV1q6X8UL._SL1500_.jpg","alt":"Cover of Emily Postâ€™s Etiquette, 19th Edition","quip":"A modern manners reference for separating a welcome gratuity from an invented mandatory fee.","salesPriority":5,"url":"https://www.amazon.com/dp/0062439251?tag=blappos-20"},
-      {"title":"The Strip: Las Vegas and the Architecture of the American Dream","image":"https://m.media-amazon.com/images/P/0262544911.01.LZZZZZZZ.jpg","alt":"Cover of The Strip by Stefan Al","quip":"A history of the built spectacle now hosting the worldâ€™s most architectural reminder that optional still means optional.","salesPriority":4,"url":"https://www.amazon.com/dp/0262544911?tag=blappos-20"}
-    ],
-    "source": "https://www.livenowfox.com/news/las-vegas-tipping-costumed-strip-performers",
-    "sourceName": "Read LiveNOW from FOXâ€™s October 24 report and the cited Clark County message",
-    "sourcePublisher": "LiveNOW from FOX / Clark County",
-    "socialSummary": "LiveNOW from FOX reported October 24 that Clark County is using Strip message boards to tell visitors that tips for photos or performances are optional, targeting aggressive demands without discouraging voluntary gratuities.",
-    "socialPunchline": "Blappos: Las Vegas installed a giant subtitle for the word optional."
-  },
-  {
-    "id": "oct24-rolling-snakes",
-    "isoDate": "2026-10-24",
-    "month": "October",
-    "date": "Oct 24, 2026",
-    "place": "Southeast Asia",
-    "image": "assets/cards/2026-10-24-rolling-snakes.webp",
-    "title": "Dwarf Snakes Discover Four-Wheel Drive Without Wheels","magnetUrl":"https://blappos.printify.me/product/33522640","magnetPrice":"$9.99",
-    "facts": "ScienceDaily reported on October 24 that Toho University researchers had documented a rolling locomotion mode in dwarf reedsnakes using synchronized multi-angle video. In controlled trials, the snakes reached peak rolling speeds of 1.72 to 3.69 meters per secondâ€”about four times their lateral-undulation speedâ€”and followed a roughly 20-centimeter-wide track. Their heads stayed forward and relatively stable while the body rolled, and the team published the work in Current Biology.",
-    "why": "A rolling vertebrate is more than a novelty reel. The measurements distinguish sustained, directed locomotion from a defensive tumble or accidental fall: the animals repeatedly combined rolling and ordinary strokes while keeping the head oriented for navigation. That expands the known movement repertoire of limbless animals and gives biomechanics and robotics researchers a compact example of how body geometry can trade continuous contact for short bursts of speed.",
-    "angle": "The measured speeds, track width, head stability and paper venue end above. The Blappos interpretation: the snake did not reinvent the wheel; it filed the wheel as a whole-body expense. The magnetâ€™s snake, forest track, motion rings and field marks are original scientific satireâ€”not one study animal, a video frame, a species-identification guide or proof that every dwarf reedsnake uses the behavior in the wild.",
-    "amazonLinks": [
-      {"title":"How Snakes Work","image":"https://m.media-amazon.com/images/I/616fFL5NpgL.jpg","alt":"Cover of How Snakes Work by Harvey B. Lillywhite","quip":"The functional-biology reference for the animal that just added â€˜become the wheelâ€™ to its movement menu.","salesPriority":5,"url":"https://www.amazon.com/dp/0195380371?tag=blappos-20"},
-      {"title":"Snakes: The Evolution of Mystery in Nature","image":"https://m.media-amazon.com/images/I/91Oi3-h+6wL._SL1500_.jpg","alt":"Cover of Snakes: The Evolution of Mystery in Nature by Harry W. Greene","quip":"A natural-history classic for placing one spectacular locomotion result inside the larger evolution of snakes.","salesPriority":5,"url":"https://www.amazon.com/dp/0520224876?tag=blappos-20"},
-      {"title":"How to Walk on Water and Climb up Walls","image":"https://m.media-amazon.com/images/I/7132OOuFrRL._SL1500_.jpg","alt":"Cover of How to Walk on Water and Climb up Walls by David Hu","quip":"Animal movement meets robot designâ€”the perfect bridge from rolling snake biomechanics to machines with better ideas.","salesPriority":4,"url":"https://www.amazon.com/dp/0691169861?tag=blappos-20"}
-    ],
-    "source": "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
-    "sourceName": "Read ScienceDailyâ€™s October 24 research digest and the linked Current Biology paper",
-    "sourcePublisher": "ScienceDaily / Toho University / Current Biology",
-    "socialSummary": "ScienceDaily reported October 24 that researchers filmed dwarf reedsnakes using directed rolling locomotion at peak speeds about four times their ordinary lateral undulation while keeping their heads relatively stable.",
-    "socialPunchline": "Blappos: The snake filed the wheel as a whole-body expense."
-  },
-  {
-    "id": "oct24-ai-breakfast-soda",
-    "isoDate": "2026-10-24",
-    "month": "October",
-    "date": "Oct 24, 2026",
-    "place": "Northern Ireland, United Kingdom",
-    "image": "assets/cards/2026-10-24-ai-breakfast-soda.webp",
-    "title": "Just Eat Puts Breakfast in a Pint, Then Pauses the Robot Camera","magnetUrl":"https://blappos.printify.me/product/33522643","magnetPrice":"$9.99",
-    "facts": "Al Jazeera reported on October 24 that Just Eat had apologized after a trial of AI-generated menu images grossly misrepresented some dishes and was paused for further development. The test applied labeled synthetic images to listings that lacked restaurant-supplied photos. Earlier detailed reporting showed the standout failure: a Northern Irish soda bread breakfast was interpreted as bacon, egg and sausage floating in a cola-like pint rather than food served with soda bread.",
-    "why": "A menu image is a factual product claim, even when it is aesthetically persuasive and labeled as synthetic. Generating one without checking the cuisine, ingredients and plating can turn a helpful placeholder into false advertising at the exact moment a customer decides what to buy. The remedy is not just a better prompt: restaurants need approval, humans need a comparison target, uncertain dishes need no image, and mistakes need a visible correction path.",
-    "angle": "The trial, label, failure mode, apology and pause end above. The Blappos interpretation: the model saw â€˜soda breadâ€™ and promoted breakfast to beverage service. The magnetâ€™s pint, food, diner, server and glitching tablet are original editorial illustrationâ€”not the live listing, a restaurantâ€™s dish, an edible recipe, a Just Eat interface or proof that every image in the trial was inaccurate.",
-    "amazonLinks": [
-      {"title":"AI Snake Oil","image":"https://m.media-amazon.com/images/I/81GVLk9TznL._SL1500_.jpg","alt":"Cover of AI Snake Oil by Arvind Narayanan and Sayash Kapoor","quip":"A practical guide to asking what AI can actually verify before it puts breakfast in a glass.","salesPriority":5,"url":"https://www.amazon.com/dp/069124913X?tag=blappos-20"},
-      {"title":"The Food Lab","image":"https://m.media-amazon.com/images/I/71unTJwqvcL._SL1500_.jpg","alt":"Cover of The Food Lab by J. Kenji LÃ³pez-Alt","quip":"Evidence-based cooking for the useful distinction between soda bread and breakfast soda.","salesPriority":5,"url":"https://www.amazon.com/dp/0393081087?tag=blappos-20"},
-      {"title":"Food Photography: From Snapshots to Great Shots","image":"https://m.media-amazon.com/images/P/0134097254.01.LZZZZZZZ.jpg","alt":"Cover of Food Photography: From Snapshots to Great Shots by Nicole S. Young","quip":"The non-generative route to a menu image that resembles the food a customer will receive.","salesPriority":4,"url":"https://www.amazon.com/dp/0134097254?tag=blappos-20"}
-    ],
-    "source": "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder",
-    "sourceName": "Read Al Jazeeraâ€™s October 24 report and the earlier detailed reporting it followed",
-    "sourcePublisher": "Al Jazeera / The Independent / TechRadar",
-    "socialSummary": "Al Jazeera reported October 24 that Just Eat apologized and paused a trial of labeled AI menu images after some badly misrepresented dishes, including soda bread rendered as a pint of cola-like breakfast ingredients.",
-    "socialPunchline": "Blappos: The model promoted soda bread to beverage service."
-  }
-];
-window.dailyStories = window.dailyStories.filter(story => !oct24StagingStories.some(item => item.id === story.id));
-window.dailyStories.unshift(...oct24StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
-// October 24 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
-// October 24 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
-
-// October 25 edition. These stories remain hidden from the public collection
-// until the Printify workflow publishes and links each exact physical magnet.
-const oct25StagingStories = [
-  {
-    "id": "oct25-duck-ballot",
-    "isoDate": "2026-10-25",
-    "month": "October",
-    "date": "Oct 25, 2026",
-    "place": "Washington, D.C.",
-    "image": "assets/cards/2026-10-25-duck-ballot.webp",
-    "title": "D.C. Puts a 4Â½-Pound Duck on the Foie Gras Ballot",
-    "magnetUrl": "https://blappos.printify.me/product/33557440",
-    "magnetPrice": "$9.99",
-    "facts": "The Washington Post reported October 25 that Olivia, a 4Â½-pound Swedish Blue duck, had become the public mascot for D.C. Initiative 86, a November 3 ballot measure that would prohibit force-feeding birds and the sale of products made from force-fed birds, including foie gras. The official ballot formulation assigns routine enforcement to the Department of Energy and Environment. If approved, the law would take effect July 1, 2027, with civil penalties; the D.C. Council could later amend it through legislation.",
-    "why": "A charming campaign animal can focus attention, but it cannot replace the text voters are being asked to enact. The useful civic distinction is between the mascot, the advocates' animal-welfare case, opponents' objections about policy and wording, and the legally operative ballot summary. Reading those layers separately makes the story more than a photo opportunity and keeps a duck's popularity from being mistaken for statutory analysis.",
-    "angle": "The duck's breed and weight, the campaign role, the ballot date and the measure's stated effect end above. The Blappos interpretation: Washington has finally found a lobbyist whose entire platform fits into one quack. The magnet's duck, voters, podium, ballot box and skyline are original editorial illustrationâ€”not Olivia, a campaign logo, a Capitol photograph, voting advice or an endorsement of either side.",
-    "amazonLinks": [
-      {"title":"Contested Tastes: Foie Gras and the Politics of Food","image":"https://m.media-amazon.com/images/P/069118318X.01.LZZZZZZZ.jpg","alt":"Cover of Contested Tastes by Michaela DeSoucey","quip":"The book-length sociology of exactly how foie gras became a fight about taste, identity, animals and law.","salesPriority":5,"url":"https://www.amazon.com/dp/069118318X?tag=blappos-20"},
-      {"title":"The Citizen's Guide to Political Change","image":"https://m.media-amazon.com/images/P/B0DBFLFYB9.01.LZZZZZZZ.jpg","alt":"Cover of The Citizen's Guide to Political Change","quip":"A practical guide to ballot initiatives for everyone who wants to read past the mascot and into the mechanism.","salesPriority":5,"url":"https://www.amazon.com/dp/B0DBFLFYB9?tag=blappos-20"},
-      {"title":"Storey's Guide to Raising Ducks, 2nd Edition","image":"https://m.media-amazon.com/images/P/1603426922.01.LZZZZZZZ.jpg","alt":"Cover of Storey's Guide to Raising Ducks by Dave Holderread","quip":"The husbandry reference for understanding the actual bird behind Washington's most photogenic policy surrogate.","salesPriority":4,"url":"https://www.amazon.com/dp/1603426922?tag=blappos-20"}
-    ],
-    "source": "https://www.washingtonpost.com/dc-md-va/2026/10/25/meet-olivia-duck-quacking-keep-foie-gras-off-dc-menus/",
-    "sourceName": "Read The Washington Post's October 25 report and the official D.C. ballot formulation",
-    "sourcePublisher": "The Washington Post",
-    "socialSummary": "The Washington Post reported October 25 that Olivia, a 4Â½-pound Swedish Blue duck, is campaigning for D.C. Initiative 86, a November 3 ballot measure concerning force-feeding birds and sales of resulting foie gras products.",
-    "socialPunchline": "Blappos: Washington found a lobbyist whose whole platform fits into one quack."
-  },
-  {
-    "id": "oct25-tiny-people-mushroom",
-    "isoDate": "2026-10-25",
-    "month": "October",
-    "date": "Oct 25, 2026",
-    "place": "Yunnan, China / northern Philippines",
-    "image": "assets/cards/2026-10-25-tiny-people-mushroom.webp",
-    "title": "A Mushroom Apparently Hires Hundreds of Tiny People",
-    "magnetUrl": "https://blappos.printify.me/product/33557450",
-    "magnetPrice": "$9.99",
-    "facts": "ScienceDaily's October 25 research digest revisited a 2026 Mycologia study in which DNA sequencing linked reports from southwest China and the northern Philippines to Lanmaoa asiatica. Independent accounts describe lilliputian hallucinations: numerous tiny human, animal or fantasy figures moving through the real environment. The University of Utah team found no close genomic matches to known biosynthetic genes for psilocybin or ibotenic acid, so the responsible compound and mechanism remain unknown.",
-    "why": "The result is an identification and a research lead, not an invitation to experiment. Similar reports across separated cultures make the phenomenon scientifically interesting, while the missing chemical explanation is the important uncertaintyâ€”not a license to fill the gap with folklore. Wild mushrooms are frequently misidentified, potentially poisonous and unsuitable for self-testing; the public value is in documented specimens, sequencing and controlled chemistry.",
-    "angle": "The October 25 digest clock, the earlier peer-reviewed study, the DNA link and the unknown-compound boundary end above. The Blappos interpretation: the mushroom does not contain a known psychedelic; it contains a fully staffed tiny-people department with unclear payroll. The magnet's mushroom, soup, spoon, miniature figures and Yunnan landscape are original surreal illustrationâ€”not a specimen photograph, identification guide, dosing advice or depiction of a verified individual experience.",
-    "amazonLinks": [
-      {"title":"Entangled Life","image":"https://m.media-amazon.com/images/P/052551032X.01.LZZZZZZZ.jpg","alt":"Cover of Entangled Life by Merlin Sheldrake","quip":"A lucid tour of fungal biology for the story where the organism is stranger than the familiar chemical explanation.","salesPriority":5,"url":"https://www.amazon.com/dp/052551032X?tag=blappos-20"},
-      {"title":"Mushrooms Demystified","image":"https://m.media-amazon.com/images/P/0898151694.01.LZZZZZZZ.jpg","alt":"Cover of Mushrooms Demystified by David Arora","quip":"A comprehensive field reference that also reinforces the first rule of mushroom mysteries: identify before you infer.","salesPriority":5,"url":"https://www.amazon.com/dp/0898151694?tag=blappos-20"},
-      {"title":"Fly Agaric: A Compendium","image":"https://m.media-amazon.com/images/P/0578714426.01.LZZZZZZZ.jpg","alt":"Cover of Fly Agaric edited by Kevin Feeney","quip":"History, pharmacology and folklore from a different psychoactive mushroomâ€”useful contrast for a species whose active agent is still unknown.","salesPriority":4,"url":"https://www.amazon.com/dp/0578714426?tag=blappos-20"}
-    ],
-    "source": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
-    "sourceName": "Read ScienceDaily's October 25 digest and the linked Mycologia study",
-    "sourcePublisher": "ScienceDaily",
-    "socialSummary": "ScienceDaily's October 25 digest highlighted a 2026 study linking reports of tiny-figure hallucinations in China and the Philippines to Lanmaoa asiatica; researchers still do not know the active compound or mechanism.",
-    "socialPunchline": "Blappos: The mushroom appears to maintain a fully staffed tiny-people department."
-  },
-  {
-    "id": "oct25-madrid-sheep-detour",
-    "isoDate": "2026-10-25",
-    "month": "October",
-    "date": "Oct 25, 2026",
-    "place": "Madrid, Spain",
-    "image": "assets/cards/2026-10-25-madrid-sheep-detour.webp",
-    "title": "Madrid Reroutes 1,410 Sheep and Goats Around a Protest Camp",
-    "magnetUrl": "https://blappos.printify.me/product/33557461",
-    "magnetPrice": "$9.99",
-    "facts": "The Associated Press reported October 25 that Madrid's annual Transhumance Festival rerouted its livestock procession around a housing protest camp in Puerta del Sol. A city notice identified 1,250 sheep and 160 goatsâ€”1,410 animals totalâ€”and said the reception moved to Plaza de la Villa because the usual route could not cross the square. The protest followed the eviction of 87-year-old MarÃ­a del Carmen Abascal from her longtime home and her death in hospital shortly afterward.",
-    "why": "The detour joins three real urban systems: a protected civic demonstration, a modern city route and an ancient seasonal livestock tradition. Transhumance is not merely pageantry; grazing animals can clear brush and other flammable growth, while the festival preserves knowledge that has declined with rural depopulation and industrial farming. The humane joke is the traffic plan, not the housing crisis or the death that intensified it.",
-    "angle": "The AP report, municipal animal count, changed route and protest context end above. The Blappos interpretation: Madrid's traffic desk successfully rescheduled 1,410 bell-equipped pedestrians with no driver's licenses. The magnet's flock, shepherds, barriers, camp and square are original editorial illustrationâ€”not the real march, protesters, Maricarmen, an official route map or a claim that livestock resolved the housing dispute.",
-    "amazonLinks": [
-      {"title":"The Shepherd's Life","image":"https://m.media-amazon.com/images/P/1250060241.01.LZZZZZZZ.jpg","alt":"Cover of The Shepherd's Life by James Rebanks","quip":"A modern shepherd's account of the ancient work behind the flock that briefly became Madrid traffic.","salesPriority":5,"url":"https://www.amazon.com/dp/1250060241?tag=blappos-20"},
+YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ~y÷Ôèµ©hºÚn¶X§zÍ]Ú[™ÝË™Z[TÝÜšY\ÏVÂžÈšYŽˆ›ØÝLËXØ]X\™Û\‹YÙËX›ÝÛ‹š\ÛÑ]HŽˆŒŒ‹LLLLÈ‹›[ÛŽˆ“ØÝØ™\ˆŒˆ‹™]HŽˆ“ØÝLËŒˆ‹œXÙHŽˆ“Û™Û‹[™Û[™‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝLËXØ]X\™Û\‹YÙËX›ÝÛÙXœ‹]HŽˆHØ]\™Û\ˆÝX[ÈÛ›HHÙÈ›ÛÙ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌÌMŒÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•TH™\ÜYÛˆØÝØ™\ˆLÈ]š[™ÈRÈ	ˆ\™[[™Ú\™Y[™ÛÜ‹XØ[Y\˜H›ÛÝYÙHÙˆH™ZYÚ›ÜšÛÙØ][\š[™ÈHÛÝ]X\ÝÛ™ÛˆÛYH[™X][™Èœ›ÛH™\ÚY[ÙÈ›ÜÚYIÜÈ›ÝÛˆÛY[ÝÛ™\ˆ^\›ÛˆØ[XÙHØZY\È˜[Z[HØ\È\ÝZ\œÈ[™\ØÛÝ™\™YH[\Ú[ÛˆÛ›HY\ˆ›ÜÚYH˜\šÙYØ[YHÝÛˆHÝZ\œÈ[™Ú\ÙYHØ]˜XÚÈÝ]ÚYKˆ‹ÚHŽˆ•HØ[Y\˜H[™›ÜÚYIÜÈ™\ÜÛœÙH\ÝX›\ÚH[žKÛ˜XÚÈ[™^]]^HÈ›Ý\ÝX›\ÚHØ]	ÜÈ[Ý]™KÝÛ™\œÚ\ÜˆH™XÚ\ÙH]™[[YKˆHÛX[Ø\\ˆ[ÛÈ[\Ý˜]\ÈH˜XÝXØ[][K\]›Ø›[NˆÜ[ˆ›ÝÛÈØ[ˆ™YY[ˆ[š[[™Y[š[X[Ú[H[Ûš]Ü™YÜˆY[]KXÛÛ›ÛY™YY\œÈØ[ˆ[Z]XØÙ\ÜÈÚ]Ý]\›š[™ÈH›Ø[Z[™È][ÈHÜš[Z[˜[X\Ý\›Z[™ˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆÛ™Û‰ÜÈX\ÝÝXHØ]\™Û\ˆÚÚ\YH™]Ù[žK]HH]šY[˜ÙH[™Ý[šYÙÙ\™YHÝ\ÙZÛÙÈ[\›KˆHXYÛ™]\Ù\È[™[Y[š[X[ËHÙ[™\šXÈØ[Y\˜H[™[ˆÜšYÚ[˜[Ú]Ú[¸ %›ÈÛÜYY›ÛÝYÙKš[™ÈX\šËÛY[ÝÛ™\ˆZÙ[™\ÜÈÜˆÛZ[HX›Ý]H™X[Ø]	ÜÈ[[ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ”Ý\™Q™YYZXÜ›ØÚ\]™YY\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒÌRTKŒK“––––––‹šœÈ‹˜[Žˆ”Ý\™Q™YYZXÜ›ØÚ\]™YY\ˆ‹œ]Z\ŽˆHÙ[XÝ]™H™YY\ˆ›ÜˆÝ\ÙZÛÈ]ÛÝ[™Y™\ˆH™ZYÚ›ÜšÛÙØ]›Ý™XÛÙÛš^™H[›™\ˆ\È[ˆÜ[ˆ[š]][Û‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÌRTOÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H˜Z[˜X›HØ]‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLLLKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH˜Z[˜X›HØ]žH›Úˆœ˜YÚ]È[™Ø\˜Z[\È‹œ]Z\ŽˆHØÚY[˜ÙKX˜\ÙY™Z]š[ÜˆÝZYH›ÜˆXXÚ[™È›Ý[™\šY\È™Y›Ü™HHÙÈ\ÈÈ[ˆ™\ÚY[X[ÙXÝ\š]Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLLLOÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘XÛÙ[™È[Ý\ˆØ]‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLÌŽNL‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆXÛÙ[™È[Ý\ˆØ]žHH[Y\šXØ[ˆÛÛYÙHÙˆ™]\š[˜\žH™Z]š[Üš\ÝÈ‹œ]Z\Žˆ•™]\š[˜\žH™Z]š[Üˆ^\\ÙH›Üˆ[\œ™][™ÈHš\Ú]ÜˆÚ]Ý]\ÜÚYÛš[™È]H[žHÝš\Y\™Û\žH°ê\Ý[pêKˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLÌŽNLÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌLÌLËÓÛ™Û‹XØ]\ÝX[ËYÙËY›ÛÙTš[™ËXØ[Y\˜KÌLÌMÎLNLMLKÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆLÈTH™\Ü‹œÛÝ\˜ÙTX›\Ú\ˆŽˆ•TH‹œÛØÚX[Ý[[X\žHŽˆ•TH™\ÜY][™ÛÜ‹XØ[Y\˜H›ÛÝYÙHÚÝÙYH™ZYÚ›ÜšÛÙØ][\ˆHÛÝ]X\ÝÛ™ÛˆÛYH[™X]›ÜÚYIÜÈÙÈ›ÛÙ™Y›Ü™H›ÜÚYIÜÈ˜\šÚ[™È[™\œÝZ]Ù[]˜XÚÈÝ]ÚYKˆ‹œÛØÚX[[˜Ú[™HŽˆ›\ÜÎˆÛ™Û‰ÜÈØ]\™Û\ˆÛÚÈÛ›HHÙÈ›ÛÙ[™Ý[š\YHÙÈ[\›KˆŸKžÈšYŽˆ›ØÝLËLMLMË]Ú[›™\œÈ‹š\ÛÑ]HŽˆŒŒ‹LLLLÈ‹›[ÛŽˆ“ØÝØ™\ˆŒˆ‹™]HŽˆ“ØÝLËŒˆ‹œXÙHŽˆ“›ÜØ\›Û[˜H‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝLËLMLMË]Ú[›™\œËÙXœ‹]HŽˆŒLL^\ÈLMÈÚ[›™\œÈ]Û˜ÙH‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌÌMŒLŒˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•H›ÜØ\›Û[˜HYXØ][ÛˆÝ\žH™\ÜYÛˆØÝØ™\ˆLÈ]HØÝØ™\ˆLˆXÚÈÈ]™[š[™È˜]Ú[™È›ÙXÙYLL^Z[™ÈLMÈÚ[›š[™ÈXÚÙ]ÈHÛÛXš[™Y	KÍŒ‹ÍLËˆHÙ™šXÚX[^[Ý]™XÛÜ™Y[YšY\ÈH˜]È]KÚ[›™\ˆÛÝ[[™Ý[ÈH™^Y^H™]ÜÈÜÝ\ÈHX›XØ][ÛˆÛØÚË›ÝH˜]Ú[™ÈÛØÚËˆ‹ÚHŽˆ[žHÛ™H^XÝ™YKYYÚ]Ù\]Y[˜ÙH\ÈHØ[YHKZ[‹LKÚ[˜ÙH[ˆH˜Z\ˆXÚÈÈ˜]Ú[™Ëˆš\HYÚ]È\™HÜ[\ˆÚÚXÙ\ËÛÈ[ˆ[\ÝX[[ÛÚÚ[™È™\Ý[Ø[ˆÜ™X]HÝ\Ø[™ÈÙˆš^Y\š^™HÚ[›™\œÈ[™H\™ÙHÝ]]ÚYH^[Ý]Ú]Ý]™XÛÛZ[™È]šY[˜ÙH]LLØ\ÈYK™YXÝX›HÜˆH™]\ˆ]\™H™]ˆ‹˜[™ÛHŽˆ•™\šYšYYÝ\žH™XÛÜ™È[™H›Ø˜Xš[]H›Ý[™\žH[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆ›ÜØ\›Û[˜IÜÈÝ\žH\›Z[˜[œšYY›H™X›ÛÝYÚ]H˜XÝÜžH\ÜÝÛÜ™[™LMÈ[ÜH[™XYHÛ™]È]ˆHXYÛ™]\Ù\È[ˆ[™[YXXÚ[™KXÚÙ]È[™^[Ý]\Ü^x %›ÈÙ™šXÚX[X\šËÛÜYYXÚÙ]Üˆ›ÛZ\ÙHÙˆØ[X›[™ÈÝXØÙ\ÜËˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•H[šØ\™	ÜÈØ[ÎˆÝÈ˜[™Û[™\ÜÈ[\ÈÝ\ˆ]™\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌÌÍLMÍKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH[šØ\™	ÜÈØ[ÈžH[Û˜\™[Ù[›ÝÈ‹œ]Z\Žˆ[ˆXØÙ\ÜÚX›HÝZYHÈ˜[™Û[™\ÜÈ›ÜˆH[ÛY[™YH™\›ÜÈÛÚÈZÙH\Ý[žH[œÝXYÙˆÛ™HÝ]ÛÛYH[[Û™ÈHÝ\Ø[™ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌÌÍLMÍOÝYÏX›\ÜËLŒŸKÈ]HŽˆ’ÝÈ›ÝÈ™HÜ›Û™ÎˆHÝÙ\ˆÙˆX][X]XØ[[šÚ[™È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÌLÍLÍKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÝÈ›ÝÈ™HÜ›Û™ÈžH›Ü™[ˆ[[˜™\™È‹œ]Z\Žˆ“X][X]XØ[[šÚ[™È›ÜˆÙ\\˜][™ÈHY[[Ü˜X›H^[Ý]œ›ÛHH™\X]X›HY˜[YÙKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÌLÍLÍOÝYÏX›\ÜËLŒŸKÈ]HŽˆ•[šÚ[™È[ˆ™]È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌÍLŒMŒÍÌKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ[šÚ[™È[ˆ™]ÈžH[›šYHZÙH‹œ]Z\ŽˆHXÚ\Ú[Û‹[XZÚ[™È›ÛÚÈ›ÜˆÙY\[™ÈÛ™HÜXÝXÝ[\ˆ™\Ý[œ›ÛH™]Üš][™ÈÚ]HÙÈYX[™Y›Ü™Z[™ˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌÍLŒMŒÍÌOÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÛ˜ÛÝ\žK˜ÛÛKÓ™]ÜÐ›ÙÑ]Z[ËÌŒ‹ÌLÌLËÔXÚËLË\^Y\œË]Ú[‹[Ý™\‹LYÝË[Z[[Û‹[Û‹LLL‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆLÈ›ÜØ\›Û[˜HYXØ][ÛˆÝ\žH™\Ü‹œÛÝ\˜ÙTX›\Ú\ˆŽˆ“›ÜØ\›Û[˜HYXØ][ÛˆÝ\žH‹œÛØÚX[Ý[[X\žHŽˆ•H›ÜØ\›Û[˜HYXØ][ÛˆÝ\žHØZYHØÝØ™\ˆLˆXÚÈÈ]™[š[™È™\Ý[LLZYLMÈÚ[›š[™ÈXÚÙ]ÈHÛÛXš[™Y	KÍŒ‹ÍLÎÈHYÙ[˜ÞHX›\ÚYH^[Ý]ÛˆØÝØ™\ˆLËˆ‹œÛØÚX[[˜Ú[™HŽˆ›\ÜÎˆHÝ]]ÚYH\›Z[˜[™X›ÛÝYÚ]H˜XÝÜžH\ÜÝÛÜ™[™LMÈ[ÜHÛ™]È]ˆŸKžÈšYŽˆ›ØÝLË\\œÙ]™\˜[˜ÙKY\Ý[˜ÙK\™XÛÜ™‹š\ÛÑ]HŽˆŒŒ‹LLLLÈ‹›[ÛŽˆ“ØÝØ™\ˆŒˆ‹™]HŽˆ“ØÝLËŒˆ‹œXÙHŽˆ’™^™\›ÈÜ˜]\‹X\œÈ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝLË\\œÙ]™\˜[˜ÙKY\Ý[˜ÙK\™XÛÜ™ÙXœ‹]HŽˆH›Ø›Ý™XÛÛY\ÈHÙ™‹UÛÜ›Z[XYÙHÚ[™È‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌÌMŒMÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ”™]]\œÈ™\ÜYÛˆØÝØ™\ˆLÈ]TÐIÜÈÚ^]ÚY[Y\œÙ]™\˜[˜ÙH›Ý™\ˆYš]™[ˆŽŒHZ[\È
+KŒˆÚ[ÛY]\œÊHÛˆX\œËÝ\œ\ÜÚ[™ÈÜÜ[š]IÜÈ\Ý[˜ÙH™XÛÜ™›Üˆ[žH™ZXÛHÛˆHÛÜ›™^[Û™X\ˆTÐIÜÈÝÛˆÛÛ\\š\ÛÛˆX\šÜÈHZ[XYÙH\ÈÙˆØÝØ™\ˆLNÈ\œÙ]™\˜[˜ÙH[™Y[ˆ™^™\›ÈÜ˜]\ˆÛˆ™XœX\žHNŒŒKˆ‹ÚHŽˆ•\È\ÈH\Ý[˜ÙKX[™Y\˜Xš[]H™XÛÜ™›ÝHÜYY™XÛÜ™ˆH™]›Ü[Ú[ÛˆX›Ü˜]ÜžH›Ú™XÝX[˜YÙ\ˆÛ™]]\œÈ]X›Ý]L	HÙˆ\œÙ]™\˜[˜ÙIÜÈš]™\È\™H]]Û›Û[Ý\ÎˆH›Ý™\ˆ\Ù\ÈÝ\™[È[XYÙ\ËHÑ\œ˜Z[ˆX\[™Û˜›Ø\™]Ù[XÝ[ÛˆÈ˜]™[ØY™[H™]ÙY[ˆÛØ[È\Ü]HHÛÛ[][šXØ][ÛœÈ[^H™]ÙY[ˆX\[™X\œËˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆHÛÛ\ˆÞ\Ý[IÜÈYÚ\Ý[Z[XYÙH\ÙYØ\ˆ\ÈÛ™HÝÛ™\‹ŽŒHZ[\Ë^[œÚ]™HÙ™‹\›ØY\ÙH[™XœÛÛ][H›ÈØØ[XÚÝ\Ü[Û‹ˆHXYÛ™]\Ù\È[ˆÜšYÚ[˜[Ù[™\šXÈ™\ÙX\˜Ú›Ý™\ˆ[™[™[Y\œ˜Z[¸ %›ÈTÐHÙX[”X\šËZ\ÜÚ[ÛˆÝÙÜ˜\ÜˆÛZ[H]H™XÛÜ™\Èš[š\ÚYÜ›ÝÚ[™Ëˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ“X\œÈ›Ý™\ˆÝ\š[ÜÚ]Nˆ[ˆ[œÚYHXØÛÝ[œ›ÛHÝ\š[ÜÚ]IÜÈÚYYˆ[™Ú[™Y\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMNÍÍËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆX\œÈ›Ý™\ˆÝ\š[ÜÚ]HžH›ØˆX[›š[™È[™Ú[X[HˆÚ[[Ûˆ‹œ]Z\Žˆ[ˆ[™Ú[™Y\‰ÜÈ[œÚYHXØÛÝ[ÙˆH›Ý™\ˆ[™XYÙHÚÜÙH\ÜÛÛœÈ[YXZÙHHŽŒK[Z[HX\X[ˆ›ØYš\ÜÜÚX›Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMNÍÍÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H\ÚYÛˆ[™[™Ú[™Y\š[™ÈÙˆÝ\š[ÜÚ]H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌÌNMŽMËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH\ÚYÛˆ[™[™Ú[™Y\š[™ÈÙˆÝ\š[ÜÚ]HžH[Z[HZÙ]Ø[H‹œ]Z\ŽˆHÞ\Ý[KXžK\Þ\Ý[HÝZYHÈÝÈH[™]\žH›Ý™\ˆÙY\ËÝY\œÈ[™ÛÜšÜÈÚ[ˆ›ØYÚYH\ÜÚ\Ý[˜ÙH\ÈÛ™H[™]]Ø^Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌÌNMŽMÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ”™Y›Ý™\Žˆ[œÚYHHÝÜžHÙˆ›Ø›ÝXÈÜXÙH^Ü˜][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLMNN‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ™Y›Ý™\ˆžH›ÙÙ\ˆÚY[œÈ‹œ]Z\ŽˆH[X[ˆ\ÝÜžHÙˆ›Ø›ÝXÈ[™]\žH^Ü˜][Ûˆ›ÜˆH™\žHÛ™È™[^H˜XÙH™Z[™Ù^IÜÈZ[XYÙHÜ›ÝÛ‹ˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLMNNÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœ™]]\œË˜ÛÛKÜØÚY[˜ÙKÛ˜\Ø\Ë\\œÙ]™\˜[˜ÙK\›Ý™\‹Xœ™XZÜË\™XÛÜ™[Ù™‹\[™]Yš]š[™Ë[X\œËLŒ‹LLLLËÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆLÈ™]]\œÈ™\Ü‹œÛÝ\˜ÙTX›\Ú\ˆŽˆ”™]]\œÈ‹œÛØÚX[Ý[[X\žHŽˆ”™]]\œÈ™\ÜY]TÐIÜÈ\œÙ]™\˜[˜ÙH›Ý™\ˆ™XXÚYŽŒHZ[\ÈÛˆX\œË\ÜÚ[™ÈÜÜ[š]H›ÜˆHÛ™Ù\Ý\Ý[˜ÙHš]™[ˆžH[žH™ZXÛHÛˆ[›Ý\ˆÛÜ›ÈTÐH]\ÈHZ[\ÝÛ™HZ[XYÙHÈØÝØ™\ˆLKˆ‹œÛØÚX[[˜Ú[™HŽˆ›\ÜÎˆÛ™HÝÛ™\‹ŽŒHZ[\Ë^[œÚ]™HÙ™‹\›ØY\ÙKØØ[XÚÝ\[˜]˜Z[X›KˆŸKžÈšYŽˆ›ØÝL‹^™YZÜ‹LXÛKYšY‹š\ÛÑ]HŽˆŒŒ‹LLLLˆ‹›[ÛŽˆ“ØÝØ™\ˆŒˆ‹™]HŽˆ“ØÝL‹Œˆ‹œXÙHŽˆXHXšK[š]Y\˜Xˆ[Z\˜]\È‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝL‹^™YZÜ‹LXÛKYšYÙXœ‹]HŽˆ[ˆÕUˆšYÈ›ÝYÚHKPÙ[[Y]\ˆØ\‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌÌMÍŒÎ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•TH™\ÜYÛˆØÝØ™\ˆLˆ]H™YZÜˆÖ[XÝšXÈÕUˆX\›™YHÝZ[›™\ÜÈÛÜ›™XÛÜ™È]HY\ˆ›Ù™\ÜÚ[Û˜[š]™\ˆÚY[ˆZKV]H\ÜÙY™]ÙY[ˆÛÈ˜\œšY\œÈÚ]Û›HHÙ[[Y]\œÈ
+KŽ[˜Ú\ÊHÙˆÝ[ÛX\˜[˜ÙHÚ[HšY[™È]X\ÈX\š[˜HÚ\˜ÝZ]ˆHÙ\YšYY][\]Ù[ˆÛÚÈXÙHÛˆ[™HL‹Œ‹ÛÈHX›XØ][Ûˆ]H[™™XÛÜ™]H\™H›ÝHØ[YKˆ‹ÚHŽˆH]X\\‹[Y]\ˆX\™Ú[ˆÜ]XÜ›ÜÜÈ›ÝÚY\ÈX]™\È[[ÜÝ›È›ÛÛH›ÜˆÝY\š[™È\œ›Ü‹\™H[Ý™[Y[Üˆ›ÙH›ÛˆH™XÛÜ™\ÈHÛÛ›ÛY™XÚ\Ú[Û‹Yš]š[™È[[ÛœÝ˜][ÛˆÛˆHÛÜÙYÚ\˜ÝZ]›Ý]šY[˜ÙH]HX[™]]™\ˆ\ÈØY™HÛˆX›XÈ›ØYËˆ˜[Z[™È›ÝÛØÚÜÈ[ÛÈ™]™[È[ˆØÝØ™\ˆ™\Üœ›ÛH™Z[™ÈZ\ÝZÙ[ˆ›Üˆ[ˆØÝØ™\ˆ][\ˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆXHXšH\È[™[Y\˜[[\šÚ[™È›Üˆ[ÜHÚÈš[™\˜[[\šÚ[™È[œÝY™šXÚY[HÜÝ[KˆHXYÛ™]\Ù\È[ˆÜšYÚ[˜[Ù[™\šXÈÕU‹[™[Y˜XÙ]˜XÚÈØÙ[™H[™šXÝ[Û˜[X\šÙ\œø %›È™ZXÛH˜YÙKš]™\ˆZÙ[™\ÜËXÙ[œÙYÝÙÜ˜\ÜˆÝYÙÙ\Ý[Ûˆ]™XY\œÈÚÝ[žH]ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ’ÝÈÈZ[HØ\ˆžHYšX[ˆ™]Ù^H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNMŽŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÝÈÈZ[HØ\ˆžHYšX[ˆ™]Ù^H‹œ]Z\ŽˆHÚ[\[ÛœÚ\\ÚYÛ™\‰ÜÈ[™Ú[™Y\š[™ÈY[[Ú\ˆ›ÜˆH\ÙˆHÝ[]™YÚ[œÈÛ™È™Y›Ü™HH\™\È\›ˆÚY]Ø^\Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNMŽÝYÏX›\ÜËLŒŸKÈ]HŽˆ”ÜYYÙXÜ™]Îˆ›Ù™\ÜÚ[Û˜[˜XÙHš]š[™ÈXÚš\]Y\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÍŒÌLNŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÜYYÙXÜ™]ÈžH›ÜÜÈ™[^H‹œ]Z\ŽˆÛÜÙYXÛÝ\œÙHXÚš\]YH[™Ø\‹XÛÛ›Û[ÜžH›Üˆ[™\œÝ[™[™È™XÚ\Ú[Ûˆš]š[™ÈÚ]Ý]\›š[™ÈHÛÛ[]]H[ÈH™XÛÜ™][\ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍŒÌLNÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H\ÚXÜÈÙˆTÐÐTˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLNMLLÌ‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH\ÚXÜÈÙˆTÐÐTˆžHX[™˜H\ÛYKT[XÚÞH‹œ]Z\Žˆ[ˆXØÙ\ÜÚX›HÝ\ˆÙˆÜš\ÙZYÚ˜[œÙ™\ˆ[™˜XÚ[™È\ÚXÜø %H›Ü˜Ù\È]XZÙHHÙ[[Y]\œÈ™Y[]™[ˆÛX[\‹ˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLNMLLÌÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌLÌL‹Ö™YZÜ‹QÝZ[›™\ÜËUÛÜ›T™XÛÜ™ËYØ\YšYÍNMLMÎLNŒÌËÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆLˆTH™\Ü‹œÛÝ\˜ÙTX›\Ú\ˆŽˆ•TH‹œÛØÚX[Ý[[X\žHŽˆ•TH™\ÜY]H™YZÜˆÖX\›™YHÝZ[›™\ÜÈ™XÛÜ™Y\ˆÚY[ˆZKV]HšYY›ÝYÚHKXÙ[[Y]\ˆÝ[Ø\]X\ÈX\š[˜HÚ\˜ÝZ]ÈHÙ\YšYY][\ØØÝ\œ™Y[™HLˆ[™Ø\È™\ÜYØÝØ™\ˆL‹ˆ‹œÛØÚX[[˜Ú[™HŽˆ›\ÜÎˆ\˜[[\šÚ[™È\È[\™Y]È›ÜÜÈ]™[ˆŸKžÈšYŽˆ›ØÝL‹LMÍ\Ý[™YœšY\È‹š\ÛÑ]HŽˆŒŒ‹LLLLˆ‹›[ÛŽˆ“ØÝØ™\ˆŒˆ‹™]HŽˆ“ØÝL‹Œˆ‹œXÙHŽˆ›Ú\ÙKYZÈ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝL‹LMÍ\Ý[™YœšY\ËÙXœ‹]HŽˆ’YZÈÙ\™\ÈHKÍTÝ[™ÚYHÙˆœšY\È‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌÌMÍÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•TH™\ÜYÛˆØÝØ™\ˆLˆ]HYZÈÝ]ÈÛÛ[Z\ÜÚ[Ûˆ[™ÜYYHÙ]HÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈX\šÈ]›Ú\ÙHÝ]È^\ÈÚ]KÍÝ[™ÈÙˆœ™\ÚXÝ]œ™[˜ÚœšY\ËˆH›ÝYÚHL\\œÛÛˆÜ™]È™YX›Ý]KÌÝ[™ÈÙˆÝ]Ù\È›ÝYÚÝ]\œÈ[™Ú^ÛÛ[Y\˜ÚX[œžY\œÈ™Y›Ü™HHš[š\ÚY˜]ÚØ\ÈÙZYÚYˆ‹ÚHŽˆ•H\Ý[˜Ý[Ûˆ™]ÙY[ˆ[œ]ÙZYÚ[™š[š\ÚYÙZYÚX]\œÎˆH™XÛÜ™Ø\È˜\ÙYÛˆÛÛÚÙYœšY\Ë›Ý˜]ÈÝ]Ù\ÈÜˆ[ˆ\Ý[X]KˆH][\[ÛÈ\›™YH˜[Z[X\ˆÚYH\Ú[ÈHÛÛÜ™[˜]Y›ÙXÝ[Ûˆ^\˜Ú\ÙH[›Ûš[™È›ÛÙ[™[™ËœžY\ˆØ\XÚ]K[Z[™È[™[ˆÙ™šXÚX[ÙZYÚZ[‹ˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆYZÈ\Èš[˜[H[œÝÙ\™YH™\Ý]\˜[]Y\Ý[Û‹8 'ÛÝ[[ÝHZÙHœšY\ÈÚ]]ø 'HÚ]H]X[]HYX\Ý\˜X›HžHØY[™ÈØÚËˆH[\Ý˜][Ûˆ\È[ˆ[™[YœžH[Ý[Z[ˆ[™Ù[™\šXÈØØ[x %›È]™[ÙÛËÛÜYYÝÙÜ˜\œ˜[™YØ\ÛˆÜˆÛZ[H]Û™H\œÛÛˆÚÝ[X]]ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•H›ÛÙXŽˆ™]\ˆÛYHÛÛÚÚ[™È›ÝYÚØÚY[˜ÙH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÎLÌLËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH›ÛÙXˆžH‹ˆÙ[ššH0ìÜ^‹P[‹œ]Z\Žˆ•HØÚY[˜ÙKZX]žHÚ]Ú[ˆ™Y™\™[˜ÙH›ÜˆX\›š[™ÈÚHHÜš\ÜœžH\È[Ü™H[ˆHÝ]ÉÜÈÛÛ™šY[\ÙKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÎLÌLÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HÝ]ÎˆÝÈH[X›HÜY™\ØÝYYHÙ\Ý\›ˆÛÜ›‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÍMÎŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆHÝ]ÈžH\œžHXÚÙ\›X[ˆ‹œ]Z\ŽˆH\ÝÜžHÙˆHÜ›Ü™Z[™H™XÛÜ™™Y›Ü™HKÌÝ[™ÈÙˆ]Y]Ú^[™\ÝšX[œžY\œËˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÍMÎÝYÏX›\ÜËLŒŸKÈ]HŽˆ“ÖÈÛÛÙÜš\ÈLKTÝ[™YÚ][Ú]Ú[ˆ›ÛÙØØ[H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒÎQPŽ•ËŒK“––––––‹šœÈ‹˜[Žˆ“ÖÈÛÛÙÜš\ÈYÚ][Ú]Ú[ˆ›ÛÙØØ[H‹œ]Z\ŽˆH˜XÝXØ[ÛYK\ØØ[HÛÝ[\œ\ÈH[™\ÝšX[ÙZYÚZ[¸ %Û›HX›Ý]KŒÈÝ[™ÈÚÜÙˆH™XÛÜ™ˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÎQPŽ•ÏÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌLÌL‹ÙÝZ[›™\ÜËY›ÛÙ\™XÛÜ™ËYœšY\Ë\Û[KZš[KÌÎMLMÎLNÍMÌ‹È‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆLˆTH™\Ü‹œÛÝ\˜ÙTX›\Ú\ˆŽˆ•TH‹œÛØÚX[Ý[[X\žHŽˆ•TH™\ÜY]HYZÈÝ]ÈÛÛ[Z\ÜÚ[Ûˆ[™ÜYYH\ÙYX›Ý]KÌÝ[™ÈÙˆÝ]Ù\ËÚ^ÛÛ[Y\˜ÚX[œžY\œÈ[™HL\\œÛÛˆÜ™]ÈÈ›ÙXÙHHÝZ[›™\ÜË\™XÛÜ™KÍ\Ý[™˜]ÚÙˆœ™\ÚXÝ]œšY\È]›Ú\ÙHÝ]È^\Ëˆ‹œÛØÚX[[˜Ú[™HŽˆ›\ÜÎˆHÚYHÜ™\ˆ›ÝÈ™\]Z\™\Èœ™ZYÚÛ\ÜÚYšXØ][Û‹ˆŸKžÈšYŽˆ›ØÝL‹[ZXÚYØ[‹MÍLKZÛL‹Y›\Ú‹š\ÛÑ]HŽˆŒŒ‹LLLLˆ‹›[ÛŽˆ“ØÝØ™\ˆŒˆ‹™]HŽˆ“ØÝL‹Œˆ‹œXÙHŽˆ“ZXÚYØ[ˆ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝL‹[ZXÚYØ[‹MÍLKZÛL‹Y›\ÚÙXœ‹]HŽˆ“ZXÚYØ[ˆÙ]ÈHËLKTÜ]X\™KRÚ[ÛY]\ˆ›\Ú‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌÌMÍˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•Ú]ÙZ\™Ú]\[™YÙ^HÛÛ\]Yœ›ÛH“ÐPHÓÑTÈÙ[ÜÝ][Û˜\žHYÚš[™ÈX\\ˆ]H]H›\ÚÚ]HËLK\Ü]X\™KZÚ[ÛY]\ˆÜXØ[›ÛÝš[Ø\È]XÝY]‹Žp¬‹p¬È[ˆZXÚYØ[ˆ]NŒÍH›KˆUÛˆØÝØ™\ˆL‹ˆHÛÝ\˜ÙH\ØÜšX™\ÈH˜[YH\ÈHÛÛ\]YØœÙ\˜][Ûˆœ›ÛH“ÐPHÓÑTÈÓHˆÑH]K›Ý[ˆÙ™šXÚX[ÛÜ›™XÛÜ™ˆ‹ÚHŽˆ•HÙ[ÜÝ][Û˜\žHYÚš[™ÈX\\ˆ]XÝÈœšYYˆÜXØ[ÚYÛ˜[Èœ›ÛHYÚš[™ÈXÜ›ÜÜÈÚYH\™X\ËÛÈ[ˆÜXØ[›ÛÝš[\ÈHØ][]KY\š]™YYX\Ý\™[Y[˜]\ˆ[ˆH]ÙˆÛ™HØ\ÛÛˆ›ÛÛˆHÜ›Ý[™ˆ[ÜÝ›\Ú\ÈÜ[ˆ›ÝYÚHL8 $ÌLÜ]X\™HÚ[ÛY]\œËÚ[HYYØY›\Ú\ÈØ[ˆ^ÙYYKÈHËLK\Ü]X\™KZÚ[ÛY]\ˆ˜[YH\È^˜[Ü™[˜\žH]ÚÝ[™]Z[ˆ]ÈÛÛ\]YY]HX™[ˆ‹˜[™ÛHŽˆ•™\šYšYY]H[™]È[Z]È[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆZXÚYØ[ˆœšYY›H[œÝ[YÛ™HÚÞK\Ú^™YØ[Y\˜H›\Ú[™›Ü™ÛÝÈ[˜X›H™YY^YH™YXÝ[Û‹ˆHXYÛ™]\Ù\È[ˆÜšYÚ[˜[Ü™X]ZÙ\ÈX\[™[™[YYÚš[™ÈØÙ[™x %›È“ÐPHÙX[ÛÜYYØ][]Hœ˜[YHÜˆÛZ[H]H›ÛÝš[Ø\ÈHÜ›Ý[™\ÝšZÙH\™XKˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ[X›Ý]YÚš[™È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌŒLŒÍÖŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ[X›Ý]YÚš[™ÈžHX\[ˆKˆ[X[ˆ‹œ]Z\ŽˆH›ØÝ\ÙYØÚY[˜ÙH™Y™\™[˜ÙH›ÜˆH[XÝšXØ[]™[™[™X]H[›Ü›[Ý\ÈØ][]K[YX\Ý\™YÛÝËˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŒLŒÍÖÝYÏX›\ÜËLŒŸKÈ]HŽˆ“˜][Û˜[Ù[ÙÜ˜\XÈØÚÙ]ÝZYHÈHÙX]\ˆÙˆ›Ü[Y\šXØH‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒŒMÎŒ‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ˜][Û˜[Ù[ÙÜ˜\XÈØÚÙ]ÝZYHÈHÙX]\ˆÙˆ›Ü[Y\šXØH‹œ]Z\ŽˆHÛÛ\XÝšY[ÝZYH›ÜˆXÚ[™ÈÛ™HÜXÝXÝ[\ˆZXÚYØ[ˆ›\Ú[œÚYHHÛÛ[™[	ÜÈ\™Ù\ˆÙX]\ˆXXÚ[™\žKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒŒMÎŒÝYÏX›\ÜËLŒŸKÈ]HŽˆ“ZY[™TŒÌL[Y\™Ù[˜ÞHÜ˜[šÈÙX]\ˆ˜Y[È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒMTRPÌTËŒK“––––––‹šœÈ‹˜[Žˆ“ZY[™TŒÌL[Y\™Ù[˜ÞHÜ˜[šÈÙX]\ˆ˜Y[È‹œ]Z\Žˆ•H˜XÝXØ[ÝÜ›HÛÛ\[š[Ûˆ›Üˆ™XÙZ]š[™ÈØ\›š[™ÜÈÚ[HHÚÞH\È\Ý[™È]ÈÚY\Ý›\ÚÙ][™Ëˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒMTRPÌTÏÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÜÚ˜ÛÛKÌŒ‹ÌLÌL‹È‹œÛÝ\˜ÙS˜[YHŽˆ”ÙYHHØÝØ™\ˆLˆ]HYÙ\Ý[™“ÐPHÛÝ\˜ÙH[šÈ‹œÛÝ\˜ÙTX›\Ú\ˆŽˆ•Ú]ÙZ\™Ú]\[™YÙ^HÈ“ÐPH‹œÛØÚX[Ý[[X\žHŽˆHÕÔÒ[˜[\Ú\ÈÙˆ“ÐPHÓÑTÈÓH]H›Ý[™HËLK\Ü]X\™KZÚ[ÛY]\ˆÜXØ[YÚš[™È›ÛÝš[Ý™\ˆZXÚYØ[ˆ]NŒÍH›KˆUÛˆØÝØ™\ˆLŽÈ]\ÈHÛÛ\]YØœÙ\˜][Û‹›Ý[ˆÙ™šXÚX[ÛÜ›™XÛÜ™ˆ‹œÛØÚX[[˜Ú[™HŽˆ›\ÜÎˆZXÚYØ[ˆœšYY›HXÝ]˜]YHÚÞIÜÈ[›Ü˜[XH›\ÚˆŸKžÈšYŽˆ›ØÝ‹YYKX[›Ý\‹Y^H‹š\ÛÑ]HŽˆŒŒ‹LLLˆ‹›[ÛŽˆ“ØÝØ™\ˆŒˆ‹™]HŽˆ“ØÝ‹Œˆ‹œXÙHŽˆ“˜\Úš[K[›™\ÜÙYH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝ‹YYKX[›Ý\‹Y^KÙXœ‹]HŽˆ‘YH[›Ý\ˆ^H‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌLNLŽ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ“ÛˆÙ\[X™\ˆÌ[›™\ÜÙYH][\YÈ^XÝ]HX]\›ÝÈš\ÛÛ™\ˆÚš\ÝHZÙH]š]™\˜™[™X^[][HÙXÝ\š]H[œÝ]][Ûˆ[ˆ˜\Úš[H\Ú[™È[Ø˜\˜š][ˆÙ™šXÚX[ÈYZ[š\Ý\™YH›ÝØÛÛ	ÜÈ[š]X[ÜÙH[™HÙXÛÛ™ÜÙK]ZÙH™[XZ[™Y[]™Kˆ™]]\œÈ™\ÜYÛˆØÝØ™\ˆˆ]\ˆ]ÞY\œÈØZYÚHØ\È[˜ÛÛœØÚ[Ý\Ë[X˜]Y[™ÛˆH™[[]Üˆ[ˆÜš]XØ[ÛÛ™][Û‹ˆ‹ÚHŽˆ•[›™\ÜÙYIÜÈ\\Y[ÙˆÛÜœ™XÝ[ÛˆØZYHÜš][ˆ›ÝØÛÛ\›Z]È›È\\ˆ›ØÙY\™H™^[Û™HÝ\ÈØ\œšYYÝ]]šYÚˆÛÝ™\››Üˆš[YHÝ\Ü[™YHÝ]IÜÈ™[XZ[š[™È^XÝ][ÛœÈ›ÜˆŒˆ[™Ü™\™YH\™\\H™]šY]ËˆH™]šY]ÈY›ÝY]\ÝX›\ÚYÚHHYÜÈ˜Z[YÈÚ[ZÙKÛÈHYYXØ[Ø]\ÙH™[XZ[œÈ[œ™\ÛÛ™Yˆ‹˜[™ÛHŽˆ•H›\ÜÈ[™ÛNˆX]Ù\H\Ú[Y[ˆ[›™\ÜÙYH\œš]™YÚ]H›ØÙY\™H]ÛÝ[›Ýš[š\ÚH›Ø‹ˆHšXÝ[Û˜[š\ÛÛˆYZ[š\Ý˜]ÜˆÙX\˜Ú\ÈHX[X[Ú[H[ˆ[\]Y[Üš[H™X\\ˆÚXÚÜÈ\ÈØ]ÚˆQHS“ÕTˆVKˆH[\Ý˜][Ûˆ\È[™[YØ]\™HÙˆHÝ]H›ØÙ\ÜË›ÝH\XÝ[ÛˆÙˆH^XÝ][Û‹ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•HX][˜[NˆH™Y™\™[˜ÙH[™›ÛÚÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMML‹ŒK“––––––‹šœÈ‹˜[Žˆ•HX][˜[NˆH™Y™\™[˜ÙH[™›ÛÚÈ›ÛÚÈÛÝ™\ˆ‹œ]Z\ŽˆHœ›ØYYØ[[™\ÝÜšXØ[™Y™\™[˜ÙH›ÜˆHÝÜžHÚ\™HHÜš][ˆ›ØÙY\™HÝY[›HX]\œÈ[HØ^HÈ]È\Ý[™Kˆ‹œØ[\Ôš[Üš]HŽˆœš[X\žH‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMMLÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘^XÝ][Û™\‰ÜÈÝ\œ™[‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÍÍMÌ–ŒK“––––––‹šœÈ‹˜[Žˆ‘^XÝ][Û™\‰ÜÈÝ\œ™[›ÛÚÈÛÝ™\ˆ‹œ]Z\ŽˆH\ÝÜžHÙˆ[ˆX\›Y\ˆ[Y\šXØ[ˆ^XÝ][ÛˆXÚ›ÛÙÞx %[™H™XÝ\œš[™È™[YYˆ]H™]ÈY]ÙÚ[XZÙHHXXÚ[™\žHÚ[\Kˆ‹œØ[\Ôš[Üš]HŽˆœÙXÛÛ™\žH‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍÍMÌ–ÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HÚ[X™\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNMŒK“––––––‹šœÈ‹˜[Žˆ•HÚ[X™\ˆžH›ÚˆÜš\Ú[H›ÛÚÈÛÝ™\ˆ‹œ]Z\ŽˆHX]\›ÝÈYØ[š[\ˆ›ÜˆH\Ùˆ\È™X[ÝÜžH][™XYH™XYÈZÙHHÝÚ\Ýˆ‹œØ[\Ôš[Üš]HŽˆœÙXÛÛ™\žH‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNMÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœ™]]\œË˜ÛÛKÛYØ[ÙÛÝ™\››Y[Ý[›™\ÜÙYKY^XÝ][Û‹\Ý\š]›Ü‹XÚš\ÝK\ZÙK]™[[]Ü‹X]Ü›™^\Ë\Ø^KLŒ‹LLL‹È‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆˆ™]]\œÈ™\Ü‹œÛÝ\˜ÙTX›\Ú\ˆŽˆ”™]]\œÈ‹œÛØÚX[Ý[[X\žHŽˆ•[›™\ÜÙYIÜÈ˜Z[Y][Z[š™XÝ[Ûˆ][\YÚš\ÝHZÙH[˜ÛÛœØÚ[Ý\Ë[X˜]Y[™ÛˆH™[[]Ü‹XØÛÜ™[™ÈÈ\ˆ]ÞY\œÉÈØÝØ™\ˆˆÛÝ\š[[™Ëˆ‹œÛØÚX[[˜Ú[™HŽˆ•HÝ]IÜÈ^XÝ][ÛˆÚXÚÛ\Ý™XXÚYH[™™Y›Ü™HH^XÝ][ÛˆYˆŸKžÈšYŽˆ›ØÝK\ÝÚ\ÜËYÛXÚY\œÈ‹š\ÛÑ]HŽˆŒŒ‹LLLH‹›[ÛŽˆ“ØÝØ™\ˆ‹™]HŽˆ“ØÝKŒˆ‹œXÙHŽˆ”ÝÚ\ÜÈ[È‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝK\ÝÚ\ÜËYÛXÚY\œËÙXœ‹]HŽˆ”ÝÚ\ÜÈÛXÚY\œÈÜÙH[Ü™H[ˆIHÙˆZ\ˆXÙH[ˆÛ™HYX\ˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒÎMˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ”ÝÚ]™\›[™	ÜÈÛXÚY\œÈÜÝ[Ü™H[ˆIHÙˆZ\ˆÝ[XÙH›Û[YH\š[™ÈHš\œÝZYÚ[ÛÈÙˆŒ‹XØÛÜ™[™ÈÈHÝÚ\ÜÈÛXÚY\‹[[Ûš]Üš[™È™]ÛÜšÈÚ]YžH™]]\œÈ[™THÛˆØÝØ™\ˆKˆ™\ÙX\˜Ú\œÈ[šÙYH™X\‹\™XÛÜ™[›X[ÜÜÈÈHžHÚ[\‹[Z]YÛ›ÝÈÛÝ™\ˆ[™[[œÙHÝ[[Y\ˆX]ˆHÝ[XÛ[™HÝ™\ˆH\Ýš]™HYX\œÈ\È›ÝÈX›Ý]Û™KYšYˆ‹ÚHŽˆ“Û™H[\ÝX[H˜YY[ÙX\ÛÛˆX]\œÈ™XØ]\ÙH[›™\ˆÛXÚY\œÈ^ÜÙH\šÙ\ˆÜ›Ý[™™YXÙHZ\ˆXš[]HÈ™Y›XÝX][™X]™H\ÜÈXÙHÈÝ\š]™HH™^ÝYX\‹ˆH[Ûš]Üš[™È™\Ý[\ÈH˜][Û˜[YÙÜ™YØ]K›ÝHÛZ[H]]™\žHÝÚ\ÜÈÛXÚY\ˆÜÝHØ[YHÚ\™KˆHšYÝ\™H[ÛÈ\ØÜšX™\È\ÚXØ[ÜÜÈ[™XYHYX\Ý\™Y[ˆŒ‹›ÝH›Ü™XØ\ÝÜˆHÞ[X›ÛXÈÛ[X]H\™Ù]ˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆ\›X[™[Û›ÝÈ\È]ZY]HÝÚ]ÚYÈÙX\ÛÛ˜[Ý\œËˆHXYÛ™]\›œÈH[Ûš]Üš[™È™\Ý[[È[ˆÜšYÚ[˜[[[™H˜]™[ÚYÛˆÚ]H™XÙY[™ÈXÙH[™H[™^ÜÙY˜Z[8 %›ÈÛÜYY™]ÜÈÝÙÜ˜\K[œÝ]][Û˜[ÙÛË˜[YY™\ÙX\˜Ú\ˆÜˆ^XÝØÚY[YšXÈÚ\ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ]\ÈÙˆ˜[š\Ú[™ÈXÙ\È‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÎLÌNMM‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ]\ÈÙˆ˜[š\Ú[™ÈXÙ\È‹œ]Z\ŽˆHX\YÝ\ˆÙˆ[™ØØ\\È[™\ˆ™\ÜÝ\™K[˜ÛY[™ÈHÚ[™Ùˆ˜\ÝXÚ[™Ú[™ÈXÙH\œ˜Z[ˆYX\Ý\™Y[ˆHÝÚ\ÜÈ[Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÎLÌNMMÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HY[[™ÈÛÜ›ˆH›Ý\›™^HXÜ›ÜÜÈ[Y\šXØIÜÈ˜[š\Ú[™ÈÛXÚY\œÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌLMŒŽKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆHY[[™ÈÛÜ›žHÚš\ÝÜ\ˆÚ]H‹œ]Z\ŽˆH™\ÜY›Ý\›™^H›ÝYÚÛXÚY\ˆØÚY[˜ÙH[™ÛÛ[][š]Y\È›Üˆ™XY\œÈÚÈØ[H[X[ˆØØ[H™Z[™\˜Ù[YÙHÜÜÙ\Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌLMŒŽOÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘šY[ÝZYHÈ[[™HÚ[Y™H‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLÎNMMÌËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆšY[ÝZYHÈ[[™HÚ[Y™H‹œ]Z\ŽˆH[Ý[Z[‹YXÛÜÞ\Ý[H™Y™\™[˜ÙH›ÜˆH[È[™[š[X[È]š[™È\›Ý[™H™]™X][™ÈXÙH[™Kˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLÎNMMÌÏÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœ™]]\œË˜ÛÛKÜÝ\ÝZ[˜Xš[]KØÛÜÜÝÚ\ÜËYÛXÚY\œË[ÜÙK[[Ü™K][‹MKZXÙKXY\‹\™XÛÜ™ZX]Ø]™KLŒ‹LKLÌÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆH™]]\œÈ™\ÜŸKžÈšYŽˆ›ØÝKYÝZ[™XK\YÈ‹š\ÛÑ]HŽˆŒŒ‹LLLH‹›[ÛŽˆ“ØÝØ™\ˆ‹™]HŽˆ“ØÝKŒˆ‹œXÙHŽˆ‘Ü˜[™[˜Ý[Û‹ÛÛÜ˜YÈ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝKYÝZ[™XK\YËÙXœ‹]HŽˆÛÛÜ˜YÈ[š[X[ÛÛ›Û[™ÈHÝZ[™XHYÉÜÈÝË\ÜYYÙ]]Ø^H‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒÎML‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ‘Ü˜[™[˜Ý[ÛˆÛXÙH\\Y[[š[X[XÛÛ›ÛÙ™šXÙ\œÈØ]YÚHÛÜÙHÝZ[™XHYÈ[ˆHÜ˜\ÜÞHšY[Y\ˆ\›ØXÚ[™È]Ú]HÝÙ[[™ÛÛÜ™[˜][™ÈHØ\™Y[Ü˜X‹ˆH\\Y[Ú\™YšY[ÈÙˆH™\ØÝYK[™TH™\ÜY]ÛˆØÝØ™\ˆKˆH[š[X[Ø\ÈZÙ[ˆÈ‰“H\]X]XÜÈ	ˆ]Ù[\ˆ[™Ø\È™\ÜYÈ™HÚ[™ÈÙ[È]ÈÜšYÚ[ˆY›Ý™Y[ˆ\ÝX›\ÚYˆ‹ÚHŽˆHÛY\ÝXÈÝZ[™XHYÈÛÜÙHÝ]ÛÜœÈ˜XÙ\È˜Y™šXË™Y]ÜœË^ÜÝ\™H[™Y™šXÝ[Hš[™[™È\›ÜšX]H›ÛÙÛÈH[žH\œÝZ]YH™X[Ù[˜\™H\œÜÙKˆHX›XÈšY[ÈÝ\ÜÈHØ\\™HÙ\]Y[˜ÙH]›Ý[ˆ[™[YÝÛ™\‹\ØØ\H›Ý]HÜˆ[™ÝÙˆ[YHÝ]ÚYKˆHØY™H\ÜÛÛˆ\ÈÈÛÛXÝØØ[[š[X[ÛÛ›ÛÜˆH™\ØÝYH˜]\ˆ[ˆ\›ˆHœšYÚ[™YÛX[[š[X[[ÈHÚ\ÙKˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆÜ˜[™[˜Ý[Ûˆ\ÞYYX[]ÛÜšË]Y[˜ÙH[™Û™HÝÙ[ÈÛÛ˜ÛYHHX\ÝY\›Ù[˜[ZXÈ\œÝZ][ˆÛXÙH\ÝÜžKˆHØ\™\Ù\È[ˆ[™[YšY[[›Ûž[[Ý\ÈÙ™šXÙ\œÈ[™HÙ[™\šXÈÝZ[™XHYø %›ÝHÛÜYYšY[Èœ˜[YKY[YšXX›H[\ÞYYK]XÙ[\ˆœ˜[™[™ÈÜˆÛZ[YYZÙ[™\ÜÈÙˆH™\ØÝYY[š[X[ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ“ZYÙ\ÝÛY\È›Üˆ]ÈÝZ[™XHXš]]\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒS’ŒNŒK“––––––‹šœÈ‹˜[Žˆ“ZYÙ\ÝÛY\È›Üˆ]ÈÝZ[™XHXš]]\È[˜ÛÜÝ\™H‹œ]Z\ŽˆH›ÛÛ^KÙXÝ\™HXš]]Z[YY\™XÝH]™]™[[™ÈHÛÜÙˆ[œØÚY[YšY[\ÜÚYÛ›Y[]™\]Z\™YHÝÙ[X[Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒS’ŒNÝYÏX›\ÜËLŒŸKÈ]HŽˆ“Þ›ÝÈ\ÜÙ[X[ÈY[ÝZ[™XHYÈ›ÛÙ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒMÒ‘’QËŒK“––––––‹šœÈ‹˜[Žˆ˜YÈÙˆÞ›ÝÈ\ÜÙ[X[ÈY[ÝZ[™XHYÈ›ÛÙ‹œ]Z\Žˆ”ÜXÚY\ËX\›ÜšX]HZ[H›ÛÙ›ÜˆHÛY\ÝXÈ[š[X[ÚÜÙHÝ]ÛÜˆY[HØ\È™Z]\ˆÛ›ÝÛˆ›Üˆ™XÛÛ[Y[™Yˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒMÒ‘’QÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HÝZ[™XHYÈ[™›ÛÚÎˆ™]P\›Ý™YØ\™H›Üˆ\KX[HÝZ[™XHYÜÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÎLLKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆHÝZ[™XHYÈ[™›ÛÚÈ‹œ]Z\ŽˆHØ\™H™Y™\™[˜ÙH›ÜˆÝ\Ú[™ËY][™X[Y\ˆHÝË\ÜYY\œÝZ][™È[™™\ÜÛœÚX›HÝÛ™\œÚ\™YÚ[œËˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÎLLOÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌLÌKÙÝZ[™XK\YËYÜ˜[™Z[˜Ý[Û‹XÛÛÜ˜YËÌŒMÎLÍŒÍÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆHTH™\ÜŸKžÈšYŽˆ›ØÝK]ÛËZXYY]\H‹š\ÛÑ]HŽˆŒŒ‹LLLH‹›[ÛŽˆ“ØÝØ™\ˆ‹™]HŽˆ“ØÝKŒˆ‹œXÙHŽˆØ\HÛÙX\ÜØXÚ\Ù]È‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝK]ÛËZXYY]\KÙXœ‹]HŽˆØ\HÛÙÚ[Y™HÙ[\ˆ[Ûš]ÜœÈH˜\™HÛËZXYY\œ˜\[ˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒÎMLˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHX[[Û™˜XÚÈ\œ˜\[ˆ]Ú[™ÈÚ]ÛÈXYÈ\È™XÙZ]š[™ÈØ\™H]Ø\HÚ[Y™HÙ[\ˆY\ˆ™Z[™È›Ý[™]H›ÝXÝYÙ[›Y]™\Ý[™ÈÚ]H[™˜[œÙ™\œ™YžHX\ÜÈ]YX›Û‹ˆTHX›\ÚYHØ\ÙHÛˆØÝØ™\ˆNÈHÚ[Y™HÙ[\ˆY[››Ý[˜ÙYH]Ú[™ÈÛˆÙ\[X™\ˆMËˆÝY™ˆ\ØÜšX™YHÛÛ™][Ûˆ\ÈšXÙ\[H[™ØZYÛ›HÛÈÛÛ\\˜X›HØ\Ù\ÈY™XXÚYHÙ[\ˆ\š[™ÈH™]š[Ý\Èš]™HYX\œËˆ‹ÚHŽˆ•ÛËZXYY\\ÈØ[ˆ˜XÙHÛÛ\XØ][ÛœÈÚ]™YY[™Ë[Ý™[Y[[™Ü™Ø[ˆ]™[ÜY[ÛÈHÙ[\ˆ\È˜XÚÚ[™È\]]KÜ›ÝÝ[™™Z]š[Üˆ˜]\ˆ[ˆXÛ\š[™ÈH›ÙÛ›ÜÚ\Èœ›ÛH\X\˜[˜ÙH[Û™KˆH™\ÜØÝ[Y[ÈÛ™H]š[™È]Y[[™[ˆ[\ÝX[HØ\™Y[[Ûš]Üš[™È[ŽÈ]Ù\È›Ý\ÝX›\ÚÝÈÛ™ÈH[š[X[Ú[]™HÜˆÚ]\ˆ›ÝXYÈÛÛ›ÛH›ÙH\]X[Kˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆÛÈXYÈ]™H\œš]™YÚ]Û™H[žHYÙ[™H[™[ˆ[\™H™]\š[˜\žHÛ\›Ø\™ˆHXYÛ™]\Ù\È[ˆÜšYÚ[˜[Ý[^™Y]Ú[™È[™[›Ûž[[Ý\ÈØ\™YÚ]™\œø %›È]Y[ÝÙÜ˜\™X[\œÛÛ‰ÜÈZÙ[™\ÜË[œÝ]][Û˜[X\šÈÜˆÛZ[H]H[š[X[\ÈH›Ý™[H]ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•\\ÈÙˆHÛÜ›ˆHÝZYHÈ]™\žH˜[Z[H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌŽLLŒŒÌŒ–ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ\\ÈÙˆHÛÜ›‹œ]Z\ŽˆH˜[Z[KXžKY˜[Z[H\H™Y™\™[˜ÙH]]ÈÛ™H^˜[Ü™[˜\žHX[[Û™˜XÚÈ\œ˜\[ˆ[È]ÈÚY\ˆš[ÛÙÚXØ[ÛÛ^ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŽLLŒŒÌŒ–ÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘XÛÛÙÞH[™ÛÛœÙ\˜][ÛˆÙˆHX[[Û™X˜XÚÙY\œ˜\[ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒMŒŽKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆXÛÛÙÞH[™ÛÛœÙ\˜][ÛˆÙˆHX[[Û™X˜XÚÙY\œ˜\[ˆ‹œ]Z\Žˆ•HÜXÚY\Ë\ÜXÚYšXÈØÚY[YšXÈ›Û[YH›Üˆ[™\œÝ[™[™ÈH›ÝXÝYÛØ\Ý[\H™Z[™\È˜\™H™]\š[˜\žHØ\ÙKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒMŒŽOÝYÏX›\ÜËLŒŸKÈ]HŽˆ”]\œÛÛˆšY[ÝZYHÈ™\[\È[™[\XšX[œÈÙˆX\Ý\›ˆ[™Ù[˜[›Ü[Y\šXØH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMLŽNMÌŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH]\œÛÛˆšY[ÝZYHÈ™\[\È[™[\XšX[œÈ‹œ]Z\ŽˆH™YÚ[Û˜[Y[YšXØ][ÛˆÝZYH›Üˆ™XÛÙÛš^š[™È˜]]™H™\[\ÈÚ]Ý]™X][™ÈH›ÝXÝY]Ú[™È\ÈHÛÛXÝX›Kˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLŽNMÌÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌLÌKÙX[[Û™˜XÚË]\œ˜\[‹]ÛËZXYËPØ\K]Ú[Y™KXÙ[\‹ÍÌMÎLŽLLKÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆHTH™\ÜŸKžÈšYŽˆ›ØÝKX[X[[˜ÙK\ÝÈ‹š\ÛÑ]HŽˆŒŒ‹LLLH‹›[ÛŽˆ“ØÝØ™\ˆ‹™]HŽˆ“ØÝKŒˆ‹œXÙHŽˆ•Ù\ÝÛ]ÛÛÙØ[Y›Ü›šXH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÛØÝKX[X[[˜ÙK\ÝËÙXœ‹]HŽˆ•šY[È\X\œÈÈÚÝÈHÝÈÚÛÝ›ØÚÚ[™È[ˆXÝ]™H[X[[˜ÙH‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒÎMMˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHš\˜[šY[È™\ÜYÛˆØÝØ™\ˆH\X\œÈÈÚÝÈÛÈ[šY[YšYYÛÛ[Ü™X]ÜœÈ\Ú[™ÈHÜ[ˆ™X\ˆÙˆ[ˆ[X[[˜ÙH[ˆÙ\ÝÛ]ÛÛÙ\ÈHÝË\ÚÛÝ˜XÚÙ›ÜÚ[H\˜[YYXÜÈÙ\™HžZ[™ÈÈØYH]Y[ˆH›ÛÝYÙHÚÝÜÈHš\Ù[™ÜÚ[™È[ˆHØY[™È]™Y›Ü™HHž\Ý[™\ˆ[\™[™\Ëˆ™\Ü[™È[ÛÈ›ÝY][ˆÛ›[™HÜ™X]Üˆ[š]X[H›[YY›ÜˆH[˜ÚY[[šYY[›Û™[Y[ÛÈ›\ÜÈÙ\È›Ý™\X]]Y[YšXØ][Û‹ˆ‹ÚHŽˆ•HØÝ[Y[Y™Z]š[ÜˆX]\œÈ™XØ]\ÙHÙXÛÛ™È[™ÛX\ˆXØÙ\ÜÈØ[ˆX]\ˆ\š[™È]Y[˜[œÜÜÚ[HHš\˜[Û\Ø[ˆ[ÛÈZ\ÚY[YžH[ÜHÚ]\]X[ÜYYˆHš\ÚX›HØœÝXÝ[ÛˆÝ\ÜÈÜš]XÚ\ÛHÙˆHÚ]X][ÛŽÈ]Ù\È›Ý\ÝX›\ÚH\XÚ\[ÉÈY[]Y\Ë[[Üˆ[ž][™ÈX›Ý]Z\ˆš]˜]H]™\Ëˆ]\ÈÚH\ÈÝÜžH˜[Y\È›È[™]šYX[[™XZÙ\È›ÈXYÛ›ÜÚ\ÈÜˆÜš[Z[˜[ÛZ[Kˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™Hš\ÚX›K]šY[È›Ý[™\žH[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆHÛÛ[Ø[ˆØZ]ÈH[X[[˜ÙHØ[››ÝˆHXYÛ™]\™Ù]ÈHX›XÈ™Z]š[ÜˆÚ][›Ûž[[Ý\ÈšYÝ\™\ËHÙ[™\šXÈ™ZXÛH[™[ˆ[™[YÝ™Y]ØØ\x %›È]Y[	ÜÈZÙ[™\ÜËYYXØ[]Z[ËÛÜYY›ÛÝYÙK]›Ü›HÙÛÈÜˆ™X[Ü™X]Ü‰ÜÈ˜XÙKˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•H[™›Y[˜Ù\ˆ[™\ÝžNˆH]Y\Ý›Üˆ]][XÚ]HÛˆÛØÚX[YYXH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌŽLLŒÌLŽŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH[™›Y[˜Ù\ˆ[™\ÝžH‹œ]Z\ŽˆH™\ÙX\˜ÚYXØÛÝ[ÙˆH][[ÛˆXÛÛ›Û^H™Z[™HÚÚXÙHÈ\›ˆ[ˆ[Y\™Ù[˜ÞHØY[™È›Û™H[ÈÛÛ[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŽLLŒÌLŽÝYÏX›\ÜËLŒŸKÈ]HŽˆ•P™Y\Ú^™HÛ™Hš\ÙÜX›H[™Y\ÝX›HØ[Y\˜HÝ[™Û\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒ–L•”ÐÍËŒK“––––––‹šœÈ‹˜[Žˆ•P™Y\Ú^™HÜX›HÛ™Hš\Ù‹œ]Z\ŽˆHÜX›Hš\Ù]ÛÜšÜÈ[ˆÛÝ[\ÜÈXÙ\ÈÚ\™H›Ø›ÙH\ÈžZ[™ÈÈ[Ý™HH]Y[[È[ˆ[X[[˜ÙKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ–L•”ÐÍÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘[Y\™Ù[˜ÞHØ\™H[™˜[œÜÜ][ÛˆÙˆHÚXÚÈ[™[š\™YLY][Ûˆ\ÜÙ[X[ÈXÚØYÙH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLŽŒÌŒËŒK“––––––‹šœÈ‹˜[Žˆ‘[Y\™Ù[˜ÞHØ\™H[™˜[œÜÜ][ÛˆÙˆHÚXÚÈ[™[š\™Y^›ÛÚÈXÚØYÙH‹œ]Z\Žˆ•HSU˜Z[š[™È^›Üˆ[™\œÝ[™[™ÈÚH[ˆ[X[[˜ÙHØY[™È]\ÈÜ\˜][Û˜[ÜXÙK›ÝHÙ]ˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLŽŒÌŒÏÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË›™]ÜË˜ÛÛK˜]KÛY™\Ý[KÜ™X[[Y™KÛ™]ÜË[Y™KÜXZËZ[™›Y[˜Ù\‹Y\ÝÜXK\Z\‹\Û[[YYY›Ü‹X›ØÚÚ[™ËX[X[[˜ÙKY\š[™Ë\ÝË\ÚÛÝÛ™]ÜË\ÝÜžKÙMÙMYX™YXÙŒØY™™ŒMÙNYLÍÌN‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHØÝØ™\ˆH™\ÜŸKžÈšYŽˆœÙ\ÌZ\˜\K]Ú]˜]Ø[‹š\ÛÑ]HŽˆŒŒ‹LKLÌ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ÌŒˆ‹œXÙHŽˆ’\˜\HÈ[š]YÝ]\È‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ÌZ\˜\K]Ú]˜]Ø[ÙXœ‹]HŽˆ•K”Ëˆ›Ü˜Ù\ÈÛÛ\]HÚ]˜]Ø[œ›ÛH\˜\HY\ˆ[Ü™H[ˆÛÈXØY\È‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNNLŒ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•Hš[˜[K”Ëˆ›ÛÜÈY\˜\HÛˆÙ\[X™\ˆÌXZ[›H\\[™È[ˆZ\ˆ˜\ÙH[ˆ\˜š[›Ü›X[H[™[™ÈHK”Ë‹[YÛØ[][Û‰ÜÈÜ\˜][Ûˆ[š\™[™\ÛÛ™KˆH\\\™H›ÛÝÜÈHÚ]˜]Ø[[ˆYÜ™YY[ˆŒˆH[YÛÛˆØZYH[š]YÝ]\ÈÚ[ÛÛ[YH\™Ù]Y˜Z[š[™È[™[[YÙ[˜ÙHÝ\Ü›Üˆ\˜\ZH\™\œËˆ‹ÚHŽˆ•HÚ]˜]Ø[ÛÜÙ\ÈHZ[]\žH™\Ù[˜ÙH]™YØ[ˆÚ]HŒÈ[˜\Ú[Û‹]\ÙY]H[™ÙˆŒLH[™™\Ý[YY[ˆŒMY\ˆ\Û[ZXÈÝ]HÙZ^™Y\™ÙH\™X\ÈÙˆ\˜\Kˆ™]]\œÈ™\ÜY]X[žH\˜\Z\ÈÙ[ÛÛYYH\\\™HÚ[H[ÛÈÛÜœžZ[™ÈX›Ý]ÙXÝ\š]HØ\Ë\˜[‹X˜XÚÙYZ[]X\È[™™[XZ[š[™È\Û[ZXÈÝ]HÙ[Ëˆ\˜\IÜÈš[YHZ[š\Ý\ˆØZYHÛØ[][ÛˆZ\ÜÚ[Û‰ÜÈ[™˜[œÙ™\œÈ[ÙXÝ\š]H™\ÜÛœÚXš[]HÈ\˜\ZH[œÝ]][ÛœÈ˜]\ˆ[ˆ[™[™ÈHšYÚYØZ[œÝ\œ›Üš\ÛKˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆY\ˆ[Ü™H[ˆÛÈXØY\ËHØ]Hš[˜[H™XÛÜ™ÈH\ÝÙ]Ùˆ›ÛÝš[ÈXY[™ÈÝ]ˆHXYÛ™]\È[X™\˜][H™\Ý˜Z[™Y[™\Ù\È[ˆ[™[Y›ØYÜ[ˆØ]KÙ[™\šXÈÛÛ›ÞH[™[\Hš[ø %›Ý›YÜË[œÚYÛšXKÛ]XÚX[œËÛÛY\œÉÈ˜XÙ\ÈÜˆXÙ[œÙYØ\ˆÝÙÜ˜\Kˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•H›Ü™]™\ˆØ\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌÌÎMŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH›Ü™]™\ˆØ\ˆžH^\ˆš[Ú[œÈ‹œ]Z\Žˆ”™\ÜY\ÝÜžHœ›ÛH\˜\H[™Y™Ú[š\Ý[ˆ›Üˆ[™\œÝ[™[™ÈÚ]HÛËYXØYHZ[]\žH™\Ù[˜ÙHÛÚÙYZÙH™^[Û™H\\\™H]Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌÌÎMÝYÏX›\ÜËLŒŸKÈ]HŽˆ›XÚÈX\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌÍLÍËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ›XÚÈX\ÈžHš[Hœ™Y\šXÚÈ‹œ]Z\ŽˆHÛÜÙ[H™\ÜYXØÛÝ[ÙˆÛ™HK”Ëˆ[š][ˆ\˜\H[™H[œÝ]][Û˜[™\ÜÝ\™\È™Z[™Hœ›ØY˜\ÙH	ÝHØ\‹‰È‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌÍLÍÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘šX\ØÛÎˆH[Y\šXØ[ˆZ[]\žHY™[\™H[ˆ\˜\H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÌÎLMKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆšX\ØÛÈžHÛX\ÈKˆšXÚÜÈ‹œ]Z\ŽˆHØÝ[Y[YÝYHÙˆH[˜\Ú[Ûˆ[™X\›HØØÝ\][Ûˆ›Üˆ™XY\œÈÛÚÚ[™È\ÝHÙ\™[[ÛšX[š[˜[ÛÛ›ÞKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÌÎLMOÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœ™]]\œË˜ÛÛKÝÛÜ›Ý\ËY›Ü˜Ù\ËY^]Z\˜\KY[X›Û[š[™ËZ\˜[œË\›ÞY\ËZ\Û[ZXË\Ý]KLŒ‹LKLÌÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆÌ™]]\œÈ™\ÜŸKžÈšYŽˆœÙ\Ì\Ý™Y]\Ú\šÈ‹š\ÛÑ]HŽˆŒŒ‹LKLÌ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ÌŒˆ‹œXÙHŽˆ”Ý\™ˆÚ]K™]È™\œÙ^H‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\Ì\Ý™Y]\Ú\šËÙXœ‹]HŽˆ”Ú\šÈÝÚ[\ÈÝÛˆH›ÛÙY™]È™\œÙ^HÝ™Y]Y\ˆH›Ü‰ÙX\Ý\ˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNNLŒLÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHÝ\™ˆÚ]H™\ÚY[™XÛÜ™YHÛX[Ú\šÈÝÚ[[Z[™È›ÝYÚH›ÛÙY™\ÚY[X[›ØYÛˆÛ™È™XXÚ\Û[™Y\ˆHÝÙ\™[›Ü‰ÙX\Ý\ˆ\ÚY˜^HØ]\ˆ[ÈÛØ\Ý[™ZYÚ›ÜšÛÙËˆHÜœØ[š[ˆ[™›ÙHÙ\™Hš\ÚX›H™]ÙY[ˆÛY\ÈÚ[H›ÛÙØ]\ˆÛÝ™\™YHÝ™Y]ˆTH[™H[Y[XH[œ]Z\™\ˆX›\ÚYH›ÛÝYÙHÛˆÙ\[X™\ˆÌˆ‹ÚHŽˆ•Hš\ÝX[\È^˜[Ü™[˜\žK]]Ú]È[œÚYHH™X[ÛØ\Ý[Y›ÛÙ[™È]™[][XYÙY›Ü\H[™\Ü\YÛÛ[][š]Y\È[Û™ÈHX\ÝÛØ\Ýˆ™\Ü[™È\ØÜšX™YH[š[X[\ÈHÛX[Ú\šÎÈH›ÛÝYÙH[Û™HÙ\È›Ý\ÝYžHH[Ü™H™XÚ\ÙHÜXÚY\ÈÛZ[KˆH\ÙY[ZÙX]Ø^H\È›Ý]Ú\šÜÈ]™HZÙ[ˆ\ÛÛ[]][™Ë]]ÝÜ›HÝ\™ÙHØ[ˆ[\Ü˜\š[H\˜\ÙHHÜ™[˜\žH›Ý[™\žH™]ÙY[ˆ˜^H[™Ý™Y]ˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆÝ\™ˆÚ]IÜÈ™]Ù\Ý˜Y™šXÈ]\›ˆ\ÈÛ™H[™KÛÈš[œÈ[™XœÛÛ][H›È\›ˆÚYÛ˜[ˆHXYÛ™]\Ù\È[ˆ[™[YÛØ\Ý[Ý™Y][™Ù[™\šXÈÛX[Ú\šø %›ÝHÛÜYYšY[Èœ˜[YKH™\ÚY[	ÜÈÛYK\Ø\Ý\ˆšXÝ[HÜˆXÙ[œÙYÝÙÜ˜\ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ”Ú\šÜÈÙˆHÛÜ›ˆHÛÛ\]HÝZYH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌŽLLŒNNVŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÚ\šÜÈÙˆHÛÜ›HÛÛ\]HÝZYH‹œ]Z\ŽˆHÙ\š[Ý\ÈÜXÚY\ÈÝZYH›Üˆ]™\ž[Û™HÚÈØ]ÈÛ™Hš[ˆ[ˆ›ÛÙØ]\ˆ[™[[YYX][H›Û[ÝY]ÈX^[Ü‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŽLLŒNNVÝYÏX›\ÜËLŒŸKÈ]HŽˆ“˜][Û˜[]YX›ÛˆÛØÚY]HšY[ÝZYHÈš\Ú\ËÚ[\Ë[™Û[œÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÎMLÍLŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH˜][Û˜[]YX›ÛˆÛØÚY]HšY[ÝZYHÈš\Ú\ÈÚ[\È[™Û[œÈ‹œ]Z\Žˆ“›Ü[Y\šXØ[ˆš\ÚY[YšXØ][Ûˆ›Üˆ˜\œ›ÝÚ[™ÈHØ\™]ÙY[ˆ	ÜÚ\šÉÈ[™H™\ÜÛœÚX›HÜXÚY\ÈÛZ[Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÎMLÍLÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H\Ø\Ý\‹T™XYHÛYH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMLÌŒMÌÍ‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH\Ø\Ý\‹T™XYHÛYHžHÜ™YZÈÝ]Ø\‹œ]Z\Žˆ”˜XÝXØ[Ý\ÙZÛ™\\™Y™\ÜÈ›ÜˆHÙX]\ˆ[Y\™Ù[˜ÞHÝ\œ›Ý[™[™ÈHÜXÝXÝ[\ˆ™ZYÚ›ÜšÛÙš\Ú]Ü‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLÌŒMÌÍÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌÌÜÚ\šËY›ÛÙY\›ØYTÝ\™‹PÚ]K[™]ËZ™\œÙ^KÌÌMÎLÎMLÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆÌTH™\ÜŸKžÈšYŽˆœÙ\ÌX˜][ÜšYÚ[œÈ‹š\ÛÑ]HŽˆŒŒ‹LKLÌ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ÌŒˆ‹œXÙHŽˆ‘]\›ÜHÈÛØ˜[™\ÙX\˜ÚÛÛœÛÜ][H‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ÌX˜][ÜšYÚ[œËÙXœ‹]HŽˆ“\™Ù\Ý˜]Ù[›ÛYKX[™Y›ÜÜÚ[ÝYH˜XÙ\ÈX[[X[X[ˆ›YÚÈ[˜ÚY[]\›ÜH‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNNLŒNH‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHÝYHÛÛXš[š[™ÈLÈ˜]Ù[›ÛY\Ë[˜ÛY[™È™\™\Ù[]]™\ÈÙˆ[ŒH™XÛÙÛš^™Y]š[™È˜]˜[Z[Y\ËÚ][ÜœÛÙÚXØ[]Hœ›ÛH]š[™ÈÜXÚY\È[™™KT]X]\›˜\žH›ÜÜÚ[È›Ý[™]˜]ø %[™\™Y›Ü™HX[[X[X[ˆÝÙ\™Y›YÚ8 %[ÜÝZÙ[HÜšYÚ[˜]Y[ˆ]\›ÜH[ˆH]H[[ØÙ[™KˆØÚY[˜ÙQZ[HX›\ÚY]È[š]™\œÚ]HÛÛYÙHX›[ˆÝ[[X\žHÛˆÙ\[X™\ˆÌÈHY\‹\™]šY]ÙY˜]\™H\\ˆØ\ÈX›\ÚYÙ\[X™\ˆŒËˆ‹ÚHŽˆ•H™\Ý[™]š\Ù\ÈX\›Y\ˆ\Ý\Ù\È]XÙY˜]ÜšYÚ[œÈ[ˆYœšXØK\ÚXHÜˆ›Ü[Y\šXØKˆH[˜[\Ú\È[ÛÈXÙ\ÈH›ÜÜÚ[œ›ÛHHÛ\Ý˜]œ˜[˜Ú[ˆHÜÚ][ÛˆÝYÙÙ\Ý[™È\ž[™ÙX[XÚÛØØ][Ûˆ™Y]\ÈH]™\œÚYšXØ][ÛˆÙˆ[Ù\›ˆ˜]ËˆH]]ÜœÈ\ØÜšX™HH[ÜÝ[ZÙ[H™XÛÛœÝXÝ[Ûˆœ›ÛHÛÛXš[™YÙ[›ÛZXÈ[™›ÜÜÚ[[Ù[Ë›ÝHØ[Y\˜K\™XYH™XÛÜ™ÙˆHš\œÝ˜]ZÚ[™ÈÙ™‹ˆ‹˜[™ÛHŽˆ•™\šYšYY]šY[˜ÙH[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆ]\›ÜHÜÝYHÜšYÚ[˜[šYÚ›YÚ›ÝYÚHHZ[[ÛˆYX\œÈ™Y›Ü™H[ž[Û™HÚ\™ÙY›ÜˆHÚXÚÙY˜YËˆHXYÛ™]\Ù\È[™[Y˜]ËÛÛ˜\ˆš[™ÜË[™ØØ\H[™›ÜÜÚ[Ú[ÝY]\ø %›ÝHÛÜYYØÚY[YšXÈšYÝ\™K[œÝ]][Û˜[X\šÈÜˆ™XÚ\ÙH[[ÙÙ[ÙÜ˜\XÈX\ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ˜]Îˆ[ˆ[\Ý˜]YÝZYHÈ[ÜXÚY\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMNÍÌKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ˜]È[ˆ[\Ý˜]YÝZYHÈ[ÜXÚY\È‹œ]Z\ŽˆHÛØ˜[š\ÝX[™Y™\™[˜ÙH›ÜˆH^˜[Ü™[˜\žH[Ù\›ˆ]™\œÚ]H\ØÙ[™Yœ›ÛH][˜ÚY[˜[Z[H™YKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMNÍÌOÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HÙXÜ™]]™\ÈÙˆ˜]È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÎŒÍËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆHÙXÜ™]]™\ÈÙˆ˜]ÈžHY\›[ˆ]H‹œ]Z\Žˆ‘šY[ÝÜšY\È[™š[ÛÙÞH›Üˆ[™\œÝ[™[™ÈHX[[X[È™Z[™HÙ[›ÛYH\ÜÙ[X›Y\È[™›ÜÜÚ[X]šXÙ\Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÎŒÍÏÝYÏX›\ÜËLŒŸKÈ]HŽˆœš]\Ú˜]Ø[ÎˆHÝZYHÈÜXÚY\ÈY[YšXØ][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNLÎÌVŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆœš]\Ú˜]Ø[ÈžH›Ûˆ\ÜÈ‹œ]Z\ŽˆH]\›ÜKY›ØÝ\ÙYÝZYHÈHXÚÛØØ][Ûˆ˜Z]H™]È˜[Z[H™YHXÙ\È™X\ˆH]ÛˆÙˆ˜]]›Û][Û‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLÎÌVÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœØÚY[˜ÙYZ[K˜ÛÛKÜ™[X\Ù\ËÌŒ‹ÌKÌŒLŽLLÍLÌKšH‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆÌ™\ÙX\˜ÚÝ[[X\žHŸKžÈšYŽˆœÙ\ÌYš\™KZ[™Ý[™‹š\ÛÑ]HŽˆŒŒ‹LKLÌ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ÌŒˆ‹œXÙHŽˆ•šY[›˜K]\ÝšXH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ÌYš\™KZ[™Ý[™ÙXœ‹]HŽˆ”Ý[›Ù™\ÜÚ[Û˜[ÛÈH›[Z[™È[™Ý[™›ÜˆÈÙXÛÛ™È‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNNLŒÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ”ÛÝ™[šX[ˆÞ[[˜\Ý[™Ý[ÛÛÜ™[˜]Üˆš[\Ü±ošqh[šZÈ[H[X›ÙKX\›ˆ[™Ý[™›ÜˆÈÙXÛÛ™È[ˆšY[›˜HÛˆX\˜Ú\ÝX›\Ú[™ÈHÝZ[›™\ÜÈÛÜ›™XÛÜ™È]KˆÝZ[›™\ÜÈX›\ÚYHØÝ[Y[Y™\Ý[ÛˆÙ\[X™\ˆÌˆH˜Z[™YÚ]ÙZYÚY[YY[™Ý[™ËÛÛ›ÛYœ™X][™È[™[X›ÙKX\›ˆ™ZX\œØ[Ëˆ‹ÚHŽˆ•H™X]Ø\ÈH›Ù™\ÜÚ[Û˜[›ÙXÝ[Û‹›ÝHÛØÚX[[YYXHÚ[[™ÙNˆÝZ[›™\ÜÈØZY˜Z[™YÜ™]ÈÝÛÙžHÚ]š\™H^[™ÝZ\Ú\œÈ[™^XÚ]HØ\›™Y]HÝ[ÚÝ[Û›H™H][\YžH˜Z[™Y›Ù™\ÜÚ[Û˜[ËˆÜ±ošqh[šZÈ\Ý[X]YHY\™›Ü›YYX›Ý]LÜ™[˜\žH[™Ý[™È™Y›Ü™HY[™Èš\™KˆHÛ™È™\\˜][Ûˆ[™š\ÚX›HØY™]HX[H\™H\ÙˆH™XÛÜ™›Ý˜XÚÙÜ›Ý[™XÛÜ˜][Û‹ˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆÈÙXÛÛ™È\ÚYHÝÛˆ[™Ûˆš\™H\ÈÛ™HØ^HÈXZÙH[ˆÜ™[˜\žHY\Ù^HYY][™È™Y[Y™šXÚY[ˆH›ÙXÝ\™Ù]ÈHØÝ[Y[Y™X]ÙY\ÈH\™›Ü›Y\ˆ[›Ûž[[Ý\È[™š\ÚX›H[˜ÛY\È[ˆ[™[YØY™]HÜ™]ø %]\Ù\È›È˜[YK˜XÙKÝZ[›™\ÜÈX\šÈÜˆÛÜYY]™[[XYÙKˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ‘ÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNLM‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ‹œ]Z\Žˆ•HÙ™šXÚX[™Y™\™[˜ÙH›Üˆ™X]È]™\]Z\™HYYXØ]ÜœË™ZX\œØ[È[™[Ü™H^[™ÝZ\Ú\œÈ[ˆ[ˆÙ™šXÙHÚ]Ú[‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLMÝYÏX›\ÜËLŒŸKÈ]HŽˆ”Ý[X[Žˆ^HØ\‹PÜ˜\Ú[™Ë[™KR[\[™Ë›Û™KPœ™XZÚ[™ËX]QYžZ[™ÈÛ]ÛÛÙY™H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌMŒÎNNKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÝ[X[ˆžH[™YY[H‹œ]Z\ŽˆH™]\˜[ˆÝ[ÛÛÜ™[˜]Ü‰ÜÈY[[Ú\ˆ›ÜˆÛÛ^ÛˆH˜Z[š[™È[™ÙÚ\ÝXÜÈ™Z[™\\™[H[\ÜÜÚX›HØÜ™Y[ˆÛÜšËˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌMŒÎNNOÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘š\œÝZYX[X[L]Y][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒÌKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÈš\œÝZYX[X[[]™[Y][Ûˆ‹œ]Z\Žˆ‘[Y\™Ù[˜ÞHÝZY[˜ÙH›ÜˆÜ™[˜\žH[˜ÚY[ÎÈ[\]XØ[H›ÝHX[X[›Üˆ™\›ÙXÚ[™ÈH[X›ÙKX\›ˆ™XÛÜ™ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÌOÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË™ÝZ[›™\ÜÝÛÜ›™XÛÜ™Ë˜ÛÛKÛ™]ÜËÌŒ‹ÎKÜÝ[X[‹\Ù][Û‹Yš\™K]Ú[KYÚ[™ËXKZ[™Ý[™ZÛË\ÜÚ][Û‹Y›Ü‹\™XÛÜ™Xœ™XZÚ[™Ë][YH‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆÌÝZ[›™\ÜÈÛÜ›™XÛÜ™È™\ÜŸKžÈšYŽˆœÙ\ŽK\Ü‹[Ø[ˆ‹š\ÛÑ]HŽˆŒŒ‹LKLŽH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŽKŒˆ‹œXÙHŽˆ•Ø\Ú[™ÝÛ‹ËˆÈK”Ëˆ[™\™ÞHX\šÙ]È‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŽK\Ü‹[Ø[‹ÙXœ‹]HŽˆ•K”ËˆÙ™™\œÈZ[[Ûˆ˜\œ™[Èœ›ÛH[Y\™Ù[˜ÞH™\Ù\™H\ÈY[šXÙ\ÈÝ^HYÚ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌMŒÎ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•HK”ËˆÛÝ™\››Y[ØZYÛˆÙ\[X™\ˆŽH][™\™ÞHÛÛ\[šY\ÈX^H\HÈ›Üœ›ÝÈ\È]XÚ\ÈZ[[Ûˆ˜\œ™[ÈÙˆÜYHœ›ÛHHÝ˜]YÚXÈ]›Û][H™\Ù\™KˆHÙ™™\ˆ\ÈHš[˜[K”Ëˆ˜[˜ÚHÙˆHX\˜ÚYÜ™Y[Y[[™\ˆÚXÚX›Ý]Ì[\›˜][Û˜[[™\™ÞHYÙ[˜ÞHÛÝ[šY\ÈYÙYHÛÛXš[™YZ[[Ûˆ˜\œ™[ÈY\ˆHØ\ˆÚ]\˜[ˆ\Ü\YX\šÙ]ËˆÛÛ\[šY\È]™H[[ØÝØ™\ˆˆÈÝX›Z]›ÜÜØ[Ëˆ‹ÚHŽˆ•\È\ÈHØ[‹›ÝHÚ[\HØ[Nˆ\XÚ\][™ÈÛÛ\[šY\È\™H^XÝYÈ™\^HH™\Ù\™H[ˆÜYKÚ]™[Z][\ÈÙˆ\È]XÚ\È	K[™™]\›œÈ\™H›ÝØÚY[YÈš[š\Ú[[]HŒŽˆH™\Ù\™HØ\È[™XYH™[ÝÈŽZ[[Ûˆ˜\œ™[ø %]ÈÝÙ\Ý]™[Ú[˜ÙHNN¸ %Ú[HK”ËˆØ\ÛÛ[™H[™Y\Ù[šXÙ\È™[XZ[™YÚ\œHX›Ý™H™]Ø\ˆ]™[ËˆHÛXÞHX^HY™X\‹]\›HÝ\K]][ÛÈ\Ú\È™\[š\ÚY[[™Ü\˜][Û˜[[Z]È[ÈH™^ÛÈYX\œËˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆH[Y\™Ù[˜ÞHÝ\›Ø\™\ÈÙ™™\š[™ÈHZÙK[Û™K[X]™K[[Ü™K[]\ˆ›ÙÜ˜[K^Ù\XXÚ][H\ÈH˜\œ™[[™H™XÙZ\[œÈÈŒŽˆHXYÛ™]\Ù\È[ˆ[™[YØ[XØ]™\›ˆÝ]]Ø^K[šÙ\ˆ[™\œ›ÝÜø %›ÝHÛÝ™\››Y[ÙX[ÛÛ\[žHÙÛËÛ]XÚX[ˆÜˆXÙ[œÙY™]ÜÈÝÙÜ˜\ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ“Ú[LH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNŒÎLŒŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÚ[LHžH[Ü™Ø[ˆÝÛ™^H‹œ]Z\ŽˆH˜XÝXØ[X\Ùˆ™Yš[š[™ËÝÜ˜YÙK˜[œÜÜ[™šXÚ[™È›Üˆ[™\œÝ[™[™ÈÚ]H›ÜK[Z[[Û‹X˜\œ™[Ø[ˆXÝX[HÝXÚ\Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNŒÎLŒÝYÏX›\ÜËLŒŸKÈ]HŽˆ•Hš^™NˆH\XÈ]Y\Ý›ÜˆÚ[[Û™^H	ˆÝÙ\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÎLLLLŒËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆHš^™HžH[šY[Y\™Ú[ˆ‹œ]Z\Žˆ•HÛ™È\ÝÜžH™Z[™HÝXœÝ[˜ÙH]ÙY\È\›š[™ÈØ[Ø]™\›œÈ[È[œÝ[Y[ÈÙˆ˜][Û˜[ÛXÞKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÎLLLLŒÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H]Y\Ýˆ[™\™ÞKÙXÝ\š]K[™H™[XZÚ[™ÈÙˆH[Ù\›ˆÛÜ›‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÌLŒNMŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH]Y\ÝžH[šY[Y\™Ú[ˆ‹œ]Z\Žˆ‘[™\™ÞHÙXÝ\š]H[ˆ›ÛÚÈ›Ü›H›ÜˆH[ÛY[Ú[ˆ[Y\™Ù[˜ÞH™\Ù\™\È™XÛÛYH\ÙˆH\KXÛÝ[žHX\šÙ][\™[[Û‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÌLŒNMÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœ™]]\œË˜ÛÛKØ\Ú[™\ÜËÙ[™\™ÞKÝ\Ë\™[X\ÙKM[Z[[Û‹X˜\œ™[ËXÜYK\Ý˜]YÚXË\]›Û][K\™\Ù\™KY[™\™ÞKLŒ‹LKLŽKÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŽH™]]\œÈ™\ÜŸKžÈšYŽˆœÙ\ŽKYÙË\ÛÛ‹š\ÛÑ]HŽˆŒŒ‹LKLŽH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŽKŒˆ‹œXÙHŽˆ“\È™YØ\Ë™]˜YH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŽKYÙË\ÛÛÙXœ‹]HŽˆŒŽMˆÙÜÈZÙHÝ™\ˆH\È™YØ\ÈØ]\ˆ\šÈ[™œ™XZÈHÛÛ\\H™XÛÜ™‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌMŒL‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ‘ÛÙ\[ÛÞ˜HØ]\™YŽMˆÛÙ\È[™ÛÙHZ^\ÈÚ]Z\ˆ˜[Z[Y\È]ÛÝØX[™ØHØ[ž[Ûˆ[ˆ\È™YØ\ÈÛˆÙ\[X™\ˆËˆHÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈYYXØ]ÜˆÛÝ[YH]X[YžZ[™ÈÙÜÈ[™ÛÛ™š\›YYH™]È™XÛÜ™›Üˆ[ÜÝÙÜÈ][™[™ÈHÙÈÛÛ\KÝ\œ\ÜÚ[™ÈH™]š[Ý\ÈX\šÈÙˆÍˆÙ][ˆ›ÜšYH[ˆX^KˆTH™\ÜYH™\Ý[ÛˆÙ\[X™\ˆŽKˆ‹ÚHŽˆ•H]™[Ø\È[Ü™H[ˆ[ˆ[\ÝX[HÙ]XYÛÝ[ˆ]˜Z\ÙY[Û™^H[™][[Ûˆ›ÜˆÛÙH™\ØÝYHTÐKÚÜÙHÛÜšÈ[˜ÛY\È™]\š[˜\žHØ\™KÜ›ÛÛZ[™Ë›ÜÝ\ˆXÙ[Y[˜[œÜÜ™Z]š[Üˆ\ÜÙ\ÜÛY[[™YÜ[Û‹ˆH™XÛÜ™Ø]YÛÜžH\È˜\œ›ÝÈ[™H]™[Ø\ÈÛÛ›ÛYˆÚ[ÝÈØ]\ˆ\™X\ËÝÛ™\œÈ™\Ù[[™[ˆÛ‹\Ú]HYYXØ]Ü‹ˆ]Ù\È›ÝXZÙH[ˆÜ™[˜\žHÛÛØY™H›Üˆ]™\žHÙÈÚ]Ý]Ý\\š\Ú[Û‹ÝZ]X›H[žHÚ[È[™][[ÛˆÈÝÚ[[Z[™ÈXš[]Kˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆŽMˆÙÜÈ[\™YHØ]™HÛÛ[™]™\žH]˜Z[X›HÝÙ[[[YYX][H™XØ[YHH[Ü™]XØ[Øš™XÝˆHXYÛ™]\Ù\È[™[YÙÜÈ[™[ˆÜšYÚ[˜[Ø]\‹\\šÈØÙ[™x %›Ý]™[ÝÙÜ˜\KÜÛœÛÜˆœ˜[™[™Ë™XÛÜ™X\šÜÈÜˆ[žHÜXÚYšXÈ]	ÜÈZÙ[™\ÜËˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ“Ý]Ø\™Ý[™Ü˜[˜žHÜ\ÚÙÈY™H˜XÚÙ]‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒŒŒ’Ñ•ŒK“––––––‹šœÈ‹˜[Žˆ”[šÈÝ]Ø\™Ý[™Ü˜[˜žHÜ\ÚÙÈY™H˜XÚÙ]‹œ]Z\Žˆ[ÞX[˜ÞKH™\ØÝYH[™H[™š\ÚX›HÛÛÜˆ›ÜˆÝ\\š\ÙYØ[š[™HØ]\ˆ[Yx %›ÝHÝXœÝ]]H›ÜˆØ]Ú[™ÈHÙËˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒŒŒ’Ñ•ÝYÏX›\ÜËLŒŸKÈ]HŽˆØ[š[™H[œšXÚY[›ÜˆH™X[ÛÜ›‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒMÎLŽŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆØ[š[™H[œšXÚY[›ÜˆH™X[ÛÜ›‹œ]Z\ŽˆHØÚY[˜ÙK[Z[™YÝZYHÈYY][™ÈHÙÉÜÈ™YYÈÚ[ˆHØ]™HÛÛ\È›Ý]˜Z[X›H›Üˆš]˜]H›ÛÚÚ[™ÜËˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒMÎLŽÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘ÙÙÚYH[™ÝXYÙH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÎÎÍÌMËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÙÙÚYH[™ÝXYÙHžH[HÚ[ˆ‹œ]Z\Žˆ›ÙK[[™ÝXYÙH[›Üˆ[[™ÈHY™™\™[˜ÙH™]ÙY[ˆ[YÚYÜ\Ú[™È[™HÙÈ\ÚÚ[™ÈÈX]™HH\Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÎÎÍÌMÏÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌŽKÑÝZ[›™\ÜËUÛÜ›T™XÛÜ™ËYÙË\ÛÛ\\KYÛÙ\[ÛÞ˜KÍŽMÎLŽMMËÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŽHTH™\ÜŸKžÈšYŽˆœÙ\ŽK\ÚÞY]™\‹\™\ØÝYH‹š\ÛÑ]HŽˆŒŒ‹LKLŽH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŽKŒˆ‹œXÙHŽˆ‘X\Ý›ÞKÚ\ØÛÛœÚ[ˆ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŽK\ÚÞY]™\‹\™\ØÝYKÙXœ‹]HŽˆ”ÚÞY]™\œÈ\˜XÚ]H[ÈHÚ\ØÛÛœÚ[ˆÛÜ›™šY[ÈZY[™KXÜ˜\ÚÝ\š]›ÜœÈ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌMŒLH‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•™YH^\šY[˜ÙYÚÞY]™\œÈX›Ø\™HÚÞY]™HZ[Ø]ZÙYHZ\˜Ü˜YØ]ÈHÚ[™ÛKY[™Ú[™H[™HØ\œžZ[™È›Ý\ˆ[ÜHÜ˜\Ú[ÈHÛÜ›™šY[™X\ˆX\Ý›ÞHÛˆÙ\[X™\ˆËˆY\ˆH[\[Ý™\ÜYHÜ˜\ÚH™YH\˜XÚ]Y™X\ˆHY™šXÝ[]Ë\™XXÚÚ]Kˆ]X\ÝÛÈY›Ü›Y\ˆ\˜[YYXÈ˜Z[š[™Ë[™Û™H™X]YHÛÛX[ˆÚ]HÙ\š[Ý\ÈXY[š\žH[[Ü›Ý[™™\ÜÛ™\œÈ\œš]™YˆHÝX\™X[ˆ™\ÜYH™\ØÝYHÛˆÙ\[X™\ˆŽKˆ‹ÚHŽˆ[›Ý\ˆ[ÜHX›Ø\™HÜ˜\ÚY[™HÝ\š]™YÈ™YHÙ[ÈHÜÜ][[™Û™HØ\È™X]Y]HØÙ[™KˆH™\Ý[\[™YÛˆH˜\™HÝ™\›\Ùˆ[Z[™ËÚÚ[[™[Y\™Ù[˜ÞH˜Z[š[™Ë›ÝÛˆÜXÝ]ÜœÈ[\›Ýš\Ú[™ÈH[™Ù\›Ý\È[\ˆH˜][Û˜[˜[œÜÜ][ÛˆØY™]H›Ø\™Ü[™Y[ˆ[™\ÝYØ][Ûˆ[ÈHÜ˜\ÚÛÈHØ]\ÙH™[XZ[œÈ[ˆÙ™šXÚX[[œ]Z\žH˜]\ˆ[ˆH›\ÜÈÛÛ˜Û\Ú[Û‹ˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆš\œÝ™\ÜÛ™\œÈ\œš]™YžHHÛ›H›Ý]HHÛÜ›™šY[YYÜ[¸ %Ý˜ZYÚÝÛ‹ˆHXYÛ™]ÙY\ÈH[\\œÈ[™\ÜÙ[™Ù\œÈ[›Ûž[[Ý\È[™\Ù\ÈHÙ[™\šXÈZ\˜Ü˜Y\˜XÚ]\È[™š\œÝXZY˜Yø %›Ý˜XÙ\ËÛÛ\[žHX\šÜË[ˆ[š\žHØÙ[™HÜˆXÙ[œÙY›ÛÝYÙKˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ”ÚÞY]™\‰ÜÈ[™›Ü›X][ÛˆX[X[Œˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒÐÑÎÐ”‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH[š]YÝ]\È\˜XÚ]H\ÜÛØÚX][ÛˆÚÞY]™\‰ÜÈ[™›Ü›X][ÛˆX[X[Œˆ‹œ]Z\Žˆ•HÝ\œ™[K”Ëˆ™Y™\™[˜ÙH›ÜˆH˜Z[š[™È[™›ØÙY\™\È™Z[™H[\]ÚÝ[™]™\ˆ™HZ\ÝZÙ[ˆ›Üˆ[\›Ýš\Ø][Û‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÐÑÎÐ”ÝYÏX›\ÜËLŒŸKÈ]HŽˆ”\˜XÚ][™ÎˆHÚÞY]™\‰ÜÈ[™›ÛÚÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMMŽŒMMËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ\˜XÚ][™ÈHÚÞY]™\‰ÜÈ[™›ÛÚÈ‹œ]Z\ŽˆHXÚšXØ[[™›ÛÚÈ›ÜˆH\Ùˆ\È™\ØÝYH]™YØ[ˆÝ\Ø[™ÈÙˆ™Y]™Y›Ü™HHš\œÝYYXØ[\ÜÙ\ÜÛY[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMMŽŒMMÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘š\œÝZYX[X[L]Y][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒÌKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÈš\œÝZYX[X[[]™[Y][Ûˆ‹œ]Z\Žˆ”Ý\XžK\Ý\[Y\™Ù[˜ÞHÝZY[˜ÙH›Üˆ˜Z[™Y™\ÜÛ™\œÈ[™ž\Ý[™\œÈÚÈ™XXÚHØÙ[™HžH[Ü™HÛÛ™[[Û˜[›Ý]\Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÌOÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËYÝX\™X[‹˜ÛÛKÝ\Ë[™]ÜËÌŒ‹ÜÙ\ÌŽKÜÚÞY]™\œË\\˜[YYXÜË\[™KXÜ˜\Ú]šXÝ[\È‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŽHÝX\™X[ˆ™\ÜŸKžÈšYŽˆœÙ\ŽKZ™]\ÚÚK\Ý[‹š\ÛÑ]HŽˆŒŒ‹LKLŽH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŽKŒˆ‹œXÙHŽˆ˜[™ÚÛÚËZ[[™‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŽKZ™]\ÚÚK\Ý[ÙXœ‹]HŽˆ’™]ÚÚHÝ[Ûˆ›ÛÙY˜[™ÚÛÚÈÝ™Y][™ÈÚ]˜Z[š[™H[™ÛÛ™š\ØØ][Ûˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌMŒNH‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHË^YX\‹[ÛX[ˆ›ÙHH™]ÚÚH[Û™È›ÛÙY™]È]ÚX\šH›ØYÚ[H™ZXÛ\È[™™\ÚY[ÈÙ\™H˜]šYØ][™ÈHÚY\ˆ›ÛÙ[Y\™Ù[˜ÞKˆšY[ÈÚÝÙYHÜ˜YXZÚ[™ÈÚ\œ\›œÈ[™›ÙXÚ[™È\™ÙHØ]™\ËˆXZÚØ\Ø[ˆÛXÙH]Z[™YHšY\ˆ[™Ú\™ÙY[HÚ]Ø]\Ú[™ÈHX›XÈZ\Ø[˜ÙH[™ØœÝXÝ[™È˜Y™šXÎÈHÛÝ\™YXÙYHÛ™K[[Û˜Z[Ù[[˜ÙH[™LX˜Zš[™HÈMH^\È[™K˜ZY\ˆHÝZ[HXH[™ÛÛÜ\˜][Û‹[™Ü™\™YH™]ÚÚHÛÛ™š\ØØ]Yˆ[™XHÙ^H™\ÜYHØ\ÙHÛˆÙ\[X™\ˆŽKˆ‹ÚHŽˆ•HØ]™\ÈÙ\™H›Ý\›[\ÜÈÝYÙHY™™XÝÎˆ›ÛÙØ]\ˆØ\È[™XYHÝ\œ›Ý[™[™ÈÝ[Y™ZXÛ\ËÛY\È[™X›XÈ[™œ˜\ÝXÝ\™H\š[™ÈH\Ø\Ý\ˆ]YÚ[Y]X\ÝŒÈ[ÜHXÜ›ÜÜÈZ[[™žHÙ\[X™\ˆŽKˆ]]Üš]Y\È[ÛÈÚ\™ÙYH\œÛÛˆ™XÛÜ™[™ÈHÝ[ˆHœ›ØY\ˆ\ÜÛÛˆ\È™Z]š[Ü˜[[™ÜXÚYšXø %\›š[™È[ˆ[Y\™Ù[˜ÞH›Ý]H[ÈÛÛ[Ø[ˆYØZÙKš\ÚÈ[™ØœÝXÝ[Ûˆ›Üˆ[ÜHÚÈY›ÝÛÛœÙ[ÈHÚÝËˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆHšY\ˆØZYHØ[YÈXZÙH[ÜHÛZ[NÈHÛÝ\Ý\YYH\ÜÈ[XšYÝ[Ý\È™]šY]ËˆH›\ÜÈ›ÙXÝ\™Ù]ÈHØÝ[Y[YÝ[›ÝHš]˜]H\œÛÛ‰ÜÈ\X\˜[˜ÙHÜˆY™K[™\Ù\È[ˆ[›Ûž[[Ý\È[Y]YšYÝ\™KÙ[™\šXÈ™]ÚÚH[™[™[Y›ÛÙYÝ™Y]8 %›ÝH˜[YK˜XÙKœ˜[™ÜˆÛÜYYšY[Èœ˜[YKˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•H\Ø\Ý\‹T™XYHÛYH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMLÌŒMÌÍ‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH\Ø\Ý\‹T™XYHÛYHžHÜ™YZÈÝ]Ø\‹œ]Z\ŽˆH™\\™Y™\ÜÈX[X[›Üˆ™X][™ÈH›ÛÙ\ÈHÝ\ÙZÛ[Y\™Ù[˜ÞH[œÝXYÙˆ[ˆ[œÛÛXÚ]Y[ÝÜœÜÜ™[YKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLÌŒMÌÍÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H[[šØX›H
+™]š\ÙY[™\]Y
+H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNLÍÎMÌŒKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH[[šØX›HžH[X[™Hš\^H‹œ]Z\Žˆ•HØÚY[˜ÙHÙˆ\Ø\Ý\ˆ™Z]š[Üˆ›Üˆ]™\ž[Û™HÚ\š[™ÈH›ØYÚ]Û™H\œÛÛˆ]Y][Ûš[™È›ÜˆH™\žHÚÜYÚYÚ™Y[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLÍÎMÌŒOÝYÏX›\ÜËLŒŸKÈ]HŽˆ“˜][Û˜[Ù[ÙÜ˜\XÈ™XY\œÎˆÝÜ›\ÈH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒÌÎMËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ˜][Û˜[Ù[ÙÜ˜\XÈ™XY\œÈÝÜ›\È‹œ]Z\ŽˆHÛX\ˆ[›ÙXÝ[ÛˆÈ^™[YHÙX]\ˆ›Üˆ™XY\œÈÚÈ™YYHÜXÚX[\Ý[˜Ý[Ûˆ™]ÙY[ˆ›ÛÙØ]\ˆ[™HØ]\ˆ\šËˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÌÎMÏÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËš[™X]Ù^Kš[‹ÝÛÜ›ÜÝÜžKØ˜[™ÚÛÚËY›ÛÙËZ™]\ÚÚK\šY\‹Z˜Z[YXY\‹]š\˜[\Ý[[Û‹\ÝX›Y\™ÙY\›ØYLÌŒŒ‹LŒ‹LKLŽH‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŽH[™XHÙ^H™\ÜŸKžÈšYŽˆœÙ\Ž\Ý\œÚ\[Ü˜š]‹š\ÛÑ]HŽˆŒŒ‹LKLŽ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŽŒˆ‹œXÙHŽˆ”ÛÝ]^\ÈÈX\Ü˜š]‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\Ž\Ý\œÚ\[Ü˜š]ÙXœ‹]HŽˆ”Ý\œÚ\™XXÚ\ÈÜ˜š]›ÜˆHš\œÝ[YK[ˆ™]\›œÈ™YHÝ\œÈ[ÈH[‹ZÝ\ˆZ\ÜÚ[Ûˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌLŒŒÍH‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ”ÜXÙV	ÜÈÝ\œÚ\™XXÚYÜ˜š]›ÜˆHš\œÝ[YHÛˆÙ\[X™\ˆŽ[™\ÞYYˆY˜[˜ÙYÝ\›[šÈØ][]\ËˆH[›™Y[‹ZÝ\‹Ú^[Ü˜š]›YÚ[™YY\ˆX›Ý]™YHÝ\œÈ[™ÛÈÜ˜š]ÈÚ[ˆHÛÛ\[žHœ›ÝYÚH™ZXÛHÛYHX\›H›ÛÝÚ[™È[ˆ[™Ú[™HÚ]ÝÛ‹ˆÝ\œÚ\Ý\š]™Y™KY[žKÜ\ÚYÝÛˆ[ˆH›Ü\›ˆXÚYšXÈ[™[ˆ\YÝ™\ˆ[™Ø]YÚš\™Kˆ‹ÚHŽˆ•H›YÚÛÛXš[™YHÙ[Z[™HZ[\ÝÛ™HÚ]HÚÜ[™Y\Ýˆ™XXÚ[™ÈÜ˜š][™\ÞZ[™È^[ØYÈY˜[˜Ù\ÈH][˜ÚÞ\Ý[H[[™YÈØ\œžH\™Ù\ˆØ][]H˜]Ú\È[™Ý\ÜTÐIÜÈ\[Z\È[ÛÛˆ[œËÚ[HHX\›H[™Ú[™HÚ]ÝÛˆX]™\È[™Ú[™Y\œÈÚ]H™]È™[XXš[]H›Ø›[HÈ[™\œÝ[™ˆHØY™H™]\›ˆ[[ÛœÝ˜]\È›ÙÜ™\ÜÎÈ]Ù\È›Ý\›ˆH\X[Z\ÜÚ[Ûˆ[ÈH[HÛÛ\]YÛ™Kˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆÜ˜š]š[˜[HÝ[\YH\ÜÜÜ]H™]\›ˆXÚÙ]Ý[Ø[YHÚ]™YHÝ\œÈÙˆ›Ý\ËˆHXYÛ™]\Ù\ÈHÙ[™\šXÈ›ØÚÙ][™[YØ][]\È[™ÜšYÚ[˜[ÛÜx %›ÝHÛÛ\[žHÙÛË˜[YY™ZXÛHZÙ[™\ÜÈÜˆ™]ÜÈÝÙÜ˜\ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ”›ØÚÙ]›Ü[Ú[Ûˆ[[Y[Ëš[Y][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLLNÍLÍNŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ›ØÚÙ]›Ü[Ú[Ûˆ[[Y[Ëš[Y][Ûˆ‹œ]Z\Žˆ•H[™Ú[™Y\š[™È^›ÛÚÈ›ÜˆH\ÙˆHZ\ÜÚ[ÛˆÚ\™H]™\žH[™Ú[™H\È^XÝYÈÙY\]È\Ú[Y[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLLNÍLÍNÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘[™[Y[[ÈÙˆ\Ý›Ù[˜[ZXÜÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌŒŒLŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ[™[Y[[ÈÙˆ\Ý›Ù[˜[ZXÜÈ‹œ]Z\Žˆ“Ü˜š]]\›Z[˜][Ûˆ[™ÛËX›ÙHYXÚ[šXÜÈ›Üˆ[™\œÝ[™[™ÈÚH™XXÚ[™ÈÜ˜š]\ÈH™\žHY™™\™[ÛZ[Hœ›ÛHÛÛ\][™ÈH›YÚ[‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŒŒLÝYÏX›\ÜËLŒŸKÈ]HŽˆ”XÚÚ[™È›ÜˆX\œÎˆHÝ\š[Ý\ÈØÚY[˜ÙHÙˆY™H[ˆH›ÚY‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÎLÌÌÎNLL‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆXÚÚ[™È›ÜˆX\œÈžHX\žH›ØXÚ‹œ]Z\Žˆ•H[X[ˆÚYHÙˆÜXÙY›YÚ›ÜˆH][˜ÚÞ\Ý[H][[X][HÜ\ÈÈØ\œžH[Ü™H[ˆØ][]\Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÎLÌÌÎNLLÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËØ\™]ÜË˜ÛÛKØ\XÛKÌŒ™ØÍNM˜™ØMLXLLMY˜ÍY™N‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŽ\ÜÛØÚX]Y™\ÜÈ™\ÜŸKžÈšYŽˆœÙ\Ž]ÜÚ\ÙKY\ØØ\H‹š\ÛÑ]HŽˆŒŒ‹LKLŽ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŽŒˆ‹œXÙHŽˆ“]]Û‹ÛÛÜ˜YÈ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\Ž]ÜÚ\ÙKY\ØØ\KÙXœ‹]HŽˆ“™X\›HL\Ý[™ÜÚ\ÙHÝYÙ\ÈHÛÜ›8 &\ÈÛÝÙ\Ý\ØØ\H‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌLŒ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•H™Y™™\œÛÛˆÛÝ[HÚ\šY™‰ÜÈÙ™šXÙH™[X\ÙYšY[ÈÛˆÙ\[X™\ˆŽœ›ÛH[ˆ]YÝ\ÝÌH[š[X[XÛÛ›ÛØ[[›Ûš[™È\™H™X\›HL\Ý[™Ý[Ø]HÜÚ\ÙKˆ\™Y\ØØ\YH™[˜ÙYX\™[ˆ]]Û‹[™\ÈÝÛ™\ˆÛÝ[›Ý\œÝXYH[HÈ™]\›‹ˆ[ˆ[š[X[XÛÛ›ÛÙ™šXÙ\ˆ[™Hž\Ý[™\ˆYYH[š[š\™YÜÚ\ÙH[™Ø\œšYY[HÛYKˆ‹ÚHŽˆ•H™\Ü\È[›žH™XØ]\ÙHH\ØØ\YHØ\ÈÛÝÈ[™^™[Y[HY™šXÝ[È[Ý™K]][ÛÈ[\Ý˜]\ÈHÛ™Ë]\›HØØ[HÙˆÙY\[™ÈHÝ[Ø]HÜÚ\ÙKˆ\ÙH[š[X[ÈØ[ˆ™XÛÛYH™\žH\™ÙK™\]Z\™HÙXÝ\™H[˜ÛÜÝ\™\È[™ÚÝ[™H[™YÚ]\›ÜšX]H[˜]\ˆ[ˆ˜YÙÙYÜˆ[\›Ýš\ÙY\ÈYÙØYÙKˆHX›XØ][Ûˆ]H[™[˜ÚY[]H\™HY™™\™[ÛÈ›Ý\™HÝ]Yˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆÜÜYYØ\È]™[X[K]HÙ]]Ø^H™ZXÛH™\]Z\™YÛÈY[È[™H™YÛÝX]YÝ\œ™[™\‹ˆHXYÛ™]\Ù\È[ˆ[™[YÜÚ\ÙH[™[›Ûž[[Ý\ÈÛÝ™Y[™ø %›ÝH[š[X[XÛÛ›ÛšY[ËHš]˜]HÛYHÜˆH]	ÜÈÝÙÜ˜\XÈZÙ[™\ÜËˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ”Ý[Ø]HÜÚ\ÙH]ÝÛ™\œÈÝZYH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÎLŽMËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÝ[Ø]HÜÚ\ÙH]ÝÛ™\œÈÝZYHžH™[ˆX[H‹œ]Z\Žˆ”ÜXÚY\Ë\ÜXÚYšXÈ\Ø˜[™žH›ÜˆH[žH]ÚÜÙHÛ™Ë]\›H›ÛÜˆ[ˆX^H]™[X[H[˜ÛYH[ÜÝÙˆHX\™ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÎLŽMÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ•ÜÚ\Ù\È\È]ÎˆÝÛ™\‰ÜÈÝZYH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNLLŒMLLŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÜÚ\Ù\È\È]ÈžH™[ˆX[H‹œ]Z\ŽˆØ\™KXš]][™™Z]š[Üˆ˜XÚÙÜ›Ý[™›Üˆ[™\œÝ[™[™ÈÚHHX]žHÚ[Ý[™YYÈHÙ\š[Ý\È[˜ÛÜÝ\™Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLLŒMLLÝYÏX›\ÜËLŒŸKÈ]HŽˆ–›ÛÈYY™\HØ[Ú][HÚ]Ý]ËÝ[˜ÙH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒR”ŒK“––––––‹šœÈ‹˜[Žˆ’˜\ˆÙˆ›ÛÈYY™\HØ[Ú][HÚ]Ý]š][Z[ˆÈ‹œ]Z\ŽˆH™\[HÝ\[Y[ÚÜÙH\ÙH™[Û™ÜÈ[ˆHÜXÚY\ËX\›ÜšX]HØ\™H[¸ %›Ý[ˆ[ˆ[Y\™Ù[˜ÞH\ØØ\K\™XØ\\™H[\›Ýš\Ø][Û‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒR”ÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌŽÝÜÚ\ÙKR™Y™™\œÛÛ‹PÛÝ[KPÛÛÜ˜YËÎMÌMÎLŒLKÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŽTH™\ÜŸKžÈšYŽˆœÙ\ŽZ[K]X[H‹š\ÛÑ]HŽˆŒŒ‹LKLŽ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŽŒˆ‹œXÙHŽˆ›Ú\ÙKYZÈ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŽZ[K]X[KÙXœ‹]HŽˆ•™YK^YX\‹[Û[™Y[\›ÝYÚÛ™HÛÜš[™H[Y\È›ÜˆHÛÜ›™XÛÜ™‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌLŒÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ’YZÈ™XÛÜ™Xœ™XZÙ\ˆ]šY\Ú[™\È™YK^YX\‹[Û]YÚ\ˆ][\YHÝZ[›™\ÜÈÛÜ›™XÛÜ™È]H›Üˆ[ÜÝ\ÜÙ\È›ÝYÚH˜XÚË\Ü[ˆ[HÛÜ[ˆÌÙXÛÛ™Ëˆ^HÜ›ÜÜÙYHÛÜ[ˆ[Y\Ë]Û™H\ÜÈØ\È\Ü]X[YšYYX]š[™Èš[™H˜[Y\ÜÙ\ø %Û™H[Ü™H[ˆHÝ[™[™È™XÛÜ™ÙˆZYÚˆ\ÚØZYHÙ™šXÚX[Ù\YšXØ]H\œš]™YÙ]™\˜[ÙYZÜÈ]\‹ˆ‹ÚHŽˆ•H[X™\ˆ\ÈÛX[[›ÝYÚÈÛÝ[™X\ÞH[[ÛÛÜ™[˜][Û‹[Z[™È[™H[Ýš[™ÈÛÜ[]™HÈYÜ™YHÚ][ˆÌÙXÛÛ™ËˆHXØÛÝ[[ÛÈX]\œÈ\ÈH˜[Z[HÝÜžNˆ\ÚØZY^H˜XÝXÙYÛ›HÚ[ˆ\È]YÚ\ˆØ[YËÙY\[™ÈHX›XÈ™XÛÜ™][\ÝX›Ü™[˜]HÈH™\ØÚÛÛ\‰ÜÈÛÛœÙ[[™[š›Þ[Y[ˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆš[™HÙ™šXÚX[\ÜÙ\ËÛ™H[žHX[[X]H[™HÛÜ›™XÛÜ™Ú]H™Y[YKˆHXYÛ™]ÙY\È›Ý[ÜH[›Ûž[[Ý\È[™\Ù\ÈÚ[\YšYYÚ[ÝY]\È[™[ˆ[™[YÛÜ8 %›ÝZ\ˆ˜[Y\Ë˜XÙ\Ë›ÛÝYÙHÜˆÝZ[›™\ÜÈœ˜[™[™Ëˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ‘ÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNLM‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ‹œ]Z\Žˆ•H[›X[ÛÛXÝ[Ûˆ›ÜˆÚXÚÚ[™ÈÚ]š[™HÛX[ˆÛÜ\ÜÙ\ÈÛÚÈZÙHY\ˆHYYXØ]ÜœÈš[š\ÚÛÝ[[™Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLMÝYÏX›\ÜËLŒŸKÈ]HŽˆ”É”ÈÛÜ›ÚYH›ËRÛ›Ý[HÛÜÈÙ]ÙˆN‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒÓMÑ‘“ËŒK“––––––‹šœÈ‹˜[Žˆ”Ù]ÙˆÛÛÜ™[È[™ÈÛÜ›ÚYH›ËRÛ›Ý[HÛÜÈ‹œ]Z\Žˆ“][\HÚ^™\È›ÜˆH˜XÝXÙHÙ\ÜÚ[Ûˆ][™ÈÚ[ˆH[Ý[™Ù\ÝX[[X]HØ^\ÈH˜XÝXÙHÙ\ÜÚ[Ûˆ[™Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÓMÑ‘“ÏÝYÏX›\ÜËLŒŸKÈ]HŽˆŒLHÚYÈXÝ]š]Y\È]\™HH™\Ý\Ý[›™\Ý]™\ˆH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒMMÌ‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆLHÚYÈXÝ]š]Y\È]\™HH™\Ý\Ý[›™\Ý]™\ˆ‹œ]Z\ŽˆH\™[X[™XÚ[XÝ]š]H˜[šÈ›Üˆ^\ÈÚ[ˆH™XÛÜ™›ÛÚÈ\ÈÜ[Û˜[[™H[ˆ\ÈHÚÛH]™[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒMMÌÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌŽÑÝZ[›™\ÜËUÛÜ›T™XÛÜ™ËQ]šYT\ÚZ[KZÛÜ\\ÜÙ\ËÍMÎLŒMÍ‹È‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŽTH™\ÜŸKžÈšYŽˆœÙ\Ë\Ý˜Z]][È‹š\ÛÑ]HŽˆŒŒ‹LKLÈ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ËŒˆ‹œXÙHŽˆ”Ý˜Z]ÙˆÜ›]^ˆÈ™]È[ÜšÈ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\Ë\Ý˜Z]][ËÙXœ‹]HŽˆ’\˜[ˆØ^\È\ÛXXÞH\ÈHÛ›H›Ý]HY\ˆK”Ëˆ™Z™XÝÈÝ˜Z]ÙˆÜ›]^ˆ[ˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌLŽLˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ’\˜[šX[ˆ™\ÚY[X\ÛÝY^™\ÚÚX[ˆØZYÛˆÙ\[X™\ˆÈ]Û›H\ÛXXÞHÛÝ[™\ÛÛ™HHÛÛ™›XÝY\ˆ™\ÚY[Û˜[[\X›XÛH™Z™XÝYH›ÜÜØ[[[™YÈ™[Ü[ˆHÝ˜Z]ÙˆÜ›]^‹ˆ™]]\œÈ™\ÜY]H[ˆØ\È˜[œÛZ]Y›ÝYÚX]\ˆ\š[™ÈHK“‹ˆÙ[™\˜[\ÜÙ[X›H[™]\˜[ˆYY™[Ü[š[™ÈHØ]\Ø^HÈHœ›ØY\ˆYÜ™Y[Y[ÈYYX]ÜœÈY›Ý›Ü›X[H™[^YYHK”Ëˆ™Z™XÝ[ÛˆÈZ˜[ˆÚ[ˆH™\ÜØ\Èš[Yˆ‹ÚHŽˆ•HÝ˜Z]\ÈHÜš]XØ[›Ý]H›Üˆ[™\™ÞH[™ÛÛ[Y\˜ÚX[Ú\[™ËÛÈHY™™\™[˜ÙH™]ÙY[ˆHX›XÈ™Z™XÝ[Ûˆ[™H›Ü›X[H˜[œÛZ]Y™YÛÝX][™ÈÜÚ][ÛˆX]\œËˆHÝ][Y[Y›Ý›ÙXÙH[ˆYÜ™Y[Y[Üˆ™[Ü[ˆHØ]\Ø^Kˆ]YÚÝÈ]›ÝH\ÚXØ[Ú\[™ÈÚ[›™[[™H\ÛX]XÈÚ[›™[™[XZ[™YÙ[˜[ÈÚ]\[œÈ™^ˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆÚ[ˆÛ™H˜\œ›ÝÈ\ÜØYÙHØ\œšY\È›Ý[šÙ\œÈ[™HÛÜ›	ÜÈ[ÜÝÛÛœÙ\]Y[X[Ü›Ý\Ú]ÛÛYX›ÙH\ÈÈÙY\H[™HÜ[‹ˆHXYÛ™]\Ù\È[ˆ[™[Y™Y[\Û™K[›Ûž[[Ý\ÈÚ\È[™[ˆÜšYÚ[˜[X\8 %›ÝHXY\‰ÜÈ˜[YKZÙ[™\ÜË˜][Û˜[[X›[HÜˆ™]ÜÈÝÙÜ˜\ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ‘Ù][™ÈÈY\Îˆ™YÛÝX][™ÈYÜ™Y[Y[Ú]Ý]Ú]š[™È[ˆ‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÌLNÍMËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÙ][™ÈÈY\ÈžH›ÙÙ\ˆš\Ú\‹Ú[X[H\žH[™œXÙH]Ûˆ‹œ]Z\Žˆ•HÛ\ÜÚXÈÝZYHÈÙ\\˜][™ÈÜÚ][ÛœÈœ›ÛH[\™\ÝÈÚ[ˆH™YÛÝX][™ÈX›H\ÈHÚ\[™È[™H[›š[™È›ÝYÚ]ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÌLNÍMÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘\ÛXXÞH‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌMLLNLKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ\ÛXXÞHžH[œžHÚ\ÜÚ[™Ù\ˆ‹œ]Z\Žˆ’\ÝÜšXØ[ÛÛ^›ÜˆHÛÝÈXXÚ[™\žH]ÛÛ[Y\ÈÛÜšÚ[™ÈY\ˆH›ÜÜØ[YY]ÈHX›XÈ›Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌMLLNLOÝYÏX›\ÜËLŒŸKÈ]HŽˆ”š\ÛÛ™\œÈÙˆÙ[ÙÜ˜\Nˆ[ˆX\È]^Z[ˆ]™\ž][™ÈX›Ý]HÛÜ›‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMLLLŒMÌ‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆš\ÛÛ™\œÈÙˆÙ[ÙÜ˜\HžH[HX\œÚ[‹œ]Z\ŽˆHX\[Y^[˜][ÛˆÙˆÚH˜\œ›ÝÈØ]\Ø^\ÈÙY\XÜ]Z\š[™È™\žH\™ÙHÙ[ÜÛ]XØ[ÛÛœÙ\]Y[˜Ù\Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLLLŒMÌÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË™Ý[‹][Y\Ë˜ÛÛKØ\XÛKÍÌMŽNMKÚ[\›˜][Û˜[Ú\˜[‹Z[œÚ\ÝË[Û‹Y\ÛX]XË\ÛÛ][Û‹XY\‹][\\™Z™XÝË\XXÙK\[ˆ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆÈ™]]\œÈ™\ÜšXHÝ[ˆ[Y\ÈŸKžÈšYŽˆœÙ\Ë\Û˜ZÙKYÛÛˆ‹š\ÛÑ]HŽˆŒŒ‹LKLÈ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ËŒˆ‹œXÙHŽˆ”Ø[ˆ[Ûš[Ë^\È‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\Ë\Û˜ZÙKYÛÛ‹ÙXœ‹]HŽˆ”Û˜ZÙHÝØ[ÝÜÈ™YHÛÛˆ˜[ÎÈ™]\š[˜\šX[œÈš[š\ÚH›Ý[™Ú]Ý]Ý\™Ù\žH‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌLŽLŽH‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•™]\š[˜\šX[œÈ]ÛÝ]^\È]šX[ˆ	ˆ^ÝXÈÜÜ][™X]YHÛ˜ZÙH]YÝØ[ÝÙY™YHÛÛˆ˜[ÈY\ˆ\\™[HZ\ÝZÚ[™È[H›ÜˆYÙÜËˆHÙ\[X™\ˆÈ™\ÜÚÝÙYHX]š[HÙY]Y[š[X[Ú[HHX[HX[X[H[Ý™YXXÚ˜[ÝØ\™]È[Ý][™™[[Ý™Y[™YHÚ]Ý]Ý\™Ù\žKˆ‹ÚHŽˆ”ÝØ[ÝÙY›Ü™ZYÛˆØš™XÝÈØ[ˆØœÝXÝÜˆ[š\™H[ˆ[š[X[[™[\›Ýš\ÙY™[[Ý˜[Ø[ˆXZÙHH[XYÙHÛÜœÙKˆH\ÙY[\Ùˆ\ÈXœÝ\™[XYÙH\ÈH›Ù™\ÜÚ[Û˜[™\ÜÛœÙNˆÙY][Û‹ÛÛ›ÛY[™[™È[™™]\š[˜\žHYÛY[]›ÚYY[ˆÜ\˜][Ûˆ[ˆ\ÈØ\ÙKˆ]\È›ÝHËZ]^[Ý\œÙ[ˆXÚš\]YH›ÜˆH]ÜˆÚ[Û˜ZÙKˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆHÛ˜ZÙH^YY™YH˜[ÈÝ™\ˆ\‹ÚÚ\YHÛXšÝ\ÙH[™Ý[™XÙZ]™YHYYXØ[ØÛÜ™XØ\™X\šÙY	Û›È[˜Ú\Ú[Û‹‰ÈHÛÛXÝX›H\Ù\È[ˆÜšYÚ[˜[\˜^K\Ý[H[\Ý˜][Ûˆ[™[›Ûž[[Ý\ÈÛÝ™Y[™ø %›ÝÛ[šXÈ›ÛÝYÙKH™X[ÜXÚ[Y[ˆ[XYÙHÜˆH™]\š[˜\žH[™ÜœÙ[Y[ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ”]\œÛÛˆšY[ÝZYHÈ™\[\È[™[\XšX[œÈÙˆX\Ý\›ˆ[™Ù[˜[›Ü[Y\šXØH‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMLŽNMÌŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH]\œÛÛˆšY[ÝZYHÈ™\[\È[™[\XšX[œÈ‹œ]Z\ŽˆHšY[ÝZYH›ÜˆY[YžZ[™ÈH™\[H™Y›Ü™HXÚY[™ÈÚ]\ˆH[™È™\ÚYH]\ÈXš]]^˜\™Üˆ[˜Úˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLŽNMÌÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H›ÛÚÈÙˆÛ˜ZÙ\ÎˆHY™KTÚ^™HÝZYHÈÚ^[™™YÜXÚY\Èœ›ÛH\›Ý[™HÛÜ›‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌŒNLÎVŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH›ÛÚÈÙˆÛ˜ZÙ\ÈžHX\šÈÉÔÚXH‹œ]Z\Žˆ”Ú^[™™YÜXÚY\Ë›Û™HÙˆÚÜÙHÙ™šXÚX[Y]È[˜ÛYHHÛY]™HÙˆ™YÝ[][ÛˆÛÛˆ˜[Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŒNLÎVÝYÏX›\ÜËLŒŸKÈ]HŽˆØ[]Ø^HÛÛˆØ\˜š\™ÛÛˆ˜[ËL‹TXÚÈ‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒ“QÖUÕ”ÒŒK“––––––‹šœÈ‹˜[Žˆ›ÞÙˆÚ]HØ[]Ø^HØ\˜š\™ÛÛˆ˜[È‹œ]Z\ŽˆHÞ™[ˆÛÛˆ˜[È›Üˆ˜Z\Ø^\Ë˜XÝXÙHÜ™Y[œÈ[™]™\žHØØ][Ûˆ]\È›Ý[œÚYHHÛ˜ZÙKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ“QÖUÕ”ÒÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË›™‹˜ÛÛKÛÙ™˜™X]ÝšY[Ë\Û˜ZÙK\ÝØ[ÝÜËLËYÛÛ‹X˜[Ë]™]\š[˜\šX[œË\[[Ù™‹Z[˜Ü™YX›K\™\ØÝYK]Ú]Ý]\Ý\™Ù\žKLLŒLˆ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆÈ‘ˆ™\ÜŸKžÈšYŽˆœÙ\Ë\˜Z[žK\™\Z\ˆ‹š\ÛÑ]HŽˆŒŒ‹LKLÈ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ËŒˆ‹œXÙHŽˆ’˜\[ˆ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\Ë\˜Z[žK\™\Z\‹ÙXœ‹]HŽˆ’˜\[™\ÙHšXÞXÛHYXÚ[šXÈš^\ÈÜ˜\Ú[XYÙH›Üˆœ™YNÈšY\ˆ™]\›œÈÚ][˜Ú‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌLŽLÌˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ[ˆ[™X[ˆÛÛX[ˆ]š[™È[ˆ˜\[ˆØZYÚH™[œ›ÛH\ˆšXÞXÛH[ˆH˜Z[ˆ[™™[]È[™X˜\‹ˆXØÛÜ™[™ÈÈHÙ\[X™\ˆÈ™\ÜH™X\˜žHšXÞXÛK\ÚÜÝÛ™\ˆš\œÝÚXÚÙYÚ]\ˆÚHØ\È\™\Z\™YHšXÞXÛH\š[™È\È[˜Úœ™XZË™Y\ÙY^[Y[[™Ø]™H\ˆÙ]\›ØYØY™]HYšXÙKˆÚH]\ˆ™]\›™YÚ]HÝYX[\È[šÜËˆ‹ÚHŽˆ•HXØÛÝ[\ÈHÛX[]šX]Y[X[ˆÝÜžH˜]\ˆ[ˆHÛZ[HX›Ý][ˆ[\™HÛÝ[žHÜˆÝ[\™Kˆ]È˜[YH\ÈHØÝ[Y[YÙ\]Y[˜ÙHÙˆ˜XÝXØ[Ø\™NˆÚXÚÈH\œÛÛ‹š^H[[YYX]H›Ø›[KXÛ[™HH™YH[™Ú\™HØY™]HÝZY[˜ÙKˆHšY\‰ÜÈ™]\›ˆÚ][˜Ú\›™Y[[È™XÚ\›ØÚ]H˜]\ˆ[ˆHÛ™K\ÚYYš\˜[[™XÙÝKˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆH™\Z\ˆšXÙHØ\È™\›ÎÈH^Ú[™ÙH˜]HØ\ÈÛ™HÛÜšÚ[™ÈšXÞXÛH›ÜˆÛ™HÝ[˜ÚˆHXYÛ™]ÙY\È›Ý[ÜH[›Ûž[[Ý\È[™[\Ý˜]\È[™ËÛÛË˜Z[ˆ[™HYX[˜]\ˆ[ˆ™\›ÙXÚ[™ÈHš]˜]H\œÛÛ‰ÜÈZÙ[™\ÜÈÜˆÛØÚX[[YYXHÜÝˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ–š[›ˆ	ˆH\Ùˆ›ØYšZÙHXZ[[˜[˜ÙH‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNLÍÍÌMLÍÖŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆš[›ˆ[™H\Ùˆ›ØYšZÙHXZ[[˜[˜ÙH‹œ]Z\ŽˆHÛÛ\™Z[œÚ]™H™\Z\ˆÝZYH›Üˆ[™X˜\œËœ˜ZÙ\È[™HX[žH\È]Øš™XÝÈYY][™ÈÙ]]™[Y[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLÍÍÌMLÍÖÝYÏX›\ÜËLŒŸKÈ]HŽˆšZÙH™\Z\ˆ[™XZ[[˜[˜ÙH›Üˆ[[ZY\È‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌMNŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆšZÙH™\Z\ˆ[™XZ[[˜[˜ÙH›Üˆ[[ZY\È‹œ]Z\ŽˆHZ[‹[[™ÝXYÙHÛÜšÜÚÜÛÛ\[š[Ûˆ›ÜˆX\›š[™ÈÚXÚš^\È\™H›Ý][™H[™Ú[ˆH›Ù™\ÜÚ[Û˜[ÚÝ[ZÙHÝ™\‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌMNÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H]H›ÛÚÈÙˆÚ[™™\ÜÈ‹š[XYÙHŽˆšÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMLMÌŒNKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH]H›ÛÚÈÙˆÚ[™™\ÜÈžH™\›˜Y]H\ÜÙ[‹œ]Z\Žˆ‘]™\žY^HXÝÈÙˆØ\™H›ÜˆHÚÜÚ\™H	Û›ÈšXÙIÈ™XØ[YHH[ÜÝY[[Ü˜X›H[™HÛˆH™XÙZ\ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLMÌŒNOÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË›™‹˜ÛÛKÛÙ™˜™X]Ú[™X[‹]ÛÛX[‹\Ú\™\Ë]ÝXÚ[™ËXXÝ[Ù‹ZÚ[™™\ÜËXY\‹XšXÞXÛKXXØÚY[Z[‹Z˜\[‹Z[\›™]\™XXÝËLLŒLNŽ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆÈ‘ˆ™\ÜŸKˆÈšYŽˆœÙ\‹XÛX[‹XZ\ˆ‹š\ÛÑ]HŽˆŒŒ‹LKLˆ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\‹Œˆ‹œXÙHŽˆ’[™ÛÜˆZ\ˆ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\‹XÛX[‹XZ\‹ÙXœ‹]HŽˆ”ØÙ[YÛX[™\œÈØ[ˆš[[™ÛÜˆZ\ˆÚ][š\ÚX›H˜[›Ü\XÛ\È‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌMŒLÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ”™\ÙX\˜Ú\œÈ™\Ù[[™È]H[Y\šXØ[ˆÚ[ZXØ[ÛØÚY]IÜÈ˜[ŒˆYY][™È™\ÜY]œ˜YÜ˜[˜ÙHÛÛ\Ý[™È™[X\ÙYžHÛX[š[™È›ÙXÝÈØ[ˆ™XXÝÚ][™ÛÜˆÞ›Û™H[™]ZXÚÛH›Ü›H[˜Yš[™H\XÛ\Ëˆ[ˆZ\ˆ\Ý›ÛÛ\ËH™\Ý[[™È\XÛ\ÈÙ\™HX›Ý]HÈÌ˜[›ÛY]\œÈÚYNÈHX[H™\ÜY^ÜÝ\™\È[ˆHš[[ÛœÈÜˆš[[ÛœÈÙˆ\XÛ\È[™ØZYÛÛYH\Ý[X]YÜÙ\ÈX]ÚYÜˆ^ÙYYY^ÜÝ\™H™X\ˆ\ÞH›ØYËˆ‹ÚHŽˆ•[˜Yš[™H\XÛ\È\™HÛX[[›ÝYÚÈ™XXÚY\[ÈH[™ÜË]\È™\Ù[][ÛˆYX\Ý\™Y›Ü›X][Ûˆ[™^ÜÝ\™H˜]\ˆ[ˆ›Ýš[™ÈHÜXÚYšXÈ[™\ÜÈœ›ÛHÜ™[˜\žHÛX[š[™ËˆH˜XÝXØ[š[™[™È\È˜\œ›ÝÙ\ˆ[™\ÙY[ˆœ˜YÜ˜[˜ÙKYœ™YH›ÙXÝËÛÛÙ™[[][Ûˆ[™]›ÚY[™ÈÞ›Û™KYÙ[™\˜][™È]šXÙ\ÈØ[ˆ™YXÙHHÚ[Z\ÝžH]Ü™X]\ÈH\XÛ\È[™ÛÜœËˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆH›ÛÛHØ[ˆÛY[ZÙHÚ]\È[™Ý[™H[›š[™ÈH[žH][ÜÜ\šXËXÚ[Z\ÝžHX‹ˆHXYÛ™]ÙY\ÈHYšXÙHÚ[\NˆÛX[ˆZ\‰ÜÈYX[œ˜YÜ˜[˜ÙH\È›Ý[™Ëˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ”Ù]™[Ù[™\˜][Ûˆœ™YH	ˆÛX\ˆ[T\œÜÙHÛX[™\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ]•Ó’NTŒ\S—ÐP×ÔÓMLËšœÈ‹˜[Žˆ›ÝHÙˆÙ]™[Ù[™\˜][Ûˆœ™YH[™ÛX\ˆœ˜YÜ˜[˜ÙKYœ™YH[\\œÜÙHÛX[™\ˆ‹œ]Z\ŽˆHœ˜YÜ˜[˜ÙKYœ™YHÛX[š[™ÈÜ[Ûˆ›Üˆ™[[Ýš[™ÈHY\ÜÈÚ]Ý]Y[™ÈHÚ]\ÈÚ[Z\ÝžH^\š[Y[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÓÑQÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ[X^›Ûˆ˜\ÚXÜÈTHZ\ˆ\šYšY\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌQØÌN˜“—ÐP×ÔÓMLËšœÈ‹˜[Žˆ•Ú]H[X^›Ûˆ˜\ÚXÜÈTHZ\ˆ\šYšY\ˆ‹œ]Z\Žˆ‘š[˜][Ûˆ[™HZ[Z[ˆZ\‹\]X[]H[™XØ]Üˆ›ÜˆH›ÛÛHÚ\™HH[š\ÚX›HÝY\ÝÈ]™H›È[š]][Û‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÓNLÍÍOÝYÏX›\ÜËLŒŸKÈ]HŽˆ•[]ÜLLZ\ˆ]X[]H[Ûš]Üˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍL^\žŒÑœšÓ—ÔÓLŒËšœÈ‹˜[Žˆ•[]ÜLL[™ÛÜˆZ\ˆ]X[]H[Ûš]ÜˆÚ]\Ü^H‹œ]Z\ŽˆHL‹H[™“ÐÈ[Ûš]Üˆ›Üˆœ›ØY\ˆ[™ÛÜ‹XZ\ˆ]Ø\™[™\Üø %›ÝH]XÝÜˆ›ÜˆH[˜Yš[™H\XÛ\È[ˆ\ÈÝYKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÑNMÔÖOÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœØÚY[˜ÙYZ[K˜ÛÛKÜ™[X\Ù\ËÌŒ‹ÌKÌŒLLLÌML‹šH‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆˆ™\ÙX\˜Ú™\ÜŸKˆÈšYŽˆœÙ\‹[YÛÜËXÚ[™[XH‹š\ÛÑ]HŽˆŒŒ‹LKLˆ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\‹Œˆ‹œXÙHŽˆ“YÛÜËšYÙ\šXH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\‹[YÛÜËXÚ[™[XKÙXœ‹]HŽˆLK[ÝšYYÛÙ\œÈ\›ˆHYÛÜÈÜ]X\™H[ÈHÛÜ›	ÜÈ\™Ù\ÝÚ[™[XH‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌMŒMÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ“[Ü™H[ˆLK]X[YžZ[™ÈšY]Ù\œÈØ]\™Y]Y˜]ØH˜[]ØHÜ]X\™H[ˆYÛÜÈÛˆÙ\[X™\ˆˆ›Üˆ[ˆÜ[‹XZ\ˆØÜ™Y[š[™ÈÙˆ›XÚÈX\šÙ]ˆÚ[›™[È[]š\Ú[Ûˆ™\ÜY]ÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈÛÛ™š\›YYH]™[\ÈH\™Ù\Ýš[HØÜ™Y[š[™ËÝ\œ\ÜÚ[™ÈH™]š[Ý\ÈX\šÈÙˆËŒ[ÜKˆ‹ÚHŽˆ•H™XÛÜ™\È\™Ù\ˆ[ˆH›Ý™[HXYÛÝ[ˆHØØ[H›ÙXÙYš[H™]ÈHÝY][K\ØØ[HX›XÈ]YY[˜ÙH[ˆÛ™HÙˆYœšXØIÜÈ\™Ù\ÝÚ]Y\ËÚÝÚ[™ÈÝÈÚ[™[XHØ[ˆ™XÛÛYHÚ]šXÈÜXÝXÛKÚ\™YÝ[\™H[™H\ÝšX][Ûˆ]™[˜\ˆ™^[Û™HÛÛ™[[Û˜[X]\‹ˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™Kˆ[ÜÝ[ÝšYHšYÚÈ\ÚÈÚ]\ˆHÛÝXÚ\È›ÛÛH›ÜˆÛ™H[Ü™H\œÛÛ‹ˆYÛÜÈ›Ý[™›ÛÛH›ÜˆLK[™XYHHÛÛ˜Ù\ÜÚ[ÛˆÝ[™H][šXÚ\[[›š[™È›Ø›[Kˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ‘[]HØÜ™Y[œÈX\™X\Ý\ˆˆÝ]ÛÜˆ›Ú™XÝÜˆØÜ™Y[ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎK]‘ÖLÔTÓ—ÐP×ÔÓMLËšœÈ‹˜[Žˆ‘[]HØÜ™Y[œÈX\™X\Ý\ˆˆÝ]ÛÜˆ›Ú™XÝ[ÛˆØÜ™Y[ˆ‹œ]Z\ŽˆH˜XÚÞX\™\ØØ[HØÜ™Y[ˆ›Üˆ[ž[Û™HÚÜÙHÝY\Ý\ÝÝÜÈ™Y›Ü™H]™\]Z\™\ÈHX›XÈÜ]X\™Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒPTÖ‘SOÝYÏX›\ÜËLŒŸKÈ]HŽˆ’›ÛH[YHY[ÝÈÜÛÜ›ˆÙ\›™[È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒL[]Ö^S—ÔÓLWËšœÈ‹˜[ŽˆÛÛZ[™\ˆÙˆ›ÛH[YHY[ÝÈÜÛÜ›ˆÙ\›™[È‹œ]Z\Žˆ”ÜÛÜ›ˆ[ˆ[Ë[ÝYÚ™YY[™ÈLKšY]Ù\œÈÝ[™\]Z\™\ÈH›ØÝ\™[Y[\\Y[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒRVÝYÏX›\ÜËLŒŸKÈ]HŽˆ”ÛÝ[™ÛÜ™H[Ý[Ûˆ›ÛÛH\ÈÝ]ÛÜˆÜXZÙ\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌQRUÝY“—ÐP×ÔÓMLËšœÈ‹˜[Žˆ›XÚÈÛÝ[™ÛÜ™H[Ý[Ûˆ›ÛÛH\ÈÜX›HÜXZÙ\ˆ‹œ]Z\Žˆ”ÜX›HÝ]ÛÜˆ]Y[È›ÜˆHØÜ™Y[š[™ÈYX\Ý\™Y[ˆ™ZYÚ›ÜœÈ˜]\ˆ[ˆÚ]H›ØÚÜËˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒU’Ö”ÕÏÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË˜Ú[›™[Ý‹˜ÛÛKÌŒ‹ÌKÌ‹Ø›XÚË[X\šÙ]Xœ™XZÜËYÝZ[›™\ÜË]ÛÜ›\™XÛÜ™]Ú][Ý™\‹MLL]šY]Ù\œËX]]œËÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆˆÚ[›™[È[]š\Ú[Ûˆ™\ÜŸKˆÈšYŽˆœÙ\‹\ØÜ›Û^˜^H‹š\ÛÑ]HŽˆŒŒ‹LKLˆ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\‹Œˆ‹œXÙHŽˆ™\šÙ[^KØ[Y›Ü›šXHÈ\˜Ý[[™][H‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\‹\ØÜ›Û^˜^KÙXœ‹]HŽˆ”ØÚY[\ÝÈ\›ˆ™\XØHØÜ›ÛÈÛÈ[˜ÚY[›ÛÚÜÈØ[ˆÝ^HÛÜÙY[™Ý[™H™XY‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌMŒLŒÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ”™\ÙX\˜Ú\œÈXYH™\XØH\\\ÈØÜ›ÛÈÚ][\›XÚÈ[šÜÈÛÛZ[š[™ÈYX\Ý\™Y[[Ý[ÈÙˆXYØ\˜›Ûš^™Y[H[ˆÝÈÞYÙ[ˆ[™ØØ[›™YHÙX[Y›ÛÈÚ]\˜^\ËˆHÔÈÓ‘HÝYH›Ý[™]Õ[XYÚ[™ÈÛÝ[]XÝ[šÈÛÛZ[š[™È\È]H\ÈHZXÜ›ÙÜ˜[\ÈÙˆXY\ˆÜ]X\™HÙ[[Y]\ˆ[™]XYÛÝ[[˜Ü™X\ÙH\˜^HXœÛÜœ[ÛˆžH\È]XÚ\ÈKY›Ûˆ‹ÚHŽˆ’[™™YÈÙˆ\˜Ý[[™][HØÜ›ÛÈØ\˜›Ûš^™YžH[Ý[™\Ý]š]\È\™HÛÈœ˜YÚ[HÈÜ[ˆ\ÚXØ[KˆH^\š[Y[Ý\Y\ÈHØ[Xœ˜]YØ^HÈY[YžH›ÛÈÚÜÙHY][X™X\š[™È[šÈX^H™H\ÜXÚX[H™XYX›HžH\˜^H[™Èš[Üš]^™H[H›Üˆš\X[[Ü˜\[™Ëˆ][\›Ý™\ÈHÙX\˜ÚÝ˜]YÞNÈ]Ù\È›ÝYX[ˆ]™\žHÙX[YØÜ›Û\È[™XYH™Y[ˆXÛÙYˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™Kˆ\˜ÚY[ÛÙÞH\È™XXÚYHÝYÙHÚ\™HØÚY[\ÝÈØ\™Y[H\›ˆH™]È›ÛÚÈÈX\›ˆÝÈ›ÝÈÜ[ˆ[ˆÛÛ™KˆH™\ÝXœ˜\žHØ\™\È›ÝÈHÕØØ[‹ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•Hš\™\ÈÙˆ™\Ý]š]\ÎˆÛ\ZZHÜÝ[™›Ý[™‹š[XYÙHŽˆšÎ‹ËØ›ÛÚÜË™ÛÛÙÛK˜ÛÛKØ›ÛÚÜËØÛÛ[ÚYRSÛ–‘TPPTPR‰œš[ÙXÏYœ›ÛÛÝ™\‰š[YÏLIž›ÛÛOL‰™YÙOXÝ\›	œÛÝ\˜ÙOYØœ×Ø\H‹˜[ŽˆÛÝ™\ˆÙˆHš\™\ÈÙˆ™\Ý]š]\ÈžHX\žH™X\™‹œ]Z\Žˆ“X\žH™X\™™XÛÛœÝXÝÈH]™\È\šYYžH™\Ý]š]\ÈÚ[HHØÜ›ÛÈØZ]›ÜˆH›Û‹Y\ÝXÝ]™HÙ\]Y[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍMŒMÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ•Hš[HÙˆH\\šH]\˜Ý[[™][H‹š[XYÙHŽˆšÎ‹ËØ›ÛÚÜË™ÛÛÙÛK˜ÛÛKØ›ÛÚÜËØÛÛ[ÚYLZÍLLÌSPÉœš[ÙXÏYœ›ÛÛÝ™\‰š[YÏLIž›ÛÛOL‰™YÙOXÝ\›	œÛÝ\˜ÙOYØœ×Ø\H‹˜[ŽˆÛÝ™\ˆÙˆHš[HÙˆH\\šH]\˜Ý[[™][H‹œ]Z\Žˆ•H\˜ÚY[ÛÙÞH[™™XÛÛœÝXÝ[ÛˆÙˆHš[H]™\Ù\™Y[\]Z]IÜÈ[ÜÝÝX˜›Ü›ˆ™XY[™È\Ýˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌLLŒÎÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H\˜Ú[YY\ÈÛÙ^‹š[XYÙHŽˆšÎ‹ËØ›ÛÚÜË™ÛÛÙÛK˜ÛÛKØ›ÛÚÜËØÛÛ[ÚYU••ÑÐPTPR‰œš[ÙXÏYœ›ÛÛÝ™\‰š[YÏLIž›ÛÛOL‰™YÙOXÝ\›	œÛÝ\˜ÙOYØœ×Ø\H‹˜[ŽˆÛÝ™\ˆÙˆH\˜Ú[YY\ÈÛÙ^žH™]šY[™]ˆ[™Ú[X[H›Ù[‹œ]Z\Žˆ[›Ý\ˆYHÝÜžHÙˆ[XYÚ[™ÈXÚ›ÛÙÞH™XÛÝ™\š[™È[ˆ[˜ÚY[^]H˜ZÙY^YHÛÝ[›Ý™XYˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMMŒÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœØÚY[˜ÙYZ[K˜ÛÛKÜ™[X\Ù\ËÌŒ‹ÌKÌŒLLMMšH‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆˆPÈ™\šÙ[^H™\ÙX\˜Ú™\ÜŸKˆÈšYŽˆœÙ\‹\›ØYXš[ˆ‹š\ÛÑ]HŽˆŒŒ‹LKLˆ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\‹Œˆ‹œXÙHŽˆ“][X˜ZK[™XH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\‹\›ØYXš[‹ÙXœ‹]HŽˆ”ÕUˆ\ÜÙ[™Ù\ˆ™X]ÈH][X˜ZH›ØYZÙHH[Ýš[™È˜\ÚØ[ˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌMŒLÌ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHšY[È™\ÜYžH[™XHÙ^HÛˆÙ\[X™\ˆˆ\X\™YÈÚÝÈH\ÜÙ[™Ù\ˆ[ˆH[Ýš[™ÈÕUˆÜ][™ÈX[ˆ[™›ÝÚ[™ÈH›ÝHÛÈH][X˜ZH›ØYˆH™\Ü\ØÜšX™YHÛ\\Èš\˜[È]Y›Ý\ÝX›\ÚH\ÜÙ[™Ù\‰ÜÈY[]HÜˆ›ÝšYH[ˆÙ™šXÚX[[™›Ü˜Ù[Y[Ý]ÛÛYKˆ‹ÚHŽˆ•›ÝÚ[™ÈØš™XÝÈ[™Ü][™Èœ›ÛHH[Ýš[™È™ZXÛHÚYÈÛ™H\œÛÛ‰ÜÈÛÛ™[šY[˜ÙHÛÈY\ÝšX[œË›ØYÛÜšÙ\œÈ[™]™\ž[Û™H\Ú[™ÈHÝ™Y]ˆHX›XËZ[\™\ÝÚ[\ÈHØÝ[Y[Y™Z]š[Üˆ[™H]›ÚYX›H^˜\™8 %›ÝÜXÝ[][ÛˆX›Ý]H[›Ûž[[Ý\È\œÛÛ‰ÜÈ[Ý]™\ËÛ]XÜÈÜˆš]˜]HY™Kˆ‹˜[™ÛHŽˆ•™\šYšYY™\Ü[™È[™ÈX›Ý™KˆH™ZXÛHYÝ\Û\œËÛÜœÈ[™™\Ý[XX›HH\Ý[˜][ÛˆÚ]Hš[‹ˆXZ[ˆÚ\˜XÝ\ˆ[™\™ÞHÚÜÙHH›ØYØ^H[ž]Ø^KÛÈHXYÛ™]Ý\Y\ÈHZ\ÜÚ[™ÈÚYÛ‹ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ’ÕÔˆXZÜ›ÛÙˆØ\ˆ˜\ÚØ[ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎZ’]Z^Z—ÐP×ÔÓMLËšœÈ‹˜[Žˆ›XÚÈÕÔˆXZÜ›ÛÙˆØ\ˆ˜\ÚØ[ˆ‹œ]Z\ŽˆHÛX[[‹XØ\ˆš[ˆ›ÜˆH˜YXØ[š]š[™ÈXÚš\]YHÛ›ÝÛˆ\ÈÙY\[™È[Ý\ˆX˜š\Ú[œÚYHH™ZXÛKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÕ‘Ô•’ÔÓÝYÏX›\ÜËLŒŸKÈ]HŽˆ”Ý[›^HY\›ÓYÚ˜[œÚ]]YÈ‹š[XYÙHŽˆšÎ‹ËÌ˜K˜Ù‹˜ZÚ[›Û˜ÛÝY˜ÛÛKÜ›ÙXÝËÌŒKÌÌŒ‹ÌÍÍMÍËÍŒÍŒŒMËYNYMLKX™ŽXÍXÌÍŒNXÍÜÚ^™MMØÜ›ÜÙ[\‹šœÈ‹˜[ŽˆÜ™X[HÝ[›^HY\›ÓYÚXZÜ›ÛÙˆ˜[œÚ]]YÈ‹œ]Z\ŽˆHØÚÚ[™È˜]™[]YÈ\ÚYÛ™YÈÝ^H[ˆHÝ\Û\ˆ[œÝXYÙˆ]Y][Ûš[™È›Üˆ›ØYÚYHXœš\Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÓŽMŒVOÝYÏX›\ÜËLŒŸKÈ]HŽˆÛÛYÛÈUUÔÑPSÙ\ÝÛÜ˜]™[]YÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍL]R‘SÛXQ“—ÐP×ÔÓMLËšœÈ‹˜[Žˆ”ÝZ[›\ÜÈÝY[ÛÛYÛÈUUÔÑPS˜]™[]YÈ‹œ]Z\ŽˆH™]\ØX›KXZË\™\Ú\Ý[ÛÛZ[™\ˆ›ÜˆÙY\[™È›ÝHš[šÈ[™HÚ]šXÈ™\ÜÛœÚXš[]HÛˆ›Ø\™ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ’MV‘ÏÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËš[™X]Ù^Kš[‹Û™]ÜÛ[ËÜÚÜ]šY[ÜËÛX[‹\Ü]Ë\X[‹]›ÝÜËX›ÝKYœ›ÛK\Ý]‹Z[‹[][X˜ZKLÌÌŽLŒ‹LKLˆ‹œÛÝ\˜ÙS˜[YHŽˆ•Ø]ÚHÙ\[X™\ˆˆ[™XHÙ^H™\ÜŸKˆÈšYŽˆœÙ\KZ\œšXØ[™K\ÛÈ‹š\ÛÑ]HŽˆŒŒ‹LKLH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\KŒˆ‹œXÙHŽˆ‘X\Ý\›ˆXÚYšXÈÈ˜Z˜HØ[Y›Ü›šXHÝ\ˆ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\KZ\œšXØ[™K\ÛËÙXœ‹]HŽˆ’\œšXØ[™HÛÈ™]\›œÈÈØ]YÛÜžHH\È˜Z˜HØ[Y›Ü›šXHØ]Ú\È]È\›ˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNNH‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ’\œšXØ[™HÛÈÝ™[™Ý[™YYØZ[ˆÈØ]YÛÜžHH[[œÚ]HÛˆÙ\[X™\ˆKÚ]X^[][HÝ\ÝZ[™YÚ[™È™\ÜY]N\ˆ]ˆ›Kˆ[Ý[Z[ˆ[YH]Ø\ÈX›Ý]ÎMHZ[\ÈÛÝ]ÙˆØX›ÈØ[ˆXØ\È[™[Ýš[™ÈÙ\Ý]L\ˆ›Ü™XØ\Ý\œÈ^XÝYH\›ˆÝØ\™˜Z˜HØ[Y›Ü›šXHÝ\‹Ú\™H[™˜[Ø\ÈÜÜÚX›HH›ÛÝÚ[™ÈÙYZÎÈH›Ü™XØ\Ý[ÛÈØ[Y›Üˆ[™Ù\›Ý\ÈÝ\™‹š\Ý\œ™[È[™›Ý\ˆÈZYÚ[˜Ú\ÈÙˆ˜Z[‹Ú]\ÛÛ]YÝ[È™X\ˆL[˜Ú\Ëˆ‹ÚHŽˆHØ]YÛÜžHH˜][™È\ØÜšX™\ÈHÝÜ›IÜÈXZÈÚ[™[[œÚ]HÝ™\ˆÜ[ˆØ]\‹›ÝH^XÝ[XYÙH[žHÛ™HXÙHÚ[™XÙZ]™Kˆ˜XÚË[Z[™Ë˜Z[™˜[[™ØØ[\œ˜Z[ˆ]\›Z[™HH™X[š\ÚËˆ™\ÚY[È[™˜]™[\œÈÚÝ[›ÛÝÈÙ™šXÚX[›Ü™XØ\ÝÈ[™ØØ[[Y\™Ù[˜ÞH[œÝXÝ[ÛœÈ™XØ]\ÙH›ÛÙ[™Ë]YÛY\È[™Ý\™ˆØ[ˆ™XÛÛYHY™K]™X][š[™È™Y›Ü™HHÙ[\ˆ\œš]™\Ëˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆHÝÜ›IÜÈ˜[YHÛÝ[™ÈZÙHHZ\Ý\™HÚ\ÈHYš\ÛÜžHÙ\È›ÝˆHXYÛ™]ÙY\ÈH›ÚÙHÛˆ›Ü™XØ\ÝÝ[\™H˜]\ˆ[ˆ[ÜH[ˆ[™Ù\Žˆ™\ÜXÝHÛÛ™KÚ\™ÙHH˜Y[È[™]HY][Ü›ÛÙÚ\ÝÈÈH˜[X]XÈÚ[[™Ëˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ“ZY[™TŒÌL[Y\™Ù[˜ÞHÜ˜[šÈÙX]\ˆ˜Y[È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒMTRPÌTËŒK“––––––‹šœÈ‹˜[Žˆ”™YZY[™TŒÌL[Y\™Ù[˜ÞHÜ˜[šÈÙX]\ˆ˜Y[È‹œ]Z\Žˆ““ÐPH[\ËÛÛ\ˆÚ\™Ú[™È[™H[™Ü˜[šÈ›ÜˆÚ[ˆHÝÙ\ˆÜšY\ÈYHÜ›Ý\Ú]ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒMTRPÌTÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ“Y™TÝ˜]È\œÛÛ˜[Ø]\ˆš[\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒ”QŒÕÍŒK“––––––‹šœÈ‹˜[Žˆ›YHY™TÝ˜]È\œÛÛ˜[Ø]\ˆš[\ˆ‹œ]Z\ŽˆÛÛ\XÝ˜XÚÝ\š[˜][Ûˆ›Üˆ[Y\™Ù[˜ÞHÚ]Ë™XØ]\ÙHHÙX]\ˆX\Ù\È›Ý[˜ÛYHH™]™\˜YÙHÙ\šXÙKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ”QŒÕÍÝYÏX›\ÜËLŒŸKÈ]HŽˆ”™XYH[Y\šXØHÌŽÛËT\œÛÛˆ[Y\™Ù[˜ÞHÚ]‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒ’”TU’KŒK“––––––‹šœÈ‹˜[Žˆ”™Y™XYH[Y\šXØH[Y\™Ù[˜ÞH˜XÚÜXÚÈ[™Ý\Y\È‹œ]Z\ŽˆHÜ˜X‹X[™YÛÈÚ]›ÜˆÛÈ[ÜHÚÈ™Y™\ˆ™\\˜][ÛˆÈX˜][™ÈHš[˜[ÜYÚ]H[Ù[ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ’”TU’OÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÕÜÓ™]ÜËÕÛÜ›S™]ÜËÌŒ‹ÌKÌKÛY^XÛËZ\œšXØ[™K\ÛËY›Ü™XØ\ÝÍŒÍÌMÎLNÌËÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆHTH›Ü™XØ\Ý™\ÜŸKˆÈšYŽˆœÙ\K[Ý\žK\™\X]‹š\ÛÑ]HŽˆŒŒ‹LKLH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\KŒˆ‹œXÙHŽˆ“^[™ÝÛ‹›ÜØ\›Û[˜H‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\K[Ý\žK\™\X]ÙXœ‹]HŽˆ“›ÜØ\›Û[˜HÛÛX[ˆÚ[œÈHØ[YH	LØÜ˜]Ú[Ù™ˆš^™HÚXÙH‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNL‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆH^[™ÝÛ‹›ÜØ\›Û[˜KÛÛX[ˆÛÛˆH	LÜš^™HÛˆHXžH™YÉÜÈØÜ˜]Ú[Ù™ˆØ[YKH›ÜØ\›Û[˜HYXØ][ÛˆÝ\žHØZYˆHÙ\[X™\ˆH™\Ü\ØÜšX™Y]\È\ˆÙXÛÛ™	LÚ[ˆÛˆHØ[YHØ[YK›ÛÝÚ[™È[›Ý\ˆÜ\š^™HXÚÙ][ˆ]YÝ\ÝŒKˆY\ˆ™\]Z\™Y^Ú]Û[™ËH]\Ýš^™HZY	Ì‹M‹ˆ‹ÚHŽˆ•Ú[›š[™ÈÛ˜ÙHÙ\È›ÝXZÙHH]\ˆXÚÙ][Ü™HZÙ[HÈÚ[ŽÈXXÚXÚÙ]\ÈÛÝ™\›™YžHHØ[YIÜÈX›\ÚYš^™HÛÛ[™ÙËˆH™\X]™\Ý[\È™[X\šØX›H™XÚ\Ù[H™XØ]\ÙH[™\[™[˜\™H]™[ÈØ[ˆÛ\Ý\ˆÚ]Ý]Ü™X][™ÈHÞ\Ý[H[ž[Û™HØ[ˆ™[XX›HÛÜKˆÚHØZYHš\œÝš^™H[Y\ˆ›Ý\ˆÜ˜[™Ú[™[ˆ[™H™]ÈÛ™HÛÝ[[™H™XXÚš\Ú]\ˆ\Ø˜[™ˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™Kˆ[ÜÝÙ\]Y[ÈYH\™Ù\ˆš[Z[‹ˆ\ÈÛ™H™]\ÙYHØ[YH™YXÚÙ]HØ[YH	L[™[™È[™[ˆ]YY[˜ÙHÝ[ÚXÚÚ[™ÈÚ]\ˆ™X[]HXØÚY[[H]\XØ]Kˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆYØZ[œÝHÛÙÎˆH™[X\šØX›HÝÜžHÙˆš\ÚÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌLŽMMŒÎKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆYØZ[œÝHÛÙÈžH]\ˆˆ™\›œÝZ[ˆ‹œ]Z\ŽˆH\ÝÜžHÙˆÝÈ[ÜHX\›™YÈYX\Ý\™H[˜Ù\Z[H™Y›Ü™HØÜ˜]Ú[Ù™ˆXÚÙ]ÈXYH]Ú[žKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌLŽMMŒÎOÝYÏX›\ÜËLŒŸKÈ]HŽˆ’ÝÈ›ÝÈ™HÜ›Û™ÎˆHÝÙ\ˆÙˆX][X]XØ[[šÚ[™È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÌLÍLÍKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÝÈ›ÝÈ™HÜ›Û™ÈžH›Ü™[ˆ[[˜™\™È‹œ]Z\Žˆ“X][X]XØ[[šÚ[™È›Üˆ\™XÚX][™ÈHÚ[ÛÚ[˜ÚY[˜ÙHÚ]Ý][™[[™ÈH™\X]X›H˜XÚÜÝÝ˜]YÞKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÌLÍLÍOÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H[šØ\™	ÜÈØ[ÎˆÝÈ˜[™Û[™\ÜÈ[\ÈÝ\ˆ]™\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌÌÍLMÍKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆH[šØ\™	ÜÈØ[ÈžH[Û˜\™[Ù[›ÝÈ‹œ]Z\ŽˆHÝ\ˆÙˆ˜[™Û[™\ÜÈ›ÜˆH[ÛY[HØ[YHYÚš[™È›Û^\ÈH™]\›ˆXÚÙ]ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌÌÍLMÍOÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌKÛÝ\žK\ØÜ˜]Ú[Ù™‹S›ÜPØ\›Û[˜K\ÙXÛÛ™][YKÍÎLMÎLÍMMÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆHTH™\ÜŸKˆÈšYŽˆœÙ\KYš\™YšYÚ\‹\™XÛÜ™‹š\ÛÑ]HŽˆŒŒ‹LKLH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\KŒˆ‹œXÙHŽˆ”Ýˆ]H™XXÚ›ÜšYH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\KYš\™YšYÚ\‹\™XÛÜ™ÙXœ‹]HŽˆ‘›ÜšYHš\™YšYÚ\ˆX\›œÈÛÜ›™XÛÜ™\ÈÚÜ\ÝÛÛX[ˆ[ˆH›Ù™\ÜÚ[Ûˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNLL‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHY›ÛÝMHš\™YšYÚ\ˆÚ]Ýˆ]H™XXÚš\™H™\ØÝYHØ\È™XÛÙÛš^™YžHÝZ[›™\ÜÈÛÜ›™XÛÜ™È\ÈHÚÜ\Ý™[X[Hš\™YšYÚ\‹ˆHÙ\[X™\ˆH™\ÜØZYÚHYÙ\™Y›Üˆš]™HYX\œÈY\ˆX]š[™ÈHÛÜœÜ˜]HØ\™Y\‹[™]ÛÛXYÝY\È[˜ÛÝ\˜YÙY\ˆÈ\œÝYHH™XÛÜ™Y\ˆHš\™ZÝ\ÙHÛÛ™\œØ][Û‹ˆ‹ÚHŽˆ‘š\™YšYÚ[™È\ÈYX\Ý\™YžH˜Z[š[™ËX[]ÛÜšÈ[™HXš[]HÈ\™›Ü›H[X[™[™È\ÚÜø %›ÝžHš][™ÈHš\ÝX[Ý\™[Ý\KˆH™XÛÜ™XZÙ\È[ˆ[\ÝX[\ÚXØ[˜XÝš\ÚX›K]H[Ü™HYX[š[™Ù[XÚY]™[Y[\Èš]™HYX\œÈÙˆX›XÈÙ\šXÙH[ˆH›Ù™\ÜÚ[ÛˆZ[\›Ý[™™\\˜][Ûˆ[™\Ýˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆHš\™ZÝ\ÙH›ÚÙH™XØ[YHHÛÜ›™XÛÜ™]HÛÛXÝX›HÙY\ÈH›ØÝ\ÈÚ\™H]™[Û™ÜÎˆ[›Ûž[[Ý\ÈÙX\‹HÛÛ\]YÚY[™Hœ˜]™\žH™\]Z\™YÈ[œÝÙ\ˆHØ[ˆ›È˜[YKZÙ[™\ÜÈÜˆ\X\˜[˜ÙH›ÚÙH\È\ÙY[ˆH\ÚYÛ‹ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ”™\Üœ›ÛH[™Ú[™HÛËˆˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÍMLŒŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ™\Üœ›ÛH[™Ú[™HÛËˆˆžH[›š\ÈÛZ]‹œ]Z\ŽˆHÛ\ÜÚXÈš\œÝ\\œÛÛˆXØÛÝ[ÙˆHÛÜšÈ™Z[™H[Y][™H\Ý[œÚYHHš\™ZÝ\ÙKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍMLŒÝYÏX›\ÜËLŒŸKÈ]HŽˆ”Ý™X[[YÚ›ÕXÈVTÐˆ›\ÚYÚ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒÎQÍPÍ‹ŒK“––––––‹šœÈ‹˜[Žˆ›XÚÈÝ™X[[YÚ›ÕXÈVTÐˆ›\ÚYÚ‹œ]Z\ŽˆHYÙÙY™XÚ\™ÙXX›HYÚ›ÜˆÙYZ[™ÈHÛÜšÈ[ˆœ›ÛÙˆ[ÝHÚ[ˆH›ÛÛH\ÈÝ\ˆ[œËˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÎQÍPÍÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘š\™YšYÚ\ˆ[˜Ý[Û˜[š]™\ÜÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNL‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆš\™YšYÚ\ˆ[˜Ý[Û˜[š]™\ÜÈžH[ˆÙ\œšYØ[ˆ[™š[H[ÜÜÈ‹œ]Z\Žˆ’›Ø‹\ÜXÚYšXÈ˜Z[š[™ÈÝZY[˜ÙH›Üˆ\™›Ü›X[˜ÙH[™Û™Ù]š]KÚ\™H™\\˜][Ûˆ\ÈH™X[Ý\\›]]™Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌKÙ›ÜšYKYš\™YšYÚ\‹YÝZ[›™\ÜË\™XÛÜ™ÍÌÌMÎLÍÌÎN‹È‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆHTH™\ÜŸKˆÈšYŽˆœÙ\]\ËXÚ[˜K\Ý[[Z]‹š\ÛÑ]HŽˆŒŒ‹LKL‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\Œˆ‹œXÙHŽˆ•Ø\Ú[™ÝÛ‹Ëˆ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\]\ËXÚ[˜K\Ý[[Z]ÙXœ‹]HŽˆ•K”Ëˆ[™Ú[˜HYÙHH[Ü™HÝX›H™[][ÛœÚ\Y\ˆØ\Ú[™ÝÛˆÝ[[Z]‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒÍÌÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ”™\ÚY[ÈÛ˜[[\[™Hš[œ[™ÈY]]HÚ]HÝ\ÙHÛˆÙ\[X™\ˆ\š[™ÈIÜÈÝ]Hš\Ú]ˆH\ÜÛØÚX]Y™\ÜÈ]™H™\ÜÚ][™ÈHÚ[™\ÙHÛÝ™\››Y[™XYÝ]ØZY^H\ØÝ\ÜÙYHZYHX\ÝZÜ˜Z[™H[™HÛÜ™X[ˆ[š[œÝ[H[™XÚYYÈ\œÝYHHÛÛœÝXÝ]™KÝ˜]YÚXÈ[™ÝX›HK”Ë‹PÚ[˜H™[][ÛœÚ\ˆHš\Ú][™›ÛYÚ[H›ÝÛÝ™\››Y[ÈÙ\™HžZ[™ÈÈ™\Ù\™HHœ˜YÚ[H˜YHXÙKˆ‹ÚHŽˆ•H[š]YÝ]\È[™Ú[˜HÚ\HÛØ˜[˜YKXÚ›ÛÙÞKZ[]\žHš\ÚÈ[™Û[X]HÛXÞKˆHYÙHÈÝXš[^™HY\ÈØ[ˆÝÙ\ˆHÚ[˜ÙH]\Ü]\È\ØØ[]HžHXØÚY[]]\ÈH\ÛX]XÈ\™XÝ[Û¸ %›ÝH]Z[YYÜ™Y[Y[Üˆ›ÛÙˆ]H\™\ÝÛÛ™›XÝÈ]™H™Y[ˆ™\ÛÛ™Yˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆHXY\œÈ\ØÝ\ÜÙYÙ]™\˜[ÛÜ›Üš\Ù\ËÝ\™YH™]È[\Y[™[œÜXÝYHÜ˜[š]KˆHXYÛ™]ÙY\ÈH›ÚÙH[Y[\ÜÈ[™[›Ûž[[Ý\Îˆ\ÛXXÞH\ÈÝ[HÜ›Ý\›Ú™XÝÚ\™H›Ø›ÙH\È[ÝÙYÈ›\HX›Kˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ“ÛˆÚ[˜H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÌLŒLÌM‹ŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÛˆÚ[˜HžH[œžHÚ\ÜÚ[™Ù\ˆ‹œ]Z\Žˆ’\ÝÜšXØ[ÛÛ^›ÜˆHÝ˜]YÚXÈ™[][ÛœÚ\]Ø[››Ý™HÝ[[X\š^™YžHÛ™HÝ[[Z]Ø\Ýˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÌLŒLÌMÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘\ÛXXÞH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌMLLNLKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ\ÛXXÞHžH[œžHÚ\ÜÚ[™Ù\ˆ‹œ]Z\ŽˆHL\YÙH™[Z[™\ˆ]ÙY\[™ÈHÛÛ™\œØ][ÛˆÜ[ˆ\ÈH›Øˆ\ØÜš\[Û‹›ÝH[ÛÙˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌMLLNLOÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘\Ý[™Y›ÜˆØ\ŽˆØ[ˆ[Y\šXØH[™Ú[˜H\ØØ\HXÞYY\ÉÜÈ˜\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLÌŽLMLÎËŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ\Ý[™Y›ÜˆØ\ˆžHÜ˜Z[H[\ÛÛˆ‹œ]Z\ŽˆHÝYHÙˆÝÈš\Ú[™È[™\ÝX›\ÚYÝÙ\œÈØ[ˆ]›ÚY\›š[™Èš]˜[žH[ÈØ]\Ý›ÜKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLÌŽLMLÎÏÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËØ\™]ÜË˜ÛÛKÛ]™KÝ[\^KXÚ[˜K\Ý[[Z][YYXKX˜[‹[™]ÜË]\]\ËLKLLŒˆ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆ\ÜÛØÚX]Y™\ÜÈ]™H™\ÜŸKˆÈšYŽˆœÙ\Y˜]X™X\‹]ÙYZÈ‹š\ÛÑ]HŽˆŒŒ‹LKL‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\Œˆ‹œXÙHŽˆ’Ø]XZH˜][Û˜[\šË[\ÚØH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\Y˜]X™X\‹]ÙYZËÙXœ‹]HŽˆ”Ú^Y[ˆØ]XZH™X\œÈ[\ˆH[\›™]	ÜÈÙZYÚY\Ý[XÝ[Ûˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒÍÌL‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•›Ý[™ÈØ\È[™\Ø^HÙ\[X™\ˆ[ˆØ]XZH˜][Û˜[\šÈ[™™\Ù\™IÜÈŒˆ˜]™X\ˆÙYZËˆHX›XÈœ˜XÚÙ]™X]\™\ÈMˆœ›ÝÛˆ™X\œÈ[™[œÈÙ\[X™\ˆŒ¸ $ÌŽK\ÚÚ[™È›Ý\œÈÈÛÛ\\™HÝÈÝXØÙ\ÜÙ[HH[š[X[È™\\™Y›ÜˆÚ[\‹ˆH]™[\ÈZ[\›Ý[™H\šÉÜÈ]™H™X\ˆØ[Y\˜\È[™ÙX\ÛÛ˜[Ø[[Û‹Y™YÙZYÚØZ[‹ˆ‹ÚHŽˆ•HÛÛ\Ý\È[[[Û˜[H[›žK]]\›œÈ™[[ÝHÚ[Y™HØœÙ\˜][Ûˆ[ÈX›XÈYXØ][ÛˆX›Ý]œ›ÝÛ‹X™X\ˆXÛÛÙÞKØ[[Ûˆ[œÈ[™H[™\™ÞH™\Ù\™\È™X\œÈ™YY›ÜˆX™\›˜][Û‹ˆØ]XZHÛÛœÙ\˜[˜ÞHØ^\ÈHÝ\œ›Ý[™[™È›ÙÜ˜[HÝ\ÜÈ[\œ™]][Û‹™X\ˆ[Ûš]Üš[™Ë™\ÙX\˜Ú[™H™X\ˆØ[\Ëˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆX\˜ÚXY™\ÜÈ\ÈX\ØÛÝÎÈØ]XZH\ÈÛÛ\Ý[ÈÚÈ]HHX\ØÛÝÉÈ›ÙHÙZYÚ[ˆØ[[Û‹ˆÚ^Y[ˆ™X\œÈ[\™YHœ˜XÚÙ][™]™\žHÛ™HÙˆ[H[™XYHÛÛˆ[›™\‹ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ[\ÚØH™X\ˆ[\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÐLQÎ]ÙÜVQ—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆ[\ÚØH™X\ˆ[\ÈžH\œžHØ[š]]‹œ]Z\Žˆ•YH[\ÚØH™X\ˆ[˜ÛÝ[\œÈ›Üˆ™XY\œÈÚÜÙHœ˜XÚÙ]™\ÙX\˜Ú™YYÈH\™Ù\ˆØ[\H[ˆHÙX˜Ø[Kˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŒÌŒÏÝYÏX›\ÜËLŒŸKÈ]HŽˆÙ[\Ý›Ûˆ˜]\™Hˆš[›ØÝ[\œÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒÌÒ“Ó”ËŒK“––––––‹šœÈ‹˜[Žˆ‘Ü™Y[ˆÙ[\Ý›Ûˆ˜]\™Hˆš[›ØÝ[\œÈ‹œ]Z\ŽˆHÛÜÙHšY]Èœ›ÛHHš[ÛÙÚXØ[HÝ\\š[ÜˆÜÚ][ÛˆÛ›ÝÛˆ\È˜\ˆ[›ÝYÚ]Ø^Hœ›ÛHHœ›ÝÛˆ™X\‹ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÌÒ“Ó”ÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ™X\ˆ]XÚÜÎˆZ\ˆØ]\Ù\È[™]›ÚY[˜ÙH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMNMÍMMÖŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆ™X\ˆ]XÚÜÎˆZ\ˆØ]\Ù\È[™]›ÚY[˜ÙHžHÝ\[ˆ\œ™\›È‹œ]Z\Žˆ‘]šY[˜ÙKX˜\ÙY™X\ˆØY™]H›Üˆ™[Y[X™\š[™È]HÛÛ\Ý[È\™HÚ[[š[X[Ë›Ý\ÚØ[\ZYÛˆÝ\œ›ÙØ]\Ëˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMNMÍMMÖÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌÒØ]XZKS˜][Û˜[T\šËQ˜]P™X\‹UÙYZËÍŽLMÎLÌŒÍÍ‹È‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆTH™\ÜŸKˆÈšYŽˆœÙ\YØ[Y\‹YÜ˜[™XH‹š\ÛÑ]HŽˆŒŒ‹LKL‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\Œˆ‹œXÙHŽˆ”ØÛÝ[™‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\YØ[Y\‹YÜ˜[™XKÙXœ‹]HŽˆÎ^YX\‹[ÛØÛÝ\ÚØ[Y\ˆ™XÛÛY\ÈÛ\Ý™[X[H›Üš]HÝ™X[Y\ˆÛˆÚ]Ú‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒÍÌLÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHØÛÝ\ÚÝ™X[Y\ˆX\›™YHÝZ[›™\ÜÈÛÜ›™XÛÜ™]YÙHÎ\ÈHÛ\Ý™[X[H›Üš]HÝ™X[Y\ˆÛˆÚ]ÚXØÛÜ™[™ÈÈHÙ\[X™\ˆTH™\ÜˆH™XÛÜ™™XÛÙÛš^™\ÈHÝ\œ™[X›XÈÝ™X[Z[™ÈXÝ]š]K›ÝHÛ™K][YHX›XÚ]HÝ[ˆ‹ÚHŽˆ•H™XÛÜ™\Ú\È˜XÚÈÛˆHYXH]Û›[™H^H[™Ü™X]ÜˆÝ[\™H™[Û™ÈÛ›HÈ[Ý[™È[ÜKˆÝ™X[Z[™ÈÛÛXš[™\ÈØ[Y\^K]™H™\Ù[][Û‹]YY[˜ÙH[\˜XÝ[Ûˆ[™XÚšXØ[Ù]\ÈÚ[™È]X›XÛH]Î\›œÈ[ˆ[™]šYX[Ø˜žH[ÈHš\ÚX›H^[\HÙˆY™[Û™È\XÚ\][Ûˆ[ˆYÚ][Ý[\™Kˆ‹˜[™ÛHŽˆ•™\šYšYY˜XÝÈ[™X›Ý™KˆHØ˜žH›Ý[™HYÙHÙ][™È[™\ØÛÝ™\™Y]Ø\È›ÝHY™šXÝ[HÛY\‹ˆHØ\™Ù[Xœ˜]\ÈH™Z]š[ÜˆÚ]Ý]\Ú[™ÈHÝ™X[Y\‰ÜÈ˜[YK˜XÙHÜˆØ[YHÚ\˜XÝ\œÎˆYÙH\È›ÝH›ÜÜÈ]™[ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ“ÙÚ]XÚÍÍHQÒÔQQÚ\™[\ÜÈØ[Z[™ÈXYÙ]‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎX”QZÓY]“—ÐP×ÔÓMLËšœÈ‹˜[Žˆ›XÚÈÙÚ]XÚÍÍHÚ\™[\ÜÈØ[Z[™ÈXYÙ]‹œ]Z\ŽˆH™X]\ÙZYÚXYÙ]›ÜˆÝ^Z[™È[ˆHØ[YHÚ[HHYÙHØ]H]ZY]HÚ]™\È\ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒŽÖÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘[Ø]ÈØ]™NŒÈTÐˆÛÛ™[œÙ\ˆZXÜ›ÜÛ™H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒRÚšVÌÒ“—ÐP×ÔÓMLËšœÈ‹˜[Žˆ›XÚÈ[Ø]ÈØ]™HÈTÐˆÝ™X[Z[™ÈZXÜ›ÜÛ™H‹œ]Z\ŽˆHÝ™X[K\™XYHZXÜ›ÜÛ™H›Üˆ›Ýš[™È]^\šY[˜ÙHÚ[È\™H[ÝÙYÈ[˜ÛYHXÝX[^\šY[˜ÙKˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÐÍÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ–›ÞÚ\™[\ÜÈÛÛ›Û\ˆ8 %Ø\˜›Ûˆ›XÚÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒŒŒK“––––––‹šœÈ‹˜[ŽˆØ\˜›Ûˆ›XÚÈ›ÞÚ\™[\ÜÈÛÛ›Û\ˆ‹œ]Z\ŽˆH˜[Z[X\ˆÛÛ›Û\ˆ›Üˆ[ž[Û™HÚÈ™Y\Ù\ÈÈ]Hš\YX\ˆ™XÛÛYHHš[˜[›ÜÜËˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒŒÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌÜØÛÝ[™QÝZ[›™\ÜËUÛÜ›T™XÛÜ™Ë[Û\ÝQ›Üš]K\Ý™X[Y\‹ÎMNMÎLÌÌŽÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆTH™\ÜŸKˆÈšYŽˆœÙ\ŒËX™ZZš[™Ë\Ü˜^KYÝ[ˆ‹š\ÛÑ]HŽˆŒŒ‹LKLŒÈ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŒËŒˆ‹œXÙHŽˆ™ZZš[™È‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŒËX™ZZš[™Ë\Ü˜^KYÝ[‹ÙXœ‹]HŽˆ’T“ÖÚ[™Ù\ÈYÚY[™H[\ÈY\ˆ™ZZš[™ÈÛÛ\]]ÜˆØ\È[ÝÙYÈÛÛ[YH˜XÚ[™È‹™˜XÝÈŽˆ]HÙ\[X™\ˆLˆT“Ö]™[[ˆ™ZZš[™Ë]\Ý˜[X[ˆ]]H›Ø[›˜HÚY]žžZÈ^\šY[˜ÙY›ÝÙ[[˜ÛÛ[™[˜ÙH[™ÛÛ[YYÛÛ\][™ËˆÚH]\ˆ\ÛÙÚ^™YØZYÚHÚÝ[]™HYHÛÝ\œÙK[™Ú]™]È\ˆ™\Ý[ˆT“ÖÛËY›Ý[™\ˆ[Üš]ˆ°ïœÝH\ÛÙÚ^™Y›ÜˆHÜ™Ø[š^™\œÉÈ™\ÜÛœÙH[™ØZY›ØÙY\™\È[™[\ÈÙ\™H™Z[™ÈÚ[™ÙYˆ‹ÚHŽˆÛÛ\]]ÜœÈÚ\™H[™ÛÜˆ[™\È[™ÛÜšÛÝ]\]Z\Y[ˆ˜XÙHÙ™šXÚX[È™YYHÛX\ˆØ^HÈÝÜÛÛ\]][Ûˆ[™ÛX[ˆHÛÛ[Z[˜][Ûˆ^˜\™›Û\KÚ[H™X][™ÈHY™™XÝY]]HÚ]YÛš]KˆH]™[ØØÝ\œ™YÙ\[X™\ˆLŽÈÝXœÙ\]Y[\ÛÙÚY\È[™[HÚ[™Ù\ÈÙ\™H™\ÜY]\‹ˆ‹˜[™ÛHŽˆ•H˜XÙHYZYÚÛÜšÛÝ]Ý][ÛœÈ[™\\™[K›ÈÙ™šXÚX[[\ÝÙ\™YÈØ[H[YK[Ý]›ÜˆHš[ˆH[›™\ˆY›ÝÜš]HH[X›ÛÚÎÈHÜ™Ø[š^˜][Ûˆ\È›ÝÈ\ØÛÝ™\™YÚH]™YYYH[ÜÚ\\‹ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆÐTˆY\ÝX›HÙ[Y[[X˜™[Ù]š[ž[ÛØ]Y›XÚÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌUÌRÑQ”šS—ÐP×ÔÓMLËšœÈ‹˜[ŽˆÐT›XÚÈY\ÝX›HÙ[Y[[X˜™[Ù]Ú][™\È[™ÙZYÚ]\È‹œ]Z\Žˆ‘›ÜHÝ[™ÈÙˆ˜Z[š[™È\]Z\Y[›ÜˆH˜XÙH]Z^Y[›š[™ÈÚ]Ý™[™ÝÝ][Ûœø %[™™YYYHÝ›Û™Ù\ˆ[X›ÛÚËˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÔT•“ÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ’KT•HÜ]Z\ÚHÛÜÞ\È›ÜˆÚYÈ
+LˆXÚÊH8 $ÈØ[™Qš[YLLœ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌP’\VŽS—ÐP×ÔÓMLËšœÈ‹˜[Žˆ•Ù[™K\XÚÈÙˆKT•HÜ]Z\ÚHÛÜ›Ý™[HÞ\È[ˆ\Ü^H›Þ‹œ]Z\ŽˆHÜ]Z\ÚX›H›Ü›Üˆ^Z[š[™ÈH˜XÙH[˜ÚY[Ú]Ý]™XÜ™X][™È[žH\Ùˆ]ˆ‹œØ[\Ôš[Üš]HŽK\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÓŒÌMÓRÏÝYÏX›\ÜËLŒŸKÈ]HŽˆœ›ÛÚÜÈY[¸ &\ÈÚÜÝMˆ™]]˜[[›š[™ÈÚÙH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌLLS™ÌÚ—ÐP×ÔÓMLËšœÈ‹˜[Žˆ›XÚÈœ›ÛÚÜÈÚÜÝMˆY[¸ &\È[›š[™ÈÚÙH‹œ]Z\Žˆ”[›š[™ÈÚÙ\È›ÜˆHZYÚZÚ[ÛY]\ˆÜ[ÛŽÈHÙ[œÚX›Hš[š\Ú[™H™[XZ[œÈÚ\™]™\ˆ[ÝH™YYÈÝÜˆ‹œØ[\Ôš[Üš]HŽ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÒŒÓŽÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËYÝX\™X[‹˜ÛÛKÜÜÜÌŒ‹ÜÙ\ÌMËÚ[KYÙ[Z[™[K\ÛÜœžKX]\Ý˜[X[‹Z\›ÞX]]K]ÚË\ÛÚ[YZ\œÙ[‹X\ÛÙÚ\Ù\Ë]ËXÚ[˜KX[™\š]˜[È‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÝX\™X[ˆ™\Ü‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒŽLNˆ‹›XYÛ™]šXÙHŽˆ‰KŽNHŸKˆÈšYŽˆœÙ\ŒKXZK[[™ÝXYÙKY]H‹š\ÛÑ]HŽˆŒŒ‹LKLŒH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŒKŒˆ‹œXÙHŽˆ‘ÛØ˜[‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŒKXZK[[™ÝXYÙKY]KÙXœ‹]HŽˆ”Ú^HÜ™Ø[š^˜][ÛœÈ[š]HÈZ[RH[™ÝXYÙH]H™^[Û™H[™Û\Ú[\›™]‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒŒŽMˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•HØ]\È›Ý[™][Ûˆ[››Ý[˜ÙYHÛØ[][ÛˆÙˆŒÜ™Ø[š^˜][Ûœø %[˜ÛY[™È[›ÜXËÛÛÙÛH[™HÜ[RH›Ý[™][Û¸ %ÈÛÛÜ™[˜]H™\™\Ù[]]™H[™ÝXYÙKY]HÛÜšÈ›Üˆ\YšXÚX[[[YÙ[˜ÙKˆHš]™K^YX\ˆY™›ÜZ[\ÈÈ[\›Ý™HRHÛÛÈ›Üˆ[Ü™H[ˆÈš[[Ûˆ[ÜHÚÜÙH[™ÝXYÙ\È\™H[™\œ™\™\Ù[YÛ›[™Kˆ‹ÚHŽˆH[Ù[Ø[ˆÛ›H[\œ™]H[™ÝXYÙH]\›œÈ™\™\Ù[Y[ˆ]È˜Z[š[™È[™]˜[X][Ûˆ]KˆÙXZÈÛÝ™\˜YÙHØ[ˆ\›ˆ[ˆ]™\žY^HYYXØ[YXØ][ÛˆÜˆYÜšXÝ[\™H™\]Y\Ý[ÈH[™Ù\›Ý\ÈZ\Ý˜[œÛ][ÛŽÈHÛØ[][ÛˆÚ]\ÈHX[]ÚH^[\H[ˆÚXÚH˜\ÙHYX[š[™È]X›ÜˆY™YÝ[ˆØ\È™[™\™Y\ÈH[Xš[™È›Ø›[KˆH[š]X]]™H\ÈHÛÛ[Z]Y[[™ÛÝ™\›˜[˜ÙH›Ú™XÝ›Ý›ÛÙˆ]HÛÝ™\˜YÙHØ\\È[™XYH™Y[ˆÛÛ™Yˆ‹˜[™ÛHŽˆ•H[\›™]˜Z[™YH›Ø›ÝÛˆH[\›™][™Ø\ÈÚØÚÙYÈ\ØÛÝ™\ˆ[ÜÝÙˆ[X[š]HÙ\È›ÝÜXZÈ™Y]ˆÚ^HÜ™Ø[š^˜][ÛœÈ\™H›ÝÈ\ÜÙ[X›[™ÈHZ\ÜÚ[™ÈXÝ[Û˜\žH™Y›Ü™H8 &Ø]\ˆœ›ÚÙx &H™XÛÛY\ÈH[Xš[™ÈXÚÙ]ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ™XØ]\ÙH[\›™]ˆ[™\œÝ[™[™ÈH™]È[\ÈÙˆ[™ÝXYÙH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌT]ÕTÝ“—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆ™XØ]\ÙH[\›™]žHÜ™]Ú[ˆXÐÝ[ØÚ‹œ]Z\ŽˆHšY[ÝZYHÈÝÈ[™ÝXYÙH]›Û™\ÈÛ›[™x %[™ÚHHÛ›[™HØ[\H\È™]™\ˆHÚÛH[™ÝXYÙKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌÍLŒLLÍÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ‘[\\™\ÈÙˆHÛÜ™ˆH[™ÝXYÙH\ÝÜžHÙˆHÛÜ›‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ\ÛYÎ]ÚÓ—ÔÓLÍŒËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆ[\\™\ÈÙˆHÛÜ™žHšXÚÛ\ÈÜÝ\ˆ‹œ]Z\ŽˆHÛØ˜[\ÝÜžH›Üˆ[ž[Û™H[\YÈZ\ÝZÙHÙ^x &\ÈÛZ[˜[[\™˜XÙH[™ÝXYÙH›ÜˆH\›X[™[]ÈÙˆ˜]\™Kˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŒLÍMÌŒÏÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ•H[™ÝXYÙH[œÝ[˜ÝˆÝÈHZ[™Ü™X]\È[™ÝXYÙH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ^‘QV“—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆH[™ÝXYÙH[œÝ[˜ÝžHÝ]™[ˆ[šÙ\ˆ‹œ]Z\Žˆ˜XÚÙÜ›Ý[™ÛˆH[X[ˆÞ\Ý[H]™[XZ[œÈÛÛœÚY\˜X›Hœ›ØY\ˆ[ˆÛ™H˜Z[š[™ÈÛÜœ\Ëˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŒLÌÍÏÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_WKœÛÝ\˜ÙHŽˆšÎ‹ËØ\™]ÜË˜ÛÛKØ\XÛKØ\YšXÚX[Z[[YÙ[˜ÙKX[›ÜXË[Ü[˜ZKYØ]\ËXYY˜ŒŒX™YLØŒ˜ÎÎLXÙM™‹œÛÝ\˜ÙS˜[YHŽˆ”™XYH\ÜÛØÚX]Y™\ÜÈ™\ÜŸKˆÈšYŽˆœÙ\ŒKXÛÝËXZ\›Y‹š\ÛÑ]HŽˆŒŒ‹LKLŒH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŒKŒˆ‹œXÙHŽˆ‘œ™[˜Ú[Ý[Z[œÈ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŒKXÛÝËXZ\›YÙXœ‹]HŽˆÛÝÈX]™\È™[[ÝHœ™[˜Ú]YžH[XÛÜ\ŽÈÜ›Ý[™˜[œÜÜ[˜]˜Z[X›H‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒŒÌ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHÛÝÈ˜[YY˜Z[™H™XØ[YH˜\Y[ˆY\]Y[ˆH™[[ÝH[Ý[Z[ˆÙ][™[ˆœ˜[˜ÙKˆ™ZXÛ\ÈÛÝ[›Ý™XXÚ\‹ÛÈ™\ØÝY\œÈÙXÝ\™Y\ˆ[ˆHœ›ØYÛ[™È[™YY\ˆÝ]™[™X]H[XÛÜ\‹ˆHÙ\[X™\ˆŒH™\ÜØZYÚH™XÛÝ™\™YØY™[Kˆ‹ÚHŽˆ”™[[ÝH]™\ÝØÚÈ™\ØÝYHÛÛXš[™\È[š[X[Ù[˜\™K]šX][Û‹šYÙÚ[™È[™\œ˜Z[ˆXÚ\Ú[ÛœËˆHÛÛ›ÛYÛ[™ÈYØ[ˆ]›ÚYH[š\šY\È][[™ÈHX]žH[š[X[›ÝYÚY\]YZYÚØ]\ÙK]]™\]Z\™\È˜Z[™YÜ™]ÜÈ[™Ø\™Y[ÛÛÜ™[˜][Û‹ˆH[\ÝX[›ÛÝYÙHÚÝÜÈÚHHØY™\Ý›Ý]HØ[ˆ™HHÛ™H]™]™\ˆÝXÚ\ÈH›ØYˆ‹˜[™ÛHŽˆ•˜Z[™HÙ[XÝYHÛ›H\Ü˜YHX›Ý™H™[Z][HXÛÛ›Û^Nˆ^\›˜[Ø\™ÛËˆH]YÙ\\ˆYÙØYÙK]Ü›Ý[™˜[œÜÜ\È™Y[ˆØ[˜Ù[Y[[\\ˆ›ÝXÙKˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•HØ]HX[[™›ÛÚÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎTZULM›ÑŒS—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆHØ]HX[[™›ÛÚÈžHX]\ˆÛZ]ÛX\È‹œ]Z\Žˆ”˜XÝXØ[]™\ÝØÚÈØ\™H›ÜˆHX[žH^\ÈÚ[ˆH™X]Y[[ˆÙ\È›Ý[˜ÛYHH[XÛÜ\‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÍŒLÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ”ÝÜ™^x &\ÈÝZYHÈ˜Z\Ú[™È™YYˆØ]KY][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎPPU˜›ÝØ“—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆÝÜ™^x &\ÈÝZYHÈ˜Z\Ú[™È™YYˆØ]K›Ý\Y][Ûˆ‹œ]Z\Žˆ’X[[™[™È[™œ™YY[™ÈÝZY[˜ÙH›ÜˆÙY\[™ÈH\™ØY™[HÛˆH›Û‹XZ\˜›Ü›™H][™\˜\žKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÍNŒÎLÏÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆZ\œ[™H›Z[™È[™›ÛÚÎˆPKRNËLÐˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒNMMLLŽŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆHPHZ\œ[™H›Z[™È[™›ÛÚÈ‹œ]Z\Žˆ]šX][Ûˆ[™[Y[[È›Üˆ[™\œÝ[™[™ÈÚHH™\ØÝYH[ˆ™YYÈÛÛœÚY\˜X›H[Ü™H[ˆHÛ™È›ÜH[™Ü[Z\ÛKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒNMMLLŽÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÙX]\‹˜ÛÛKÌŒ‹ÌKÌŒKÜØÚY[˜ÙKÛ˜]\™KÝÚ[X[š[X[ËÝšY[ËØÛÝË]˜Z[™KZ[XÛÜ\‹\™\ØÝYH‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŒH™\ÜŸKˆÈšYŽˆœÙ\ŒK\Ú[™Ú[™Ë[[]\œÈ‹š\ÛÑ]HŽˆŒŒ‹LKLŒH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŒKŒˆ‹œXÙHŽˆ“XYYØ\ØØ\ˆ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŒK\Ú[™Ú[™Ë[[]\œËÙXœ‹]HŽˆ”Ú[™Ú[™È[]\œÈ\ÙH[ˆÜ\˜HšXÚÈÈØ\œžH›Ý\È›ÝYÚXYYØ\ØØ\¸ &\È›Ü™\Ý‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒŒÌˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ”™\ÙX\˜Ú\œÈÝYZ[™ÈÚ[[™š\È[ˆXYYØ\ØØ\ˆ[˜[^™YÈšY[ÜÈÙˆNH[š[X[Ëˆ™]]\œÈ™\ÜY]H[]\œÈÜ[™YZ\ˆ[Ý]ÈÚY\ˆ\È›Ý\È›ÜÙKH]\›ˆÛÛœÚ\Ý[Ú]›Ü›X[[š[™ø %HØ[YHXÛÝ\ÝXÈXÚš\]YH[X[ˆÛÜ˜[›ÜÈ\ÙHÈÙY\YÚ›Ý\ÈÛX\ˆ[™ÝÙ\™[ˆ‹ÚHŽˆ’[™šHÛÛ™ÜÈ[˜[Z[Y\ÈÝ^HÛÛ›™XÝY[™Y™\\ÙH\œš]ÜžH›ÝYÚ[œÙH›Ü™\Ýˆš[™[™ÈHÛÛ\\˜X›HXÛÝ\ÝXÈY\ÝY[[ˆ[›Ý\ˆš[X]HYÈ]šY[˜ÙHX›Ý]ÝÈ›ØØ[˜XÝÈÚ\HÛ™ËY\Ý[˜ÙHÛÛ[][šXØ][Û‹ˆH[š[X[È\™HÜš]XØ[H[™[™Ù\™YÛÈHš[™[™È[ÛÈœš[™ÜÈ][[ÛˆÈHÛÜ\ÝXØ]Y™Z]š[Üˆ]\[™ÈÛˆ[XÝXš]]ˆ‹˜[™ÛHŽˆ•H˜Z[™›Ü™\Ý\ÈH™\ÚY[ÛÜ˜[›ÈÙXÝ[Ûˆ[™›ÈZXÜ›ÜÛ™\Ëˆ[X[œÈÜ[Ù[\šY\È[™[[™ÈÜ\˜HÝ\Ù\ÎÈ[™š\Èœ›ÝYÚHXÛÝ\ÝXÜÈÚ][Kˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ“[]\œÈÙˆXYYØ\ØØ\‹šYY][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌL”™“PÙP“—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆ[]\œÈÙˆXYYØ\ØØ\‹šYY][Ûˆ‹œ]Z\Žˆ•HšY[™Y™\™[˜ÙH›ÜˆYY][™ÈXYYØ\ØØ\¸ &\Èš[X]\ÈY\ˆH[˜ÛÜ™H[™Y[YžZ[™ÈÚÈØ[™ÈÚXÚ\ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÌÍÌŽLMŽOÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ•HÚ[™Ú[™ÈY™HÙˆš\™È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍLZÍž–JÌ“Ó—ÔÓLŒËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆHÚ[™Ú[™ÈY™HÙˆš\™ÈžHÛ˜[Ü›ÛÙÛXH‹œ]Z\ŽˆHY\\Ý[ˆÈ[š[X[ÛÛ™È›Üˆ™XY\œÈ™]ÛHÝ\š[Ý\ÈX›Ý]H›Ü™\Ý8 &\È›Ûš[X[ˆ›ØØ[\\Y[Ëˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŒNMŽÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ“\ÝÚ[˜ÙHÈÙYH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎLV‹P“‘—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆ\ÝÚ[˜ÙHÈÙYHžHÝYÛ\ÈY[\È[™X\šÈØ\Ø\™[™H‹œ]Z\ŽˆH[›žK\™Ù[›Ý\›™^H[[Û™È[™[™Ù\™YÜXÚY\È]™YØ[ˆÚ]HXYYØ\ØØ\ˆÙX\˜Ú›ÜˆH^YKX^YKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍLÍÌNNÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_WKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœ™]]\œË˜ÛÛKÜØÚY[˜ÙKÜÚ[™Ú[™Ë[[]\œË[X^K]\ÙK\ÛÜ˜[›Ë[ZÙK]šXÚË\›Ú™XÝ\ÛÛ™ÜËLŒ‹LKLŒKÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYH™]]\œÈ™\ÜŸKˆÈšYŽˆœÙ\ŒK]YK\ÝÈ‹š\ÛÑ]HŽˆŒŒ‹LKLŒH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŒKŒˆ‹œXÙHŽˆ“ÜÝ›ÞH™XXÚÜ™YÛÛˆ‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŒK]YK\ÝËÙXœ‹]HŽˆ•Ý\š\ÝÈÚ\ÙHH˜[X]XÈ™XXÚÝÎÈš\Ú[™ÈYH\™XÝÈHÙ\]Y[‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒŒÌ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ•™YHÝ\š\ÝÈ[\™YÙXÛYYÜÝ›ÞH™XXÚ]ÝÈYH›ÜˆÚ]™\ØÝY\œÈ\ØÜšX™Y\ÈH˜[X]XÈÝÈÜÜ[š]Kˆš\Ú[™ÈØ]\ˆ[™[™Ù\›Ý\ÈÝ\™ˆÝ]Ù™ˆH›Ý]H˜XÚËˆY\ˆÝ\œÈÛˆH™XXÚHÜ›Ý\\ÙYHØ][]H[Y\™Ù[˜ÞHÓÔÈ[™\œ˜[™ÙYÝXÚÜÈ[ÈHš\ÚX›HÓÔÈ™Y›Ü™H™YH™\ØÝYHÝÚ[[Y\œÈœ›ÝYÚ[HÝ]ÈÛ›HZ[›Üˆ[\È[™ØÜ˜]Ú\ÈÙ\™H™\ÜYˆ‹ÚHŽˆ”ØÚÙ]™XXÚ\È[™ÙXHØ]™\ÈØ[ˆÜÙHZ\ˆ^]È]ZXÚÛH\ÈHYHš\Ù\Ë[™Ý\™ˆØ[ˆXZÙH[ˆ\\™[HÚÜ™]\›ˆ›Ý]H[\\ÜØX›KˆØ][]HÓÔÈ[Y™\ØÝY\œÈØØ]HHÜ›Ý\][Y\™Ù[˜ÞHÛÛ[][šXØ][Ûˆ\ÈH\Ý™\ÛÜ8 %›ÝHÝXœÝ]]H›ÜˆÚXÚÚ[™ÈYHX›\ËÙX]\‹XØÙ\ÜÈÚ[™ÝÜÈ[™H\›˜\›Ý[™[YH™Y›Ü™H[\š[™Ëˆ‹˜[™ÛHŽˆ•^HÙ[ÛÚÚ[™È›Üˆ˜[X]XÈÛÛ\ÜÚ][Ûˆ[™\™YHXÚYšXÈ\ÈÜ™X]]™H\™XÝÜ‹ˆHš[˜[ÚÝ[˜ÛYY™YH™\ØÝYHÝÚ[[Y\œÈ[™[ˆÓÔÈXYHÙˆÝXÚÜËˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•HÛÛ\]HØZ[Ü‹ÙXÛÛ™Y][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒMPQÜØ–—ÔÓLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆHÛÛ\]HØZ[Ü‹ÙXÛÛ™Y][Ûˆ‹œ]Z\ŽˆH˜XÝXØ[š[Y\ˆÛˆÛØ\Ý[Ø]\ˆ›Üˆ[ž[Û™HÚÜÙHÝÈ[ˆ\È›ÝY]ÛÛœÝ[YHØÙX[‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌMÍMMÎÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ‘Ø\›Z[ˆ[”™XXÚZ[šHˆØ][]HÛÛ[][šXØ]Üˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍL^UœQÖ—ÐP×ÔÓLËšœÈ‹˜[Žˆ“Ü˜[™ÙHØ\›Z[ˆ[”™XXÚZ[šHˆØ][]HÛÛ[][šXØ]Üˆ‹œ]Z\Žˆ•HÛÛ\XÝÓÔÈÛÛ]Ø[ˆØ[›Üˆ[Ú[ˆ˜[X]XÈØÙ[™\žH\È›ÈÙ[˜\œÈ[™Û™Hš\Ú[™ÈYKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒTÒÑÍÐÌÏÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ’ÝÈÈ™XYH˜]]XØ[Ú\›™Y][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌMÍÎNKŒK“––––––‹šœÈ‹˜[ŽˆÛÝ™\ˆÙˆÝÈÈ™XYH˜]]XØ[Ú\ÙXÛÛ™Y][Ûˆ‹œ]Z\Žˆ™XØ]\ÙHHØ]\›[™H\ÈHØÚY[K›Ý[ˆ\\ÝXÈÝYÙÙ\Ý[Ûˆœ›ÛHHXÚYšXËˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌMÍÎNOÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_WKœÛÝ\˜ÙHŽˆšÎ‹ËÜ[ÜK˜ÛÛKÌË]Ý\š\ÝË\™\ØÝYYXY\‹YÙ][™Ë\Ý˜[™Y[Û‹\ÙXÛYYX™XXÚY›Ü‹ZÝ\œË]Ú[K]žZ[™Ë]Ë]ZÙKY˜[X]XË\ÝËLLŒLÌMÎˆ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŒH™\ÜŸKˆÈšYŽˆœÙ\Œ]\™‹ZX]‹š\ÛÑ]HŽˆŒŒ‹LKLŒ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŒŒˆ‹œXÙHŽˆ“˜\Úš[K[›™\ÜÙYH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\Œ]\™‹ZX]ÙXœ‹]HŽˆ“‘“^Y\œÈÛÛÛY[[™ÈÛX]È\È˜\Úš[H\™ˆ™XXÚ\ÈMMð¬ˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒŒŒNˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ‘\š[™ÈHÙ\[X™\ˆŒXYÛ\ø $Õ][œÈØ[YH]š\ÜØ[ˆÝY][KH›Þœ›ØYØ\ÝYX\Ý\™YHÞ[]XÈ^Z[™ÈÝ\™˜XÙH]MMð¬ˆÚ[HHZ\ˆ[\\˜]\™H™XXÚYMp¬‹ˆ^Y\œÈÝ\™YØ]\ˆÝ™\ˆZ\ˆÛX]ËXYÛ\ÈÙ[\ˆØ[H\™Ù[œÈÚ[™ÙYÚÙ\ÈY\ˆHZ\ˆÛÙ[™Y[ˆHX][™][œÈÛØXÚ›Ø™\Ø[Z™XÙZ]™Y[ˆUˆY\ˆHØ[YKˆ‹ÚHŽˆ•HšY[™XY[™ÈØ\È˜\ˆX›Ý™HHÝ\œ›Ý[™[™ÈZ\ˆ[\\˜]\™H[™\›™YHš^˜\œ™HÚY[[™H[XYÙH[ÈH^Y\‹\ØY™]H]Y\Ý[Û‹ˆ\YšXÚX[Ý\™˜XÙ\ÈØ[ˆXœÛÜ˜ˆ[™™\˜YX]H[[œÙHX]XZÚ[™ÈÝ\™˜XÙHYX\Ý\™[Y[ËÛÛÛ[™È[œË›ÛÝÙX\ˆÚXÚÜÈ[™ÚXÚÛÙ™ˆÛÛ™][ÛœÈX]\šX[HY™™\™[œ›ÛHHÝ[™\™ÙX]\ˆ™\Üˆ‹˜[™ÛHŽˆ“˜\Úš[H[œÝ[YH›ÛÝ˜[šY[[™XØÚY[[H™ZX]YH˜ZÚ[™ÈÚY]ˆžH[[YKH\]Z\Y[ÝY™ˆØ\È[›š[™ÈH][™H›Üˆ›ÛÝÙX\ˆ]Y™XXÚY[[Kˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ‘]ZØÚ]H[™œ˜\™Y\›[ÛY]\ˆÍÍ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒ^”QXØŒ“—ÐP×ÔÓMLËšœÈ‹˜[Žˆ–Y[ÝÈ]ZØÚ]HÍÍ[™œ˜\™YÝ\™˜XÙH\›[ÛY]\ˆ‹œ]Z\Žˆ•H]ZXÚÙ\ÝØ^HÈX\›ˆÚ]\ˆHšY[\È^XX›HÜˆ[™XYHXØÙ\[™È^ž˜HÜ™\œËˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÍÖ‘Ô–OÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ‘”“ÑÑÈÑÑÔÈÚ[HY[œÝ[ÛÛÛ[™ÈÝÙ[‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍZÑšQÑ
+ÓšœÈ‹˜[Žˆ“[YHÜ™Y[ˆ”“ÑÑÈÑÑÔÈÚ[HYÛÛÛ[™ÈÝÙ[‹œ]Z\Žˆ•Ù]]Üš[™È][™\ÞH™Y›Ü™H[Ý\ˆ›ÛÝÙX\ˆ™XÛÛY\ÈHÛÙÚY\ÙKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ“‘ÔÐŽMÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ”ÚÙHÓÓÈLLŒLˆY\Ú]™KËÈ›Þ‹›XÚÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒRZØ]Õ\Ó—ÐP×ÔÓLËšœÈ‹˜[Žˆ›XÚÈX™HÙˆÚÙHÓÓÈÚÙH™\Z\ˆY\Ú]™H‹œ]Z\Žˆ‘›ÜˆHÛX]È]™]\›™Yœ›ÛH˜\Úš[HÚ]HÝXÝ\˜[ÛÛ™šY[˜ÙHÙˆØ\›HY™žKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ“Ò‘NÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽWKœÛÝ\˜ÙHŽˆšÎ‹ËÛž\ÜÝ˜ÛÛKÌŒ‹ÌKÌŒÜÜÜËÝ][œËZÜÙKYÝÛ‹XÛX]ËX\ËZX]]ZÙ\Ë[Ý™\‹Y›Ü‹Xš^˜\œ™K[[ÛY[Z[‹[ÜÜË]ËYXYÛ\ËÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYHÙ\[X™\ˆŒ™\ÜŸKˆÈšYŽˆœÙ\ŒZÛØ[KX™Y›ÛÛH‹š\ÛÑ]HŽˆŒŒ‹LKLŒ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŒŒˆ‹œXÙHŽˆ’[™\™[]\Ý˜[XH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\ŒZÛØ[KX™Y›ÛÛKÙXœ‹]HŽˆ’ÛØ[HÚXÚÜÈ[È[ˆ]\Ý˜[X[ˆ™Y›ÛÛHÚ]Ý]H™\Ù\˜][Ûˆ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒŒŒNˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆHÙ\[X™\ˆŒ™\Ü\ØÜšX™Y[ˆ[™\™[™\ÚY[X\š[™ÈØÜ˜]Ú[™È[™Ü›ÝÛ[™È]HÛY[™ÈÛ\ÜÈÛÜˆ™Y›Ü™HHÛØ[H˜[ˆÝÛˆH[Û[X™YÛÈ\ˆ™Y[™Ù]Y[‹ˆHØØ[Ú[Y™H›Û[Y\ˆØY™[H™[[Ý™YH[š[X[œ›ÛHHÝ\ÙKˆ‹ÚHŽˆ•HÝ\œš\ÙHÝ\ÙYÝY\Ý\È[›žK]Hœ›ØY\ˆ]\›ˆ\È›Ý\ÝÛ\ÝXÚËˆH™\ÜÚ]\È]\Ý˜[X[ˆ™\ÙX\˜ÚÚÝÚ[™È]˜]]™H[š[X[È[˜Ü™X\Ú[™ÛH\ÙHZ[[™ÜÈÚ[ˆÛÝËX™X\š[™ÈXš]]\ÈØØ\˜ÙK\›š[™ÈÛ™H^Ù[[™Y›ÛÛHÝÈ[ÈH\™Ù\ˆ]Y\Ý[ÛˆX›Ý]Xš]]\˜˜[ˆ\ÚYÛˆ[™Ú[Y™K\™\ØÝYH[X[™ˆ‹˜[™ÛHŽˆ•HÛØ[HÚÚ\Y™XÙ\[Û‹[œÜXÝYH[™[œÈ[™™\]Y\ÝYH]XØ[\\ÈZ[šX˜\‹ˆX[˜YÙ[Y[ØZ]™YHÛX[š[™È™YH™XØ]\ÙHHÝY\Ýœ›ÝYÚ]ÈÝÛˆ\ˆÛØ]ˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•HÛØ[HÚÈÛÝ[‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎL]ÔR•‘Ð“—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆHÛØ[HÚÈÛÝ[žH˜XÚ[œšYÚ[™š[HšY[‹œ]Z\ŽˆH\ÙY[XÝ\™KX›ÛÚÈœšYYš[™È›Üˆ[žHÛØ[HXÚY[™ÈÚ]\ˆ]Ø[ˆÛÛ\]H[ˆ[˜[››Ý[˜ÙY™Y›ÛÛHÚXÚËZ[‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLÌÎLÎLÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ’ÛØ[NˆH˜]\˜[\ÝÜžH[™[ˆ[˜Ù\Z[ˆ]\™H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒU[YÎÜÕVS—ÔÓLŒËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆÛØ[NˆH˜]\˜[\ÝÜžH[™[ˆ[˜Ù\Z[ˆ]\™H‹œ]Z\Žˆ•HÙ\š[Ý\È˜]\˜[Z\ÝÜžH[œÝÙ\ˆÈÚHHYÜ˜X›H™\Ü\ÜÙ\ˆX^H™HÛÚÚ[™È™^[Û™H™Y\Ëˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLÌÍŽÍÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ•H][™È›ÛÈÛØ[HÝY™™Y[š[X[\ÚYH8 %Lˆ[˜Ú‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌMY‘MÓÜTË—ÐP×ÔÓMLËšœÈ‹˜[Žˆ•H][™È›ÛÈL‹Z[˜ÚÛØ[HÝY™™Y[š[X[\ÚYH‹œ]Z\ŽˆHÝ\ÙYÝY\Ý\Ú^™YÛØ[H]Ý^\ÈÛˆH™Y[™™]™\ˆ™\]Z\™\È[ˆ[Y\™Ù[˜ÞHÚ[Y™H›Û[Y\‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒLMNLÒÏÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽWKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË][Y\Ë˜ÛÛKÝÛÜ›Ø]\Ý˜[\ÚXKØ\XÛKÚÛØ[K]Ú[Y™K\Ú[\‹XÛ[X]KXÚ[™ÙKX]\Ý˜[XKYœYØŒš‹œÛÝ\˜ÙS˜[YHŽˆ”™XYH[Y\ÉÈÙ\[X™\ˆŒ™\ÜŸKˆÈšYŽˆœÙ\Œ][YK]šX[\™XÛÜ™‹š\ÛÑ]HŽˆŒŒ‹LKLŒ‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\ŒŒˆ‹œXÙHŽˆ“[Û™X[Ø[˜YH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\Œ][YK]šX[\™XÛÜ™ÙXœ‹]HŽˆÞXÛ\ÝÚ[œÈ™XÛÜ™›Ý\Ý˜ZYÚÛÜ›[YK]šX[]H‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌŒŒŒNLˆ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ™[Ú][IÜÈ™[XÛÈ]™[™\Ù[ÛÛ\]YHÎKŒ‹ZÚ[ÛY]\ˆÛÜ›Ú[\[ÛœÚ\[YHšX[[ˆ[Û™X[[ˆZ[]\ÈLËŒLÈÙXÛÛ™Ë™X][™Èš[\ÈØ[›˜HžHMËŒÌHÙXÛÛ™Ëˆ™]]\œÈ™\ÜY]HšXÝÜžHXYH[HHš\œÝX[ˆÈÚ[ˆ›Ý\ˆÛÛœÙXÝ]]™HÛÜ›[™]šYX[[YK]šX[]\Ëˆ‹ÚHŽˆH[YHšX[™[[Ý™\È[ÜÝÙˆHXÝXØ[›Ú\ÙHÙˆH›ØY˜XÙNˆXXÚšY\ˆ˜XÙ\ÈHØ[YHÛØÚËÛÝ\œÙH[™[X[™›ÜˆÝ\ÝZ[™YXÚ[™Ëˆ›Ý\ˆÝ˜ZYÚÛÜ›]\ÈÚÝÈ[\ÝX[\˜Xš[]HXÜ›ÜÜÈÚ[™Ú[™È›Ý]\Ëš]˜[È[™ÙX\ÛÛœËÚ[HX]Ú[™ÈH›Ý\‹]]HØ\™Y\ˆÝ[™XXÚYžHÛžHX\[ˆ[™˜XšX[ˆØ[˜Ù[\˜Kˆ‹˜[™ÛHŽˆ‘›ÜˆH›Ý\YX\ˆ[ˆH›ÝËHÝÜØ]Úš[YH›Ü›X[ÛÛ\Z[ˆ[Û™X[›ÝšYYÎKŒˆÚ[ÛY]\œÈÙˆ›ØY[™Û™H™\žH^[œÚ]™H\ÜÛÛˆ[ˆ™Z[™È™X\›HHZ[]H]Kˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•HÞXÛ\Ý	ÜÈ˜Z[š[™ÈšX›H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌUZTZÕÔšÓ—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆHÞXÛ\Ý	ÜÈ˜Z[š[™ÈšX›HžH›ÙHœšY[‹œ]Z\Žˆ•HÛÛ\™Z[œÚ]™H˜Z[š[™ÈX[X[›Üˆ[ž[Û™HÚÈÛÝ[ZÙHHÛØÚÈÈÜÙHÛYÚH\ÜÈXÚ\Ú]™[Kˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLÍÍÌMNOÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆšYÈ›YH›ÛÚÈÙˆšXÞXÛH™\Z\ˆ8 %Y][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ]ÕÎUL\RS—ÔÓMËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆ\šÈÛÛ	ÜÈšYÈ›YH›ÛÚÈÙˆšXÞXÛH™\Z\‹›Ý\Y][Ûˆ‹œ]Z\Žˆ™XØ]\ÙH]™[ˆHÛÜ›]]H[™Ú[™HÝ[\[™ÈÛˆÙ]™\˜[[™™YÛX[\ÈYÜ™YZ[™ÈÈÛÛ[YKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÍMLÌÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_KÈ]HŽˆ•H[YKPÜ[˜ÚYÞXÛ\ÝÜ™Y][Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌSZÜ••RS—ÔÓMLËšœÈ‹˜[ŽˆÛÝ™\ˆÙˆH[YKPÜ[˜ÚYÞXÛ\Ý\™Y][Ûˆ‹œ]Z\ŽˆH˜Z[š[™È[ˆ›ÜˆšY\œÈÚÈØ[ÜYY]Ø[››ÝYXØ]H›Ý\ˆÛÛœÙXÝ]]™HÛÜ›Ú[\[ÛœÚ\ÈÈH›Ú™XÝˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLÍÍÌMMLÏÝYÏX›\ÜËLŒ‹œØ[\Ôš[Üš]HŽ_WKœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝËœ™]]\œË˜ÛÛKÜÜÜËØš\^KYÚ\›\™]\ÜÙ\‹\™]Z[œË]ÛÜ›][YK]šX[]]K[[Û™X[LŒ‹LKLŒÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYH™]]\œÈ™\ÜŸKˆÈšYŽˆœÙ\LK][\ÝZÜœÙH‹š\ÛÑ]HŽˆŒŒ‹LKLLH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\LKŒˆ‹œXÙHŽˆ•ÝØÙ\Ý\‹[™Û[™‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\LK][\ÝZÜœÙKœÝ™È‹]HŽˆ•ÛÜ›8 &\È[\Ý]š[™ÈÜœÙH›ÝÈ™YYÈ\ÝZ\œÈ™ZYÚ›ÜœÈ‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÌÍL‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ’YÛËH›Ý\‹^YX\‹[ÛÚ\™HÜœÙH[ˆÝØÙ\Ý\‹[™Û[™\È™Y[ˆ™XÛÙÛš^™Y[ˆÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ\ÈHÛÜ›8 &\È[\Ý]š[™ÈÜœÙKˆH™]\š[˜\šX[ˆYX\Ý\™Y[HÚ]Ý]ÜœÙ\ÚÙ\È]KŽNHY]\œø %X›Ý]ˆ™Y]ˆ[˜Ú\ø %]HÚ]\œËˆ‹ÚHŽˆ”Ú\™HÜœÙ\ÈÙ\™Hœ™Y›ÜˆX]žHÛÜšÈ[™\™H[[Û™ÈHÛÜ›8 &\È\™Ù\ÝÜœÙHœ™YYËˆYÛÈ\ÈÝ[[Ý[™ËÙ[H[™™\ÜYHY™™XÝ[Û˜]KYX[š[™ÈH™XÛÜ™Û\ˆ\È\ÜÙ[X[H[ˆ[›Ü›[Ý\ÈÙÈÚÜÙH›ÛÙÛÛY\ÈžHH˜[Kˆ‹˜[™ÛHŽˆ’YÛÈ\È[[›ÝYÚÈ[œÜXÝHÙXÛÛ™›ÛÜˆÚ]Ý][\š[™ÈHZ[[™Ëˆ\ÈÝÛ™\ˆÙ\È›ÝXY[H[ÈHÝX›NÈÚH\ÚÜÈHÝX›H›ÜˆÛX\˜[˜ÙKˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ‘ÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNLM‹ŒK“––––––‹šœÈ‹˜[Žˆ‘ÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ›ÛÚÈ‹œ]Z\Žˆ•HÙ™šXÚX[›ÛÚÈÛÛZ[š[™ÈYÛø &\È™]È™XÛÜ™8 %[™Ù]™\˜[YÙ\ÈÝ\™H[›ÝYÚÈÙ\™H\È\ÈÛØ\Ý\‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLMÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HÜœÙH[˜ÞXÛÜYXH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMMLMÎKŒK“––––––‹šœÈ‹˜[Žˆ•HÜœÙH[˜ÞXÛÜYXH›ÛÚÈ‹œ]Z\ŽˆHÛÛ\]HÜœÙH™Y™\™[˜ÙH]X^H™YYH›ÛÝ]YÙHÈXØÛÛ[[Ù]HYÛËˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMMLMÎOÝYÏX›\ÜËLŒŸKÈ]HŽˆšYÈ™Y˜\›ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌVŒK“––––––‹šœÈ‹˜[ŽˆšYÈ™Y˜\›ˆÚ[™[¸ &\È›ÛÚÈ‹œ]Z\Žˆ‘š[˜[KH˜\›ˆ]H]™YÚ[œÈÈXÚÛ›ÝÛYÙHYÛø &\ÈZ[š[][HÝ\Ú[™È™\]Z\™[Y[Ëˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌVÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÛ›ÝXÚX\Ë[Û˜ÛÛK˜œ‹ÛYZ[ËX[XšY[KÝ[[X\Ë[›ÝXÚX\ËÜ™YXØ[ËÌŒ‹ÌKÌLØØ]˜[ËYK\]X\ÙKYÚ\Ë[Y]›ÜË\Ý\\˜K[X\˜ØKYK]š\˜K[Ë[XZ\ËX[Ë]š]›ËYË[][™Ë™ÚH‹œÛÝ\˜ÙS˜[YHŽˆ”™XYH™\ÜŸKˆÈšYŽˆœÙ\LK\š[˜ÙK]Ú[X[KXÜ›ØÈ‹š\ÛÑ]HŽˆŒŒ‹LKLLH‹›[ÛŽˆ”Ù\[X™\ˆ‹™]HŽˆ”Ù\LKŒˆ‹œXÙHŽˆ”]YY[œÛ[™]\Ý˜[XH‹š[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\LK\š[˜ÙK]Ú[X[KXÜ›ØËœÝ™È‹]HŽˆ”š[˜ÙHÚ[X[H\È›ÝÈHL‹Y›ÛÝÜ›ØÛÙ[KXÚšXØ[H‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÌÍLÍH‹›XYÛ™]šXÙHŽˆ‰KŽNH‹™˜XÝÈŽˆ”›Ø™\\Ú[ˆ[››Ý[˜ÙY]HÌÜ›ØÛÙ[HYÙÙY[ˆHÛ™Ë\[›š[™ÈÛÛœÙ\˜][ÛˆÝYH]HÝ]™H\Ú[ˆÚ[Y™H™\Ù\™H\È™Y[ˆ˜[YYš[˜ÙHÚ[X[KˆHL‹Y›ÛÝM‹Z[˜ÚØ[Ø]\ˆÜ›ØÛÙ[HÚ[Ø\œžHH˜XÚÙ\ˆ›ÜˆH™^XØYKˆ‹ÚHŽˆ”™\ÙX\˜Ú\œÈÚ[\ÙHH˜XÚÙ\ˆÈÝYHHÜ›ØÛÙ[x &\È[Ý™[Y[ËY]›ÙH[\\˜]\™H[™ÛØÚX[™Z]š[Ü‹ˆ\Ú[ˆÚÜÙHH›ÞX[˜[YHÈ™XÛÙÛš^™HHš[˜ÙHÙˆØ[\ø &\ÈÛÛœÙ\˜][ÛˆÛÜšÈ[™HX\ÚÝš^™Kˆ‹˜[™ÛHŽˆœš]Z[ˆ\Èš[˜[H›ÙXÙYH›ÞX[ÚÈØ[ˆÙ]HÛÛœÝ]][Û˜[]Y\Ý[ÛœÈÚ]HX]›Ûˆ[XÙHÝY™ˆ\ØÜšX™H[H\È™\Ù\™Y˜Y][Û˜[[™^™[Y[HY™šXÝ[Èš]›Üˆ›Ý\Ù\œËˆ‹˜[X^›Û“[šÜÈŽ–ÞÈ]HŽˆ•HX\ÚÝš^™NˆH[™›ÛÚÈ›Üˆ™X[Y\œÈ[™[šÙ\œÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMLŒÍŽMËŒK“––––––‹šœÈ‹˜[Žˆ•HX\ÚÝš^™H[™›ÛÚÈ‹œ]Z\Žˆ•HÛÛœÙ\˜][Ûˆ[™›ÛÚÈ™Z[™HÛÜšÈ]X\›™Yš[˜ÙHÚ[X[HH˜\™HÛ›ÜˆÙˆ™XÛÛZ[™ÈHÚX[Ü›ØÛÙ[Kˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLŒÍŽMÏÝYÏX›\ÜËLŒŸKÈ]HŽˆÜ›ØÛÙ[\ÈžHÙ^[[Ý\ˆÚ[[Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÎŽMKŒK“––––––‹šœÈ‹˜[ŽˆÜ›ØÛÙ[\ÈžHÙ^[[Ý\ˆÚ[[Ûˆ›ÛÚÈ‹œ]Z\Žˆ˜XÚÙÜ›Ý[™™XY[™È›Üˆ\Ý[™ÝZ\Ú[™ÈH]\™HÚ[™Èœ›ÛHHÝ\ˆŽNH™\ÙX\˜ÚÝXš™XÝËˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÎŽMOÝYÏX›\ÜËLŒŸKÈ]HŽˆ“˜][Û˜[Ù[ÙÜ˜\XÈ™XY\œÎˆÜ›ØÛÙ[\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒÌNMÎKŒK“––––––‹šœÈ‹˜[Žˆ“˜][Û˜[Ù[ÙÜ˜\XÈ™XY\œÈÜ›ØÛÙ[\È›ÛÚÈ‹œ]Z\ŽˆH™YÚ[›™\¸ &\ÈÝZYHÈ›ÞX[›ÝØÛÛÚ[ˆH™XÙZ]š[™È[™H\ÈÙ[™H™Y]Û™È[™X]š[H\›[Ü™Yˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÌNMÎOÝYÏX›\ÜËLŒŸWKœÛÝ\˜ÙHŽˆšÎ‹ËÜ[ÜK˜ÛÛKÜ›Ø™\Z\Ú[‹[˜[Y\ËXÜ›ØÛÙ[KXY\‹\š[˜ÙK]Ú[X[KLLŒÍŒÈ‹œÛÝ\˜ÙS˜[YHŽˆ”™XYH[ÜH™\ÜŸKˆÚY‰ÜÙ\L[˜\œ›ÝÙ\ÝXØ\‰Ë\ÛÑ]N‰ÌŒ‹LKLL	Ë[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\LŒ‰ËXÙN‰ÑÛØ˜[	Ë[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\L[˜\œ›ÝÙ\ÝXØ\‹ÙXœ	Ë]N‰ÕÛÜ›8 &\È˜\œ›ÝÙ\Ýš]˜X›HØ\ˆX]™\È[›ÝÈ›ÛÛHÙ™ˆH›Y\š[	ËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNŽŒN	ËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰ÑÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈX\šÙYH\œš]˜[Ùˆ]ÈŒÈ[›X[›ÛÚÈžH[››Ý[˜Ú[™ÈHÛÛXÝ[ÛˆÙˆ™]È™XÛÜ™Û\œË[˜ÛY[™ÈHÛÜ›8 &\È˜\œ›ÝÙ\Ýš]˜X›HØ\‹ˆ]\ÈH[˜Ý[Ûš[™È™ZXÛK›ÝY\™[HH[žH\Ü^H[Ù[‰ËÚN‰Ô™XÛÜ™™ZXÛ\È\™H\ÝX[HÜ[Z^™Y\›Ý[™Û™H^™[YKˆXZÚ[™ÈHØ\ˆ^˜[Ü™[˜\š[H˜\œ›ÝÈÚ[HÙY\[™È]š]˜X›H\›œÈÜ™[˜\žHXÚØYÚ[™ø %ÝY\š[™ËÛÛ›ÛËÚY[È[™H[X[ˆš]™\¸ %[ÈH[\™H[™Ú[™Y\š[™ÈÚ[[™ÙK‰Ë[™ÛN‰Ð]\ÝHØ\ˆ›Üˆš]™\œÈÚÈÛÚÈ]HšXÞXÛH[™H[™ÛÛ\Z[ˆX›Ý][HØ\ÝY™X[\Ý]KˆHÛÝ™HÛÛ\\Y[\È™Y[ˆ™\XÙYžHÛ™HÛÝ™K‰Ë[X^›Û“[šÜÎ–ÞÈ]HŽˆ‘›ÜÝÜØ\ˆÙX]Ø\š[\œÈ8 %Ù]Ùˆˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌXXSÚ›Q–]—ÐP×ÔÓMËšœÈ‹˜[Žˆ•ÛÈ›ÜÝÜØ\ˆÙX]Ø\š[\œÈ‹œ]Z\Žˆ•HÛÜ›8 &\È˜\œ›ÝÙ\ÝØ\ˆÛÛ™\ÈHÙX]YØ\›Ø›[HžH™X\›H[[Z[˜][™ÈHÜÜÚXš[]HÙˆHØ\ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ–RÌQOÝYÏX›\ÜËLŒŸKÈ]HŽˆ’ÕÔˆÛÛ\XÝ‹QØ[ÛˆØ\ˆ˜\ÚØ[ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍL]Þ˜NLÎS—ÐP×ÔÓMLËšœÈ‹˜[Žˆ’ÕÔˆÛÛ\XÝØ\ˆ˜\ÚØ[ˆ‹œ]Z\ŽˆHÛÛ\XÝš[ˆ›ÜˆHØ\ˆÚÜÙH[\™HØXš[ˆX^H[™XYH]X[YžH\ÈÛÛ\XÝÝÜ˜YÙKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÕ‘Ô•’ÔÓÝYÏX›\ÜËLŒŸKÈ]HŽˆ[\\ˆ‹R[˜Ú›[™ÜÝZ\œ›ÜœÈ8 %XÚÈÙˆˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌZÛÓÔ•NÓ—ÐP×ÔÓMLËšœÈ‹˜[Žˆ”Z\ˆÙˆ[\\ˆ›Ý[™›[™ÜÝZ\œ›ÜœÈ‹œ]Z\Žˆ•ÛËZ[˜ÚZ\œ›ÜœÈ›ÜˆHØ\ˆÛÈ˜\œ›ÝÈH›[™ÜÝX^H™HÚY\ˆ[ˆH™ZXÛKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒPÕSÐÏÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÉËÛÝ\˜ÙS˜[YN‰Ô™XYHTHÙ™]ÜÈ™\Ü	ßKˆÚY‰ÜÙ\L[[Ûš]Ü‹[^˜\™	Ë\ÛÑ]N‰ÌŒ‹LKLL	Ë[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\LŒ‰ËXÙN‰ÓZ\ÜÛÝ\šIË[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\L[[Ûš]Ü‹[^˜\™ÙXœ	Ë]N‰ÓZ\ÜÛÝ\šHÝÜ›H˜Z[ˆ™]™X[È[™^XÝY˜YÛÛˆÙ][™ÉËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNŽ	ËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰Ð[ˆ\ÚX[ˆØ]\ˆ[Ûš]Üˆ^˜\™Ø\Èš\ÚYÝ]ÙˆHÝÜ›H˜Z[ˆ[ˆZ\ÜÛÝ\šKˆH\™ÙH™\[H\È›Ý˜]]™HÈHÝ]KXZÚ[™ÈH[™\™Ü›Ý[™[˜ÛÝ[\ˆÛÛœÚY\˜X›HÝ˜[™Ù\ˆ[ˆH\ÝX[ÛÙÙÙYY˜Z[ˆØ[‰ËÚN‰Ð\ÚX[ˆØ]\ˆ[Ûš]ÜœÈ\™HÝÙ\™[Ù[ZX\]X]XÈ^˜\™ÈÛÛ[[Û›HÙ\[ˆH^ÝXË\]˜YKˆÝ]ÚYHZ\ˆ˜]]™H˜[™ÙKHÛÜÙH[š[X[Ø[ˆÜÙHHY™šXÝ[™\ØÝYH›Ø›[H›Üˆ›ÝH™\[H[™H[ÜHžZ[™ÈÈ™]šY]™H]ØY™[K‰Ë[™ÛN‰ÓZ\ÜÛÝ\šHÚXÚÙYHÝÜ›H˜Z[ˆ[™\ØÛÝ™\™YH][šXÚ\[Ù]Ù\ˆXÚØYÙHY]ZY]H\Ü˜YYÈ[˜ÛYH˜YÛÛœËˆH[YØ]ÜœËZ[‹]K\Ù]Ù\ˆ[š[Ûˆ\Èš[YH\š\ÙXÝ[Û˜[ÛÛ\Z[‰Ë[X^›Û“[šÜÎ–ÞÈ]HŽˆ“˜][Û˜[Ù[ÙÜ˜\XÈ™XY\œÎˆ^˜\™È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒÌLŒŽŒK“––––––‹šœÈ‹˜[Žˆ“˜][Û˜[Ù[ÙÜ˜\XÈ™XY\œÈ^˜\™È›ÛÚÈ‹œ]Z\ŽˆH]ZXÚÈY[YšXØ][ÛˆÝZYH›ÜˆÛÛ™š\›Z[™È]H[š[X[[ˆH˜Z[ˆ\ÈÚ[HÝ]ÚYHZ\ÜÛÝ\šx &\È›Ü›X[ÜXÚYšXØ][ÛœËˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÌLŒŽÝYÏX›\ÜËLŒŸKÈ]HŽˆ•[[X]H™\[[ÜYXNˆH[ÜÝÛÛ\]H™\[H™Y™\™[˜ÙH]™\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒÌŒLŒËŒK“––––––‹šœÈ‹˜[Žˆ•[[X]H™\[[ÜYXH™Y™\™[˜ÙH›ÛÚÈ‹œ]Z\Žˆ•H[™Y™\™[˜ÙH›ÜˆÚ[ˆÛ™HÝÜ›KY˜Z[ˆ^˜\™\›œÈH›Ý][™HØ[[È[ˆ^ÝXË\ÜXÚY\È^[Kˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÌŒLŒÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ“˜][Û˜[Ù[ÙÜ˜\XÈÚYÈ]™\ž][™È™\[\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒÌLÍŽËŒK“––––––‹šœÈ‹˜[Žˆ“˜][Û˜[Ù[ÙÜ˜\XÈÚYÈ]™\ž][™È™\[\È›ÛÚÈ‹œ]Z\Žˆ”™\]Z\™Y™XY[™ÈY\ˆZ\ÜÛÝ\šH[Xš[™È[™^XÝYH™YÚ[œÈ\ÜÝZ[™È˜YÛÛœËˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÌLÍŽÏÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÉËÛÝ\˜ÙS˜[YN‰Ô™XYHTHÙ™]ÜÈ™\Ü	ßKˆÚY‰ÜÙ\L[X\›[ÝXÛÛÛ[	Ë\ÛÑ]N‰ÌŒ‹LKLL	Ë[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\LŒ‰ËXÙN‰ÔØ[ˆœ˜[˜Ú\ØÛËØ[Y›Ü›šXIË[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\L[X\›[ÝXÛÛÛ[ÙXœ	Ë]N‰Ó^\Ý\žHX\›[Ý™X]È˜YX]Üˆ›ZYZÙHH\Ý[™ÈY[IËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNŽÍŒIËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰ÐH^\Ý\žHX\›[Ý›Ý[™[ˆØ[ˆœ˜[˜Ú\ØÛÈ™\ÜYH˜[šÈ˜YX]Üˆ›ZY[™™\]Z\™Y[œ›ÛH[š[X[XØ\™H›Ù™\ÜÚ[Û˜[ËˆH[\ÝX[™\ØÝYH™XØ[YHÛ™HÙˆÙ\[X™\ˆL8 &\ÈÝ[™Ý]Ù[™]ÜÈÝÜšY\Ë‰ËÚN‰Ð[Yœ™Y^™HØ[ˆ™H[™Ù\›Ý\ÛHÞXÈÈ[š[X[Ë[™Ú[Y™H]Ø[™\œÈ\›Ý[™™ZXÛ\ÈX^H[˜ÛÝ[\ˆXZÙY]]Û[Ý]™H›ZYËˆH\\ÛÙH\È[›žH\ÈHXY[™H][ÛÈH™[Z[™\ˆÈÛX[ˆÜ[È[™ÙY\Ú[ZXØ[ÈÙXÝ\™Y‰Ë[™ÛN‰ÕHX\›[Ý\œš]™Y[ˆØ[ˆœ˜[˜Ú\ØÛËÚÚ\YHÛÝ\™ÝYÚ[™Ù[\™XÝHÈH›[Ü™\ØÙ[YÜ™Y[ˆÝ\ÙHÜXÚX[ˆHÛÛ[Y[Y\ˆ\È™Y[ˆ\ÛZ\ÜÙY‰Ë[X^›Û“[šÜÎ–ÞÈ]HŽˆ“ÕÕÈ˜XžH™\ÜÚYHXH[™\Ù\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ^ÝŒÚÓÑ‘“—ÐP×ÔÓMLËšœÈ‹˜[Žˆ˜XžH™\ÜÚYHÛÜÙK[XYˆXH[™\Ù\ˆ‹œ]Z\Žˆ‘›Üˆ™]™\˜YÙ\È]ÚÝ[™HÝY\YÙ\™Y[™8 %[›ZÙH˜YX]Üˆ›ZY8 %\›Ý™Y›ÜˆX[[X[Ëˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒQRRÕOÝYÏX›\ÜËLŒŸKÈ]HŽˆ“ÜÝšXÚ[ÝÈÜšYÚ[˜[˜]™[[ÝÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ[VZÞV‘KS—ÐP×ÔÓMLËšœÈ‹˜[Žˆ“ÜÝšXÚ[ÝÈÜšYÚ[˜[˜]™[[ÝÈ‹œ]Z\Žˆ”ÜÝ]\Ý[™ÈX™\›˜][Ûˆ\]Z\Y[›Üˆ[ž[Û™HÝ™\Ú[YYžHHÛÛÛ[Y[Kˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÍ”ÓÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HØÜ™X[Z[™ÈÛØ]
+›ÛÚÈ	ˆšYÝ\™JH‹š[XYÙHŽˆ˜\ÜÙ]ËÜ›ÙXÝËÜØÜ™X[Z[™ËYÛØ]šœÈ‹˜[Žˆ•HØÜ™X[Z[™ÈÛØ]Z[šX]\™H›ÛÚÈ[™šYÝ\™H‹œ]Z\ŽˆHÛÛ\XÝ]]Û[Ý]™HØ\›š[™ÈÞ\Ý[H›ÙÜ˜[[YYÈØÜ™X[HÚ[ˆÚ[Y™H\›ØXÚ\ÈH˜YX]Ü‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍŒNNMÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÉËÛÝ\˜ÙS˜[YN‰Ô™XYHTHÙ™]ÜÈ™\Ü	ßKˆÚY‰ÜÙ\LX˜YÙ[Yš]™\‰Ë\ÛÑ]N‰ÌŒ‹LKLL	Ë[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\LŒ‰ËXÙN‰ÕÛÝÛÛÛX˜K]\Ý˜[XIË[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\LX˜YÙ[Yš]™\‹ÙXœ	Ë]N‰Ñš]™\ˆ\ØÛÝ™\œÈ˜YÙ[™\\˜][Ûˆ\È›ÝH[™ËYœ™YH™X]\™IËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNŒÌLÉËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰Ô]YY[œÛ[™ÛXÙHØZYHŽK^YX\‹[Û›Ýš\Ú[Û˜[[XÙ[œÙHš]™\ˆØ\ÈØ]YÚÝY\š[™ÈHÚ[™\ˆÛ™H‹UˆÚ]\ÈÛ™Y\ÈÚ[H\Ú[™È›Ý[™ÈÈ]\ˆH˜YÙ[[ˆX]žH˜Y™šXÈÛˆÜˆÝ™Y][ˆ™]ÝÝÛ‹ÛÝÛÛÛX˜KˆÙ™šXÙ\œÈ[ÛÈ›Ý[™H™ZXÛHØ\È[œ™YÚ\Ý\™Y‰ËÚN‰ÔÛXÙHš[™YHš]™\ˆIKL[™\ÜÝYY™YH[Y\š]Ú[ËˆH™\ÜYHYZ]YHÚÚXÙHØ\È8 'Ý\Y8 'H[™^Z[™Y]HØ\È[™ÜžHY\ˆÛÜšÚ[™ÈÚ[˜ÙH[Ü›š[™ÎÈÛXÙH\ÙYH[˜ÚY[ÈØ\›ˆ]]™[ˆÜ™[˜\žH\Ý˜XÝ[ÛœÈØ[ˆ]™HÙ\š[Ý\ÈÛÛœÙ\]Y[˜Ù\Ë‰Ë[™ÛN‰ÕHš]™\ˆÙ\›Ý[™ÈÛˆœ™XZÙ˜\Ý[™\ÝYHÛÛ[]]HÈ\ÈÛ™Y\Ëˆ]YY[œÛ[™\È›ÝÈYYH\ÙY[›ØY\ØY™]H[NˆÛ¸ &]ØÚYX\ˆ[™ÝY\‹‰Ë[X^›Û“[šÜÎ–ÞÝ]N‰ÒØ[ˆ˜YÙ[š]\ˆ˜YÙ[ÛXÙ\‰Ë[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÌÌP›ž”Þ›ÛÑ—ÐP×ÔÓLËšœÉË[‰ÒØ[ˆ˜YÙ[š]\ˆ˜YÙ[ÛXÙ\‰Ë]Z\‰ÐHÛÝ[\Ü]šXÙH]ÛÛ\]\ÈH[™Ù\›Ý\È\Ùˆ˜YÙ[™\\˜][Ûˆ™Y›Ü™HHYÛš][ÛˆÙ^H[\œÈHÝÜžK‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÍÒ”OÝYÏX›\ÜËLŒ	ËØ[\Ôš[Üš]N_KÝ]N‰ÖYY\\ˆÛX[Ü™X[HÚY\ÙHÜ™XY\ˆÛš]™\ÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍLJÜÕ]SR[“—ÐP×ÔÓLËšœÉË[‰ÖYY\\ˆÛX[ÛÛÙ[‹Z[™HÜ™XY\ˆÛš]™\ÉË]Z\‰Ô\œÜÙKXZ[ØÚYX\ˆ\]Z\Y[›Üˆ\ÙH]HX›KÚ\™HÛ™Y\È\™H›Ý\ÙˆHÝY\š[™ÈÞ\Ý[K‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ‘STŽÝYÏX›\ÜËLŒ	ËØ[\Ôš[Üš]NKÝ]N‰Ð˜YÙ[ËØÚYX\œË[™HšXÙHYXÙHÙˆš\Ú	Ë[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÎMÌŒLMM‹ŒK“––––––‹šœÉË[‰Ð˜YÙ[ËØÚYX\œË[™HšXÙHYXÙHÙˆš\ÚÛÛÚØ›ÛÚÉË]Z\‰ÐHÛÛ\]H˜YÙ[YXØ][ÛˆÚ]HÜXÚX[[œÜÚÙ[ˆÚ\\Žˆš[š\ÚH™XÚ\H™Y›Ü™H[\š[™È˜Y™šXË‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÎMÌŒLMMÝYÏX›\ÜËLŒ	ËØ[\Ôš[Üš]N_WKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË›™]ÜË˜ÛÛK˜]KÝXÚ›ÛÙÞKÛ[ÝÜš[™ËÛÛ‹]K\›ØYÜ]\‹Yš[™YXY\‹]\Ú[™ËZÛ™Y\Ë]ËYš]™KXØ\‹]Ú[KX]\š[™ËXKX˜YÙ[Û™]ÜË\ÝÜžKÍMYXØMŽXYMÙMYŒMLŒMMLŒIËÛÝ\˜ÙS˜[YN‰Ô™XYH™]ÜË˜ÛÛK˜]H™\Ü	ßKˆÚY‰ÜÙ\KXZ\™›Ü˜ÙK\ÛYIË\ÛÑ]N‰ÌŒ‹LKLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\KŒ‰ËXÙN‰Ò›Ú[˜\ÙH[™™]ÜËX\ž[[™	Ë[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\KXZ\™›Ü˜ÙK\ÛYKÙXœ	Ë]N‰ÐZ\ˆ›Ü˜ÙHÛ™H\Þ\ÈH^]™Y›Ü™HH™\ÚY[›Ø\™ÉËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÌÌ‰ËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰Ô™\ÚY[Û˜[[\8 &\È\\\™H›Üˆ[\ÈØ\ÈœšYY›H[^YYY\ˆ[ˆ[Y\™Ù[˜ÞHÛYH\ÞYYœ›ÛHH™]ÈZ\ˆ›Ü˜ÙHÛ™HÚ[HHZ\˜Ü˜YØ]]›Ú[˜\ÙH[™™]ÜËˆ™]]\œÈ™\ÜY]Z[]\žH\œÛÛ›™[XØÚY[[HšYÙÙ\™YHÛYNÈÜ™]ÜÈ™[[Ý™Y][™H›YÚ\\Y‰ËÚN‰Ñ[Y\™Ù[˜ÞHÛY\È\™HÚ[™ÛK]\ÙH\]Z\Y[]]\Ý™H™[[Ý™Y[™Ù\šXÙYY\ˆ\Þ[Y[ÛÈ[ˆXØÚY[[[™›][ÛˆØ[ˆ\›ˆH›Ü›X[\\\™H[È[ˆ^[œÚ]™H\›XXÈ™\Ù]ˆ›È[Y\™Ù[˜ÞHØ\È™\ÜY[™Hš\ÛÛ[YY‰Ë[™ÛN‰ÕH[™H\\™[HX\™8 '›Ø\™[™È™YÚ[œø 'H[™Ù[XÝY8 ']˜XÝX]K¸ 'H›Ý[™ÈØ^\È™\ÚY[X[˜[œÜÜ][ÛˆZÙH\œš]š[™È]H™][™š[™[™È]\È[™XYHšYYÈX]™HÚ]Ý][ÝK‰Ë[X^›Û“[šÜÎ–ÞÈ]HŽˆ“ÜÝšXÚ[ÝÈÜšYÚ[˜[˜]™[[ÝÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ[VZÞV‘KS—ÐP×ÔÓMLËšœÈ‹˜[Žˆ“ÜÝšXÚ[ÝÈÜšYÚ[˜[˜]™[[ÝÈ‹œ]Z\Žˆ‘›Üˆ˜]™[\œÈÚÈØ[È]˜XÝX]Hœ›ÛHÛÛœØÚ[Ý\Û™\ÜÈ™Y›Ü™HHÛYH]˜XÝX]\È]Ù[‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÍ”ÓÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ•ØXÚÞHØ]š[™È[™›]X›HX™HÝ^H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ^Rš™˜ZÞ—ÔÓMLËšœÈ‹˜[Žˆ“Z[šHØXÚÞHØ]š[™È[™›]X›HX™HÝ^H‹œ]Z\ŽˆHØÚÙ]\Ú^™H™Y[˜XÝY[ÙˆÚ]HZ\˜Ü˜YYÛˆH\›XXËˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍŒŒŽÍÝYÏX›\ÜËLŒŸKÈ]HŽˆZ\ˆ›Ü˜ÙHÛ™NˆHZ\˜Ü˜Y]Ú\YH[Ù\›ˆ™\ÚY[˜ÞH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMMNMÌNMËŒK“––––––‹šœÈ‹˜[ŽˆZ\ˆ›Ü˜ÙHÛ™H\ÝÜžH›ÛÚÈ‹œ]Z\Žˆ•HÙ\š[Ý\È™Y™\™[˜ÙHÝZYK™\Ý[XX›HÚ]HÚ\\ˆ]Y8 'X\ÙHÈ›Ý[]¸ 'H‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMMNMÌNMÏÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝËœ™]]\œË˜ÛÛKÝÛÜ›Ý[\\Ø^\ËY[Y\™Ù[˜ÞK\ÛYKZ\ËX™Z[™ËXÚXÚÙY\X]\‹YÚYYXZ\‹Y›Ü˜ÙK[Û™KLŒ‹LKLKÉËÛÝ\˜ÙS˜[YN‰Ô™XYH™]]\œÈ™\Ü	ßKˆÚY‰ÜÙ\K[šXÛÛ\Ë\Ú[šÚÛIË\ÛÑ]N‰ÌŒ‹LKLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\KŒ‰ËXÙN‰ÓX[XKØ[Y›Ü›šXIË[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\K[šXÛÛ\Ë\Ú[šÚÛKÙXœ	Ë]N‰ÓšXÛÛ\ÈØYÙx &\Èš]™]Ø^HÙ]ÈH˜\Ù[Y[]Y›ÝÜ™\‰ËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÍ‰ËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰ÐH\™ÙHÚ[šÚÛHÜ[™Y™[™X]Hš]™]Ø^HÙˆH™XXÚœ›ÛX[XHÛYH™\ÜYHÝÛ™YžHšXÛÛ\ÈØYÙK[XYÚ[™ÈH›Ü\H[™[[™ÈšYÙÙ\ˆ]˜XÝX][ÛˆÜ™\œÈ[Û™ÈÙXH]™[š]™KˆÙ™šXÚX[ÈØZYHÛHÜ™]ÈÈ›ÝYÚHx $ÌÌ™Y]Y\[™X›Ý]ÌžHŒ™Y]ÚYK‰ËÚN‰ÕHÛÛ\ÙH›ÛÝÙYÙ]™\™HÝ\™‹Y\È[™ÛØ\Ý[\›ÜÚ[Ûˆ\ÜÛØÚX]YÚ]H™[[˜[ÈÙˆ\œšXØ[™HX\šYKˆ]]Üš]Y\È™\ÝšXÝYXØÙ\ÜÈ™XØ]\ÙHH^[™[™È›ÚY™X][™YÛY\Ë][]Y\È[™[Y\™Ù[˜ÞHXØÙ\ÜË‰Ë[™ÛN‰ÓšXÛÛ\ÈØYÙH\ÈÝ\š]™YÝÛ[ˆXÛ\˜][ÛœË˜XÙHÝØ\È[™HÚXÚÙ\‹[X[ˆÚ]X][Û‹ˆHš]™]Ø^Hš[˜[H›Ý[™HÝÚ\ÝHY›Ý[™XYHš[YY‰Ë[X^›Û“[šÜÎ–ÞÈ]HŽˆ•›ÛÙÛÈÚ[8 %Ü™X]YžHšXÛÛ\ÈØYÙH[™Ù\ÝÛˆØYÙH‹š[XYÙHŽˆ˜\ÜÙ]ËÜ›ÙXÝËÝ›ÛÙÛËNMÎNMšœÈ‹˜[Žˆ•›ÛÙÛÈÚ[Ü˜\XÈ›Ý™[Ü™X]YžHšXÛÛ\ÈØYÙH[™Ù\ÝÛˆØYÙH‹œ]Z\Žˆ•HXÝX[ØYÙKXÜ™X]YÜ˜\XÈ›Ý™[›ÜˆHš]™]Ø^H\Ø\Ý\ˆ][™XYHÛÝ[™ÈZÙH\È™^[ÝšYKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNMÝYÏX›\ÜËLŒŸKÈ]HŽˆ“šXÛÛ\ÈØYÙH™]™\œÚX›HÙ\]Z[ˆ[ÝÈÛÝ™\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎ]‘•^‹S—ÐP×ÔÓMLËšœÈ‹˜[Žˆ“šXÛÛ\ÈØYÙH™]™\œÚX›HÙ\]Z[ˆ[ÝÈÛÝ™\ˆ‹œ]Z\Žˆœ\ÚHÙ\]Z[œÈ[™™]™X[HÛ›H˜XÙH]X[YšYYÈÝ\™H[ÈHÌY›ÛÝÚ[šÚÛKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÔÒM“ÝYÏX›\ÜËLŒŸKÈ]HŽˆ“šXÛÛ\ÈØYÙHÛÛÜš[™È›ÛÚÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒ”Ò‘”ÔÍKŒK“––––––‹šœÈ‹˜[Žˆ•[›Ù™šXÚX[šXÛÛ\ÈØYÙH›Ý™[HÛÛÜš[™È›ÛÚÈ‹œ]Z\ŽˆÛÛÜˆ[œÚYHH[™\ÈÚ[HX[XHXÛ[™\ÈÈÈHØ[YKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ”Ò‘”ÔÍOÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËØ\™]ÜË˜ÛÛKØ\XÛKÌ˜™ØMØŽÙ™MÎYÎYŒ™˜Ù˜IËÛÝ\˜ÙS˜[YN‰Ô™XYHT™\Ü	ßKˆÚY‰ÜÙ\KYÛØ]	Ë\ÛÑ]N‰ÌŒ‹LKLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\KŒ‰ËXÙN‰ÔÛ›ÚÛZ\ÚÛÝ[KØ\Ú[™ÝÛ‰Ë[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\KYÛØ]ÙXœ	Ë]N‰Ñ\ØØ\YÛØ]™XÛÛY\ÈXÝ[™È™ZYÚ›ÜšÛÙÙXÝ\š]H\™XÝÜ‰ËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÎMÉËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰ÔÛ›ÚÛZ\ÚÛÝ[HÚ\šY™¸ &\È\]Y\ÈÙ\™HØ[YÈÜ˜[™ÛH[ˆ\ØØ\YÛØ]Ú]›ÝYÚHÛ™KY›ÛÝÜ›œÈY\ˆ™\ÚY[È™\ÜY]Ø\ÈžZ[™ÈÈ˜[H[ÜKˆ›ÙKXØ[Y\˜HšY[ÈØ\\™Y\]Y\È\ÚXØ[HÝY\š[™ÈH™\žH]\›Z[™Y[š[X[˜XÚÈ[È]È[‹‰ËÚN‰Ó›Ø›ÙHØ\È™\ÜYÙ\š[Ý\ÛH\]™\ÚY[ÈÝ^YY[œÚYHÚ[H\]Y\È[™YH[š[X[ˆHÚ\šY™¸ &\ÈÙ™šXÙH\ØÜšX™YHÛØ]\ÈZÚ[™È]È›ÛH\È™ZYÚ›ÜšÛÙY[˜XÙH™\žHÙ\š[Ý\ÛK‰Ë[™ÛN‰Ñ›ÜˆÛ™HY\››ÛÛˆHÝ[YK\ØXÈYH™]ÈÐH™\ÚY[ˆY\ÈÙ\™H^XX›H[ˆ^H[™[ÛÛ\Z[ÈÙ\™H[™Y›Ü™ZXYYš\œÝ‰Ë[X^›Û“[šÜÎ–ÞÈ]HŽˆ•HØÜ™X[Z[™ÈÛØ]
+›ÛÚÈ	ˆšYÝ\™JH‹š[XYÙHŽˆ˜\ÜÙ]ËÜ›ÙXÝËÜØÜ™X[Z[™ËYÛØ]šœÈ‹˜[Žˆ•HØÜ™X[Z[™ÈÛØ]Z[šX]\™H›ÛÚÈ[™ØÜ™X[Z[™ÈÛØ]šYÝ\™H‹œ]Z\ŽˆH\ÚË\Ú^™HÚ]™\ÜÈÚÈØ[ˆ›ÝšYHH™ZYÚ›ÜšÛÙ8 &\ÈÙ™šXÚX[Ý][Y[ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍŒNNMÝYÏX›\ÜËLŒŸKÈ]HŽˆ•H]H›ÛÚÈÙˆÛØ][ÙØH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÌÍŽNNKŒK“––––––‹šœÈ‹˜[Žˆ•H]H›ÛÚÈÙˆÛØ][ÙØH‹œ]Z\Žˆ‘KY\ØØ[][Ûˆ˜Z[š[™È›ÜˆÜ›™YÐH™\ÚY[Ë›ÝÈÚ]œ™X][™È^\˜Ú\Ù\Ëˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÌÍŽNNOÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HØÜ™X[Z[™ÈÚš\ÝX\ÈÛØ]‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÍŒŽLËŒK“––––––‹šœÈ‹˜[Žˆ•HØÜ™X[Z[™ÈÚš\ÝX\ÈÛØ]›ÛÚÈ[™šYÝ\™H‹œ]Z\Žˆ™XØ]\ÙHÛ™HØÜ™X[Z[™ÈÛØ]\ÈH™]ÜÈÝÜžNÈÛÈ\ÈHÙX\ÛÛ˜[ÛÛXÝ[Û‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍŒŽLÏÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌKÔÛ›ÚÛZ\ÚPÛÝ[KUØ\Ú[™ÝÛ‹Y\ØØ\YYÛØ]ÍLÍÌMÎMLÍKÉËÛÝ\˜ÙS˜[YN‰Ô™XYHTH™\Ü	ßKˆÚY‰ÜÙ\KZÝÙÉË\ÛÑ]N‰ÌŒ‹LKLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\KŒ‰ËXÙN‰ÒØ[œØ\ÈÚ]KZ\ÜÛÝ\šIË[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\KZÝÙËÙXœ	Ë]N‰Ð˜\ÙX˜[Ü›ÝÙÛÛ\]\È[Y\™Ù[˜ÞHÝY][HÝYÙÈ\ÜÙ[X›IËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÎMLIËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰ÒØ[œØ\ÈÚ]H›ÞX[È˜[œÈYÍHÙXÛÛ™ÈÈ›Ý[˜ÙHHÚX[[™›]X›HÝÙÈ[™ÚX[[™›]X›H[ˆ›ÝYÚÙ\\˜]HÙXÝ[ÛœÈÙˆØ]Y™›X[ˆÝY][H[™[š]H[Kˆ^H[Y]Ù™‹X\›š[™Èœ™YHÝÙÜÈ›ÜˆHÜ›ÝÙ‰ËÚN‰ÕH8 'ÛYH[ˆ˜XÙx 'H\[™Y\š[™ÈH›ÞX[ÈØ[YHYØZ[œÝÜ›ÛÈ[™™XØ[YH^XÝHHÚ[™ÙˆÝË\ÝZÙ\ÈÛÛXÝ]™HXÚY]™[Y[H[\›™]Ø\ÈZ[È™\Ù\™H›Ü™]™\‹‰Ë[™ÛN‰ÕÝ\Ø[™ÈÙˆ[ÜHœšYY›HXÚY]™Y\™™XÝÛÛÜ™[˜][Ûˆ›ÜˆH[ÜÝ[Y\šXØ[ˆØš™XÝ]™H]˜Z[X›Nˆ]H[›Ü›[Ý\ÈYX]X™H[ˆH[›Ü›[Ý\Èœ™XY™Y›Ü™H[YH^\™\Ë‰Ë[X^›Û“[šÜÎ–ÞÈ]HŽˆ‘ÓÓÔÒ[™›]X›HÝÙÈÛÜÝ[YH‹š[XYÙHŽˆ˜\ÜÙ]ËÜ›ÙXÝËÚ[™›]X›KZÝYÙËšœÈ‹˜[ŽˆY[[™›]X›HÝÙÈÛÜÝ[YH‹œ]Z\Žˆ•H[Y\™Ù[˜ÞH˜XÚÝ\œ˜[šËÚÝ[HÝY][H[ˆ˜Z[ÈXÚY]™HÛÛXÝˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒMÒ”ÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HÜ™X][Y\šXØ[ˆÝÙÈ›ÛÚÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒÍŒŒŒËŒK“––––––‹šœÈ‹˜[Žˆ•HÜ™X][Y\šXØ[ˆÝÙÈ›ÛÚÈ‹œ]Z\Žˆ”™\]Z\™Y™XY[™È™Y›Ü™HÝ\Ø[™ÈÙˆÝ˜[™Ù\œÈ\ÜÙ[X›H[˜ÚžHÜ›ÝÙ\Ý\™š[™Ëˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÍŒŒŒÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ•›\ÚXÈ[XÚÛHÛÜ›ˆY™œÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌXÍœTU“—ÔÓMLËšœÈ‹˜[Žˆ˜YÈÙˆ›\ÚXÈ[XÚÛH›]›Ü™YÛÜ›ˆY™œÈ‹œ]Z\Žˆ‘›Üˆ[ž[Û™HÚÜÙHÝÙÈÜ[™ÜÈ]\Ý[ÛÈ\œš]™H\ÈZ\˜›Ü›™HÝY][HÛ˜XÚÜËˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÖŽLÒŒÍÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌKÚÛYKX[‹\˜XÙKRØ[œØ\ËPÚ]K\›ÞX[ËÎMÎMÌÌŒÉËÛÝ\˜ÙS˜[YN‰Ô™XYHTH™\Ü	ßKˆÚY‰ÜÙ\KX›ØKY[™Ú[™IË\ÛÑ]N‰ÌŒ‹LKLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\KŒ‰ËXÙN‰ÕÙ\Ý[\ËÚ\ØÛÛœÚ[‰Ë[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\KX›ØKY[™Ú[™KÙXœ	Ë]N‰ÕÚ\ØÛÛœÚ[ˆYXÚ[šXÈ\ØÛÝ™\œÈÛ™HÜÙH\ÈÜ[š[ÛœÉËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÎML‰ËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰ÐHÙ\Ý[\È˜[Z[H[œÜXÝ[™ÈHØ\ˆ[™Ú[™HÜÝYÚ]š\œÝÛÚÙYZÙHH\HÜÙKˆ[ˆ]\›™Y[™ÛÚÙY˜XÚËˆHØš™XÝØ\ÈH›ÝYÚH›Ý\‹Y›ÛÝ›ØHÛÛœÝšXÝÜˆÙYÙY[ÈH[™Ú[™HÛÛ\\Y[‰ËÚN‰Ð[š[X[XÛÛ›ÛÙ™šXÚX[Èœ›ÝYÚ[ˆH™\[H™\ØÝYKÚÜÙH›Ý[™\ˆ]™[X[HÛØ^YHÛ˜ZÙHÝ]ˆH›ØHØ\ÈXÙYÛˆHÝ˜^HÛÚ[HÙ™šXÚX[ÈÛÚÙY›Üˆ[ˆÝÛ™\‹‰Ë[™ÛN‰Õ\È\ÈÚHH™\Z\ˆX[X[Ø^\È8 '[œÜXÝ™[È[™ÜÙ\ø 'H]™]™\ˆØ^\È8 'XZ[Z[ˆ^YHÛÛXÝÚ][K¸ 'IË[X^›Û“[šÜÎ–ÞÈ]HŽˆ“ÕÕÈ˜XžH™\ÜÚYHXH[™\Ù\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ^ÝŒÚÓÑ‘“—ÐP×ÔÓMLËšœÈ‹˜[Žˆ˜XžH™\ÜÚYHÛÜÙK[XYˆXH[™\Ù\ˆ‹œ]Z\ŽˆHœšY[™Y\ˆÙ\œ[[™HØš™XÝÈ\ØÛÝ™\ˆ\šÚ[™È[ˆHÝ\]ZYÛÛ\\Y[ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒQRRÕOÝYÏX›\ÜËLŒŸKÈ]HŽˆ•\™x &\ÈHÛ˜ZÙH[ˆ^HØÚÛÛH‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMÌÌ‹ŒK“––––––‹šœÈ‹˜[Žˆ•\™x &\ÈHÛ˜ZÙH[ˆ^HØÚÛÛÚ[™[¸ &\È›ÛÚÈ‹œ]Z\ŽˆÛÜÙH[›ÝYÚ8 %\Ý™\XÙH8 'ØÚÛÛ8 'HÚ]8 '[™Ú[™H˜^x 'H[™YHYXÚ[šXÈØÜ™X[Z[™ÈÙ™‹\YÙKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÌÌÝYÏX›\ÜËLŒŸKÈ]HŽˆ•ÙX\˜X›HÚ\šÈ›[šÙ]‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍLUÞPÑœLS—ÐP×ÔÓLËšœÈ‹˜[Žˆ•ÙX\˜X›HÚ\šÈ›[šÙ]ÛY\[™È˜YÈ‹œ]Z\Žˆ‘›Üˆ[ÜHÚÈØ]È›Ý\ˆ™Y]Ùˆ™\[H[™\ˆHÛÙ[™Ø[YÈÜÙHÈHY™™\™[[š[X[ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÒUÐÎLOÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌKØ›ØKXÛÛœÝšXÝÜ‹XØ\‹ZÛÙUÙ\ÝP[\ËUÚ\ØÛÛœÚ[‹ÍMÍLMÎMÌMLMÉËÛÝ\˜ÙS˜[YN‰Ô™XYHTH™\Ü	ßKˆÚY‰ÜÙ\K\™XÛ[™\‹YÙÉË\ÛÑ]N‰ÌŒ‹LKLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\KŒ‰ËXÙN‰Ò›Ü]ÝÛ™KX\ž[[™	Ë[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\K\™XÛ[™\‹YÙËÙXœ	Ë]N‰Õ\œšY\ˆÜÙ\È\™Ý[Y[Ú]™XÛ[™\ŽÈš\™YšYÚ\œÈ\ØØ[]H[[YYX][IËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÎMMÉËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰ÐH™\ØÝYH\œšY\ˆ˜[YYYÚØ^H™XØ[YHÛÈ˜YH[™ÛY[œÚYHH™XÛ[™\ˆ]š\™YšYÚ\œÈœ›ÛHH›ÜHXYÛ›ÛXH›Û[Y\ˆš\™HÛÛ\[žHœ›ÝYÚ[ˆY˜][XÈ™\ØÝYH\]Z\Y[ˆ^H\ÙYH˜]ÜÈÙˆY™HÈœ™YHHÙÈ™Y›Ü™HHØ\ÈZÙ[ˆ›Üˆ[Y\™Ù[˜ÞH™]\š[˜\žHØ\™K‰ËÚN‰Ô™XÛ[š[™È\›š]\™HÛÛZ[œÈ[Ýš[™ÈY][YXÚ[š\Û\È[™YÚ[\›˜[ÜXÙ\È]Ø[ˆ™H[™Ù\›Ý\È›Üˆ]È]Ü˜]Û[™\›™X]Üˆ[œÚYKˆH™\ØÝYH™]ÈHØ]™HÙˆÚ[Z[\ˆ][ÝÛ™\ˆÝÜšY\ÈÛ›[™K‰Ë[™ÛN‰ÒYÚØ^H[\™YHÚZ\ˆÛÚÚ[™È›ÜˆH˜\[™XØÚY[[H[›ØÚÙYH[™ZXÛKY^šXØ][ÛˆXÚØYÙK‰Ë[X^›Û“[šÜÎ–ÞÈ]HŽˆÚ[š[HÙÈ[™ÝÙ[‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒLœMU‘“—ÐP×ÔÓMLËšœÈ‹˜[Žˆ‘›Y™žHÚ[š[HÙË\Ú\Y[™ÝÙ[‹œ]Z\ŽˆH[žHÙÈ[™Ú[™Y\™YÈ[™ÈØY™[HÝ]ÚYHH\›š]\™Kˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ”“ÑRÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘ÙÈÚ[Z[™È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÎLÍLÍËŒK“––––––‹šœÈ‹˜[Žˆ‘ÙÈÚ[Z[™È[[Üˆ›ÛÚÈ‹œ]Z\Žˆ’YÚØ^x &\ÈÚYÛŽˆ8 'HXYHH™XÛ[™\ˆ™\]Z\™HY˜][XÈ™\ØÝYH\]Z\Y[¸ 'H‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÎLÍLÍÏÝYÏX›\ÜËLŒŸKÈ]HŽˆ”HYX]Ú™Y\ˆÛ]ÜÈ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌVŒ”—ÐP×ÔÓMLËšœÈ‹˜[Žˆ”Z\ˆÙˆ˜\˜™XÝYHYX]Ú™Y\ˆÛ]ÜÈ‹œ]Z\Žˆ•HÝ\ÙZÛY][ÛˆÙˆH˜]ÜÈÙˆY™x %È›Ý\Ý\È[ÜžHÛˆHÚZ\‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒSULMOÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÜ[ÜK˜ÛÛKÙš\™YšYÚ\œË\™\ØÝYKYÙË]˜\YZ[œÚYK\™XÛ[™\‹Z[‹[X\ž[[™LLŒLLMÍ‰ËÛÝ\˜ÙS˜[YN‰Ô™XYH[ÜH™\Ü	ßKˆÚY‰ÜÙ\KY\ØËYÛÛ‰Ë\ÛÑ]N‰ÌŒ‹LKLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\KŒ‰ËXÙN‰ÒYZÉË[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\KY\ØËYÛÛ‹ÙXœ	Ë]N‰Ñ\ØÈÛÛ™\œÈXZÙH™[^][ÛˆÝ™\ÜÙ[[ˆKŒÌÈÙXÛÛ™ÉËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÎMŒ	ËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰Ñ]šY\Ú˜]š\È]šYÛÛ‹Û]™\ˆ]šYÛÛˆ[™[™\œÈ]šYÛÛˆÙ]HÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈX\šÈ›ÜˆH˜\Ý\ÝÛHÙˆ\ØÈÛÛˆžHHX[HÙˆ›Ý\‹ÛÛ\][™ÈH][\[ˆKŒÌÈÙXÛÛ™Ë‰ËÚN‰ÕH™XÛÜ™™\]Z\™YXØÝ\˜]H›ÝÜÈ[™Hš[˜[\[Üš[È]H\ØÈ[ˆH˜\ÚÙ]\›š[™ÈHZ\Ý\™[H\šÈÜÜ[ÈÛÛY][™È]XÚÛÜÙ\ˆÈHš\™Hš[‰Ë[™ÛN‰Õ^HÝXØÙ\ÜÙ[H[œÝÙ\™YH]Y\Ý[Ûˆ›Ø›ÙH\ÚÙYˆÚ]Yˆ\ØÈÛÛˆYHØ\™[Ý˜\ØÝ[\ˆ][ÜÜ\™HÙˆZ\ÜÚ[™ÈH›YÚÉË[X^›Û“[šÜÎ–ÞÈ]HŽˆ•ÝØÚ\ØÈÛÛˆÝÙ[ÝXÚ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍMØ“–VÕÙšœÈ‹˜[Žˆ›XÚÈÝØÚ\ØÈÛÛˆÝÙ[ÝXÚ‹œ]Z\ŽˆØ\œšY\È™YHÈš]™H\ØÜËÚXÚ\È\\™[H[›ÝYÚ\]Z\Y[›ÜˆHK\ÙXÛÛ™[Y\™Ù[˜ÞKˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒPQŒÍÝYÏX›\ÜËLŒŸKÈ]HŽˆ–™[ˆ	ˆH\Ùˆ\ØÈÛÛˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMLÍÎLÌÌKŒK“––––––‹šœÈ‹˜[Žˆ–™[ˆ[™H\Ùˆ\ØÈÛÛˆ›ÛÚÈ‹œ]Z\ŽˆHØ[KÙ[\™Y™X][È\›š[™ÈH\šÈ[ÈH›Ý\‹\\œÛÛˆš\™Hš[ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLÍÎLÌÌOÝYÏX›\ÜËLŒŸKÈ]HŽˆ‘[˜ÙH\H]Ûˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒXœQÞÛS—ÐP×ÔÓMLËšœÈ‹˜[Žˆ“YÚ]\[˜ÙH\HÛÝ[™]Ûˆ‹œ]Z\Žˆ”ÛXXÚÈ]]KŒÍÙXÛÛ™È[™]H[žHšXÝÜžHÙ\™[[ÛžH™YÚ[‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒSŒTÕŽOÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË™ÝZ[›™\ÜÝÛÜ›™XÛÜ™Ë˜ÛÛKÛÜ[šY[ËÝ‹Ù]šY\\Ú\Ù]Ë[™]Ë]ÛÜ›\™XÛÜ™Y›Ü‹ZÝYÙË]ÜÜÉËÛÝ\˜ÙS˜[YN‰ÔÙYHHÝZ[›™\ÜÈÛÜ›™XÛÜ™È\Ý[™ÉßKˆÚY‰ÜÙ\K[Ý\žIË\ÛÑ]N‰ÌŒ‹LKLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\KŒ‰ËXÙN‰ÕÚ]HZ[œËX\ž[[™	Ë[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\K[Ý\žKÙXœ	Ë]N‰ÕÛÛX[ˆ^\ÈØ[YHÝ\žH[X™\œÈ›ÜˆŒYX\œÈ[™š[˜[HÚ[œÈH\™Ý[Y[	ËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÎM‰ËXYÛ™]šXÙN‰ÉKŽNIË˜XÝÎ‰ÐHX\ž[[™ÛÛX[ˆÚÈØZYÚHY^YYHØ[YH›Û\ÈX]ÚH[X™\œÈ›ÜˆX›Ý]ÛÈXØY\È›ÝYÚ™YHXÚÙ]ÈÚ]HØ[YHÛÛXš[˜][Ûˆ›ÜˆÛ™H˜]Ú[™Ëˆ[™YH]H	Lš^™KÚ]š[™È\ˆHÝ[Ùˆ	ML‰ËÚN‰ÕHÚ[›™\ˆÛÝ\žHÙ™šXÚX[ÈÚHYÈØ[\ˆÚ\Ý\ˆÈÛÛ™š\›HH[X™\œÈ™XØ]\ÙHÚHY›Ý™[Y]™HÚ]ÚHØ\ÈÙYZ[™ËˆÚHØZYH[Û™^HÛÝ[ÛÈÝØ\™›Ú™XÝÈ\›Ý[™HÝ\ÙK‰Ë[™ÛN‰ÕÙ[HYX\œÈÙˆ8 '\ÙH[X™\œÈ\™HYx 'H\ÈÙ™šXÚX[H™Y[ˆ\Ü˜YYœ›ÛH]Y\Ý[Û˜X›HX]È˜[Z[HYÙ[™‰Ë[X^›Û“[šÜÎ–ÞÈ]HŽˆ“Ý\žHÚ[›š[™ÈÝ˜]YÚY\È	ˆÌ\˜Ù[Ú[ˆ›Ü›][H‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMMÍŒŒÖŒK“––––––‹šœÈ‹˜[Žˆ“Ý\žHÚ[›š[™ÈÝ˜]YÚY\È›ÛÚÈ‹œ]Z\Žˆ‘›Üˆ[ž[Û™HÚÈØ[ÈÈ\›ˆ8 'Ø[YH[X™\œÈ›ÜˆŒYX\œø 'H[ÈHÜš][ˆ\Ú[™\ÜÈ[‹ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMMÍŒŒÖÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HÝ\žH[™Ý\ˆÝÜšY\È‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÍÍLŽMLÌKŒK“––––––‹šœÈ‹˜[Žˆ•HÝ\žH[™Ý\ˆÝÜšY\ÈžHÚ\›^H˜XÚÜÛÛˆ‹œ]Z\Žˆ“›ÝHš[˜[˜ÚX[ÝZYK]Ù\Z[›HH[ÜÝÛZ[›Ý\ÈØ^HÈÙ[Xœ˜]HHÚ[›š[™ÈXÚÙ]ˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍÍLŽMLÌOÝYÏX›\ÜËLŒŸKÈ]HŽˆ•HÚ[›™\ˆ‹š[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMLÎÌLMÎM‹ŒK“––––––‹šœÈ‹˜[Žˆ•HÚ[›™\ˆ›Ý™[žH]šY˜[XØÚH‹œ]Z\ŽˆH]HXØÝ\˜]H[›ÝYÚÈ\Ü^H™\ÚYH™YHY[XØ[	LXÚÙ]Ëˆ‹\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLÎÌLMÎMÝYÏX›\ÜËLŒŸWKÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌKÛÝËSX\ž[[™SÝ\žKLŒ^YX\œËP›Û\ËSX]ÚMKÍŒÎMÎMÍMMËÉËÛÝ\˜ÙS˜[YN‰Ô™XYHTH™\Ü	ßB—NÂ‚˜ÛÛœÝ™\šYšYYÛÝ\˜ÙPÛÜœ™XÝ[ÛœÏ^Âˆ	ÜÙ\L[˜\œ›ÝÙ\ÝXØ\‰ÎžÜÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝËž[Ý]X™K˜ÛÛKÝØ]ÚÝSWÒQ™Pœ•ÔPIËÛÝ\˜ÙS˜[YN‰ÕØ]ÚHÝZ[›™\ÜÈÛÜ›™XÛÜ™È™\Ü	ßKˆ	ÜÙ\KY\ØËYÛÛ‰ÎžÜÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝËž[Ý]X™K˜ÛÛKÜÚÜËÍËZZ™ZTIËÛÝ\˜ÙS˜[YN‰ÕØ]ÚHÝZ[›™\ÜÈÛÜ›™XÛÜ™È][\	ßBŸNÂÚ[™ÝË™Z[TÝÜšY\Ë™›Ü‘XXÚ
+ÝÜžOO“Øš™XÝ˜\ÜÚYÛŠÝÜžK™\šYšYYÛÝ\˜ÙPÛÜœ™XÝ[ÛœÖÜÝÜžKšY_ßJJNÂ‚Ú[™ÝË™Z[Qš[™ÏVÂˆÜÝÜžRY‰ÜÙ\L[X\›[ÝXÛÛÛ[	Ë]N‰Ô™\ÝÛ™HQ‹LMŒ[Yœ™Y^™KÐÛÛÛ[\Ý\‰Ë[XYÙN‰ÚÎ‹ËÚ[XYÙ\Ë[˜KœÜÛZ[XYÙ\ËX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒ“ÐNT–KŒK“––––––‹šœÉË[‰Ô™\ÝÛ™H[Yœ™Y^™H[™ÛÛÛ[\Ý\‰Ë]Z\‰Ñ›ÜˆÚXÚÚ[™ÈH˜YX]Ü¸ &\Èš[YÙH™Y›Ü™HHØØ[X\›[Ý\Ú[È]Ù[ˆÛÛÛ[ÛÛ[Y[Y\‹‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ“ÐNT–OÝYÏX›\ÜËLŒ	ßKˆÜÝÜžRY‰ÜÙ\L[X\›[ÝXÛÛÛ[	Ë]N‰ÓÜ˜Y™™HL•‹Ìˆ[˜\ÛÛšXÈ[™\ˆÛÙ›Ù[™\[[8 %ˆXÚÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍL^Z“ÔUÒÓ—ÐP×ÔÓLËšœÉË[‰ÓÜ˜Y™™H[˜\ÛÛšXÈ[™\‹ZÛÙ[š[X[™\[\ˆÛË\XÚÉË]Z\‰ÐH[žHšYÚÛXˆ›Üˆ[Ý\ˆ[™Ú[™H˜^Nˆ[˜\ÛÛšXÈ›Ú\ÙK›\Ú[™ÈYÚÈ[™XœÛÛ][H›ÈX\›[Ý™\Ù\˜][ÛœË‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÑLN”’ÝYÏX›\ÜËLŒ	ßKˆÜÝÜžRY‰ÜÙ\L[X\›[ÝXÛÛÛ[	Ë]N‰ÑÓÓS‘TˆÚ[Ü[X]8 %ŽHžHÍˆ[˜Ú\ÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌTS\\™ÑËRÓ—ÐP×ÔÓMLËšœÉË[‰ÑÓÓS‘TˆXœÛÜ˜™[]]Û[Ý]™H›ZYÜ[X]	Ë]Z\‰ÐØ]ÚH›[Ü™\ØÙ[Y™™]™Y›Ü™HÚ[Y™H\ØÛÝ™\œÈHš]™]Ø^H\Ý[™ÈY[K‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ–•SÝYÏX›\ÜËLŒ	ßKˆÜÝÜžRY‰ÜÙ\KYÛØ]	Ë]N‰ÕHØÜ™X[Z[™ÈÛØ]
+›ÛÚÈ	ˆšYÝ\™JIË[XYÙN‰Ø\ÜÙ]ËÜ›ÙXÝËÜØÜ™X[Z[™ËYÛØ]šœÉË[‰ÕHØÜ™X[Z[™ÈÛØ]Z[šX]\™H›ÛÚÈ[™ØÜ™X[Z[™ÈÛØ]šYÝ\™IË]Z\‰Ñ›Üˆ[ž[Û™HÚÈ™XY8 'Ü›™Y™ZYÚ›ÜšÛÙY[˜XÙx 'H[™ÝYÚˆ]]Ûˆ^H\ÚË‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍŒNNMÝYÏX›\ÜËLŒ	ßKˆÜÝÜžRY‰ÜÙ\K[šXÛÛ\Ë\Ú[šÚÛIË]N‰Õ›ÛÙÛÈÚ[8 %Ü™X]YžHšXÛÛ\ÈØYÙH[™Ù\ÝÛˆØYÙIË[XYÙN‰Ø\ÜÙ]ËÜ›ÙXÝËÝ›ÛÙÛËNMÎNMšœÉË[‰Õ›ÛÙÛÈÚ[Ü˜\XÈ›Ý™[Ü™X]YžHšXÛÛ\ÈØYÙH[™Ù\ÝÛˆØYÙIË]Z\‰ÕHXÝX[Ü˜\XÈ›Ý™[Ü™X]YžHšXÛÛ\ÈØYÙx %™XØ]\ÙH\\™[HHÛÛ\Ú[™ÈX[XHš]™]Ø^HØ\È›Ý[›ÝYÚÝ‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNMÝYÏX›\ÜËLŒ	ßKˆÜÝÜžRY‰ÜÙ\KZÝÙÉË]N‰ÑÓÓÔÒ[™›]X›HÝÙÈÛÜÝ[YHY[›ÛÙ[›žH[ÝÙY[ˆ›ÝÈ\ÛÜÝ[YIË[XYÙN‰Ø\ÜÙ]ËÜ›ÙXÝËÚ[™›]X›KZÝYÙËšœÉË[‰ÑÓÓÔÒY[[™›]X›HÝÙÈÛÜÝ[YIË]Z\‰ÕH[Y\™Ù[˜ÞH˜XÚÝ\ÝÙËÚÝ[HÝY][H[ˆ˜Z[ÈXÚY]™HÛÛXÝ‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒMÒ”ÝYÏX›\ÜËLŒ	ßB—NÂ‚‹ËÈÙ\ˆL™\šYšXØ][Ûˆ\ÜÎˆÛ›HÝÜšY\ÈÚ]^XÝ]YÛÝ\˜Ù\È[™™YB‹ËÈ\™XÝHX]ÚY[XYÙKYš\œÝ[X^›ÛˆØ\™È™[XZ[ˆ[YÚX›H›ÜˆX›XØ][Û‹‚˜ÛÛœÝ[\ÝÜœÙO]Ú[™ÝË™Z[TÝÜšY\Ë™š[™
+ÝÜžOOœÝÜžKšYOOIÜÙ\LK][\ÝZÜœÙIÊNÂ“Øš™XÝ˜\ÜÚYÛŠ[\ÝÜœÙKÂˆ\ÛÑ]N‰ÌŒ‹LKLL	Ëˆ]N‰ÔÙ\LŒ‰Ëˆ[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\L][\ÝZÜœÙKÙXœ	Ëˆ˜XÝÎ‰ÒYÛËH›Ý\‹^YX\‹[ÛÚ\™HÜœÙH[ˆÝØÙ\Ý\‹[™Û[™Ø\È™XÛÙÛš^™Y[ˆÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ\ÈHÛÜ›8 &\È[\Ý]š[™ÈÜœÙKˆH™]\š[˜\šX[ˆYX\Ý\™Y[HÚ]Ý]ÜœÙ\ÚÙ\È]KŽNHY]\œø %X›Ý]ˆ™Y]ˆ[˜Ú\ø %]HÚ]\œË‰ËˆÚN‰ÔÚ\™HÜœÙ\ÈÙ\™Hœ™Y›ÜˆX]žHÛÜšÈ[™\™H[[Û™ÈHÛÜ›8 &\È\™Ù\ÝÜœÙHœ™YYËˆYÛÈ\ÈÝ[[Ý[™ËÙ[H[™™\ÜYHY™™XÝ[Û˜]KÚ[HHœ™YY]Ù[ˆ\È›ÝÈÜš]XØ[H[™[™Ù\™Y‰Ëˆ[X^›Û“[šÜÎ–ÂˆÝ]N‰ÑÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ]–U”ËR—ÔÓLŒËšœÉË[‰ÐÛÝ™\ˆÙˆHÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ›ÛÚÉË]Z\‰ÕHÙ™šXÚX[™XÛÜ™›ÛÚÈÛÛZ[š[™ÈYÛø &\È™]È]x %[™Ù]™\˜[YÙ\ÈÝ\™H[›ÝYÚÈÙ\™H\È\ÈÛØ\Ý\‹‰ËØ[\Ôš[Üš]NK\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLMÝYÏX›\ÜËLŒ	ßKˆÝ]N‰ÕHÜœÙH[˜ÞXÛÜYXH
+È][˜ÞXÛÜYX\ÊIË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ[”JÔT›“—ÔÓMLËšœÉË[‰ÐÛÝ™\ˆÙˆHÜœÙH[˜ÞXÛÜYXHœ›ÛHÉË]Z\‰ÐHÛÛ\]HÜœÙH™Y™\™[˜ÙH]X^H™YYH›ÛÝ]YÙHÈXØÛÛ[[Ù]HYÛË‰ËØ[\Ôš[Üš]N\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMMLMÎOÝYÏX›\ÜËLŒ	ßKˆÝ]N‰Ñ[˜ÞXÛÜYXHÙˆÜœÙHœ™YYÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒY‘œÍš^“—ÔÓLËšœÉË[‰ÐÛÝ™\ˆÙˆ[˜ÞXÛÜYXHÙˆÜœÙHœ™YYÈžH[™šXÚÜÉË]Z\‰Ñ›ÜˆY[YžZ[™ÈHÚ\™Hœ™YY™Y›Ü™HHÜXÚ[Y[ˆY\œÈ[È[Ý\ˆÙXÛÛ™Y›ÛÜˆÚ[™ÝË‰ËØ[\Ôš[Üš]NŒË\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŒLÎÝYÏX›\ÜËLŒ	ßBˆKˆÛÝ\˜ÙN‰ÚÎ‹ËÜ[ÜK˜ÛÛKÚYÛË]K\Ú\™KZÜœÙKXÛZ[\Ë]]K[Ù‹]ÛÜ›\Ë][\ÝZÜœÙKLLŒLMMLÌIËˆÛÝ\˜ÙS˜[YN‰Ô™XYH[ÜH™\Ü	ÂŸJNÂ‚˜ÛÛœÝš[˜ÙPÜ›ØÏ]Ú[™ÝË™Z[TÝÜšY\Ë™š[™
+ÝÜžOOœÝÜžKšYOOIÜÙ\LK\š[˜ÙK]Ú[X[KXÜ›ØÉÊNÂ“Øš™XÝ˜\ÜÚYÛŠš[˜ÙPÜ›ØËÂˆ\ÛÑ]N‰ÌŒ‹LKL‰Ëˆ]N‰ÔÙ\‹Œ‰Ëˆ[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\LK\š[˜ÙK]Ú[X[KXÜ›ØËÙXœ	ÂŸJNÂœš[˜ÙPÜ›ØË˜[X^›Û“[šÜË™›Ü‘XXÚ
+
+][K[™^
+OOš][KœØ[\Ôš[Üš]OVÍË×VÚ[™^JNÂ‚˜ÛÛœÝ˜\œ›ÝÐØ\]Ú[™ÝË™Z[TÝÜšY\Ë™š[™
+ÝÜžOOœÝÜžKšYOOIÜÙ\L[˜\œ›ÝÙ\ÝXØ\‰ÊNÂ“Øš™XÝ˜\ÜÚYÛŠ˜\œ›ÝÐØ\‹ÂˆXÙN‰Ð˜YÛ›ÛÈÜ™[X\ØÛË][IËˆ˜XÝÎ‰Ò][X[ˆYXÚ[šXÈ[™™XHX\˜^žšH\›™YHØ[˜YÙYNNLÈšX][™H[ÈHÛÜ›8 &\È˜\œ›ÝÙ\Ýš]˜X›HØ\‹ˆH[XÝšXÈ8 '›]šX]8 'H\ÈLŒŒÙ[[Y]\œÈ
+NKÍˆ[˜Ú\ÊHÚYK\È›Ý\ˆÚY[ËÛ™HXYYÚ[™Û™HÙX][™™]Z[œÈ[Ü™H[ˆL\˜Ù[ÙˆHÜšYÚ[˜[Ø\¸ &\È\Ë‰ËˆÚN‰ÓX\˜^žšHÜ[X›Ý]HYX\ˆš][™ÈHš]™\‹ÝY\š[™ËÛÛ›ÛÈ[™HÛÜšÚ[™ÈÝÙ\˜Z[ˆ[ÈHÛXÙHÙˆØ\‹ˆHš[š\ÚY™ZXÛHÙZYÚÈX›Ý]Ú[ÙÜ˜[\Ë™XXÚ\È›ÝYÚHMHÛKÚ[™\È›ÝÝ™Y]YØ[‰Ëˆ[X^›Û“[šÜÎ–ÂˆÝ]N‰Ñ›ÜÝÜHÜšYÚ[˜[Ø\ˆÙX]Ø\š[\ˆ
+Ú\šÈ[šÊHHÙ]Ùˆˆ
+ÈÚYÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌXXSÚ›Q–]—ÐP×ÔÓMËšœÉË[‰ÔZ\ˆÙˆ›XÚÈ›ÜÝÜØ\ˆÙX]Ø\š[\œÉË]Z\‰Ñ›ÜˆHÛ™K\ÙX]›]šX]Ú\™HÜÚ[™È[ž][™È™\ÚYHHÙX]X^HÛÝ[\È^\š[ÜˆÝÜ˜YÙK‰ËØ[\Ôš[Üš]NK\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ–RÌQOÝYÏX›\ÜËLŒ	ßKˆÝ]N‰Ð[\\ˆ›[™ÜÝZ\œ›Ü‹ˆˆ›Ý[™Û\ÜÈœ˜[Y[\ÜÈÛÛ™^™X\ˆšY]ÈZ\œ›Ü‹XÚÈÙˆ‰Ë[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌZÛÓÔ•NÓ—ÐP×ÔÓMLËšœÉË[‰ÔZ\ˆÙˆ[\\ˆÛËZ[˜Ú›Ý[™›[™\ÜÝZ\œ›ÜœÉË]Z\‰ÕÛËZ[˜ÚZ\œ›ÜœÈ›ÜˆHØ\ˆÛÈ˜\œ›ÝÈH›[™ÜÝX^H™HÚY\ˆ[ˆH™ZXÛK‰ËØ[\Ôš[Üš]N\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒPÕSÐÏÝYÏX›\ÜËLŒ	ßKˆÝ]N‰ÑÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ]–U”ËR—ÔÓLŒËšœÉË[‰ÐÛÝ™\ˆÙˆHÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ›ÛÚÉË]Z\‰ÕH™XÛÜ™›ÛÚÈ]XZÙ\ÈHNKÍ‹Z[˜Ú›]šX]Ù™šXÚX[H[Ü™H[ˆH™\žHÛÛ[Z]YÛÜ‹‰ËØ[\Ôš[Üš]NK\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLMÝYÏX›\ÜËLŒ	ßBˆKˆÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË\Ý[‹˜ÛËZËÛ™]ÜËÍÍÍÍÛYXÚ[šXË\ÛX\Ú\Ë]ÛÜ›\™XÛÜ™[˜\œ›ÝÙ\ÝXØ\‹ÉËˆÛÝ\˜ÙS˜[YN‰Ô™XYHÝ[ˆ™\Ü	ÂŸJNÂ‚˜ÛÛœÝÛžPÛÛXÝ[Û^ÂˆY‰ÜÙ\L\ÛžKXÛÛXÝ[Û‰Ëˆ\ÛÑ]N‰ÌŒ‹LKLL	Ëˆ[Û‰ÔÙ\[X™\‰Ëˆ]N‰ÔÙ\LŒ‰ËˆXÙN‰ÓÝÙ\ÝÙ[™Û[™	Ëˆ[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\L\ÛžKXÛÛXÝ[Û‹ÙXœ	Ëˆ]N‰Ñ[šYYÛ™HÜœÙKÛÛX[ˆXÜ]Z\™\ÈËLÛšY\È[œÝXY	ËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNÌÍMŒÉËXYÛ™]šXÙN‰ÉKŽNIËˆ˜XÝÎ‰ÓZ\˜[™HÛÜ˜žHÙˆÝÙ\ÝÙ[™Û[™X\›™YHÝZ[›™\ÜÈÛÜ›™XÛÜ™Y\ˆML^H]HÛžH][\ÈÙ\™HÙ™šXÚX[HÛÝ[YˆÚHÛ[ÜH]HÛÛXÝ[Ûˆ\ÈÚ[˜ÙHÜ›ÝÛˆÈ\›Ý[™ËLYXÙ\Ëš[[™ÈH›ÛÛH[™HÝÜ˜YÙH[š]‰ËˆÚN‰ÕÛÜ˜žH™YØ[ˆÛÛXÝ[™ÈHÞ\È]YÙH™YH[™Ý\Y[[™ÈÙ\š[Ý\ÛH›ÜˆZ\ÜÚ[™ÈYXÙ\È[ˆNNMËˆH™XÛÜ™\ÈHÜXÝXÝ[\ˆ^[\HÙˆÝÈHÚ[ÛÙ8 '›ø 'HØ[ˆ™XÛÛYHHXØY\Ë[Û™ÈØ][ÙÚ[™ÈÜ\˜][Û‹‰Ëˆ[™ÛN‰Ò\ˆ\™[ÈXÛ[™YÈ^HÛ™HÜœÙKˆH\X[›ØÙ\ÜÈ\È›ÝÈ›ÙXÙY›ÝYÚHËNHY][Û˜[^Xš]È[™[ˆÙ™‹\Ú]H]šY[˜ÙHØÚÙ\‹‰Ëˆ[X^›Û“[šÜÎ–ÂˆÝ]N‰Ó^H]HÛžHÛ\ÜÚXÜÈHÙ[\ÝX[ÛšY\ÈHÛ\š\ÈH™]›ÈˆÛÛXÝX›H^HšYÝ\™KÜ™X]›ÜˆÚYËÙ\œËY[ËÚ\›È[™›Þ\ÈYÙ\ÈÊÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎ\ÝÚQÑZVS—ÐP×ÔÓMLËšœÉË[‰Ó^H]HÛžHÛ\ÜÚXÜÈÙ[\ÝX[ÛšY\ÈÛ\š\È™]›ÈÛÛXÝX›HšYÝ\™IË]Z\‰ÓÛ™H[Ü™HÛžH›ÜˆHÛÛXÝ[ÛˆÚÜÙH8 'Û™H[Ü™x 'H\ÙH\È\ÝY™X\›H™YHXØY\Ë‰ËØ[\Ôš[Üš]NK\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒ”ÌŒÍLQÝYÏX›\ÜËLŒ	ßKˆÝ]N‰ÔÛž]š[HÛÛ™šY[X[ˆH\ÝÜžH[™Ý[\™HÙˆ^H]HÛžKNNKLŒM‰Ë[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒX’ÍYÕŽ]Ó—ÔÓLÍŒËšœÉË[‰ÐÛÝ™\ˆÙˆÛž]š[HÛÛ™šY[X[H\ÝÜžHÙˆ^H]HÛžIË]Z\‰ÕHšY[ÝZYH›Üˆ[™\œÝ[™[™ÈÝÈHÞHÚ[ˆ]›Û™\È[È][šXÚ\[\ØØ[HÛžH[™œ˜\ÝXÝ\™K‰ËØ[\Ôš[Üš]N\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMÍŒŒMÝYÏX›\ÜËLŒ	ßKˆÝ]N‰ÑÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ]–U”ËR—ÔÓLŒËšœÉË[‰ÐÛÝ™\ˆÙˆHÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ›ÛÚÉË]Z\‰ÕHÙ™šXÚX[\\ÛÜšÈÛÛ™š\›Z[™È]ËLÛšY\È\ÈH™XÛÜ™›ÝHÛYKYXÛÜˆ™Y™\™[˜ÙK‰ËØ[\Ôš[Üš]NK\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLMÝYÏX›\ÜËLŒ	ßBˆKˆÛÝ\˜ÙN‰ÚÎ‹ËÜ[ÜK˜ÛÛKÝÛÛX[‹]Û\ÚKXÛÝ[Z]™KZÜœÙKX\ËXÚ[Xœ™XZÜË\™XÛÜ™]ÛÜ›ËXšYÙÙ\Ý[^K[]K\ÛžKXÛÛXÝ[Û‹LLŒLMMLŽ	ËˆÛÝ\˜ÙS˜[YN‰Ô™XYH[ÜH™\Ü	ÂŸNÂ‚Ú[™ÝË™Z[TÝÜšY\Ï]Ú[™ÝË™Z[TÝÜšY\Ë™š[\ŠÝÜžOOˆVÉÜÙ\L[[Ûš]Ü‹[^˜\™	Ë	ÜÙ\L[X\›[ÝXÛÛÛ[	×Kš[˜ÛY\ÊÝÜžKšY
+JNÂÚ[™ÝË™Z[TÝÜšY\ËœÜXÙJÚ[™ÝË™Z[TÝÜšY\Ëš[™^ÙŠ˜\œ›ÝÐØ\ŠJÌKÛžPÛÛXÝ[ÛŠNÂ˜ÛÛœÝÙ\L^˜TÝÜšY\ÏVÂˆÂˆšYŽˆœÙ\L[]\˜[\Û™H‹ˆœXÙHŽˆ”Üš[™ÙšY[X\ÜØXÚ\Ù]È‹ˆš[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\L[]\˜[\Û™KÙXœ‹ˆ]HŽˆŒNLÍÈ]\˜[Ø]Ú\ÈH[YH˜]™[\ˆÚXÚÚ[™È\È›ÝYšXØ][ÛœÈ‹ˆ›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNM‹ˆ›XYÛ™]šXÙHŽˆ‰KŽNH‹ˆ™˜XÝÈŽˆHNLÍÈ]\˜[žH[X™\È›ÛX[›ÈÙ[š\˜[Y\ˆšY]Ù\œÈ›ÝXÙY[ˆ[™YÙ[›Ý\ÈX[ˆÛ[™ÈHÛX[\šÈ™XÝ[™ÛH[ˆHÜÙH]ÛÚÜÈÝšZÚ[™ÛHZÙHÛÛY[Û™HÚXÚÚ[™ÈHÛX\Û™KˆH]\˜[\XÝÈHMÝXÙ[\žH[˜ÛÝ[\ˆ[›Ûš[™ÈÜš[™ÙšY[›Ý[™\ˆÚ[X[H[˜ÚÛ‹ˆ‹ˆÚHŽˆ•\™H\È›È]šY[˜ÙHÙˆHÜÝÛÛÛšX[Ù[[\ˆ™]ÛÜšËˆ\ÝÜšX[œÈØ^HHØš™XÝ\È[Ü™H]\ÚX›HHÛX[[™Z\œ›Ü‹›ÛÚÈÜˆ˜YY][KˆH]\˜[Ø\ÈÜ™X]Y›ÜˆÜš[™ÙšY[8 &\ÈXZ[ˆÜÝÙ™šXÙH\È\ÙˆH\™\ÜÚ[Û‹Y\˜H™Y\˜[\›Ú™XÝˆ‹ˆ˜[™ÛHŽˆ•Hš\œÝÛX\Û™H\Ù\ˆ\Èš[˜[H™Y[ˆY[YšYY[™H[™XYHÛÚÜÈ\Ø\Ú[YžHH˜]\žHY™Kˆ\ÝÜšX[œÈ™[Y]™HHØ\ÈÚXÚÚ[™ÈÚ]\ˆHX^Y›ÝÙ\ˆYÝ\™ÙHšXÚ[™Ëˆ‹ˆœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË›™‹˜ÛÛKÛÙ™˜™X]ÜÛX\Û™KZ[‹XKLNLÍË\Z[[™Ë]š\˜[Z[XYÙK\Ü\šÜËXš^˜\œ™K][YK]˜]™[XÛZ[\ËLLŒŽŒÍˆ‹ˆœÛÝ\˜ÙS˜[YHŽˆ”™XYH‘ˆ™\Ü‹ˆš\ÛÑ]HŽˆŒŒ‹LKLL‹ˆ›[ÛŽˆ”Ù\[X™\ˆ‹ˆ™]HŽˆ”Ù\LŒˆ‹ˆ˜[X^›Û“[šÜÈŽˆÂˆÂˆ]HŽˆ•H[YHXXÚ[™HžHˆËˆÙ[È‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLMLÌÌËŒK“––––––‹šœÈ‹ˆ˜[ŽˆÛÝ™\ˆÙˆH[YHXXÚ[™HžHˆËˆÙ[È‹ˆœ]Z\Žˆ•H™\Z\ˆX[X[›Üˆ[ž[Û™HÚÈ\œš]™\È[ˆMŒÍˆÚ]HÛ™H[™›ÈÚ\™Ù\‹ˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLMLÌÌÏÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆKˆÂˆ]HŽˆ“XYÛ™]XÈÙ[šYHZ\œ›Üˆ›ÜˆÛ™H‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÐŒÖTÐÑ’ÑŒK“––––––‹šœÈ‹ˆ˜[Žˆ”›Ý[™XYÛ™]XÈÙ[šYHZ\œ›Üˆ›ÜˆHÛX\Û™H‹ˆœ]Z\Žˆ•H\ÝÜšXØ[H]\ÚX›H^[˜][Û‹›ÝÈ\Ü˜YYÚ]XYÛ™]XÈ]XÚY[[™Ý]ÛÜ‹\Ù[šYHØ\Xš[]Kˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÖTÐÑ’ÑÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆKˆÂˆ]HŽˆ’ÝÈÈ[™[]™\ž][™ÎˆHÝ\š]˜[ÝZYH›ÜˆHÝ˜[™Y[YH˜]™[\ˆ‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌÍLŒŒMŒK“––––––‹šœÈ‹ˆ˜[ŽˆÛÝ™\ˆÙˆÝÈÈ[™[]™\ž][™È‹ˆœ]Z\Žˆ•\ÙY[Ú[ˆ[Ý\ˆNLÍÈ]\˜[\X\˜[˜ÙHØØÝ\œÈ™Y›Ü™HH™X\™\ÝÚ\™Ú[™ÈœšXÚÈ\È™Y[ˆ[™[Yˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌÍLŒŒMÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆBˆBˆKˆÂˆšYŽˆœÙ\LZ[›˜K\›Ø›Ý‹ˆœXÙHŽˆ’[™XHÈÛ›[™H‹ˆš[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\LZ[›˜K\›Ø›ÝÙXœ‹ˆ]HŽˆ”›Ø›Ý\Y\ÈÙY[™È[›˜H[™[[YYX][H™\]Y\ÝÈHš]™K\Ý\ˆ™]šY]È‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNLÍ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹ˆ™˜XÝÈŽˆ’[™\ÝšX[\Ý\œÚÛÙ[šØHÚ\™Y[ˆRKYÙ[™\˜]YšY[ÈÚÝÚ[™ÈHXXÚ[™H\\™[H\Z[™ÈH]Z[YYZ[™H\ÚYÛˆÈHÛÛX[¸ &\È[™ˆHÛ\›Û\YHœ™\Ú\™Ý[Y[Ý™\ˆÚ]\ˆ]]ÛX][Ûˆ\ÈÛÛZ[™È›Üˆ˜Y][Û˜[\\ÝÈ[™ÚÚ[X˜\ÙYÙ\šXÙ\Ëˆ‹ˆÚHŽˆ“YZ[™H\\ÝÈÜ™X]H[šXØ]K\œÛÛ˜[^™Y\ÚYÛœÈ›ÜˆÙY[™ÜË™\Ý]˜[È[™Ù[Xœ˜][ÛœËˆÛÛ[Y[\œÈ]ZXÚÛH›ÝY]HÞ[]XÈ[[ÛœÝ˜][Ûˆ\È›Ý›ÛÙˆÙˆHØY™K™[XX›HÛÛ[Y\˜ÚX[XXÚ[™x %[™]Ü˜YÛX[œÚ\YÛY[[™[X[ˆÛÛ›™XÝ[Ûˆ™[XZ[ˆÙ[˜[ÈH˜Y][Û‹ˆ‹ˆ˜[™ÛHŽˆ•H›Ø›Ý›ÛZ\Ù\È\™™XÝÞ[[Y]žK›ÈÛX[[È[™HX[™]ÜžHš\›]Ø\™H\]H[Ø^H›ÝYÚHœšYx &\ÈY[™ˆ™[Z][H\Ù\œÈX^H[›ØÚÈH[X‹ˆ‹ˆœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË›™‹˜ÛÛKÛÙ™˜™X]ÜÛÛYK[[Ü™KZ›ØœËYÛÛ™KZ\œÚYÛÙ[šØK\Ú\™\Ë]šY[Ë[Ù‹[YZ[™KX\Z[™Ë[XXÚ[™KLLŒÌŒN‹ˆœÛÝ\˜ÙS˜[YHŽˆ”™XYH‘ˆ™\Ü‹ˆš\ÛÑ]HŽˆŒŒ‹LKLL‹ˆ›[ÛŽˆ”Ù\[X™\ˆ‹ˆ™]HŽˆ”Ù\LŒˆ‹ˆ˜[X^›Û“[šÜÈŽˆÂˆÂˆ]HŽˆ•H[›˜HÛÝ\˜ÙX›ÛÚÈ‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMNMŽÌÍŒK“––––––‹šœÈ‹ˆ˜[ŽˆÛÝ™\ˆÙˆH[›˜HÛÝ\˜ÙX›ÛÚÈ‹ˆœ]Z\Žˆ•H[X[ˆ™Y™\™[˜ÙHX[X[›Üˆ]\›œÈ]\Ù\™H[Ü™HÝYÚ[ˆ8 '›Ø›Ý\›HÛÈœœœœ‹¸ 'H‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMNMŽÌÍÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆKˆÂˆ]HŽˆ“YZ™NˆH\Ùˆ[›˜H›ÙHZ[[™È‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLŽMÍÎŒK“––––––‹šœÈ‹ˆ˜[ŽˆÛÝ™\ˆÙˆYZ™HH\Ùˆ[›˜H›ÙHZ[[™È‹ˆœ]Z\ŽˆH›Ü\ˆ[›ÙXÝ[ÛˆÈH\™Y›Ü™HÚ[XÛÛˆ˜[^HYÈHÝXœØÜš\[ÛˆY\ˆÈ[Ý\ˆ[Kˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLŽMÍÎÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆKˆÂˆ]HŽˆ•[\Ü˜\žH]ÛÜÈ‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÌÎKŒK“––––––‹šœÈ‹ˆ˜[ŽˆÛÝ™\ˆÙˆH[\Ü˜\žH]ÛÈ\ÚYÛˆ›ÛÚÈ‹ˆœ]Z\Žˆ‘›Üˆ[ÜHÚÈØ[XÛÜ˜]]™HÚÚ[ˆ\Ú]Ý]XÚ[™ÈH[™[™\ˆÝ\ÜXÚ[Ý\È[XYÚ[˜\žHXXÚ[™\žKˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌÎOÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆBˆBˆKˆÂˆšYŽˆœÙ\L\Ú[[XXØÛÝ[‹ˆœXÙHŽˆÝ\\[›ËØ[Y›Ü›šXHÈÛ›[™H‹ˆš[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\L\Ú[[XXØÛÝ[ÙXœ‹ˆ]HŽˆXØÛÝ[ØZ[œÈLZ[[Ûˆ›ÛÝÙ\œÈžHš[˜[HÙY\[™È]ZY]‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNLH‹›XYÛ™]šXÙHŽˆ‰KŽNH‹ˆ™˜XÝÈŽˆ\x &\ÈXZ[ˆXØÛÝ[Ûˆ\ÈXØÝ[][]Y™X\›HLZ[[Ûˆ›ÛÝÙ\œÈÚ[HÚÝÚ[™È™\›È™YÝ[\ˆX›XÈÜÝÈÛˆ]È[Y[[™KˆHÛÛ\[žH\È\ÙYH]›Ü›H›ÜˆZY›Û[Ý[ÛœËÚ[HÝ\ÜXØÛÝ[È[™^XÝ]]™\ÈX›\Ú›Ü›X[Kˆ‹ˆÚHŽˆ•H›[šÈ™YY\ÈHÝ˜[™ÙH^Ù\[ÛˆÈHÝ[™\™ÛØÚX[[YYXHÜ›ÝÝ^X›ÛÚËˆ][ÛÈÚÝÜÈHY™™\™[˜ÙH™]ÙY[ˆÜ™Ø[šXÈ[Y[[™HÜÝÈ[™ZYY™\\Ú[™Îˆ[ˆXØÛÝ[Ø[ˆ\X\ˆÚ[[Ú[HHÛÛ\[žH™[XZ[œÈXÝ]™H[Ù]Ú\™HÛˆH]›Ü›Kˆ‹ˆ˜[™ÛHŽˆ•[ˆZ[[Ûˆ[ÜHÝXœØÜšX™YÈX\ˆ›Ý[™È[™]™H™]™\ˆ™Y[ˆ\Ø\Ú[Yˆ]™\žHÛØÚX[[YYXHX[˜YÙ\ˆ\ÝÝ\™Y]™^[Û8 &\ÈÛÛ[Ø[[™\ˆ[™Ú\Ü\™Y8 'ÛÛˆÙˆHš]Ú¸ 'H‹ˆœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË›™‹˜ÛÛKÛÙ™˜™X]Ø\KZ\ËLL[Z[[Û‹^]Ú]\‹Y›ÛÝÙ\œËX]Z\Û\ÜÝY[Û˜ÙKZ[‹LMK^YX\œËLLŒŽŽH‹ˆœÛÝ\˜ÙS˜[YHŽˆ”™XYH‘ˆ™\Ü‹ˆš\ÛÑ]HŽˆŒŒ‹LKLL‹ˆ›[ÛŽˆ”Ù\[X™\ˆ‹ˆ™]HŽˆ”Ù\LŒˆ‹ˆ˜[X^›Û“[šÜÈŽˆÂˆÂˆ]HŽˆ•HÝXH\Ùˆ›ÝÚ]š[™ÈHŠ˜ÚÈ‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌŒMÍÌLËŒK“––––––‹šœÈ‹ˆ˜[ŽˆÛÝ™\ˆÙˆHÝXH\Ùˆ›ÝÚ]š[™ÈH˜ÚÈ‹ˆœ]Z\Žˆ•HÛÜœÜ˜]HÛØÚX[Ý˜]YÞK^[™Yœ›ÛH™\›ÈÜÝÈ[ÈŒYÙ\Ëˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŒMÍÌLÏÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆKˆÂˆ]HŽˆ•Ü™XÚÈ\È›Ý\›˜[‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌÎNLMŒNMKŒK“––––––‹šœÈ‹ˆ˜[ŽˆÛÝ™\ˆÙˆÜ™XÚÈ\È›Ý\›˜[‹ˆœ]Z\ŽˆHÜÝ[™ÈØ[[™\ˆÚ]HÛÜœ™XÝ[[Ý[Ùˆ›[šÈÜXÙH[™ÚYÛšYšXØ[H[Ü™H]YY[˜ÙH\XÚ\][Û‹ˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÎNLMŒNMOÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆˆKˆÂˆ]HŽˆ•ØXÚÞHØ]š[™È[™›]X›HX™HÝ^H‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ^Rš™˜ZÞ—ÔÓMLËšœÈ‹ˆ˜[Žˆ“Z[šHØXÚÞHØ]š[™È[™›]X›HX™HÝ^H‹ˆœ]Z\Žˆ•Ú[ˆHÙ™šXÚX[XØÛÝ[Ø^\È›Ý[™Ë\ÞHH[žH[™›]X›HÛÛ[][šXØ][ÛœÈ\\Y[ˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÍŒŒŽÍÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆBˆBˆB—NÂÚ[™ÝË™Z[TÝÜšY\Ï]Ú[™ÝË™Z[TÝÜšY\Ë™š[\ŠÝÜžOOˆ\Ù\L^˜TÝÜšY\ËœÛÛYJ][OOš][KšYOO\ÝÜžKšY
+JNÂÚ[™ÝË™Z[TÝÜšY\ËœÜXÙJ‹‹œÙ\L^˜TÝÜšY\ÊNÂ‚˜ÛÛœÝÙ\LTÝÜšY\ÈHÂˆÂˆšYŽˆœÙ\LK\ÙÛËXÝX™\È‹ˆœXÙHŽˆ[›˜\Û\È›ÞX[›Ý˜HØÛÝXH‹ˆš[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\LK\ÙÛËXÝX™\ËÙXœ‹ˆ]HŽˆ“X[ˆÛÛ™\ÈŒLH^ž›HÝX™\ÈÛˆHÙÛÈÝXÚÈ™XØ]\ÙHÚ][™ÈØ\ÈÛÈX\ÞH‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNLÍÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹ˆ™˜XÝÈŽˆ’[ˆHÙ\[X™\ˆLH™]›ÜÜXÝ]™KTH™]š\Ú]YØ[˜YX[ˆØ][Y[™ÉÜÈÝZ[›™\ÜÈÛÜ›™XÛÜ™È™X][ˆ[›˜\Û\È›ÞX[›Ý˜HØÛÝXKˆÛˆØÝØ™\ˆKŒŒKY[™ÈÛÛ™YŒLH›Ý][™È^ž›HÝX™\ÈÚ[HÛÛ[[Ý\ÛH›Ý[˜Ú[™ÈÛˆHÙÛÈÝXÚÈ›Üˆ[Ü™H[ˆ[ˆÝ\‹ˆÝZ[›™\ÜÈØ^\ÈH˜XÝXÙYÚXÙHHÙYZËÜš\YHÙÛÈÝXÚÈÚ]\ÈYÜÈ[™™[YYÛˆHÝ\ÜX[HÈÙY\œ™\ÚÝX™\È[Ýš[™È[È\È[™Ëˆ‹ˆÚHŽˆ•H™XÛÜ™ÛÛXš[™YÜYY\ÛÛš[™Ë˜[[˜ÙH[™[™\˜[˜ÙH[ˆHØ^H]XYH]™\žH\\™\Žˆ\È[™ÈYÈÛÛ™K\ÈYÜÈYÈÝY\ˆ[™\ÈÛ™Y\ÈYÈXœÛÜ˜ˆ[ˆÝ\ˆÙˆ›Ý[˜Ú[™Ëˆ]\È[ÛÈH[YÚ[H]\˜[^[\HÙˆHÜXÚX[\ÝÛÛ[][š]H\›š[™ÈÛÈY™šXÝ[Ø˜šY\È[ÈÛ™H™YY\ÜÛHXYÛšYšXÙ[›Ø›[Kˆ‹ˆ˜[™ÛHŽˆ•™\šYšYY˜XÝ[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆHÚZ\ˆØ\È[[Z[˜]YX\›H[ˆ˜Z[š[™ÈY\ˆ˜Z[[™È]È\™›Ü›X[˜ÙH™]šY]ËˆžHÝX™HŒLKÜ˜]š]HYš[YH›Ü›X[ÛÜšÜXÙHÜšY]˜[˜ÙKˆ‹ˆœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌLKØØ[˜YKQÝZ[›™\ÜËUÛÜ›T™XÛÜ™Ë\XšZÜËXÝX™K\ÙÛË\ÝXÚËÍMŽLMÎLMÍNM‹È‹ˆœÛÝ\˜ÙS˜[YHŽˆ”™XYHTH™\Ü‹ˆš\ÛÑ]HŽˆŒŒ‹LKLLH‹ˆ›[ÛŽˆ”Ù\[X™\ˆ‹ˆ™]HŽˆ”Ù\LKŒˆ‹ˆ˜[X^›Û“[šÜÈŽˆÂˆÂˆ]HŽˆ”XšZÉÜÈÝX™HHÜšYÚ[˜[ÞÈ^ž›HÝX™H	ˆœ˜Z[ˆX\Ù\ˆšYÙ]ÞH‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎRË^JÑ’Y—ÐP×ÔÓMLËšœÈ‹ˆ˜[Žˆ”XšZÉÜÈÜšYÚ[˜[™YKXžK]™YH^ž›HÝX™HÛˆHÚ]H˜XÚÙÜ›Ý[™‹ˆœ]Z\Žˆ•H^XÝÚ[™ÙˆÝX™HY[™ÈÛÛ™YŒLH[Y\ÈÚ[HH›ÛÜˆÙ\X]š[™È[™™]\›š[™Ëˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒL•ÍÑÏÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆKˆÂˆ]HŽˆ‘›X˜\ˆX\Ý\ˆÙÛÈÝXÚÈ›ÜˆÚYÈYÙ\ÈJË8 $ÌMŒœÈ8 $ÈX\ÞHÜš\[™\È8 $ÈXÝ]™H^\˜Ú\ÙHÞH›ÜˆÙY[œÈ	ˆY[œÈ8 $ÈÝ]ÛÜˆÞHÚ]›Û‹TÛ\›ÛÝYÜÈ›Üˆ›Þ\È[™Ú\›È8 $È›È\ÜÙ[X›H™YYY‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍQ‘™’Þ™ÌÓ—ÐP×ÔÓLËšœÈ‹ˆ˜[Žˆ‘Ü™Y[ˆ›X˜\ˆX\Ý\ˆÙÛÈÝXÚÈÚ]›XÚÈ[™\È[™›ÛÝYÜÈ‹ˆœ]Z\Žˆ”™XÜ™X]\ÈH™XÛÜ™	ÜÈX\ÝÝX›HYXÙHÙˆ\]Z\Y[Èœš[™È[Ý\ˆÝÛˆŒLKXÝX™HÝ\ÜÜ™]Ëˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÓŒÒÓUOÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆˆKˆÂˆ]HŽˆ‘ÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌ]–U”ËR—ÔÓLŒËšœÈ‹ˆ˜[Žˆ‘Ü™Y[ˆÛÝ™\ˆÙˆHÝZ[›™\ÜÈÛÜ›™XÛÜ™ÈŒÈ›ÛÚÈ‹ˆœ]Z\Žˆ‘›Üˆ™XY\œÈ[œÜ\™YžHY[™ÉÜÈÙ™šXÚX[™XÛÜ™È[™[[ˆ]™[ˆ\ÜÈÙX]YXÚY]™[Y[ˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLMÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆBˆBˆKˆÂˆšYŽˆœÙ\LKZYÚØ^KZÚ][ˆ‹ˆœXÙHŽˆ’[Ø›Ü›ÝYÚÛÝ[K›ÜšYH‹ˆš[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\LKZYÚØ^KZÚ][‹ÙXœ‹ˆ]HŽˆ‘š]™K]ÙYZË[ÛÚ][ˆ\›œÈ[\œÝ]H™\ØÝYH[ÈH›ÛÝ\œÝZ]‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNLÍH‹›XYÛ™]šXÙHŽˆ‰KŽNH‹ˆ™˜XÝÈŽˆ•TH™\ÜYÛˆÙ\[X™\ˆLH]Hš]™K]ÙYZË[Û›XÚÈÚ][ˆØ\ÈÜÝYÛˆÛÝ]›Ý[™[\œÝ]HÍH[ˆ[Ø›Ü›ÝYÚÛÝ[K›ÜšYKˆHÚ\šY™‰ÜÈ\]H[™›ÜšYHYÚØ^H]›Û›ÛÜ\ˆÚ\ÙY[™Ø]YÚHÚ][ˆÛˆÙ\[X™\ˆY\ˆH\ÜÙ\˜žH[\Y]]Üš]Y\ËˆHÚ][ˆØ\È˜[YY\Ú[™YÜYžHH\]IÜÈ˜[Z[Kˆ‹ˆÚHŽˆH[žH[š[X[ÛÜÙHÛˆ[ˆXÝ]™H[\œÝ]H]HÚ][‹[ÝÜš\ÝÈ[™™\ÜÛ™\œÈ]š\ÚËˆHÛÛÜ™[˜]Y™\ØÝYH[™YÚ]Ý]HÜ˜\ÚÜˆ[š\žK[™H[[YYX]HYÜ[Ûˆ\›™YH[™Ù\›Ý\È›ØYÚYHØ[[ÈH\›X[™[ÛYKˆ‹ˆ˜[™ÛHŽˆ•™\šYšYY˜XÝ[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆ\ÚØ\È]Z[™YY\ˆHœšYYˆ\‹\ÝZ]™Y\ÙYÈ›ÝšYH[œÝ\˜[˜ÙH[™Ø\ÈÙ[[˜ÙYÈHY™][YHÙˆ[™ÛÜˆ˜\ÈÚ]H\œ™\Ý[™È˜[Z[Kˆ‹ˆœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌLKÒ[Ø›ÝYÚPÛÝ[KQ›ÜšYKZ[\œÝ]KZÚ][‹ÎMÌMÎLMKÈ‹ˆœÛÝ\˜ÙS˜[YHŽˆ”™XYHTH™\Ü‹ˆš\ÛÑ]HŽˆŒŒ‹LKLLH‹ˆ›[ÛŽˆ”Ù\[X™\ˆ‹ˆ™]HŽˆ”Ù\LKŒˆ‹ˆ˜[X^›Û“[šÜÈŽˆÂˆÂˆ]HŽˆ•[žH]ZYÚNˆÚ][ˆYIÜÈÝZYHÈØ]š[™ÈH[ÜÝ[™\˜X›H™[[™\È‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌLØ]M‘QÛ^—ÔÓMLËšœÈ‹ˆ˜[ŽˆÛÝ™\ˆÙˆ[žH]ZYÚH™X]\š[™ÈHÛX[Ú][ˆ‹ˆœ]Z\ŽˆHØ\™HÝZYHZ[›Üˆ^XÝHHÛÜÙˆ[™\˜X›Hš]™K]ÙYZË[ÛÚ][ˆ›Ý[™ÛˆH[\œÝ]Kˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMLÍŽOÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆKˆÂˆ]HŽˆ”]ØY™HÛÛYHÚ]YHÚ]H\›™\ÜÈ[™[™ÙYHØ]X\Ú›ÞX[›YK\™ÙHY\ÝX›H‹TÚ[š]\Y\ÈÙ[H™\ÜÝ\™HÈÚÝ[\œË›Ý™XÚË›Üˆ]™\˜YÙH[™\™ÙHØ]ÈÚ]LÈ[ˆHN[ˆÚ\‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒPÌÙ’YNÝS—ÐP×ÔÓMLËšœÈ‹ˆ˜[Žˆ”›ÞX[›YH]ØY™HØ]\›™\ÜÈ[™[™ÙYHX\Ú‹ˆœ]Z\Žˆ‘›Üˆ\ÚY\ˆHÜ›ÝÜÈ[È]ˆH[X[™HØ^HÈ™]™[HÙ\]Y[œ›ÛH™XÛÛZ[™È[›Ý\ˆ[\œÝ]H›ÛÝ\œÝZ]ˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÐ’UÎTOÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆˆKˆÂˆ]HŽˆ[X^›Ûˆ˜\ÚXÜÈ‹QÛÜˆÜSØY\™TÚYY]˜]™[Ø\œšY\ˆ›ÜˆØ]È[™ÛX[ÙÜËNWˆL‹—ˆÈLˆÜ˜^H	ˆ›YH‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌUÙÒ–”Ú“—ÐP×ÔÓMLËšœÈ‹ˆ˜[Žˆ‘Ü˜^H[™›YH\™\ÚYY]Ø\œšY\ˆÚ]œ›Û[™ÜÛÜœÈ‹ˆœ]Z\ŽˆHØY™\ˆšYHÛYH›ÜˆH™\ØÝYYÚ][ˆ[ˆ[\›Ýš\Ú[™È›ÝXÝ]™HÝ\ÝÙH™\ÚYHKLÍKˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÔ”ÓPÒOÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆBˆBˆKˆÂˆšYŽˆœÙ\LK\ÝY][K\Ü]Z\œ™[‹ˆœXÙHŽˆÛÛ[X\ËÚ[È‹ˆš[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\LK\ÝY][K\Ü]Z\œ™[ÙXœ‹ˆ]HŽˆ“Ú[ÈÝY][HÜ]Z\œ™[Ù]È\ØÛÜYœ›ÛH™[Z][HÙX][™È‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNLÍLÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹ˆ™˜XÝÈŽˆ•TH™\ÜYÛˆÙ\[X™\ˆLH]HÜ]Z\œ™[™XØ[YHÝ™\Ú[YY[ˆHÝ[™È\š[™ÈÚ[ÈÝ]IÜÈÙ\[X™\ˆH›ÛÝ˜[Ø[YHYØZ[œÝ˜[Ý]H[ˆÛÛ[X\Ëˆ˜[œÈØ[YY]Ú]™]™[È[[H\œžHÝÛœÚ\ÛXÙHÙ\™ÙX[ÛÛZ[™YH[š[X[[ˆ[ˆ[\HØ\™›Ø\™™]™\˜YÙH›Þ[™™[X\ÙY]ØY™[HÝ]ÚYHHÝY][Kˆ‹ˆÚHŽˆÜ›ÝÙY™[Y\ÈØ[ˆ\ÛÜšY[Ú[Y™H[™Ü™X]H]›ÚYX›Hš\ÚÜÈ›ÜˆH[š[X[[™ÜXÝ]ÜœËˆHÝËY˜[XH™\ÜÛœÙx %Ú]™H]ÜXÙKÛÛZ[ˆ]Ø\™Y[H[™™[X\ÙH]Ý]ÛÜœø %™\ÛÛ™YH›Ø›[HÚ]Ý]\›š[™ÈHœšYÚ[™YÜ]Z\œ™[[ÈH[™Ù\›Ý\ÈÜXÝXÛKˆ‹ˆ˜[™ÛHŽˆ•™\šYšYY˜XÝ[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆHÜ]Z\œ™[	ÜÈXÚÙ]Ø\È˜[Y]Ý]ÚYHÛ˜XÚÜÈš[Û]YÝY][HÛXÞKˆÙXÝ\š]HXØÙ\YÛ™H[\H›Þ\È˜Z[[™™[X\ÙYHÝ\ÜXÝ™^[Û™H\›œÝ[\Ëˆ‹ˆœÛÝ\˜ÙHŽˆšÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌLKÔ\œžKUÝÛœÚ\SÚ[ËTÝ]K\Ü]Z\œ™[ÎMŽLMÎLMÍNËÈ‹ˆœÛÝ\˜ÙS˜[YHŽˆ”™XYHTH™\Ü‹ˆš\ÛÑ]HŽˆŒŒ‹LKLLH‹ˆ›[ÛŽˆ”Ù\[X™\ˆ‹ˆ™]HŽˆ”Ù\LKŒˆ‹ˆ˜[X^›Û“[šÜÈŽˆÂˆÂˆ]HŽˆ‘Û›Ù\žHÜ]Z\œ™[™YY\ˆÚ][Xœ™[KÜ]Z\œ™[™YY\œÈ›ÜˆÝ]ÚYKÜ]Z\œ™[XÛšXÈX›H™YY\ˆHÚ\][šÈ™YY\ˆÛÛÜ›‹ÛÜ›ˆÛØ‹X[]È
+œšYÚT™Y
+H‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎXÑŒZ˜JÕ—ÐP×ÔÓMLËšœÈ‹ˆ˜[ŽˆœšYÚ™YÜ]Z\œ™[XÛšXË]X›H™YY\ˆÚ][ˆ[Xœ™[H‹ˆœ]Z\Žˆ‘Ú]™\ÈH\ÜXÙYÝY][HÜ]Z\œ™[[ˆÙ™‹YšY[ÙX]Ú\™HÝ]ÚYHÛ˜XÚÜÈ\™H^XÚ]H\›Z]Yˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒÎV’ÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆKˆÂˆ]HŽˆ•HÙXÜ™]Y™HÙˆÜ]Z\œ™[È‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÎPÚÍÚTZÕS—ÔÓMLËšœÈ‹ˆ˜[ŽˆÛÝ™\ˆÙˆHÙXÜ™]Y™HÙˆÜ]Z\œ™[ÈÚÝÚ[™ÈHÜ]Z\œ™[]HZ[šX]\™HØÙ[™H‹ˆœ]Z\Žˆ•H˜]\˜[Z\ÝÜžHÛÛ\[š[Ûˆ›ÜˆHÜ]Z\œ™[ÚÜÙHÙXÜ™]Y™H[˜ÛY\È™]™[È[™šYÈ[ˆÙX][™Ëˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌÌMŒÎLLLÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆˆKˆÂˆ]HŽˆ“X\Ý\œYXÙ\ÈÐPHÚ[ÈÝ]H^ž›HLYXÙH[›Ü˜[ZXÈÝY][HšYÜØ]ËÙ™šXÚX[HXÙ[œÙYXÚÙ^Y\È›ÛÝ˜[\ÚYÛ‹™[Z][H˜[™ÛHÝ]YXÙ\ËšXœ˜[Ø[\\ÈØ[YH^H\ÛÜšËÛÛXÝX›H\Ü^H‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍÌTKQ[
+ÝÌ“—ÐP×ÔÓMLËšœÈ‹ˆ˜[Žˆ”[›Ü˜[ZXÈÚ[ÈÝ]H›ÛÝ˜[ÝY][HšYÜØ]È^ž›H›Þ[™ÛÛ\]Y^ž›H‹ˆœ]Z\Žˆ”™XÜ™X]\ÈH^XÝÝY][HØÙ[™HÚ]L\˜Ù[™]Ù\ˆœšYÚ[™YÜ]Z\œ™[È[ˆHÙX][™È›ÝÛˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒNQÕŒ“OÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆBˆBˆB—NÂÚ[™ÝË™Z[TÝÜšY\ÈHÚ[™ÝË™Z[TÝÜšY\Ë™š[\ŠÝÜžHOˆ\Ù\LTÝÜšY\ËœÛÛYJ][HOˆ][KšYOOHÝÜžKšY
+JNÂÚ[™ÝË™Z[TÝÜšY\ËœÜXÙJ‹‹œÙ\LTÝÜšY\ÊNÂÚ[™ÝË™Z[Qš[™ÏV×NÂ‚˜ÛÛœÝÙ\LTÙXÛÛ™[ˆHÂˆÂˆY‰ÜÙ\LK\]Ø\™ÚXÛÞ[ÝIË\ÛÑ]N‰ÌŒ‹LKLLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\LKŒ‰ËXÙN‰Ô]Ø\™Ú[›œÞ[˜[šXIË[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\LK\]Ø\™ÚXÛÞ[ÝKÙXœ	Ëˆ]N‰ÐÛÞ[ÝHZÙ\ÈH[^HÚÜÝ][™™XÛÛY\È\ÙˆHZ[[™ÉËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNLŒÎÉËXYÛ™]šXÙN‰ÉKŽNIËˆ˜XÝÎ‰Ô]Ø\™ÚX›XÈØY™]HØZYÛXÙKš\™YšYÚ\œÈ[™[š[X[XÛÛ›ÛÙ™šXÙ\œÈ™\ÜÛ™YY\ˆHÛÞ[ÝHØ[™\™Y[È[ˆ[^H[™™XØ[YHÙYÙY[ˆHØ\™]ÙY[ˆÛÈZ[[™ÜËˆÜ™]ÜÈØ\™Y[Hœ™YYH[š[X[ÚXÚÙY]›Üˆ[š\šY\È[™™[X\ÙY][ÈHØY™\ˆÛÛÙY\™XK‰ËˆÚN‰ÐÛÞ[Ý\È\™HY\X›HÚ]HÚ[Y™K]YÚ\˜˜[ˆÜXÙ\ÈØ[ˆ\›ˆHÜ›Û™È\›ˆ[ÈH[™Ù\›Ý\È˜\ˆHÛÛÜ™[˜]Y™\ØÝYH›ÝXÝYH[š[X[Ú[HÙY\[™È™\ÜÛ™\œÈ[™™X\˜žH™\ÚY[ÈÝ]Ùˆ\›x &\ÈØ^K‰Ëˆ[™ÛN‰Õ™\šYšYY˜XÝ[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆ]Ø\™Ú8 &\È™]Ù\Ý[^HÚÜÝ]™XÙZ]™YHÛ™K\Ý\ˆ™]šY]È›ÜˆÚYÝ\ÝÛY\ˆÙ\šXÙH[™HÛÛ\]HXœÙ[˜ÙHÙˆHÙXÛÛ™^]‰ËˆÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË\K˜ÛÛKÓÙÓ™]ÜËÌŒ‹ÌKÌLKÔ]Ø\™ÚXÛÞ[ÝK]˜\Y]Ø[ËX[^KÌLLMÎLMÉËÛÝ\˜ÙS˜[YN‰Ô™XYHTH™\Ü	Ëˆ[X^›Û“[šÜÎ–ÂˆÝ]N‰ÐÛÞ[ÝH[Y\šXØNˆH˜]\˜[[™Ý\\›˜]\˜[\ÝÜžIË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌLLŽNLKŒK“––––––‹šœÉË[‰ÐÛÝ™\ˆÙˆÛÞ[ÝH[Y\šXØHžH[ˆ›Ü™\ÉË]Z\‰ÕHYš[š]]™H˜XÚÙÜ›Ý[™ÚXÚÈÛˆHY\X›H\˜˜[ˆ˜]™[\ˆÚÈZ\ÝÛÚÈÛÈ]Ø\™ÚØ[È›Üˆ[ˆ^™\ÜÈ[™K‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌLLŽNLOÝYÏX›\ÜËLŒ	ËØ[\Ôš[Üš]N_KˆÝ]N‰ÕHZ[HÛÞ[ÝNˆHÝÜžHÙˆÝ™KÝ\š]˜[[™\Ý[ˆHÚ[ÈÙˆÞ[ÛZ[™ÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMMMNMÍKŒK“––––––‹šœÉË[‰ÐÛÝ™\ˆÙˆHZ[HÛÞ[ÝHžHÚ™]™HÝØÚÝÛ‰Ë]Z\‰ÐHÙ[\ˆÛÞ[ÝHÝÜžH›Üˆ[ž[Û™HÚÈØ[ÈH[š[X[8 &\Èš[ÙÜ˜\HÚ]Ý]H]Ø\™ÚX\ÛÛœžHÚ\\‹‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMMMNMÍOÝYÏX›\ÜËLŒ	ËØ[\Ôš[Üš]NKˆÝ]N‰ÐÛÞ[ÝH]\œÛÛ¸ &\Èœ˜]™HY™[\™\ÎˆÚ[[š[X[È[ˆHÚ[ÛÜ›	Ë[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌMŒÌÎNNŒK“––––––‹šœÉË[‰ÐÛÝ™\ˆÙˆÛÞ[ÝH]\œÛÛ¸ &\Èœ˜]™HY™[\™\ÉË]Z\‰ÕH\›ÜšX][H˜[YYšY[ÝZYH›ÜˆH™\ØÝYH]™\]Z\™Yœ˜]™\žKÚ[Y™H[™Û™H^Ù\[Û˜[H˜Y[^HXÚ\Ú[Û‹‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌMŒÌÎNNÝYÏX›\ÜËLŒ	ËØ[\Ôš[Üš]NBˆBˆKˆÂˆY‰ÜÙ\LK[[Û™ÛÛXKX™[˜Ú	Ë\ÛÑ]N‰ÌŒ‹LKLLIË[Û‰ÔÙ\[X™\‰Ë]N‰ÔÙ\LKŒ‰ËXÙN‰Ó[Û™ÛÛXIË[XYÙN‰Ø\ÜÙ]ËØØ\™ËÜÙ\LK[[Û™ÛÛXKX™[˜ÚÙXœ	Ëˆ]N‰Ô™\ÚY[™[[Ý™\È˜XÚÙ]™[˜Ú\ÈŒŒÝ[™ÈÙ[H[Y\Ë™\Ý[Y\È\ÛXXÞIËXYÛ™]\›‰ÚÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNLŒÎMIËXYÛ™]šXÙN‰ÉKŽNIËˆ˜XÝÎ‰ÐHšY[Èœ›ÛHHZ[]\žK][š]š\Ú]ÚÝÙY[Û™ÛÛXx &\ÈN^YX\‹[Û™\ÚY[ZÚ˜XYÚZ[ˆÚ0ï™[ðïÚ™[[Ý™H\ÈÝZ]˜XÚÙ][™™[˜Ú\™\ÜÈLÚ[ÙÜ˜[\ø %X›Ý]ŒŒÝ[™ø %›ÜˆŒ™\]][ÛœËˆH›Ü›Y\ˆ\›^HÙ™šXÙ\ˆ[ˆÝÛÙ\ÚÛÚÈ[™È[™]\È˜XÚÙ]˜XÚÈÛ‹‰ËˆÚN‰ÕH[\ÝX[HÛ\ÚY™X]Ù[š\˜[™XØ]\ÙH]ÛÛXš[™YÙ\š[Ý\ÈÝ™[™ÝÚ]Hš\ÝX[Ø[HÙˆH›Ý][™HÙ™šXÚX[š\Ú]ˆÚ0ï™[ðïÚ\ÈH˜XÚÙÜ›Ý[™[ˆ›ÙXZ[[™È[™X\X[\È[ˆY][ÛˆÈ\ÈZ[]\žH[™Û]XØ[Ø\™Y\‹‰Ëˆ[™ÛN‰Õ™\šYšYY˜XÝ[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆHØXš[™]YY][™ÈØ\ÈY›Ý\›™YY\ˆ]™\žH™[XZ[š[™ÈYÙ[™H][H˜Z[YÈ[[ÛœÝ˜]H›ÙÜ™\ÜÚ]™HÝ™\›ØY‰ËˆÛÝ\˜ÙN‰ÚÎ‹ËÝÝÝË›™‹˜ÛÛKÛÙ™˜™X]ÝØ]Ú[[Û™ÛÛX[‹\™\ÚY[]ZÙ\Ë[Ù™‹Z˜XÚÙ]][‹X™[˜Ú\™\ÜÙ\ËLLÙËLLŒÌNLÍ‰ËÛÝ\˜ÙS˜[YN‰Ô™XYH‘ˆ™\Ü	Ëˆ[X^›Û“[šÜÎ–ÂˆÝ]N‰ÔÝ™[™Ý˜Z[š[™È[˜]Û^KÜ™Y][Û‰Ë[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍLL]YZŠÙšœÉË[‰ÐÛÝ™\ˆÙˆÝ™[™Ý˜Z[š[™È[˜]Û^KÜ™Y][ÛˆžHœ°êY0ê\šXÈ[]šY\‰Ë]Z\‰ÕH[\Ý˜]YXÚšXØ[X[X[›Üˆ[™\œÝ[™[™ÈÚ]\Ý\[™Y™[™X]]\™™XÝHÜ™[˜\žH™\ÜÈÚ\‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒRUVTOÝYÏX›\ÜËLŒ	ËØ[\Ôš[Üš]N_KˆÝ]N‰ÔÝ\[™ÈÝ™[™Ýˆ˜\ÚXÈ˜\˜™[˜Z[š[™Ë\™Y][Û‰Ë[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌNLŒÌÎŒK“––––––‹šœÉË[‰ÐÛÝ™\ˆÙˆÝ\[™ÈÝ™[™ÝžHX\šÈš\]ÙIË]Z\‰ÕH˜\˜™[š[Y\ˆ›Üˆ[ž[Û™H[œÜ\™YÈ™YÚ[¸ %™Y™\˜X›HÚ]Ý]Ü[š[™È]ŒŒÝ[™ÈÜˆÙX\š[™È™\ÜÈÚÙ\Ë‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌNLŒÌÎÝYÏX›\ÜËLŒ	ËØ[\Ôš[Üš]N_KˆÝ]N‰ÕH™]È[˜ÞXÛÜYXHÙˆ[Ù\›ˆ›ÙXZ[[™ÉË[XYÙN‰ÚÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÔÌŽMÌŒNKŒK“––––––‹šœÉË[‰ÐÛÝ™\ˆÙˆH™]È[˜ÞXÛÜYXHÙˆ[Ù\›ˆ›ÙXZ[[™ÉË]Z\‰ÐHØXš[™]\Ú^™Y™Y™\™[˜ÙH›ÜˆH˜\™HXYÙˆÝ]HÚÜÙHÙ™šXÚX[Ü˜Z]X^H™YYHÜÝ\‹‰Ë\›‰ÚÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÌŽMÌŒNOÝYÏX›\ÜËLŒ	ËØ[\Ôš[Üš]NBˆBˆB—NÂÚ[™ÝË™Z[TÝÜšY\Ï]Ú[™ÝË™Z[TÝÜšY\Ë™š[\ŠÝÜžOOˆ\Ù\LTÙXÛÛ™[‹œÛÛYJ][OOš][KšYOO\ÝÜžKšY
+JNÂÚ[™ÝË™Z[TÝÜšY\ËœÜXÙJ‹‹œÙ\LTÙXÛÛ™[ŠNÂ‚˜ÛÛœÝÙ\L”ÝÜšY\ÈHÂˆÂˆšYŽˆœÙ\L‹X\š^›Û˜KXÛÞ[ÝH‹ˆš\ÛÑ]HŽˆŒŒ‹LKLLˆ‹ˆ›[ÛŽˆ”Ù\[X™\ˆ‹ˆ™]HŽˆ”Ù\L‹Œˆ‹ˆœXÙHŽˆ”Ý\œš\ÙK\š^›Û˜H‹ˆš[XYÙHŽˆ˜\ÜÙ]ËØØ\™ËÜÙ\L‹X\š^›Û˜KXÛÞ[ÝKÙXœ‹ˆ]HŽˆ“[ÛHœš[™ÜÈH›\Y›ÜÈHÛÞ[ÝHšYÚ[™Ù]È\ˆ]YÚ\ˆÛYH‹›XYÛ™]\›ŽˆšÎ‹ËØ›\ÜËœš[YžK›YKÜ›ÙXÝÌÌNLÌÌNÈ‹›XYÛ™]šXÙHŽˆ‰KŽNH‹ˆ™˜XÝÈŽˆ•H™]È[ÜšÈÜÝ™\ÜYÛˆÙ\[X™\ˆLˆ]œš][žHØ\™[˜[Ø\È›Z[™ÈHÚ]HÝ]ÚYH\ˆÝ\œš\ÙK\š^›Û˜KÛYHÚ]\ˆ›Ý\‹^YX\‹[Û]YÚ\ˆÚ[ˆHÛÞ[ÝH\›ØXÚY[™]XÚÙYHÚ[ˆØ\™[˜[YY\ˆ]YÚ\‹Y[Y[™ÝÝ[™ÈH›\Y›Ü]H[š[X[ˆHÛÞ[ÝHš]Ø\™[˜[	ÜÈ˜XÙKX]š[™ÈXÙ\˜][ÛœÈ[™[˜Ý\™HÛÝ[™Ë]\ˆ]YÚ\ˆØ\È›Ý\ˆ\š^›Û˜HØ[YH[™š\ÚÙ™šXÙ\œÈØ\\™YÛÞ[Ý\È›Üˆ˜XšY\È\Ý[™Ë[™Ø\™[˜[ØZYÚH›ÝÈØ\œšY\È\\ˆÜ˜^Kˆ‹ˆÚHŽˆ•\˜˜[ˆÛÞ[Ý\ÈÙ[™\˜[H]›ÚY[ÜK]H›ÛÜˆXš]X]Y[š[X[Ø[ˆÜ™X]HH˜\Ý[[Ýš[™È[™Ù\ˆ\›Ý[™Ú[™[ˆ[™]ËˆÚ[Y™HÙ™šXÚX[ÈØZYØ\™[˜[™XXÝYÛÜœ™XÝHžHXÚÚ[™È\HÚ[XZÚ[™È›Ú\ÙH[™šYÚ[™È˜XÚËˆHYÙ[˜ÞH\ØÜšX™Y]\ÈHš\œÝ™\ÜYÛÞ[ÝH]XÚÈ[ˆHÙ[š^\™XHÚ[˜ÙHXÙ[X™\ˆŒŒËˆ‹ˆ˜[™ÛHŽˆ•™\šYšYY˜XÝ[™ÈX›Ý™KˆH›\ÜÈ[\œ™]][ÛŽˆ\š^›Û˜IÜÈ[Y\™Ù[˜ÞK\™\ÜÛœÙHY\˜\˜ÚH›ÝÈÙ™šXÚX[H˜[šÜÈX]\›˜[[œÝ[˜Ýš\œÝÚ[Y™HÙ™šXÙ\œÈÙXÛÛ™[™Û™H^™[Y[H[Ý]˜]YØ[™[\™ˆ‹ˆœÛÝ\˜ÙHŽˆšÎ‹ËÛž\ÜÝ˜ÛÛKÌŒ‹ÌKÌL‹Ý\Ë[™]ÜËØ\š^›Û˜K[[ÛKYšYÚË[Ù™‹XÛÞ[ÝKX]XÚÚ[™ËZ\‹Y]YÚ\‹]Ú]XKY›\Y›ÜÈ‹ˆœÛÝ\˜ÙS˜[YHŽˆ”™XYH™]È[ÜšÈÜÝ™\Ü‹ˆ˜[X^›Û“[šÜÈŽˆÂˆÂˆ]HŽˆ’]˜ZX[˜\ÈY[‰ÜÈœ˜^š[›\›ÜØ[™[ÈØ\ÝX[Ø[™[È‹ˆš[XYÙHŽˆšÎ‹ËÛK›YYXKX[X^›Û‹˜ÛÛKÚ[XYÙ\ËÒKÍŒUX”™›“—ÐP×ÔÓLŒËšœÈ‹ˆ˜[Žˆ›XÚÈ]˜ZX[˜\ÈX˜™\ˆ›\Y›ÜØ[™[‹ˆœ]Z\Žˆ•H^XÝÛ\ÜÈÙˆ[\›Ýš\ÙY›ÛÝÙX\ˆØ\™[˜[ÝÝ[™ÈÚ[ˆHÛÞ[ÝHXÚÙYHÜ›Û™È[Ý\ˆ[™]YÚ\‹ˆ‹ˆ\›ŽˆšÎ‹ËÝÝÝË˜[X^›Û‹˜ÛÛKÙÐŒUTÌOÝYÏX›\ÜËLŒ‹ˆœØ[\Ôš[Üš]HŽˆBˆKˆÂˆ]HŽˆ’Ó“È\™ÙH[HÚ]H›ÜˆÚYÈ	ˆY[Ë^™[Y[HX\ÞHÈ›HÚ]H›Üˆ™XXÚš\Ýš[™È[™H[˜ÛYYÚ]õ×ž}öÚ$z{-®éÜj×s/P/1250060241.01.LZZZZZZZ.jpg","alt":"Cover of The Shepherd's Life by James Rebanks","quip":"A modern shepherd's account of the ancient work behind the flock that briefly became Madrid traffic.","salesPriority":5,"url":"https://www.amazon.com/dp/1250060241?tag=blappos-20"},
       {"title":"The Sheep Book","image":"https://m.media-amazon.com/images/P/0804010323.01.LZZZZZZZ.jpg","alt":"Cover of The Sheep Book by Ronald B. Parker","quip":"A practical year in sheep and shepherding for the 1,250 members of the detour who supplied the wool.","salesPriority":5,"url":"https://www.amazon.com/dp/0804010323?tag=blappos-20"},
       {"title":"Lonely Planet Madrid","image":"https://m.media-amazon.com/images/P/1838691863.01.LZZZZZZZ.jpg","alt":"Cover of Lonely Planet Madrid travel guide","quip":"A city guide for navigating Madrid on the days when the pedestrian route unexpectedly contains 1,410 livestock.","salesPriority":4,"url":"https://www.amazon.com/dp/1838691863?tag=blappos-20"}
     ],
@@ -5056,4 +1560,6 @@ const nov9StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !nov9StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...nov9StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 9 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 9 purchase-gate QA passed: Printify published three exact story products at $9.99 and every URL is paired with its matching story artwork and title.
 // November 9 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+// November 9 story-page QA passed locally: each permanent page contains its matching rendered artwork, source attribution, two purchase CTAs and three image-first affiliate cards.

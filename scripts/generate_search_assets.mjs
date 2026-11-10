@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov9-giant-ficrons': 'nov9-giant-ficrons',
+    'nov9-cat-face-filter': 'nov9-cat-face-filter',
+    'nov9-move-the-bean': 'nov9-move-the-bean',
     'nov6-swift-farewell': 'nov6-swift-farewell',
     'nov6-blueberry-larva': 'nov6-blueberry-larva',
     'nov6-oxoboranes': 'nov6-oxoboranes',

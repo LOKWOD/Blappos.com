@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-10 — November 9 five-rung claim ladder and proof-boundary matrix
+
+### UCL Institute of Archaeology / giant-ficron research team
+- Target: Archaeology communications team and authors of the southern Britain giant-ficron study
+- Route: https://doi.org/10.1016/j.jasrep.2026.106120
+- Asset match: https://blappos.com/verification/#nov9-odd-news-claim-ladder
+- Honest angle: A reusable measurement-to-interpretation ladder that preserves the 817-tool catalogue and replica-test result while clearly labeling prestige, display and group identity as hypotheses rather than recovered maker statements. A correction or resource-share opportunity only if the team considers the summary accurate.
+
+### Dartmouth Social Perception Lab / PMO resource team
+- Target: Brad Duchaine's research team and the public prosopometamorphopsia information project
+- Route: https://prosopometamorphopsia.faceblind.org/
+- Asset match: https://blappos.com/verification/#nov9-cat-face-filter
+- Honest angle: A single-case-literacy example that links the peer-reviewed report, credits patient-guided visualization and refuses to turn one postoperative case into a prevalence estimate, diagnostic checklist or treatment recommendation.
+
+### Millennium Park Foundation public-art team
+- Target: Public-information team responsible for visitor resources about Cloud Gate
+- Route: https://www.millenniumparkfoundation.org/faqs/
+- Asset match: https://blappos.com/verification/#nov9-move-the-bean
+- Honest angle: A public-event evidence example that pairs official sculpture facts with a clearly attributed attendance estimate, records zero observed movement and labels the trapped-person and pickle backstory as internet jokes rather than sculpture history. No outreach has been sent.
+
 ## 2026-11-09 — November 8 home-surprise checklist and proof-boundary matrix
 
 ### Kentucky Department of Fish and Wildlife Resources Nongame Wildlife Program
