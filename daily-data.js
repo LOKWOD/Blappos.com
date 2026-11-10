@@ -4981,3 +4981,79 @@ window.dailyStories.unshift(...nov8StagingStories.filter(story => story.magnetUr
 // November 8 purchase-gate QA passed: Printify published three exact story products at $9.99 and every URL visibly matches its story title and artwork.
 // November 8 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
 // November 8 story-page QA passed locally: each permanent page contains its matching rendered artwork, source attribution, two purchase CTAs and three image-first affiliate cards.
+
+// November 9 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov9StagingStories = [
+  {
+    "id": "nov9-giant-ficrons",
+    "isoDate": "2026-11-09",
+    "month": "November",
+    "date": "Nov 9, 2026",
+    "place": "Southern Britain",
+    "image": "assets/cards/nov9-giant-ficrons.jpg",
+    "title": "Prehistoric Britain Builds a Three-Kilogram Axe to Impress the Group",
+    "facts": "New Scientist reported on November 9 that unusually large British ficron handaxes may have served a social or display role more than 300,000 years ago. The peer-reviewed study compared 817 ficrons and other handaxes from seven southern British sites; seven giant examples were at least 22 centimeters long, some reached roughly 30 centimeters and three kilograms, and the giants were unusually symmetrical and straight-edged. In controlled rope-cutting trials, replica giants took about 22 percent longer than ordinary ficrons.",
+    "why": "The work combines morphometric comparison with experimental archaeology: giant replicas were difficult to make, took roughly 45 minutes rather than 20 to 30 minutes for ordinary examples, and offered no clear cutting advantage in the tested task. That supports the authors' proposal that the objects helped display skill or structure social relationships, but it does not prove a single ceremonial use, identify an individual maker's motive or show that every giant handaxe was impractical in every possible task.",
+    "angle": "The November 9 report, 817-object sample, seven-giant threshold, replica test and inference limits end above. The Blappos interpretation: Late Acheulean Britain launched a three-kilogram prestige tier for customers who thought normal stone tools looked insufficiently executive. The people, grassland, rope test and tools are disclosed original AI-generated editorial reconstruction—not portraits, a copied museum object, a documentary scene or proof of the makers' intent.",
+    "amazonLinks": [
+      {"title":"Kindred: Neanderthal Life, Love, Death and Art","image":"https://m.media-amazon.com/images/P/1635579899.01.LZZZZZZZ.jpg","alt":"Cover of Kindred by Rebecca Wragg Sykes","quip":"A modern evidence-based portrait of Neanderthal life for placing one unusually polished status-tool hypothesis inside a far richer society.","salesPriority":5,"url":"https://www.amazon.com/dp/1635579899?tag=blappos-20"},
+      {"title":"Flintknapping: Making and Understanding Stone Tools","image":"https://m.media-amazon.com/images/P/029279083X.01.LZZZZZZZ.jpg","alt":"Cover of Flintknapping by John C. Whittaker","quip":"The practical archaeology reference for understanding why a symmetrical 30-centimeter ficron is much harder to make than it looks.","salesPriority":5,"url":"https://www.amazon.com/dp/029279083X?tag=blappos-20"},
+      {"title":"The Mind in the Cave","image":"https://m.media-amazon.com/images/P/0500284652.01.LZZZZZZZ.jpg","alt":"Cover of The Mind in the Cave by David Lewis-Williams","quip":"A wider investigation of early symbolism and consciousness for the moment a cutting tool becomes a possible social signal.","salesPriority":4,"url":"https://www.amazon.com/dp/0500284652?tag=blappos-20"}
+    ],
+    "source": "https://www.newscientist.com/article/2597990-prehistoric-britons-may-have-made-giant-stone-axes-to-show-off/",
+    "sourceName": "Read New Scientist's November 9 report and the open-access Journal of Archaeological Science: Reports paper",
+    "sourcePublisher": "New Scientist / Journal of Archaeological Science: Reports",
+    "socialSummary": "New Scientist reported on November 9 that a study of 817 British handaxes found seven unusually large, skillfully made ficrons; experimental replicas cut rope about 22 percent slower, supporting but not proving a social-display role.",
+    "socialPunchline": "Blappos: Prehistoric Britain introduced three kilograms of prestige with no productivity upgrade."
+  },
+  {
+    "id": "nov9-cat-face-filter",
+    "isoDate": "2026-11-09",
+    "month": "November",
+    "date": "Nov 9, 2026",
+    "place": "Hanover, New Hampshire",
+    "image": "assets/cards/nov9-cat-face-filter.jpg",
+    "title": "A Man Sees His Cat's Eyes in Everyone Else's Face",
+    "facts": "Dartmouth College reported on November 9 the case of a 28-year-old man identified as Karl who, after removal of part of his right temporal lobe for an arteriovenous malformation, sometimes sees remembered facial features transfer between his gray tabby cat and people. If the cat is the first face he sees, later human faces can appear with almond-shaped eye sockets, enlarged pupils or tabby-like markings; on other days, features from the first human face can appear in later faces and even on the cat.",
+    "why": "The Cortex case report describes palinopsia—an earlier visual experience persisting or reappearing—producing a form of prosopometamorphopsia, or distorted face perception. It is one documented neurological case, not evidence that ordinary familiarity with a pet changes everyone's vision, and the authors do not present a general prevalence estimate or treatment. The team worked with Karl to make AI-assisted visualizations, showing how patient-guided images can help clinicians study a subjective perceptual symptom without treating it as a psychiatric delusion.",
+    "angle": "The November 9 Dartmouth report, surgical history, observed feature-transfer pattern and single-case boundary end above. The Blappos interpretation: the brain opened the first face of the morning, selected 'use as default' and applied the cat preset to the rest of the day. The consultation, patient, researcher, cat and portrait cards are disclosed original AI-generated editorial illustration—not Karl, Luna, a copied clinical figure or a diagnostic tool.",
+    "amazonLinks": [
+      {"title":"The Man Who Mistook His Wife for a Hat","image":"https://m.media-amazon.com/images/P/0684853949.01.LZZZZZZZ.jpg","alt":"Cover of The Man Who Mistook His Wife for a Hat by Oliver Sacks","quip":"The classic collection of neurological case histories for a face-perception story stranger than its title yet documented with equal care.","salesPriority":5,"url":"https://www.amazon.com/dp/0684853949?tag=blappos-20"},
+      {"title":"Hallucinations","image":"https://m.media-amazon.com/images/P/0307947432.01.LZZZZZZZ.jpg","alt":"Cover of Hallucinations by Oliver Sacks","quip":"A humane exploration of altered perception that helps separate a visual disturbance from an assumption about psychiatric illness.","salesPriority":5,"url":"https://www.amazon.com/dp/0307947432?tag=blappos-20"},
+      {"title":"The Brain That Changes Itself","image":"https://m.media-amazon.com/images/P/0143113100.01.LZZZZZZZ.jpg","alt":"Cover of The Brain That Changes Itself by Norman Doidge","quip":"A broad neuroplasticity introduction for readers curious about how surgery, memory and ongoing perception can intersect.","salesPriority":4,"url":"https://www.amazon.com/dp/0143113100?tag=blappos-20"}
+    ],
+    "source": "https://medicalxpress.com/news/2026-11-brain-surgery-cat-eyes-human.html",
+    "sourceName": "Read Dartmouth College's November 9 report and the linked Cortex case report",
+    "sourcePublisher": "Dartmouth College / Cortex",
+    "socialSummary": "Dartmouth College reported on November 9 that a 28-year-old man's post-surgical palinopsia can transfer remembered cat-eye shapes and markings onto human faces, or human facial features onto his cat, in a documented single case.",
+    "socialPunchline": "Blappos: The brain selected the first face of the morning and applied the cat preset to everyone else."
+  },
+  {
+    "id": "nov9-move-the-bean",
+    "isoDate": "2026-11-09",
+    "month": "November",
+    "date": "Nov 9, 2026",
+    "place": "Chicago, Illinois",
+    "image": "assets/cards/nov9-move-the-bean.jpg",
+    "title": "Chicago Forms a 250-Person Committee to Move The Bean Seven Inches",
+    "facts": "UPI reported on November 9 that hundreds of people gathered at Chicago's Cloud Gate on Sunday after flyers requested a coordinated attempt to move the 110-ton sculpture seven inches to the left at precisely 12:47 p.m. An attendee estimated about 250 people joined the push. The invitation's claim that a man was trapped inside and needed a pickle was part of an established internet joke; organizer Taylor Bennett later clarified that the sculpture did not move at all.",
+    "why": "The failed relocation was still a successful public gathering: attendees told local reporting they knew the sculpture would not move and valued the chance to meet people. The story also rewards basic claim hygiene. 'Hundreds' is a reported crowd description, 250 is one attendee's estimate, seven inches was the joke's target, and zero movement was the reported outcome. None of those numbers proves an official attendance count or an engineering attempt authorized by the city.",
+    "angle": "The November 9 publication, Sunday event, 12:47 start, attendee estimate, fictional trapped-man premise and zero-movement result end above. The Blappos interpretation: Chicago assembled a quarter-thousand-member relocation committee, supplied one pickle and completed exactly zero inches of capital improvement. The crowd, organizer, pickle courier, skyline and mirror sculpture are disclosed original AI-generated editorial illustration—not attendees, a copied event photo or a city-approved relocation plan.",
+    "amazonLinks": [
+      {"title":"Millennium Park Chicago","image":"https://m.media-amazon.com/images/P/0810126826.01.LZZZZZZZ.jpg","alt":"Cover of Millennium Park Chicago by Cheryl Kent","quip":"The illustrated park history for learning how the Bean arrived before volunteering to move it seven inches.","salesPriority":5,"url":"https://www.amazon.com/dp/0810126826?tag=blappos-20"},
+      {"title":"Anish Kapoor: Past, Present, Future","image":"https://m.media-amazon.com/images/P/0262026597.01.LZZZZZZZ.jpg","alt":"Cover of Anish Kapoor: Past, Present, Future","quip":"A serious survey of the sculptor's work for the crowd whose critical method consisted of leaning very hard on one of it.","salesPriority":5,"url":"https://www.amazon.com/dp/0262026597?tag=blappos-20"},
+      {"title":"AIA Guide to Chicago","image":"https://m.media-amazon.com/images/P/0252086732.01.LZZZZZZZ.jpg","alt":"Cover of the fourth edition of AIA Guide to Chicago","quip":"Nearly two thousand Chicago sites to visit after the city's most reflective landmark declines to budge.","salesPriority":4,"url":"https://www.amazon.com/dp/0252086732?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/09/move-the-bean-chicago-cloud-gate/3341794244560/",
+    "sourceName": "Read UPI's November 9 report and its cited local coverage",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported on November 9 that roughly 250 people gathered at Chicago's 110-ton Cloud Gate to try moving it seven inches left; the trapped-man-and-pickle premise was a joke and the sculpture did not move.",
+    "socialPunchline": "Blappos: Chicago formed a 250-person relocation committee and completed zero inches of capital improvement."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov9StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov9StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 9 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 9 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
