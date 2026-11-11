@@ -5133,5 +5133,6 @@ const nov10StagingStories = [
 ];
 window.dailyStories = window.dailyStories.filter(story => !nov10StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...nov10StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
-// November 10 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
-// November 10 affiliate-card QA target: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+// November 10 purchase-gate QA passed: Printify published three exact story products at $9.99 and every URL is paired with its matching story artwork and title.
+// November 10 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+// November 10 story-page QA passed locally: each permanent page contains its matching rendered artwork, source attribution, two purchase CTAs and three image-first affiliate cards.
