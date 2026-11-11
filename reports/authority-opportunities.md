@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-11 — November 10 synthetic-image incident checklist and proof-boundary matrix
+
+### Akron Zoo communications
+- Target: Akron Zoo communications team responsible for correcting the false lion-escape image and explaining annual emergency drills
+- Route: https://www.akronzoo.org/contact-us
+- Asset match: https://blappos.com/verification/#nov10-synthetic-image-incident-checklist
+- Honest angle: A reusable six-step verification checklist built around the zoo's correction that keeps its real November 4 drill separate from the false November 10 escape claim, links independent local confirmation and labels every visible lion on Blappos as editorial illustration. A correction or resource-share opportunity only if the zoo considers the summary accurate and useful.
+
+### McGill University newsroom / <em>Yakamys</em> research team
+- Target: McGill communications team and authors of the Krabi Basin giant-rodent description
+- Route: https://www.mcgill.ca/newsroom/contact-us
+- Asset match: https://blappos.com/verification/#nov10-giant-yakamys
+- Honest angle: A model-literacy digest that links the open-access paper, preserves the full 21.4–47.3-kilogram range and labels 30 kilograms as a rounded central estimate rather than a fossil weigh-in or complete-body reconstruction.
+
+### Guinness World Records editorial team
+- Target: Editorial and corrections team responsible for the Diana Reser collection feature
+- Route: https://www.guinnessworldrecords.com/contact
+- Asset match: https://blappos.com/verification/#nov10-heart-collection
+- Honest angle: A certification-versus-publication-clock example that records the April count and November feature date, preserves the 3,200-item category boundary and clearly separates heart-shaped objects from medicine, valuation and the invented magnet scene. No outreach has been sent.
+
 ## 2026-11-10 — November 9 five-rung claim ladder and proof-boundary matrix
 
 ### UCL Institute of Archaeology / giant-ficron research team

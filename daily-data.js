@@ -5059,3 +5059,79 @@ window.dailyStories.unshift(...nov9StagingStories.filter(story => story.magnetUr
 // November 9 purchase-gate QA passed: Printify published three exact story products at $9.99 and every URL is paired with its matching story artwork and title.
 // November 9 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
 // November 9 story-page QA passed locally: each permanent page contains its matching rendered artwork, source attribution, two purchase CTAs and three image-first affiliate cards.
+
+// November 10 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov10StagingStories = [
+  {
+    "id": "nov10-ai-lion-escape",
+    "isoDate": "2026-11-10",
+    "month": "November",
+    "date": "Nov 10, 2026",
+    "place": "Akron, Ohio",
+    "image": "assets/cards/nov10-ai-lion-escape.jpg",
+    "title": "Akron Zoo Holds a Safety Drill; the Internet Releases the Lions Anyway",
+    "facts": "UPI reported on November 10 that the Akron Zoo debunked a false AI-generated image and online claims that African lions had escaped. The zoo said all four lions were safe, secure and accounted for. News 5 Cleveland independently contacted the zoo and received the same confirmation. The false image showed lions near a trash can, but neither reporting outlet found evidence of an escape.",
+    "why": "A synthetic image can produce a real public-safety rumor even when the pictured event never happened. The timing also invites a careful distinction: Akron Zoo held a multi-agency emergency drill on November 4, but the drill did not document an escape and does not authenticate the later image. The zoo says it conducts at least four safety drills each year under Association of Zoos and Aquariums requirements. Verification here rests on the responsible facility's confirmation plus independent reporting, not on visual guesswork alone.",
+    "angle": "The November 10 reporting, four-lion count, false-image finding and separate drill end above. The Blappos interpretation: the zoo completed its paperwork while the internet opened a digital side gate and released two lions into the engagement metrics. The staff member, phone, trash can, habitat and four lions are disclosed original AI-generated editorial illustration—not the viral image, a zoo photograph, a real employee, official branding or evidence of an escape.",
+    "amazonLinks": [
+      {"title":"Calling Bullshit: The Art of Skepticism in a Data-Driven World","image":"https://m.media-amazon.com/images/I/81iePy1y6tL._SL1500_.jpg","alt":"Cover of Calling Bullshit by Carl T. Bergstrom and Jevin D. West","quip":"A practical field manual for pausing between a dramatic synthetic image and an emergency claim about the real world.","salesPriority":5,"url":"https://www.amazon.com/dp/0525509186?tag=blappos-20"},
+      {"title":"Verified: How to Think Straight, Get Duped Less, and Make Better Decisions about What to Believe Online","image":"https://covers.openlibrary.org/b/isbn/9780226822068-L.jpg","alt":"Cover of Verified by Mike Caulfield and Sam Wineburg","quip":"A step-by-step guide to using the web to check the web when two lions appear in a place the zoo says they never entered.","salesPriority":5,"url":"https://www.amazon.com/dp/0226822068?tag=blappos-20"},
+      {"title":"The Demon-Haunted World: Science as a Candle in the Dark","image":"https://covers.openlibrary.org/b/isbn/9780345409461-L.jpg","alt":"Cover of The Demon-Haunted World by Carl Sagan","quip":"Carl Sagan's classic case for evidence and a baloney-detection kit, updated here by one very modern trash-can lion image.","salesPriority":4,"url":"https://www.amazon.com/dp/0345409469?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/10/akron-zoo-no-lions-escape-ai-image/4011794329916/",
+    "sourceName": "Read UPI's November 10 report and News 5 Cleveland's independent zoo confirmation",
+    "sourcePublisher": "UPI / News 5 Cleveland",
+    "socialSummary": "UPI reported on November 10 that Akron Zoo debunked a false AI image claiming its African lions had escaped; the zoo said all four lions were safe and secure, and News 5 Cleveland independently confirmed that with zoo staff.",
+    "socialPunchline": "Blappos: The lions never left. The image did."
+  },
+  {
+    "id": "nov10-giant-yakamys",
+    "isoDate": "2026-11-10",
+    "month": "November",
+    "date": "Nov 10, 2026",
+    "place": "Krabi Basin, Thailand",
+    "image": "assets/cards/nov10-giant-yakamys.jpg",
+    "title": "Thailand Rebuilds a 66-Pound Rodent From Two Teeth",
+    "facts": "A McGill University research digest published November 10 highlighted Yakamys sirindhornae, a newly described giant rodent from Thailand's Krabi Basin that lived about 34 million years ago. The specimen consists of a lower second molar and an associated incisor. Seven dental equations produced body-mass estimates from 21.4 to 47.3 kilograms; the study's median was 28.6 kilograms and its mean 31.6, supporting a cautious rounded description of roughly 30 kilograms, or 66 pounds.",
+    "why": "The animal pushes extreme rodent size deep into the late Eocene or earliest Oligocene, earlier than the better-known giant rodents of South America. But a tooth-based mass estimate is a model, not a fossil weigh-in. The authors explicitly note uncertainty created by the limited material and by applying relationships from living rodents to an extinct lineage. The useful result is a supported size range and an evolutionary signal—not a photograph, exact body plan or known coat color.",
+    "angle": "The November 10 digest, two-tooth specimen, age, seven equations and mass range end above. The Blappos interpretation: paleontology received two teeth, estimated sixty-six pounds of tenant and immediately checked whether the Krabi lease included reinforced cabinetry. The animal, researchers, scale, landscape and oversized specimen tray are disclosed original AI-generated editorial reconstruction—not a copied scientific figure, exact likeness, preserved body or literal weighing.",
+    "amazonLinks": [
+      {"title":"The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us","image":"https://covers.openlibrary.org/b/isbn/0062951513-L.jpg","alt":"Cover of The Rise and Reign of the Mammals by Steve Brusatte","quip":"A sweeping mammal history for placing one enormous Eocene rodent inside the much stranger family tree that led to us.","salesPriority":5,"url":"https://www.amazon.com/dp/0062951513?tag=blappos-20"},
+      {"title":"Beasts Before Us: The Untold Story of Mammal Origins and Evolution","image":"https://covers.openlibrary.org/b/isbn/147298398X-L.jpg","alt":"Cover of Beasts Before Us by Elsa Panciroli","quip":"A fossil-grounded account of mammal evolution for readers who want the lineage behind the two teeth, not just the big-number headline.","salesPriority":5,"url":"https://www.amazon.com/dp/147298398X?tag=blappos-20"},
+      {"title":"Otherlands: A Journey Through Earth's Extinct Worlds","image":"https://covers.openlibrary.org/b/isbn/0593132904-L.jpg","alt":"Cover of Otherlands by Thomas Halliday","quip":"A vivid tour of vanished ecosystems for imagining the Krabi Basin while keeping reconstruction separate from recovered evidence.","salesPriority":4,"url":"https://www.amazon.com/dp/0593132904?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+    "sourceName": "Read McGill University's November 10 digest and the open-access Scientific Reports paper",
+    "sourcePublisher": "McGill University / Scientific Reports",
+    "socialSummary": "McGill University reported on November 10 that two fossil teeth from Thailand represent Yakamys sirindhornae, a roughly 34-million-year-old giant rodent whose seven tooth-based equations support an uncertain central estimate near 30 kilograms, or 66 pounds.",
+    "socialPunchline": "Blappos: Two teeth, sixty-six pounds, no lease."
+  },
+  {
+    "id": "nov10-heart-collection",
+    "isoDate": "2026-11-10",
+    "month": "November",
+    "date": "Nov 10, 2026",
+    "place": "Switzerland",
+    "image": "assets/cards/nov10-heart-collection.jpg",
+    "title": "A Heart Surgeon Brings 3,200 Hearts Home From Work",
+    "facts": "Guinness World Records reported on November 10 that Swiss heart surgeon Diana Reser reclaimed the title for the largest collection of heart-shaped items with 3,200 objects. She first held the record in 2010 with 775, lost it in 2024 to a 1,560-item collection and completed the new official count in April. Her collection spans her home and office and includes clothing, ornaments, perfume, soap, a heart-shaped Rubik's cube, a working stethoscope, a Berlin Wall fragment and six heart tattoos.",
+    "why": "The record is a classification and verification exercise as much as an accumulation contest: witnesses certified that the collection exists and the category requires heart-shaped items, not anatomical hearts or an estimate of gifts received. Reser says roughly half came from other people after colleagues learned about her chosen specialty. Guinness reports the certified count and title; it does not turn the collection into medical advice, a museum catalogue or a valuation of every object.",
+    "angle": "The November 10 feature, April count, prior record history and example objects end above. The Blappos interpretation: cardiology followed the surgeon home, occupied the shelves, reached 3,200 pieces and still cannot locate a replacement heart-shaped shower head. The surgeon, office, alpine view, inventory counter and objects are disclosed original AI-generated editorial illustration—not Diana Reser's likeness, her actual home, hospital branding, a copied collection photo or a clinical scene.",
+    "amazonLinks": [
+      {"title":"Heart: A History","image":"https://covers.openlibrary.org/b/isbn/9781250234667-L.jpg","alt":"Cover of Heart A History by Sandeep Jauhar","quip":"A cardiologist's history of the organ behind the symbol, for separating 3,200 decorative hearts from one working anatomical subject.","salesPriority":5,"url":"https://www.amazon.com/dp/125023466X?tag=blappos-20"},
+      {"title":"Gray's Anatomy for Students","image":"https://covers.openlibrary.org/b/isbn/9780323393041-L.jpg","alt":"Cover of Gray's Anatomy for Students by Richard Drake, A. Wayne Vogl and Adam Mitchell","quip":"The serious anatomy reference for the one heart-shaped object category that a surgeon is professionally expected to understand.","salesPriority":5,"url":"https://www.amazon.com/dp/0323393047?tag=blappos-20"},
+      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg","alt":"Cover of Guinness World Records 2027","quip":"The official annual collection of extreme counts for a record holder whose own inventory already needs four digits.","salesPriority":5,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"}
+    ],
+    "source": "https://www.guinnessworldrecords.com/news/2026/11/heart-surgeon-reclaims-collection-record-after-gathering-thousands-of-heart-shaped-things",
+    "sourceName": "Read Guinness World Records' November 10 feature",
+    "sourcePublisher": "Guinness World Records",
+    "socialSummary": "Guinness World Records reported on November 10 that Swiss heart surgeon Diana Reser reclaimed the largest heart-shaped-item collection title with 3,200 verified objects counted in April, up from the 775 that earned her first title in 2010.",
+    "socialPunchline": "Blappos: Cardiology followed her home and occupied every shelf."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov10StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov10StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 10 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 10 affiliate-card QA target: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
