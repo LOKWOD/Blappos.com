@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-12 — November 11 strange-object checklist and proof-boundary matrix
+
+### IA STUDIO / npj Heritage Science research team
+- Target: IA STUDIO and the authors of the 1834 William IV sixpence materials investigation
+- Route: https://iastudio.org/contact/
+- Asset match: https://blappos.com/verification/#nov11-strange-object-checklist
+- Honest angle: A reusable six-step physical-find checklist derived from the open-access study that distinguishes provenance, identity, damage mapping, competing explanations, rarity and value; the paired digest preserves “most consistent with,” the surface-EDX limitation and the absence of an exact press reconstruction. A correction or resource-share opportunity only if the team considers it accurate and useful.
+
+### Detroit Department of Transportation public information
+- Target: DDOT communications team responsible for passenger-safety and policy information
+- Route: https://detroitmi.gov/departments/detroit-department-transportation/contact-ddot
+- Asset match: https://blappos.com/verification/#nov11-horses-bus
+- Honest angle: A concise video-versus-policy example that records the stopped-bus walk-through, credits DDOT's reported response and refuses to reframe a one-off clip as an approved animal service, completed ride or systemwide practice.
+
+### Alaska Department of Fish and Game, Living with Wildlife
+- Target: Anchorage-area wildlife education staff responsible for public moose-safety guidance
+- Route: https://www.adfg.alaska.gov/index.cfm?adfg=contact.anchorage
+- Asset match: https://blappos.com/verification/#nov11-moose-slide
+- Honest angle: A camera-evidence boundary showing how to report a visible wildlife recovery without converting it into a veterinary diagnosis, motive claim or invitation to approach. No outreach has been sent.
+
 ## 2026-11-11 — November 10 synthetic-image incident checklist and proof-boundary matrix
 
 ### Akron Zoo communications

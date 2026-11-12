@@ -5136,3 +5136,79 @@ window.dailyStories.unshift(...nov10StagingStories.filter(story => story.magnetU
 // November 10 purchase-gate QA passed: Printify published three exact story products at $9.99 and every URL is paired with its matching story artwork and title.
 // November 10 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
 // November 10 story-page QA passed locally: each permanent page contains its matching rendered artwork, source attribution, two purchase CTAs and three image-first affiliate cards.
+
+// November 11 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov11StagingStories = [
+  {
+    "id": "nov11-sixpence",
+    "isoDate": "2026-11-11",
+    "month": "November",
+    "date": "Nov 11, 2026",
+    "place": "Greater Manchester, England",
+    "image": "assets/cards/nov11-sixpence.jpg",
+    "title": "A Crushed 1834 Sixpence Forces ‘Mint Condition’ Into Therapy",
+    "facts": "A ScienceDaily report published November 11 highlighted a laboratory investigation of a severely deformed 1834 William IV silver sixpence found in an assorted coin album at a Greater Manchester car-boot sale. The open-access npj Heritage Science paper reports microscopy, surface-sensitive chemical analysis, optical profilometry and digital imaging. The combined evidence was most consistent with severe compressive deformation during minting rather than ordinary wear, corrosion or one unconstrained later impact.",
+    "why": "The conclusion is evidence-weighted, not a time machine: the measurements constrain the most plausible manufacturing explanation but do not reconstruct an exact press sequence or make every damaged coin a mint error. The paper also warns that surface EDX readings are affected by contamination and corrosion and should not be treated as a precise bulk-silver assay. Its broader value is a reusable, non-destructive workflow for separating manufacture, use, corrosion and later damage in unusual heritage objects.",
+    "angle": "The November 11 report, 1834 date, Greater Manchester find and measurement-constrained minting explanation end above. The Blappos interpretation: a sixpence survived 192 years, one steam press and an evidence review only to learn that mint condition was always an aspirational lifestyle brand. The scientist, press, instruments and enlarged coin are disclosed original AI-generated editorial illustration—not a copied coin face, exact press reconstruction, laboratory photograph or claim that the cause is proven beyond doubt.",
+    "amazonLinks": [
+      {"title":"Whitman Guide to Coin Collecting: An Introduction to the World of Coins","image":"https://m.media-amazon.com/images/P/0794845215.01.LZZZZZZZ.jpg","alt":"Cover of Whitman Guide to Coin Collecting by Kenneth Bressett","quip":"A clear guide to coin manufacture, grading and care for separating a historic mint anomaly from ordinary damage.","salesPriority":5,"url":"https://www.amazon.com/dp/0794845215?tag=blappos-20"},
+      {"title":"Strike It Rich with Pocket Change, 5th Edition","image":"https://m.media-amazon.com/images/P/0593328604.01.LZZZZZZZ.jpg","alt":"Cover of Strike It Rich with Pocket Change by Ken Potter and Brian Allen","quip":"An illustrated error-coin guide for learning why unusual manufacture and ordinary damage need different evidence.","salesPriority":5,"url":"https://www.amazon.com/dp/0593328604?tag=blappos-20"},
+      {"title":"The Coin Collector's Survival Manual, Revised Seventh Edition","image":"https://m.media-amazon.com/images/P/0375723390.01.LZZZZZZZ.jpg","alt":"Cover of The Coin Collector's Survival Manual by Scott A. Travers","quip":"A preservation and authentication reference for the collector who finds a coin that looks as though history sat on it.","salesPriority":4,"url":"https://www.amazon.com/dp/0375723390?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm",
+    "sourceName": "Read the November 11 ScienceDaily report and open-access npj Heritage Science paper",
+    "sourcePublisher": "ScienceDaily / npj Heritage Science",
+    "socialSummary": "ScienceDaily reported on November 11 that microscopy, chemical analysis and 3D surface measurements of a deformed 1834 British sixpence found at a Greater Manchester car-boot sale were most consistent with severe deformation during minting, not ordinary wear.",
+    "socialPunchline": "Blappos: Mint condition was always an aspirational lifestyle brand."
+  },
+  {
+    "id": "nov11-horses-bus",
+    "isoDate": "2026-11-11",
+    "month": "November",
+    "date": "Nov 11, 2026",
+    "place": "Detroit, Michigan",
+    "image": "assets/cards/nov11-horses-bus.jpg",
+    "title": "Detroit Bus Briefly Runs a Two-Horse Powertrain",
+    "facts": "UPI reported on November 11 that the Detroit Department of Transportation was investigating a viral video showing two horses briefly walking through a city bus near 7 Mile and Strasburg. Video-maker Ellessia Drew recorded two men leading the horses aboard and out through the rear door. Urban City Cowboys co-founder Jordan Williams said the group was leaving a Saturday fundraiser, the bus was stopped and the driver gave permission for the video.",
+    "why": "This was a brief staged walk-through, not a newly approved animal-transport service or a claim that the horses completed a bus trip. DDOT said the incident was not consistent with its policy and could create an unsafe and uncomfortable ride for passengers. That official response is the operational boundary: a funny clip can still expose a real gap between an employee's one-off permission and the rules of a public transit system.",
+    "angle": "The November 11 report, stopped-bus video, fundraiser context and DDOT investigation end above. The Blappos interpretation: Detroit installed a two-horse powertrain, accepted one hay bale in exact fare and discovered the rear-door policy was written for commuters with fewer knees. The bus, horses, handlers, passengers and streetscape are disclosed original AI-generated editorial illustration—not copied footage, a real route, identifiable rider, DDOT vehicle or transit endorsement.",
+    "amazonLinks": [
+      {"title":"Schleich Horse Club Horse Transporter Playset 42619","image":"https://m.media-amazon.com/images/P/B0BSP1G341.01.LZZZZZZZ.jpg","alt":"Schleich Horse Club Horse Transporter playset","quip":"A purpose-built horse transporter for recreating the Detroit loading problem without borrowing a municipal bus.","salesPriority":5,"url":"https://www.amazon.com/dp/B0BSP1G341?tag=blappos-20"},
+      {"title":"The Essential Hoof Book","image":"https://m.media-amazon.com/images/P/1570767327.01.LZZZZZZZ.jpg","alt":"Cover of The Essential Hoof Book by Susan Kauffmann and Christina Cline","quip":"A detailed hoof-health and footing guide for understanding why a bus aisle is not an equine loading ramp.","salesPriority":5,"url":"https://www.amazon.com/dp/1570767327?tag=blappos-20"},
+      {"title":"Detroit's Street Railways","image":"https://m.media-amazon.com/images/P/0738540277.01.LZZZZZZZ.jpg","alt":"Cover of Detroit's Street Railways by Kenneth Schramm","quip":"A pictorial history of Detroit public transportation for the route map that somehow omitted the horse-transfer station.","salesPriority":4,"url":"https://www.amazon.com/dp/0738540277?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/11/detroit-department-of-transportation-bus-horses/3901794421288/",
+    "sourceName": "Read UPI's November 11 report and DDOT statement",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported on November 11 that two horses were briefly led through a stopped Detroit city bus for a video after a fundraiser; DDOT said the incident was inconsistent with policy and was under investigation.",
+    "socialPunchline": "Blappos: Detroit installed a two-horse powertrain and charged one hay bale in exact fare."
+  },
+  {
+    "id": "nov11-moose-slide",
+    "isoDate": "2026-11-11",
+    "month": "November",
+    "date": "Nov 11, 2026",
+    "place": "Anchorage, Alaska",
+    "image": "assets/cards/nov11-moose-slide.jpg",
+    "title": "Anchorage Moose Tests the Driveway's Black-Diamond Route",
+    "facts": "UPI reported on November 11 that Jeremy Saporito's home-security camera recorded a moose stepping from the lawn onto an icy sloped driveway outside his Anchorage home early Tuesday. The animal immediately slid downhill, fell onto its backside, reached the street, stood back up and walked away.",
+    "why": "The footage supports a short sequence—step, slide, fall, recovery—but it does not establish the animal's motive, medical condition or what happened after it left the frame. The moose's ability to stand and depart is reassuring, not a veterinary examination. The useful public lesson is narrower: freeze conditions can turn an ordinary slope into a hazard for wildlife as well as people, and a large wild animal should be given distance rather than approached for a closer clip.",
+    "angle": "The November 11 report and the camera-visible sequence end above. The Blappos interpretation: Anchorage's driveway opened an unauthorized black-diamond run, assigned the moose a seated start and waived the lift-ticket fee because nobody could find the waiver. The moose, house, homeowner, mountains and ice are disclosed original AI-generated editorial illustration—not copied security footage, a real address, a camera brand or evidence of injury.",
+    "amazonLinks": [
+      {"title":"Yaktrax Pro Traction Cleats for Snow and Ice","image":"https://m.media-amazon.com/images/P/B0094GO6HO.01.LZZZZZZZ.jpg","alt":"Yaktrax Pro traction cleats","quip":"Steel-coil shoe traction for the two-legged driveway users who would rather not copy the moose's seated descent.","salesPriority":5,"url":"https://www.amazon.com/dp/B0094GO6HO?tag=blappos-20"},
+      {"title":"Alaska Wildlife: A Folding Pocket Guide to Familiar Animals","image":"https://m.media-amazon.com/images/P/1583551069.01.LZZZZZZZ.jpg","alt":"Cover of Alaska Wildlife folding pocket guide","quip":"A pocket wildlife guide for identifying Anchorage's oversized downhill visitor from a respectful distance.","salesPriority":5,"url":"https://www.amazon.com/dp/1583551069?tag=blappos-20"},
+      {"title":"This Is a Moose","image":"https://m.media-amazon.com/images/P/0316213608.01.LZZZZZZZ.jpg","alt":"Cover of This Is a Moose by Richard T. Morris and Tom Lichtenheld","quip":"A gloriously uncooperative picture-book moose for the household that just watched one reject the driveway's intended use.","salesPriority":4,"url":"https://www.amazon.com/dp/0316213608?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/11/moose-ice-driveway-anchorage/2421794423445/",
+    "sourceName": "Read UPI's November 11 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported on November 11 that home-security footage in Anchorage showed a moose step onto an icy sloped driveway, slide to the street, fall onto its backside, then stand and walk away.",
+    "socialPunchline": "Blappos: The driveway opened an unauthorized black-diamond run."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov11StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov11StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 11 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 11 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
