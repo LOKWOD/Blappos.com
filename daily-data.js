@@ -5192,7 +5192,7 @@ const nov11StagingStories = [
     "date": "Nov 11, 2026",
     "place": "Anchorage, Alaska",
     "image": "assets/cards/nov11-moose-slide.jpg",
-    "title": "Anchorage Moose Tests the Driveway's Black-Diamond Route",
+    "title": "Anchorage Moose Tests the Driveway's Black-Diamond Route","magnetUrl":"https://blappos.printify.me/product/34325676","magnetPrice":"$9.99",
     "facts": "UPI reported on November 11 that Jeremy Saporito's home-security camera recorded a moose stepping from the lawn onto an icy sloped driveway outside his Anchorage home early Tuesday. The animal immediately slid downhill, fell onto its backside, reached the street, stood back up and walked away.",
     "why": "The footage supports a short sequence—step, slide, fall, recovery—but it does not establish the animal's motive, medical condition or what happened after it left the frame. The moose's ability to stand and depart is reassuring, not a veterinary examination. The useful public lesson is narrower: freeze conditions can turn an ordinary slope into a hazard for wildlife as well as people, and a large wild animal should be given distance rather than approached for a closer clip.",
     "angle": "The November 11 report and the camera-visible sequence end above. The Blappos interpretation: Anchorage's driveway opened an unauthorized black-diamond run, assigned the moose a seated start and waived the lift-ticket fee because nobody could find the waiver. The moose, house, homeowner, mountains and ice are disclosed original AI-generated editorial illustration—not copied security footage, a real address, a camera brand or evidence of injury.",
