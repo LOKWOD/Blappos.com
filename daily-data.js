@@ -5170,7 +5170,7 @@ const nov11StagingStories = [
     "date": "Nov 11, 2026",
     "place": "Detroit, Michigan",
     "image": "assets/cards/nov11-horses-bus.jpg",
-    "title": "Detroit Bus Briefly Runs a Two-Horse Powertrain",
+    "title": "Detroit Bus Briefly Runs a Two-Horse Powertrain","magnetUrl":"https://blappos.printify.me/product/34325670","magnetPrice":"$9.99",
     "facts": "UPI reported on November 11 that the Detroit Department of Transportation was investigating a viral video showing two horses briefly walking through a city bus near 7 Mile and Strasburg. Video-maker Ellessia Drew recorded two men leading the horses aboard and out through the rear door. Urban City Cowboys co-founder Jordan Williams said the group was leaving a Saturday fundraiser, the bus was stopped and the driver gave permission for the video.",
     "why": "This was a brief staged walk-through, not a newly approved animal-transport service or a claim that the horses completed a bus trip. DDOT said the incident was not consistent with its policy and could create an unsafe and uncomfortable ride for passengers. That official response is the operational boundary: a funny clip can still expose a real gap between an employee's one-off permission and the rules of a public transit system.",
     "angle": "The November 11 report, stopped-bus video, fundraiser context and DDOT investigation end above. The Blappos interpretation: Detroit installed a two-horse powertrain, accepted one hay bale in exact fare and discovered the rear-door policy was written for commuters with fewer knees. The bus, horses, handlers, passengers and streetscape are disclosed original AI-generated editorial illustration—not copied footage, a real route, identifiable rider, DDOT vehicle or transit endorsement.",
