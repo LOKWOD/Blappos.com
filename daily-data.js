@@ -5212,3 +5212,79 @@ window.dailyStories = window.dailyStories.filter(story => !nov11StagingStories.s
 window.dailyStories.unshift(...nov11StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 11 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
 // November 11 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+// November 12 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov12StagingStories = [
+  {
+    "id": "nov12-mushroom-boat",
+    "isoDate": "2026-11-12",
+    "month": "November",
+    "date": "Nov 12, 2026",
+    "place": "Catalina Channel, California",
+    "image": "assets/cards/nov12-mushroom-boat.jpg",
+    "title": "California Grows a 107-Pound Mushroom and Calls It Maritime",
+    "facts": "UPI reported on November 12 that artist Sam Shoemaker earned a Guinness World Records title for the longest solo journey by fungal-mycelium boat. In August 2025, he paddled a 12-foot, 107-pound kayak grown entirely from Ganoderma polychromum mycelium 26.37 miles from Catalina Island to Cabrillo Beach in about 12 hours. Guinness says the vessel took seven weeks to grow after roughly three months of preparation and testing, then received shellac and beeswax before launch.",
+    "why": "The achievement is a functional-material demonstration and an endurance record, not proof that fungal boats are generally safer, cheaper or better than conventional manufacturing. Guinness published its feature on November 10 and UPI followed on November 12, while the certified voyage happened in 2025. Shoemaker himself told Guinness that he does not think fungal material is necessarily a better alternative to an injection-molded plastic boat; the value is in testing what a grown object can do and publishing the process.",
+    "angle": "The November 12 report, 2025 voyage clock, dimensions, weight, route and artist's own limitation end above. The Blappos interpretation: California grew a kayak, trained for six months and submitted marine engineering to the produce aisle. The paddler, mushroom kayak, sailboat and Catalina coastline are disclosed original AI-generated editorial illustration—not Sam Shoemaker's likeness, a copied voyage image, a safety endorsement or a claim that readers should build and launch one.",
+    "amazonLinks": [
+      {"title":"Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures","image":"https://m.media-amazon.com/images/P/0525510311.01.LZZZZZZZ.jpg","alt":"Cover of Entangled Life by Merlin Sheldrake","quip":"A wide-ranging fungal-science tour for understanding why a kayak can be grown before it ever meets the Pacific.","salesPriority":5,"url":"https://www.amazon.com/dp/0525510311?tag=blappos-20"},
+      {"title":"Mycelium Running: How Mushrooms Can Help Save the World","image":"https://m.media-amazon.com/images/P/1580085792.01.LZZZZZZZ.jpg","alt":"Cover of Mycelium Running by Paul Stamets","quip":"A practical fungal reference for the material network underneath one extremely seaworthy art project.","salesPriority":5,"url":"https://www.amazon.com/dp/1580085792?tag=blappos-20"},
+      {"title":"The Mushroom Cultivator","image":"https://m.media-amazon.com/images/P/0961079800.01.LZZZZZZZ.jpg","alt":"Cover of The Mushroom Cultivator by Paul Stamets and J. S. Chilton","quip":"The classic cultivation manual for readers whose first question is how seven weeks of growth became twelve feet of boat.","salesPriority":4,"url":"https://www.amazon.com/dp/0961079800?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/12/guinness-world-records-mushroom-boat/4761794505737/",
+    "sourceName": "Read UPI's November 12 report and Guinness World Records' feature",
+    "sourcePublisher": "UPI / Guinness World Records",
+    "socialSummary": "UPI reported on November 12 that artist Sam Shoemaker set a Guinness record by paddling a 12-foot, 107-pound kayak grown entirely from fungal mycelium 26.37 miles from Catalina Island to Cabrillo Beach; the voyage occurred in August 2025.",
+    "socialPunchline": "Blappos: California submitted marine engineering to the produce aisle."
+  },
+  {
+    "id": "nov12-mars-organic-carbon",
+    "isoDate": "2026-11-12",
+    "month": "November",
+    "date": "Nov 12, 2026",
+    "place": "Jezero Crater, Mars",
+    "image": "assets/cards/nov12-mars-organic-carbon.jpg",
+    "title": "Mars Hides Organic Carbon Under One Sheet of Dust",
+    "facts": "A ScienceDaily digest published November 12 highlighted a Science Advances study reporting macromolecular carbon in two mudstones at Bright Angel in Mars' Jezero Crater. Perseverance's SHERLOC instrument used deep-ultraviolet Raman spectroscopy to detect the material only a few micrometers below the rock surface—the shallowest such detection reported on Mars. The finding is spatially separated from earlier organic-carbon detections by Curiosity in Gale Crater.",
+    "why": "Organic carbon is important raw material for habitability and biosignature research, but 'organic' describes carbon chemistry, not a confirmed biological origin. The paper says the carbon could have formed through biological or non-biological pathways and does not establish past life. Finding complex carbon in two widely separated ancient Martian environments strengthens the case that such material may be widespread and preserved, while the exact origin still requires stronger evidence—ideally laboratory analysis of returned samples.",
+    "angle": "The November 12 digest, peer-reviewed paper, two mudstones, shallow detection and biological-versus-abiotic boundary end above. The Blappos interpretation: Mars hid organic carbon under one sheet of dust and Earth immediately began drafting the alien press conference it was specifically told not to hold. The rover, laser spot, molecule inset and Jezero terrain are disclosed original AI-generated editorial illustration—not mission imagery, a NASA graphic, a literal molecular map or evidence of Martian life.",
+    "amazonLinks": [
+      {"title":"The Case for Mars: The Plan to Settle the Red Planet and Why We Must","image":"https://m.media-amazon.com/images/P/145160811X.01.LZZZZZZZ.jpg","alt":"Cover of The Case for Mars by Robert Zubrin","quip":"A detailed Red Planet argument for the future explorers who may eventually bring Jezero samples into an Earth laboratory.","salesPriority":5,"url":"https://www.amazon.com/dp/145160811X?tag=blappos-20"},
+      {"title":"The Perseverance Mars Rover","image":"https://m.media-amazon.com/images/P/1499449909.01.LZZZZZZZ.jpg","alt":"Cover of The Perseverance Mars Rover by Donna Reynolds","quip":"An accessible guide to the rover carrying SHERLOC, the instrument that found carbon a few micrometers below the surface.","salesPriority":5,"url":"https://www.amazon.com/dp/1499449909?tag=blappos-20"},
+      {"title":"Packing for Mars: The Curious Science of Life in the Void","image":"https://m.media-amazon.com/images/P/0393339912.01.LZZZZZZZ.jpg","alt":"Cover of Packing for Mars by Mary Roach","quip":"Mary Roach's lively science of spaceflight for keeping the human comedy separate from a very careful organic-carbon result.","salesPriority":4,"url":"https://www.amazon.com/dp/0393339912?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+    "sourceName": "Read ScienceDaily's November 12 digest and the open-access Science Advances paper",
+    "sourcePublisher": "ScienceDaily / Science Advances",
+    "socialSummary": "ScienceDaily reported on November 12 that Perseverance's SHERLOC instrument detected macromolecular carbon a few micrometers below two Jezero Crater mudstones—the shallowest such Martian detection reported—but the organic material can be biological or non-biological and does not prove life.",
+    "socialPunchline": "Blappos: Mars found organic carbon; Earth preordered the alien press conference."
+  },
+  {
+    "id": "nov12-smoke-phase-turkey",
+    "isoDate": "2026-11-12",
+    "month": "November",
+    "date": "Nov 12, 2026",
+    "place": "Richland County, Wisconsin",
+    "image": "assets/cards/nov12-smoke-phase-turkey.jpg",
+    "title": "Wisconsin Turkey Enters Its Smoke Phase",
+    "facts": "UPI reported on November 12 that a Snapshot Wisconsin trail camera photographed an unusually pale wild turkey in Richland County. The Wisconsin Department of Natural Resources identified the bird as showing the smoke color phase: reduced brown and red pigment produces mostly white or light-gray plumage with darker gray-to-black markings, especially on the lower feathers. The agency says the appearance comes from a genetic mutation and is a natural color variation in wild turkeys.",
+    "why": "The label explains plumage, not ancestry or health. A smoke-phase bird is not automatically an escaped domestic turkey, an albino or a hybrid, and one camera image cannot establish how common the mutation is across the state. Wisconsin DNR also distinguishes other rare phases, including erythristic birds with excess rusty-red pheomelanin and melanistic birds with excess black eumelanin. The useful lesson is that striking color can be real biology without supporting a broader population claim.",
+    "angle": "The November 12 report, Richland County camera, DNR identification and genetic-color boundary end above. The Blappos interpretation: Wisconsin's turkey selected the smoke finish, kept the factory-default attitude and arrived exactly two weeks before someone asked whether it came pre-seasoned. The bird, autumn woods and trail camera are disclosed original AI-generated editorial illustration—not the Snapshot Wisconsin photograph, a DNR graphic, an exact individual or evidence about the animal's health.",
+    "amazonLinks": [
+      {"title":"The Turkey: An American Story","image":"https://m.media-amazon.com/images/P/0252076877.01.LZZZZZZZ.jpg","alt":"Cover of The Turkey: An American Story by Andrew F. Smith","quip":"A cultural and natural history for the bird whose rare plumage arrived with centuries of American expectations attached.","salesPriority":5,"url":"https://www.amazon.com/dp/0252076877?tag=blappos-20"},
+      {"title":"The Wild Turkey: Biology and Management","image":"https://m.media-amazon.com/images/P/081171859X.01.LZZZZZZZ.jpg","alt":"Cover of The Wild Turkey: Biology and Management","quip":"A technical reference on wild-turkey biology for going beyond one startling trail-camera color phase.","salesPriority":5,"url":"https://www.amazon.com/dp/081171859X?tag=blappos-20"},
+      {"title":"National Audubon Society Birds of North America","image":"https://m.media-amazon.com/images/P/0525655670.01.LZZZZZZZ.jpg","alt":"Cover of National Audubon Society Birds of North America","quip":"A comprehensive photographic bird guide for checking what is typical before declaring a pale turkey impossible.","salesPriority":4,"url":"https://www.amazon.com/dp/0525655670?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/12/wisconsin-dnr-turkey-color/5191794509755/",
+    "sourceName": "Read UPI's November 12 report and Wisconsin DNR's Snapshot Wisconsin explanation",
+    "sourcePublisher": "UPI / Wisconsin Department of Natural Resources",
+    "socialSummary": "UPI reported on November 12 that Wisconsin DNR identified a mostly white wild turkey photographed by a Richland County trail camera as a natural smoke color phase caused by reduced brown and red pigment, not automatically albinism or domestic ancestry.",
+    "socialPunchline": "Blappos: Just a phase. Specifically."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov12StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov12StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 12 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 12 affiliate-card QA passed: every staged story has exactly three verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.

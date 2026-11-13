@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-13 — November 12 claim-clock checklist and evidence-ceiling matrix
+
+### Guinness World Records editorial / Sam Shoemaker record feature
+- Target: Guinness editorial and corrections team responsible for the fungal-mycelium boat feature
+- Route: https://www.guinnessworldrecords.com/contact
+- Asset match: https://blappos.com/verification/#nov12-claim-clock-checklist
+- Honest angle: A reusable publication-clock and prototype-claim checklist that records the August 2025 voyage separately from the November 2026 feature, preserves the artist's own warning against treating the vessel as automatically better than plastic and links the exact record source. A correction or resource-share opportunity only if the team considers it accurate and useful.
+
+### Planetary Science Institute / SHERLOC research team
+- Target: Planetary Science Institute communications and authors of the Bright Angel macromolecular-carbon study
+- Route: https://www.psi.edu/contact/
+- Asset match: https://blappos.com/verification/#nov12-mars-organic-carbon
+- Honest angle: A plain-language evidence-ceiling matrix that links the open-access paper, identifies SHERLOC's few-micrometer detection depth and keeps biological and non-biological origins visible instead of converting organic carbon into a life claim.
+
+### Wisconsin DNR Snapshot Wisconsin
+- Target: Snapshot Wisconsin outreach team responsible for volunteer trail-camera science and public wildlife interpretation
+- Route: https://dnr.wisconsin.gov/topic/research/snapshot/contacts
+- Asset match: https://blappos.com/verification/#nov12-smoke-phase-turkey
+- Honest angle: A concise camera-observation versus population-claim example that credits Wisconsin DNR's smoke-phase identification, distinguishes reduced pigment from automatic albinism or domestic ancestry and labels Blappos artwork as illustration. No outreach has been sent.
+
 ## 2026-11-12 — November 11 strange-object checklist and proof-boundary matrix
 
 ### IA STUDIO / npj Heritage Science research team
