@@ -5235,8 +5235,8 @@ const nov12StagingStories = [
     ],
     "source": "https://www.upi.com/Odd_News/2026/11/12/guinness-world-records-mushroom-boat/4761794505737/",
     "sourceName": "Read UPI's November 12 report and Guinness World Records' feature",
-    "sourcePublisher": "UPI / Guinness World Records",
-    "socialSummary": "UPI reported on November 12 that artist Sam Shoemaker set a Guinness record by paddling a 12-foot, 107-pound kayak grown entirely from fungal mycelium 26.37 miles from Catalina Island to Cabrillo Beach; the voyage occurred in August 2025.",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Sam Shoemaker paddled a 107-pound mycelium kayak 26.37 miles, earning a Guinness record.",
     "socialPunchline": "Blappos: California submitted marine engineering to the produce aisle."
   },
   {
@@ -5257,8 +5257,8 @@ const nov12StagingStories = [
     ],
     "source": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
     "sourceName": "Read ScienceDaily's November 12 digest and the open-access Science Advances paper",
-    "sourcePublisher": "ScienceDaily / Science Advances",
-    "socialSummary": "ScienceDaily reported on November 12 that Perseverance's SHERLOC instrument detected macromolecular carbon a few micrometers below two Jezero Crater mudstones—the shallowest such Martian detection reported—but the organic material can be biological or non-biological and does not prove life.",
+    "sourcePublisher": "ScienceDaily",
+    "socialSummary": "Perseverance found organic carbon in two Jezero mudstones—not proof of life.",
     "socialPunchline": "Blappos: Mars found organic carbon; Earth preordered the alien press conference."
   },
   {
@@ -5279,8 +5279,8 @@ const nov12StagingStories = [
     ],
     "source": "https://www.upi.com/Odd_News/2026/11/12/wisconsin-dnr-turkey-color/5191794509755/",
     "sourceName": "Read UPI's November 12 report and Wisconsin DNR's Snapshot Wisconsin explanation",
-    "sourcePublisher": "UPI / Wisconsin Department of Natural Resources",
-    "socialSummary": "UPI reported on November 12 that Wisconsin DNR identified a mostly white wild turkey photographed by a Richland County trail camera as a natural smoke color phase caused by reduced brown and red pigment, not automatically albinism or domestic ancestry.",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI says Wisconsin DNR identified a pale Richland County wild turkey as a natural smoke color phase caused by reduced pigment.",
     "socialPunchline": "Blappos: Just a phase. Specifically."
   }
 ];
