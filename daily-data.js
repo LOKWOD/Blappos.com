@@ -5312,7 +5312,7 @@ const nov13StagingStories = [
     "source": "https://www.upi.com/Odd_News/2026/11/13/sugar-land-texas-inflatable-alligator/4041794588013/",
     "sourceName": "Read UPI's November 13 report and Sugar Land's official alligator-safety guidance",
     "sourcePublisher": "UPI",
-    "socialSummary": "Sugar Land Animal Services answered a sick-alligator call and found a runaway inflatable pool toy; officials said the caller was right to keep a safe distance and report it.",
+    "socialSummary": "Sugar Land Animal Services answered a sick-alligator call and found a runaway inflatable pool toy.",
     "socialPunchline": "Blappos: The wildlife call was technically inflated."
   },
   {
@@ -5334,7 +5334,7 @@ const nov13StagingStories = [
     "source": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
     "sourceName": "Read ScienceDaily's November 13 digest and the open-access Frontiers paper",
     "sourcePublisher": "ScienceDaily / Frontiers",
-    "socialSummary": "A modern review of 46 crania from First Dynasty subsidiary burials at Abydos found potentially lethal perimortem trauma in 18, supporting—not universally proving—retainer sacrifice.",
+    "socialSummary": "At Abydos, 18 of 46 crania had potentially lethal trauma, supporting a sacrifice theory.",
     "socialPunchline": "Blappos: Royal employment had an afterlife clause."
   },
   {
@@ -5356,11 +5356,11 @@ const nov13StagingStories = [
     "source": "https://www.upi.com/Odd_News/2026/11/13/sheep-wadsworth-ohio-lassoed/6691794592131/",
     "sourceName": "Read UPI's November 13 report and News 5 Cleveland's local follow-up",
     "sourcePublisher": "UPI / News 5 Cleveland",
-    "socialSummary": "After 45 days loose near Wadsworth, an American Blackbelly sheep was safely roped by teen rider Reagan Crumpler on her horse Catalena after a community search.",
+    "socialSummary": "A teen rider safely roped a sheep after its 45 days loose around Wadsworth.",
     "socialPunchline": "Blappos: Forty-five days, one horse, one rope, zero surrender paperwork."
   }
 ];
 window.dailyStories = window.dailyStories.filter(story => !nov13StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...nov13StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
-// November 13 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 13 purchase gate passed: Printify published all three exact $9.99 story magnets and wrote their matching storefront URLs back to the repository.
 // November 13 affiliate-card QA passed: every staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
