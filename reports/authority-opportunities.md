@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-14 — November 13 three-level certainty matrix
+
+### Sugar Land Animal Services wildlife education
+- Target: Sugar Land Animal Services staff responsible for local wildlife guidance and the inflatable-alligator incident
+- Route: https://www.sugarlandtx.gov/220/Animal-Services
+- Asset match: https://blappos.com/verification/#nov13-inflated-alligator
+- Honest angle: A public-safety example that preserves the department's message that the resident was right to keep a safe distance and call experts, pairs the incident with the city's exact alligator-reporting criteria and labels the illustrated officer and pond as editorial art. A correction or resource-share opportunity only if the department considers the summary accurate and useful.
+
+### Purdue Anthropology / Roselyn Campbell
+- Target: Roselyn Campbell, author of the Abydos bioarchaeology and forensics study
+- Route: https://cla.purdue.edu/directory/profiles/roselyn-campbell.html
+- Asset match: https://blappos.com/verification/#nov13-abydos-retainers
+- Honest angle: A plain-language evidence-ceiling matrix that links the open-access paper, keeps 18 of 46 observed trauma cases separate from the much larger burial population, states the 5%–15% sampling limit and distinguishes support for retainer sacrifice from universal proof.
+
+### Whispering Acres Farm Animal Sanctuary
+- Target: Whispering Acres staff and volunteers who coordinated the Wadsworth sheep rescue
+- Route: https://www.whisperingacresohio.org/contact
+- Asset match: https://blappos.com/verification/#nov13-sheep-roper
+- Honest angle: A community-rescue timeline that credits the sanctuary, rider, horse, residents, police and drone volunteers; preserves the refeeding and veterinary follow-up; flags the 13-versus-14 age discrepancy instead of hiding it; and labels the scene as AI-generated illustration. No outreach has been sent.
+
 ## 2026-11-13 — November 12 claim-clock checklist and evidence-ceiling matrix
 
 ### Guinness World Records editorial / Sam Shoemaker record feature

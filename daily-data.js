@@ -5288,3 +5288,79 @@ window.dailyStories = window.dailyStories.filter(story => !nov12StagingStories.s
 window.dailyStories.unshift(...nov12StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 12 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
 // November 12 affiliate-card QA passed: every staged story has exactly three verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+// November 13 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov13StagingStories = [
+  {
+    "id": "nov13-inflated-alligator",
+    "isoDate": "2026-11-13",
+    "month": "November",
+    "date": "Nov 13, 2026",
+    "place": "Sugar Land, Texas",
+    "image": "assets/cards/nov13-inflated-alligator.jpg",
+    "title": "Sugar Land Dispatches Animal Control to a Runaway Pool Floatie",
+    "facts": "UPI reported on November 13 that Sugar Land Animal Services responded to a resident's call about an alligator that appeared sick. Animal Services Officer Perez kept the investigation appropriately cautious, then found that the convincing shape was a green inflatable alligator pool toy that had drifted away. The department said the caller still did the right thing: keep a safe distance from wildlife that looks sick or injured and call trained responders rather than approaching it.",
+    "why": "The joke works because real alligators inhabit Sugar Land's ponds and waterways, while distance, glare and partial views can make quick identification unreliable. The city's official guidance says a sighting alone is not necessarily an emergency, but residents should contact Animal Services when an alligator is in a roadway or a pool, lawn or driveway without direct water access, or when it approaches people or repeatedly follows watercraft. This incident does not show that wildlife calls are frivolous; it shows why safe reporting and expert verification beat a risky close look.",
+    "angle": "The November 13 report, official safety guidance and identification boundary end above. The Blappos interpretation: Sugar Land's wildlife call was technically inflated. The officer, pond, neighborhood and bright vinyl gator are disclosed original AI-generated editorial illustration—not Perez's likeness, a copied department image, an official city scene or evidence that the caller acted unreasonably.",
+    "amazonLinks": [
+      {"title":"Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America","image":"https://m.media-amazon.com/images/P/0544129970.01.LZZZZZZZ.jpg","alt":"Cover of Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America","quip":"A serious field guide for checking the real reptiles behind Sugar Land's extremely buoyant false alarm.","salesPriority":5,"url":"https://www.amazon.com/dp/0544129970?tag=blappos-20"},
+      {"title":"The American Alligator","image":"https://m.media-amazon.com/images/P/156065581X.01.LZZZZZZZ.jpg","alt":"Cover of The American Alligator by Steve Potts","quip":"A concise species guide for separating actual alligator biology from one runaway piece of pool vinyl.","salesPriority":5,"url":"https://www.amazon.com/dp/156065581X?tag=blappos-20"},
+      {"title":"Alligators and Crocodiles","image":"https://m.media-amazon.com/images/P/0823423433.01.LZZZZZZZ.jpg","alt":"Cover of Alligators and Crocodiles by Gail Gibbons","quip":"A clear illustrated comparison for readers who want their crocodilian identification skills fully inflated.","salesPriority":4,"url":"https://www.amazon.com/dp/0823423433?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/13/sugar-land-texas-inflatable-alligator/4041794588013/",
+    "sourceName": "Read UPI's November 13 report and Sugar Land's official alligator-safety guidance",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Sugar Land Animal Services answered a sick-alligator call and found a runaway inflatable pool toy; officials said the caller was right to keep a safe distance and report it.",
+    "socialPunchline": "Blappos: The wildlife call was technically inflated."
+  },
+  {
+    "id": "nov13-abydos-retainers",
+    "isoDate": "2026-11-13",
+    "month": "November",
+    "date": "Nov 13, 2026",
+    "place": "Abydos, Egypt",
+    "image": "assets/cards/nov13-abydos-retainers.jpg",
+    "title": "Ancient Egypt Reopens a 5,000-Year-Old Royal HR Case",
+    "facts": "A ScienceDaily digest published November 13 highlighted Roselyn Campbell's open-access Frontiers in Environmental Archaeology study of 46 preserved crania from subsidiary burials around First Dynasty funerary enclosures at Abydos. Modern bioarchaeological and forensic examination identified perimortem, potentially lethal cranial trauma in 18 individuals—39% of the sample. The injuries provide new physical support for the long-standing hypothesis that some royal retainers were killed when rulers died, possibly to serve them in the afterlife.",
+    "why": "The study recovers evidence and individuality from a legacy collection that earlier archaeology often treated as a footnote to royal tombs. Its claim ceiling is crucial: the 46 crania represent only about 5% to 15% of the burial population at each enclosure, many remains were lost, damaged or coated in paraffin, and most postcranial remains are unavailable. The trauma supports sacrifice for many examined people; it does not prove that every subsidiary burial was a killing or reveal exactly how people without observable cranial trauma died.",
+    "angle": "The November 13 digest, October 5 paper, 46-person sample, 18 trauma cases and incomplete-collection limit end above. The Blappos interpretation: early royal employment came with an afterlife clause nobody could safely decline. The excavation, researchers, diagram and distant procession are disclosed original AI-generated editorial illustration—not a reconstruction of a specific death, a copied artifact, a portrait of Campbell or proof beyond the study's stated limits.",
+    "amazonLinks": [
+      {"title":"Abydos: Egypt's First Pharaohs and the Cult of Osiris","image":"https://m.media-amazon.com/images/P/0500390304.01.LZZZZZZZ.jpg","alt":"Cover of Abydos by David O'Connor","quip":"The site-specific history behind royal tombs, subsidiary burials and one exceptionally durable archaeological mystery.","salesPriority":5,"url":"https://www.amazon.com/dp/0500390304?tag=blappos-20"},
+      {"title":"Egyptian Bioarchaeology: Humans, Animals, and the Environment","image":"https://m.media-amazon.com/images/P/9088902879.01.LZZZZZZZ.jpg","alt":"Cover of Egyptian Bioarchaeology edited by Salima Ikram, Jessica Kaiser and Roxie Walker","quip":"A field-spanning collection on how human remains and other biological evidence can revise ancient Egyptian history.","salesPriority":5,"url":"https://www.amazon.com/dp/9088902879?tag=blappos-20"},
+      {"title":"The Human Bone Manual","image":"https://m.media-amazon.com/images/P/0120884674.01.LZZZZZZZ.jpg","alt":"Cover of The Human Bone Manual by Tim D. White and Pieter A. Folkens","quip":"A practical forensic-anthropology reference for understanding what careful skeletal analysis can—and cannot—establish.","salesPriority":4,"url":"https://www.amazon.com/dp/0120884674?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+    "sourceName": "Read ScienceDaily's November 13 digest and the open-access Frontiers paper",
+    "sourcePublisher": "ScienceDaily / Frontiers",
+    "socialSummary": "A modern review of 46 crania from First Dynasty subsidiary burials at Abydos found potentially lethal perimortem trauma in 18, supporting—not universally proving—retainer sacrifice.",
+    "socialPunchline": "Blappos: Royal employment had an afterlife clause."
+  },
+  {
+    "id": "nov13-sheep-roper",
+    "isoDate": "2026-11-13",
+    "month": "November",
+    "date": "Nov 13, 2026",
+    "place": "Wadsworth, Ohio",
+    "image": "assets/cards/nov13-sheep-roper.jpg",
+    "title": "Ohio Ends a 45-Day Sheep Chase With One Teen and a Horse",
+    "facts": "UPI reported on November 13 that an American Blackbelly sheep loose around Wadsworth for 45 days was finally caught by 13-year-old Reagan Crumpler riding her horse Catalena. The search grew into a community effort involving Whispering Acres Farm Animal Sanctuary, residents, police, volunteers, social-media sightings and drone operators. After hours of pursuit and near misses in a field beside U.S. Route 224, Crumpler got a rope around the sheep and brought the long-running search to a safe end.",
+    "why": "The rescue mattered because the animal had crossed roads, remained difficult to approach and was thin enough to need a gradual refeeding plan and veterinary check. The sanctuary placed the sheep—named Gerri Reagan after her rescuer—on a stray hold and said she would have a permanent home there if no documented owner came forward. Published accounts disagree on whether Crumpler was 13 or 14, so Blappos uses the verified description 'teen rider' outside this attribution to UPI rather than laundering a small source conflict into certainty.",
+    "angle": "The November 13 report, 45-day timeline, community search, rescue and age-reporting caveat end above. The Blappos interpretation: Wadsworth deployed social media, drones, police and snacks before Ohio remembered it had a teenager with a rope. The rider, horse, sheep, barn and volunteers are disclosed original AI-generated editorial illustration—not Crumpler's likeness, a copied rescue image, an instruction to chase livestock or a claim that roping is appropriate without experienced handlers.",
+    "amazonLinks": [
+      {"title":"Storey's Guide to Raising Sheep, 5th Edition","image":"https://m.media-amazon.com/images/P/1612129803.01.LZZZZZZZ.jpg","alt":"Cover of Storey's Guide to Raising Sheep, 5th Edition","quip":"A comprehensive care guide for the refeeding, housing and long-term husbandry that begin after the lasso comes off.","salesPriority":5,"url":"https://www.amazon.com/dp/1612129803?tag=blappos-20"},
+      {"title":"The Sheep Book: A Handbook for the Modern Shepherd","image":"https://m.media-amazon.com/images/P/0804010323.01.LZZZZZZZ.jpg","alt":"Cover of The Sheep Book by Ronald B. Parker","quip":"A year-in-the-life shepherding reference for one Wadsworth sheep whose calendar included a 45-day detour.","salesPriority":5,"url":"https://www.amazon.com/dp/0804010323?tag=blappos-20"},
+      {"title":"Ranch Roping With Buck Brannaman","image":"https://m.media-amazon.com/images/P/0911647546.01.LZZZZZZZ.jpg","alt":"Cover of Ranch Roping With Buck Brannaman","quip":"A humane rope-handling guide for understanding the trained skill behind the community's last successful rescue plan.","salesPriority":4,"url":"https://www.amazon.com/dp/0911647546?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/13/sheep-wadsworth-ohio-lassoed/6691794592131/",
+    "sourceName": "Read UPI's November 13 report and News 5 Cleveland's local follow-up",
+    "sourcePublisher": "UPI / News 5 Cleveland",
+    "socialSummary": "After 45 days loose near Wadsworth, an American Blackbelly sheep was safely roped by teen rider Reagan Crumpler on her horse Catalena after a community search.",
+    "socialPunchline": "Blappos: Forty-five days, one horse, one rope, zero surrender paperwork."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov13StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov13StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 13 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 13 affiliate-card QA passed: every staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.

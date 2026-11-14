@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov13-inflated-alligator': 'nov13-inflated-alligator',
+    'nov13-abydos-retainers': 'nov13-abydos-retainers',
+    'nov13-sheep-roper': 'nov13-sheep-roper',
     'nov9-giant-ficrons': 'nov9-giant-ficrons',
     'nov9-cat-face-filter': 'nov9-cat-face-filter',
     'nov9-move-the-bean': 'nov9-move-the-bean',
@@ -223,6 +226,9 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov13-inflated-alligator': ['oct21-crocs-warm-climates', 'oct8-water-mammal'],
+  'nov13-abydos-retainers': ['nov5-tomb-drug-test', 'nov3-bronze-age-urolith'],
+  'nov13-sheep-roper': ['oct25-madrid-sheep-detour', 'sep21-cow-airlift'],
   'nov6-swift-farewell': ['oct13-perseverance-distance-record', 'sep28-starship-orbit', 'nov3-betelgeuse-plus-one'],
   'nov6-blueberry-larva': ['nov1-knee-oil-beetle', 'oct27-earwax-barrier', 'sep20-turf-heat'],
   'nov6-oxoboranes': ['oct7-mirror-molecules', 'nov4-roman-glass', 'oct27-earwax-barrier'],
@@ -376,7 +382,7 @@ fs.writeFileSync(indexPath, homepage);
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-11-11' },
+  { loc: `${origin}/verification/`, lastmod: '2026-11-14' },
   { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
