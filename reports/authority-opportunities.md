@@ -281,3 +281,22 @@ This log records narrow, legitimate opportunities for the exact public-reference
 - Route: https://www.juliensauctions.com/en/auctions/the-ultimate-batmobile-auction
 - Asset match: https://blappos.com/verification/#oct31-seven-million-night-drive
 - Honest angle: A transparent estimate-versus-hammer-price reference that links the official catalog, attributes technical details and makes clear that the Blappos artwork is an original generic editorial illustration, not a lot image.
+## 2026-11-15 — November 14 identification-ladder opportunities
+
+### Potter League for Animals
+- Target: Communications and animal-care team handling the two Aquidneck Island iguanas
+- Route: https://potterleague.org/contact-us/
+- Asset match: https://blappos.com/verification/#nov14-aquidneck-iguanas
+- Honest angle: A public coincidence-versus-connection explainer that preserves the separate discovery locations, shelter hold and unknown ownership without inventing a shared escape. A correction or resource-share opportunity only if Potter League considers the summary useful and accurate.
+
+### University of Florida fungal-chemistry research team
+- Target: Matthew E. Smith and the Galerina indica preprint authors
+- Route: https://plantpath.ifas.ufl.edu/people/faculty-pages/matthew-smith/
+- Asset match: https://blappos.com/verification/#nov14-dark-magic-mushroom
+- Honest angle: A plain-language chemistry-to-safety digest that distinguishes detected compounds, horizontal-gene-transfer inference, preprint status and unmeasured human toxicity while warning against visual wild-mushroom identification.
+
+### Vera C. Rubin Observatory education and public outreach
+- Target: Rubin Observatory communications / Solar System discovery team
+- Route: https://rubinobservatory.org/contact
+- Asset match: https://blappos.com/verification/#nov14-ed138
+- Honest angle: A candidate-status explainer that links the discovery paper, preserves the reflectivity-dependent size range and explains why a crowded Galactic background delayed discovery without calling ED138 an official dwarf planet.

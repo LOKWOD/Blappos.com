@@ -5364,3 +5364,79 @@ window.dailyStories = window.dailyStories.filter(story => !nov13StagingStories.s
 window.dailyStories.unshift(...nov13StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 13 purchase gate passed: Printify published all three exact $9.99 story magnets and wrote their matching storefront URLs back to the repository.
 // November 13 affiliate-card QA passed: every staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+// November 14 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov14StagingStories = [
+  {
+    "id": "nov14-aquidneck-iguanas",
+    "isoDate": "2026-11-14",
+    "month": "November",
+    "date": "Nov 14, 2026",
+    "place": "Aquidneck Island, Rhode Island",
+    "image": "assets/cards/nov14-aquidneck-iguanas.jpg",
+    "title": "Rhode Island Finds Two Iguanas and Misplaces the Explanation",
+    "facts": "The Potter League for Animals reported on November 14 that two large iguanas were found within two days at separate locations on Aquidneck Island. One, more than three feet long, had been lingering in Portsmouth and reportedly climbed onto a resident's front porch. A second, smaller iguana was found miles away in Newport—inside a flower pot. Both were safe at the shelter, which opened a five-day stray hold while asking possible owners to come forward.",
+    "why": "The coincidence is real; the connection is not established. Potter League staff did not know whether the reptiles had ever been together, how long they had been outside or where they came from. That distinction matters because two similar animals arriving together can tempt a tidy escaped-pair narrative that the evidence does not support. The practical outcome is simpler: identifiable owners get a short reclaim window, and otherwise the shelter can arrange appropriate care rather than leaving large exotic pets exposed outdoors.",
+    "angle": "The November 14 report, two-day timeline, separate locations, shelter status and unknown connection end above. The Blappos interpretation: Aquidneck Island found two iguanas and misplaced the entire explanation. The porch, harbor, flower pot and reptiles are disclosed original AI-generated editorial illustration—not the rescued animals, a copied shelter photograph or proof that the cases are connected.",
+    "amazonLinks": [
+      {"title":"Green Iguana: The Ultimate Owner's Manual","image":"https://m.media-amazon.com/images/P/1883463483.01.LZZZZZZZ.jpg","alt":"Cover of Green Iguana: The Ultimate Owner's Manual by James W. Hatfield III","quip":"A detailed husbandry reference for understanding why a three-foot porch visitor is not an improvised outdoor pet.","salesPriority":5,"url":"https://www.amazon.com/dp/1883463483?tag=blappos-20"},
+      {"title":"Iguanas For Dummies","image":"https://m.media-amazon.com/images/P/0764552600.01.LZZZZZZZ.jpg","alt":"Cover of Iguanas For Dummies by Melissa Kaplan","quip":"A practical care guide for the owner Potter League hopes will recognize one of Aquidneck Island's unexpected arrivals.","salesPriority":5,"url":"https://www.amazon.com/dp/0764552600?tag=blappos-20"},
+      {"title":"Mader's Reptile and Amphibian Medicine and Surgery, 3rd Edition","image":"https://m.media-amazon.com/images/P/0323482538.01.LZZZZZZZ.jpg","alt":"Cover of Mader's Reptile and Amphibian Medicine and Surgery, 3rd Edition","quip":"The clinical reptile reference behind the veterinary care large recovered iguanas may require after an unknown time outdoors.","salesPriority":4,"url":"https://www.amazon.com/dp/0323482538?tag=blappos-20"}
+    ],
+    "source": "https://potterleague.org/media/press/",
+    "sourceName": "Read Potter League for Animals' November 14 report",
+    "sourcePublisher": "Potter League for Animals",
+    "socialSummary": "Aquidneck Island found two iguanas miles apart—porch and flower pot; no link is established.",
+    "socialPunchline": "Blappos: Two iguanas. Zero explanations."
+  },
+  {
+    "id": "nov14-dark-magic-mushroom",
+    "isoDate": "2026-11-14",
+    "month": "November",
+    "date": "Nov 14, 2026",
+    "place": "Florida Wetlands",
+    "image": "assets/cards/nov14-dark-magic-mushroom.jpg",
+    "title": "Florida Mushroom Invents the Worst Possible Combo Pack",
+    "facts": "A November 14 report highlighted a July 22 bioRxiv preprint on Galerina indica specimens collected from moss-covered palm trunks in Florida wetlands. Repeated mass-spectrometry analysis detected psilocybin and psilocin along with two amatoxin compounds, including a newly characterized compound the researchers call alpha-proamanitin. Genome sequencing found the corresponding biosynthetic genes; the authors' evolutionary analysis supports at least two independent acquisitions of psilocybin biosynthesis within Galerina.",
+    "why": "The result overturns a useful-looking shortcut: blue bruising associated with psilocin chemistry does not guarantee that an unfamiliar wild mushroom lacks amatoxins. The paper is a preprint, not peer-reviewed, and it did not establish a human dose, a clinical poisoning history or the field safety of any specimen. It also did not detect alpha-amanitin itself. The defensible public-health conclusion is not to rank the mushroom's effects—it is never to eat an unidentified wild mushroom based on color, bruising or an online photo.",
+    "angle": "The November 14 coverage, July 22 preprint, chemical detections, genomic inference and safety limits end above. The Blappos interpretation: Florida built a mushroom with psychedelic and poisonous settings, then deleted the selector switch. The wetland, specimen table, formulas and mushroom are disclosed original AI-generated editorial illustration—not a field-identification image, proof of clinical toxicity or an invitation to consume wild fungi.",
+    "amazonLinks": [
+      {"title":"Mushrooms Demystified","image":"https://m.media-amazon.com/images/P/0898151694.01.LZZZZZZZ.jpg","alt":"Cover of Mushrooms Demystified by David Arora","quip":"A comprehensive identification reference for readers who understand that one dramatic blue edge is not a safety test.","salesPriority":5,"url":"https://www.amazon.com/dp/0898151694?tag=blappos-20"},
+      {"title":"National Audubon Society Mushrooms of North America","image":"https://m.media-amazon.com/images/P/0593319982.01.LZZZZZZZ.jpg","alt":"Cover of National Audubon Society Mushrooms of North America","quip":"A modern photographic field guide for placing one chemically surprising Galerina inside a much larger fungal world.","salesPriority":5,"url":"https://www.amazon.com/dp/0593319982?tag=blappos-20"},
+      {"title":"Handbook of Mushroom Poisoning: Diagnosis and Treatment","image":"https://m.media-amazon.com/images/P/0849301947.01.LZZZZZZZ.jpg","alt":"Cover of Handbook of Mushroom Poisoning: Diagnosis and Treatment","quip":"A clinical toxicology reference for the amatoxin side of a mushroom that refuses to stay in one chemical lane.","salesPriority":4,"url":"https://www.amazon.com/dp/0849301947?tag=blappos-20"}
+    ],
+    "source": "https://nypost.com/2026/11/14/health/dark-magic-mushrooms-found-to-have-remarkable-double-effect/",
+    "sourceName": "Read the November 14 report and the open bioRxiv preprint",
+    "sourcePublisher": "New York Post",
+    "socialSummary": "Florida Galerina indica specimens held psilocybin-related compounds and amatoxins; it is a preprint.",
+    "socialPunchline": "Blappos: Psychedelic. Poisonous. Pick a lane."
+  },
+  {
+    "id": "nov14-ed138",
+    "isoDate": "2026-11-14",
+    "month": "November",
+    "date": "Nov 14, 2026",
+    "place": "Beyond Pluto",
+    "image": "assets/cards/nov14-ed138.jpg",
+    "title": "The Solar System Finds a Dwarf-Planet Candidate in Its Junk Drawer",
+    "facts": "A ScienceDaily digest published November 14 highlighted 2026 ED138, a large trans-Neptunian object discovered in early Vera C. Rubin Observatory data. The discovery paper places it about 46 astronomical units from the Sun and estimates a diameter of roughly 612 to 1,530 kilometers depending on how reflective its surface is. Rubin recorded it 30 times during 2026, and archival Dark Energy Camera images extend the observed orbit back to 2016.",
+    "why": "ED138 is a strong dwarf-planet candidate, not a sixth officially recognized dwarf planet. Brightness and assumed reflectivity give a wide size range, while follow-up observations are still needed to measure its dimensions, shape and surface. Its late discovery is scientifically useful: the object sits near the crowded Milky Way plane, where earlier searches struggled to separate faint motion from dense background stars. Rubin's repeated wide-field imaging could reveal more large objects in similarly neglected sky regions.",
+    "angle": "The November 14 digest, discovery paper, distance, size range, archival recovery and candidate-status boundary end above. The Blappos interpretation: the solar system found a possible world after filing it under background noise for a decade. The icy body, plates, astronomer and observatory are disclosed original AI-generated editorial illustration—not a direct resolved image of ED138, a copied Rubin graphic or confirmation of dwarf-planet status.",
+    "amazonLinks": [
+      {"title":"The Pluto Files: The Rise and Fall of America's Favorite Planet","image":"https://m.media-amazon.com/images/P/0393350363.01.LZZZZZZZ.jpg","alt":"Cover of The Pluto Files by Neil deGrasse Tyson","quip":"The classification history behind why a large round-looking object beyond Pluto still has to earn the word planet.","salesPriority":5,"url":"https://www.amazon.com/dp/0393350363?tag=blappos-20"},
+      {"title":"Pluto & the Dwarf Planets","image":"https://m.media-amazon.com/images/P/1626179778.01.LZZZZZZZ.jpg","alt":"Cover of Pluto & the Dwarf Planets by Nathan Sommer","quip":"A direct introduction to the small official family ED138 may eventually join after follow-up observations.","salesPriority":5,"url":"https://www.amazon.com/dp/1626179778?tag=blappos-20"},
+      {"title":"The Kuiper Belt","image":"https://m.media-amazon.com/images/P/159928927X.01.LZZZZZZZ.jpg","alt":"Cover of The Kuiper Belt by Fran Howard","quip":"A guide to the icy outer-solar-system neighborhood where ED138 spent years hiding against a crowded star field.","salesPriority":4,"url":"https://www.amazon.com/dp/159928927X?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+    "sourceName": "Read ScienceDaily's November 14 digest and the Rubin discovery paper",
+    "sourcePublisher": "ScienceDaily / Rubin Observatory",
+    "socialSummary": "2026 ED138 is a large object beyond Pluto—still a dwarf-planet candidate, not a confirmed planet.",
+    "socialPunchline": "Blappos: Filed under background noise."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov14StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov14StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 14 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 14 affiliate-card QA passed: every staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.

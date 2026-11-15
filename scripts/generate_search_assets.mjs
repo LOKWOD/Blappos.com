@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov14-aquidneck-iguanas': 'nov14-aquidneck-iguanas',
+    'nov14-dark-magic-mushroom': 'nov14-dark-magic-mushroom',
+    'nov14-ed138': 'nov14-ed138',
     'nov13-inflated-alligator': 'nov13-inflated-alligator',
     'nov13-abydos-retainers': 'nov13-abydos-retainers',
     'nov13-sheep-roper': 'nov13-sheep-roper',
@@ -226,6 +229,9 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov14-aquidneck-iguanas': ['nov13-inflated-alligator', 'oct22-chameleon-tree-rescue'],
+  'nov14-dark-magic-mushroom': ['nov12-mushroom-boat', 'nov5-tomb-drug-test'],
+  'nov14-ed138': ['oct21-space-object', 'nov6-swift-farewell'],
   'nov13-inflated-alligator': ['oct21-crocs-warm-climates', 'oct8-water-mammal'],
   'nov13-abydos-retainers': ['nov5-tomb-drug-test', 'nov3-bronze-age-urolith'],
   'nov13-sheep-roper': ['oct25-madrid-sheep-detour', 'sep21-cow-airlift'],
@@ -382,7 +388,7 @@ fs.writeFileSync(indexPath, homepage);
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-11-14' },
+  { loc: `${origin}/verification/`, lastmod: '2026-11-15' },
   { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
