@@ -5493,7 +5493,7 @@ const nov15StagingStories = [
     "date": "Nov 15, 2026",
     "place": "Clarion-Clipperton Zone, Pacific Ocean",
     "image": "assets/cards/nov15-metal-potatoes.jpg",
-    "title": "The Deep Sea's Metal Potatoes Come Preloaded With Tenants",
+    "title": "The Deep Sea's Metal Potatoes Come Preloaded With Tenants","magnetUrl":"https://blappos.printify.me/product/34526400","magnetPrice":"$9.99",
     "facts": "ScienceAlert reported on November 15 that researchers opened and examined 244 polymetallic nodules from the abyssal Clarion-Clipperton Zone. The team counted 4,139 animals smaller than one millimeter living in pores and cavities—about 17 per nodule on average, with as many as 245 in one. The nodule community differed from nearby sediment communities and remained similar across sites separated by up to 1,000 kilometers.",
     "why": "The nodules grow only millimeters over a million years and provide hard, internally complex habitat on an otherwise muddy seafloor. Removing them for deep-sea mining would therefore remove a habitat that cannot be replaced on human timescales. The study does not prove that every nodule holds 245 animals, that every species is unique to nodules or that a particular extinction will follow; it identifies a distinct community and a serious conservation risk that needs more study.",
     "angle": "The survey, limits and mining implication end above. The Blappos interpretation: the Pacific's metal potatoes arrived preloaded with 245 tenants, zero leases and a landlord that grows one millimeter per geological billing cycle. The magnet uses an invented cutaway, animals and ROV—not a specimen photograph, mining endorsement or claim that the microscopic animals glow.",
