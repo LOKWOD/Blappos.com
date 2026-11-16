@@ -5461,7 +5461,7 @@ const nov15StagingStories = [
     "source": "https://hoodline.com/2026/11/spider-monkey-found-loose-near-albert-lea-reunited-with-owner/",
     "sourceName": "Read Hoodline's November 15 report and the Albert Lea Police account",
     "sourcePublisher": "Hoodline / Albert Lea Police",
-    "socialSummary": "Albert Lea police found McNugget, a loose spider monkey, in the cold, warmed her in a squad car and reunited her with her owner.",
+    "socialSummary": "Albert Lea police warmed and returned loose spider monkey McNugget.",
     "socialPunchline": "Blappos: Minnesota's coldest traffic stop came with a prehensile tail."
   },
   {
@@ -5483,7 +5483,7 @@ const nov15StagingStories = [
     "source": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
     "sourceName": "Read ScienceDaily's November 15 digest and the ACS materials paper",
     "sourcePublisher": "ScienceDaily / Penn Engineering",
-    "socialSummary": "Penn engineers stacked thin Mylar films into flexible vacuum insulation that survived high compression; lunar use remains unproven.",
+    "socialSummary": "Penn engineers made low-conductivity insulation from stacked Mylar; lunar use is unproven.",
     "socialPunchline": "Blappos: Emergency blanket. Permanent address."
   },
   {
@@ -5505,7 +5505,7 @@ const nov15StagingStories = [
     "source": "https://www.sciencealert.com/strange-metal-potatoes-contain-a-microcosm-of-life-not-seen-anywhere-else-on-the-seafloor-scientists-find",
     "sourceName": "Read ScienceAlert's November 15 report and the NIOZ research release",
     "sourcePublisher": "ScienceAlert / NIOZ",
-    "socialSummary": "Researchers opened 244 polymetallic nodules and found 4,139 tiny animals; one nodule held 245.",
+    "socialSummary": "A study found 4,139 tiny animals in 244 deep-sea nodules; one nodule held 245.",
     "socialPunchline": "Blappos: The metal potatoes came with 245 tenants and zero leases."
   }
 ];
