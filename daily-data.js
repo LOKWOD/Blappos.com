@@ -5440,3 +5440,77 @@ window.dailyStories = window.dailyStories.filter(story => !nov14StagingStories.s
 window.dailyStories.unshift(...nov14StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 14 purchase gate passed: Printify published all three exact $9.99 story magnets and wrote their matching storefront URLs back to the repository.
 // November 14 affiliate-card QA passed: every staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov15StagingStories = [
+  {
+    "id": "nov15-mcnugget-monkey",
+    "isoDate": "2026-11-15",
+    "month": "November 2026",
+    "date": "Nov 15, 2026",
+    "place": "Albert Lea, Minnesota",
+    "image": "assets/cards/nov15-mcnugget-monkey.jpg",
+    "title": "Minnesota Gives a Spider Monkey a Heated Squad-Car Upgrade",
+    "facts": "Hoodline reported on November 15 that Albert Lea police found a brown spider monkey named McNugget loose in cold weather. The department's public account says officers placed the friendly animal in a squad car to warm up and reunited her with her owner. A local report described McNugget as diaper-wearing, said she had been traveling with her truck-driver owner and reported no injuries.",
+    "why": "A warm vehicle and a quick reunion were a good immediate outcome, but the available reporting does not establish how McNugget got loose, how long she was outside or whether any legal exception applied to her ownership. The police department's line that she asked for a lawyer and a banana was plainly a joke, not evidence about animal communication. That boundary matters whenever an agency's comic social copy becomes the internet's factual record.",
+    "angle": "Verified reporting and the unknowns end above. The Blappos interpretation: Minnesota's coldest traffic stop came with a heated seat, a prehensile tail and no citation that could be signed with a thumbprint. The magnet uses an invented monkey, vehicle and winter landscape—not a copied police image, department insignia, owner likeness or claim of wrongdoing.",
+    "amazonLinks": [
+      {"title":"Spider Monkeys: Behavior, Ecology and Evolution of the Genus Ateles","image":"https://m.media-amazon.com/images/P/0521867509.01.LZZZZZZZ.jpg","alt":"Cover of Spider Monkeys edited by Christina J. Campbell","quip":"A specialist reference for replacing one roadside surprise with the ecology and behavior of the entire genus.","salesPriority":5,"url":"https://www.amazon.com/dp/0521867509?tag=blappos-20"},
+      {"title":"Primates of the World: An Illustrated Guide","image":"https://m.media-amazon.com/images/P/0691156956.01.LZZZZZZZ.jpg","alt":"Cover of Primates of the World by Jean-Jacques Petter and Francois Desbordes","quip":"An illustrated global guide for placing McNugget's prehensile tail inside a much larger primate family tree.","salesPriority":5,"url":"https://www.amazon.com/dp/0691156956?tag=blappos-20"},
+      {"title":"National Geographic Readers: Monkeys","image":"https://m.media-amazon.com/images/P/1426311060.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Readers Monkeys by Anne Schreiber","quip":"A younger-reader introduction to monkey biology for the household that has already heard the squad-car version.","salesPriority":4,"url":"https://www.amazon.com/dp/1426311060?tag=blappos-20"}
+    ],
+    "source": "https://hoodline.com/2026/11/spider-monkey-found-loose-near-albert-lea-reunited-with-owner/",
+    "sourceName": "Read Hoodline's November 15 report and the Albert Lea Police account",
+    "sourcePublisher": "Hoodline / Albert Lea Police",
+    "socialSummary": "Albert Lea police found McNugget, a loose spider monkey, in the cold, warmed her in a squad car and reunited her with her owner.",
+    "socialPunchline": "Blappos: Minnesota's coldest traffic stop came with a prehensile tail."
+  },
+  {
+    "id": "nov15-mylar-moon",
+    "isoDate": "2026-11-15",
+    "month": "November 2026",
+    "date": "Nov 15, 2026",
+    "place": "Vacuum Lab to Lunar Base",
+    "image": "assets/cards/nov15-mylar-moon.jpg",
+    "title": "The Moon Base Finds Its Insulation in an Emergency Blanket",
+    "facts": "ScienceDaily's November 15 digest describes a Penn Engineering study that compressed hundreds of thin BoPET—commonly known as Mylar—films into dense, flexible vacuum-insulation stacks. Some films carried an alumina coating. In laboratory vacuum tests the best stack reached thermal conductivity as low as 2.2 milliwatts per meter-kelvin at 0.1 megapascal while samples tolerated compressive stresses above 20 megapascals.",
+    "why": "Conventional multilayer insulation works well in vacuum but is too fragile to serve as a load-bearing wall. These denser stacks suggest one material could combine very low heat transfer with substantial compression resistance, which is why the researchers discuss lunar habitats. The important limit is scale: the published work is a small laboratory model assembled by hand, not a meter-wide manufacturing process or flight-qualified Moon-base panel.",
+    "angle": "The measurements, proposed application and lab-scale limit end above. The Blappos interpretation: humanity spent decades designing a Moon base and finally promoted the emergency blanket from glove compartment to permanent address. The magnet is an original retro-futurist concept illustration—no NASA mark, real mission hardware, copied figure or claim that the material is already deployed.",
+    "amazonLinks": [
+      {"title":"Primacare Emergency Mylar Thermal Blankets, 10 Pack","image":"https://m.media-amazon.com/images/P/B00DZ1NFSK.01.LZZZZZZZ.jpg","alt":"Primacare emergency Mylar thermal blanket pack","quip":"The familiar thin-film cousin of the research stacks, useful on Earth and not a substitute for a lunar wall.","salesPriority":5,"url":"https://www.amazon.com/dp/B00DZ1NFSK?tag=blappos-20"},
+      {"title":"Lunar Sourcebook: A User's Guide to the Moon","image":"https://m.media-amazon.com/images/P/0521334446.01.LZZZZZZZ.jpg","alt":"Cover of Lunar Sourcebook A User's Guide to the Moon","quip":"A heavyweight reference for the environment that makes hundreds of lightweight film layers sound practical.","salesPriority":5,"url":"https://www.amazon.com/dp/0521334446?tag=blappos-20"},
+      {"title":"The Value of the Moon","image":"https://m.media-amazon.com/images/P/1588345033.01.LZZZZZZZ.jpg","alt":"Cover of The Value of the Moon by Paul D. Spudis","quip":"A case for sustained lunar activity while engineers work out what the permanent address should actually be made from.","salesPriority":4,"url":"https://www.amazon.com/dp/1588345033?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
+    "sourceName": "Read ScienceDaily's November 15 digest and the ACS materials paper",
+    "sourcePublisher": "ScienceDaily / Penn Engineering",
+    "socialSummary": "Penn engineers stacked thin Mylar films into flexible vacuum insulation that survived high compression; lunar use remains unproven.",
+    "socialPunchline": "Blappos: Emergency blanket. Permanent address."
+  },
+  {
+    "id": "nov15-metal-potatoes",
+    "isoDate": "2026-11-15",
+    "month": "November 2026",
+    "date": "Nov 15, 2026",
+    "place": "Clarion-Clipperton Zone, Pacific Ocean",
+    "image": "assets/cards/nov15-metal-potatoes.jpg",
+    "title": "The Deep Sea's Metal Potatoes Come Preloaded With Tenants",
+    "facts": "ScienceAlert reported on November 15 that researchers opened and examined 244 polymetallic nodules from the abyssal Clarion-Clipperton Zone. The team counted 4,139 animals smaller than one millimeter living in pores and cavities—about 17 per nodule on average, with as many as 245 in one. The nodule community differed from nearby sediment communities and remained similar across sites separated by up to 1,000 kilometers.",
+    "why": "The nodules grow only millimeters over a million years and provide hard, internally complex habitat on an otherwise muddy seafloor. Removing them for deep-sea mining would therefore remove a habitat that cannot be replaced on human timescales. The study does not prove that every nodule holds 245 animals, that every species is unique to nodules or that a particular extinction will follow; it identifies a distinct community and a serious conservation risk that needs more study.",
+    "angle": "The survey, limits and mining implication end above. The Blappos interpretation: the Pacific's metal potatoes arrived preloaded with 245 tenants, zero leases and a landlord that grows one millimeter per geological billing cycle. The magnet uses an invented cutaway, animals and ROV—not a specimen photograph, mining endorsement or claim that the microscopic animals glow.",
+    "amazonLinks": [
+      {"title":"Deep-Sea Mining: Resource Potential, Technical and Environmental Considerations","image":"https://m.media-amazon.com/images/P/3319525565.01.LZZZZZZZ.jpg","alt":"Cover of Deep-Sea Mining Resource Potential Technical and Environmental Considerations","quip":"The technical and environmental context behind the question of whether metal-rich habitat should become ore.","salesPriority":5,"url":"https://www.amazon.com/dp/3319525565?tag=blappos-20"},
+      {"title":"The Brilliant Abyss","image":"https://m.media-amazon.com/images/P/0802158226.01.LZZZZZZZ.jpg","alt":"Cover of The Brilliant Abyss by Helen Scales","quip":"A deep-ocean tour for understanding why a lumpy black rock can be both mineral deposit and apartment block.","salesPriority":5,"url":"https://www.amazon.com/dp/0802158226?tag=blappos-20"},
+      {"title":"National Geographic Ocean: A Global Odyssey","image":"https://m.media-amazon.com/images/P/1426221924.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Ocean A Global Odyssey","quip":"A broad visual reference for the enormous ocean surrounding this very small and very crowded discovery.","salesPriority":4,"url":"https://www.amazon.com/dp/1426221924?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencealert.com/strange-metal-potatoes-contain-a-microcosm-of-life-not-seen-anywhere-else-on-the-seafloor-scientists-find",
+    "sourceName": "Read ScienceAlert's November 15 report and the NIOZ research release",
+    "sourcePublisher": "ScienceAlert / NIOZ",
+    "socialSummary": "Researchers opened 244 polymetallic nodules and found 4,139 tiny animals; one nodule held 245.",
+    "socialPunchline": "Blappos: The metal potatoes came with 245 tenants and zero leases."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov15StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov15StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 15 publication gate: these stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
+// November 15 affiliate-card QA: each staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.

@@ -300,3 +300,23 @@ This log records narrow, legitimate opportunities for the exact public-reference
 - Route: https://rubinobservatory.org/contact
 - Asset match: https://blappos.com/verification/#nov14-ed138
 - Honest angle: A candidate-status explainer that links the discovery paper, preserves the reflectivity-dependent size range and explains why a crowded Galactic background delayed discovery without calling ED138 an official dwarf planet.
+
+## 2026-11-16 — November 15 evidence-ladder opportunities
+
+### City of Albert Lea / Albert Lea Police Department
+- Target: Communications staff responsible for the McNugget public incident post
+- Route: https://www.cityofalbertlea.org/social-media-feeds/
+- Asset match: https://blappos.com/verification/#nov15-mcnugget-monkey
+- Honest angle: A source-backed rescue summary that credits the department, separates the lawyer-and-banana joke from the incident facts and avoids unsupported claims about ownership law, negligence or escape duration. A correction or resource-share opportunity only if the city considers the summary accurate.
+
+### Penn Engineering / Bargatin Group
+- Target: Igor Bargatin and the layered thermal-insulator research team
+- Route: https://pubs.acs.org/doi/10.1021/acsami.6c09126
+- Asset match: https://blappos.com/verification/#nov15-mylar-moon
+- Honest angle: A plain-language prototype-versus-deployment explainer that preserves the measured conductivity and compression result while explicitly refusing to call a hand-assembled laboratory stack a flight-qualified lunar habitat panel.
+
+### NIOZ Ocean Systems / nodule meiofauna research team
+- Target: Coral Diaz-Recio Lorenzo, Sabine Gollner and the NIOZ communications team
+- Route: https://www.nioz.nl/en/news-and-blogs/news/tiny-marine-animals-found-living-inside-deep-sea-polymetallic-nodules
+- Asset match: https://blappos.com/verification/#nov15-metal-potatoes
+- Honest angle: A public maximum-versus-average reference that keeps 245 in its one-nodule context, links the primary paper and explains the habitat-removal concern without claiming that every animal is endemic or predicting a specific extinction.

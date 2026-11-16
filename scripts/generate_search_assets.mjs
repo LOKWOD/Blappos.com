@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov15-mcnugget-monkey': 'nov15-mcnugget-monkey',
+    'nov15-mylar-moon': 'nov15-mylar-moon',
+    'nov15-metal-potatoes': 'nov15-metal-potatoes',
     'nov14-aquidneck-iguanas': 'nov14-aquidneck-iguanas',
     'nov14-dark-magic-mushroom': 'nov14-dark-magic-mushroom',
     'nov14-ed138': 'nov14-ed138',
@@ -229,6 +232,9 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov15-mcnugget-monkey': ['oct22-chameleon-tree-rescue', 'oct20-ohare-green-bird', 'nov13-sheep-roper'],
+  'nov15-mylar-moon': ['oct21-space-object', 'nov14-ed138', 'nov6-oxoboranes'],
+  'nov15-metal-potatoes': ['oct23-lionfish-tasting', 'nov1-reef-villain', 'oct8-water-mammal'],
   'nov14-aquidneck-iguanas': ['nov13-inflated-alligator', 'oct22-chameleon-tree-rescue'],
   'nov14-dark-magic-mushroom': ['nov12-mushroom-boat', 'nov5-tomb-drug-test'],
   'nov14-ed138': ['oct21-space-object', 'nov6-swift-farewell'],
@@ -388,7 +394,7 @@ fs.writeFileSync(indexPath, homepage);
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-11-15' },
+  { loc: `${origin}/verification/`, lastmod: '2026-11-16' },
   { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
