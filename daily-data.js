@@ -5449,7 +5449,7 @@ const nov15StagingStories = [
     "date": "Nov 15, 2026",
     "place": "Albert Lea, Minnesota",
     "image": "assets/cards/nov15-mcnugget-monkey.jpg",
-    "title": "Minnesota Gives a Spider Monkey a Heated Squad-Car Upgrade",
+    "title": "Minnesota Gives a Spider Monkey a Heated Squad-Car Upgrade","magnetUrl":"https://blappos.printify.me/product/34526354","magnetPrice":"$9.99",
     "facts": "Hoodline reported on November 15 that Albert Lea police found a brown spider monkey named McNugget loose in cold weather. The department's public account says officers placed the friendly animal in a squad car to warm up and reunited her with her owner. A local report described McNugget as diaper-wearing, said she had been traveling with her truck-driver owner and reported no injuries.",
     "why": "A warm vehicle and a quick reunion were a good immediate outcome, but the available reporting does not establish how McNugget got loose, how long she was outside or whether any legal exception applied to her ownership. The police department's line that she asked for a lawyer and a banana was plainly a joke, not evidence about animal communication. That boundary matters whenever an agency's comic social copy becomes the internet's factual record.",
     "angle": "Verified reporting and the unknowns end above. The Blappos interpretation: Minnesota's coldest traffic stop came with a heated seat, a prehensile tail and no citation that could be signed with a thumbprint. The magnet uses an invented monkey, vehicle and winter landscape—not a copied police image, department insignia, owner likeness or claim of wrongdoing.",
