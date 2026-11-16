@@ -5471,7 +5471,7 @@ const nov15StagingStories = [
     "date": "Nov 15, 2026",
     "place": "Vacuum Lab to Lunar Base",
     "image": "assets/cards/nov15-mylar-moon.jpg",
-    "title": "The Moon Base Finds Its Insulation in an Emergency Blanket",
+    "title": "The Moon Base Finds Its Insulation in an Emergency Blanket","magnetUrl":"https://blappos.printify.me/product/34526374","magnetPrice":"$9.99",
     "facts": "ScienceDaily's November 15 digest describes a Penn Engineering study that compressed hundreds of thin BoPET—commonly known as Mylar—films into dense, flexible vacuum-insulation stacks. Some films carried an alumina coating. In laboratory vacuum tests the best stack reached thermal conductivity as low as 2.2 milliwatts per meter-kelvin at 0.1 megapascal while samples tolerated compressive stresses above 20 megapascals.",
     "why": "Conventional multilayer insulation works well in vacuum but is too fragile to serve as a load-bearing wall. These denser stacks suggest one material could combine very low heat transfer with substantial compression resistance, which is why the researchers discuss lunar habitats. The important limit is scale: the published work is a small laboratory model assembled by hand, not a meter-wide manufacturing process or flight-qualified Moon-base panel.",
     "angle": "The measurements, proposed application and lab-scale limit end above. The Blappos interpretation: humanity spent decades designing a Moon base and finally promoted the emergency blanket from glove compartment to permanent address. The magnet is an original retro-futurist concept illustration—no NASA mark, real mission hardware, copied figure or claim that the material is already deployed.",
