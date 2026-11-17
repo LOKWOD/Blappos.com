@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-17 — November 16 three-public-records matrix
+
+### Parks Australia / Christmas Island National Park
+- Target: Red-crab migration and public-information team responsible for the official migration guide, road-control advice and 2026 livestream
+- Route: https://christmasislandnationalpark.gov.au/contact-us/
+- Asset match: https://blappos.com/verification/#nov16-red-crab-commute
+- Honest angle: A reusable population-estimate-versus-camera-count explainer that links the park's own migration biology and livestream, credits protective bridges and temporary road controls, and labels every visible crab and route as editorial illustration. A correction or resource-share opportunity only if the park considers the summary accurate and useful.
+
+### Town of Falmouth General Assistance
+- Target: Falmouth municipal staff responsible for General Assistance, heating support and the public record of the unclaimed-safe funds
+- Route: https://www.falmouthme.org/370/Home-Family
+- Asset match: https://blappos.com/verification/#nov16-falmouth-safe-heat
+- Honest angle: A municipal-record example that preserves the exact $55,737 disposition and existing heat-assistance route while refusing to invent the money's origin, a fixed household award or waived eligibility review. The magnet's safe, cash and home are explicitly illustration, not recovered evidence or a recipient.
+
+### University of Texas at Austin Human Locomotion Laboratory
+- Target: Research team responsible for the foot-stiffening-sock study and its public explanation
+- Route: https://sites.utexas.edu/humanlocomotionlab/
+- Asset match: https://blappos.com/verification/#nov16-stiff-socks
+- Honest angle: A small-study literacy digest that keeps the 12-person, five-minute treadmill design, 65% stiffness change, 2% metabolic result, untested populations and related patent disclosure together. No consumer, injury-prevention or medical-device claim is inferred. No outreach has been sent.
+
 ## 2026-11-14 — November 13 three-level certainty matrix
 
 ### Sugar Land Animal Services wildlife education

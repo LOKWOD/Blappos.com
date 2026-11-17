@@ -5514,3 +5514,77 @@ window.dailyStories = window.dailyStories.filter(story => !nov15StagingStories.s
 window.dailyStories.unshift(...nov15StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 15 publication gate: these stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
 // November 15 affiliate-card QA: each staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov16StagingStories = [
+  {
+    "id": "nov16-red-crab-commute",
+    "isoDate": "2026-11-16",
+    "month": "November 2026",
+    "date": "Nov 16, 2026",
+    "place": "Christmas Island, Australia",
+    "image": "assets/cards/nov16-red-crab-commute.jpg",
+    "title": "Christmas Island Opens the World's Busiest Crab Overpass",
+    "facts": "UPI reported on November 16 that millions of Christmas Island red crabs had begun their annual forest-to-coast migration. Parks Australia says the first wet-season rain normally starts the movement, while the moon and tides determine the spawning date; the 2026 migration was carried in daily livestreams, including one from a purpose-built crab bridge. Roads can close temporarily so the animals can cross safely.",
+    "why": "The spectacle is also a life-cycle clock. Adult crabs leave inland burrows, travel toward the sea and time spawning for the receding high tide before dawn during the last-quarter moon. The island is often described as supporting about 100 million red crabs, but that is a broad population estimate—not a count of animals on the November 16 livestream or proof that every crab uses one bridge. The defensible lesson is that simple infrastructure and temporary road controls can protect a mass wildlife movement without turning the animals into a traffic stunt.",
+    "angle": "The November 16 report, official migration biology and counting limit end above. The Blappos interpretation: Christmas Island opened the world's busiest crab overpass for millions of commuters with zero turn signals. The bridge, road, rainforest, coast, moon and crabs are disclosed original AI-generated editorial illustration—not Parks Australia footage, a literal census, a map of one route or a claim that every crab crossed the pictured bridge.",
+    "amazonLinks": [
+      {"title":"Christmas Island Red Crab Migration","image":"https://m.media-amazon.com/images/P/1626178151.01.LZZZZZZZ.jpg","alt":"Cover of Christmas Island Red Crab Migration by Kari Schuetz","quip":"A focused young-reader account of the rain, moon and shoreline journey behind the island's annual red commute.","salesPriority":5,"url":"https://www.amazon.com/dp/1626178151?tag=blappos-20"},
+      {"title":"Crabs: A Global Natural History","image":"https://m.media-amazon.com/images/P/0691201714.01.LZZZZZZZ.jpg","alt":"Cover of Crabs: A Global Natural History by Peter J. F. Davie","quip":"A richly illustrated world tour of crab ecology, anatomy and behavior for putting one famous migration in its wider family.","salesPriority":5,"url":"https://www.amazon.com/dp/0691201714?tag=blappos-20"},
+      {"title":"Crab","image":"https://m.media-amazon.com/images/P/1789143691.01.LZZZZZZZ.jpg","alt":"Cover of Crab by Cynthia Chris","quip":"A compact natural and cultural history for the creature currently operating Christmas Island's largest pedestrian network.","salesPriority":4,"url":"https://www.amazon.com/dp/1789143691?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/16/australia-christmas-island-national-park-crab-migration/4821794854991/",
+    "sourceName": "Read UPI's November 16 report and Parks Australia's migration guidance and livestream",
+    "sourcePublisher": "UPI / Parks Australia",
+    "socialSummary": "Millions of Christmas Island red crabs began their rain-triggered migration to the coast; roads and crab bridges protect the route.",
+    "socialPunchline": "Blappos: Millions of commuters. Zero turn signals."
+  },
+  {
+    "id": "nov16-falmouth-safe-heat",
+    "isoDate": "2026-11-16",
+    "month": "November 2026",
+    "date": "Nov 16, 2026",
+    "place": "Falmouth, Maine",
+    "image": "assets/cards/nov16-falmouth-safe-heat.jpg",
+    "title": "Maine Finds $55,737 in the Woods and Turns It Into Heat",
+    "facts": "A November 16 report said Falmouth, Maine, put $55,737 from an abandoned safe toward local heating assistance. A hiker found the cash-filled safe in woods behind the town's Central Fire Station in August 2022. Police traced the container to a New Hampshire bank, confirmed that it had not been reported stolen and followed the required process for trying to identify an owner; no one established a valid claim. The Town Council then directed the unclaimed money to heating aid.",
+    "why": "The ending is verified; the origin remains a mystery. Reporting says Maine law required the money to serve a charitable purpose once the ownership process was exhausted, and Falmouth already administers assistance for basic needs including heat. That makes the transfer a documented municipal decision—not evidence that investigators solved where the cash came from, that every applicant will receive a fixed amount or that the fund replaces the town's normal eligibility review.",
+    "angle": "The August 2022 discovery, investigation, unclaimed-property outcome and heating-aid decision end above. The Blappos interpretation: the cold case finally paid the heating bill. The safe, abstract cash bundles, autumn woods, fire-station silhouette and warm house are disclosed original AI-generated editorial illustration—not the recovered safe, real currency, a crime-scene reconstruction, a recipient's home or proof of the cash's origin.",
+    "amazonLinks": [
+      {"title":"SentrySafe Fireproof and Waterproof Safe Box with Key Lock","image":"https://m.media-amazon.com/images/P/B00KOO594O.01.LZZZZZZZ.jpg","alt":"SentrySafe portable fireproof and waterproof safe box","quip":"A modern portable document safe for anyone who prefers the woods not become the household records department.","salesPriority":5,"url":"https://www.amazon.com/dp/B00KOO594O?tag=blappos-20"},
+      {"title":"Mr. Heater Portable Buddy Radiant Propane Heater","image":"https://m.media-amazon.com/images/P/B002G51BZU.01.LZZZZZZZ.jpg","alt":"Mr. Heater Portable Buddy radiant propane heater","quip":"Emergency heat hardware whose safe operation still requires the exact fuel, ventilation and clearance rules in the manual.","salesPriority":5,"url":"https://www.amazon.com/dp/B002G51BZU?tag=blappos-20"},
+      {"title":"The Homeowner's Energy Handbook","image":"https://m.media-amazon.com/images/P/1612120164.01.LZZZZZZZ.jpg","alt":"Cover of The Homeowner's Energy Handbook by Paul Scheckel","quip":"A practical efficiency guide for stretching household heat after the mystery-safe money has done its one-time work.","salesPriority":4,"url":"https://www.amazon.com/dp/1612120164?tag=blappos-20"}
+    ],
+    "source": "https://www.wcax.com/2026/11/16/maine-town-uses-mystery-55k-found-woods-help-families-pay-heating-bills/",
+    "sourceName": "Read WGME's November 16 report and the Town of Falmouth's assistance guidance",
+    "sourcePublisher": "WGME / Town of Falmouth",
+    "socialSummary": "Falmouth put $55,737 from an unclaimed safe found in 2022 toward local heating assistance after investigators found no owner.",
+    "socialPunchline": "Blappos: The cold case finally paid the heating bill."
+  },
+  {
+    "id": "nov16-stiff-socks",
+    "isoDate": "2026-11-16",
+    "month": "November 2026",
+    "date": "Nov 16, 2026",
+    "place": "Austin, Texas",
+    "image": "assets/cards/nov16-stiff-socks.jpg",
+    "title": "Texas Knits a Sock That Makes Walking 2% Less Expensive",
+    "facts": "ScienceAlert reported on November 16 that a prototype sock made walking slightly less metabolically costly in a small treadmill study. Twelve healthy young adults completed five-minute walking trials while the custom garment squeezed and stiffened the forefoot. Compared with ordinary socks, the prototype increased longitudinal foot stiffness by about 65% and reduced whole-body metabolic rate by about 2%; the researchers also measured lower calf-muscle fascicle shortening velocities.",
+    "why": "Two percent is a real laboratory result and a very small proof of concept, not a consumer-performance promise. The experiment involved 12 healthy participants, short treadmill trials and a highly specific prototype; it did not test long hikes, running, older adults, disabled users, injury prevention or everyday comfort. The authors report a related patent application, which belongs beside the result. The useful finding is narrower: changing foot stiffness from outside the body may alter walking energetics enough to measure.",
+    "angle": "The November 16 coverage, 12-person sample, five-minute trials, 2% result, untested populations and patent disclosure end above. The Blappos interpretation: Austin knitted walking a coupon. The participant, treadmill, metabolic cart, stiffening bands, foot diagram and skyline are disclosed original AI-generated editorial illustration—not a real participant, copied paper figure, approved medical device, retail product or claim of a 2% benefit outside the study.",
+    "amazonLinks": [
+      {"title":"The Story of the Human Body","image":"https://m.media-amazon.com/images/P/030774180X.01.LZZZZZZZ.jpg","alt":"Cover of The Story of the Human Body by Daniel E. Lieberman","quip":"An evolutionary account of human anatomy for the bigger question beneath one very small walking-efficiency result.","salesPriority":5,"url":"https://www.amazon.com/dp/030774180X?tag=blappos-20"},
+      {"title":"Born to Walk, Second Edition","image":"https://m.media-amazon.com/images/P/1623174430.01.LZZZZZZZ.jpg","alt":"Cover of Born to Walk by James Earls","quip":"A practitioner-focused guide to upright gait mechanics for understanding what a stiffer forefoot changes downstream.","salesPriority":5,"url":"https://www.amazon.com/dp/1623174430?tag=blappos-20"},
+      {"title":"Born to Run","image":"https://m.media-amazon.com/images/P/0307279189.01.LZZZZZZZ.jpg","alt":"Cover of Born to Run by Christopher McDougall","quip":"The popular barefoot-running narrative that made foot mechanics conversational long before the prototype sock arrived.","salesPriority":4,"url":"https://www.amazon.com/dp/0307279189?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencealert.com/scientists-developed-foot-stiffening-socks-that-could-make-walking-less-tiring",
+    "sourceName": "Read ScienceAlert's November 16 report and the open Proceedings of the Royal Society B paper",
+    "sourcePublisher": "ScienceAlert / Proceedings B",
+    "socialSummary": "A 12-person treadmill study found prototype foot-stiffening socks cut walking metabolic rate 2%; real-world benefits remain unproven.",
+    "socialPunchline": "Blappos: Walking is now 2% less expensive."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov16StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov16StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 16 publication gate: these stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
+// November 16 affiliate-card QA: each staged story has exactly three metadata- and image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.

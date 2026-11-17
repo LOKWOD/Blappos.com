@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov16-red-crab-commute': 'nov16-red-crab-commute',
+    'nov16-falmouth-safe-heat': 'nov16-falmouth-safe-heat',
+    'nov16-stiff-socks': 'nov16-stiff-socks',
     'nov15-mcnugget-monkey': 'nov15-mcnugget-monkey',
     'nov15-mylar-moon': 'nov15-mylar-moon',
     'nov15-metal-potatoes': 'nov15-metal-potatoes',
@@ -232,9 +235,12 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov16-red-crab-commute': ['oct23-lionfish-tasting', 'nov15-metal-potatoes', 'nov1-reef-villain'],
+  'nov16-falmouth-safe-heat': ['nov11-sixpence', 'oct8-sewer-ring', 'nov1-monster-placement'],
+  'nov16-stiff-socks': ['oct27-knuckle-handstand', 'oct11-stroller-velocity', 'nov15-mylar-moon'],
   'nov15-mcnugget-monkey': ['oct22-chameleon-tree-rescue', 'oct20-ohare-green-bird', 'nov13-sheep-roper'],
   'nov15-mylar-moon': ['oct21-space-object', 'nov14-ed138', 'nov6-oxoboranes'],
-  'nov15-metal-potatoes': ['oct23-lionfish-tasting', 'nov1-reef-villain', 'oct8-water-mammal'],
+  'nov15-metal-potatoes': ['nov16-red-crab-commute', 'oct23-lionfish-tasting', 'nov1-reef-villain'],
   'nov14-aquidneck-iguanas': ['nov13-inflated-alligator', 'oct22-chameleon-tree-rescue'],
   'nov14-dark-magic-mushroom': ['nov12-mushroom-boat', 'nov5-tomb-drug-test'],
   'nov14-ed138': ['oct21-space-object', 'nov6-swift-farewell'],
@@ -247,14 +253,14 @@ const topicLinks = {
   'nov5-pineapple-labor': ['sep16-pickle-patty', 'oct29-fiambre-record', 'oct16-scrapple-sculpture'],
   'nov5-two-tool-beak': ['oct17-nightjar-mileage', 'oct31-drongo-deception', 'oct14-jurassic-flightless-bird'],
   'nov5-tomb-drug-test': ['nov3-bronze-age-urolith', 'oct15-shanidar-care-and-spear', 'oct18-kikai-regional-settings'],
-  'oct27-knuckle-handstand': ['oct8-five-hour-plank', 'oct11-stroller-velocity'],
+  'oct27-knuckle-handstand': ['nov16-stiff-socks', 'oct8-five-hour-plank', 'oct11-stroller-velocity'],
   'oct8-five-hour-plank': ['oct27-knuckle-handstand'],
   'oct11-stroller-velocity': ['oct27-knuckle-handstand'],
   'oct27-spider-sleep': ['oct24-rolling-snakes', 'sep21-singing-lemurs'],
   'sep21-singing-lemurs': ['oct27-spider-sleep'],
   'oct27-earwax-barrier': ['oct26-prosthetic-sense', 'jun-bacteria', 'oct7-mirror-molecules'],
   'oct26-evidence-detour': ['oct8-sewer-ring', 'sep22-inconvenience-store'],
-  'oct8-sewer-ring': ['oct26-evidence-detour', 'oct21-space-object'],
+  'oct8-sewer-ring': ['nov16-falmouth-safe-heat', 'oct26-evidence-detour', 'oct21-space-object'],
   'sep22-inconvenience-store': ['oct26-evidence-detour'],
   'oct26-prosthetic-sense': ['oct27-earwax-barrier', 'oct24-rolling-snakes', 'oct20-plant-help-desk'],
   'oct24-rolling-snakes': ['oct27-spider-sleep', 'oct26-prosthetic-sense'],
@@ -394,7 +400,7 @@ fs.writeFileSync(indexPath, homepage);
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-11-16' },
+  { loc: `${origin}/verification/`, lastmod: '2026-11-17' },
   { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
