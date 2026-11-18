@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov17-owl-frog-bones': 'nov17-owl-frog-bones',
+    'nov17-ai-python-search': 'nov17-ai-python-search',
+    'nov17-counter-chickens': 'nov17-counter-chickens',
     'nov16-red-crab-commute': 'nov16-red-crab-commute',
     'nov16-falmouth-safe-heat': 'nov16-falmouth-safe-heat',
     'nov16-stiff-socks': 'nov16-stiff-socks',
@@ -235,17 +238,21 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov17-owl-frog-bones': ['nov13-abydos-retainers', 'nov15-metal-potatoes', 'oct23-lionfish-tasting'],
+  'nov17-ai-python-search': ['nov10-ai-lion-escape', 'oct24-ai-breakfast-soda', 'sep19-ai-actress-glitch'],
+  'nov17-counter-chickens': ['oct13-cat-burglar-dog-bowl', 'nov11-horses-bus', 'oct25-madrid-sheep-detour'],
+  'nov10-ai-lion-escape': ['nov17-ai-python-search', 'oct24-ai-breakfast-soda', 'sep19-ai-actress-glitch'],
   'nov16-red-crab-commute': ['oct23-lionfish-tasting', 'nov15-metal-potatoes', 'nov1-reef-villain'],
   'nov16-falmouth-safe-heat': ['nov11-sixpence', 'oct8-sewer-ring', 'nov1-monster-placement'],
   'nov16-stiff-socks': ['oct27-knuckle-handstand', 'oct11-stroller-velocity', 'nov15-mylar-moon'],
   'nov15-mcnugget-monkey': ['oct22-chameleon-tree-rescue', 'oct20-ohare-green-bird', 'nov13-sheep-roper'],
   'nov15-mylar-moon': ['oct21-space-object', 'nov14-ed138', 'nov6-oxoboranes'],
-  'nov15-metal-potatoes': ['nov16-red-crab-commute', 'oct23-lionfish-tasting', 'nov1-reef-villain'],
+  'nov15-metal-potatoes': ['nov17-owl-frog-bones', 'nov16-red-crab-commute', 'oct23-lionfish-tasting'],
   'nov14-aquidneck-iguanas': ['nov13-inflated-alligator', 'oct22-chameleon-tree-rescue'],
   'nov14-dark-magic-mushroom': ['nov12-mushroom-boat', 'nov5-tomb-drug-test'],
   'nov14-ed138': ['oct21-space-object', 'nov6-swift-farewell'],
   'nov13-inflated-alligator': ['oct21-crocs-warm-climates', 'oct8-water-mammal'],
-  'nov13-abydos-retainers': ['nov5-tomb-drug-test', 'nov3-bronze-age-urolith'],
+  'nov13-abydos-retainers': ['nov17-owl-frog-bones', 'nov5-tomb-drug-test', 'nov3-bronze-age-urolith'],
   'nov13-sheep-roper': ['oct25-madrid-sheep-detour', 'sep21-cow-airlift'],
   'nov6-swift-farewell': ['oct13-perseverance-distance-record', 'sep28-starship-orbit', 'nov3-betelgeuse-plus-one'],
   'nov6-blueberry-larva': ['nov1-knee-oil-beetle', 'oct27-earwax-barrier', 'sep20-turf-heat'],
@@ -282,7 +289,7 @@ const topicLinks = {
   'oct12-zeekr-25cm-drift': ['oct20-cowboy-hat-bar'],
   'oct19-cube-robot': ['oct21-696-car-train', 'oct20-cowboy-hat-bar'],
   'oct20-ohare-green-bird': ['oct13-cat-burglar-dog-bowl', 'oct17-nightjar-mileage'],
-  'oct13-cat-burglar-dog-bowl': ['oct20-ohare-green-bird'],
+  'oct13-cat-burglar-dog-bowl': ['nov17-counter-chickens', 'oct20-ohare-green-bird'],
   'oct17-nightjar-mileage': ['oct20-ohare-green-bird']
 };
 function relatedMarkup(story) {
@@ -400,7 +407,7 @@ fs.writeFileSync(indexPath, homepage);
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-11-17' },
+  { loc: `${origin}/verification/`, lastmod: '2026-11-18' },
   { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];

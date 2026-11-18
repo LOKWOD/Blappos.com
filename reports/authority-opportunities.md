@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-18 — November 17 image, assemblage and surveillance matrix
+
+### Bournemouth University / Paul Clarkson research team
+- Target: Authors and communications staff responsible for the Roman Fen-edge amphibian-bone study
+- Route: https://www.bournemouth.ac.uk/news/2026-11-10/ancient-frog-mystery-solved
+- Asset match: https://blappos.com/verification/#nov17-owl-frog-bones
+- Honest angle: A reusable headline-count-versus-assemblage explainer that links the open paper, distinguishes the originally publicized 8,000-plus bones from the paper's 9,135-bone main gully and preserves the predator-community boundary. The illustration is explicitly not excavation documentation or a literal single-owl crime scene.
+
+### AI Snake Oil public-interest research
+- Target: Arvind Narayanan and Sayash Kapoor's public AI-literacy project
+- Route: https://www.aisnakeoil.com/about
+- Asset match: https://blappos.com/verification/#nov17-ai-python-search
+- Honest angle: A five-step synthetic-image incident check built from a documented case where a generated picture consumed real responder time. It credits the local and dated reporting, avoids identifying the child, does not name an unverified model and keeps prudent emergency response separate from the image's falsity.
+
+### Hadley Police Department
+- Target: Department responsible for the public surveillance release and continuing chicken-owner inquiry
+- Route: https://www.hadleyma.org/police-department
+- Asset match: https://blappos.com/verification/#nov17-counter-chickens
+- Honest angle: A camera-evidence-versus-guilt example that preserves the four-bird count, rescue placement and public-identification request while refusing to infer identity, ownership, theft, motive or conviction. No outreach has been sent.
+
 ## 2026-11-17 — November 16 three-public-records matrix
 
 ### Parks Australia / Christmas Island National Park
