@@ -5610,7 +5610,7 @@ const nov17StagingStories = [
     "sourceName": "Read the open Environmental Archaeology paper and Bournemouth University's research digest",
     "sourcePublisher": "Environmental Archaeology / Bournemouth University",
     "socialSummary": "A study traced a Roman-era Cambridgeshire deposit of more than 8,000 frog and toad bones mainly to owl predation, while landscape evidence helped explain the feast.",
-    "socialPunchline": "Blappos: The cold case had 8,000 bones and one very obvious owl problem."
+    "socialPunchline": "Blappos: 8,000 bones. The owls did it."
   },
   {
     "id": "nov17-ai-python-search",
@@ -5632,7 +5632,7 @@ const nov17StagingStories = [
     "sourceName": "Read UPI's November 17 report and Il Resto del Carlino's local follow-up",
     "sourcePublisher": "UPI / Il Resto del Carlino",
     "socialSummary": "An AI-generated toilet-python image shared by a 9-year-old prompted firefighters and forest police in Castelfidardo to spend roughly 48 hours searching for a snake that was not there.",
-    "socialPunchline": "Blappos: Forty-eight hours, zero snakes, one extremely expensive phone picture."
+    "socialPunchline": "Blappos: Forty-eight hours. Zero snakes."
   },
   {
     "id": "nov17-counter-chickens",
@@ -5654,7 +5654,7 @@ const nov17StagingStories = [
     "sourceName": "Read Boston 25's November 17 update based on Hadley Police's surveillance release",
     "sourcePublisher": "Boston 25 News / Hadley Police",
     "socialSummary": "Hadley police released surveillance images after four live chickens were dumped onto a convenience-store counter while another person appeared to record; the birds were uninjured and placed with a rescue.",
-    "socialPunchline": "Blappos: Four chickens, zero receipts, and one overnight register that has seen enough."
+    "socialPunchline": "Blappos: Four chickens. Zero receipts."
   }
 ];
 
