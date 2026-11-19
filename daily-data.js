@@ -5735,4 +5735,4 @@ const nov18StagingStories = [
 window.dailyStories = window.dailyStories.filter(story => !nov18StagingStories.some(item => item.id === story.id));
 window.dailyStories.unshift(...nov18StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 18 publication gate: these stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
-// November 18 affiliate-card QA: each staged story has exactly three metadata- and image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+// November 18 affiliate-card QA: each staged story has exactly three metadata- and image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once; permanent product-linked pages were verified before social release.
