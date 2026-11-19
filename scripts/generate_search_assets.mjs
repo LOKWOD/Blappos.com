@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov18-voyager-light-day': 'nov18-voyager-light-day',
+    'nov18-peanut-baggage': 'nov18-peanut-baggage',
+    'nov18-dog-coyote-pack': 'nov18-dog-coyote-pack',
     'nov17-owl-frog-bones': 'nov17-owl-frog-bones',
     'nov17-ai-python-search': 'nov17-ai-python-search',
     'nov17-counter-chickens': 'nov17-counter-chickens',
@@ -238,6 +241,9 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov18-voyager-light-day': ['nov15-mylar-moon', 'nov12-mars-organic-carbon', 'nov6-swift-farewell'],
+  'nov18-peanut-baggage': ['nov4-flight-path', 'oct23-miami-piano', 'sep18-air-traffic-glitch'],
+  'nov18-dog-coyote-pack': ['oct13-cat-burglar-dog-bowl', 'nov5-two-tool-beak', 'nov16-red-crab-commute'],
   'nov17-owl-frog-bones': ['nov13-abydos-retainers', 'nov15-metal-potatoes', 'oct23-lionfish-tasting'],
   'nov17-ai-python-search': ['nov10-ai-lion-escape', 'oct24-ai-breakfast-soda', 'sep19-ai-actress-glitch'],
   'nov17-counter-chickens': ['oct13-cat-burglar-dog-bowl', 'nov11-horses-bus', 'oct25-madrid-sheep-detour'],
@@ -246,7 +252,7 @@ const topicLinks = {
   'nov16-falmouth-safe-heat': ['nov11-sixpence', 'oct8-sewer-ring', 'nov1-monster-placement'],
   'nov16-stiff-socks': ['oct27-knuckle-handstand', 'oct11-stroller-velocity', 'nov15-mylar-moon'],
   'nov15-mcnugget-monkey': ['oct22-chameleon-tree-rescue', 'oct20-ohare-green-bird', 'nov13-sheep-roper'],
-  'nov15-mylar-moon': ['oct21-space-object', 'nov14-ed138', 'nov6-oxoboranes'],
+  'nov15-mylar-moon': ['nov18-voyager-light-day', 'oct21-space-object', 'nov14-ed138'],
   'nov15-metal-potatoes': ['nov17-owl-frog-bones', 'nov16-red-crab-commute', 'oct23-lionfish-tasting'],
   'nov14-aquidneck-iguanas': ['nov13-inflated-alligator', 'oct22-chameleon-tree-rescue'],
   'nov14-dark-magic-mushroom': ['nov12-mushroom-boat', 'nov5-tomb-drug-test'],
@@ -289,7 +295,7 @@ const topicLinks = {
   'oct12-zeekr-25cm-drift': ['oct20-cowboy-hat-bar'],
   'oct19-cube-robot': ['oct21-696-car-train', 'oct20-cowboy-hat-bar'],
   'oct20-ohare-green-bird': ['oct13-cat-burglar-dog-bowl', 'oct17-nightjar-mileage'],
-  'oct13-cat-burglar-dog-bowl': ['nov17-counter-chickens', 'oct20-ohare-green-bird'],
+  'oct13-cat-burglar-dog-bowl': ['nov18-dog-coyote-pack', 'nov17-counter-chickens', 'oct20-ohare-green-bird'],
   'oct17-nightjar-mileage': ['oct20-ohare-green-bird']
 };
 function relatedMarkup(story) {

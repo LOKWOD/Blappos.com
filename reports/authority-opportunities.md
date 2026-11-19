@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-19 — November 18 three-clock verification matrix
+
+### NASA Jet Propulsion Laboratory / Voyager mission communications
+- Target: Voyager mission and JPL public-communications staff responsible for the light-day explainer and carrier-only engineering update
+- Route: https://www.jpl.nasa.gov/contact/
+- Asset match: https://blappos.com/verification/#nov18-voyager-light-day
+- Honest angle: A reusable observation-attribution-resolution explainer that preserves NASA's exact milestone time and distance, keeps the 48-hour communications round trip separate from the November 14 data issue and labels the probe art as non-NASA editorial illustration. A correction or resource-share opportunity only if the mission team finds it accurate and useful.
+
+### WSB-TV Atlanta local desk
+- Target: Reporters and editors responsible for the Atlanta baggage-claim investigation and passenger interviews
+- Route: https://www.wsbtv.com/contact-us/
+- Asset match: https://blappos.com/verification/#nov18-peanut-baggage
+- Honest angle: A source-literacy example that separates documented passenger observations, American Airlines' peanut-butter attribution and unresolved container, count and claims questions without overstating skepticism or presenting an illustration as airport evidence.
+
+### Pima Animal Care Center
+- Target: PACC staff responsible for comparing the unidentified dog's markings and assessing a safe intervention around coyotes
+- Route: https://www.pima.gov/2233/Pima-Animal-Care-Center-PACC
+- Asset match: https://blappos.com/verification/#nov18-dog-coyote-pack
+- Honest angle: A trail-camera evidence example that credits the shelter's identification boundary and trap-safety constraint while refusing to infer breed, ownership, adoption, permanent pack status or a guaranteed safe outcome. No outreach has been sent.
+
 ## 2026-11-18 — November 17 image, assemblage and surveillance matrix
 
 ### Bournemouth University / Paul Clarkson research team
