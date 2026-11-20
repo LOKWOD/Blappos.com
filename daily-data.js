@@ -5745,7 +5745,7 @@ const nov19StagingStories = [
     "date": "Nov 19, 2026",
     "place": "Brooklyn, New York",
     "image": "assets/cards/nov19-liberty-43-seconds.jpg",
-    "title": "Brooklyn Gives the Statue of Liberty a 43.5-Second Paint Job",
+    "title": "Brooklyn Gives the Statue of Liberty a 43.5-Second Paint Job","magnetUrl":"https://blappos.printify.me/product/34776963","magnetPrice":"$9.99",
     "facts": "Guinness World Records reported on November 19 that performance painter David Garibaldi created a recognizable Statue of Liberty painting in 43.5 seconds on the Brooklyn waterfront. The canvas began upside down; after broad green and blue strokes, he flipped it to reveal the image. An on-site Guinness adjudicator confirmed a new title for the fastest time to paint a landmark statue and Garibaldi's first Guinness World Records title.",
     "why": "The memorable number is an adjudicated elapsed time, not an estimate from an edited clip. It applies to one defined record category and one completed painting; it does not establish a universal speed-painting record, say how long preparation took or judge the work's artistic quality. Keeping the category, result and adjudicator together prevents a 43.5-second performance from becoming a broader claim than the evidence supports.",
     "angle": "The November 19 record report, measured time and category limits end above. The Blappos interpretation: freedom dries fast. The Brooklyn waterfront, anonymous painter, canvas, crowd and stopwatch are disclosed original AI-generated editorial illustration—not event photography, David Garibaldi's likeness, a Guinness mark or a copy of the finished painting.",
