@@ -5789,7 +5789,7 @@ const nov19StagingStories = [
     "date": "Nov 19, 2026",
     "place": "Kansas City, Kansas",
     "image": "assets/cards/nov19-manhole-dog.jpg",
-    "title": "Kansas City Opens a Manhole and Finds a Dog Eight Feet Down",
+    "title": "Kansas City Opens a Manhole and Finds a Dog Eight Feet Down","magnetUrl":"https://blappos.printify.me/product/34776978","magnetPrice":"$9.99",
     "facts": "KCTV reported on November 19 that Kansas City, Kansas, Environmental Services workers doing routine sewer maintenance noticed a displaced manhole cover in a vacant lot near 17th Street and Stewart Avenue. They found a dog at the bottom of the roughly eight-foot-deep opening, called supervisors and Animal Services, and used specialized sewer tools to bring her safely to the surface. Animal Services took the dog for a checkup, and the damaged opening was fenced pending repair.",
     "why": "The rescue began with workers noticing infrastructure out of place, then escalating instead of attempting an improvised solo retrieval. The public account establishes the depth, team response, equipment, transfer for a checkup and temporary barrier; it does not establish how the dog fell, how long she was below, her ownership or a final medical outcome. The damaged cover is both the story's absurd entrance and an ordinary public-safety hazard.",
     "angle": "The November 19 local report and the agency's rescue account end above. The Blappos interpretation: routine sewer inspection found a surprise tenant. The dog, crew, harness, opening, skyline and safety fence are disclosed original AI-generated editorial illustration—not the rescued animal, named workers, real uniforms, a city seal or a reconstruction of the exact equipment placement.",
