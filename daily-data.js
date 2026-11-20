@@ -5736,3 +5736,77 @@ window.dailyStories = window.dailyStories.filter(story => !nov18StagingStories.s
 window.dailyStories.unshift(...nov18StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 18 publication gate: these stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
 // November 18 affiliate-card QA: each staged story has exactly three metadata- and image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once; permanent product-linked pages were verified before social release.
+
+const nov19StagingStories = [
+  {
+    "id": "nov19-liberty-43-seconds",
+    "isoDate": "2026-11-19",
+    "month": "November 2026",
+    "date": "Nov 19, 2026",
+    "place": "Brooklyn, New York",
+    "image": "assets/cards/nov19-liberty-43-seconds.jpg",
+    "title": "Brooklyn Gives the Statue of Liberty a 43.5-Second Paint Job",
+    "facts": "Guinness World Records reported on November 19 that performance painter David Garibaldi created a recognizable Statue of Liberty painting in 43.5 seconds on the Brooklyn waterfront. The canvas began upside down; after broad green and blue strokes, he flipped it to reveal the image. An on-site Guinness adjudicator confirmed a new title for the fastest time to paint a landmark statue and Garibaldi's first Guinness World Records title.",
+    "why": "The memorable number is an adjudicated elapsed time, not an estimate from an edited clip. It applies to one defined record category and one completed painting; it does not establish a universal speed-painting record, say how long preparation took or judge the work's artistic quality. Keeping the category, result and adjudicator together prevents a 43.5-second performance from becoming a broader claim than the evidence supports.",
+    "angle": "The November 19 record report, measured time and category limits end above. The Blappos interpretation: freedom dries fast. The Brooklyn waterfront, anonymous painter, canvas, crowd and stopwatch are disclosed original AI-generated editorial illustration—not event photography, David Garibaldi's likeness, a Guinness mark or a copy of the finished painting.",
+    "amazonLinks": [
+      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The official annual reference for the household that wants its astonishing numbers measured, categorized and adjudicated.","salesPriority":5,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"},
+      {"title":"Steal Like an Artist","image":"https://m.media-amazon.com/images/P/0761169253.01.LZZZZZZZ.jpg","alt":"Cover of Steal Like an Artist by Austin Kleon","quip":"A compact creative-practice guide for the part of speed painting that happens long before the stopwatch starts.","salesPriority":5,"url":"https://www.amazon.com/dp/0761169253?tag=blappos-20"},
+      {"title":"Wreck This Journal","image":"https://m.media-amazon.com/images/P/0399161945.01.LZZZZZZZ.jpg","alt":"Cover of Wreck This Journal by Keri Smith","quip":"A permission slip for energetic mark-making when 43.5 seconds feels generous and an upside-down canvas feels reasonable.","salesPriority":4,"url":"https://www.amazon.com/dp/0399161945?tag=blappos-20"}
+    ],
+    "source": "https://www.guinnessworldrecords.com/news/2026/11/speed-painter-celebrates-gwr-day-by-making-statue-of-liberty-portrait-in-under-1-minute",
+    "sourceName": "Read Guinness World Records' November 19 report and adjudicated result",
+    "sourcePublisher": "Guinness World Records",
+    "socialSummary": "Guinness World Records reported that David Garibaldi painted a recognizable Statue of Liberty in 43.5 seconds on the Brooklyn waterfront, earning the fastest-landmark-statue-painting title.",
+    "socialPunchline": "Blappos: Freedom dries fast."
+  },
+  {
+    "id": "nov19-sea-pig-symbiont",
+    "isoDate": "2026-11-19",
+    "month": "November 2026",
+    "date": "Nov 19, 2026",
+    "place": "The Deep Pacific",
+    "image": "assets/cards/nov19-sea-pig-symbiont.jpg",
+    "title": "Sea Pigs Discover Their Skin Has a Majority Shareholder",
+    "facts": "A University of Tokyo-led team examined eight deep-sea sea pigs and reported a newly described symbiotic bacterium living beneath their body surface. In body-wall samples from three sea-pig species, one bacterium accounted for more than 70% of bacterial 16S rRNA gene sequences. The proposed Candidatus Abyssoplasma scotoplanesicola has a compact genome of about 649,000 bases, yet more than a quarter is devoted to surface-associated protein groups, including proteins longer than 5,000 amino acids.",
+    "why": "The 70% figure describes bacterial marker-gene sequences in sampled body walls; it does not mean the bacterium makes up 70% of the whole animal. Fluorescence imaging located the cells beneath the body surface, while genome reconstruction suggests an unusually host-dependent partnership. Researchers do not yet know what benefit the sea pigs receive, so 'symbiont' describes close association without proving mutual benefit.",
+    "angle": "The November 19 digest, primary paper, sample scope and unresolved host benefit end above. The Blappos interpretation: one microscopic tenant controls 70% of the bacterial mail. The translucent sea pig, cutaway glow, microbes and abyssal seafloor are disclosed original AI-generated editorial illustration—not a specimen photograph, literal anatomy plate or claim that the bacteria glow naturally.",
+    "amazonLinks": [
+      {"title":"The Brilliant Abyss","image":"https://m.media-amazon.com/images/P/0802158226.01.LZZZZZZZ.jpg","alt":"Cover of The Brilliant Abyss by Helen Scales","quip":"A deep-ocean tour for meeting the ecosystem surrounding a translucent animal and its newly named microscopic tenant.","salesPriority":5,"url":"https://www.amazon.com/dp/0802158226?tag=blappos-20"},
+      {"title":"I Contain Multitudes","image":"https://m.media-amazon.com/images/P/0062368591.01.LZZZZZZZ.jpg","alt":"Cover of I Contain Multitudes by Ed Yong","quip":"A readable guide to animal-microbe partnerships for understanding why 'living beneath the skin' need not mean infection.","salesPriority":5,"url":"https://www.amazon.com/dp/0062368591?tag=blappos-20"},
+      {"title":"National Geographic Ocean: A Global Odyssey","image":"https://m.media-amazon.com/images/P/1426221924.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Ocean A Global Odyssey","quip":"A broad visual reference for the enormous ocean in which one very small genome found an unusually specific address.","salesPriority":4,"url":"https://www.amazon.com/dp/1426221924?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+    "sourceName": "Read the November 19 ScienceDaily digest and University of Tokyo research source",
+    "sourcePublisher": "ScienceDaily / University of Tokyo",
+    "socialSummary": "A University of Tokyo-led study found one newly described bacterium made up more than 70% of bacterial marker-gene reads in body-wall samples from three deep-sea sea-pig species.",
+    "socialPunchline": "Blappos: One tenant controls 70% of the bacterial mail."
+  },
+  {
+    "id": "nov19-manhole-dog",
+    "isoDate": "2026-11-19",
+    "month": "November 2026",
+    "date": "Nov 19, 2026",
+    "place": "Kansas City, Kansas",
+    "image": "assets/cards/nov19-manhole-dog.jpg",
+    "title": "Kansas City Opens a Manhole and Finds a Dog Eight Feet Down",
+    "facts": "KCTV reported on November 19 that Kansas City, Kansas, Environmental Services workers doing routine sewer maintenance noticed a displaced manhole cover in a vacant lot near 17th Street and Stewart Avenue. They found a dog at the bottom of the roughly eight-foot-deep opening, called supervisors and Animal Services, and used specialized sewer tools to bring her safely to the surface. Animal Services took the dog for a checkup, and the damaged opening was fenced pending repair.",
+    "why": "The rescue began with workers noticing infrastructure out of place, then escalating instead of attempting an improvised solo retrieval. The public account establishes the depth, team response, equipment, transfer for a checkup and temporary barrier; it does not establish how the dog fell, how long she was below, her ownership or a final medical outcome. The damaged cover is both the story's absurd entrance and an ordinary public-safety hazard.",
+    "angle": "The November 19 local report and the agency's rescue account end above. The Blappos interpretation: routine sewer inspection found a surprise tenant. The dog, crew, harness, opening, skyline and safety fence are disclosed original AI-generated editorial illustration—not the rescued animal, named workers, real uniforms, a city seal or a reconstruction of the exact equipment placement.",
+    "amazonLinks": [
+      {"title":"Pet First Aid: The First Aid Companion for Dogs & Cats","image":"https://m.media-amazon.com/images/P/1579543650.01.LZZZZZZZ.jpg","alt":"Cover of Pet First Aid by Amy D. Shojai","quip":"A practical emergency reference for the checkup after an ordinary maintenance call becomes an eight-foot animal rescue.","salesPriority":5,"url":"https://www.amazon.com/dp/1579543650?tag=blappos-20"},
+      {"title":"Canine Enrichment for the Real World","image":"https://m.media-amazon.com/images/P/1617812684.01.LZZZZZZZ.jpg","alt":"Cover of Canine Enrichment for the Real World","quip":"A science-minded guide to meeting dogs' needs in places much safer and more intentional than an uncovered manhole.","salesPriority":5,"url":"https://www.amazon.com/dp/1617812684?tag=blappos-20"},
+      {"title":"The Other End of the Leash","image":"https://m.media-amazon.com/images/P/034544678X.01.LZZZZZZZ.jpg","alt":"Cover of The Other End of the Leash by Patricia McConnell","quip":"A behavior classic for the humans responsible for noticing, helping and eventually figuring out where one unexpected dog belongs.","salesPriority":4,"url":"https://www.amazon.com/dp/034544678X?tag=blappos-20"}
+    ],
+    "source": "https://www.kctv5.com/2026/11/19/routine-environmental-work-leads-dog-rescue-kansas-city-kansas/",
+    "sourceName": "Read KCTV's November 19 local report based on the Environmental Services account",
+    "sourcePublisher": "KCTV / Kansas City, Kansas, Environmental Services",
+    "socialSummary": "Kansas City, Kansas, sewer workers found a dog about eight feet down an uncovered manhole during routine maintenance and used specialized tools with Animal Services to bring her safely up.",
+    "socialPunchline": "Blappos: Routine inspection found a surprise tenant."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov19StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov19StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 19 purchase gate: all three stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
+// November 19 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.

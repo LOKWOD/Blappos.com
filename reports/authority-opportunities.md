@@ -380,3 +380,23 @@ This log records narrow, legitimate opportunities for the exact public-reference
 - Route: https://www.nioz.nl/en/news-and-blogs/news/tiny-marine-animals-found-living-inside-deep-sea-polymetallic-nodules
 - Asset match: https://blappos.com/verification/#nov15-metal-potatoes
 - Honest angle: A public maximum-versus-average reference that keeps 245 in its one-nodule context, links the primary paper and explains the habitat-removal concern without claiming that every animal is endemic or predicting a specific extinction.
+
+## 2026-11-20 — November 19 evidence-chain opportunities
+
+### Guinness World Records editorial team
+- Target: Katherine Gross and the editorial team behind the David Garibaldi result
+- Route: https://www.guinnessworldrecords.com/contact
+- Asset match: https://blappos.com/verification/#nov19-liberty-43-seconds
+- Honest angle: A category-and-denominator explainer that credits the on-site adjudication, preserves the exact 43.5-second result and avoids upgrading “fastest time to paint a landmark statue” into a universal fastest-painter claim. A correction or share opportunity only if the team considers the summary accurate.
+
+### University of Tokyo Graduate School of Frontier Sciences
+- Target: Yu Yoshida, the sea-pig symbiont research team and university science communications
+- Route: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00486.html
+- Asset match: https://blappos.com/verification/#nov19-sea-pig-symbiont
+- Honest angle: A plain-language denominator guide connecting the open paper and university digest, explaining that “more than 70%” refers to bacterial 16S marker-gene reads in sampled body walls—not 70% of the animal—and preserving the unknown host benefit.
+
+### Unified Government of Wyandotte County and Kansas City, Kansas
+- Target: Environmental Services and Animal Services communications staff connected to the manhole rescue
+- Route: https://www.wycokck.org/Departments/Public-Works/Contact-Us
+- Asset match: https://blappos.com/verification/#nov19-manhole-dog
+- Honest angle: A traceable incident-sequence summary that credits the workers and partner agency, includes the damaged-cover safety response and refuses to invent the dog's entry route, time underground, ownership or final diagnosis. A correction or resource-share opportunity only if the agencies consider it accurate.
