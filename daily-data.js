@@ -5767,7 +5767,7 @@ const nov19StagingStories = [
     "date": "Nov 19, 2026",
     "place": "The Deep Pacific",
     "image": "assets/cards/nov19-sea-pig-symbiont.jpg",
-    "title": "Sea Pigs Discover Their Skin Has a Majority Shareholder",
+    "title": "Sea Pigs Discover Their Skin Has a Majority Shareholder","magnetUrl":"https://blappos.printify.me/product/34776969","magnetPrice":"$9.99",
     "facts": "A University of Tokyo-led team examined eight deep-sea sea pigs and reported a newly described symbiotic bacterium living beneath their body surface. In body-wall samples from three sea-pig species, one bacterium accounted for more than 70% of bacterial 16S rRNA gene sequences. The proposed Candidatus Abyssoplasma scotoplanesicola has a compact genome of about 649,000 bases, yet more than a quarter is devoted to surface-associated protein groups, including proteins longer than 5,000 amino acids.",
     "why": "The 70% figure describes bacterial marker-gene sequences in sampled body walls; it does not mean the bacterium makes up 70% of the whole animal. Fluorescence imaging located the cells beneath the body surface, while genome reconstruction suggests an unusually host-dependent partnership. Researchers do not yet know what benefit the sea pigs receive, so 'symbiont' describes close association without proving mutual benefit.",
     "angle": "The November 19 digest, primary paper, sample scope and unresolved host benefit end above. The Blappos interpretation: one microscopic tenant controls 70% of the bacterial mail. The translucent sea pig, cutaway glow, microbes and abyssal seafloor are disclosed original AI-generated editorial illustration—not a specimen photograph, literal anatomy plate or claim that the bacteria glow naturally.",
