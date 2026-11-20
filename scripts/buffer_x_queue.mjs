@@ -83,9 +83,9 @@ function weightedXLength(text) {
 
 function xText(story, url) {
   const source = story.source;
-  const publisher = story.sourcePublisher === 'North Carolina Education Lottery'
+  const publisher = story.xSourcePublisher || (story.sourcePublisher === 'North Carolina Education Lottery'
     ? 'NC Lottery'
-    : sourcePublisher(story);
+    : sourcePublisher(story));
   const punchline = satiricalPunchline(story);
   let summary = factualSummary(story);
   const build = () => `${summary}\n\nBlappos: ${punchline}\n\nFull story + magnet: ${url}\nSource (${publisher}): ${source}\nAI art.`;
@@ -126,6 +126,7 @@ function hasRequiredContext(post, story, service) {
   return text.includes(`/stories/${story.id}/`) &&
     sourcePresent &&
     artDisclosurePresent &&
+    text.includes(factualSummary(story)) &&
     !/Blappos:\s*Blappos:/i.test(text) &&
     text.includes(`Blappos: ${satiricalPunchline(story)}`);
 }

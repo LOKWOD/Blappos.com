@@ -5757,7 +5757,8 @@ const nov19StagingStories = [
     "source": "https://www.guinnessworldrecords.com/news/2026/11/speed-painter-celebrates-gwr-day-by-making-statue-of-liberty-portrait-in-under-1-minute",
     "sourceName": "Read Guinness World Records' November 19 report and adjudicated result",
     "sourcePublisher": "Guinness World Records",
-    "socialSummary": "Guinness World Records reported that David Garibaldi painted a recognizable Statue of Liberty in 43.5 seconds on the Brooklyn waterfront, earning the fastest-landmark-statue-painting title.",
+    "xSourcePublisher": "GWR",
+    "socialSummary": "David Garibaldi painted the Statue of Liberty in 43.5 seconds; Guinness verified the record.",
     "socialPunchline": "Blappos: Freedom dries fast."
   },
   {
@@ -5779,8 +5780,9 @@ const nov19StagingStories = [
     "source": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
     "sourceName": "Read the November 19 ScienceDaily digest and University of Tokyo research source",
     "sourcePublisher": "ScienceDaily / University of Tokyo",
-    "socialSummary": "A University of Tokyo-led study found one newly described bacterium made up more than 70% of bacterial marker-gene reads in body-wall samples from three deep-sea sea-pig species.",
-    "socialPunchline": "Blappos: One tenant controls 70% of the bacterial mail."
+    "xSourcePublisher": "U Tokyo / ScienceDaily",
+    "socialSummary": "A study found one bacterium supplied over 70% of bacterial marker reads in sea-pig body-wall samples.",
+    "socialPunchline": "Blappos: One tenant controls 70% of the mail."
   },
   {
     "id": "nov19-manhole-dog",
@@ -5801,7 +5803,8 @@ const nov19StagingStories = [
     "source": "https://www.kctv5.com/2026/11/19/routine-environmental-work-leads-dog-rescue-kansas-city-kansas/",
     "sourceName": "Read KCTV's November 19 local report based on the Environmental Services account",
     "sourcePublisher": "KCTV / Kansas City, Kansas, Environmental Services",
-    "socialSummary": "Kansas City, Kansas, sewer workers found a dog about eight feet down an uncovered manhole during routine maintenance and used specialized tools with Animal Services to bring her safely up.",
+    "xSourcePublisher": "KCTV / KCKES",
+    "socialSummary": "Kansas sewer workers found a dog eight feet down an open manhole and lifted her out safely.",
     "socialPunchline": "Blappos: Routine inspection found a surprise tenant."
   }
 ];
