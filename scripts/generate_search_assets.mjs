@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+// Daily publishing checkpoint: regenerate permanent pages only after the physical-product gate can be satisfied.
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 import vm from 'node:vm';

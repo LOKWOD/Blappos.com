@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+// Daily publishing checkpoint: delivery verification remains separate from queue acceptance.
 import vm from 'node:vm';
 
 const API_URL = 'https://api.buffer.com';
