@@ -5868,7 +5868,7 @@ const nov20StagingStories = [
     "date": "Nov 20, 2026",
     "place": "Casselberry, Florida",
     "image": "assets/cards/nov20-bacon-intruder.jpg",
-    "title": "Florida Closes a Garage Break-In Case With One Pig and No Charges",
+    "title": "Florida Closes a Garage Break-In Case With One Pig and No Charges","magnetUrl":"https://blappos.printify.me/product/34827403","magnetPrice":"$9.99",
     "facts": "UPI reported on November 20 that Casselberry Police officers answering a garage-intruder call found the suspect hiding in a neighboring garage and identified it as a runaway pig named Bacon. The department said Delta Squad responded to the original report on November 3. Police joked that Bacon appeared to be looking for a late-night snack and was released with a warning rather than charged.",
     "why": "The dated police account establishes the call, the animal's identity and the harmless resolution; it does not turn the pig into a literal burglar. The event date and report date should remain separate, and the department's suspect-and-warning language is clearly comic social copy. The practical story is simpler: a loose domestic animal entered private garages, officers located it, and nobody reported an injury or criminal charge.",
     "angle": "The November 20 report, November 3 incident date and police department's joking language end above. The Blappos interpretation: no charges, one snack warning. The pig, officers, garage, lawn mower and snack bag are disclosed original AI-generated editorial illustration—not police photography, the real animal, a real home, department uniforms, a branded product or evidence that Bacon stole anything.",
