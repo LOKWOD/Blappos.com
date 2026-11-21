@@ -400,3 +400,23 @@ This log records narrow, legitimate opportunities for the exact public-reference
 - Route: https://www.wycokck.org/Departments/Public-Works/Contact-Us
 - Asset match: https://blappos.com/verification/#nov19-manhole-dog
 - Honest angle: A traceable incident-sequence summary that credits the workers and partner agency, includes the damaged-cover safety response and refuses to invent the dog's entry route, time underground, ownership or final diagnosis. A correction or resource-share opportunity only if the agencies consider it accurate.
+
+## 2026-11-21 — November 20 proof-boundary opportunities
+
+### University of Arkansas College of Engineering
+- Target: Wan Shou, Cole McCallum and the university research-communications team
+- Route: https://news.uark.edu/articles/83229/researchers-turn-moon-dust-into-lego-like-blocks-for-settlements
+- Asset match: https://blappos.com/verification/#nov20-moon-bricks
+- Honest angle: A plain-language material-and-load-boundary reference that credits the binder-free laser-sintering result while keeping lunar simulant, centimeter scale, porosity, lower strength and untested Moon conditions attached to the memorable brick comparison.
+
+### Guinness World Records editorial team
+- Target: Records staff responsible for the full-body-burn zip-wire result
+- Route: https://www.guinnessworldrecords.com/contact
+- Asset match: https://blappos.com/verification/#nov20-fire-zipline
+- Honest angle: A measurement-and-safety digest that preserves the exact 568-foot 6.8-inch category result, separates the October 3 attempt from the November 20 report and keeps the protective clothing, gel and extinguishing team in the public summary.
+
+### City of Casselberry Police Department
+- Target: Public-information staff responsible for the Bacon incident post
+- Route: https://www.casselberry.org/272/Police
+- Asset match: https://blappos.com/verification/#nov20-bacon-intruder
+- Honest angle: A source-clock and incident-language explainer that credits the department's harmless resolution while clearly labeling “suspect,” “warning” and snack motive as comic framing rather than evidence of burglary or theft.

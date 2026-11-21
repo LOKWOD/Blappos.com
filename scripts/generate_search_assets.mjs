@@ -49,6 +49,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov20-fire-zipline': 'nov20-fire-zipline',
+    'nov20-moon-bricks': 'nov20-moon-bricks',
+    'nov20-bacon-intruder': 'nov20-bacon-intruder',
     'nov19-liberty-43-seconds': 'nov19-liberty-43-seconds',
     'nov19-sea-pig-symbiont': 'nov19-sea-pig-symbiont',
     'nov19-manhole-dog': 'nov19-manhole-dog',
