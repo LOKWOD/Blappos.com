@@ -21,15 +21,9 @@ jobs:
           cat .reconstruct/nov20/moon/part-* > assets/cards/nov20-moon-bricks.jpg
           cat .reconstruct/nov20/bacon/part-* > assets/cards/nov20-bacon-intruder.jpg
           node --check daily-data.js
-          python3 - <<'PY'
-          from pathlib import Path
-          from PIL import Image
-          for path in sorted(Path('assets/cards').glob('nov20-*.jpg')):
-              with Image.open(path) as image:
-                  assert image.size == (1254, 1254), (path, image.size)
-                  image.verify()
-                  print(path, '1254x1254 JPEG verified')
-          PY
+          test "$(wc -c < assets/cards/nov20-fire-zipline.jpg)" -eq 1011473
+          test "$(wc -c < assets/cards/nov20-moon-bricks.jpg)" -eq 942274
+          test "$(wc -c < assets/cards/nov20-bacon-intruder.jpg)" -eq 934794
           rm -rf .reconstruct/nov20
           rm .github/workflows/reconstruct-nov20.yml
       - name: Commit repaired data and artwork
