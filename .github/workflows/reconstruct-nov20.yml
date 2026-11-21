@@ -1,0 +1,36 @@
+name: Reconstruct November 20 assets
+on:
+  push:
+    paths:
+      - '.reconstruct/nov20/**'
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Reassemble exact staged files
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .reconstruct/nov20/daily-data/part-* > daily-data.js
+          cat .reconstruct/nov20/fire/part-* > assets/cards/nov20-fire-zipline.jpg
+          cat .reconstruct/nov20/moon/part-* > assets/cards/nov20-moon-bricks.jpg
+          cat .reconstruct/nov20/bacon/part-* > assets/cards/nov20-bacon-intruder.jpg
+          node --check daily-data.js
+          identify assets/cards/nov20-*.jpg
+          rm -rf .reconstruct/nov20
+          rm .github/workflows/reconstruct-nov20.yml
+      - name: Commit repaired data and artwork
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "blappos-automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Restore November 20 data and artwork"
+          git pull --rebase origin main
+          git push origin main

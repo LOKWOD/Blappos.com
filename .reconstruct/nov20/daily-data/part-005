@@ -1,0 +1,682 @@
+e":"$9.99",
+    "facts": "UPI reported on October 22 that Forsyth County firefighters answered an unusual animal call after a pet chameleon climbed high into a tree. The department said Station 14/C brought the animal safely down and joked that crews had moved on from cats in trees. Local coverage dates the rescue photo to October 12, so the incident clock and the national publication clock are not the same.",
+    "why": "A chameleon is an expert climber, a poor candidate for an improvised grab and a pet whose heat, hydration and stress needs differ from a cat’s. The useful takeaway is not that every wandering reptile requires a fire engine; it is that a high, unsafe retrieval belongs with trained responders and that exotic-pet containment should be designed around the animal’s actual abilities.",
+    "angle": "Verified department account, safe outcome and two-clock boundary end above. The Blappos interpretation: cats were apparently too easy to see. The magnet’s firefighters, ladder, carrier, engine and vivid chameleon are original editorial illustration—not the real crew, department apparatus, a species identification or a do-it-yourself rescue method.",
+    "amazonLinks": [
+      {"title":"The Chameleon Handbook","image":"https://m.media-amazon.com/images/P/0764141422.01.LZZZZZZZ.jpg","alt":"Cover of The Chameleon Handbook","quip":"Practical husbandry context for the pet whose preferred containment boundary turned out to be ‘somewhere above the ladder.’","salesPriority":5,"url":"https://www.amazon.com/dp/0764141422?tag=blappos-20"},
+      {"title":"Chameleons: Care and Breeding of Jackson’s, Panther, Veiled, and Parson’s","image":"https://m.media-amazon.com/images/P/1882770951.01.LZZZZZZZ.jpg","alt":"Cover of Chameleons: Care and Breeding of Jackson’s, Panther, Veiled, and Parson’s","quip":"Species-specific habitat and care guidance for preventing the sequel before the next branch office opens.","salesPriority":5,"url":"https://www.amazon.com/dp/1882770951?tag=blappos-20"},
+      {"title":"Exotic Animal Emergency and Critical Care Medicine","image":"https://m.media-amazon.com/images/P/1119149231.01.LZZZZZZZ.jpg","alt":"Cover of Exotic Animal Emergency and Critical Care Medicine","quip":"The professional reference behind a basic rule: unusual animals deserve species-aware handling, not confident improvisation.","salesPriority":4,"url":"https://www.amazon.com/dp/1119149231?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/22/chameleon-tree-forsyth-county-georgia/2111792688158/",
+    "sourceName": "Read UPI’s October 22 report and the fire department account",
+    "sourcePublisher": "UPI / Forsyth County Fire Department",
+    "socialSummary": "UPI reported October 22 that Forsyth County firefighters safely brought a pet chameleon down after it climbed high into a tree; local coverage dates the rescue photo to October 12.",
+    "socialPunchline": "Blappos: Cats were too easy to see."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct22StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct22StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 22 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+
+// October 23 edition. These stories remain hidden from the public collection
+// until the Printify workflow publishes and links each exact physical magnet.
+const oct23StagingStories = [
+  {
+    "id": "oct23-miami-piano",
+    "isoDate": "2026-10-23",
+    "month": "October",
+    "date": "Oct 23, 2026",
+    "place": "Miami, Florida",
+    "image": "assets/cards/2026-10-23-miami-piano.webp",
+    "title": "Miami Coach Lifts a Piano’s Worth for Six Seconds","magnetUrl":"https://blappos.printify.me/product/33485923","magnetPrice":"$9.99",
+    "facts": "WLRN Public Media reported on October 23 that Miami fitness coach Lilian M. Zamora Alonso holds the Guinness World Records title for the heaviest weighted hip thrust by a woman: 639 pounds, or 289.90 kilograms. She made the lift at Miami Iron Gym on March 27 after nearly a decade of training. The attempt required a straight line from knees through hips to shoulders to be held for six seconds, and certification arrived after a five-month review.",
+    "why": "The headline number hides the evidentiary work. Zamora Alonso said she had lifted 670 pounds in training but chose a lower official weight to reduce the risk of a recording or form error. A certified record is therefore not simply the largest gym claim; it is a measured performance inside a defined category, with repeatable form, witnesses and review. Readers should also treat it as an elite athletic feat—not a safe starting prescription.",
+    "angle": "Verified record, rules and timeline end above. The Blappos interpretation: Miami briefly made a piano obey leg day. The magnet’s anonymous athlete, plates, stopwatch, arena and skyline are original editorial illustration—not Zamora Alonso, documentary evidence, a Guinness mark or exercise instruction. Do not attempt a maximal lift without qualified coaching, appropriate equipment and progressive training.",
+    "amazonLinks": [
+      {"title":"Glute Lab: The Art and Science of Strength and Physique Training","image":"https://m.media-amazon.com/images/P/1628603461.01.LZZZZZZZ.jpg","alt":"Cover of Glute Lab by Bret Contreras and Glen Cordoza","quip":"The exercise-specific reference for understanding why a hip thrust is more technique than punchline.","salesPriority":5,"url":"https://www.amazon.com/dp/1628603461?tag=blappos-20"},
+      {"title":"Strength Training Anatomy, 3rd Edition","image":"https://m.media-amazon.com/images/I/5125uehJ+dL.jpg","alt":"Cover of Strength Training Anatomy, 3rd Edition by Frederic Delavier","quip":"A visual map of the muscles and mechanics behind the six seconds that count.","salesPriority":5,"url":"https://www.amazon.com/dp/B01IUXRAPQ?tag=blappos-20"},
+      {"title":"Starting Strength: Basic Barbell Training, Third Edition","image":"https://m.media-amazon.com/images/P/0982522738.01.LZZZZZZZ.jpg","alt":"Cover of Starting Strength by Mark Rippetoe","quip":"A fundamentals-first barbell guide for readers inspired by the record but sensible enough not to open at 639 pounds.","salesPriority":4,"url":"https://www.amazon.com/dp/0982522738?tag=blappos-20"}
+    ],
+    "source": "https://www.wlrn.org/sports/2026-10-23/miami-fitness-coach-weightlifting-guinness-world-record",
+    "sourceName": "Read WLRN Public Media’s October 23 report and interview",
+    "sourcePublisher": "WLRN Public Media / Guinness World Records",
+    "socialSummary": "WLRN Public Media reported October 23 that Miami coach Lilian M. Zamora Alonso earned the women’s weighted hip-thrust record with 639 pounds held in the required straight-line position for six seconds.",
+    "socialPunchline": "Blappos: Miami made a piano obey leg day."
+  },
+  {
+    "id": "oct23-lionfish-tasting",
+    "isoDate": "2026-10-23",
+    "month": "October",
+    "date": "Oct 23, 2026",
+    "place": "Santorini, Greece",
+    "image": "assets/cards/2026-10-23-lionfish-tasting.webp",
+    "title": "Santorini Sets a Record by Eating the Invasion","magnetUrl":"https://blappos.printify.me/product/33485928","magnetPrice":"$9.99",
+    "facts": "The EU-funded GuardIAS project announced on October 23 that 370 people in Santorini earned a Guinness World Records title for the largest lionfish tasting event. At the October 22 gathering, 30 chefs prepared 20 recipes and each qualifying participant tasted at least three. GuardIAS identifies the fish as Pterois miles, an Indo-Pacific predator that entered the Mediterranean through the Suez Canal and has expanded rapidly in the eastern basin.",
+    "why": "The record was a conservation intervention with a scoreboard. GuardIAS says complete eradication is no longer realistic across the lionfish’s established range, but targeted removals can reduce local populations, particularly in sensitive areas. Creating a safe, traceable food market may give fishers an economic reason to remove the invader, but consumption is one management tool—not permission for untrained handling, unlimited harvest or claims that dinner alone repairs an ecosystem.",
+    "angle": "The record, species, participant total and management rationale come from GuardIAS; the claim ceiling ends there. The Blappos interpretation: Santorini put the ecological problem on small plates. The magnet’s fish, chefs, diners and caldera are original editorial illustration—not an event photograph, food-safety guide, harvest instruction or promise that every lionfish meal produces a conservation benefit.",
+    "amazonLinks": [
+      {"title":"The Lionfish Cookbook","image":"https://m.media-amazon.com/images/P/0615428924.01.LZZZZZZZ.jpg","alt":"Cover of The Lionfish Cookbook by Tricia Ferguson and Lad Akins","quip":"The topic-specific recipe book that turns one invasive predator into carefully prepared dinner.","salesPriority":5,"url":"https://www.amazon.com/dp/0615428924?tag=blappos-20"},
+      {"title":"Cook Lionfish: Recipes Suitable for Any White Fish","image":"https://m.media-amazon.com/images/P/0578866625.01.LZZZZZZZ.jpg","alt":"Cover of Cook Lionfish by Claire Wood and Polly Alford","quip":"A practical follow-up for the part of conservation gastronomy that happens after trained harvesters handle the spines.","salesPriority":5,"url":"https://www.amazon.com/dp/0578866625?tag=blappos-20"},
+      {"title":"Green Fig and Lionfish: Sustainable Caribbean Cooking","image":"https://m.media-amazon.com/images/P/1642501646.01.LZZZZZZZ.jpg","alt":"Cover of Green Fig and Lionfish by Allen Susser","quip":"Seventy sustainable Caribbean recipes that put the eat-the-invader idea into a broader food culture.","salesPriority":4,"url":"https://www.amazon.com/dp/1642501646?tag=blappos-20"}
+    ],
+    "source": "https://guardias.eu/guardias-and-the-university-of-the-aegean-achieve-guinness-world-records-title-for-the-largest-lionfish-tasting-event/",
+    "sourceName": "Read GuardIAS and the University of the Aegean’s October 23 primary account",
+    "sourcePublisher": "GuardIAS / University of the Aegean",
+    "socialSummary": "GuardIAS announced October 23 that 370 participants in Santorini set a record by each tasting at least three lionfish dishes, using gastronomy to support targeted removal of an invasive Mediterranean predator.",
+    "socialPunchline": "Blappos: The ecological problem arrived on small plates."
+  },
+  {
+    "id": "oct23-kangaroo-rumors",
+    "isoDate": "2026-10-23",
+    "month": "October",
+    "date": "Oct 23, 2026",
+    "place": "Mount Pleasant, Tennessee",
+    "image": "assets/cards/2026-10-23-kangaroo-rumors.webp",
+    "title": "Runaway Kangaroo Travels 15 Miles by Rumor, Zero by Road","magnetUrl":"https://blappos.printify.me/product/33485932","magnetPrice":"$9.99",
+    "facts": "WSMV reported on October 23 that Ollie, a pet kangaroo missing from Mount Pleasant since October 21, was found safe on Mack Benderman Road—the same road where he had last been seen wearing a purple collar and leash. Neighbors used social-media reports and sightings to track the search. One report placed him about 15 miles away near Riverside in Columbia, but the final location did not establish that Ollie ever traveled that distance.",
+    "why": "A search map records reports, not verified animal movement. That distinction matters whenever a community search turns sightings into an apparent route: duplicated, mistaken or delayed reports can make the subject look faster and farther-traveled than the evidence supports. The confirmed outcome is narrower and happier—Ollie was found safe near the original location after neighbors helped circulate information.",
+    "angle": "The dates, reported sighting, recovery road and safe return end above. The Blappos interpretation: the kangaroo traveled 15 miles by rumor and stayed on the same road in real life. The magnet’s animal, neighbors, map pins, phones and Tennessee road are original editorial illustration—not Ollie, his owners, a verified movement map or guidance for approaching an escaped exotic animal.",
+    "amazonLinks": [
+      {"title":"Kangaroos: Biology of the Largest Marsupials","image":"https://m.media-amazon.com/images/P/0801482623.01.LZZZZZZZ.jpg","alt":"Cover of Kangaroos by Terence J. Dawson","quip":"The biology, locomotion and behavior reference for the animal behind Tennessee’s least reliable travel map.","salesPriority":5,"url":"https://www.amazon.com/dp/0801482623?tag=blappos-20"},
+      {"title":"Australian Mammals: Biology and Captive Management","image":"https://m.media-amazon.com/images/P/1486315275.01.LZZZZZZZ.jpg","alt":"Cover of Australian Mammals by Stephen Jackson","quip":"Professional husbandry context for a story where secure containment matters more than a charming ending.","salesPriority":5,"url":"https://www.amazon.com/dp/1486315275?tag=blappos-20"},
+      {"title":"Explore My World: Kangaroos","image":"https://m.media-amazon.com/images/P/1426331576.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Kids Explore My World: Kangaroos by Jill Esbaum","quip":"A photo-rich, family-friendly guide to the marsupial everyone in Maury County was suddenly studying.","salesPriority":4,"url":"https://www.amazon.com/dp/1426331576?tag=blappos-20"}
+    ],
+    "source": "https://www.wsmv.com/2026/10/23/ollie-tennessee-kangaroo-is-back-home-safe-heres-what-owners-say-happened/",
+    "sourceName": "Read WSMV’s October 23 local report",
+    "sourcePublisher": "WSMV4",
+    "socialSummary": "WSMV reported October 23 that Ollie, a pet kangaroo missing since October 21, was found safe on the same Mount Pleasant road where he was last seen; a sighting 15 miles away was never a verified travel route.",
+    "socialPunchline": "Blappos: Fifteen miles by rumor, zero by road."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct23StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct23StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 23 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+// October 23 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
+
+// October 24 edition. These stories remain hidden from the public collection
+// until the Printify workflow publishes and links each exact physical magnet.
+const oct24StagingStories = [
+  {
+    "id": "oct24-las-vegas-no-tip",
+    "isoDate": "2026-10-24",
+    "month": "October",
+    "date": "Oct 24, 2026",
+    "place": "Las Vegas Strip, Nevada",
+    "image": "assets/cards/2026-10-24-las-vegas-no-tip.webp",
+    "title": "Las Vegas Puts ‘Tipping Is Not Required’ on the Skyline","magnetUrl":"https://blappos.printify.me/product/33522636","magnetPrice":"$9.99",
+    "facts": "LiveNOW from FOX reported on October 24 that Clark County had begun displaying ‘When watching performances or taking a photo, tipping is NOT required’ on digital message boards along the Las Vegas Strip. The messages started October 16 and address aggressive solicitation and false claims that a gratuity is mandatory; they do not discourage voluntary tips. The county action followed a September 30 confrontation in which tourists said a $20 payment led to escalating demands. Arrest-report allegations from that encounter remain allegations, not findings of guilt.",
+    "why": "The sign turns a murky social custom into a plain consumer boundary. A performer may request payment and a visitor may tip, but neither makes a voluntary gratuity legally compulsory. That distinction matters in a crowded tourism district where costumes, urgency and public pressure can make an invented rule feel official. It also shows a modest form of public-interest design: put the corrective statement where the disputed demand happens, in language that survives a three-second glance.",
+    "angle": "The county message, its start date and the reported trigger end above. The Blappos interpretation: Las Vegas has installed a giant subtitle for the word optional. The magnet’s tourists, performers, neon sign and skyline are original editorial illustration—not the real parties, a Strip photograph, a casino endorsement or a suggestion that performers should never be tipped for consensual work.",
+    "amazonLinks": [
+      {"title":"Tipping: An American Social History of Gratuities","image":"https://m.media-amazon.com/images/P/0786442468.01.LZZZZZZZ.jpg","alt":"Cover of Tipping: An American Social History of Gratuities by Kerry Segrave","quip":"The social history behind the custom Clark County had to explain in six giant words.","salesPriority":5,"url":"https://www.amazon.com/dp/0786442468?tag=blappos-20"},
+      {"title":"Emily Post’s Etiquette, 19th Edition","image":"https://m.media-amazon.com/images/I/71wV1q6X8UL._SL1500_.jpg","alt":"Cover of Emily Post’s Etiquette, 19th Edition","quip":"A modern manners reference for separating a welcome gratuity from an invented mandatory fee.","salesPriority":5,"url":"https://www.amazon.com/dp/0062439251?tag=blappos-20"},
+      {"title":"The Strip: Las Vegas and the Architecture of the American Dream","image":"https://m.media-amazon.com/images/P/0262544911.01.LZZZZZZZ.jpg","alt":"Cover of The Strip by Stefan Al","quip":"A history of the built spectacle now hosting the world’s most architectural reminder that optional still means optional.","salesPriority":4,"url":"https://www.amazon.com/dp/0262544911?tag=blappos-20"}
+    ],
+    "source": "https://www.livenowfox.com/news/las-vegas-tipping-costumed-strip-performers",
+    "sourceName": "Read LiveNOW from FOX’s October 24 report and the cited Clark County message",
+    "sourcePublisher": "LiveNOW from FOX / Clark County",
+    "socialSummary": "LiveNOW from FOX reported October 24 that Clark County is using Strip message boards to tell visitors that tips for photos or performances are optional, targeting aggressive demands without discouraging voluntary gratuities.",
+    "socialPunchline": "Blappos: Las Vegas installed a giant subtitle for the word optional."
+  },
+  {
+    "id": "oct24-rolling-snakes",
+    "isoDate": "2026-10-24",
+    "month": "October",
+    "date": "Oct 24, 2026",
+    "place": "Southeast Asia",
+    "image": "assets/cards/2026-10-24-rolling-snakes.webp",
+    "title": "Dwarf Snakes Discover Four-Wheel Drive Without Wheels","magnetUrl":"https://blappos.printify.me/product/33522640","magnetPrice":"$9.99",
+    "facts": "ScienceDaily reported on October 24 that Toho University researchers had documented a rolling locomotion mode in dwarf reedsnakes using synchronized multi-angle video. In controlled trials, the snakes reached peak rolling speeds of 1.72 to 3.69 meters per second—about four times their lateral-undulation speed—and followed a roughly 20-centimeter-wide track. Their heads stayed forward and relatively stable while the body rolled, and the team published the work in Current Biology.",
+    "why": "A rolling vertebrate is more than a novelty reel. The measurements distinguish sustained, directed locomotion from a defensive tumble or accidental fall: the animals repeatedly combined rolling and ordinary strokes while keeping the head oriented for navigation. That expands the known movement repertoire of limbless animals and gives biomechanics and robotics researchers a compact example of how body geometry can trade continuous contact for short bursts of speed.",
+    "angle": "The measured speeds, track width, head stability and paper venue end above. The Blappos interpretation: the snake did not reinvent the wheel; it filed the wheel as a whole-body expense. The magnet’s snake, forest track, motion rings and field marks are original scientific satire—not one study animal, a video frame, a species-identification guide or proof that every dwarf reedsnake uses the behavior in the wild.",
+    "amazonLinks": [
+      {"title":"How Snakes Work","image":"https://m.media-amazon.com/images/I/616fFL5NpgL.jpg","alt":"Cover of How Snakes Work by Harvey B. Lillywhite","quip":"The functional-biology reference for the animal that just added ‘become the wheel’ to its movement menu.","salesPriority":5,"url":"https://www.amazon.com/dp/0195380371?tag=blappos-20"},
+      {"title":"Snakes: The Evolution of Mystery in Nature","image":"https://m.media-amazon.com/images/I/91Oi3-h+6wL._SL1500_.jpg","alt":"Cover of Snakes: The Evolution of Mystery in Nature by Harry W. Greene","quip":"A natural-history classic for placing one spectacular locomotion result inside the larger evolution of snakes.","salesPriority":5,"url":"https://www.amazon.com/dp/0520224876?tag=blappos-20"},
+      {"title":"How to Walk on Water and Climb up Walls","image":"https://m.media-amazon.com/images/I/7132OOuFrRL._SL1500_.jpg","alt":"Cover of How to Walk on Water and Climb up Walls by David Hu","quip":"Animal movement meets robot design—the perfect bridge from rolling snake biomechanics to machines with better ideas.","salesPriority":4,"url":"https://www.amazon.com/dp/0691169861?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
+    "sourceName": "Read ScienceDaily’s October 24 research digest and the linked Current Biology paper",
+    "sourcePublisher": "ScienceDaily / Toho University / Current Biology",
+    "socialSummary": "ScienceDaily reported October 24 that researchers filmed dwarf reedsnakes using directed rolling locomotion at peak speeds about four times their ordinary lateral undulation while keeping their heads relatively stable.",
+    "socialPunchline": "Blappos: The snake filed the wheel as a whole-body expense."
+  },
+  {
+    "id": "oct24-ai-breakfast-soda",
+    "isoDate": "2026-10-24",
+    "month": "October",
+    "date": "Oct 24, 2026",
+    "place": "Northern Ireland, United Kingdom",
+    "image": "assets/cards/2026-10-24-ai-breakfast-soda.webp",
+    "title": "Just Eat Puts Breakfast in a Pint, Then Pauses the Robot Camera","magnetUrl":"https://blappos.printify.me/product/33522643","magnetPrice":"$9.99",
+    "facts": "Al Jazeera reported on October 24 that Just Eat had apologized after a trial of AI-generated menu images grossly misrepresented some dishes and was paused for further development. The test applied labeled synthetic images to listings that lacked restaurant-supplied photos. Earlier detailed reporting showed the standout failure: a Northern Irish soda bread breakfast was interpreted as bacon, egg and sausage floating in a cola-like pint rather than food served with soda bread.",
+    "why": "A menu image is a factual product claim, even when it is aesthetically persuasive and labeled as synthetic. Generating one without checking the cuisine, ingredients and plating can turn a helpful placeholder into false advertising at the exact moment a customer decides what to buy. The remedy is not just a better prompt: restaurants need approval, humans need a comparison target, uncertain dishes need no image, and mistakes need a visible correction path.",
+    "angle": "The trial, label, failure mode, apology and pause end above. The Blappos interpretation: the model saw ‘soda bread’ and promoted breakfast to beverage service. The magnet’s pint, food, diner, server and glitching tablet are original editorial illustration—not the live listing, a restaurant’s dish, an edible recipe, a Just Eat interface or proof that every image in the trial was inaccurate.",
+    "amazonLinks": [
+      {"title":"AI Snake Oil","image":"https://m.media-amazon.com/images/I/81GVLk9TznL._SL1500_.jpg","alt":"Cover of AI Snake Oil by Arvind Narayanan and Sayash Kapoor","quip":"A practical guide to asking what AI can actually verify before it puts breakfast in a glass.","salesPriority":5,"url":"https://www.amazon.com/dp/069124913X?tag=blappos-20"},
+      {"title":"The Food Lab","image":"https://m.media-amazon.com/images/I/71unTJwqvcL._SL1500_.jpg","alt":"Cover of The Food Lab by J. Kenji López-Alt","quip":"Evidence-based cooking for the useful distinction between soda bread and breakfast soda.","salesPriority":5,"url":"https://www.amazon.com/dp/0393081087?tag=blappos-20"},
+      {"title":"Food Photography: From Snapshots to Great Shots","image":"https://m.media-amazon.com/images/P/0134097254.01.LZZZZZZZ.jpg","alt":"Cover of Food Photography: From Snapshots to Great Shots by Nicole S. Young","quip":"The non-generative route to a menu image that resembles the food a customer will receive.","salesPriority":4,"url":"https://www.amazon.com/dp/0134097254?tag=blappos-20"}
+    ],
+    "source": "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder",
+    "sourceName": "Read Al Jazeera’s October 24 report and the earlier detailed reporting it followed",
+    "sourcePublisher": "Al Jazeera / The Independent / TechRadar",
+    "socialSummary": "Al Jazeera reported October 24 that Just Eat apologized and paused a trial of labeled AI menu images after some badly misrepresented dishes, including soda bread rendered as a pint of cola-like breakfast ingredients.",
+    "socialPunchline": "Blappos: The model promoted soda bread to beverage service."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct24StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct24StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 24 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+// October 24 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
+
+// October 25 edition. These stories remain hidden from the public collection
+// until the Printify workflow publishes and links each exact physical magnet.
+const oct25StagingStories = [
+  {
+    "id": "oct25-duck-ballot",
+    "isoDate": "2026-10-25",
+    "month": "October",
+    "date": "Oct 25, 2026",
+    "place": "Washington, D.C.",
+    "image": "assets/cards/2026-10-25-duck-ballot.webp",
+    "title": "D.C. Puts a 4½-Pound Duck on the Foie Gras Ballot",
+    "magnetUrl": "https://blappos.printify.me/product/33557440",
+    "magnetPrice": "$9.99",
+    "facts": "The Washington Post reported October 25 that Olivia, a 4½-pound Swedish Blue duck, had become the public mascot for D.C. Initiative 86, a November 3 ballot measure that would prohibit force-feeding birds and the sale of products made from force-fed birds, including foie gras. The official ballot formulation assigns routine enforcement to the Department of Energy and Environment. If approved, the law would take effect July 1, 2027, with civil penalties; the D.C. Council could later amend it through legislation.",
+    "why": "A charming campaign animal can focus attention, but it cannot replace the text voters are being asked to enact. The useful civic distinction is between the mascot, the advocates' animal-welfare case, opponents' objections about policy and wording, and the legally operative ballot summary. Reading those layers separately makes the story more than a photo opportunity and keeps a duck's popularity from being mistaken for statutory analysis.",
+    "angle": "The duck's breed and weight, the campaign role, the ballot date and the measure's stated effect end above. The Blappos interpretation: Washington has finally found a lobbyist whose entire platform fits into one quack. The magnet's duck, voters, podium, ballot box and skyline are original editorial illustration—not Olivia, a campaign logo, a Capitol photograph, voting advice or an endorsement of either side.",
+    "amazonLinks": [
+      {"title":"Contested Tastes: Foie Gras and the Politics of Food","image":"https://m.media-amazon.com/images/P/069118318X.01.LZZZZZZZ.jpg","alt":"Cover of Contested Tastes by Michaela DeSoucey","quip":"The book-length sociology of exactly how foie gras became a fight about taste, identity, animals and law.","salesPriority":5,"url":"https://www.amazon.com/dp/069118318X?tag=blappos-20"},
+      {"title":"The Citizen's Guide to Political Change","image":"https://m.media-amazon.com/images/P/B0DBFLFYB9.01.LZZZZZZZ.jpg","alt":"Cover of The Citizen's Guide to Political Change","quip":"A practical guide to ballot initiatives for everyone who wants to read past the mascot and into the mechanism.","salesPriority":5,"url":"https://www.amazon.com/dp/B0DBFLFYB9?tag=blappos-20"},
+      {"title":"Storey's Guide to Raising Ducks, 2nd Edition","image":"https://m.media-amazon.com/images/P/1603426922.01.LZZZZZZZ.jpg","alt":"Cover of Storey's Guide to Raising Ducks by Dave Holderread","quip":"The husbandry reference for understanding the actual bird behind Washington's most photogenic policy surrogate.","salesPriority":4,"url":"https://www.amazon.com/dp/1603426922?tag=blappos-20"}
+    ],
+    "source": "https://www.washingtonpost.com/dc-md-va/2026/10/25/meet-olivia-duck-quacking-keep-foie-gras-off-dc-menus/",
+    "sourceName": "Read The Washington Post's October 25 report and the official D.C. ballot formulation",
+    "sourcePublisher": "The Washington Post",
+    "socialSummary": "The Washington Post reported October 25 that Olivia, a 4½-pound Swedish Blue duck, is campaigning for D.C. Initiative 86, a November 3 ballot measure concerning force-feeding birds and sales of resulting foie gras products.",
+    "socialPunchline": "Blappos: Washington found a lobbyist whose whole platform fits into one quack."
+  },
+  {
+    "id": "oct25-tiny-people-mushroom",
+    "isoDate": "2026-10-25",
+    "month": "October",
+    "date": "Oct 25, 2026",
+    "place": "Yunnan, China / northern Philippines",
+    "image": "assets/cards/2026-10-25-tiny-people-mushroom.webp",
+    "title": "A Mushroom Apparently Hires Hundreds of Tiny People",
+    "magnetUrl": "https://blappos.printify.me/product/33557450",
+    "magnetPrice": "$9.99",
+    "facts": "ScienceDaily's October 25 research digest revisited a 2026 Mycologia study in which DNA sequencing linked reports from southwest China and the northern Philippines to Lanmaoa asiatica. Independent accounts describe lilliputian hallucinations: numerous tiny human, animal or fantasy figures moving through the real environment. The University of Utah team found no close genomic matches to known biosynthetic genes for psilocybin or ibotenic acid, so the responsible compound and mechanism remain unknown.",
+    "why": "The result is an identification and a research lead, not an invitation to experiment. Similar reports across separated cultures make the phenomenon scientifically interesting, while the missing chemical explanation is the important uncertainty—not a license to fill the gap with folklore. Wild mushrooms are frequently misidentified, potentially poisonous and unsuitable for self-testing; the public value is in documented specimens, sequencing and controlled chemistry.",
+    "angle": "The October 25 digest clock, the earlier peer-reviewed study, the DNA link and the unknown-compound boundary end above. The Blappos interpretation: the mushroom does not contain a known psychedelic; it contains a fully staffed tiny-people department with unclear payroll. The magnet's mushroom, soup, spoon, miniature figures and Yunnan landscape are original surreal illustration—not a specimen photograph, identification guide, dosing advice or depiction of a verified individual experience.",
+    "amazonLinks": [
+      {"title":"Entangled Life","image":"https://m.media-amazon.com/images/P/052551032X.01.LZZZZZZZ.jpg","alt":"Cover of Entangled Life by Merlin Sheldrake","quip":"A lucid tour of fungal biology for the story where the organism is stranger than the familiar chemical explanation.","salesPriority":5,"url":"https://www.amazon.com/dp/052551032X?tag=blappos-20"},
+      {"title":"Mushrooms Demystified","image":"https://m.media-amazon.com/images/P/0898151694.01.LZZZZZZZ.jpg","alt":"Cover of Mushrooms Demystified by David Arora","quip":"A comprehensive field reference that also reinforces the first rule of mushroom mysteries: identify before you infer.","salesPriority":5,"url":"https://www.amazon.com/dp/0898151694?tag=blappos-20"},
+      {"title":"Fly Agaric: A Compendium","image":"https://m.media-amazon.com/images/P/0578714426.01.LZZZZZZZ.jpg","alt":"Cover of Fly Agaric edited by Kevin Feeney","quip":"History, pharmacology and folklore from a different psychoactive mushroom—useful contrast for a species whose active agent is still unknown.","salesPriority":4,"url":"https://www.amazon.com/dp/0578714426?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+    "sourceName": "Read ScienceDaily's October 25 digest and the linked Mycologia study",
+    "sourcePublisher": "ScienceDaily",
+    "socialSummary": "ScienceDaily's October 25 digest highlighted a 2026 study linking reports of tiny-figure hallucinations in China and the Philippines to Lanmaoa asiatica; researchers still do not know the active compound or mechanism.",
+    "socialPunchline": "Blappos: The mushroom appears to maintain a fully staffed tiny-people department."
+  },
+  {
+    "id": "oct25-madrid-sheep-detour",
+    "isoDate": "2026-10-25",
+    "month": "October",
+    "date": "Oct 25, 2026",
+    "place": "Madrid, Spain",
+    "image": "assets/cards/2026-10-25-madrid-sheep-detour.webp",
+    "title": "Madrid Reroutes 1,410 Sheep and Goats Around a Protest Camp",
+    "magnetUrl": "https://blappos.printify.me/product/33557461",
+    "magnetPrice": "$9.99",
+    "facts": "The Associated Press reported October 25 that Madrid's annual Transhumance Festival rerouted its livestock procession around a housing protest camp in Puerta del Sol. A city notice identified 1,250 sheep and 160 goats—1,410 animals total—and said the reception moved to Plaza de la Villa because the usual route could not cross the square. The protest followed the eviction of 87-year-old María del Carmen Abascal from her longtime home and her death in hospital shortly afterward.",
+    "why": "The detour joins three real urban systems: a protected civic demonstration, a modern city route and an ancient seasonal livestock tradition. Transhumance is not merely pageantry; grazing animals can clear brush and other flammable growth, while the festival preserves knowledge that has declined with rural depopulation and industrial farming. The humane joke is the traffic plan, not the housing crisis or the death that intensified it.",
+    "angle": "The AP report, municipal animal count, changed route and protest context end above. The Blappos interpretation: Madrid's traffic desk successfully rescheduled 1,410 bell-equipped pedestrians with no driver's licenses. The magnet's flock, shepherds, barriers, camp and square are original editorial illustration—not the real march, protesters, Maricarmen, an official route map or a claim that livestock resolved the housing dispute.",
+    "amazonLinks": [
+      {"title":"The Shepherd's Life","image":"https://m.media-amazon.com/images/P/1250060241.01.LZZZZZZZ.jpg","alt":"Cover of The Shepherd's Life by James Rebanks","quip":"A modern shepherd's account of the ancient work behind the flock that briefly became Madrid traffic.","salesPriority":5,"url":"https://www.amazon.com/dp/1250060241?tag=blappos-20"},
+      {"title":"The Sheep Book","image":"https://m.media-amazon.com/images/P/0804010323.01.LZZZZZZZ.jpg","alt":"Cover of The Sheep Book by Ronald B. Parker","quip":"A practical year in sheep and shepherding for the 1,250 members of the detour who supplied the wool.","salesPriority":5,"url":"https://www.amazon.com/dp/0804010323?tag=blappos-20"},
+      {"title":"Lonely Planet Madrid","image":"https://m.media-amazon.com/images/P/1838691863.01.LZZZZZZZ.jpg","alt":"Cover of Lonely Planet Madrid travel guide","quip":"A city guide for navigating Madrid on the days when the pedestrian route unexpectedly contains 1,410 livestock.","salesPriority":4,"url":"https://www.amazon.com/dp/1838691863?tag=blappos-20"}
+    ],
+    "source": "https://apnews.com/article/madrid-sheep-transhumance-festival-housing-protest-detour-4fae00a393370af0816c2460853b8e32",
+    "sourceName": "Read The Associated Press's October 25 report and Madrid's municipal notice",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "The Associated Press reported October 25 that Madrid's Transhumance Festival rerouted its 1,250 sheep and 160 goats around a Puerta del Sol housing protest camp, preserving both the march and the demonstration.",
+    "socialPunchline": "Blappos: Traffic control successfully rerouted 1,410 bell-equipped pedestrians."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct25StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct25StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 25 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+// October 25 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
+
+// October 26 candidates remain invisible on the public site until the Printify workflow
+// publishes and links each exact physical magnet. Do not add blank magnet fields here:
+// the workflow selects stories for which magnetUrl is absent.
+const oct26StagingStories = [
+  {
+    "id": "oct26-evidence-detour",
+    "isoDate": "2026-10-26",
+    "month": "October",
+    "date": "Oct 26, 2026",
+    "place": "Orlando, Florida",
+    "image": "assets/cards/2026-10-26-evidence-detour.webp",
+    "title": "Orlando’s $760,000 Evidence Takes a Two-Week Detour","magnetUrl":"https://blappos.printify.me/product/33599752","magnetPrice":"$9.99",
+    "facts": "An October 26 report followed an October 22 State Attorney release announcing that a jury found Jaythan Gilder guilty of robbery and grand theft. Prosecutors said that in February 2025 he posed as a representative negotiating for a professional basketball player, took Tiffany & Co. merchandise valued above $760,000 and used force against an employee. After his arrest, he swallowed stolen earrings; authorities monitored him for nearly two weeks before recovering them. Sentencing was set for December 7.",
+    "why": "The spectacle is not the whole case. The employee’s safety, a jury verdict and a still-pending sentence are the consequential facts; the unusual recovery belongs inside that legal timeline rather than replacing it. It also demonstrates why evidence custody sometimes extends beyond an evidence room—and why a prosecution release should be identified as the prosecution’s account even after a conviction.",
+    "angle": "The October 26 report clock, the October 22 official verdict release, the February 2025 event and the pending sentence end above. The Blappos interpretation: the evidence entered transit without a tracking number. The magnet’s anonymous torso diagram, earrings, evidence envelope and courthouse are original editorial illustration—not a medical image, the defendant, the employee, a Tiffany design or a joke about the robbery victim.",
+    "amazonLinks": [
+      {"title":"Stoned: Jewelry, Obsession, and How Desire Shapes the World","image":"https://m.media-amazon.com/images/P/0062334700.01.LZZZZZZZ.jpg","alt":"Cover of Stoned by Aja Raden","quip":"A history of how precious objects acquire enough human meaning to turn a tiny pair of earrings into a very large case file.","salesPriority":5,"url":"https://www.amazon.com/dp/0062334700?tag=blappos-20"},
+      {"title":"The Cartiers: The Untold Story of the Family Behind the Jewelry Empire","image":"https://m.media-amazon.com/images/P/052562161X.01.LZZZZZZZ.jpg","alt":"Cover of The Cartiers by Francesca Cartier Brickell","quip":"A family and luxury-history companion for the world of high-value jewelry behind the evidence log.","salesPriority":5,"url":"https://www.amazon.com/dp/052562161X?tag=blappos-20"},
+      {"title":"Forensics: What Bugs, Burns, Prints, DNA, and More Tell Us About Crime","image":"https://m.media-amazon.com/images/P/0802125158.01.LZZZZZZZ.jpg","alt":"Cover of Forensics by Val McDermid","quip":"The evidence-science primer for a case whose chain of custody took the least glamorous possible route.","salesPriority":4,"url":"https://www.amazon.com/dp/0802125158?tag=blappos-20"}
+    ],
+    "source": "https://nypost.com/2026/10/26/us-news/florida-man-convicted-of-stealing-over-760k-worth-of-tiffanys-jewelry-he-swallowed/",
+    "sourceName": "Read the New York Post’s October 26 report and the State Attorney’s October 22 verdict release",
+    "sourcePublisher": "New York Post",
+    "socialSummary": "A jury convicted a man of robbery and grand theft in a $760,000 jewelry case; prosecutors said he swallowed stolen earrings after arrest, and authorities recovered them nearly two weeks later.",
+    "socialPunchline": "Blappos: The evidence entered transit without a tracking number."
+  },
+  {
+    "id": "oct26-prosthetic-sense",
+    "isoDate": "2026-10-26",
+    "month": "October",
+    "date": "Oct 26, 2026",
+    "place": "Pisa, Italy / Cleveland, Ohio",
+    "image": "assets/cards/2026-10-26-prosthetic-sense.webp",
+    "title": "A Prosthetic Hand Learns Where It Is Without Looking","magnetUrl":"https://blappos.printify.me/product/33599756","magnetPrice":"$9.99",
+    "facts": "SciTechDaily’s October 26 digest revisited a Science Advances study published in June. Researchers implanted three small biocompatible magnets in residual forearm muscles of one 34-year-old participant with a traumatic amputation. External electromagnetic coils vibrated individual implants without touching the skin; the participant reported coordinated sensations of the missing hand moving, a form of kinesthesia that could supply position feedback for a prosthetic interface.",
+    "why": "Most prosthetic control emphasizes sending a command out; natural movement also depends on feedback coming back. A position sense could reduce the need to watch a device constantly. But this was one participant during a short feasibility study, and the induced percepts concerned coordinated hand movement—not restored touch, independent finger sensation or proof that a broadly available clinical product is ready.",
+    "angle": "The October 26 digest clock, June paper, one-person sample and kinesthesia-versus-touch boundary end above. The Blappos interpretation: the hand has acquired an internal GPS and immediately stopped asking the eyeballs for directions. The magnet’s anonymous person, prosthetic hand, forearm implants and signal arcs are original editorial illustration—not the participant, surgical guidance, a product claim or a promise of restored sensation.",
+    "amazonLinks": [
+      {"title":"The Body Factory: From the First Prosthetics to the Augmented Human","image":"https://m.media-amazon.com/images/P/0271087064.01.LZZZZZZZ.jpg","alt":"Cover of The Body Factory by Héloïse Chochois","quip":"An illustrated history of prosthetics that puts one experimental sensory interface on a much longer engineering timeline.","salesPriority":5,"url":"https://www.amazon.com/dp/0271087064?tag=blappos-20"},
+      {"title":"Biomechanical Basis of Human Movement","image":"https://m.media-amazon.com/images/P/1451194048.01.LZZZZZZZ.jpg","alt":"Cover of Biomechanical Basis of Human Movement","quip":"The movement-science reference for understanding why knowing where a limb is matters as much as telling it where to go.","salesPriority":5,"url":"https://www.amazon.com/dp/1451194048?tag=blappos-20"},
+      {"title":"Ultimate Engineering: An Engineer Investigates the Biomechanics of the Human Body","image":"https://m.media-amazon.com/images/P/1637120842.01.LZZZZZZZ.jpg","alt":"Cover of Ultimate Engineering by Paul Mason","quip":"A younger-reader bridge from muscles and joints to the engineering problem of rebuilding useful feedback.","salesPriority":4,"url":"https://www.amazon.com/dp/1637120842?tag=blappos-20"}
+    ],
+    "source": "https://scitechdaily.com/tiny-magnets-implanted-in-muscles-are-giving-prosthetic-hands-a-remarkable-new-ability/",
+    "sourceName": "Read SciTechDaily’s October 26 digest and the linked Science Advances study",
+    "sourcePublisher": "SciTechDaily",
+    "socialSummary": "A June one-participant study resurfaced October 26: vibrating three magnets implanted in residual forearm muscles produced coordinated missing-hand movement sensations that could provide prosthetic position feedback.",
+    "socialPunchline": "Blappos: The hand got an internal GPS and stopped asking the eyeballs for directions."
+  },
+  {
+    "id": "oct26-water-motorcycle",
+    "isoDate": "2026-10-26",
+    "month": "October",
+    "date": "Oct 26, 2026",
+    "place": "Mayang, Hunan, China",
+    "image": "assets/cards/2026-10-26-water-motorcycle.webp",
+    "title": "The Road Ends; the Motorcycle Keeps Going for 40.74 Kilometers","magnetUrl":"https://blappos.printify.me/product/33599765","magnetPrice":"$9.99",
+    "facts": "UPI reported October 26 that Zhang Xue rode a modified ZXMOTO MX450 for 40.74 kilometers across open water in Mayang, Hunan, earning a Guinness World Records title. Reporting on the October 25 attempt describes repeated passes on the Chen River, a front ski for support and steering, waterproofing, an enlarged fuel tank and a rear tire that supplied propulsion while skimming the surface.",
+    "why": "The record is a controlled demonstration of speed, flotation, traction and reliability—not evidence that a street motorcycle is secretly a boat. The exact category and specialized machine matter: repeated open-water passes accumulated the certified distance. That boundary makes the achievement more legible and keeps a striking clip from turning into unsafe imitation or a misleading consumer claim.",
+    "angle": "The October 26 report, October 25 attempt, 40.74-kilometer certified distance and specialized-watercraft boundary end above. The Blappos interpretation: the road department forgot to pave the river, so the motorcycle filed a continuation plan. The magnet’s rider and machine are original editorial illustration—not Zhang, a ZXMOTO advertisement, a route map, ordinary-bike advice or encouragement to ride on water.",
+    "amazonLinks": [
+      {"title":"Zen and the Art of Motorcycle Maintenance","image":"https://m.media-amazon.com/images/P/0060589469.01.LZZZZZZZ.jpg","alt":"Cover of Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig","quip":"The classic road philosophy for the record attempt that calmly continued after the road had become a river.","salesPriority":5,"url":"https://www.amazon.com/dp/0060589469?tag=blappos-20"},
+      {"title":"How to Build a Motorcycle: A Nut-and-Bolt Guide to Customizing Your Bike","image":"https://m.media-amazon.com/images/P/1786277581.01.LZZZZZZZ.jpg","alt":"Cover of How to Build a Motorcycle by Gary Inman and Adi Gilbert","quip":"A customization guide for appreciating the mechanical craft—strictly on dry land—behind a purpose-built machine.","salesPriority":5,"url":"https://www.amazon.com/dp/1786277581?tag=blappos-20"},
+      {"title":"The Motorcycle: Design, Art, Desire","image":"https://m.media-amazon.com/images/P/1838666567.01.LZZZZZZZ.jpg","alt":"Cover of The Motorcycle: Design, Art, Desire","quip":"A visual design history for anyone who believes motorcycles have already exhausted every possible surface. They have not.","salesPriority":4,"url":"https://www.amazon.com/dp/1838666567?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/26/guinness-world-records-motorcycle-water/9111793033790/",
+    "sourceName": "Read UPI’s October 26 report and supporting record-attempt coverage",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Zhang Xue earned a Guinness World Records title by riding a specially modified motorcycle 40.74 kilometers across open water in Hunan, using a front ski and the rear tire for propulsion.",
+    "socialPunchline": "Blappos: The road ended, so the motorcycle filed a continuation plan."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct26StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct26StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 26 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+// October 26 permanent-page check passed: source context, artwork links and BUY CTAs are ready; authorize Buffer scheduling.
+
+// October 27 candidates remain invisible on the public site until the Printify workflow
+// publishes and links each exact physical magnet. Do not add blank magnet fields here:
+// the workflow selects stories for which magnetUrl is absent.
+const oct27StagingStories = [
+  {
+    "id": "oct27-knuckle-handstand",
+    "isoDate": "2026-10-27",
+    "month": "October",
+    "date": "Oct 27, 2026",
+    "place": "Tennessee",
+    "image": "assets/cards/2026-10-27-knuckle-handstand.webp",
+    "title": "A Gymnast Holds a Handstand on His Knuckles for 83 Seconds","magnetUrl":"https://blappos.printify.me/product/33640558","magnetPrice":"$9.99",
+    "facts": "Guinness World Records reported October 27 that Tennessee gymnast Madden Shelley earned the male title for longest handstand on the knuckles by balancing for 1 minute 23 seconds. The certified performance happened on September 11, 2025. Shelley said he trained in three phases for more than four months after injuries had interrupted his competitive gymnastics path.",
+    "why": "The record is an unusually specific test of balance, body control and pain tolerance, not a general handstand recommendation. Shelley said the position compressed his knuckles beyond perpendicular and caused swelling after attempts. The certification date, exact category and long training timeline keep a striking result from becoming a safe-looking challenge for an untrained viewer.",
+    "angle": "The October 27 publication clock, September 11, 2025 attempt, male record category and injury boundary end above. The Blappos interpretation: he put the entire concept of standing on the smallest possible support surface. The magnet's anonymous gymnast, gym and stopwatch are original editorial illustration—not Shelley, an instruction, a copied photograph or Guinness branding.",
+    "amazonLinks": [
+      {"title":"Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength","image":"https://m.media-amazon.com/images/P/0990873854.01.LZZZZZZZ.jpg","alt":"Cover of Overcoming Gravity by Steven Low","quip":"A structured bodyweight-strength reference for understanding the preparation behind advanced balance skills—not a shortcut to the knuckle version.","salesPriority":5,"url":"https://www.amazon.com/dp/0990873854?tag=blappos-20"},
+      {"title":"Complete Calisthenics, Second Edition","image":"https://m.media-amazon.com/images/P/1623174112.01.LZZZZZZZ.jpg","alt":"Cover of Complete Calisthenics by Ashley Kalym","quip":"Progressions, recovery and technique for readers who would like their upside-down ambitions to begin somewhere more sensible than their knuckles.","salesPriority":5,"url":"https://www.amazon.com/dp/1623174112?tag=blappos-20"},
+      {"title":"Gymnastics: Skills, Techniques, Training","image":"https://m.media-amazon.com/images/P/1847974074.01.LZZZZZZZ.jpg","alt":"Cover of Gymnastics: Skills, Techniques, Training by Lloyd Readhead","quip":"A sport-specific guide that puts one record pose inside the much larger discipline of trained gymnastics movement.","salesPriority":4,"url":"https://www.amazon.com/dp/1847974074?tag=blappos-20"}
+    ],
+    "source": "https://www.guinnessworldrecords.com/news/2026/10/american-gymnast-knuckles-down-to-nail-record-breaking-handstand",
+    "sourceName": "Read Guinness World Records' October 27 report",
+    "sourcePublisher": "Guinness World Records",
+    "socialSummary": "Guinness World Records reported October 27 that Tennessee gymnast Madden Shelley earned the male knuckle-handstand title with a certified 1 minute 23 second performance after more than four months of specialized training.",
+    "socialPunchline": "Blappos: He put the entire concept of standing on the smallest possible support surface."
+  },
+  {
+    "id": "oct27-spider-sleep",
+    "isoDate": "2026-10-27",
+    "month": "October",
+    "date": "Oct 27, 2026",
+    "place": "Bonn, Germany / northern Australia",
+    "image": "assets/cards/2026-10-27-spider-sleep.webp",
+    "title": "Jumping Spiders Clock Two Sleep Stages; Dreams Stay Unverified","magnetUrl":"https://blappos.printify.me/product/33640563","magnetPrice":"$9.99",
+    "facts": "The University of Bonn reported October 27 that researchers found two distinguishable sleep stages in the Australian jumping spider Portia fimbriata, including a REM-like phase with eye movements and muscle twitches. The team recorded spiders over several day-night cycles, tested their responses to sound and interrupted sleep to look for compensating sleep rebound. The peer-reviewed study appeared in PNAS.",
+    "why": "The work supplies a strong behavioral case for regulated sleep in a spider and gives comparative biology a very distant branch for studying how sleep evolved. It does not prove that spiders dream: the team did not measure brain activity, and REM-like movement is evidence of a sleep stage rather than a transcript of subjective experience.",
+    "angle": "The two stages, behavioral tests, acoustic arousal method and dreaming limit end above. The Blappos interpretation: the web now has a night mode, but its browsing history remains private. The magnet's spider, silk hammock, moon and waveforms are original editorial illustration—not a study frame, brain trace or claim that researchers watched a spider dream.",
+    "amazonLinks": [
+      {"title":"Biology of Spiders","image":"https://m.media-amazon.com/images/P/0199734828.01.LZZZZZZZ.jpg","alt":"Cover of Biology of Spiders by Rainer F. Foelix","quip":"The comprehensive arachnid reference for placing one two-stage sleep result inside the biology of an extraordinarily varied order.","salesPriority":5,"url":"https://www.amazon.com/dp/0199734828?tag=blappos-20"},
+      {"title":"Spider Silk: Evolution and 400 Million Years of Spinning, Waiting, Snagging, and Mating","image":"https://m.media-amazon.com/images/P/0300181469.01.LZZZZZZZ.jpg","alt":"Cover of Spider Silk by Leslie Brunetta and Catherine L. Craig","quip":"A readable evolutionary history of the material that also gives Portia a place to hang upside down for the night shift.","salesPriority":5,"url":"https://www.amazon.com/dp/0300181469?tag=blappos-20"},
+      {"title":"The Private Life of Spiders","image":"https://m.media-amazon.com/images/P/0691150036.01.LZZZZZZZ.jpg","alt":"Cover of The Private Life of Spiders by Paul Hillyard","quip":"A visual tour of spider behavior for readers newly curious about what eight-legged lives contain when the laboratory lights go out.","salesPriority":4,"url":"https://www.amazon.com/dp/0691150036?tag=blappos-20"}
+    ],
+    "source": "https://www.uni-bonn.de/en/news/221-2026",
+    "sourceName": "Read the University of Bonn's October 27 research explainer and linked PNAS paper",
+    "sourcePublisher": "University of Bonn",
+    "socialSummary": "University of Bonn researchers reported two regulated sleep stages in Portia fimbriata jumping spiders, including a REM-like phase; response tests and sleep rebound supported sleep, but the study did not establish dreaming.",
+    "socialPunchline": "Blappos: The web has a night mode, but its browsing history remains private."
+  },
+  {
+    "id": "oct27-earwax-barrier",
+    "isoDate": "2026-10-27",
+    "month": "October",
+    "date": "Oct 27, 2026",
+    "place": "Atlanta, Georgia",
+    "image": "assets/cards/2026-10-27-earwax-barrier.webp",
+    "title": "Earwax Turns Out to Be a Tiny Ant Obstacle Course","magnetUrl":"https://blappos.printify.me/product/33640568","magnetPrice":"$9.99",
+    "facts": "In an October 27 first-person explainer for The Conversation, Georgia Tech researcher David Hu described experiments published in Soft Matter showing that earwax is both slick and adhesive. The team used microscopy, rheology, ant-climbing tests and artificial earwax to study its porous, water-absorbing and viscoelastic behavior. Ants struggled both to climb wax-coated surfaces and to clean wax from their bodies.",
+    "why": "The combined properties offer a mechanical explanation for how mammalian earwax could impede small invaders and may inspire lower-toxicity insect barriers. But this is a materials-and-ant study, not proof that earwax stops every insect, a finished repellent product or permission to put experimental substances in an ear. The paper also found that wax became brittle over roughly ten weeks, a possible route to self-removal.",
+    "angle": "The October 27 explainer, September 22 paper, ant experiments and product ceiling end above. The Blappos interpretation: the ear canal has been operating a sticky-floor nightclub policy without a bouncer. The magnet's generic ear cross-section, ants and magnifier are original editorial illustration—not a medical diagram, treatment advice or a claim about any person's ear.",
+    "amazonLinks": [
+      {"title":"Sticky: The Secret Science of Surfaces","image":"https://m.media-amazon.com/images/P/1472950836.01.LZZZZZZZ.jpg","alt":"Cover of Sticky by Laurie Winkless","quip":"A materials-science tour of adhesion and friction for the substance that somehow chose both sides of the slippery-versus-sticky argument.","salesPriority":5,"url":"https://www.amazon.com/dp/1472950836?tag=blappos-20"},
+      {"title":"Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World","image":"https://m.media-amazon.com/images/P/0544483944.01.LZZZZZZZ.jpg","alt":"Cover of Stuff Matters by Mark Miodownik","quip":"A guide to seeing everyday materials as engineering systems—even when the material was never invited onto the usual list.","salesPriority":5,"url":"https://www.amazon.com/dp/0544483944?tag=blappos-20"},
+      {"title":"Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees","image":"https://m.media-amazon.com/images/P/1541645766.01.LZZZZZZZ.jpg","alt":"Cover of Never Home Alone by Rob Dunn","quip":"A household-ecology companion for remembering that the tiny visitors around us have been negotiating barriers for a very long time.","salesPriority":4,"url":"https://www.amazon.com/dp/1541645766?tag=blappos-20"}
+    ],
+    "source": "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324",
+    "sourceName": "Read The Conversation's October 27 research explainer and the linked Soft Matter paper",
+    "sourcePublisher": "The Conversation",
+    "socialSummary": "A Georgia Tech team reported that earwax is both slick and adhesive: microscopy, materials testing and ant experiments showed ants struggled to climb wax-coated surfaces and remove wax from their bodies.",
+    "socialPunchline": "Blappos: The ear canal has been operating a sticky-floor nightclub policy without a bouncer."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct27StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct27StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 27 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+// October 27 permanent-page check passed: source context, artwork links and BUY CTAs are ready; authorize Buffer scheduling.
+
+// October 27 live-page QA passed: exact story magnet CTAs and product pages verified before social release.
+
+const oct28StagingStories = [
+  {
+    "id": "oct28-robot-dog-walkers",
+    "isoDate": "2026-10-28",
+    "month": "October",
+    "date": "Oct 28, 2026",
+    "place": "San Francisco, California",
+    "image": "assets/cards/oct28-robot-dog-walkers.webp",
+    "title": "San Francisco’s Robot Dogs Still Need Human Walkers","magnetUrl":"https://blappos.printify.me/product/33682771","magnetPrice":"$9.99",
+    "facts": "UPI reported October 28 that San Francisco startup Dimensional had advertised for people to walk robot dogs through public routes in the Dogpatch neighborhood. The since-deleted Bay Area Jobs post offered $20 an hour for four-to-six-hour shifts and required walkers to handle roughly 33-pound machines and carry a robot back if it failed. Founder Stash Pomichter told The New York Times, in a passage quoted by UPI, that the company is developing an open-source operating system for physical labor and still needs human help while its agents learn to control hardware.",
+    "why": "The job makes a normally invisible stage of embodied-AI development visible: before a machine can work independently in public, people may have to supervise it, recover it and generate the real-world experience its software lacks. The listing is evidence of one company’s field-testing workflow, not proof that robot dogs are autonomous employees or that a $20-an-hour walker is being replaced by one.",
+    "angle": "The October 28 report, deleted-listing status, pay, weight and human-supervision boundary end above. The Blappos interpretation: the robot dog has reached the part of technological progress where it needs a human to take it outside. The magnet’s anonymous walker, machines and Dogpatch street are original editorial illustration—not the company’s robots, listing or a claim that a living dog was involved.",
+    "amazonLinks": [
+      {"title":"Petoi Bittle X V2 Programmable Robot Dog Kit","image":"https://www.petoi.com/cdn/shop/files/BittleBlackYellowcleanbg.jpg?v=1782525667","alt":"Petoi Bittle X programmable quadruped robot dog kit","quip":"A buildable open-source quadruped for seeing how many joints, sensors and lines of code stand between a robot and an uneventful walk.","salesPriority":5,"url":"https://www.amazon.com/dp/B0FNT6TSVT?tag=blappos-20"},
+      {"title":"The New Breed: What Our History with Animals Reveals About Our Future with Robots","image":"https://m.media-amazon.com/images/P/1250296102.01.LZZZZZZZ.jpg","alt":"Cover of The New Breed by Kate Darling","quip":"A useful framework for understanding why people keep reaching for animal relationships when the hardware grows legs.","salesPriority":5,"url":"https://www.amazon.com/dp/1250296102?tag=blappos-20"},
+      {"title":"The Robotics Primer","image":"https://m.media-amazon.com/images/P/026263354X.01.LZZZZZZZ.jpg","alt":"Cover of The Robotics Primer by Maja J. Mataric","quip":"An accessible guide to locomotion, sensing and control—the engineering underneath a robot that still occasionally needs carrying home.","salesPriority":4,"url":"https://www.amazon.com/dp/026263354X?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/28/dimension-san-francisco-robot-dog-walkers/9021793207168/",
+    "sourceName": "Read UPI’s October 28 report and quoted job-listing details",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported October 28 that San Francisco startup Dimensional advertised for people to walk 33-pound robot dogs through public routes, supervise them and carry one back if it failed while the company develops software for physical labor.",
+    "socialPunchline": "Blappos: The robot dog has reached the stage of progress where it needs a human to take it outside."
+  },
+  {
+    "id": "oct28-spreadsheet-collector",
+    "isoDate": "2026-10-28",
+    "month": "October",
+    "date": "Oct 28, 2026",
+    "place": "Buenos Aires, Argentina",
+    "image": "assets/cards/oct28-spreadsheet-collector.webp",
+    "title": "A Spreadsheet Collector Passes 1,000 Programs; the Record Still Says 506","magnetUrl":"https://blappos.printify.me/product/33682777","magnetPrice":"$9.99",
+    "facts": "Guinness World Records reported October 28 that Buenos Aires financial adviser Ariel Fischman says his physical spreadsheet-software collection has grown beyond 1,000 items. Guinness certified the collection at 506 unique items in 2018, so 506 remains the official measured record in the published account. The archive began with Fischman’s interest in the history of electronic accounting and includes early software, manuals and multiple editions; the Guinness article highlights VisiCalc, first released in 1978, as a landmark in the category.",
+    "why": "A physical software archive preserves packaging, documentation and edition history that disappear when programs become downloads or subscriptions. The two numbers matter: more than 1,000 is the collector’s current total, while 506 is the certified count. Keeping them separate prevents a fresh personal estimate from being silently upgraded into a new verified world record.",
+    "angle": "The October 28 article, 2018 certification, current self-reported total and record boundary end above. The Blappos interpretation: after collecting a thousand spreadsheet programs, the only empty cells left are weekends. The magnet’s anonymous collector, shelves, floppy disks and old computers are original editorial illustration—not Fischman, a photographed item, a software interface or a recertification notice.",
+    "amazonLinks": [
+      {"title":"Bricklin on Technology","image":"https://m.media-amazon.com/images/P/0470402377.01.LZZZZZZZ.jpg","alt":"Cover of Bricklin on Technology by Dan Bricklin","quip":"Essays from the VisiCalc co-creator whose work helps explain why spreadsheet history merits a shelf instead of a recycle bin.","salesPriority":5,"url":"https://www.amazon.com/dp/0470402377?tag=blappos-20"},
+      {"title":"Microsoft Excel 365 Bible, Second Edition","image":"https://m.media-amazon.com/images/P/1394298242.01.LZZZZZZZ.jpg","alt":"Cover of Microsoft Excel 365 Bible, Second Edition","quip":"A 1,088-page reminder that one current spreadsheet program can already become a collection-sized reading project.","salesPriority":5,"url":"https://www.amazon.com/dp/1394298242?tag=blappos-20"},
+      {"title":"A New History of Modern Computing","image":"https://m.media-amazon.com/images/P/0262542900.01.LZZZZZZZ.jpg","alt":"Cover of A New History of Modern Computing by Thomas Haigh and Paul E. Ceruzzi","quip":"A wider history of how computers became universal, giving the collector’s thousand software artifacts their technological neighborhood.","salesPriority":4,"url":"https://www.amazon.com/dp/0262542900?tag=blappos-20"}
+    ],
+    "source": "https://www.guinnessworldrecords.com/news/2026/10/everyone-loves-spreadsheets-why-financial-advisor-amassed-record-software-collection",
+    "sourceName": "Read Guinness World Records’ October 28 profile and certified-count note",
+    "sourcePublisher": "Guinness World Records",
+    "socialSummary": "Guinness World Records reported October 28 that Ariel Fischman says his physical spreadsheet-software collection now exceeds 1,000 items; the published certified record remains the 506 unique items counted in 2018.",
+    "socialPunchline": "Blappos: A thousand spreadsheet programs later, the only empty cells are weekends."
+  },
+  {
+    "id": "oct28-mascot-protest",
+    "isoDate": "2026-10-28",
+    "month": "October",
+    "date": "Oct 28, 2026",
+    "place": "Boston, Massachusetts",
+    "image": "assets/cards/oct28-mascot-protest.webp",
+    "title": "Boston Gives an Insurance Mascot Its Own Opposition Party","magnetUrl":"https://blappos.printify.me/product/33682781","magnetPrice":"$9.99",
+    "facts": "UPI reported October 28 that dozens of people had gathered outside Liberty Mutual’s Boston headquarters on Sunday to protest the company’s recurring ‘Liberty Biberty’ advertising character. Organizer Connor Harvey, 19, said a video promoting the event had drawn about 600,000 views. The protest was peaceful, signs included ‘Liberty from Biberty,’ and one counter-protester arrived dressed as the mascot.",
+    "why": "A joke about repetitive advertising became a real public assembly, showing how online attention can turn brand fatigue into an offline participatory event. The turnout documents a protest against a fictional campaign character—not a policy claim about the insurer, a labor dispute or evidence that every participant shared a deeper cause.",
+    "angle": "The October 28 report, Sunday event, peaceful character and advertising-only claim ceiling end above. The Blappos interpretation: the ad budget finally generated its own opposition party and a one-mascot counter-demonstration. The magnet’s protesters, signs, office and fuzzy creature are original editorial illustration—not actual attendees, the branded mascot, Liberty Mutual trade dress or a copied event photograph.",
+    "amazonLinks": [
+      {"title":"Hey, Whipple, Squeeze This: The Classic Guide to Creating Great Advertising","image":"https://m.media-amazon.com/images/P/1119819695.01.LZZZZZZZ.jpg","alt":"Cover of Hey, Whipple, Squeeze This by Luke Sullivan","quip":"An advertising classic whose opening question—why everybody hates ads—now has a Boston field study with signs.","salesPriority":5,"url":"https://www.amazon.com/dp/1119819695?tag=blappos-20"},
+      {"title":"No Logo","image":"https://m.media-amazon.com/images/P/0312429274.01.LZZZZZZZ.jpg","alt":"Cover of No Logo by Naomi Klein","quip":"A cultural history of resistance to branded life for readers wondering how a commercial character acquired organized opposition.","salesPriority":5,"url":"https://www.amazon.com/dp/0312429274?tag=blappos-20"},
+      {"title":"Designing Brand Identity: An Essential Guide for the Whole Branding Team","image":"https://m.media-amazon.com/images/P/1118980824.01.LZZZZZZZ.jpg","alt":"Cover of Designing Brand Identity by Alina Wheeler","quip":"The practical brand-system reference for studying the long road from identity design to a mascot’s lone counter-protester.","salesPriority":4,"url":"https://www.amazon.com/dp/1118980824?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/28/liberty-biberty-protest/5661793206185/",
+    "sourceName": "Read UPI’s October 28 report on the Boston protest",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported October 28 that dozens peacefully protested an insurance advertising character outside Liberty Mutual’s Boston headquarters after an organizer’s video drew about 600,000 views; one person counter-protested in costume.",
+    "socialPunchline": "Blappos: The ad budget finally generated its own opposition party."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct28StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct28StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 28 staging gate: keep all three stories private until exact $9.99 Printify products are live and linked.
+// October 28 purchase QA passed: all three exact $9.99 Printify products are live; release permanent pages and social delivery.
+// October 28 live-page QA passed: exact magnet artwork, source links, three Amazon cards and both purchase CTAs verified before social release.
+
+// October 29 candidates remain invisible until the Printify workflow publishes
+// and writes back an exact physical-product URL and price for every story.
+const oct29StagingStories = [
+  {
+    "id": "oct29-deer-laundromat",
+    "isoDate": "2026-10-29",
+    "month": "October",
+    "date": "Oct 29, 2026",
+    "place": "Winston-Salem, North Carolina",
+    "image": "assets/cards/oct29-deer-laundromat.webp",
+    "title": "A Deer Chooses the Laundromat’s Heavy-Duty Cycle","magnetUrl":"https://blappos.printify.me/product/33721064","magnetPrice":"$9.99",
+    "facts": "UPI reported October 29 that security video from Wishy Washy Laundry in Winston-Salem showed a deer collide with a customer outside the business on Tuesday, break through a front window, run through the laundromat and climb onto rows of washers and dryers before leaving through the broken window. Owner Corey Pendergrass said no one was injured and the window was the only major damage.",
+    "why": "The incident is more than a perfect visual gag: frightened wildlife inside a reflective, noisy room can injure people, itself or both. The verified outcome was unusually fortunate. The reporting establishes the route, the absence of injuries and the repaired window; it does not establish why the deer entered or whether it was the same animal seen elsewhere.",
+    "angle": "The October 29 publication clock, Tuesday incident, video-supported route and no-injury boundary end above. The Blappos interpretation: the deer selected heavy duty, skipped detergent and left before the spin cycle. The magnet’s deer, customer, machines and storefront are original editorial illustration—not the real animal, customer, business trade dress or copied security footage.",
+    "amazonLinks": [
+      {"title":"The Hidden Life of Deer","image":"https://m.media-amazon.com/images/P/0061792101.01.LZZZZZZZ.jpg","alt":"Cover of The Hidden Life of Deer by Elizabeth Marshall Thomas","quip":"A naturalist’s close observation of deer behavior for understanding the animal behind the laundromat’s least predictable customer.","salesPriority":5,"url":"https://www.amazon.com/dp/0061792101?tag=blappos-20"},
+      {"title":"Deerland: America’s Hunt for Ecological Balance and the Essence of Wildness","image":"https://m.media-amazon.com/images/P/0762780274.01.LZZZZZZZ.jpg","alt":"Cover of Deerland by Al Cambronne","quip":"A broader look at the complicated places where abundant deer and human-built landscapes meet.","salesPriority":5,"url":"https://www.amazon.com/dp/0762780274?tag=blappos-20"},
+      {"title":"Laundry Love: Finding Joy in a Common Chore","image":"https://m.media-amazon.com/images/P/1250235219.01.LZZZZZZZ.jpg","alt":"Cover of Laundry Love by Patric Richardson","quip":"A laundry guide for every heavy-duty cycle that does not begin with antlers and a broken window.","salesPriority":4,"url":"https://www.amazon.com/dp/1250235219?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/29/deer-crashes-though-laundromat-winston-salem/5961793290016/",
+    "sourceName": "Read UPI’s October 29 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported October 29 that a deer collided with a customer outside a Winston-Salem laundromat, broke through a window, crossed rows of machines and exited through the broken window; the owner said no one was injured.",
+    "socialPunchline": "Blappos: Heavy duty chosen; spin declined."
+  },
+  {
+    "id": "oct29-fiambre-record",
+    "isoDate": "2026-10-29",
+    "month": "October",
+    "date": "Oct 29, 2026",
+    "place": "Guatemala City, Guatemala",
+    "image": "assets/cards/oct29-fiambre-record.webp",
+    "title": "Guatemala Mixes 4,325.9 Pounds of Family Recipe","magnetUrl":"https://blappos.printify.me/product/33721068","magnetPrice":"$9.99",
+    "facts": "UPI reported October 29 that chefs in Guatemala City prepared a 4,325.9-pound fiambre salad recognized by Guinness World Records. Guinness says the October 24 event used 52 distinct ingredients and produced 1,962.2 kilograms of fiambre, surpassing the category’s 500-kilogram minimum. An adjudicator observed the weighing, and the finished salad was served to the crowd during a celebration with music and traditional weaving.",
+    "why": "Fiambre is associated with Guatemala’s All Saints and All Souls observances and is famously variable from family to family. The record turned that living tradition into a measured public event without making one recipe the official version. Naming the event date, certification process and organizer also keeps a sponsored celebration distinct from an anonymous folk origin story.",
+    "angle": "The October 29 report, October 24 event, certified weight, 52-ingredient count and cultural boundary end above. The Blappos interpretation: Guatemala scaled the family recipe until the serving bowl required municipal planning. The magnet’s chefs, plaza, bowl, textiles and ingredients are original editorial illustration—not event attendees, a copied photograph, company branding or a claim that one household recipe represents every fiambre.",
+    "amazonLinks": [
+      {"title":"Amalia’s Guatemalan Kitchen: Gourmet Cuisine with a Cultural Flair","image":"https://m.media-amazon.com/images/P/159298553X.01.LZZZZZZZ.jpg","alt":"Cover of Amalia’s Guatemalan Kitchen by Amalia Moreno-Damgaard","quip":"A Guatemalan-American chef’s award-winning collection for exploring the cuisine behind the record-sized celebration.","salesPriority":5,"url":"https://www.amazon.com/dp/159298553X?tag=blappos-20"},
+      {"title":"False Tongues and Sunday Bread: A Guatemalan and Mayan Cookbook","image":"https://m.media-amazon.com/images/P/0871314665.01.LZZZZZZZ.jpg","alt":"Cover of False Tongues and Sunday Bread by Copeland Marks","quip":"A classic Guatemalan and Mayan cookbook that treats food as culture rather than a one-day spectacle.","salesPriority":5,"url":"https://www.amazon.com/dp/0871314665?tag=blappos-20"},
+      {"title":"The Latin American Cookbook","image":"https://m.media-amazon.com/images/P/1838663126.01.LZZZZZZZ.jpg","alt":"Cover of The Latin American Cookbook by Virgilio Martínez","quip":"A wide regional reference that places Guatemala’s many fiambre traditions inside a much larger culinary map.","salesPriority":4,"url":"https://www.amazon.com/dp/1838663126?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/29/latam-guatemala-Guinness-world-records-largest-fiambre-salad/8871793291959/",
+    "sourceName": "Read UPI’s October 29 report and Guinness World Records’ event account",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported October 29 that Guatemala City chefs earned a Guinness World Records title with a 4,325.9-pound fiambre salad; Guinness says the October 24 celebration used 52 ingredients and served the finished dish to the crowd.",
+    "socialPunchline": "Blappos: The bowl needed permits."
+  },
+  {
+    "id": "oct29-sea-muppets",
+    "isoDate": "2026-10-29",
+    "month": "October",
+    "date": "Oct 29, 2026",
+    "place": "Great Southern Reef, Australia",
+    "image": "assets/cards/oct29-sea-muppets.webp",
+    "title": "The Ocean Builds a Seahorse Twice","magnetUrl":"https://blappos.printify.me/product/33721073","magnetPrice":"$9.99",
+    "facts": "ScienceDaily’s October 29 digest resurfaced research first published in July and explained by Southern Cross University in August. Micro-CT scans and limited genetic evidence showed that three tiny southern Australian fishes nicknamed ‘sea muppets’ belong to the new genus Australyichthys, outside true seahorses, even though they independently evolved a bent head, grasping tail and enclosed male brood pouch. The paper describes eight preserved specimens collected from depths of 50 to 124 meters; none has been verified alive in its habitat.",
+    "why": "This is a compact example of convergent evolution: similar ecological pressures can produce strikingly similar body plans in separate lineages. The evidence also shows why museum collections matter—fragile specimens misidentified for decades could be examined without destructive dissection. ‘Lost’ here is a search priority, not a declaration that the fishes are extinct.",
+    "angle": "The October 29 digest clock, July paper, August explainer, eight-specimen evidence base and lost-versus-extinct boundary end above. The Blappos interpretation: evolution submitted the seahorse design twice and called the second build a separate branch. The magnet’s fish, reef, CT image and museum drawers are original editorial illustration—not a specimen photograph, a living-animal sighting, a university mark or a branded puppet character.",
+    "amazonLinks": [
+      {"title":"Seahorses: A Life-Size Guide to Every Species","image":"https://m.media-amazon.com/images/P/022633841X.01.LZZZZZZZ.jpg","alt":"Cover of Seahorses by Sara A. Lourie","quip":"A species-by-species guide to true seahorses and relatives—the reference shelf this new lookalike branch complicates.","salesPriority":5,"url":"https://www.amazon.com/dp/022633841X?tag=blappos-20"},
+      {"title":"Convergent Evolution: Limited Forms Most Beautiful","image":"https://m.media-amazon.com/images/P/0262539099.01.LZZZZZZZ.jpg","alt":"Cover of Convergent Evolution by George R. McGhee Jr.","quip":"The evolutionary framework for understanding why separate fish lineages can arrive at the same improbable silhouette.","salesPriority":5,"url":"https://www.amazon.com/dp/0262539099?tag=blappos-20"},
+      {"title":"Seahorses and Their Relatives","image":"https://m.media-amazon.com/images/P/0977537218.01.LZZZZZZZ.jpg","alt":"Cover of Seahorses and Their Relatives by Rudie H. Kuiter","quip":"A visual encyclopedia of the family whose newly recognized branch spent decades wearing the wrong name tag.","salesPriority":4,"url":"https://www.amazon.com/dp/0977537218?tag=blappos-20"}
+    ],
+    "source": "https://sciencedaily.com/releases/2026/10/261029072119.htm",
+    "sourceName": "Read ScienceDaily’s October 29 digest, Southern Cross University’s explainer and the linked paper",
+    "sourcePublisher": "ScienceDaily",
+    "socialSummary": "ScienceDaily’s October 29 digest highlighted research showing that three tiny Australian ‘sea muppet’ fishes evolved a seahorse-like body on a separate branch; the genus is known from eight preserved specimens and has never been verified alive in habitat.",
+    "socialPunchline": "Blappos: Evolution tried the seahorse twice."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct29StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct29StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 29 release gate passed: exact Printify product URLs, $9.99 prices, and permanent story pages are verified; social delivery may proceed.
+
+/* October 30 candidates stay invisible until the repository's Printify
+   automation publishes and writes back an exact $9.99 product URL and price. */
+const oct30StagingStories = [
+  {
+    "id": "oct30-k9-rock-buffet",
+    "isoDate": "2026-10-30",
+    "month": "October",
+    "date": "Oct 30, 2026",
+    "place": "Grand Rapids, Michigan",
+    "image": "assets/cards/oct30-k9-rock-buffet.webp",
+    "title": "A Police K-9 Turns Crock-Pot Juice Into a Rock Buffet","magnetUrl":"https://blappos.printify.me/product/33762973","magnetPrice":"$9.99",
+    "facts": "UPI reported October 30 that Grand Rapids Police K-9 Rocco swallowed landscaping rocks after his handler, Officer Austin Diekevers, tossed crock-pot scraps and juice outside for chickens and some of the liquid splashed onto the stones. When Rocco would not eat the next day, a veterinary X-ray found his stomach full of rocks. Surgeons at Animal Emergency and Specialty Hospital of Byron Center removed them, and the department said he was expected to return to duty in about a week.",
+    "why": "The absurd setup leads to a serious animal-safety point: swallowed stones and other foreign objects can obstruct or injure the digestive tract, and a sudden refusal to eat can warrant prompt veterinary attention. The reported facts establish the spill, X-ray, surgery and expected recovery; they do not establish that Rocco understood the rocks as food or that every dog with similar symptoms has the same problem.",
+    "angle": "The October 30 report, named handler, veterinary finding, surgery and recovery estimate end above. The Blappos interpretation: Rocco investigated the landscaping from the inside. The magnet's dog, crock pot, stones and radiograph inset are original editorial illustration—not the real K-9, a police insignia, veterinary image or copied photograph.",
+    "amazonLinks": [
+      {"title":"Pet First Aid: The First Aid Companion for Dogs & Cats","image":"https://m.media-amazon.com/images/P/1579543650.01.LZZZZZZZ.jpg","alt":"Cover of Pet First Aid by Amy D. Shojai","quip":"A practical first-aid reference for recognizing when a pet's odd snack has crossed into an emergency.","salesPriority":5,"url":"https://www.amazon.com/dp/1579543650?tag=blappos-20"},
+      {"title":"Field Guide: Dog First Aid","image":"https://m.media-amazon.com/images/P/1885106041.01.LZZZZZZZ.jpg","alt":"Cover of Field Guide: Dog First Aid by Randy Acker","quip":"Emergency-care guidance written for hunting, working and outdoor dogs—the jobs where curiosity travels with a badge.","salesPriority":5,"url":"https://www.amazon.com/dp/1885106041?tag=blappos-20"},
+      {"title":"K-9 Police Dogs","image":"https://m.media-amazon.com/images/P/1429644702.01.LZZZZZZZ.jpg","alt":"Cover of K-9 Police Dogs by Mari Schuh","quip":"An accessible look at the training and work behind the officer who briefly mistook the landscaping for lunch.","salesPriority":4,"url":"https://www.amazon.com/dp/1429644702?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/30/grand-rapids-michigan-rocko-dog-rocks/7341793380622/",
+    "sourceName": "Read UPI's October 30 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that Grand Rapids Police K-9 Rocco swallowed landscaping rocks splashed with crock-pot juice; a veterinary X-ray led to surgery, and the department expected him back on duty in about a week.",
+    "socialPunchline": "Blappos: Rocco investigated the landscaping from the inside."
+  },
+  {
+    "id": "oct30-fruit-dinosaur",
+    "isoDate": "2026-10-30",
+    "month": "October",
+    "date": "Oct 30, 2026",
+    "place": "Hell Creek Formation, Montana",
+    "image": "assets/cards/oct30-fruit-dinosaur.webp",
+    "title": "Hell Creek Invents a Fruit-Eating Chicken Before Chickens","magnetUrl":"https://blappos.printify.me/product/33763000","magnetPrice":"$9.99",
+    "facts": "Reuters reported October 30 on Infernogallus jamesi, a newly described, roughly turkey-sized caenagnathid dinosaur from Montana's Hell Creek Formation. A nearly complete articulated skull, CT scans and jaw analysis showed a toothless parrot-like beak, a mobile lower jaw and wear features suited to repeatedly crushing soft plant material. The peer-reviewed Nature Communications paper describes this as the first direct evidence of a dinosaur specialized for an angiosperm-based diet.",
+    "why": "The skull adds a rare feeding specialist to the ecosystem best known for Tyrannosaurus rex and shows that beaked dinosaurs divided plant foods more finely than a simple herbivore label suggests. Fruit eating is the authors' best-supported interpretation of the anatomy; the fossil does not preserve a last meal, and possible seed dispersal remains an ecological inference rather than a directly observed behavior.",
+    "angle": "The October 30 news hook, peer-reviewed anatomy, size, diet interpretation and inference boundary end above. The Blappos interpretation: T. rex handled enforcement while the hell chicken ran produce. The magnet's feathered dinosaur, berries and distant tyrannosaur are original editorial illustration—not the fossil, a life reconstruction from the paper or proof of a particular fruit species.",
+    "amazonLinks": [
+      {"title":"Dinosaurs Rediscovered: The Scientific Revolution in Paleontology","image":"https://m.media-amazon.com/images/P/0500295530.01.LZZZZZZZ.jpg","alt":"Cover of Dinosaurs Rediscovered by Michael J. Benton","quip":"A modern guide to how fossils, scans and evolutionary trees turn a strange skull into a testable dinosaur story.","salesPriority":5,"url":"https://www.amazon.com/dp/0500295530?tag=blappos-20"},
+      {"title":"The Complete Dinosaur, Second Edition","image":"https://m.media-amazon.com/images/P/0253357012.01.LZZZZZZZ.jpg","alt":"Cover of The Complete Dinosaur, Second Edition","quip":"A deep reference for placing one fruit specialist inside the much larger diversity of Mesozoic anatomy and ecology.","salesPriority":5,"url":"https://www.amazon.com/dp/0253357012?tag=blappos-20"},
+      {"title":"Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages","image":"https://m.media-amazon.com/images/P/0375824197.01.LZZZZZZZ.jpg","alt":"Cover of Dinosaurs by Thomas R. Holtz Jr.","quip":"An illustrated dinosaur encyclopedia for readers ready to give Hell Creek's produce aisle more than one employee.","salesPriority":4,"url":"https://www.amazon.com/dp/0375824197?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/strange-beaked-hell-chicken-is-first-fruit-eating-dinosaur-2026-10-30/",
+    "sourceName": "Read Reuters' October 30 report and the linked Nature Communications paper",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "Reuters reported that a nearly complete skull from Montana's Hell Creek Formation identifies Infernogallus jamesi as the first dinosaur known to be specialized for an angiosperm-based diet, most likely fruit.",
+    "socialPunchline": "Blappos: T. rex handled enforcement; the hell chicken ran produce."
+  },
+  {
+    "id": "oct30-cemetery-lot",
+    "isoDate": "2026-10-30",
+    "month": "October",
+    "date": "Oct 30, 2026",
+    "place": "Rural Pennsylvania",
+    "image": "assets/cards/oct30-cemetery-lot.webp",
+    "title": "The Dream-Home Lot Comes With Permanent Neighbors","magnetUrl":"https://blappos.printify.me/product/33763022","magnetPrice":"$9.99",
+    "facts": "People reported October 30 that Heidi Keeney bought more than four wooded acres from her parents in rural Pennsylvania to build a home—and that the parcel includes a historic cemetery with graves dating to the 1700s and 1800s. Keeney said her parents had acquired the larger former church property in 2013, that she hires a lawn service to maintain the cemetery, and that visitors may access the cemetery portion while the rest of her land remains private.",
+    "why": "Historic burial grounds can turn an ordinary-looking land purchase into a long-term stewardship and public-access responsibility. The account is also a useful privacy boundary: the cemetery's history is newsworthy, but the planned home is private property. The article reports Keeney's experience and maintenance arrangement; it does not establish supernatural activity, and Keeney said she had not noticed anything strange.",
+    "angle": "The October 30 interview, ownership history, maintenance, cemetery access and no-haunting boundary end above. The Blappos interpretation: the deed included four acres, a cemetery and the quietest HOA ever. The magnet's home site, owner figure, mower and headstones are original editorial illustration—not Keeney, her exact property, a map, grave transcription or copied photograph.",
+    "amazonLinks": [
+      {"title":"Stories in Stone: A Field Guide to Cemetery Symbolism and Iconography","image":"https://m.media-amazon.com/images/P/158685321X.01.LZZZZZZZ.jpg","alt":"Cover of Stories in Stone by Douglas Keister","quip":"A field guide to the symbols and visual language that turn old stones into readable community history.","salesPriority":5,"url":"https://www.amazon.com/dp/158685321X?tag=blappos-20"},
+      {"title":"A Graveyard Preservation Primer","image":"https://m.media-amazon.com/images/P/0759122423.01.LZZZZZZZ.jpg","alt":"Cover of A Graveyard Preservation Primer by Lynette Strangstad","quip":"The practical preservation reference for caring for a burial ground without treating historic stone like ordinary yard debris.","salesPriority":5,"url":"https://www.amazon.com/dp/0759122423?tag=blappos-20"},
+      {"title":"Your Guide to Cemetery Research","image":"https://m.media-amazon.com/images/P/1558705899.01.LZZZZZZZ.jpg","alt":"Cover of Your Guide to Cemetery Research by Sharon DeBartolo Carmack","quip":"A research guide for locating records, reading sites and respecting the difference between family history and somebody else's backyard.","salesPriority":4,"url":"https://www.amazon.com/dp/1558705899?tag=blappos-20"}
+    ],
+    "source": "https://people.com/woman-buys-4-acres-land-historic-cemetery-dating-back-1700s-to-build-dream-home-exclusive-12195329",
+    "sourceName": "Read People's October 30 interview",
+    "sourcePublisher": "People",
+    "socialSummary": "People reported that a Pennsylvania woman bought more than four acres for a future home and became steward of a historic cemetery with 1700s–1800s graves; visitors may access the cemetery while the rest stays private.",
+    "socialPunchline": "Blappos: Four acres, one cemetery, the quietest HOA ever."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct30StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct30StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 30 purchase gate passed: all three exact $9.99 Printify products are live and linked; release permanent pages and social delivery.
+// October 30 live-page QA passed: exact artwork, source links, three Amazon cards, two matching BUY CTAs and all $9.99 product pages verified before social release.
+
+const oct31StagingStories = [
+  {
+    "id": "oct31-miko-moat",
+    "isoDate": "2026-10-31",
+    "month": "October",
+    "date": "Oct 31, 2026",
+    "place": "Gunma, Japan",
+    "image": "assets/cards/oct31-miko-moat.webp",
+    "title": "A 1,500-Year-Old Shrine Maiden Waits in the Moat","magnetUrl":"https://blappos.printify.me/product/33824398","magnetPrice":"$9.99",
+    "facts": "Live Science reported October 31 that archaeologists at the Nishikaminomiya site in Gunma Prefecture recovered a roughly 40-centimeter haniwa clay figure from the inner slope of a fifth- or sixth-century burial-mound moat. The official Gunma archaeology notice identifies the figure as a miko, or shrine maiden, and records its shoulder sash; the reported topknot, bracelets, red pigment and ritual rod support the interpretation of a ceremonial figure associated with Kofun-period funerary practice.",
+    "why": "The find preserves unusually detailed evidence about ritual clothing and representation in early anthropomorphic haniwa, and the official excavation notice gives readers a durable primary record rather than a headline alone. “Miko” is the archaeologists’ interpretation of iconography, not a surviving name, biography or proof that the figure performed a supernatural act.",
+    "angle": "The October 31 report, official excavation record, dimensions and interpretation boundary end above. The Blappos interpretation: after fifteen centuries, the shrine maiden still had moat duty. The magnet’s figurine, archaeologists, mound and landscape are original editorial illustration—not the artifact, excavation photograph, display installation or a reconstruction certified by the research team.",
+    "amazonLinks": [
+      {
+        "title": "Haniwa: The Clay Sculpture of Protohistoric Japan",
+        "image": "https://covers.openlibrary.org/b/isbn/9780834827141-L.jpg",
+        "alt": "Cover of Haniwa by Fumio Miki",
+        "quip": "The specialist classic on the clay figures that guarded and animated Japan’s ancient burial mounds.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/083482714X?tag=blappos-20"
+      },
+      {
+        "title": "The Archaeology of Japan",
+        "image": "https://covers.openlibrary.org/b/isbn/9780521884907-L.jpg",
+        "alt": "Cover of The Archaeology of Japan by Koji Mizoguchi",
+        "quip": "A scholarly history of the Yayoi and Kofun periods for placing one moat discovery inside the rise of the early state.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/052188490X?tag=blappos-20"
+      },
+      {
+        "title": "An Illustrated Companion to Japanese Archaeology",
+        "image": "https://books.google.com/books/content?id=VPWFzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "alt": "Cover of An Illustrated Companion to Japanese Archaeology",
+        "quip": "A visual reference spanning Japanese archaeology, including the Kofun world that produced haniwa figures.",
+        "salesPriority": 4,
+        "url": "https://www.amazon.com/dp/1789693950?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.livescience.com/archaeology/ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old-burial-mound-in-japan",
+    "sourceName": "Read Live Science’s October 31 report and the linked Gunma excavation record",
+    "sourcePublisher": "Live Science",
+    "socialSummary": "Live Science reported that archaeologists in Gunma recovered a roughly 40-centimeter haniwa figure from a 1,500-year-old burial-mound moat; the official excavation record identifies the ceremonial figure as a miko, or shrine maiden.",
+    "socialPunchline": "Blappos: After fifteen centuries, she still had moat duty."
+  },
+  {
+    "id": "oct31-drongo-deception",
+    "isoDate": "2026-10-31",
+    "month": "October",
+    "date": "Oct 31, 2026",
+    "place": "Kalahari, Southern Africa",
+    "image": "assets/cards/oct31-drongo-deception.webp",
+    "title": "A Bird Keeps Lying by Changing the Lie","magnetUrl":"https://blappos.printify.me/product/33824409","magnetPrice":"$9.99",
+    "facts": "Live Science published an October 31 excerpt from zoologist James O’Hanlon’s new book about animal deception, highlighting fork-tailed drongos that mimic alarm calls to send meerkats and other foragers running before stealing abandoned food. The underlying peer-reviewed Science experiment found that repeated false calls lost effectiveness, but switching to a different call restored the targets’ response—flexible variation that lets the drongo’s deception keep paying.",
+    "why": "The behavior is a rare, testable example of tactical signal manipulation: receivers learn, the sender changes tactics, and food changes owners. Scientists can demo

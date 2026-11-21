@@ -1,0 +1,721 @@
+      "url": "https://www.amazon.com/dp/1684495121?tag=blappos-20"
+      },
+      {
+        "title": "Capybara Is Friends with Everyone",
+        "image": "https://m.media-amazon.com/images/P/0063021021.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Capybara Is Friends with Everyone by Maddie Frost",
+        "quip": "The friendliest possible counterpoint to a lonely molar recovered from a marine desert deposit.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0063021021?tag=blappos-20"
+      },
+      {
+        "title": "Capybaras: A Natural History of the World's Largest Rodent",
+        "image": "https://m.media-amazon.com/images/P/0801891639.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Capybaras by Rexford D. Lord",
+        "quip": "The detailed biology and ecology behind why a capybara relative is such persuasive evidence for ancient water.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0801891639?tag=blappos-20"
+      }
+    ],
+    "source": "https://www.newindianexpress.com/lifestyle/science/2026/Oct/11/9-million-year-old-tooth-hints-at-ancient-wetlands-in-atacama-desert",
+    "sourceName": "Read The New Indian Express' October 11 report",
+    "sourcePublisher": "The New Indian Express",
+    "socialSummary": "A late-Miocene tooth from a water-dependent capybara relative adds fossil evidence that parts of today's Atacama Desert supported freshwater wetlands about nine million years ago.",
+    "socialPunchline": "Paleontology found one molar and reopened the desert's plumbing history."
+  },
+  {
+    "id": "oct11-stroller-velocity",
+    "isoDate": "2026-10-11",
+    "month": "October",
+    "date": "Oct 11, 2026",
+    "place": "Cleveland, Ohio",
+    "image": "assets/cards/oct11-stroller-velocity.webp",
+    "title": "A Cleveland dad officially ran a 4:17.784 mile while pushing his one-year-old in a stroller","magnetUrl":"https://blappos.printify.me/product/33018239","magnetPrice":"$9.99",
+    "facts": "The Times of India profiled the certified result on October 11: emergency physician and former college runner Stephen Biebelhausen completed the Guardian Mile in Cleveland in 4 minutes 17.784 seconds while pushing his one-year-old daughter, Blake. Guinness World Records lists the performance as the male pram-mile record and dates the race to August 8, 2026; Biebelhausen had entered hoping only to beat the event's 4:44 stroller-course mark.",
+    "why": "The exact date and status matter because the performance circulated as an unofficial record in August before certification. Guinness now names the holder, time, place and category. The safety context matters too: this was an experienced runner in an organized stroller division, not evidence that an ordinary pram or an unprepared adult should reproduce elite pace.",
+    "angle": "Stroller Velocity. Dad tried to beat the course record and accidentally discovered the family outing had a world-ranking split time. The runner, child, stroller and bridge on the card are invented editorial illustration—not the Biebelhausens, record footage or a product endorsement.",
+    "amazonLinks": [
+      {
+        "title": "Guinness World Records 2027",
+        "image": "https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg",
+        "alt": "Cover of Guinness World Records 2027",
+        "quip": "The current annual compendium for putting one spectacularly fast family mile beside the year's other certified extremes.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1806500256?tag=blappos-20"
+      },
+      {
+        "title": "The Science of Running",
+        "image": "https://m.media-amazon.com/images/P/0615942946.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Science of Running by Steve Magness",
+        "quip": "Training physiology for understanding what separates a 4:17 mile from a casual stroller loop.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/0615942946?tag=blappos-20"
+      },
+      {
+        "title": "The Incomplete Book of Running",
+        "image": "https://m.media-amazon.com/images/P/1451696256.01.LZZZZZZZ.jpg",
+        "alt": "Cover of The Incomplete Book of Running by Peter Sagal",
+        "quip": "A funny running memoir for the parent who knows the route may include chaos, joy and somebody else's wheels.",
+        "salesPriority": 5,
+        "url": "https://www.amazon.com/dp/1451696256?tag=blappos-20"
+      }
+    ],
+    "source": "https://timesofindia.indiatimes.com/world/us/meet-stephen-biebelhausen-the-us-doctor-who-pushed-his-1-year-old-daughter-in-a-pram-and-accidentally-broke-a-world-record/articleshow/134793835.cms",
+    "sourceName": "Read The Times of India's October 11 report",
+    "sourcePublisher": "The Times of India",
+    "socialSummary": "Guinness now certifies Stephen Biebelhausen's August 8 Cleveland mile in 4:17.784 while pushing his one-year-old daughter—the male pram-mile record.",
+    "socialPunchline": "The family outing arrived with a world-ranking split time."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct11Stories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct11Stories);
+
+// October 11 stories await verified Printify publication before permanent pages or social release.
+
+// October 14 staging edition. Printify scans these complete story objects, but they
+// remain outside window.dailyStories until every physical magnet is published and
+// its exact storefront URL is written back here.
+const oct14StagingStories = [
+  {
+    "id": "oct14-estate-sale-grenades",
+    "isoDate": "2026-10-14",
+    "month": "October",
+    "date": "Oct 14, 2026",
+    "place": "Austin, Texas",
+    "image": "assets/cards/oct14-estate-sale-grenades.webp",
+    "title": "An Estate-Sale Box Comes With Six Live WWII Grenades","magnetUrl":"https://blappos.printify.me/product/33134937","magnetPrice":"$9.99",
+    "facts": "UPI reported on October 14 that a Central Texas resident opened boxes bought at an estate sale and found six World War II-era grenades. Austin police bomb technicians X-rayed the objects, determined that the old Mk 2-style ‘pineapple’ grenades were live and safely removed them. Local reporting placed the response on October 12; October 14 is the publication date, not the discovery date.",
+    "why": "Old military souvenirs can remain dangerous decades after a war. The safe takeaway is deliberately narrow: do not touch, move or inspect suspected ordnance; clear the immediate area and call 911. The reporting establishes that these six devices were active and removed by specialists, but it does not establish how they reached the sale or whether the seller knew what was inside the boxes.",
+    "angle": "Verified reporting and the safety boundary end above. The Blappos interpretation: Austin’s estate sale offered a vintage lot that was very literally still live. The magnet uses an invented shopper, generic response crew and original suburban scene—no real person, police mark, copied photograph or operational depiction of a grenade.",
+    "amazonLinks": [
+      {"title":"Bring Cash: A Guide to Estate Sales in the Midwest and Beyond","image":"https://m.media-amazon.com/images/P/1540270173.01.LZZZZZZZ.jpg","alt":"Cover of Bring Cash by Kathryn Davis","quip":"A practical guide to the hunt, etiquette and surprises of estate sales—ideally the non-explosive kind.","salesPriority":5,"url":"https://www.amazon.com/dp/1540270173?tag=blappos-20"},
+      {"title":"The American Arsenal: The World War II Official Standard Ordnance Catalogue","image":"https://m.media-amazon.com/images/P/1848327269.01.LZZZZZZZ.jpg","alt":"Cover of The American Arsenal by Ian V. Hogg","quip":"A historical reference for identifying the wartime equipment behind the bomb squad’s very modern house call.","salesPriority":5,"url":"https://www.amazon.com/dp/1848327269?tag=blappos-20"},
+      {"title":"World War II: The Definitive Visual History from Blitzkrieg to the Atom Bomb","image":"https://m.media-amazon.com/images/P/1465436022.01.LZZZZZZZ.jpg","alt":"Cover of World War II from DK","quip":"A broad visual history for putting six dangerous leftovers inside the much larger material legacy of the war.","salesPriority":4,"url":"https://www.amazon.com/dp/1465436022?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/14/austin-texas-estate-sale-live-grenades-world-war-II/6091791999348/",
+    "sourceName": "Read the October 14 UPI report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that a Central Texas estate-sale buyer found six World War II-era grenades in purchased boxes; Austin bomb technicians X-rayed the devices, confirmed they were live and safely removed them.",
+    "socialPunchline": "Blappos: The vintage lot was sold as-is and, unfortunately, still live."
+  },
+  {
+    "id": "oct14-jurassic-flightless-bird",
+    "isoDate": "2026-10-14",
+    "month": "October",
+    "date": "Oct 14, 2026",
+    "place": "Fujian, China",
+    "image": "assets/cards/oct14-jurassic-flightless-bird.webp",
+    "title": "One of the Oldest Birds Skipped the Flying Part","magnetUrl":"https://blappos.printify.me/product/33134941","magnetPrice":"$9.99",
+    "facts": "A Nature paper published October 14 describes Yuezhuornis yangyuanensis from a single partial skeleton in Fujian’s Late Jurassic Nanyuan Formation, dated to roughly 150–148 million years ago. The crow-sized animal had unusually reduced forelimbs, a long bony tail, serrated teeth and a hyperextensible second toe. Its forelimbs were about one-third shorter than its hindlimbs, well outside the proportions of the 377 living bird species used for comparison.",
+    "why": "The authors interpret the anatomy as evidence of a terrestrial, secondarily flightless lifestyle, pushing specialized flightlessness much closer to the origin of birds than earlier examples. That conclusion changes the ecological picture of the earliest avialans, but one incomplete specimen cannot reveal its colors, behavior or exact running speed; those parts of the illustration remain imaginative reconstruction.",
+    "angle": "Verified paper and inference boundary end above. The Blappos interpretation: an early bird reviewed the flight plan, kept the teeth and chose the ground lane. The magnet is an original natural-history reconstruction—no fossil photograph, museum mark or claim that the animal’s appearance is known beyond the preserved anatomy.",
+    "amazonLinks": [
+      {"title":"The Story of Birds","image":"https://m.media-amazon.com/images/P/1035032511.01.LZZZZZZZ.jpg","alt":"Cover of The Story of Birds by Steve Brusatte","quip":"A modern account of avian evolution for the branch that produced powered flight—and one very early exception.","salesPriority":5,"url":"https://www.amazon.com/dp/1035032511?tag=blappos-20"},
+      {"title":"Birds of Stone: Chinese Avian Fossils from the Age of Dinosaurs","image":"https://m.media-amazon.com/images/P/1421420244.01.LZZZZZZZ.jpg","alt":"Cover of Birds of Stone by Luis M. Chiappe and Meng Qingjin","quip":"A richly illustrated guide to the Chinese fossils that transformed the early-bird family tree.","salesPriority":5,"url":"https://www.amazon.com/dp/1421420244?tag=blappos-20"},
+      {"title":"Dinosaurs: How They Lived and Evolved","image":"https://m.media-amazon.com/images/P/1588345823.01.LZZZZZZZ.jpg","alt":"Cover of Dinosaurs by Darren Naish and Paul Barrett","quip":"The broader evolutionary backdrop for a toothed, long-tailed bird that traded lift for leg day.","salesPriority":4,"url":"https://www.amazon.com/dp/1588345823?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/chinese-fossil-bird-with-undersized-wings-scrambles-avian-evolution-2026-10-14/",
+    "sourceName": "Read the October 14 Reuters report and Nature paper",
+    "sourcePublisher": "Reuters / Nature",
+    "socialSummary": "Reuters reported on a Nature paper describing Yuezhuornis, a roughly 150-million-year-old Fujian bird with very short forelimbs and anatomy interpreted as an early terrestrial, secondarily flightless lifestyle.",
+    "socialPunchline": "Blappos: One of the first birds filed a flight plan marked ‘declined.’"
+  },
+  {
+    "id": "oct14-roadside-animal-carpool",
+    "isoDate": "2026-10-14",
+    "month": "October",
+    "date": "Oct 14, 2026",
+    "place": "Bexar County, Texas",
+    "image": "assets/cards/oct14-roadside-animal-carpool.webp",
+    "title": "Deputies Stop a Three-Animal Carpool Before I-35","magnetUrl":"https://blappos.printify.me/product/33134949","magnetPrice":"$9.99",
+    "facts": "UPI reported on October 14 that Bexar County sheriff’s deputies had rounded up two horses and a donkey near Interstate 35 and Kinney Road. The sheriff’s October 11 account places the call at about 5:45 p.m. and says the animals were within 50 feet of the highway. Deputies secured all three, located the owner and reported no crash or injury.",
+    "why": "The distinction between beside the interstate and in moving traffic matters: the verified claim is that the animals were dangerously close, not that they entered a travel lane. Quick containment reduced the risk to drivers and animals, while returning them to an identified owner closed the immediate incident without turning a routine livestock escape into a fabricated chase.",
+    "angle": "Verified reporting ends above. The Blappos interpretation: Bexar County intercepted a three-passenger carpool with zero cars and a donkey apparently running navigation. The magnet uses invented animals and generic deputies—no copied social image, badge, identifiable person or claim that the trio actually traveled on I-35.",
+    "amazonLinks": [
+      {"title":"The Donkey Companion","image":"https://m.media-amazon.com/images/P/160342038X.01.LZZZZZZZ.jpg","alt":"Cover of The Donkey Companion by Sue Weaver","quip":"A practical care and training guide for the smallest member of the roadside committee.","salesPriority":5,"url":"https://www.amazon.com/dp/160342038X?tag=blappos-20"},
+      {"title":"Horsekeeping on a Small Acreage","image":"https://m.media-amazon.com/images/P/158017535X.01.LZZZZZZZ.jpg","alt":"Cover of Horsekeeping on a Small Acreage by Cherry Hill","quip":"Facility-planning guidance for keeping the horses’ next group outing safely inside the property line.","salesPriority":5,"url":"https://www.amazon.com/dp/158017535X?tag=blappos-20"},
+      {"title":"Fences for Pasture & Garden","image":"https://m.media-amazon.com/images/P/088266753X.01.LZZZZZZZ.jpg","alt":"Cover of Fences for Pasture & Garden by Gail Damerow","quip":"A nuts-and-bolts fencing reference for closing the route before the donkey schedules another interstate meetup.","salesPriority":4,"url":"https://www.amazon.com/dp/088266753X?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/14/two-horses-donkey-Bexar-County-Texas/2451791992146/",
+    "sourceName": "Read the October 14 UPI report and sheriff’s original post",
+    "sourcePublisher": "UPI / Bexar County Sheriff’s Office",
+    "socialSummary": "UPI and the Bexar County Sheriff’s Office reported that deputies secured two horses and a donkey found within 50 feet of I-35, located their owner and recorded no crash or injury.",
+    "socialPunchline": "Blappos: The three-passenger carpool had zero cars and one donkey on navigation."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct14StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct14StagingStories);
+
+// October 15 staging edition. Printify scans these complete story objects, but they
+// remain outside window.dailyStories until every physical magnet is published and
+// its exact storefront URL is written back here.
+const oct15StagingStories = [
+  {
+    "id": "oct15-shanidar-care-and-spear",
+    "isoDate": "2026-10-15",
+    "month": "October",
+    "date": "Oct 15, 2026",
+    "place": "Shanidar Cave, Iraqi Kurdistan",
+    "image": "assets/cards/oct15-shanidar-care-and-spear.webp",
+    "title": "A 75,000-Year-Old Skeleton Records Care—and a Spear Wound","magnetUrl":"https://blappos.printify.me/product/33176823","magnetPrice":"$9.99",
+    "facts": "A Scientific Reports paper published October 15 describes Shanidar A, an older Neanderthal represented by a partial skeleton deposited about 75,000 years ago. Six heavily worn front teeth record a severe earlier facial injury that the individual survived. A roughly circular perforation in the left shoulder blade shows no healing and is consistent with a rounded wooden spear passing through the chest around the time of death. The body’s placement adds a fifth individual to a closely grouped mortuary cluster.",
+    "why": "The same life contains evidence relevant to two difficult debates: long-term care and lethal trauma. The damaged teeth could have impaired eating, speech and pain-free daily life, making help from others plausible; the shoulder wound could have been a hunting accident or interpersonal violence, and the paper cannot distinguish between them. The cluster supports intentional funerary behavior, but motive and ritual meaning remain interpretations rather than directly observed facts.",
+    "angle": "Verified anatomy and inference boundaries end above. The Blappos interpretation: the archaeological record kept both the care plan and the incident report. The magnet is a respectful original reconstruction with an invented cave scene; it does not reproduce the remains, identify a killer or claim that the spear, clothing, faces or moment shown were preserved.",
+    "amazonLinks": [
+      {"title":"Kindred: Neanderthal Life, Love, Death and Art","image":"https://m.media-amazon.com/images/P/147293749X.01.LZZZZZZZ.jpg","alt":"Cover of Kindred by Rebecca Wragg Sykes","quip":"A research-rich portrait of Neanderthal lives that makes care, injury and social complexity legible without turning evidence into caricature.","salesPriority":5,"url":"https://www.amazon.com/dp/147293749X?tag=blappos-20"},
+      {"title":"The Neanderthals Rediscovered","image":"https://m.media-amazon.com/images/P/0500296405.01.LZZZZZZZ.jpg","alt":"Cover of The Neanderthals Rediscovered by Dimitra Papagianni and Michael A. Morse","quip":"An updated guide to how fossils, archaeology and genetics keep revising the old brutish stereotype.","salesPriority":5,"url":"https://www.amazon.com/dp/0500296405?tag=blappos-20"},
+      {"title":"The Secret of Our Success","image":"https://m.media-amazon.com/images/P/0691178437.01.LZZZZZZZ.jpg","alt":"Cover of The Secret of Our Success by Joseph Henrich","quip":"A broader account of culture, cooperation and cumulative knowledge for the social questions raised by one damaged ancient life.","salesPriority":4,"url":"https://www.amazon.com/dp/0691178437?tag=blappos-20"}
+    ],
+    "source": "https://www.nature.com/articles/s41598-026-69193-z",
+    "sourceName": "Read the October 15 Scientific Reports paper",
+    "sourcePublisher": "Scientific Reports",
+    "socialSummary": "A new Scientific Reports paper describes Shanidar A, an older Neanderthal who survived severe facial trauma and later suffered a likely fatal chest wound consistent with a wooden spear about 75,000 years ago.",
+    "socialPunchline": "The archaeological record kept both the care plan and the incident report."
+  },
+  {
+    "id": "oct15-99-year-old-wing-walker",
+    "isoDate": "2026-10-15",
+    "month": "October",
+    "date": "Oct 15, 2026",
+    "place": "Cirencester, England",
+    "image": "assets/cards/oct15-99-year-old-wing-walker.webp",
+    "title": "At 99, Helga Duffy Takes the Outside Seat","magnetUrl":"https://blappos.printify.me/product/33176825","magnetPrice":"$9.99",
+    "facts": "UPI reported October 15 that Helga Duffy became the oldest female wing walker after flying secured above a biplane at RFC Rendcomb Airfield near Cirencester. ITV dated the flight to October 14 and reported that the care-home resident was raising money for Wiltshire and Bath Air Ambulance. Guinness lists Duffy at 99 years and 21 days, but its current record page says the result was verified October 16—a date that conflicts with both the age calculation and contemporaneous October 14 coverage.",
+    "why": "The achievement is real, but the record page demonstrates why event date, report date and database date should not be collapsed into one. Duffy’s fundraiser turns a spectacle into practical support for emergency medicine, while the visible harness and professional airfield matter: this was an organized wing-walking flight, not an invitation to imitate a stunt independently.",
+    "angle": "Verified reporting and the date discrepancy end above. The Blappos interpretation: at 99, Duffy did not ask for the window seat; she upgraded to the roof. The magnet uses an original fictionalized aviator and biplane, not Duffy’s likeness, ITV footage, an operator logo or a claim that the illustrated aircraft is the one she flew.",
+    "amazonLinks": [
+      {"title":"Women Aviators: 26 Stories of Pioneer Flights","image":"https://m.media-amazon.com/images/P/1613745400.01.LZZZZZZZ.jpg","alt":"Cover of Women Aviators by Karen Bush Gibson","quip":"Twenty-six record-setting aviation stories for placing one extraordinary nonagenarian flight in a longer history of women taking the controls—and the risks.","salesPriority":5,"url":"https://www.amazon.com/dp/1613745400?tag=blappos-20"},
+      {"title":"Skyfaring: A Journey with a Pilot","image":"https://m.media-amazon.com/images/P/0804169713.01.LZZZZZZZ.jpg","alt":"Cover of Skyfaring by Mark Vanhoenacker","quip":"A pilot’s lyrical account of what flight does to perspective, even when your assigned seat is on top of the wing.","salesPriority":5,"url":"https://www.amazon.com/dp/0804169713?tag=blappos-20"},
+      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The current annual collection for the household that prefers its extraordinary claims measured, named and officially categorized.","salesPriority":4,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/15/guinness-world-records-wing-walker/4971792082759/",
+    "sourceName": "Read UPI’s October 15 report and the Guinness record page",
+    "sourcePublisher": "UPI / Guinness World Records",
+    "socialSummary": "UPI reported that 99-year-old Helga Duffy became the oldest female wing walker near Cirencester while raising money for an air ambulance; ITV dates the organized flight to October 14.",
+    "socialPunchline": "She did not ask for the window seat; she upgraded to the roof."
+  },
+  {
+    "id": "oct15-library-bear-honey",
+    "isoDate": "2026-10-15",
+    "month": "October",
+    "date": "Oct 15, 2026",
+    "place": "Mammoth Lakes, California",
+    "image": "assets/cards/oct15-library-bear-honey.webp",
+    "title": "A Bear Checks Out the Honey on Pooh’s 100th Birthday","magnetUrl":"https://blappos.printify.me/product/33176829","magnetPrice":"$9.99",
+    "facts": "UPI reported October 15 that a black bear entered the Mammoth Lakes Library before opening on October 14—the 100th anniversary of A. A. Milne’s Winnie-the-Pooh. The local release says the bear arrived at about 6:10 a.m., ate staff peanut butter, peach cups, cookies and a jar of honey, toured the library and left on its own. No damage or injuries were reported.",
+    "why": "The timing is funny; the wildlife lesson is not. Mammoth’s bears are wild animals drawn to easy calories, and the library’s own notice tells residents to keep their distance, secure trash and vehicles, never feed a bear and call local authorities or 911 as appropriate. One quiet visit without damage does not make indoor bear encounters safe or charming to stage.",
+    "angle": "Verified reporting and the safety boundary end above. The Blappos interpretation: the centennial guest returned the books and kept the honey. The magnet uses an original generic black bear and invented library interior; it includes no Winnie-the-Pooh character, Disney design, real security frame or claim that the bear understood the anniversary.",
+    "amazonLinks": [
+      {"title":"Bear Attacks: Their Causes and Avoidance","image":"https://m.media-amazon.com/images/P/158574557X.01.LZZZZZZZ.jpg","alt":"Cover of Bear Attacks by Stephen Herrero","quip":"The evidence-based classic on bear behavior and conflict prevention for readers who know a snack raid is still a wildlife encounter.","salesPriority":5,"url":"https://www.amazon.com/dp/158574557X?tag=blappos-20"},
+      {"title":"Winnie the Pooh: 100th Anniversary Collectible Edition","image":"https://m.media-amazon.com/images/P/1510784098.01.LZZZZZZZ.jpg","alt":"Cover of the 100th anniversary collectible edition of Winnie the Pooh","quip":"The original 1926 story in a centennial edition—the literary reason the library visitor’s menu became global news.","salesPriority":5,"url":"https://www.amazon.com/dp/1510784098?tag=blappos-20"},
+      {"title":"The Bear Almanac","image":"https://m.media-amazon.com/images/P/1493086456.01.LZZZZZZZ.jpg","alt":"Cover of The Bear Almanac by Gary Brown","quip":"A species-spanning reference for replacing the storybook bear in your head with the biology of the animal at the desk.","salesPriority":4,"url":"https://www.amazon.com/dp/1493086456?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/15/bear-library-Mono-County-winnie-the-pooh/5921792087119/",
+    "sourceName": "Read UPI’s October 15 report and the local library release",
+    "sourcePublisher": "UPI / Mono County Free Libraries",
+    "socialSummary": "UPI and a local library release say a black bear entered Mammoth Lakes Library before opening on October 14, ate staff snacks including a jar of honey and left without reported damage or injury.",
+    "socialPunchline": "The centennial guest returned the books and kept the honey."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct15StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct15StagingStories);
+
+// October 16 edition. These stories become public only after Printify has
+// published each physical magnet and written its exact storefront URL here.
+const oct16StagingStories = [
+  {
+    "id": "oct16-green-white-dwarf",
+    "isoDate": "2026-10-16",
+    "month": "October",
+    "date": "Oct 16, 2026",
+    "place": "Draco, about 280 light-years from Earth",
+    "image": "assets/cards/2026-10-16-green-star.webp",
+    "title": "Astronomers Find the First Star Wearing Chartreuse","magnetUrl":"https://blappos.printify.me/product/33214267","magnetPrice":"$9.99",
+    "facts": "Reuters reported October 16 on a RAS Techniques and Instruments study identifying WD J1330+6435 as the first documented genuinely green star. The Earth-sized white dwarf lies about 280 light-years away in Draco. Rocky debris from its former planetary system polluted its dense helium atmosphere with sodium, calcium and lithium; pressure-broadened absorption by sodium removes much of the orange-to-red light, leaving a chartreuse appearance in the researchers' color reconstruction.",
+    "why": "Ordinary star color mainly tracks temperature, but white-dwarf atmospheres are dense enough for trace elements to reshape broad bands of the spectrum. That makes color a clue to both extreme atomic physics and the chemistry of destroyed planetary material. The team analyzed 151 nearby white dwarfs and found an unusual-color minority, so this is a real first—not evidence that green stars are common or bright enough to look green through a backyard telescope.",
+    "angle": "Verified reporting and the visibility boundary end above. The Blappos interpretation: a dead star ate the rocky leftovers of its planets and came away looking seasick. The magnet is an original astronomical fantasy informed by the measured color; it is not a telescope image, scale diagram or claim that a visible debris ring was photographed.",
+    "amazonLinks": [
+      {"title":"The End of Everything (Astrophysically Speaking)","image":"https://m.media-amazon.com/images/P/198210354X.01.LZZZZZZZ.jpg","alt":"Cover of The End of Everything by Katie Mack","quip":"A witty tour of cosmic endings for meeting a dead star whose planetary leftovers changed its complexion.","salesPriority":5,"url":"https://www.amazon.com/dp/198210354X?tag=blappos-20"},
+      {"title":"Welcome to the Universe","image":"https://m.media-amazon.com/images/P/0691157243.01.LZZZZZZZ.jpg","alt":"Cover of Welcome to the Universe by Neil deGrasse Tyson, Michael A. Strauss and J. Richard Gott","quip":"A rigorous illustrated introduction to stars, spectra and the universe behind one extremely unusual color swatch.","salesPriority":5,"url":"https://www.amazon.com/dp/0691157243?tag=blappos-20"},
+      {"title":"Astrophysics for People in a Hurry","image":"https://m.media-amazon.com/images/P/0393609391.01.LZZZZZZZ.jpg","alt":"Cover of Astrophysics for People in a Hurry by Neil deGrasse Tyson","quip":"A compact primer for anyone who needs white dwarfs, stellar chemistry and cosmic weirdness before the next coffee cools.","salesPriority":4,"url":"https://www.amazon.com/dp/0393609391?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/newly-identified-green-star-leaves-astronomers-amazed-2026-10-16/",
+    "sourceName": "Read the October 16 Reuters report on the RAS study",
+    "sourcePublisher": "Reuters / RAS Techniques and Instruments",
+    "socialSummary": "Reuters reported that researchers identified WD J1330+6435 as the first documented green star: sodium from rocky planetary debris changes the spectrum of this dense white dwarf into a reconstructed chartreuse hue.",
+    "socialPunchline": "Blappos: A dead star ate its planets and came away looking seasick."
+  },
+  {
+    "id": "oct16-roadster-kickflip",
+    "isoDate": "2026-10-16",
+    "month": "October",
+    "date": "Oct 16, 2026",
+    "place": "McGregor, Texas",
+    "image": "assets/cards/2026-10-16-roadster-kickflip.webp",
+    "title": "The Roadster Does a Kickflip Before It Does Production","magnetUrl":"https://blappos.printify.me/product/33214271","magnetPrice":"$9.99",
+    "facts": "The Associated Press reported October 16 on Tesla's October 15 Roadster 2 demonstration at SpaceX's McGregor test site. A white prototype climbed a curved ramp, went inverted, cleared five parked vehicles and landed using a combination of wheels, cold-gas thrusters and suction hardware. The car was remotely controlled, carried no driver and was described as a stunt prototype rather than a production-safety vehicle.",
+    "why": "A controlled demonstration can prove that a one-off machine has enough thrust, control authority and structural margin for a dramatic maneuver; it does not prove a road-legal flying car is ready. Company officials projected commercial production in 2028, said the standard vehicle would not provide full flight and described more extreme rocket hardware as a limited, invitation-only option. The useful distinction is spectacular prototype capability versus tested, regulated consumer transport.",
+    "angle": "Verified demonstration and production boundaries end above. The Blappos interpretation: the Roadster has completed a kickflip while its delivery date remains firmly on Earth. The magnet uses a generic unbadged electric roadster, invented test range and original typography—no Tesla logo, copied event frame, public-figure likeness or invitation to attempt the maneuver.",
+    "amazonLinks": [
+      {"title":"Elon Musk by Walter Isaacson","image":"https://m.media-amazon.com/images/P/1982181281.01.LZZZZZZZ.jpg","alt":"Cover of Elon Musk by Walter Isaacson","quip":"A recent biography for the organizational history behind the roadster, the rockets and the habit of combining both onstage.","salesPriority":5,"url":"https://www.amazon.com/dp/1982181281?tag=blappos-20"},
+      {"title":"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future","image":"https://m.media-amazon.com/images/P/006230125X.01.LZZZZZZZ.jpg","alt":"Cover of Elon Musk by Ashlee Vance","quip":"The earlier company-building account for understanding how electric cars and rocket propulsion ended up sharing a test plan.","salesPriority":5,"url":"https://www.amazon.com/dp/006230125X?tag=blappos-20"},
+      {"title":"Rocket Propulsion Elements, Ninth Edition","image":"https://m.media-amazon.com/images/P/1118753658.01.LZZZZZZZ.jpg","alt":"Cover of Rocket Propulsion Elements, ninth edition","quip":"The engineering textbook for readers who want the cold-gas part explained after the kickflip part stops shouting.","salesPriority":5,"url":"https://www.amazon.com/dp/1118753658?tag=blappos-20"}
+    ],
+    "source": "https://apnews.com/article/7d5f19665435b7408025bfb7a2f2f0b7",
+    "sourceName": "Read the October 16 Associated Press report",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "The Associated Press reported that a remote-controlled Roadster 2 prototype used wheels, cold-gas thrusters and suction to go inverted over five cars at a Texas demonstration; it had no driver and was not a production-safety vehicle.",
+    "socialPunchline": "Blappos: The Roadster completed a kickflip while its delivery date stayed firmly on Earth."
+  },
+  {
+    "id": "oct16-scrapple-sculpture",
+    "isoDate": "2026-10-16",
+    "month": "October",
+    "date": "Oct 16, 2026",
+    "place": "Philadelphia, Pennsylvania",
+    "image": "assets/cards/2026-10-16-scrapple-sculpture.webp",
+    "title": "Philadelphia Turns Breakfast Scraps Into Fine Art","magnetUrl":"https://blappos.printify.me/product/33214273","magnetPrice":"$9.99",
+    "facts": "UPI reported October 16 on Reading Terminal Market's October 15 scrapple-sculpting contest. Competitors had 90 minutes to turn blocks of the Pennsylvania meat-and-grain specialty into sculptures themed to the market; judges chose Toni Lee's rendition of a pig mascot. One source detail does not reconcile: UPI describes six-pound blocks, while the organizer's event page says each contestant received a five-pound block. Both agree on the timed contest and a public vote at the October 17 Scrapple and Apple Festival.",
+    "why": "The disagreement over one pound is small but worth retaining because the organizer and report are describing the same physical material. Beyond the novelty, the contest converts a regional preservation food—traditionally made from pork trimmings, meal and spices—into public folk art and a piece of market identity. The judged winner and the later people's-choice vote are also separate decisions, not two reports of the same result.",
+    "angle": "Verified contest facts and the unresolved weight discrepancy end above. The Blappos interpretation: Philadelphia opened a fine-arts department where the medium is breakfast and the critique ends at the griddle. The magnet uses an invented sculpture, market interior and generic participants—no copied mascot, organizer logo, contestant likeness or claim that the depicted work won.",
+    "amazonLinks": [
+      {"title":"Pennsylvania Dutch Cooking: Traditional Dutch Dishes","image":"https://m.media-amazon.com/images/P/1495977773.01.LZZZZZZZ.jpg","alt":"Cover of Pennsylvania Dutch Cooking: Traditional Dutch Dishes","quip":"Regional recipes—including the culture around scrapple—for returning the contest medium to its more familiar gallery: the breakfast plate.","salesPriority":5,"url":"https://www.amazon.com/dp/1495977773?tag=blappos-20"},
+      {"title":"The Art of Food Sculpture","image":"https://m.media-amazon.com/images/P/0764314548.01.LZZZZZZZ.jpg","alt":"Cover of The Art of Food Sculpture by Yuci Tan","quip":"An illustrated carving guide for translating ninety minutes of edible ambition into form, balance and fewer accidental ears.","salesPriority":5,"url":"https://www.amazon.com/dp/0764314548?tag=blappos-20"},
+      {"title":"OXO Good Grips 11-Pound Digital Kitchen Scale","image":"https://m.media-amazon.com/images/P/B079D9B82W.01.LZZZZZZZ.jpg","alt":"OXO Good Grips digital kitchen scale","quip":"The practical referee for a source dispute involving five pounds, six pounds and one highly sculptural breakfast loaf.","salesPriority":4,"url":"https://www.amazon.com/dp/B079D9B82W?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/16/scrapple-sculpting-contest-reading-terminal-market/6511792163992/",
+    "sourceName": "Read UPI's October 16 report and the organizer's event page",
+    "sourcePublisher": "UPI / Reading Terminal Market",
+    "socialSummary": "UPI reported that Reading Terminal Market contestants had 90 minutes to sculpt scrapple into market-themed art; UPI says six-pound blocks, while the organizer's event page says five pounds.",
+    "socialPunchline": "Blappos: Philadelphia opened a fine-arts department where the medium is breakfast."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct16StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct16StagingStories);
+
+// October 17 edition. These stories become public only after Printify has
+// published each physical magnet and written its exact storefront URL here.
+const oct17StagingStories = [
+  {
+    "id": "oct17-tropical-guest-list",
+    "isoDate": "2026-10-17",
+    "month": "October",
+    "date": "Oct 17, 2026",
+    "place": "Southern California",
+    "image": "assets/cards/2026-10-17-tropical-guest-list.webp",
+    "title": "California’s Ocean Opens a Tropical Guest List","magnetUrl":"https://blappos.printify.me/product/33253636","magnetPrice":"$9.99",
+    "facts": "Reuters reported October 17 that an unusually strong El Niño, following an extended marine heat wave, has carried an exceptional mix of tropical marine life into Southern California waters. The report documents California’s first recorded longfin bigeye fish, two olive ridley nests that NOAA called the first recorded sea-turtle nests on the U.S. West Coast, a rare yellow-bellied sea snake, and recent whale-shark, hammerhead, flying-fish and manta-ray sightings.",
+    "why": "The arrivals are not simply a beachside curiosity. Warm water can move mobile fish and sharks north while stressing cold-water kelp that supports less-mobile species and entire coastal food webs. Experts quoted by Reuters expect conditions to mostly normalize after El Niño subsides next year, but the episode is a useful live demonstration of how a natural climate cycle and a preceding marine heat wave can rapidly rearrange an ecosystem without proving that every individual sighting has one identical cause.",
+    "angle": "Verified reporting and attribution boundaries end above. The Blappos interpretation: the Pacific opened a tropical guest list and forgot to tell the kelp. The magnet compresses several separately documented species into one invented resort-style scene; it is not a single photograph, a range map or a claim that all animals arrived together.",
+    "amazonLinks": [
+      {"title":"Miller and Lea’s Guide to the Coastal Marine Fishes of California","image":"https://m.media-amazon.com/images/P/1627111255.01.LZZZZZZZ.jpg","alt":"Cover of Miller and Lea’s Guide to the Coastal Marine Fishes of California","quip":"The California-specific field guide for identifying the longfin bigeye and the coast’s suddenly expanded guest list.","salesPriority":5,"url":"https://www.amazon.com/dp/1627111255?tag=blappos-20"},
+      {"title":"Pacific Coast Fish Finder: Identifying Marine Fish of the Pacific Coast (Nature Study Guides)","image":"https://m.media-amazon.com/images/P/0912550406.01.LZZZZZZZ.jpg","alt":"Pacific Coast Fish Finder identification guide","quip":"A compact visual key for sorting familiar Pacific residents from the tropical visitors riding warm water north.","salesPriority":5,"url":"https://www.amazon.com/dp/0912550406?tag=blappos-20"},
+      {"title":"El Niño in World History (Palgrave Studies in World Environmental History)","image":"https://m.media-amazon.com/images/P/1137457392.01.LZZZZZZZ.jpg","alt":"Cover of El Niño in World History by Richard Grove and George Adamson","quip":"The environmental-history context for the natural Pacific cycle behind California’s unusual marine arrivals.","salesPriority":4,"url":"https://www.amazon.com/dp/1137457392?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/sustainability/cop/exotic-species-appear-off-california-thanks-an-unusually-strong-el-nio-2026-10-17/",
+    "sourceName": "Read Reuters’ October 17 report",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "Reuters reported rare tropical marine arrivals in Southern California during a strong El Niño.",
+    "socialPunchline": "Blappos: The Pacific opened a tropical guest list and forgot the kelp."
+  },
+  {
+    "id": "oct17-witch-hats-wharf",
+    "isoDate": "2026-10-17",
+    "month": "October",
+    "date": "Oct 17, 2026",
+    "place": "Salem, Massachusetts",
+    "image": "assets/cards/2026-10-17-witch-hats-wharf.webp",
+    "title": "Salem Fills a Wharf With Witch Hats, Certification Pending","magnetUrl":"https://blappos.printify.me/product/33253641","magnetPrice":"$9.99",
+    "facts": "Hundreds of people gathered at Derby Wharf in Salem on October 17 wearing pointed hats for the city’s Witch Hats on the Wharf community photo and world-record attempt. Salem’s official notice scheduled an overhead photograph shortly after 11 a.m. as part of the city’s 400th anniversary, and the Salem Witch Museum documented that the crowd assembled. No official adjudicated count or Guinness certification was available when this story was published.",
+    "why": "Record attempts and certified records are different claims. A large crowd, an aerial photograph and a well-documented civic event establish that Salem staged the attempt; they do not establish the qualifying count, compliance with a record authority’s rules or a successful result. The city also tied sales of special hats and patches to HAWC, a local nonprofit serving survivors of domestic abuse, so the event combined tourism, anniversary branding and fundraising rather than existing only as a stunt.",
+    "angle": "Verified event facts and the certification boundary end above. The Blappos interpretation: Salem put municipal history under one enormous hat, then handed the hat to paperwork. The magnet’s clerk, crowd and hat-counting scene are invented; it does not reproduce the aerial photograph, identify participants or claim the record was won.",
+    "amazonLinks": [
+      {"title":"A Season with the Witch: The Magic and Mayhem of Halloween in Salem, Massachusetts","image":"https://m.media-amazon.com/images/P/1581573391.01.LZZZZZZZ.jpg","alt":"Cover of A Season with the Witch by J. W. Ocker","quip":"A month inside modern Salem’s Halloween economy—the exact civic spectacle that put hundreds of hats on Derby Wharf.","salesPriority":5,"url":"https://www.amazon.com/dp/1581573391?tag=blappos-20"},
+      {"title":"Salem Witch Trials","image":"https://m.media-amazon.com/images/P/1589791320.01.LZZZZZZZ.jpg","alt":"Cover of The Salem Witch Trials by Marilynne K. Roach","quip":"The deeply sourced history for keeping a playful modern hat event separate from the people persecuted in 1692.","salesPriority":5,"url":"https://www.amazon.com/dp/1589791320?tag=blappos-20"},
+      {"title":"The Witches: Salem, 1692","image":"https://m.media-amazon.com/images/P/0316200603.01.LZZZZZZZ.jpg","alt":"Cover of The Witches: Salem, 1692 by Stacy Schiff","quip":"A narrative history that supplies the context modern Salem tourism can otherwise compress into one pointed silhouette.","salesPriority":4,"url":"https://www.amazon.com/dp/0316200603?tag=blappos-20"}
+    ],
+    "source": "https://www.facebook.com/salemwitchmuseum/posts/hundreds-of-people-gathered-at-derby-wharf-today-to-attempt-to-break-a-world-rec/1562293419273446/",
+    "sourceName": "See the Salem Witch Museum’s October 17 documentation and the City of Salem notice",
+    "sourcePublisher": "Salem Witch Museum / City of Salem",
+    "socialSummary": "Hundreds joined Salem’s witch-hat record attempt; no certified count was available.",
+    "socialPunchline": "Blappos: Salem handed its giant hat to paperwork."
+  },
+  {
+    "id": "oct17-nightjar-mileage",
+    "isoDate": "2026-10-17",
+    "month": "October",
+    "date": "Oct 17, 2026",
+    "place": "Lund, Sweden",
+    "image": "assets/cards/2026-10-17-nightjar-mileage.webp",
+    "title": "Nightjar Wings Rack Up Air Miles and Terrible Mileage","magnetUrl":"https://blappos.printify.me/product/33253647","magnetPrice":"$9.99",
+    "facts": "ScienceDaily featured Lund University’s European-nightjar research on October 17. In the peer-reviewed PLOS Biology study, researchers flew five nightjars in a wind tunnel and measured their wakes at different speeds. The birds’ broad, slotted wingtips supported slow flight and maneuvering but produced a double-tip-vortex pattern and lower span efficiency at faster cruise; the team also measured an outer-wing upstroke that generated thrust, a feature previously associated mainly with bats and hummingbirds.",
+    "why": "The result replaces the tidy idea of a long-distance migrant as a machine optimized only for economical cruising. Nightjars use the same wings to migrate between Europe and southern Africa and to hunt insects slowly at dusk, so evolution preserves a workable compromise rather than a single-purpose optimum. The authors also identify a possible design clue for flapping drones: when a wing cannot fold much on the upstroke, using that stroke for thrust may recover useful work.",
+    "angle": "Verified study findings and engineering inference end above. The Blappos interpretation: the nightjar earns elite air miles while the aerodynamics department denies its mileage claim. The card’s scientists, route map, gauges and visible smoke are invented visual shorthand, not a copied figure or a claim that the bird understands expense reports.",
+    "amazonLinks": [
+      {"title":"Birds Never Get Lost","image":"https://m.media-amazon.com/images/P/1785890484.01.LZZZZZZZ.jpg","alt":"Cover of Birds Never Get Lost by Colin and Sandy Pennycuick","quip":"A flight researcher’s accessible account of migration, navigation and the laboratory work behind how birds cross continents.","salesPriority":5,"url":"https://www.amazon.com/dp/1785890484?tag=blappos-20"},
+      {"title":"What It's Like to Be a Bird: From Flying to Nesting, Eating to Singing--What Birds Are Doing, and Why (Sibley Guides)","image":"https://m.media-amazon.com/images/P/0307957896.01.LZZZZZZZ.jpg","alt":"Cover of What It’s Like to Be a Bird by David Allen Sibley","quip":"An illustrated guide to what birds are doing and why—including the flying, feeding and behavioral compromises in this study.","salesPriority":5,"url":"https://www.amazon.com/dp/0307957896?tag=blappos-20"},
+      {"title":"Flight Lines: Across the Globe on a Journey with the Astonishing Ultramarathon Birds","image":"https://m.media-amazon.com/images/P/1643135767.01.LZZZZZZZ.jpg","alt":"Cover of Flight Lines by Andrew Darby","quip":"A global journey with extreme migrant birds for putting the nightjar’s Europe-to-Africa commute in long-haul company.","salesPriority":4,"url":"https://www.amazon.com/dp/1643135767?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
+    "sourceName": "Read ScienceDaily’s October 17 report and the open PLOS Biology study",
+    "sourcePublisher": "ScienceDaily",
+    "socialSummary": "Lund researchers found nightjar wings trade cruise efficiency for slow-flight agility.",
+    "socialPunchline": "Blappos: The nightjar earns air miles; mileage denied."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct17StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct17StagingStories);
+// October 17 publication gate passed: all three exact Printify products are linked and the permanent pages are built.
+
+// October 18 edition. Every physical magnet is published and its exact storefront
+// URL is linked before these stories enter window.dailyStories.
+const oct18StagingStories = [
+  {
+    "id": "oct18-kikai-regional-settings",
+    "isoDate": "2026-10-18",
+    "month": "October",
+    "date": "Oct 18, 2026",
+    "place": "Kyushu, Japan",
+    "image": "assets/cards/2026-10-18-kikai-regional-settings.webp",
+    "title": "Japan’s 7,300-Year-Old Apocalypse Had Regional Settings","magnetUrl":"https://blappos.printify.me/product/33295237","magnetPrice":"$9.99",
+    "facts": "ScienceDaily published Lund University’s summary of a Science Advances study on October 18. The researchers reconstructed population change around the undersea Kikai-Akahoya eruption about 7,300 years ago. Their archaeological models indicate that southern Kyushu’s population was already falling, northern Kyushu continued growing through and after the eruption, inland survivors shifted toward the northern coast, and some more distant regions stopped growing or declined.",
+    "why": "A single catastrophic event did not produce a single demographic outcome. Local exposure, earlier trends, migration, social ties and access to recovering marine resources all shaped what followed. The findings are model-based estimates assembled from archaeological evidence—not a census—and the proposed roles of climate disruption, animal tooth wear and health effects remain explanations the researchers discuss rather than individually proven causes.",
+    "angle": "Verified research and inference boundaries end above. The Blappos interpretation: the apocalypse shipped with regional settings—collapse here, relocation there and unexpected growth one prefecture over. The magnet is an original compressed reconstruction; its eruption, settlements and coast are not a photograph, map or claim that all three conditions were visible at once.",
+    "amazonLinks": [
+      {"title":"Krakatoa: The Day the World Exploded","image":"https://m.media-amazon.com/images/P/0060838590.01.LZZZZZZZ.jpg","alt":"Cover of Krakatoa by Simon Winchester","quip":"A deeply researched account of a historic eruption for comparing one famous catastrophe with a much older one reconstructed from archaeology.","salesPriority":5,"url":"https://www.amazon.com/dp/0060838590?tag=blappos-20"},
+      {"title":"Ancient Jomon of Japan","image":"https://m.media-amazon.com/images/P/0521776708.01.LZZZZZZZ.jpg","alt":"Cover of Ancient Jomon of Japan by Junko Habu","quip":"The archaeological foundation for understanding the hunter-gatherer communities whose regional responses the new study models.","salesPriority":5,"url":"https://www.amazon.com/dp/0521776708?tag=blappos-20"},
+      {"title":"When Humans Nearly Vanished","image":"https://m.media-amazon.com/images/P/1588348040.01.LZZZZZZZ.jpg","alt":"Cover of When Humans Nearly Vanished by Donald R. Prothero","quip":"A critical tour of the Toba catastrophe debate—and a useful reminder that dramatic eruption stories need demographic evidence, not one-size-fits-all assumptions.","salesPriority":4,"url":"https://www.amazon.com/dp/1588348040?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
+    "sourceName": "Read ScienceDaily’s October 18 report and the Science Advances paper",
+    "sourcePublisher": "ScienceDaily / Lund University",
+    "socialSummary": "Researchers found Japan’s Kikai eruption produced regional decline, migration and growth.",
+    "socialPunchline": "Blappos: The apocalypse had regional settings."
+  },
+  {
+    "id": "oct18-sea-vomit-inspector",
+    "isoDate": "2026-10-18",
+    "month": "October",
+    "date": "Oct 18, 2026",
+    "place": "Scottish Highlands, United Kingdom",
+    "image": "assets/cards/2026-10-18-sea-vomit-inspector.webp",
+    "title": "A Labrador Gets Promoted to Sea-Vomit Inspector","magnetUrl":"https://blappos.printify.me/product/33295250","magnetPrice":"$9.99",
+    "facts": "The Times of India reported October 18 that Sgiath, a six-year-old black Labrador formerly trained for mountain rescue, now works with marine ecologist Dr Texa Sim to detect the invasive carpet sea squirt Didemnum vexillum by scent. IFAW believes she is the first dog trained for that target and named her its 2026 Animal of the Year. Sgiath gives a passive indication—becoming still and staring—when she detects the organism.",
+    "why": "Carpet sea squirt can spread across pontoons, oyster cages and other structures, smother native organisms and become expensive to manage. Visual identification can be difficult and confirmation may require specialist analysis, so a trained dog could add an early-search tool. It does not replace laboratory work or other survey methods, and ‘first dog’ is appropriately attributed to IFAW rather than presented as an independently exhaustive global count.",
+    "angle": "Verified reporting and attribution boundaries end above. The Blappos interpretation: mountain rescue promoted its best nose to ocean slime, and the employee of the year did not ask what the species’ nickname meant. The magnet uses an invented harbor and inspection plate; it does not copy IFAW photography, show a real search site or imply that the pictured colony was Sgiath’s find.",
+    "amazonLinks": [
+      {"title":"Detective Dogs: How Working Dogs Sniff Out Invasive Species","image":"https://m.media-amazon.com/images/P/0823455645.01.LZZZZZZZ.jpg","alt":"Cover of Detective Dogs by Alison Pearce Stevens","quip":"The exact science-and-working-dog bridge behind Sgiath’s extraordinary new conservation job.","salesPriority":5,"url":"https://www.amazon.com/dp/0823455645?tag=blappos-20"},
+      {"title":"What the Dog Knows","image":"https://m.media-amazon.com/images/P/1451667329.01.LZZZZZZZ.jpg","alt":"Cover of What the Dog Knows by Cat Warren","quip":"A scent-detection account for understanding how a dog’s nose becomes a disciplined research instrument rather than a party trick.","salesPriority":5,"url":"https://www.amazon.com/dp/1451667329?tag=blappos-20"},
+      {"title":"Invasive Species: A Very Short Introduction","image":"https://m.media-amazon.com/images/P/0198818289.01.LZZZZZZZ.jpg","alt":"Cover of Invasive Species by Julie Lockwood and Dustin Welbourne","quip":"The ecological context for why finding one unglamorous marine invader early can matter enormously.","salesPriority":4,"url":"https://www.amazon.com/dp/0198818289?tag=blappos-20"}
+    ],
+    "source": "https://timesofindia.indiatimes.com/science/nature/a-labrador-once-trained-for-mountain-rescue-becomes-a-marine-conservation-detection-dog-sgiath-can-sniff-out-the-invasive-organism-known-as-sea-vomit-and-wins-ifaws-2026-animal-of-the-year-award/articleshow/135028213.cms",
+    "sourceName": "Read The Times of India’s October 18 report and linked IFAW announcement",
+    "sourcePublisher": "The Times of India / IFAW",
+    "socialSummary": "Sgiath the Labrador detects invasive carpet sea squirt—‘sea vomit’—by scent.",
+    "socialPunchline": "Blappos: Mountain rescue promoted her to ocean slime."
+  },
+  {
+    "id": "oct18-shock-absorber-kitten",
+    "isoDate": "2026-10-18",
+    "month": "October",
+    "date": "Oct 18, 2026",
+    "place": "Sandy Springs, Georgia",
+    "image": "assets/cards/2026-10-18-shock-absorber-kitten.webp",
+    "title": "First Responders Extract the Shock-Absorber Kitten","magnetUrl":"https://blappos.printify.me/product/33295254","magnetPrice":"$9.99",
+    "facts": "WSB-TV reported October 18 that Sandy Springs firefighters and police officers safely removed a kitten trapped inside a car’s shock absorber. The report says the kitten, now named Friday Shadow, was recovering well and had already found a permanent home. No injury to a responder was reported.",
+    "why": "The story is a compact example of why an animal inside vehicle machinery is a responder job, not an invitation for improvised extraction. The published report confirms the component, agencies and happy outcome, but it does not provide a full incident timeline or explain how the kitten entered the assembly; Blappos does not invent those missing mechanics.",
+    "angle": "Verified reporting and the missing-detail boundary end above. The Blappos interpretation: Friday Shadow chose the only suspension package that includes adoption. The magnet’s garage, vehicle, removed component and anonymous gloved responder are original visual shorthand—not a copied rescue image or a claim about the exact extraction technique.",
+    "amazonLinks": [
+      {"title":"Tiny But Mighty: Kitten Lady’s Guide to Saving the Most Vulnerable Felines","image":"https://m.media-amazon.com/images/P/1524744069.01.LZZZZZZZ.jpg","alt":"Cover of Tiny But Mighty by Hannah Shaw","quip":"A rescue-focused guide for the vulnerable-kitten questions that begin after the dramatic machinery story ends.","salesPriority":5,"url":"https://www.amazon.com/dp/1524744069?tag=blappos-20"},
+      {"title":"The Trainable Cat","image":"https://m.media-amazon.com/images/P/046509371X.01.LZZZZZZZ.jpg","alt":"Cover of The Trainable Cat by John Bradshaw and Sarah Ellis","quip":"Practical, evidence-led help for getting an adventurous cat comfortable with carriers, vet visits and safer routines.","salesPriority":5,"url":"https://www.amazon.com/dp/046509371X?tag=blappos-20"},
+      {"title":"Cat Sense","image":"https://m.media-amazon.com/images/P/0465064965.01.LZZZZZZZ.jpg","alt":"Cover of Cat Sense by John Bradshaw","quip":"The behavior science behind why domestic cats still seek small, strange places—and how humans can build safer lives around that instinct.","salesPriority":4,"url":"https://www.amazon.com/dp/0465064965?tag=blappos-20"}
+    ],
+    "source": "https://www.wsbtv.com/news/local/first-responders-rescue-kitten-trapped-inside-cars-shock-absorber/KC26DXBJZRF2XOPKK4IHMKA7FE/",
+    "sourceName": "Read WSB-TV’s October 18 report",
+    "sourcePublisher": "WSB-TV",
+    "socialSummary": "Sandy Springs responders freed a kitten trapped in a car shock absorber; she was adopted.",
+    "socialPunchline": "Blappos: Friday Shadow chose the suspension package with adoption."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct18StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct18StagingStories);
+// October 18 publication gate passed: all three exact Printify products and permanent pages were verified live before social release.
+
+// October 19 edition. All three exact Printify products are published and
+// linked before these stories enter the homepage, archive and permanent pages.
+const oct19StagingStories = [
+  {
+    "id": "oct19-yak-x",
+    "isoDate": "2026-10-19",
+    "month": "October",
+    "date": "Oct 19, 2026",
+    "place": "Denisova Cave, Siberia",
+    "image": "assets/cards/2026-10-19-yak-x.webp",
+    "title": "Ancient DNA Announces That a New Cow Just Dropped","magnetUrl":"https://blappos.printify.me/product/33337101","magnetPrice":"$9.99",
+    "facts": "Reuters reported October 19 that researchers recovered 20 low-coverage genomes from tiny bovine bone fragments found in Denisova Cave and nearby Altai sites. The oldest fragments date to roughly 250,000–200,000 years ago and the youngest to about 27,000 years ago. The lineage split from the ancestors of living yaks about 400,000 years ago and appears distinct enough to represent a previously unknown species, provisionally nicknamed ‘Yak X.’ It has not received a formal scientific name because the evidence is genomic rather than a diagnostic skeleton.",
+    "why": "The work shows how palaeogenomics can turn otherwise unidentifiable fragments into a long population history. Finding the animal across sites used by Denisovans and later humans adds a possible prey species to the Ice Age ecosystem, but proximity is not direct proof that any particular group hunted these exact animals. The formal-name restraint also matters: a striking genome result does not erase the anatomical standards of taxonomy.",
+    "angle": "Verified research and inference boundaries end above. The Blappos interpretation: the Ice Age just pushed an undocumented cow into production. The card’s animal, scientists, glowing DNA and combined cave landscape are original editorial illustration—not a reconstruction of one excavation, a copy of a research figure or evidence that the nickname is an official species name.",
+    "amazonLinks": [
+      {"title":"Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past","image":"https://m.media-amazon.com/images/P/110187032X.01.LZZZZZZZ.jpg","alt":"Cover of Who We Are and How We Got Here by David Reich","quip":"The clearest book-length bridge from fragments and genomes to the new science that can identify a lost Ice Age lineage.","salesPriority":5,"url":"https://www.amazon.com/dp/110187032X?tag=blappos-20"},
+      {"title":"Ancient Bones: Unearthing the Astonishing New Story of How We Became Human","image":"https://m.media-amazon.com/images/P/1778400310.01.LZZZZZZZ.jpg","alt":"Cover of Ancient Bones by Madelaine Böhme, Rüdiger Braun and Florian Breier","quip":"A field-and-lab tour of how sparse bones can rearrange a much larger story about ancient animals and people.","salesPriority":5,"url":"https://www.amazon.com/dp/1778400310?tag=blappos-20"},
+      {"title":"Vanished Giants: The Lost World of the Ice Age","image":"https://m.media-amazon.com/images/P/0226824039.01.LZZZZZZZ.jpg","alt":"Cover of Vanished Giants by Anthony J. Stuart","quip":"The wider Ice Age bestiary and extinction context for meeting one more large mammal from the Pleistocene guest list.","salesPriority":4,"url":"https://www.amazon.com/dp/0226824039?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/famous-siberian-cave-yields-remains-yak-like-ice-age-mammal-2026-10-19/",
+    "sourceName": "Read Reuters’ October 19 report and the linked Current Biology study",
+    "sourcePublisher": "Reuters",
+    "socialSummary": "Ancient DNA from 20 tiny Altai bone fragments revealed a distinct Ice Age bovine lineage nicknamed ‘Yak X.’",
+    "socialPunchline": "Blappos: The Ice Age just pushed a new cow into production."
+  },
+  {
+    "id": "oct19-cube-robot",
+    "isoDate": "2026-10-19",
+    "month": "October",
+    "date": "Oct 19, 2026",
+    "place": "Christchurch, New Zealand",
+    "image": "assets/cards/2026-10-19-cube-robot.webp",
+    "title": "Four Engineering Students Reduce a Cube to 9.806 Seconds","magnetUrl":"https://blappos.printify.me/product/33337111","magnetPrice":"$9.99",
+    "facts": "UPI reported October 19 that University of Canterbury students Caleb Everitt, Johann Torres, Hayden Watson and Maz Cameron built a robot that solved a scrambled 4-by-4 cube in 9.806 seconds during an official Guinness World Records attempt on October 16. The system used four cameras, an open-source solving algorithm, faster drone motors and suction-cup grippers. The university says Guinness confirmation is still pending.",
+    "why": "The current published Guinness record is 45.30 seconds, so the attempt would be a substantial improvement if certified. More important than the stopwatch is the integration: mechanical design, power electronics, computer vision and software all had to agree on the same fraction of a second. Until Guinness completes its review, 9.806 seconds is a documented attempt result—not a certified world record.",
+    "angle": "Verified reporting and certification status end above. The Blappos interpretation: four years of engineering education successfully removed 35.494 seconds from a cube. The card’s fictional students, four-eyed robot, laboratory and stopwatch are original illustration; they do not depict the real team or machine, reproduce event footage or claim that Guinness has approved the result.",
+    "amazonLinks": [
+      {"title":"Rubik's Cube 4x4 Master Puzzle Cube & Brain Teaser Fidget Toy","image":"https://m.media-amazon.com/images/P/B09J9ZCN1L.01.LZZZZZZZ.jpg","alt":"Rubik’s Cube 4x4 Master puzzle cube","quip":"The four-layer problem that the Canterbury robot reduced to a single-digit engineering flex.","salesPriority":5,"url":"https://www.amazon.com/dp/B09J9ZCN1L?tag=blappos-20"},
+      {"title":"Cubed: The Puzzle of Us All","image":"https://m.media-amazon.com/images/P/1250217776.01.LZZZZZZZ.jpg","alt":"Cover of Cubed by Ernő Rubik","quip":"The puzzle’s inventor explains why a small colored cube became a worldwide machine for thinking.","salesPriority":5,"url":"https://www.amazon.com/dp/1250217776?tag=blappos-20"},
+      {"title":"Robot Builder's Bonanza, 5th Edition","image":"https://m.media-amazon.com/images/P/1260135012.01.LZZZZZZZ.jpg","alt":"Cover of Robot Builder’s Bonanza, 5th Edition by Gordon McComb","quip":"A practical bench companion for readers whose response to a nine-second robot is to start collecting motors.","salesPriority":4,"url":"https://www.amazon.com/dp/1260135012?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/19/nz-Guinness-World-Records-rubiks-cube-robot/6671792423259/",
+    "sourceName": "Read UPI’s October 19 report and the University of Canterbury announcement",
+    "sourcePublisher": "UPI / University of Canterbury",
+    "socialSummary": "Four Canterbury students built a robot that solved a 4×4 cube in 9.806 seconds; Guinness review is pending.",
+    "socialPunchline": "Blappos: Four years well spent, pending certification."
+  },
+  {
+    "id": "oct19-unqualified-candidate",
+    "isoDate": "2026-10-19",
+    "month": "October",
+    "date": "Oct 19, 2026",
+    "place": "Kelowna, British Columbia",
+    "image": "assets/cards/2026-10-19-unqualified-elected.webp",
+    "title": "Kelowna’s Candidate Warning Label Wins a Top-Eight Tally","magnetUrl":"https://blappos.printify.me/product/33337116","magnetPrice":"$9.99",
+    "facts": "UPI reported October 19 that 33-year-old business owner Brady Rogers ran for Kelowna City Council with deliberately self-deprecating signs describing himself as reluctant and unqualified. The city’s unofficial October 17 count gave Rogers 12,635 votes—fourth among 37 candidates competing for eight council seats. Kelowna said the chief election officer expected to declare official results by October 21.",
+    "why": "The result is a useful case study in attention, authenticity and local-campaign design: a warning label can become a promise that a candidate is not rehearsing the usual script. It is not evidence that qualifications do not matter, nor does a viral sign explain every ballot. The status line matters too: the city’s published figures are still unofficial until the formal declaration.",
+    "angle": "Verified reporting and result status end above. The Blappos interpretation: he supplied a warning label, and voters treated it as an instruction manual. The card’s candidate, certificate, crowd, ballot box and blank signs are fictional editorial shorthand; they do not reproduce Rogers, his actual signs or a final city declaration.",
+    "amazonLinks": [
+      {"title":"Running For Local Office For Dummies","image":"https://m.media-amazon.com/images/P/1119588170.01.LZZZZZZZ.jpg","alt":"Cover of Running For Local Office For Dummies by Dan Gookin","quip":"A conventional campaign manual for candidates who would rather not make ‘also no’ the whole field plan.","salesPriority":5,"url":"https://www.amazon.com/dp/1119588170?tag=blappos-20"},
+      {"title":"The Campaign Manager: Running and Winning Local Elections","image":"https://m.media-amazon.com/images/P/0813348633.01.LZZZZZZZ.jpg","alt":"Cover of The Campaign Manager by Catherine Shaw","quip":"The nuts-and-bolts local-election guide behind everything the viral warning signs made look accidental.","salesPriority":5,"url":"https://www.amazon.com/dp/0813348633?tag=blappos-20"},
+      {"title":"The Victory Lab: The Secret Science of Winning Campaigns","image":"https://m.media-amazon.com/images/P/030795479X.01.LZZZZZZZ.jpg","alt":"Cover of The Victory Lab by Sasha Issenberg","quip":"A data-minded look at persuasion for investigating why anti-campaign messaging can still behave like a campaign.","salesPriority":4,"url":"https://www.amazon.com/dp/030795479X?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/19/canada-Kelowna-city-council-unqualified-candidate-funny-signs/9581792429340/",
+    "sourceName": "Read UPI’s October 19 report and Kelowna’s unofficial result",
+    "sourcePublisher": "UPI / City of Kelowna",
+    "socialSummary": "Kelowna’s unofficial count put self-described reluctant candidate Brady Rogers fourth in an eight-seat council race.",
+    "socialPunchline": "Blappos: He supplied the warning label; voters peeled it off."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct19StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct19StagingStories);
+// October 19 publication and social delivery gates passed: all three exact Printify products and permanent pages are live.
+
+// October 20 staging edition. These stories remain invisible on the public site until
+// the Printify workflow has published each physical magnet and written its exact URL.
+const oct20StagingStories = [
+  {
+    "id": "oct20-plant-help-desk",
+    "isoDate": "2026-10-20",
+    "month": "October",
+    "date": "Oct 20, 2026",
+    "place": "San Francisco, California",
+    "image": "assets/cards/2026-10-20-plant-help-desk.webp",
+    "title": "A Startup Gives 125 Plant Species a Help Desk","magnetUrl":"https://blappos.printify.me/product/33377585","magnetPrice":"$9.99",
+    "facts": "TechCrunch reported on October 20 that Electric Plant has built sensors and an AI model called Bombadil to interpret electrical signals from living plants. The company says its Bud sensor passes electrodes through the cambium and streams readings to the cloud, where the model can classify patterns associated with hydration, growth and stress across more than 125 species. Those performance and water-saving figures are company claims, not an independent agronomic trial.",
+    "why": "Plant electrophysiology is real: changes in a plant's electrical activity can carry information about its condition. A system that spots stress before visible symptoms could help growers respond earlier and use water more precisely. The evidence clock matters, though. Electric Plant's FAQ describes more than 125 species, while its preprint describes a pretraining corpus covering 100 species; those are not necessarily the same measurement, and neither number alone proves the model will generalize to every crop, field or climate.",
+    "angle": "Verified reporting, company attribution and the measurement boundary end above. The Blappos interpretation: your fern has opened a support ticket, assigned priority urgent and attached seventeen hours of leaf voltage. The magnet's fern, technician, switchboard and San Francisco view are invented visual shorthand—not a photograph, model interface or claim that plants use customer service.",
+    "amazonLinks": [
+      {"title":"The Hidden Life of Trees","image":"https://m.media-amazon.com/images/P/1771642483.01.LZZZZZZZ.jpg","alt":"Cover of The Hidden Life of Trees by Peter Wohlleben","quip":"A popular tour of how trees interact, for the reader now wondering what the fern put in its ticket.","salesPriority":5,"url":"https://www.amazon.com/dp/1771642483?tag=blappos-20"},
+      {"title":"What a Plant Knows","image":"https://m.media-amazon.com/images/P/0374533881.01.LZZZZZZZ.jpg","alt":"Cover of What a Plant Knows by Daniel Chamovitz","quip":"The plant-biology primer for separating measurable sensing and signaling from the joke about customer support.","salesPriority":5,"url":"https://www.amazon.com/dp/0374533881?tag=blappos-20"},
+      {"title":"XLUX Soil Moisture Meter","image":"https://m.media-amazon.com/images/I/71cT4iGyAiL._AC_SL1500_.jpg","alt":"XLUX analog soil moisture meter for houseplants and gardens","quip":"A decidedly non-AI way to answer the fern's most common complaint before opening a cloud account.","salesPriority":4,"url":"https://www.amazon.com/dp/B014MJ8J2U?tag=blappos-20"}
+    ],
+    "source": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "sourceName": "Read TechCrunch's October 20 report",
+    "sourcePublisher": "TechCrunch",
+    "socialSummary": "TechCrunch reported that Electric Plant uses sensors and an AI model to classify electrical patterns from living plants across more than 125 species; the performance claims come from the company.",
+    "socialPunchline": "Blappos: Your fern has opened a support ticket."
+  },
+  {
+    "id": "oct20-cowboy-hat-bar",
+    "isoDate": "2026-10-20",
+    "month": "October",
+    "date": "Oct 20, 2026",
+    "place": "Austin, Texas",
+    "image": "assets/cards/2026-10-20-cowboy-hat-bar.webp",
+    "title": "Texas Builds a 47-Foot Hat With a Bar Under It","magnetUrl":"https://blappos.printify.me/product/33377588","magnetPrice":"$9.99",
+    "facts": "UPI reported on October 20 that Circuit of the Americas and Tecovas unveiled a cowboy-hat sculpture measuring 43 feet wide, 47 feet long and 17 feet tall ahead of the Formula 1 United States Grand Prix. A Guinness World Records adjudicator certified it as the largest fiberglass sculpture of a hat. The steel-framed, foam-and-fiberglass structure contains a bar beneath its brim and is intended to remain at the circuit.",
+    "why": "The exact record category is the useful fact: this is the largest fiberglass sculpture of a hat, not the largest wearable hat and not proof that any human could use it as clothing. The installation is also more than an oversized prop. It combines engineered load-bearing structure, a functioning hospitality space and permanent destination branding at a major motorsport venue.",
+    "angle": "Verified dimensions, construction and certification end above. The Blappos interpretation: Texas has built a dress code with its own ZIP code and put refreshments under the brim. The magnet's visitors, bar and racing scene are invented; it carries no venue, sponsor, Formula 1 or Guinness marks and does not reproduce the real installation photograph.",
+    "amazonLinks": [
+      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The record-book companion for a hat whose official category requires the words fiberglass sculpture.","salesPriority":5,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"},
+      {"title":"Formula 1: The Official History","image":"https://m.media-amazon.com/images/P/1802797785.01.LZZZZZZZ.jpg","alt":"Cover of Formula 1: The Official History","quip":"The racing history behind the weekend that apparently required a 47-foot piece of headwear.","salesPriority":5,"url":"https://www.amazon.com/dp/1802797785?tag=blappos-20"},
+      {"title":"The Formula","image":"https://m.media-amazon.com/images/P/0063318628.01.LZZZZZZZ.jpg","alt":"Cover of The Formula by Joshua Robinson and Jonathan Clegg","quip":"The business story explaining how a race weekend grew large enough to support a permanent hat bar.","salesPriority":4,"url":"https://www.amazon.com/dp/0063318628?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/20/guinness-world-records-cowboy-hat-sculpture/5261792514008/",
+    "sourceName": "Read UPI's October 20 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that an Austin race venue unveiled a 47-foot-long structure certified as the largest fiberglass sculpture of a hat, complete with a bar under its brim.",
+    "socialPunchline": "Blappos: The dress code now has its own ZIP code."
+  },
+  {
+    "id": "oct20-ohare-green-bird",
+    "isoDate": "2026-10-20",
+    "month": "October",
+    "date": "Oct 20, 2026",
+    "place": "Chicago, Illinois",
+    "image": "assets/cards/2026-10-20-ohare-green-bird.webp",
+    "title": "O'Hare's Green Bird Chooses Fight, Not Flight","magnetUrl":"https://blappos.printify.me/product/33377591","magnetPrice":"$9.99",
+    "facts": "UPI reported on October 20 that video from Chicago O'Hare's Terminal 5 showed a large green bird swooping near travelers, landing on people and luggage and trying to bite. The encounter happened on October 13, so the incident clock and publication clock are different. A worker eventually caught the bird with a cloth and it was taken for veterinary care. Reports called it a parrot, but no source available at publication supplied a confirmed species identification.",
+    "why": "An animal loose inside a crowded terminal creates risk for the animal and for travelers who may react unpredictably. The humane resolution came from containing it rather than escalating the commotion. Keeping the species uncertain is also basic sourcing discipline: a vivid color, a hooked bill and an eyewitness label can support a useful description without becoming a taxonomic identification.",
+    "angle": "Verified video reporting, the two clocks and the species boundary end above. The Blappos interpretation: Terminal 5 has added a very personal bag check, administered by a passenger with no boarding group. The magnet's bird, handbag, travelers and terminal are invented; it does not identify the real animal, copy the video or show an approved capture method.",
+    "amazonLinks": [
+      {"title":"The Genius of Birds","image":"https://m.media-amazon.com/images/P/1594205213.01.LZZZZZZZ.jpg","alt":"Cover of The Genius of Birds by Jennifer Ackerman","quip":"A science-rich guide to avian intelligence for the traveler whose bag inspection just grew feathers.","salesPriority":5,"url":"https://www.amazon.com/dp/1594205213?tag=blappos-20"},
+      {"title":"Alex & Me","image":"https://m.media-amazon.com/images/P/0061672475.01.LZZZZZZZ.jpg","alt":"Cover of Alex and Me by Irene Pepperberg","quip":"The landmark parrot-cognition story—useful context without pretending the O'Hare visitor's species was confirmed.","salesPriority":5,"url":"https://www.amazon.com/dp/0061672475?tag=blappos-20"},
+      {"title":"Parrots of the World","image":"https://m.media-amazon.com/images/P/0691142858.01.LZZZZZZZ.jpg","alt":"Cover of Parrots of the World by Joseph Forshaw","quip":"The proper identification reference for readers who know bright green is a description, not a species name.","salesPriority":4,"url":"https://www.amazon.com/dp/0691142858?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/20/parrot-chicago-ohare-airport/1791792511463/",
+    "sourceName": "Read UPI's October 20 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that a large green bird swooped at travelers and luggage in O'Hare Terminal 5 before a worker safely contained it; the October 13 incident was published October 20 and the species was not confirmed.",
+    "socialPunchline": "Blappos: Terminal 5 now offers a personal bag check."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct20StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct20StagingStories);
+// October 20 publication and permanent-page gates passed: exact products, artwork links and BUY CTAs are live; release social delivery.
+
+// October 21 edition. Every story entered the public collection only after the
+// Printify workflow published and linked its exact physical product and price.
+const oct21StagingStories = [
+  {
+    "id": "oct21-space-object",
+    "isoDate": "2026-10-21",
+    "month": "October",
+    "date": "Oct 21, 2026",
+    "place": "Scott Township, Minnesota",
+    "image": "assets/cards/2026-10-21-space-object.webp",
+    "title": "Minnesota Finds an 11-Foot Object With No Return Address","magnetUrl":"https://blappos.printify.me/product/33413603","magnetPrice":"$9.99",
+    "facts": "UPI reported on October 21 that the Stevens County Sheriff’s Office was investigating a roughly 11-foot-diameter metallic object found October 14 in a Scott Township cornfield. The sheriff described it as ‘presumably a space object.’ It was removed the next day and federal agencies were investigating its origin, but the reporting did not identify those agencies or establish what the object was.",
+    "why": "The uncertainty is the important part of the story. Size, material and location can justify securing and examining an unfamiliar object, but they cannot identify its owner, launch, orbit or even prove that it came from space. Keeping October 14 as the discovery clock, October 15 as the removal clock and October 21 as the publication clock prevents a fresh headline from becoming a fresh impact—and preserves the investigation’s actual status.",
+    "angle": "Verified reporting and the unknown-origin boundary end above. The Blappos interpretation: the cornfield accepted delivery, but the tracking number is above everyone’s clearance. The magnet’s circular object, farm, observers and orbit line are original editorial illustration—not a photograph, spacecraft identification, agency reconstruction or claim that federal investigators have confirmed space debris.",
+    "amazonLinks": [
+      {"title":"Space Junk: The Dangers of Polluting Earth’s Orbit","image":"https://m.media-amazon.com/images/P/1467756008.01.LZZZZZZZ.jpg","alt":"Cover of Space Junk by Karen Romano Young","quip":"A clear, illustrated guide to orbital debris for readers who want the real category before assigning this object a flight number.","salesPriority":5,"url":"https://www.amazon.com/dp/1467756008?tag=blappos-20"},
+      {"title":"Orbital Debris: A Technical Assessment","image":"https://m.media-amazon.com/images/P/0309051258.01.LZZZZZZZ.jpg","alt":"Cover of Orbital Debris: A Technical Assessment","quip":"The National Academies technical reference for understanding what space debris is, how it is tracked and why identification requires evidence.","salesPriority":5,"url":"https://www.amazon.com/dp/0309051258?tag=blappos-20"},
+      {"title":"How to Astronaut","image":"https://m.media-amazon.com/images/P/1523506485.01.LZZZZZZZ.jpg","alt":"Cover of How to Astronaut by Terry Virts","quip":"A former astronaut’s practical tour of hardware and life off Earth—useful context while the Minnesota hardware keeps its résumé private.","salesPriority":4,"url":"https://www.amazon.com/dp/1523506485?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/21/space-debris-stevens-county-minnesota/1601792604854/",
+    "sourceName": "Read UPI’s October 21 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported that officials removed a roughly 11-foot metallic object from a Minnesota cornfield; its origin remains under federal investigation.",
+    "socialPunchline": "Blappos: The cornfield accepted delivery, but orbit left no return address."
+  },
+  {
+    "id": "oct21-696-car-train",
+    "isoDate": "2026-10-21",
+    "month": "October",
+    "date": "Oct 21, 2026",
+    "place": "Sishen–Saldanha line, South Africa",
+    "image": "assets/cards/2026-10-21-696-car-train.webp",
+    "title": "South Africa Couples 696 Empty Cars to One Pending Record","magnetUrl":"https://blappos.printify.me/product/33413607","magnetPrice":"$9.99",
+    "facts": "UPI reported on October 21 that Transnet Freight Rail ran a 696-wagon train measuring about 7.6 kilometers, or 4.7 miles, on South Africa’s Sishen–Saldanha iron-ore export line. The October 18 trial used empty CR13/14 wagons and distributed electric and diesel-electric locomotives. Transnet presented it as a longest-freight-train record attempt; Guinness review remained pending.",
+    "why": "An exceptionally long train is a systems test, not just 696 instances of ‘add wagon.’ Distributed power helps manage acceleration, braking and the forces traveling through couplers across changing grades. The run can yield useful handling and infrastructure data, but an empty test does not by itself prove the capacity, economics or repeatability of an equivalent loaded service. Certification and operational significance therefore have separate evidence clocks.",
+    "angle": "Verified dimensions, empty-wagon status and pending certification end above. The Blappos interpretation: the locomotive left 4.7 miles before the last wagon finished joining the story. The magnet’s landscape, worker, locomotives and long curve are original editorial illustration—not a route photograph, operator livery, Guinness mark or claim that the attempt has been certified.",
+    "amazonLinks": [
+      {"title":"Train: The Definitive Visual History","image":"https://m.media-amazon.com/images/P/1465422293.01.LZZZZZZZ.jpg","alt":"Cover of Train: The Definitive Visual History by DK","quip":"A richly illustrated rail history for putting one 7.6-kilometer test inside two centuries of very long engineering decisions.","salesPriority":5,"url":"https://www.amazon.com/dp/1465422293?tag=blappos-20"},
+      {"title":"The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger","image":"https://m.media-amazon.com/images/P/0691136408.01.LZZZZZZZ.jpg","alt":"Cover of The Box by Marc Levinson","quip":"The freight-logistics classic for understanding why moving a lot of empty hardware can still produce valuable system knowledge.","salesPriority":5,"url":"https://www.amazon.com/dp/0691136408?tag=blappos-20"},
+      {"title":"Freight Train","image":"https://m.media-amazon.com/images/P/068880165X.01.LZZZZZZZ.jpg","alt":"Cover of Freight Train by Donald Crews","quip":"Donald Crews’ Caldecott Honor classic, now conveniently short enough to finish before the final wagon passes.","salesPriority":4,"url":"https://www.amazon.com/dp/068880165X?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/10/21/safrica-Guinjness-World-Records-longest-freight-train/7221792598259/",
+    "sourceName": "Read UPI’s October 21 report and the Transnet trial details",
+    "sourcePublisher": "UPI / Transnet Freight Rail",
+    "socialSummary": "UPI reported that Transnet ran a 696-empty-wagon, 4.7-mile trial train on October 18; Guinness certification remains pending.",
+    "socialPunchline": "Blappos: The cab left 4.7 miles ago."
+  },
+  {
+    "id": "oct21-crocs-warm-climates",
+    "isoDate": "2026-10-21",
+    "month": "October",
+    "date": "Oct 21, 2026",
+    "place": "Tropical and subtropical Earth",
+    "image": "assets/cards/2026-10-21-crocs-warm-climates.webp",
+    "title": "Crocodile Lineages Spend 240 Million Years Avoiding Sweater Weather","magnetUrl":"https://blappos.printify.me/product/33413610","magnetPrice":"$9.99",
+    "facts": "Reuters reported on October 21 that researchers analyzed an evolutionary tree of more than 400 extinct and living crocodile-line archosaurs, more than 7,000 fossil and modern geographic records and 52 global palaeoclimate reconstructions. The Science Advances study found that the lineage, which arose more than 240 million years ago, largely tracked suitable warm climates—expanding poleward during warmer intervals and retreating toward the equator as climates cooled.",
+    "why": "That pattern is climatic niche conservatism: lineages follow familiar conditions geographically more than they repeatedly evolve broad new thermal tolerances. The models also suggest tropical and subtropical refuges remained suitable through most tested aftermaths of the end-Cretaceous impact. That makes climate one contributor to survivorship, not a solo explanation; lower metabolic demand, dormancy, ecology, geography and the severity of each extinction still matter.",
+    "angle": "Verified research, model scope and multi-cause boundary end above. The Blappos interpretation: evolution’s longest out-of-office reply says the team is unavailable anywhere requiring a winter coat. The magnet’s two animals, tropical refuge, meteor streak and climate contours are original scientific satire—not a copied fossil reconstruction, a map of one event or a claim that any individual crocodilian lived for 240 million years.",
+    "amazonLinks": [
+      {"title":"Crocodile: Evolution’s Greatest Survivor","image":"https://m.media-amazon.com/images/P/1741144981.01.LZZZZZZZ.jpg","alt":"Cover of Crocodile: Evolution’s Greatest Survivor by Lynne Kelly","quip":"A full natural and evolutionary history of the animal family that turned thermal conservatism into an extremely long tenure.","salesPriority":5,"url":"https://www.amazon.com/dp/1741144981?tag=blappos-20"},
+      {"title":"The Rise and Fall of the Dinosaurs","image":"https://m.media-amazon.com/images/P/0062490435.01.LZZZZZZZ.jpg","alt":"Cover of The Rise and Fall of the Dinosaurs by Steve Brusatte","quip":"Deep-time context for the crocodile-line relatives, dinosaurs and mass extinctions sharing this 240-million-year calendar.","salesPriority":5,"url":"https://www.amazon.com/dp/0062490435?tag=blappos-20"},
+      {"title":"The Ends of the World","image":"https://m.media-amazon.com/images/P/0062364812.01.LZZZZZZZ.jpg","alt":"Cover of The Ends of the World by Peter Brannen","quip":"A readable tour of Earth’s mass extinctions for understanding why ‘survived’ is always a climate, geography and ecology story.","salesPriority":4,"url":"https://www.amazon.com/dp/0062364812?tag=blappos-20"}
+    ],
+    "source": "https://www.reuters.com/science/an-affinity-warm-climes-has-helped-crocs-thrive-eons-2026-10-21/",
+    "sourceName": "Read Reuters’ October 21 report and the linked Science Advances paper",
+    "sourcePublisher": "Reuters / Science Advances",
+    "socialSummary": "A study of more than 400 crocodile-line species found the lineage largely followed warm habitats as climates shifted over 240 million years.",
+    "socialPunchline": "Blappos: Evolution’s longest out-of-office reply says no winter coat."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !oct21StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...oct21StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// October 21 publication gate passed: all three exact Printify products are live; build permanent pages and release social delivery.
+// October 21 permanent-page check passed: source context, artwork links and BUY CTAs are live; authorize Buffer scheduling.
+
+// October 22 edition. Every story entered the public collection only after the
+// Printify workflow published and linked its exact physical magnet and price.
+const oct22StagingStories = [
+  {
+    "id": "oct22-earhart-driftwood",
+    "isoDate": "2026-10-22",
+    "month": "October",
+    "date": "Oct 22, 2026",
+    "place": "Nikumaroro, Kiribati",
+    "image": "assets/cards/2026-10-22-earhart-driftwood.webp",
+    "title": "Amelia Earhart Plane Search Finds Its ‘Plane’ Was Trees","magnetUrl":"https://blappos.printify.me/product/33452592","magnetPrice":"$9.99",
+    "facts": "Smithsonian Magazine reported on October 22 that a 17-person expedition had tested whether the Taraia Object—a visual anomaly first noticed in 2020 satellite imagery near Nikumaroro—might be wreckage from Amelia Earhart’s Lockheed Electra. Purdue’s October 18 release says the team found no conclusive plane evidence: the shape was most likely a collection of large trees deposited on the sandspit, and the surviving Y-shaped fragment looked reflective because it carried a carbonate veneer.",
+    "why": "Remote imagery can generate a testable hypothesis, but it cannot finish an identification. The expedition used field observation, a magnetometer and side-scan sonar to ground-truth a visually persuasive clue, then published a null result instead of promoting the desired answer. That distinction matters far beyond this mystery: a blurry shape is evidence worth checking, not permission to name the object.",
+    "angle": "Verified reporting and Purdue’s field conclusion end above. The Blappos interpretation: the satellite found a plane-shaped tree and the expedition found the receipt. The magnet’s researchers, driftwood, clipboard, metal detector and airplane-shaped cloud are original editorial illustration—not the real team, a site photograph, recovered wreckage or proof for any broader theory about Earhart and Fred Noonan.",
+    "amazonLinks": [
+      {"title":"Lost: Amelia Earhart’s Three Mysterious Deaths and One Extraordinary Life","image":"https://m.media-amazon.com/images/P/1426222548.01.LZZZZZZZ.jpg","alt":"Cover of Lost: Amelia Earhart’s Three Mysterious Deaths and One Extraordinary Life","quip":"A current National Geographic biography that separates Earhart’s documented life from the competing endings attached to it.","salesPriority":5,"url":"https://www.amazon.com/dp/1426222548?tag=blappos-20"},
+      {"title":"Archaeology from Space","image":"https://m.media-amazon.com/images/P/1250231345.01.LZZZZZZZ.jpg","alt":"Cover of Archaeology from Space by Sarah Parcak","quip":"The ideal primer on turning satellite patterns into hypotheses—and then doing the inconvenient fieldwork.","salesPriority":5,"url":"https://www.amazon.com/dp/1250231345?tag=blappos-20"},
+      {"title":"East to the Dawn: The Life of Amelia Earhart","image":"https://m.media-amazon.com/images/P/030681837X.01.LZZZZZZZ.jpg","alt":"Cover of East to the Dawn by Susan Butler","quip":"A deeply researched life of the aviator behind the mystery, for readers ready to put the person before the blurry object.","salesPriority":4,"url":"https://www.amazon.com/dp/030681837X?tag=blappos-20"}
+    ],
+    "source": "https://www.smithsonianmag.com/smart-news/researchers-claimed-a-blurry-object-on-apple-maps-was-very-likely-amelia-earharts-missing-plane-it-turned-out-to-be-a-collection-of-large-trees-180989734/",
+    "sourceName": "Read Smithsonian Magazine’s October 22 report and Purdue’s field result",
+    "sourcePublisher": "Smithsonian Magazine / Purdue University",
+    "socialSummary": "Smithsonian Magazine reported October 22 that a 17-person expedition checked the Taraia Object near Nikumaroro and found it was most likely washed-up trees, not Amelia Earhart’s Electra.",
+    "socialPunchline": "Blappos: The plane was trees."
+  },
+  {
+    "id": "oct22-busan-shark-return",
+    "isoDate": "2026-10-22",
+    "month": "October",
+    "date": "Oct 22, 2026",
+    "place": "Busan, South Korea",
+    "image": "assets/cards/2026-10-22-busan-shark-return.webp",
+    "title": "Busan Guides a Shark to Sea. The Shark Files for Reentry","magnetUrl":"https://blappos.printify.me/product/33452594","magnetPrice":"$9.99",
+    "facts": "The Associated Press reported on October 22 that Busan workers guided a 3-meter female dusky shark nicknamed Bukangi out of a North Port canal during a third rescue attempt—then watched her swim beneath an outer barrier and return hours later. First spotted in mid-September, the endangered shark had drawn more than 1.7 million visitors. Officials said she was then circling between two nets while rescuers considered the next move.",
+    "why": "This was not a mascot stunt. Officials cited the animal’s safety, the lack of signs that she had been feeding regularly and falling water temperature. Marine scientists had no confirmed explanation for her preference, although port noise, lights, equipment and the canal’s relative quiet were possible influences. The failed exit shows why moving a large wild animal is a behavioral and welfare problem, not simply a matter of pointing toward open water.",
+    "angle": "Verified rescue status, welfare concerns and uncertainty end above. The Blappos interpretation: Busan built an exit and Bukangi exercised the canal’s return policy. The magnet’s shark, workers, net, platform and skyline are original editorial illustration—not the real rescue scene, a handling guide or an invitation to approach or disturb the animal.",
+    "amazonLinks": [
+      {"title":"Sharks of the World","image":"https://m.media-amazon.com/images/P/0691120722.01.LZZZZZZZ.jpg","alt":"Cover of Sharks of the World from Princeton Field Guides","quip":"A global identification guide for telling a dusky shark from every other fin with a publicity department.","salesPriority":5,"url":"https://www.amazon.com/dp/0691120722?tag=blappos-20"},
+      {"title":"The Secret Life of Sharks","image":"https://m.media-amazon.com/images/P/1416578331.01.LZZZZZZZ.jpg","alt":"Cover of The Secret Life of Sharks by A. Peter Klimley","quip":"Behavioral science for understanding why a shark’s route choice may be more complicated than the nearest exit sign.","salesPriority":5,"url":"https://www.amazon.com/dp/1416578331?tag=blappos-20"},
+      {"title":"The Lives of Sharks","image":"https://m.media-amazon.com/images/P/0691244316.01.LZZZZZZZ.jpg","alt":"Cover of The Lives of Sharks by Daniel Abel and R. Dean Grubbs","quip":"A modern natural history of shark ecology, conservation and movement—useful context for one endangered canal celebrity.","salesPriority":4,"url":"https://www.amazon.com/dp/0691244316?tag=blappos-20"}
+    ],
+    "source": "https://apnews.com/article/south-korea-shark-bukangi-busan-canal-c1aee6f075f51ffd1cb32cbe26f55bb7",
+    "sourceName": "Read the Associated Press report from October 22",
+    "sourcePublisher": "Associated Press",
+    "socialSummary": "The Associated Press reported that a 3-meter endangered dusky shark was guided out of a Busan canal on October 21, then slipped beneath a barrier and returned hours later as officials planned another safe exit.",
+    "socialPunchline": "Blappos: The canal has a return policy."
+  },
+  {
+    "id": "oct22-chameleon-tree-rescue",
+    "isoDate": "2026-10-22",
+    "month": "October",
+    "date": "Oct 22, 2026",
+    "place": "Forsyth County, Georgia",
+    "image": "assets/cards/2026-10-22-chameleon-tree-rescue.webp",
+    "title": "Georgia Firefighters Upgrade ‘Cat in a Tree’ to Chameleon","magnetUrl":"https://blappos.printify.me/product/33452595","magnetPric

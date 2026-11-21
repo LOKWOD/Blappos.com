@@ -1,0 +1,303 @@
+te-card QA: each staged story has exactly three metadata- and image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov17StagingStories = [
+  {
+    "id": "nov17-owl-frog-bones",
+    "isoDate": "2026-11-17",
+    "month": "November 2026",
+    "date": "Nov 17, 2026",
+    "place": "Cambridgeshire, England",
+    "image": "assets/cards/nov17-owl-frog-bones.jpg",
+    "title": "Roman Britain's Frog Graveyard Turns Out to Be an Owl Buffet","magnetUrl":"https://blappos.printify.me/product/34650767","magnetPrice":"$9.99",
+    "facts": "November 17 coverage revisited a peer-reviewed investigation of the dense amphibian-bone deposit discovered during the A14 Cambridge-to-Huntingdon road project. The find was originally described publicly as more than 8,000 frog and toad bones; the paper reports 9,135 bones in the main gully, representing 72% of the full assemblage and at least 469 animals. Breakage patterns most closely matched short-eared owl pellets, while other evidence leaves room for a predator community that may also have included hen harriers.",
+    "why": "The answer is more useful than a tidy whodunit. Bone measurements indicate many frogs died during autumn or winter in their first year, radiocarbon work places the deposit about 1,700 years ago, and pollen, charcoal and landscape evidence point to increasingly open Roman-period grassland. That supports an ecological reconstruction in which abundant young frogs became prey for grassland-hunting birds. It does not prove one owl made the pile, that every bone came from a frog or that people deliberately created the deposit.",
+    "angle": "The November 17 coverage, open paper, bone count, predator comparison and inference limits end above. The Blappos interpretation: Roman Britain's coldest case was an owl buffet with 8,000 pieces of evidence. The trench, evidence tray, owl, frogs, fenland and Roman landscape are disclosed original AI-generated editorial illustration—not excavation photography, a literal single-owl crime scene, identifiable researchers or proof that every bone had the same cause.",
+    "amazonLinks": [
+      {"title":"Frogs and Toads of the World","image":"https://m.media-amazon.com/images/P/0691149682.01.LZZZZZZZ.jpg","alt":"Cover of Frogs and Toads of the World by Chris Mattison","quip":"A photographic natural history for identifying the enormous family behind one exceptionally concentrated Roman-era bone deposit.","salesPriority":5,"url":"https://www.amazon.com/dp/0691149682?tag=blappos-20"},
+      {"title":"What an Owl Knows","image":"https://m.media-amazon.com/images/P/059329890X.01.LZZZZZZZ.jpg","alt":"Cover of What an Owl Knows by Jennifer Ackerman","quip":"Modern owl science for understanding how a predator's leftovers became a 1,700-year-old environmental archive.","salesPriority":5,"url":"https://www.amazon.com/dp/059329890X?tag=blappos-20"},
+      {"title":"Animal Bones and Archaeology","image":"https://m.media-amazon.com/images/P/1789258537.01.LZZZZZZZ.jpg","alt":"Cover of Animal Bones and Archaeology by Ian Baxter","quip":"A practical introduction to the evidence discipline that can turn a tray of tiny bones into a defensible landscape history.","salesPriority":4,"url":"https://www.amazon.com/dp/1789258537?tag=blappos-20"}
+    ],
+    "source": "https://doi.org/10.1080/14614103.2026.2746302",
+    "sourceName": "Read the open Environmental Archaeology paper and Bournemouth University's research digest",
+    "sourcePublisher": "Environmental Archaeology / Bournemouth University",
+    "socialSummary": "A study traced a Roman-era Cambridgeshire deposit of more than 8,000 frog and toad bones mainly to owl predation, while landscape evidence helped explain the feast.",
+    "socialPunchline": "Blappos: 8,000 bones. The owls did it."
+  },
+  {
+    "id": "nov17-ai-python-search",
+    "isoDate": "2026-11-17",
+    "month": "November 2026",
+    "date": "Nov 17, 2026",
+    "place": "Castelfidardo, Italy",
+    "image": "assets/cards/nov17-ai-python-search.jpg",
+    "title": "Italy Searches 48 Hours for a Python That Existed Only in a Photo","magnetUrl":"https://blappos.printify.me/product/34650780","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 17 that a supposed photo of a python emerging from a toilet in Castelfidardo triggered a roughly 48-hour response. Firefighters from Osimo searched the apartment, and Carabinieri Forestali officers from the CITES unit joined the effort after the animal could not be found. Investigators ultimately determined that the image had been generated with AI; a 9-year-old who had shared it acknowledged creating the picture as a prank.",
+    "why": "The snake was synthetic; the public resources were not. A plausible image can create a real search before anyone establishes its provenance, especially when the depicted hazard would justify a cautious response. The reporting says authorities did not bring charges because of the child's age. It does not establish which software produced the image, malicious intent, a snake loose anywhere in town or that responders acted irrationally by treating an exotic-animal report seriously before verification.",
+    "angle": "The November 17 report, Italian follow-up, responder timeline, synthetic-image finding and no-charge outcome end above. The Blappos interpretation: Castelfidardo completed 48 hours of snake overtime for a reptile whose entire habitat was one phone screen. The bathroom, phone, responders and illustrated python are disclosed original AI-generated editorial art—not the viral image, the home, real personnel, a child likeness or evidence of an actual snake.",
+    "amazonLinks": [
+      {"title":"AI Snake Oil","image":"https://m.media-amazon.com/images/P/069124913X.01.LZZZZZZZ.jpg","alt":"Cover of AI Snake Oil by Arvind Narayanan and Sayash Kapoor","quip":"A practical guide to what artificial intelligence can and cannot establish before the emergency search reaches hour forty-eight.","salesPriority":5,"url":"https://www.amazon.com/dp/069124913X?tag=blappos-20"},
+      {"title":"A Field Guide to Lies","image":"https://m.media-amazon.com/images/P/0593182510.01.LZZZZZZZ.jpg","alt":"Cover of A Field Guide to Lies by Daniel J. Levitin","quip":"Critical-thinking tools for checking the evidence source before accepting the photogenic python as a plumbing fact.","salesPriority":5,"url":"https://www.amazon.com/dp/0593182510?tag=blappos-20"},
+      {"title":"Ultimate Reptileopedia","image":"https://m.media-amazon.com/images/P/1426338201.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Kids Ultimate Reptileopedia","quip":"A real-reptile reference for the important distinction between an actual python and a very convincing rectangle of pixels.","salesPriority":4,"url":"https://www.amazon.com/dp/1426338201?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/17/italy-castelfidardo-ai-generated-python-toilet/2661794933231/",
+    "sourceName": "Read UPI's November 17 report and Il Resto del Carlino's local follow-up",
+    "sourcePublisher": "UPI / Il Resto del Carlino",
+    "socialSummary": "An AI-generated toilet-python image shared by a 9-year-old prompted firefighters and forest police in Castelfidardo to spend roughly 48 hours searching for a snake that was not there.",
+    "socialPunchline": "Blappos: Forty-eight hours. Zero snakes."
+  },
+  {
+    "id": "nov17-counter-chickens",
+    "isoDate": "2026-11-17",
+    "month": "November 2026",
+    "date": "Nov 17, 2026",
+    "place": "Hadley, Massachusetts",
+    "image": "assets/cards/nov17-counter-chickens.jpg",
+    "title": "Massachusetts Convenience Store Receives Four Live Chickens at Checkout","magnetUrl":"https://blappos.printify.me/product/34650785","magnetPrice":"$9.99",
+    "facts": "Boston 25 reported on November 17 that Hadley police released surveillance images while seeking two people connected with four live chickens dumped onto a convenience-store counter shortly before 2 a.m. Monday. Police said one person carried the birds in a large tote and the other appeared to record the incident. The chickens appeared uninjured and were placed with an animal rescue while investigators tried to identify the people and the birds' owner.",
+    "why": "The spectacle is funny; the unresolved animal-welfare and ownership questions are not. Police were still investigating where the chickens came from and said charges related to their treatment and taking could follow. That means the images support a sequence—tote, counter, phone and birds—but not a conviction, a known motive, proof of theft or permission to identify unnamed people as criminals.",
+    "angle": "The November 17 update, surveillance sequence, four-bird count, rescue placement and unresolved identities end above. The Blappos interpretation: the overnight register received four chickens, zero receipts and a loyalty program nobody had approved. The store, clerk, birds, phone reflection and Hadley hills are disclosed original AI-generated editorial illustration—not surveillance footage, real suspects, an identifiable employee, store branding or a depiction of the birds being thrown.",
+    "amazonLinks": [
+      {"title":"Storey's Guide to Raising Chickens, 4th Edition","image":"https://m.media-amazon.com/images/P/1612129307.01.LZZZZZZZ.jpg","alt":"Cover of Storey's Guide to Raising Chickens by Gail Damerow","quip":"The comprehensive care guide for returning checkout poultry to housing designed for considerably fewer snack displays.","salesPriority":5,"url":"https://www.amazon.com/dp/1612129307?tag=blappos-20"},
+      {"title":"How to Speak Chicken","image":"https://m.media-amazon.com/images/P/1612129110.01.LZZZZZZZ.jpg","alt":"Cover of How to Speak Chicken by Melissa Caughey","quip":"Behavior and communication context for determining whether the four unexpected customers were requesting help or merely aisle three.","salesPriority":5,"url":"https://www.amazon.com/dp/1612129110?tag=blappos-20"},
+      {"title":"The Chicken Encyclopedia","image":"https://m.media-amazon.com/images/P/1603425616.01.LZZZZZZZ.jpg","alt":"Cover of The Chicken Encyclopedia by Gail Damerow","quip":"An illustrated reference for every checkout question except how four birds arrived without a loyalty card.","salesPriority":4,"url":"https://www.amazon.com/dp/1603425616?tag=blappos-20"}
+    ],
+    "source": "https://www.boston25news.com/news/local/police-release-images-suspects-after-live-chickens-thrown-hadley-store-clerk/ISQX5TGAORATVKH55IZX4AOVME/",
+    "sourceName": "Read Boston 25's November 17 update based on Hadley Police's surveillance release",
+    "sourcePublisher": "Boston 25 News / Hadley Police",
+    "socialSummary": "Hadley police released surveillance images after four live chickens were dumped onto a convenience-store counter while another person appeared to record; the birds were uninjured and placed with a rescue.",
+    "socialPunchline": "Blappos: Four chickens. Zero receipts."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov17StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov17StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 17 publication gate: these stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
+// November 17 affiliate-card QA: each staged story has exactly three metadata- and image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov18StagingStories = [
+  {
+    "id": "nov18-voyager-light-day",
+    "isoDate": "2026-11-18",
+    "month": "November 2026",
+    "date": "Nov 18, 2026",
+    "place": "Interstellar Space",
+    "image": "assets/cards/nov18-voyager-light-day.jpg",
+    "title": "Voyager 1 Reaches the Address Where Hello Takes Two Days","magnetUrl":"https://blappos.printify.me/product/34726470","magnetPrice":"$9.99",
+    "facts": "NASA calculated that Voyager 1 reached one light-day from Earth at 5:16:07 a.m. EST on November 18—about 16.094 billion miles, or 25.902 billion kilometers, away. A radio command now needs about 24 hours to reach the probe, and its answer needs another 24 hours to return. The milestone arrived 49 years, two months and 11 days after launch. Separately, engineers said Voyager 1 had been transmitting only a carrier signal since November 14, with no science or engineering data in it, even though the carrier indicates the antenna remains pointed toward Earth and the transmitter is operating.",
+    "why": "One light-day is a communications threshold, not a wall in space: nothing physically changed when Voyager crossed it. The practical change has accumulated for decades—every diagnostic round trip now consumes roughly two days before engineers can even evaluate the response. NASA says the current carrier-only problem is probably in data formatting or an onboard computer, but that diagnosis could take weeks or longer. The carrier and trajectory models can confirm the distance milestone; neither proves that the missing telemetry issue is solved.",
+    "angle": "NASA's November 18 milestone calculation, engineering update and the boundary between distance and diagnosis end above. The Blappos interpretation: Voyager has moved to the address where hello ships in two business days. The probe, tiny Earth, signal arc and star field are disclosed original AI-generated editorial illustration—not a NASA image, official mission graphic, exact spacecraft blueprint or depiction of the present malfunction.",
+    "amazonLinks": [
+      {"title":"The Interstellar Age","image":"https://m.media-amazon.com/images/P/1101983892.01.LZZZZZZZ.jpg","alt":"Cover of The Interstellar Age by Jim Bell","quip":"A firsthand history of the Voyager mission for understanding how a four-year planetary tour became a forty-nine-year interstellar conversation.","salesPriority":5,"url":"https://www.amazon.com/dp/1101983892?tag=blappos-20"},
+      {"title":"Pale Blue Dot","image":"https://m.media-amazon.com/images/P/0345376595.01.LZZZZZZZ.jpg","alt":"Cover of Pale Blue Dot by Carl Sagan","quip":"The classic cosmic perspective inspired in part by Voyager, now speaking from a full light-day beyond the planet in that famous photograph.","salesPriority":5,"url":"https://www.amazon.com/dp/0345376595?tag=blappos-20"},
+      {"title":"Voyager: Photographs from Humanity's Greatest Journey","image":"https://m.media-amazon.com/images/P/3961717079.01.LZZZZZZZ.jpg","alt":"Cover of Voyager: Photographs from Humanity's Greatest Journey","quip":"A visual record of the mission's planetary legacy for the two-day wait between today's command and reply.","salesPriority":4,"url":"https://www.amazon.com/dp/3961717079?tag=blappos-20"}
+    ],
+    "source": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+    "sourceName": "Read NASA's November 18 light-day explainer and engineering update",
+    "sourcePublisher": "NASA",
+    "socialSummary": "Voyager 1 reached one light-day from Earth—about 16.1 billion miles—so a command and reply now require roughly 48 hours.",
+    "socialPunchline": "Blappos: Hello now ships in two business days."
+  },
+  {
+    "id": "nov18-peanut-baggage",
+    "isoDate": "2026-11-18",
+    "month": "November 2026",
+    "date": "Nov 18, 2026",
+    "place": "Atlanta, Georgia",
+    "image": "assets/cards/nov18-peanut-baggage.jpg",
+    "title": "Atlanta Baggage Claim Discovers the Brown Goo Was Peanut Butter","magnetUrl":"https://blappos.printify.me/product/34726473","magnetPrice":"$9.99",
+    "facts": "WSB-TV reported on November 18 that passengers from American Airlines Flight 2609, arriving in Atlanta from Miami around 8:30 p.m. Monday, waited more than two hours before dozens of bags appeared smeared with a brown substance. Travelers initially feared it might be waste. American Airlines said an inspection found that liquefied peanut butter had leaked from one checked bag and affected other luggage, apologized and said it was working with customers. Passengers cleaned their bags at the airport, while some questioned whether one container could explain the volume they saw.",
+    "why": "The airline's explanation resolves the most alarming identification without resolving every practical question. The reporting reviewed here does not establish the exact number of affected bags, the size or packaging of the peanut-butter container, an independent contamination test, who packed it or the outcome of every damage claim. It does show why a mundane packing failure can become an airport-scale hygiene scare when one leaking bag moves through shared handling equipment.",
+    "angle": "WSB-TV's passenger accounts, the airline's inspection result and those unanswered limits end above. The Blappos interpretation: Carousel 8 chose chunky. The terminal, carousel, passengers, luggage, jar and peanut-butter streaks are disclosed original AI-generated editorial illustration—not airport footage, an American Airlines mark, a real traveler or the actual leaking container.",
+    "amazonLinks": [
+      {"title":"Peanut Butter: Breakfast, Lunch, Dinner, Midnight","image":"https://m.media-amazon.com/images/P/1743795750.01.LZZZZZZZ.jpg","alt":"Cover of Peanut Butter: Breakfast, Lunch, Dinner, Midnight","quip":"Peanut-butter recipes for every meal except the one involuntarily served across an airport baggage carousel.","salesPriority":5,"url":"https://www.amazon.com/dp/1743795750?tag=blappos-20"},
+      {"title":"The Peanut Butter Cookbook","image":"https://m.media-amazon.com/images/P/1529923824.01.LZZZZZZZ.jpg","alt":"Cover of The Peanut Butter Cookbook: Recipes Like No Other","quip":"A proper home for ambitious peanut butter, safely separated from checked luggage and shared conveyor belts.","salesPriority":5,"url":"https://www.amazon.com/dp/1529923824?tag=blappos-20"},
+      {"title":"Peanut Butter Comfort","image":"https://m.media-amazon.com/images/P/1620876213.01.LZZZZZZZ.jpg","alt":"Cover of Peanut Butter Comfort by Averie Sunshine","quip":"Comforting uses for the spread after Atlanta demonstrated its less comforting baggage-handling mode.","salesPriority":4,"url":"https://www.amazon.com/dp/1620876213?tag=blappos-20"}
+    ],
+    "source": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/news/local/what-was-that-mysterious-brown-substance-covering-dozens-bags-atlanta-airport/RHC743G4PJFRNKWUCIG3QEY5UI/",
+    "sourceName": "Read WSB-TV's November 18 local report and American Airlines' response",
+    "sourcePublisher": "WSB-TV Atlanta",
+    "socialSummary": "After dozens of bags arrived coated in brown goo at Atlanta baggage claim, American Airlines said one checked bag had leaked liquefied peanut butter.",
+    "socialPunchline": "Blappos: Carousel 8 chose chunky."
+  },
+  {
+    "id": "nov18-dog-coyote-pack",
+    "isoDate": "2026-11-18",
+    "month": "November 2026",
+    "date": "Nov 18, 2026",
+    "place": "Tucson, Arizona",
+    "image": "assets/cards/nov18-dog-coyote-pack.jpg",
+    "title": "Tucson's Newest Coyote Appears to Be a 60-Pound Dog","magnetUrl":"https://blappos.printify.me/product/34726477","magnetPrice":"$9.99",
+    "facts": "KJZZ's Fronteras Desk reported on November 18 that Tucson homeowner Patricia Wilson's trail cameras repeatedly recorded a large domestic dog traveling with coyotes over roughly two weeks. Wilson nicknamed the dog Sombra and estimated it at about 60 pounds. Early speculation linked it to Raven, a dog that had escaped from Pima Animal Care Center, but shelter officials said the markings did not match. PACC said intervention is difficult because a trap must capture the dog without trapping coyotes and that it would step in if the dog appeared to be in danger.",
+    "why": "The footage documents repeated association; it does not identify the dog, establish its breed, prove ownership or guarantee that the arrangement is safe. Wildlife specialists say coyotes sometimes tolerate dogs, though the behavior is unusual. That combination makes the case useful beyond the novelty: rescue plans must weigh an animal's apparent condition against the risk that an ordinary trap or chase could harm the dog, the coyotes or both.",
+    "angle": "The November 18 report, trail-camera sequence, shelter comparison and uncertainty about identity and safety end above. The Blappos interpretation: new pack, no paperwork. The dog, three coyotes, Sonoran yard, moonlight, water bowl and camera-like composition are disclosed original AI-generated editorial illustration—not trail-camera footage, a literal count of the real coyotes, proof of adoption or a depiction of Raven.",
+    "amazonLinks": [
+      {"title":"Coyote America","image":"https://m.media-amazon.com/images/P/0465098533.01.LZZZZZZZ.jpg","alt":"Cover of Coyote America by Dan Flores","quip":"A cultural and natural history of the adaptable canid behind Tucson's most unexpected neighborhood social group.","salesPriority":5,"url":"https://www.amazon.com/dp/0465098533?tag=blappos-20"},
+      {"title":"Coyote: North America's Dog","image":"https://m.media-amazon.com/images/P/1590784855.01.LZZZZZZZ.jpg","alt":"Cover of Coyote: North America's Dog by Ruth Berman","quip":"An illustrated wildlife introduction for telling the established desert residents from their sixty-pound domestic companion.","salesPriority":5,"url":"https://www.amazon.com/dp/1590784855?tag=blappos-20"},
+      {"title":"The Other End of the Leash","image":"https://m.media-amazon.com/images/P/034544678X.01.LZZZZZZZ.jpg","alt":"Cover of The Other End of the Leash by Patricia McConnell","quip":"A behavior classic for thinking carefully about what dogs communicate without turning one trail-camera sequence into a complete biography.","salesPriority":4,"url":"https://www.amazon.com/dp/034544678X?tag=blappos-20"}
+    ],
+    "source": "https://www.kjzz.org/fronteras-desk/2026-11-18/stray-dog-in-tucson-finds-an-unlikely-family-a-pack-of-coyotes",
+    "sourceName": "Read KJZZ's November 18 Fronteras Desk report and the Arizona Public Media original",
+    "sourcePublisher": "KJZZ Fronteras Desk / Arizona Public Media",
+    "socialSummary": "Tucson trail cameras repeatedly recorded a large domestic dog traveling with coyotes; shelter officials say it is probably not the escaped dog first suspected.",
+    "socialPunchline": "Blappos: New pack. No paperwork."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov18StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov18StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 18 publication gate: these stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
+// November 18 affiliate-card QA: each staged story has exactly three metadata- and image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once; permanent product-linked pages were verified before social release.
+
+const nov19StagingStories = [
+  {
+    "id": "nov19-liberty-43-seconds",
+    "isoDate": "2026-11-19",
+    "month": "November 2026",
+    "date": "Nov 19, 2026",
+    "place": "Brooklyn, New York",
+    "image": "assets/cards/nov19-liberty-43-seconds.jpg",
+    "title": "Brooklyn Gives the Statue of Liberty a 43.5-Second Paint Job","magnetUrl":"https://blappos.printify.me/product/34776963","magnetPrice":"$9.99",
+    "facts": "Guinness World Records reported on November 19 that performance painter David Garibaldi created a recognizable Statue of Liberty painting in 43.5 seconds on the Brooklyn waterfront. The canvas began upside down; after broad green and blue strokes, he flipped it to reveal the image. An on-site Guinness adjudicator confirmed a new title for the fastest time to paint a landmark statue and Garibaldi's first Guinness World Records title.",
+    "why": "The memorable number is an adjudicated elapsed time, not an estimate from an edited clip. It applies to one defined record category and one completed painting; it does not establish a universal speed-painting record, say how long preparation took or judge the work's artistic quality. Keeping the category, result and adjudicator together prevents a 43.5-second performance from becoming a broader claim than the evidence supports.",
+    "angle": "The November 19 record report, measured time and category limits end above. The Blappos interpretation: freedom dries fast. The Brooklyn waterfront, anonymous painter, canvas, crowd and stopwatch are disclosed original AI-generated editorial illustration—not event photography, David Garibaldi's likeness, a Guinness mark or a copy of the finished painting.",
+    "amazonLinks": [
+      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The official annual reference for the household that wants its astonishing numbers measured, categorized and adjudicated.","salesPriority":5,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"},
+      {"title":"Steal Like an Artist","image":"https://m.media-amazon.com/images/P/0761169253.01.LZZZZZZZ.jpg","alt":"Cover of Steal Like an Artist by Austin Kleon","quip":"A compact creative-practice guide for the part of speed painting that happens long before the stopwatch starts.","salesPriority":5,"url":"https://www.amazon.com/dp/0761169253?tag=blappos-20"},
+      {"title":"Wreck This Journal","image":"https://m.media-amazon.com/images/P/0399161945.01.LZZZZZZZ.jpg","alt":"Cover of Wreck This Journal by Keri Smith","quip":"A permission slip for energetic mark-making when 43.5 seconds feels generous and an upside-down canvas feels reasonable.","salesPriority":4,"url":"https://www.amazon.com/dp/0399161945?tag=blappos-20"}
+    ],
+    "source": "https://www.guinnessworldrecords.com/news/2026/11/speed-painter-celebrates-gwr-day-by-making-statue-of-liberty-portrait-in-under-1-minute",
+    "sourceName": "Read Guinness World Records' November 19 report and adjudicated result",
+    "sourcePublisher": "Guinness World Records",
+    "xSourcePublisher": "GWR",
+    "socialSummary": "David Garibaldi painted the Statue of Liberty in 43.5 seconds; Guinness verified the record.",
+    "socialPunchline": "Blappos: Freedom dries fast."
+  },
+  {
+    "id": "nov19-sea-pig-symbiont",
+    "isoDate": "2026-11-19",
+    "month": "November 2026",
+    "date": "Nov 19, 2026",
+    "place": "The Deep Pacific",
+    "image": "assets/cards/nov19-sea-pig-symbiont.jpg",
+    "title": "Sea Pigs Discover Their Skin Has a Majority Shareholder","magnetUrl":"https://blappos.printify.me/product/34776969","magnetPrice":"$9.99",
+    "facts": "A University of Tokyo-led team examined eight deep-sea sea pigs and reported a newly described symbiotic bacterium living beneath their body surface. In body-wall samples from three sea-pig species, one bacterium accounted for more than 70% of bacterial 16S rRNA gene sequences. The proposed Candidatus Abyssoplasma scotoplanesicola has a compact genome of about 649,000 bases, yet more than a quarter is devoted to surface-associated protein groups, including proteins longer than 5,000 amino acids.",
+    "why": "The 70% figure describes bacterial marker-gene sequences in sampled body walls; it does not mean the bacterium makes up 70% of the whole animal. Fluorescence imaging located the cells beneath the body surface, while genome reconstruction suggests an unusually host-dependent partnership. Researchers do not yet know what benefit the sea pigs receive, so 'symbiont' describes close association without proving mutual benefit.",
+    "angle": "The November 19 digest, primary paper, sample scope and unresolved host benefit end above. The Blappos interpretation: one microscopic tenant controls 70% of the bacterial mail. The translucent sea pig, cutaway glow, microbes and abyssal seafloor are disclosed original AI-generated editorial illustration—not a specimen photograph, literal anatomy plate or claim that the bacteria glow naturally.",
+    "amazonLinks": [
+      {"title":"The Brilliant Abyss","image":"https://m.media-amazon.com/images/P/0802158226.01.LZZZZZZZ.jpg","alt":"Cover of The Brilliant Abyss by Helen Scales","quip":"A deep-ocean tour for meeting the ecosystem surrounding a translucent animal and its newly named microscopic tenant.","salesPriority":5,"url":"https://www.amazon.com/dp/0802158226?tag=blappos-20"},
+      {"title":"I Contain Multitudes","image":"https://m.media-amazon.com/images/P/0062368591.01.LZZZZZZZ.jpg","alt":"Cover of I Contain Multitudes by Ed Yong","quip":"A readable guide to animal-microbe partnerships for understanding why 'living beneath the skin' need not mean infection.","salesPriority":5,"url":"https://www.amazon.com/dp/0062368591?tag=blappos-20"},
+      {"title":"National Geographic Ocean: A Global Odyssey","image":"https://m.media-amazon.com/images/P/1426221924.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Ocean A Global Odyssey","quip":"A broad visual reference for the enormous ocean in which one very small genome found an unusually specific address.","salesPriority":4,"url":"https://www.amazon.com/dp/1426221924?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+    "sourceName": "Read the November 19 ScienceDaily digest and University of Tokyo research source",
+    "sourcePublisher": "ScienceDaily / University of Tokyo",
+    "xSourcePublisher": "U Tokyo / ScienceDaily",
+    "socialSummary": "A study found one bacterium supplied over 70% of bacterial marker reads in sea-pig body-wall samples.",
+    "socialPunchline": "Blappos: One tenant controls 70% of the mail."
+  },
+  {
+    "id": "nov19-manhole-dog",
+    "isoDate": "2026-11-19",
+    "month": "November 2026",
+    "date": "Nov 19, 2026",
+    "place": "Kansas City, Kansas",
+    "image": "assets/cards/nov19-manhole-dog.jpg",
+    "title": "Kansas City Opens a Manhole and Finds a Dog Eight Feet Down","magnetUrl":"https://blappos.printify.me/product/34776978","magnetPrice":"$9.99",
+    "facts": "KCTV reported on November 19 that Kansas City, Kansas, Environmental Services workers doing routine sewer maintenance noticed a displaced manhole cover in a vacant lot near 17th Street and Stewart Avenue. They found a dog at the bottom of the roughly eight-foot-deep opening, called supervisors and Animal Services, and used specialized sewer tools to bring her safely to the surface. Animal Services took the dog for a checkup, and the damaged opening was fenced pending repair.",
+    "why": "The rescue began with workers noticing infrastructure out of place, then escalating instead of attempting an improvised solo retrieval. The public account establishes the depth, team response, equipment, transfer for a checkup and temporary barrier; it does not establish how the dog fell, how long she was below, her ownership or a final medical outcome. The damaged cover is both the story's absurd entrance and an ordinary public-safety hazard.",
+    "angle": "The November 19 local report and the agency's rescue account end above. The Blappos interpretation: routine sewer inspection found a surprise tenant. The dog, crew, harness, opening, skyline and safety fence are disclosed original AI-generated editorial illustration—not the rescued animal, named workers, real uniforms, a city seal or a reconstruction of the exact equipment placement.",
+    "amazonLinks": [
+      {"title":"Pet First Aid: The First Aid Companion for Dogs & Cats","image":"https://m.media-amazon.com/images/P/1579543650.01.LZZZZZZZ.jpg","alt":"Cover of Pet First Aid by Amy D. Shojai","quip":"A practical emergency reference for the checkup after an ordinary maintenance call becomes an eight-foot animal rescue.","salesPriority":5,"url":"https://www.amazon.com/dp/1579543650?tag=blappos-20"},
+      {"title":"Canine Enrichment for the Real World","image":"https://m.media-amazon.com/images/P/1617812684.01.LZZZZZZZ.jpg","alt":"Cover of Canine Enrichment for the Real World","quip":"A science-minded guide to meeting dogs' needs in places much safer and more intentional than an uncovered manhole.","salesPriority":5,"url":"https://www.amazon.com/dp/1617812684?tag=blappos-20"},
+      {"title":"The Other End of the Leash","image":"https://m.media-amazon.com/images/P/034544678X.01.LZZZZZZZ.jpg","alt":"Cover of The Other End of the Leash by Patricia McConnell","quip":"A behavior classic for the humans responsible for noticing, helping and eventually figuring out where one unexpected dog belongs.","salesPriority":4,"url":"https://www.amazon.com/dp/034544678X?tag=blappos-20"}
+    ],
+    "source": "https://www.kctv5.com/2026/11/19/routine-environmental-work-leads-dog-rescue-kansas-city-kansas/",
+    "sourceName": "Read KCTV's November 19 local report based on the Environmental Services account",
+    "sourcePublisher": "KCTV / Kansas City, Kansas, Environmental Services",
+    "xSourcePublisher": "KCTV / KCKES",
+    "socialSummary": "Kansas sewer workers found a dog eight feet down an open manhole and lifted her out safely.",
+    "socialPunchline": "Blappos: Routine inspection found a surprise tenant."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov19StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov19StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 19 purchase gate: all three stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
+// November 19 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov20StagingStories = [
+  {
+    "id": "nov20-fire-zipline",
+    "isoDate": "2026-11-20",
+    "month": "November 2026",
+    "date": "Nov 20, 2026",
+    "place": "Lodz, Poland",
+    "image": "assets/cards/nov20-fire-zipline.jpg",
+    "title": "Poland Adds Full-Body Fire to the Zip-Line Waiver",
+    "facts": "UPI reported on November 20 that Polish professional stuntman Stanisław Madej traveled 568 feet 6.8 inches on a zip line while his full body was on fire, earning the Guinness World Records title for the farthest distance full-body burn on a zip wire. The attempt took place October 3 in Lodz to mark the tenth anniversary of the Tyrolka w Manufakturze zip line. Madej wore specialized protective clothing and water-based insulating gel, and a support team extinguished him after the run.",
+    "why": "The publication clock and stunt clock are different: the certified result was reported November 20, but the attempt occurred October 3. The record is also evidence of a controlled professional performance, not evidence that fire became predictable or ordinary zip-line equipment became suitable for a burn stunt. Madej explicitly emphasized fire's danger, the need for awareness and concentration, and the protective preparation behind the spectacle.",
+    "angle": "The November 20 report, exact distance, October attempt date, protective setup and record category end above. The Blappos interpretation: this is why the waiver has fourteen pages. The anonymous performer, fire, industrial skyline, crowd and support crew are disclosed original AI-generated editorial illustration—not record footage, Stanisław Madej's likeness, a Guinness mark, a real venue layout or an instruction to imitate the stunt.",
+    "amazonLinks": [
+      {"title":"Stuntman!: My Car-Crashing, Plane-Jumping, Bone-Breaking, Death-Defying Hollywood Life","image":"https://m.media-amazon.com/images/P/0316078999.01.LZZZZZZZ.jpg","alt":"Cover of Stuntman! by Hal Needham","quip":"A legendary stunt performer's memoir whose fire-stunt cover makes the preparation behind one flaming zip-line record considerably less invisible.","salesPriority":5,"url":"https://www.amazon.com/dp/0316078999?tag=blappos-20"},
+      {"title":"So You Want to Be a Stunt Performer","image":"https://m.media-amazon.com/images/P/1972766791.01.LZZZZZZZ.jpg","alt":"Cover of So You Want to Be a Stunt Performer by Linda Soules","quip":"A safety-first introduction to the coordinators, riggers and rehearsals surrounding a stunt that lasts seconds and requires far more planning.","salesPriority":5,"url":"https://www.amazon.com/dp/1972766791?tag=blappos-20"},
+      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/P/1806500256.01.LZZZZZZZ.jpg","alt":"Cover of Guinness World Records 2027","quip":"The official annual reference for filing 568 feet of controlled fire under an exact category instead of a general life recommendation.","salesPriority":4,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/20/poland-guinness-world-records-zip-line-fire/1931795195407/",
+    "sourceName": "Read UPI's November 20 report based on the Guinness World Records result",
+    "sourcePublisher": "UPI / Guinness World Records",
+    "xSourcePublisher": "UPI / GWR",
+    "socialSummary": "Polish stuntman Stanisław Madej traveled 568 feet 6.8 inches on a zip line during a controlled full-body burn, earning a Guinness record.",
+    "socialPunchline": "Blappos: This is why the waiver has 14 pages."
+  },
+  {
+    "id": "nov20-moon-bricks",
+    "isoDate": "2026-11-20",
+    "month": "November 2026",
+    "date": "Nov 20, 2026",
+    "place": "Fayetteville, Arkansas",
+    "image": "assets/cards/nov20-moon-bricks.jpg",
+    "title": "Arkansas Prints Moon Dust Into Bricks Before the Moon Has Building Codes",
+    "facts": "ScienceDaily published a November 20 digest of University of Arkansas research demonstrating small interlocking construction blocks made entirely from commercially produced lunar-highlands regolith simulant. The team used laser powder-bed fusion to sinter the powder without an added binder, producing reconfigurable shapes a few centimeters across. The underlying University of Arkansas release was published November 10, and the study appeared in npj Advanced Manufacturing.",
+    "why": "The material was LHS-1 simulant designed to resemble Apollo-era lunar samples, not dust returned from the Moon. The blocks were self-supporting, but their porosity and lower strength mean the researchers do not yet describe them as load-bearing construction. Future work must test stronger designs and determine how the printing process behaves in lunar gravity and vacuum. The result is a promising manufacturing method, not a finished Moon-base wall.",
+    "angle": "The November 20 digest, primary university release, binder-free process, simulant boundary and strength limits end above. The Blappos interpretation: the Moon now requires assembly. The anonymous researchers, laboratory printer, gray bricks and imagined lunar construction scene are disclosed original AI-generated editorial illustration—not a press photograph, a LEGO product, actual lunar material, a finished habitat or a claim that astronauts performed the test.",
+    "amazonLinks": [
+      {"title":"Moon: An Illustrated History — From Ancient Myths to the Colonies of Tomorrow","image":"https://m.media-amazon.com/images/P/1454931981.01.LZZZZZZZ.jpg","alt":"Cover of Moon: An Illustrated History by David Warmflash","quip":"A visual lunar history that carries one binder-free brick experiment into the much larger story of imagined and planned Moon settlements.","salesPriority":5,"url":"https://www.amazon.com/dp/1454931981?tag=blappos-20"},
+      {"title":"The LEGO Architect","image":"https://m.media-amazon.com/images/P/1593276133.01.LZZZZZZZ.jpg","alt":"Cover of The LEGO Architect by Tom Alphin","quip":"An interlocking-brick design guide for the Earthbound version of the modular construction logic researchers are testing with lunar simulant.","salesPriority":5,"url":"https://www.amazon.com/dp/1593276133?tag=blappos-20"},
+      {"title":"Packing for Mars: The Curious Science of Life in the Void","image":"https://m.media-amazon.com/images/P/0393339912.01.LZZZZZZZ.jpg","alt":"Cover of Packing for Mars by Mary Roach","quip":"A funny, research-rich account of off-world logistics for understanding why making construction material in place matters more than the toy-brick resemblance.","salesPriority":4,"url":"https://www.amazon.com/dp/0393339912?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+    "sourceName": "Read ScienceDaily's November 20 digest and the University of Arkansas primary release",
+    "sourcePublisher": "ScienceDaily / University of Arkansas",
+    "xSourcePublisher": "U Arkansas / ScienceDaily",
+    "socialSummary": "University of Arkansas researchers used laser sintering to print small interlocking blocks from simulated lunar regolith without added binder.",
+    "socialPunchline": "Blappos: The Moon now requires assembly."
+  },
+  {
+    "id": "nov20-bacon-intruder",
+    "isoDate": "2026-11-20",
+    "month": "November 2026",
+    "date": "Nov 20, 2026",
+    "place": "Casselberry, Florida",
+    "image": "assets/cards/nov20-bacon-intruder.jpg",
+    "title": "Florida Closes a Garage Break-In Case With One Pig and No Charges",
+    "facts": "UPI reported on November 20 that Casselberry Police officers answering a garage-intruder call found the suspect hiding in a neighboring garage and identified it as a runaway pig named Bacon. The department said Delta Squad responded to the original report on November 3. Police joked that Bacon appeared to be looking for a late-night snack and was released with a warning rather than charged.",
+    "why": "The dated police account establishes the call, the animal's identity and the harmless resolution; it does not turn the pig into a literal burglar. The event date and report date should remain separate, and the department's suspect-and-warning language is clearly comic social copy. The practical story is simpler: a loose domestic animal entered private garages, officers located it, and nobody reported an injury or criminal charge.",
+    "angle": "The November 20 report, November 3 incident date and police department's joking language end above. The Blappos interpretation: no charges, one snack warning. The pig, officers, garage, lawn mower and snack bag are disclosed original AI-generated editorial illustration—not police photography, the real animal, a real home, department uniforms, a branded product or evidence that Bacon stole anything.",
+    "amazonLinks": [
+      {"title":"The Good Good Pig: The Extraordinary Life of Christopher Hogwood","image":"https://m.media-amazon.com/images/P/0345496094.01.LZZZZZZZ.jpg","alt":"Cover of The Good Good Pig by Sy Montgomery","quip":"A naturalist's memoir about the intelligence and personality of a pet pig for giving the garage visitor a biography more accurate than 'burglary suspect.'","salesPriority":5,"url":"https://www.amazon.com/dp/0345496094?tag=blappos-20"},
+      {"title":"If You Give a Pig a Pancake","image":"https://m.media-amazon.com/images/P/0060266864.01.LZZZZZZZ.jpg","alt":"Cover of If You Give a Pig a Pancake by Laura Numeroff","quip":"The definitive warning that one pig plus one snack can generate a chain of events much longer than the original garage call.","salesPriority":5,"url":"https://www.amazon.com/dp/0060266864?tag=blappos-20"},
+      {"title":"Storey's Guide to Raising Pigs, 4th Edition","image":"https://m.media-amazon.com/images/P/1635860423.01.LZZZZZZZ.jpg","alt":"Cover of Storey's Guide to Raising Pigs by Kelly Klober","quip":"Practical care, facilities and management guidance for keeping the next late-night snack inspection inside the correct property line.","salesPriority":4,"url":"https://www.amazon.com/dp/1635860423?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/20/casselberry-police-pig-bacon/8891795199569/",
+    "sourceName": "Read UPI's November 20 report based on Casselberry Police's public account",
+    "sourcePublisher": "UPI / Casselberry Police Department",
+    "xSourcePublisher": "UPI / Casselberry PD",
+    "socialSummary": "Casselberry police answering a reported garage intrusion found the culprit was a runaway pig named Bacon hiding in a neighboring garage.",
+    "socialPunchline": "Blappos: No charges. One snack warning."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov20StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov20StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 20 purchase gate: these three stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
+// November 20 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
