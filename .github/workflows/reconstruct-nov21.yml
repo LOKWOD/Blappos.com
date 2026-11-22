@@ -1,0 +1,43 @@
+name: Restore November 21 publication assets
+
+on:
+  push:
+    paths:
+      - .reconstruct/nov21/**
+      - .github/workflows/reconstruct-nov21.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: restore-nov21-publication-assets
+  cancel-in-progress: false
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Reassemble exact publication files
+        run: |
+          cat .reconstruct/nov21/daily-data/part-* > daily-data.js
+          cat .reconstruct/nov21/westminster/part-* > assets/cards/nov21-westminster-sarcophagus.jpg
+          cat .reconstruct/nov21/quantum-clock/part-* > assets/cards/nov21-quantum-clock.jpg
+          cat .reconstruct/nov21/sea-lion/part-* > assets/cards/nov21-sea-lion-patio.jpg
+          node --check daily-data.js
+          test "$(wc -c < daily-data.js)" -eq 843120
+          test "$(wc -c < assets/cards/nov21-westminster-sarcophagus.jpg)" -eq 734296
+          test "$(wc -c < assets/cards/nov21-quantum-clock.jpg)" -eq 907106
+          test "$(wc -c < assets/cards/nov21-sea-lion-patio.jpg)" -eq 997869
+      - name: Commit restored files
+        run: |
+          rm -rf .reconstruct/nov21
+          rm .github/workflows/reconstruct-nov21.yml
+          git config user.name "blappos-automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Restore November 21 data and artwork"
+          git pull --rebase origin main
+          git push origin main
