@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+// November 22 daily publication checkpoint: verify delivery only after the product and page gates pass.
 // Daily publishing checkpoint: delivery verification remains separate from queue acceptance.
 import vm from 'node:vm';
 

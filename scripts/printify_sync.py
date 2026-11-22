@@ -2,7 +2,7 @@
 """Create or update a Blappos magnet from the approved Printify master product."""
 
 import argparse
-# Daily publishing checkpoint: this script path intentionally retriggers the gated Printify workflow after exact asset restoration.
+# Daily publishing checkpoint: November 22 retrigger after exact November 21 asset restoration.
 import base64
 import copy
 import io

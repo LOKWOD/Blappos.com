@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-22 — November 21 identity, prediction and causation matrix
+
+### Westminster Abbey archaeology and collections team
+- Target: Abbey archaeologists and collections staff responsible for the Roman sarcophagus research and public display
+- Route: https://www.westminster-abbey.org/contact-us
+- Asset match: https://blappos.com/verification/#nov21-westminster-sarcophagus
+- Honest angle: A reusable candidate-identity digest that links the Abbey and peer-reviewed study, preserves the AD 987–1052 date and keeps Aelfwig and Wulnoth visible instead of converting a leading candidate into a unique identification. A correction or resource-share opportunity only if the Abbey considers it accurate and useful.
+
+### Kyushu University Institute for Advanced Study
+- Target: Joshua Foo and research communications staff responsible for the optical-ion-clock proposal
+- Route: https://www.kyushu-u.ac.jp/en/contact/
+- Asset match: https://blappos.com/verification/#nov21-quantum-clock
+- Honest angle: A theory-versus-observation reference that links the university release and Physical Review Letters paper, explains the predicted coherence signature in plain language and says explicitly that no quantum superposition of elapsed times has yet been observed.
+
+### Channel Islands Marine & Wildlife Institute
+- Target: CIMWI rescue and public-education staff responsible for the Santa Barbara response and current pup-stranding context
+- Route: https://www.cimwi.org/contact
+- Asset match: https://blappos.com/verification/#nov21-sea-lion-patio
+- Honest angle: An incident-versus-trend example that credits the healthy adult's assessment and release, retains the unknown cause of his crossing and keeps CIMWI's separate 22-pup rescue trend visible as an ocean-health signal. No outreach has been sent.
+
 ## 2026-11-19 — November 18 three-clock verification matrix
 
 ### NASA Jet Propulsion Laboratory / Voyager mission communications
