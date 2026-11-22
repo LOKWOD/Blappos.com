@@ -5890,3 +5890,80 @@ window.dailyStories = window.dailyStories.filter(story => !nov20StagingStories.s
 window.dailyStories.unshift(...nov20StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 20 purchase gate: these three stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
 // November 20 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov21StagingStories = [
+  {
+    "id": "nov21-westminster-sarcophagus",
+    "isoDate": "2026-11-21",
+    "month": "November 2026",
+    "date": "Nov 21, 2026",
+    "place": "Westminster, London",
+    "image": "assets/cards/nov21-westminster-sarcophagus.jpg",
+    "title": "Westminster's Roman Coffin Is Probably Hosting the Wrong Millennium",
+    "facts": "ScienceDaily's November 21 research digest revisited a limestone sarcophagus excavated at Westminster Abbey in 1869. Its inscription names the Roman-era Valerius Amandinus, but a medieval cross was later cut into the lid. Radiocarbon dating places the skeleton inside at AD 987–1052, and bone analysis describes a man roughly 35–49 years old and about 5 feet 9 inches tall. Archaeologist Warwick Rodwell argues that the occupant was probably a high-ranking medieval monk; the leading candidates are Abbots Aelfwig, who died around 1020, and Wulnoth, who died in 1049.",
+    "why": "The coffin, the skeleton and the name carved on the stone belong to different evidentiary clocks. The Roman inscription identifies the sarcophagus's first known occupant, while the date range and re-carved lid show that the container was reused centuries later. Status, location and chronology support an abbot, but they do not choose conclusively between the two candidates. Calling the mystery fully solved would outrun the paper and the Abbey's own account.",
+    "angle": "The November 21 digest, peer-reviewed study, Abbey record and identity boundary end above. The Blappos interpretation: the guest list is still pending. The sarcophagus, skeleton, anonymous conservators, date sheet and Gothic gallery are disclosed original AI-generated editorial illustration—not excavation photography, a reconstruction of either abbot, a copied museum display or proof of one candidate's identity.",
+    "amazonLinks": [
+      {"title":"Westminster Abbey: A Church in History","image":"https://m.media-amazon.com/images/P/1913107477.01.LZZZZZZZ.jpg","alt":"Cover of Westminster Abbey: A Church in History","quip":"A richly illustrated history of the institution surrounding one Roman coffin, two medieval candidates and a remarkably patient mystery.","salesPriority":5,"url":"https://www.amazon.com/dp/1913107477?tag=blappos-20"},
+      {"title":"Roman Britain: A New History","image":"https://m.media-amazon.com/images/P/0500291144.01.LZZZZZZZ.jpg","alt":"Cover of Roman Britain: A New History by Guy de la Bédoyère","quip":"The broader Roman-British context for a fourth-century stone casket that acquired a very different second life in Saxon Westminster.","salesPriority":5,"url":"https://www.amazon.com/dp/0500291144?tag=blappos-20"},
+      {"title":"Animal Bones and Archaeology","image":"https://m.media-amazon.com/images/P/1789258537.01.LZZZZZZZ.jpg","alt":"Cover of Animal Bones and Archaeology by Ian Baxter","quip":"A practical evidence guide for understanding how bone, context and dating can narrow an identity without pretending to read a name tag.","salesPriority":4,"url":"https://www.amazon.com/dp/1789258537?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+    "sourceName": "Read ScienceDaily's November 21 digest, Westminster Abbey's primary account and the peer-reviewed study",
+    "sourcePublisher": "ScienceDaily / Westminster Abbey / Taylor & Francis",
+    "xSourcePublisher": "Westminster Abbey / ScienceDaily",
+    "socialSummary": "A Roman sarcophagus at Westminster Abbey contains a skeleton dated to AD 987–1052; new research says a medieval abbot is the likely occupant, but two candidates remain.",
+    "socialPunchline": "Blappos: The guest list is still pending."
+  },
+  {
+    "id": "nov21-quantum-clock",
+    "isoDate": "2026-11-21",
+    "month": "November 2026",
+    "date": "Nov 21, 2026",
+    "place": "Fukuoka, Japan",
+    "image": "assets/cards/nov21-quantum-clock.jpg",
+    "title": "Physicists Ask One Atomic Clock to Keep Two Kinds of Time",
+    "facts": "A November 21 ScienceDaily digest highlighted a Kyushu University-led theoretical proposal published earlier in 2026 in Physical Review Letters. The team modeled a trapped-ion optical clock whose quantum motion is placed in a superposition. Because relative motion changes elapsed proper time, the clock's motion can become entangled with its internal energy; the researchers say that loss of quantum coherence could provide a measurable signature. Their control technique is projected to improve sensitivity to the effect by roughly 100 to 1,000 times.",
+    "why": "No clock has yet been observed living through two rates of time in this experiment. The result is a proposed way to make a very small quantum-relativistic effect detectable with advanced atomic-clock technology. That distinction matters: a theoretical signal and an experimental platform are a test plan, not a successful measurement or evidence of literal time travel. The researchers say the next step is a detailed real-world experiment that accounts for noise and uncertainty.",
+    "angle": "The November 21 digest, primary university release, paper and theory-versus-observation boundary end above. The Blappos interpretation: the clock needs a second opinion. The anonymous laboratory, trapped ion, double motion path, paired clock arcs and 'PROPOSED TEST' board are disclosed original AI-generated editorial illustration—not a photograph, technical schematic, completed result or institutional apparatus.",
+    "amazonLinks": [
+      {"title":"A Brief History of Timekeeping","image":"https://m.media-amazon.com/images/P/1953295606.01.LZZZZZZZ.jpg","alt":"Cover of A Brief History of Timekeeping by Chad Orzel","quip":"A physicist's tour from ancient markers to atomic standards for the clock that now has to explain quantum motion and relativity at once.","salesPriority":5,"url":"https://www.amazon.com/dp/1953295606?tag=blappos-20"},
+      {"title":"The Order of Time","image":"https://m.media-amazon.com/images/P/0735216118.01.LZZZZZZZ.jpg","alt":"Cover of The Order of Time by Carlo Rovelli","quip":"A concise exploration of how physics dismantles everyday time before one trapped ion volunteers to make the problem even stranger.","salesPriority":5,"url":"https://www.amazon.com/dp/0735216118?tag=blappos-20"},
+      {"title":"A Brief History of Time","image":"https://m.media-amazon.com/images/P/0553380168.01.LZZZZZZZ.jpg","alt":"Cover of A Brief History of Time by Stephen Hawking","quip":"The classic big-picture companion for keeping superposition, relativity and speculation in their correct scientific drawers.","salesPriority":4,"url":"https://www.amazon.com/dp/0553380168?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+    "sourceName": "Read ScienceDaily's November 21 digest, Kyushu University's primary release and the Physical Review Letters paper",
+    "sourcePublisher": "ScienceDaily / Kyushu University / Physical Review Letters",
+    "xSourcePublisher": "Kyushu U / ScienceDaily",
+    "socialSummary": "Researchers proposed using a trapped-ion atomic clock to detect a quantum superposition of elapsed times; the predicted signature has not yet been observed experimentally.",
+    "socialPunchline": "Blappos: The clock needs a second opinion."
+  },
+  {
+    "id": "nov21-sea-lion-patio",
+    "isoDate": "2026-11-21",
+    "month": "November 2026",
+    "date": "Nov 21, 2026",
+    "place": "Santa Barbara, California",
+    "image": "assets/cards/nov21-sea-lion-patio.jpg",
+    "title": "Santa Barbara Sea Lion Crosses Four Lanes for a Patio Table",
+    "facts": "The Santa Barbara Independent reported on November 21 that a young adult male California sea lion crossed four lanes of Cabrillo Boulevard on Thursday morning and reached the patio of Flor de Maiz before the restaurant opened. Drivers stopped, and Harbor Patrol, police and Animal Control kept watch until Channel Islands Marine Wildlife Institute staff captured him by 9:15 a.m. A health assessment found him alert, at a healthy weight and without visible injuries; staff later released him at Hollister Ranch Shoreline Preserve, where he headed back into the water.",
+    "why": "The crossing animal was in good condition, and nobody knows why he left the water. CIMWI discussed several possibilities—including storm turbulence, chronic domoic-acid exposure or a predator—but reported no significant poisoning symptoms and made no definitive attribution. Separately, the organization had rescued 22 malnourished sea-lion pups in 23 days amid warmer water and displaced prey. That wider trend matters without being retrofitted as the proven cause of this healthy adult's detour.",
+    "angle": "The November 21 local report, rescue account, healthy release and incident-versus-trend boundary end above. The Blappos interpretation: your patio table is ready, sir. The sea lion, stopped cars, anonymous responders, boulevard and empty restaurant patio are disclosed original AI-generated editorial illustration—not rescue photography, the actual restaurant, a real worker or a claim that the animal intended to dine.",
+    "amazonLinks": [
+      {"title":"Call to the Rescue: The Story of the Marine Mammal Center","image":"https://m.media-amazon.com/images/P/0811870081.01.LZZZZZZZ.jpg","alt":"Cover of Call to the Rescue by Joe Quirk","quip":"The history of a California marine-mammal hospital for the organized rescue work hiding behind one extremely photogenic road crossing.","salesPriority":5,"url":"https://www.amazon.com/dp/0811870081?tag=blappos-20"},
+      {"title":"Astro: The Steller Sea Lion","image":"https://m.media-amazon.com/images/P/1607180871.01.LZZZZZZZ.jpg","alt":"Cover of Astro the Steller Sea Lion by Jeanne Walker Harvey","quip":"A true California rescue-and-release story about another sea lion whose travel plans repeatedly surprised the people caring for him.","salesPriority":5,"url":"https://www.amazon.com/dp/1607180871?tag=blappos-20"},
+      {"title":"National Geographic Ocean: A Global Odyssey","image":"https://m.media-amazon.com/images/P/1426221924.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Ocean: A Global Odyssey","quip":"A broad visual ocean reference for understanding why marine mammals serve as sentinels far beyond one Santa Barbara patio.","salesPriority":4,"url":"https://www.amazon.com/dp/1426221924?tag=blappos-20"}
+    ],
+    "source": "https://www.independent.com/2026/11/21/why-did-the-sea-lion-cross-the-road/",
+    "sourceName": "Read the Santa Barbara Independent's November 21 report and CIMWI rescue account",
+    "sourcePublisher": "Santa Barbara Independent / CIMWI",
+    "xSourcePublisher": "SB Independent / CIMWI",
+    "socialSummary": "A healthy young male sea lion crossed four lanes of Santa Barbara traffic, reached a restaurant patio and was safely assessed and returned to the ocean.",
+    "socialPunchline": "Blappos: Your patio table is ready, sir."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov21StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov21StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 21 purchase gate: these stories remain invisible until Printify publishes each exact physical magnet and writes its storefront URL and price into the matching object.
+// November 21 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
