@@ -1,0 +1,32 @@
+name: Reconstruct November 22 Printify staging fix
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .reconstruct/nov22-fix/**
+      - .github/workflows/reconstruct-nov22-fix.yml
+
+permissions:
+  contents: write
+
+jobs:
+  reconstruct:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reconstruct and verify exact story data
+        run: |
+          cat .reconstruct/nov22-fix/daily-data.js.* > daily-data.js
+          printf '%s  %s\n' \
+            '7c7a46751b683c398c331f93978dee009ec7d4be81cac746c4a32b833839d934' 'daily-data.js' | sha256sum --check --strict
+          node --check daily-data.js
+          rm -rf .reconstruct/nov22-fix .github/workflows/reconstruct-nov22-fix.yml
+      - name: Commit corrected story staging
+        run: |
+          git config user.name "blappos-automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add daily-data.js .reconstruct/nov22-fix .github/workflows/reconstruct-nov22-fix.yml
+          git commit -m "Correct November 22 Printify staging"
+          git push
