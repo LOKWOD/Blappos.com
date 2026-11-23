@@ -6022,7 +6022,7 @@ const nov22StagingStories = [
     "date": "Nov 22, 2026",
     "place": "Boston, Massachusetts",
     "image": "assets/cards/nov22-cabin-cat.jpg",
-    "title": "A Loose Cabin Cat Delays a Taxiing Jet and Still Lands on Time",
+    "title": "A Loose Cabin Cat Delays a Taxiing Jet and Still Lands on Time","magnetUrl":"https://blappos.printify.me/product/34931279","magnetPrice":"$9.99",
     "facts": "Boston.com reported on November 22 that a cat escaped its kennel aboard Delta Flight 2706 while the Boston-to-Tampa aircraft was taxiing Friday morning. The crew paused on the taxiway until the cat was safely secured. In circulated air-traffic-control audio, the pilot explained that a cat had been loose in the cabin; a controller replied that it was a new one and signed off with a meow. Delta said the flight then departed normally and arrived in Tampa on time.",
     "why": "A brief ground hold kept an unsecured animal from becoming an in-flight safety problem, and the on-time arrival shows why incident duration and operational outcome both belong in the headline. The report does not identify the cat or explain how the kennel opened. The controller's joke is an authenticated part of the reported exchange, but it is not evidence that air-traffic policy has added a feline dialect.",
     "angle": "The November 22 report, airline account, operational outcome and audio boundary end above. The Blappos interpretation: cleared for takeoff, meow. The tabby, carrier, anonymous passengers, cabin crew and generic Boston airport view are disclosed original AI-generated editorial illustration—not footage from Flight 2706, a real passenger or a Delta-branded cabin.",
