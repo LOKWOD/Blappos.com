@@ -249,6 +249,8 @@ function amazonMarkup(story) {
         </section>`;
 }
 
+// Keep permanent pages on the same hard purchase gate as the homepage: an
+// ungated staging object must never become an indexable story URL.
 const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadStories('daily-data.js', 'dailyStories')]
   .filter((story, index, list) => story.id && story.magnetUrl && story.magnetPrice && list.findIndex(item => item.id === story.id) === index);
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
