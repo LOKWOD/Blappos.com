@@ -5967,3 +5967,86 @@ window.dailyStories = window.dailyStories.filter(story => !nov21StagingStories.s
 window.dailyStories.unshift(...nov21StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 21 purchase gate: these stories remain invisible until Printify publishes each exact physical magnet and writes its storefront URL and price into the matching object.
 // November 21 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov22StagingStories = [
+  {
+    "id": "nov22-bigfoot-files",
+    "isoDate": "2026-11-22",
+    "month": "November 2026",
+    "date": "Nov 22, 2026",
+    "place": "Umatilla National Forest, Oregon",
+    "image": "assets/cards/nov22-bigfoot-files.jpg",
+    "title": "The Forest Service Bigfoot File Ends With Plaster Casts and a Hoax Theory",
+    "magnetUrl": "",
+    "magnetPrice": "",
+    "facts": "A November 22 report examined three Bigfoot/Sasquatch records that the U.S. Forest Service posted in its FOIA reading room on October 15. The centerpiece is a 1982 investigation in Oregon's Umatilla National Forest, where investigators photographed tracks and made plaster casts at two sites. One print was described as roughly 15 inches long and 7 inches wide. Wildlife biologist Rodney Johnson concluded that the impressions were not made by a large two-legged animal; Border Patrol tracker Joel Hardin separately called them a clever hoax and suggested a fabricated foot may have made them.",
+    "why": "The federal records are real, but they document reported tracks and the investigation—not a confirmed creature. The file preserves competing field observations, measurements and explicit skepticism. That makes it useful as a public-records lesson: an agency keeping evidence is not the same as the agency endorsing the claim, and a newly posted file can describe a decades-old event.",
+    "angle": "The November 22 report, Forest Service records and record-versus-endorsement boundary end above. The Blappos interpretation: your footprint has been forwarded. The anonymous field biologist, oversized track, plaster pour, evidence flag and forest are disclosed original AI-generated editorial illustration—not documentary photography, an agency recreation, a real employee or proof that Bigfoot exists.",
+    "amazonLinks": [
+      {"title":"Sasquatch: Legend Meets Science","image":"https://m.media-amazon.com/images/P/0765312174.01.LZZZZZZZ.jpg","alt":"Cover of Sasquatch: Legend Meets Science by Jeff Meldrum","quip":"A scientist's evidence-focused survey for reading giant-footprint claims with more curiosity than certainty.","salesPriority":5,"url":"https://www.amazon.com/dp/0765312174?tag=blappos-20"},
+      {"title":"Where Bigfoot Walks","image":"https://m.media-amazon.com/images/P/0395857015.01.LZZZZZZZ.jpg","alt":"Cover of Where Bigfoot Walks by Robert Michael Pyle","quip":"A thoughtful Pacific Northwest field journey through wildness, folklore and the human need for something large beyond the trailhead.","salesPriority":5,"url":"https://www.amazon.com/dp/0395857015?tag=blappos-20"},
+      {"title":"The Secret History of Bigfoot","image":"https://m.media-amazon.com/images/P/1464216630.01.LZZZZZZZ.jpg","alt":"Cover of The Secret History of Bigfoot by John O'Connor","quip":"A reported history of America's most persistent monster story—and the culture that keeps reopening the file.","salesPriority":4,"url":"https://www.amazon.com/dp/1464216630?tag=blappos-20"}
+    ],
+    "source": "https://davidsoncountyherald.com/article/forest-service-releases-bigfoot-files-covering-oregon-and-montana/",
+    "sourceName": "Read the November 22 report and follow its links to the U.S. Forest Service records",
+    "sourcePublisher": "Davidson County Herald / U.S. Forest Service",
+    "xSourcePublisher": "Davidson County Herald / USFS",
+    "socialSummary": "Newly posted Forest Service records include a 1982 inquiry into large Oregon tracks and plaster casts; the agency's biologist rejected a giant biped, and another tracker suspected a hoax.",
+    "socialPunchline": "Blappos: Your footprint has been forwarded."
+  },
+  {
+    "id": "nov22-jonathan-genome",
+    "isoDate": "2026-11-22",
+    "month": "November 2026",
+    "date": "Nov 22, 2026",
+    "place": "Saint Helena",
+    "image": "assets/cards/nov22-jonathan-genome.jpg",
+    "title": "Jonathan the 194-Year-Old Tortoise Has 287 Genetic Plot Twists",
+    "magnetUrl": "",
+    "magnetPrice": "",
+    "facts": "A November 22 ScienceDaily digest highlighted a Science Advances study of Jonathan, the 194-year-old Aldabra giant tortoise on Saint Helena. Researchers sequenced his genome and methylome, reporting 287 unique variants across aging-related pathways and unusually ordered DNA-methylation patterns near genes involved in mitochondrial energy production and RNA processing. The analysis compared Jonathan with another sequenced tortoise and examined methylation in four other Aldabras spanning juvenile to older-adult ages.",
+    "why": "The result connects exceptional longevity with candidate genetic and epigenetic mechanisms, including DNA repair, inflammation, insulin regulation and cancer suppression. It does not identify one anti-aging switch, establish cause from one extraordinary animal or supply a treatment for people. Jonathan's environment and biography differ from the comparison animals, and the study's value is as a detailed biological case—not a prescription for immortality.",
+    "angle": "The November 22 digest, peer-reviewed paper and single-animal-to-human boundary end above. The Blappos interpretation: aging review in progress. Jonathan, the Saint Helena garden, DNA ribbon and chart motif are disclosed original AI-generated editorial illustration—not a photograph, anatomical view, clinical result or literal map of the reported variants.",
+    "amazonLinks": [
+      {"title":"The Book of Turtles","image":"https://m.media-amazon.com/images/P/0358458072.01.LZZZZZZZ.jpg","alt":"Cover of The Book of Turtles by Sy Montgomery and Matt Patterson","quip":"A richly illustrated species guide for meeting the evolutionary neighbors behind one remarkable old gentleman.","salesPriority":5,"url":"https://www.amazon.com/dp/0358458072?tag=blappos-20"},
+      {"title":"Why We Die","image":"https://m.media-amazon.com/images/P/0063113279.01.LZZZZZZZ.jpg","alt":"Cover of Why We Die by Venki Ramakrishnan","quip":"A Nobel laureate's evidence-first tour of aging biology for keeping fascinating mechanisms separate from immortality promises.","salesPriority":5,"url":"https://www.amazon.com/dp/0063113279?tag=blappos-20"},
+      {"title":"Lifespan","image":"https://m.media-amazon.com/images/P/1501191977.01.LZZZZZZZ.jpg","alt":"Cover of Lifespan by David A. Sinclair","quip":"A provocative genetics-and-aging companion for comparing big hypotheses with what Jonathan's case study actually measured.","salesPriority":4,"url":"https://www.amazon.com/dp/1501191977?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+    "sourceName": "Read ScienceDaily's November 22 digest, Cambridge's research release and the Science Advances paper",
+    "sourcePublisher": "ScienceDaily / University of Cambridge / Science Advances",
+    "xSourcePublisher": "Cambridge / Science Advances",
+    "socialSummary": "Researchers sequenced 194-year-old Jonathan's genome and methylome, finding 287 aging-related variants and unusually ordered regulatory patterns; the case does not prove a human anti-aging treatment.",
+    "socialPunchline": "Blappos: Aging review in progress."
+  },
+  {
+    "id": "nov22-cabin-cat",
+    "isoDate": "2026-11-22",
+    "month": "November 2026",
+    "date": "Nov 22, 2026",
+    "place": "Boston, Massachusetts",
+    "image": "assets/cards/nov22-cabin-cat.jpg",
+    "title": "A Loose Cabin Cat Delays a Taxiing Jet and Still Lands on Time",
+    "magnetUrl": "",
+    "magnetPrice": "",
+    "facts": "Boston.com reported on November 22 that a cat escaped its kennel aboard Delta Flight 2706 while the Boston-to-Tampa aircraft was taxiing Friday morning. The crew paused on the taxiway until the cat was safely secured. In circulated air-traffic-control audio, the pilot explained that a cat had been loose in the cabin; a controller replied that it was a new one and signed off with a meow. Delta said the flight then departed normally and arrived in Tampa on time.",
+    "why": "A brief ground hold kept an unsecured animal from becoming an in-flight safety problem, and the on-time arrival shows why incident duration and operational outcome both belong in the headline. The report does not identify the cat or explain how the kennel opened. The controller's joke is an authenticated part of the reported exchange, but it is not evidence that air-traffic policy has added a feline dialect.",
+    "angle": "The November 22 report, airline account, operational outcome and audio boundary end above. The Blappos interpretation: cleared for takeoff, meow. The tabby, carrier, anonymous passengers, cabin crew and generic Boston airport view are disclosed original AI-generated editorial illustration—not footage from Flight 2706, a real passenger or a Delta-branded cabin.",
+    "amazonLinks": [
+      {"title":"The Trainable Cat","image":"https://m.media-amazon.com/images/P/046509371X.01.LZZZZZZZ.jpg","alt":"Cover of The Trainable Cat by John Bradshaw and Sarah Ellis","quip":"A practical behavior guide for teaching the important travel skill called staying inside the carrier until Tampa.","salesPriority":5,"url":"https://www.amazon.com/dp/046509371X?tag=blappos-20"},
+      {"title":"Cat Sense","image":"https://m.media-amazon.com/images/P/0465064965.01.LZZZZZZZ.jpg","alt":"Cover of Cat Sense by John Bradshaw","quip":"Research-grounded feline behavior for understanding why a taxiing airplane aisle might look like an excellent new territory.","salesPriority":5,"url":"https://www.amazon.com/dp/0465064965?tag=blappos-20"},
+      {"title":"Adventure Cats","image":"https://m.media-amazon.com/images/P/0761193561.01.LZZZZZZZ.jpg","alt":"Cover of Adventure Cats by Laura J. Moss","quip":"A safety-minded guide to exploring with cats for travelers who prefer their adventures planned before pushback.","salesPriority":4,"url":"https://www.amazon.com/dp/0761193561?tag=blappos-20"}
+    ],
+    "source": "https://www.boston.com/news/off-beat/2026/11/22/flight-from-logan-delayed-after-cat-gets-loose-in-the-cabin/",
+    "sourceName": "Read Boston.com's November 22 report and the attributed Delta account",
+    "sourcePublisher": "Boston.com / Delta Air Lines",
+    "xSourcePublisher": "Boston.com / Delta",
+    "socialSummary": "A cat escaped its kennel while a Boston-to-Tampa flight was taxiing, prompting a short hold; it was secured, air traffic control signed off with a meow and the flight arrived on time.",
+    "socialPunchline": "Blappos: Cleared for takeoff, meow."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov22StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov22StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 22 purchase gate: these stories remain invisible until Printify publishes each exact physical magnet and writes its storefront URL and price into the matching object.
+// November 22 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
