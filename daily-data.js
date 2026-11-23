@@ -5999,7 +5999,7 @@ const nov22StagingStories = [
     "date": "Nov 22, 2026",
     "place": "Saint Helena",
     "image": "assets/cards/nov22-jonathan-genome.jpg",
-    "title": "Jonathan the 194-Year-Old Tortoise Has 287 Genetic Plot Twists",
+    "title": "Jonathan the 194-Year-Old Tortoise Has 287 Genetic Plot Twists","magnetUrl":"https://blappos.printify.me/product/34931256","magnetPrice":"$9.99",
     "facts": "A November 22 ScienceDaily digest highlighted a Science Advances study of Jonathan, the 194-year-old Aldabra giant tortoise on Saint Helena. Researchers sequenced his genome and methylome, reporting 287 unique variants across aging-related pathways and unusually ordered DNA-methylation patterns near genes involved in mitochondrial energy production and RNA processing. The analysis compared Jonathan with another sequenced tortoise and examined methylation in four other Aldabras spanning juvenile to older-adult ages.",
     "why": "The result connects exceptional longevity with candidate genetic and epigenetic mechanisms, including DNA repair, inflammation, insulin regulation and cancer suppression. It does not identify one anti-aging switch, establish cause from one extraordinary animal or supply a treatment for people. Jonathan's environment and biography differ from the comparison animals, and the study's value is as a detailed biological case—not a prescription for immortality.",
     "angle": "The November 22 digest, peer-reviewed paper and single-animal-to-human boundary end above. The Blappos interpretation: aging review in progress. Jonathan, the Saint Helena garden, DNA ribbon and chart motif are disclosed original AI-generated editorial illustration—not a photograph, anatomical view, clinical result or literal map of the reported variants.",
