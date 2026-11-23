@@ -114,7 +114,9 @@ def stories():
                 "place": place,
                 "image": field(block, "image"),
                 "file": data_file,
-                "linked": bool(re.search(r'(?:"magnetUrl"|\'magnetUrl\'|magnetUrl)\s*:', block)),
+                # Empty staging fields are not links. Treat only a non-empty URL
+                # as complete so a failed or interrupted run can safely retry.
+                "linked": bool(field(block, "magnetUrl")),
             })
     return found
 
@@ -125,7 +127,7 @@ def add_link(story, url):
     for start, end, block in story_blocks(text):
         if field(block, "id") != story["id"]:
             continue
-        if re.search(r'(?:"magnetUrl"|\'magnetUrl\'|magnetUrl)\s*:', block):
+        if field(block, "magnetUrl"):
             return
 
         title_match = re.search(
