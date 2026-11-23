@@ -440,3 +440,23 @@ This log records narrow, legitimate opportunities for the exact public-reference
 - Route: https://www.casselberry.org/272/Police
 - Asset match: https://blappos.com/verification/#nov20-bacon-intruder
 - Honest angle: A source-clock and incident-language explainer that credits the department's harmless resolution while clearly labeling “suspect,” “warning” and snack motive as comic framing rather than evidence of burglary or theft.
+
+## 2026-11-23 — November 22 record, case-study and incident opportunities
+
+### U.S. Forest Service FOIA Office
+- Target: Forest Service public-records and reading-room staff responsible for the Bigfoot/Sasquatch release
+- Route: https://www.fs.usda.gov/about-agency/foia
+- Asset match: https://blappos.com/verification/#nov22-bigfoot-files
+- Honest angle: A public-record literacy digest that credits the agency's preserved measurements and field assessments while making explicit that document release is not agency endorsement and that the newly posted file describes a 1982 investigation.
+
+### University of Cambridge Research Communications
+- Target: Communications staff for the Jonathan genome and methylome study
+- Route: https://www.cam.ac.uk/research/news/genetic-analysis-of-the-worlds-oldest-land-animal-reveals-secret-of-living-194-years
+- Asset match: https://blappos.com/verification/#nov22-jonathan-genome
+- Honest angle: A reusable direct-evidence/inference/claim-ceiling summary that preserves the 287-variant result and methylation finding while clearly refusing the unsupported leap from one exceptional tortoise to a human anti-aging treatment.
+
+### Boston.com Off Beat desk
+- Target: Editors responsible for the November 22 Flight 2706 report
+- Route: https://www.boston.com/contact-us/
+- Asset match: https://blappos.com/verification/#nov22-cabin-cat
+- Honest angle: A compact incident-verification reference that credits the local report and attributed airline outcome, preserves the authentic controller punchline and separates the known taxiway hold from unknown details about the cat and kennel.

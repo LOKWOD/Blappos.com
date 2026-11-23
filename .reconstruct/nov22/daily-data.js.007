@@ -1,0 +1,646 @@
+and Lies in a Silicon Valley Startup","image":"https://images-na.ssl-images-amazon.com/images/P/0525431993.01.LZZZZZZZ.jpg","alt":"Cover of Bad Blood by John Carreyrou","quip":"The rigorously reported Theranos history behind a park full of black turtlenecks and mock startup pitches.","salesPriority":5,"url":"https://www.amazon.com/dp/0525431993?tag=blappos-20"},
+      {"title":"The Cult of We: WeWork, Adam Neumann, and the Great Startup Delusion","image":"https://images-na.ssl-images-amazon.com/images/P/0593237112.01.LZZZZZZZ.jpg","alt":"Cover of The Cult of We by Eliot Brown and Maureen Farrell","quip":"Another Silicon Valley-scale cautionary tale for contestants practicing the most confident pitch in Lafayette Park.","salesPriority":5,"url":"https://www.amazon.com/dp/0593237112?tag=blappos-20"},
+      {"title":"The Art of Gathering: How We Meet and Why It Matters","image":"https://images-na.ssl-images-amazon.com/images/P/1594634939.01.LZZZZZZZ.jpg","alt":"Cover of The Art of Gathering by Priya Parker","quip":"A practical study of purposeful gatherings for the organizers who turned a costume bit into a real city crowd.","salesPriority":4,"url":"https://www.amazon.com/dp/1594634939?tag=blappos-20"}
+    ],
+    "source": "https://sfist.com/2026/11/08/elizabeth-holmes-look-alike-contest-draws-mass-of-black-turtlenecks-to-lafayette-park/",
+    "sourceName": "Read SFist's November 8 report and its links to the San Francisco Chronicle and KRON4",
+    "sourcePublisher": "SFist",
+    "socialSummary": "SFist reported on November 8 that about two dozen Elizabeth Holmes look-alikes and Nathan Fielder imitators competed in a San Francisco park before several hundred spectators; a Stanford plastic-surgery resident won the Holmes category.",
+    "socialPunchline": "Blappos: San Francisco returned a peer-reviewed turtleneck."
+  },
+  {
+    "id": "nov8-orange-killifish",
+    "isoDate": "2026-11-08",
+    "month": "November",
+    "date": "Nov 8, 2026",
+    "place": "Amapá, Brazil",
+    "image": "assets/cards/nov8-orange-killifish.jpg",
+    "title": "The Amazon Releases a Three-Centimeter Fish in Three Tiny Pools","magnetUrl":"https://blappos.printify.me/product/34180229","magnetPrice":"$9.99",
+    "facts": "A ScienceDaily digest published November 8 highlighted Laimosemion laranja, a newly described killifish from the lower Rio Cajari drainage in Brazil's Amapá state. The peer-reviewed Zoosystematics and Evolution paper identifies the species with morphological characters and mitochondrial DNA; males carry vivid orange spots and chevrons, and the standard body length is under three centimeters. Researchers have found it in only three small forest pools across an estimated 25-square-kilometer range.",
+    "why": "A new species can be scientifically valid and already vulnerable at the moment it receives a name. The authors say every known site shows disturbance from deforestation, mining, urban expansion or plastic pollution and argue that the fish meets IUCN criteria for Endangered status. That is a research-team recommendation, not a completed IUCN listing, and three known pools are the current evidence boundary—not proof that no undiscovered population exists elsewhere.",
+    "angle": "The November 8 digest clock, paper, size, three-site range and proposed conservation status end above. The Blappos interpretation: the Amazon launched a new orange fish as an extremely limited release and immediately misplaced the expansion plan. The fish, pools, map and hand lens are disclosed original AI-generated editorial illustration—not a specimen photograph, scientific figure, exact range map or aquarium-care promise.",
+    "amazonLinks": [
+      {"title":"Field Guide to the Fishes of the Amazon, Orinoco, and Guianas","image":"https://images-na.ssl-images-amazon.com/images/P/0691170746.01.LZZZZZZZ.jpg","alt":"Cover of Field Guide to the Fishes of the Amazon, Orinoco, and Guianas","quip":"The first complete genus-level field guide to the extraordinarily crowded freshwater neighborhood that just gained another name.","salesPriority":5,"url":"https://www.amazon.com/dp/0691170746?tag=blappos-20"},
+      {"title":"Why Fish Don't Exist","image":"https://images-na.ssl-images-amazon.com/images/P/1501160273.01.LZZZZZZZ.jpg","alt":"Cover of Why Fish Don't Exist by Lulu Miller","quip":"A strange history of taxonomy and persistence for the human urge to name one tiny orange fish correctly.","salesPriority":5,"url":"https://www.amazon.com/dp/1501160273?tag=blappos-20"},
+      {"title":"Half-Earth: Our Planet's Fight for Life","image":"https://images-na.ssl-images-amazon.com/images/P/1631490826.01.LZZZZZZZ.jpg","alt":"Cover of Half-Earth by Edward O. Wilson","quip":"A conservation argument scaled to the problem of a species whose entire known world fits inside three disturbed pools.","salesPriority":4,"url":"https://www.amazon.com/dp/1631490826?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
+    "sourceName": "Read ScienceDaily's November 8 digest and the open-access Zoosystematics and Evolution paper",
+    "sourcePublisher": "ScienceDaily / Zoosystematics and Evolution",
+    "socialSummary": "A November 8 ScienceDaily digest highlighted Laimosemion laranja, an orange-patterned Amazon killifish under three centimeters long known from three disturbed forest pools; researchers recommend Endangered status.",
+    "socialPunchline": "Blappos: New species, extremely limited release."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov8StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov8StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 8 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 8 purchase-gate QA passed: Printify published three exact story products at $9.99 and every URL visibly matches its story title and artwork.
+// November 8 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+// November 8 story-page QA passed locally: each permanent page contains its matching rendered artwork, source attribution, two purchase CTAs and three image-first affiliate cards.
+
+// November 9 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov9StagingStories = [
+  {
+    "id": "nov9-giant-ficrons",
+    "isoDate": "2026-11-09",
+    "month": "November",
+    "date": "Nov 9, 2026",
+    "place": "Southern Britain",
+    "image": "assets/cards/nov9-giant-ficrons.jpg",
+    "title": "Prehistoric Britain Builds a Three-Kilogram Axe to Impress the Group","magnetUrl":"https://blappos.printify.me/product/34224763","magnetPrice":"$9.99",
+    "facts": "New Scientist reported on November 9 that unusually large British ficron handaxes may have served a social or display role more than 300,000 years ago. The peer-reviewed study compared 817 ficrons and other handaxes from seven southern British sites; seven giant examples were at least 22 centimeters long, some reached roughly 30 centimeters and three kilograms, and the giants were unusually symmetrical and straight-edged. In controlled rope-cutting trials, replica giants took about 22 percent longer than ordinary ficrons.",
+    "why": "The work combines morphometric comparison with experimental archaeology: giant replicas were difficult to make, took roughly 45 minutes rather than 20 to 30 minutes for ordinary examples, and offered no clear cutting advantage in the tested task. That supports the authors' proposal that the objects helped display skill or structure social relationships, but it does not prove a single ceremonial use, identify an individual maker's motive or show that every giant handaxe was impractical in every possible task.",
+    "angle": "The November 9 report, 817-object sample, seven-giant threshold, replica test and inference limits end above. The Blappos interpretation: Late Acheulean Britain launched a three-kilogram prestige tier for customers who thought normal stone tools looked insufficiently executive. The people, grassland, rope test and tools are disclosed original AI-generated editorial reconstruction—not portraits, a copied museum object, a documentary scene or proof of the makers' intent.",
+    "amazonLinks": [
+      {"title":"Kindred: Neanderthal Life, Love, Death and Art","image":"https://m.media-amazon.com/images/P/1635579899.01.LZZZZZZZ.jpg","alt":"Cover of Kindred by Rebecca Wragg Sykes","quip":"A modern evidence-based portrait of Neanderthal life for placing one unusually polished status-tool hypothesis inside a far richer society.","salesPriority":5,"url":"https://www.amazon.com/dp/1635579899?tag=blappos-20"},
+      {"title":"Flintknapping: Making and Understanding Stone Tools","image":"https://m.media-amazon.com/images/P/029279083X.01.LZZZZZZZ.jpg","alt":"Cover of Flintknapping by John C. Whittaker","quip":"The practical archaeology reference for understanding why a symmetrical 30-centimeter ficron is much harder to make than it looks.","salesPriority":5,"url":"https://www.amazon.com/dp/029279083X?tag=blappos-20"},
+      {"title":"The Mind in the Cave","image":"https://m.media-amazon.com/images/P/0500284652.01.LZZZZZZZ.jpg","alt":"Cover of The Mind in the Cave by David Lewis-Williams","quip":"A wider investigation of early symbolism and consciousness for the moment a cutting tool becomes a possible social signal.","salesPriority":4,"url":"https://www.amazon.com/dp/0500284652?tag=blappos-20"}
+    ],
+    "source": "https://www.newscientist.com/article/2597990-prehistoric-britons-may-have-made-giant-stone-axes-to-show-off/",
+    "sourceName": "Read New Scientist's November 9 report and the open-access Journal of Archaeological Science: Reports paper",
+    "sourcePublisher": "New Scientist / Journal of Archaeological Science: Reports",
+    "socialSummary": "New Scientist reported on November 9 that a study of 817 British handaxes found seven unusually large, skillfully made ficrons; experimental replicas cut rope about 22 percent slower, supporting but not proving a social-display role.",
+    "socialPunchline": "Blappos: Three kilograms of prestige; no productivity upgrade."
+  },
+  {
+    "id": "nov9-cat-face-filter",
+    "isoDate": "2026-11-09",
+    "month": "November",
+    "date": "Nov 9, 2026",
+    "place": "Hanover, New Hampshire",
+    "image": "assets/cards/nov9-cat-face-filter.jpg",
+    "title": "A Man Sees His Cat's Eyes in Everyone Else's Face","magnetUrl":"https://blappos.printify.me/product/34224766","magnetPrice":"$9.99",
+    "facts": "Dartmouth College reported on November 9 the case of a 28-year-old man identified as Karl who, after removal of part of his right temporal lobe for an arteriovenous malformation, sometimes sees remembered facial features transfer between his gray tabby cat and people. If the cat is the first face he sees, later human faces can appear with almond-shaped eye sockets, enlarged pupils or tabby-like markings; on other days, features from the first human face can appear in later faces and even on the cat.",
+    "why": "The Cortex case report describes palinopsia—an earlier visual experience persisting or reappearing—producing a form of prosopometamorphopsia, or distorted face perception. It is one documented neurological case, not evidence that ordinary familiarity with a pet changes everyone's vision, and the authors do not present a general prevalence estimate or treatment. The team worked with Karl to make AI-assisted visualizations, showing how patient-guided images can help clinicians study a subjective perceptual symptom without treating it as a psychiatric delusion.",
+    "angle": "The November 9 Dartmouth report, surgical history, observed feature-transfer pattern and single-case boundary end above. The Blappos interpretation: the brain opened the first face of the morning, selected 'use as default' and applied the cat preset to the rest of the day. The consultation, patient, researcher, cat and portrait cards are disclosed original AI-generated editorial illustration—not Karl, Luna, a copied clinical figure or a diagnostic tool.",
+    "amazonLinks": [
+      {"title":"The Man Who Mistook His Wife for a Hat","image":"https://m.media-amazon.com/images/P/0684853949.01.LZZZZZZZ.jpg","alt":"Cover of The Man Who Mistook His Wife for a Hat by Oliver Sacks","quip":"The classic collection of neurological case histories for a face-perception story stranger than its title yet documented with equal care.","salesPriority":5,"url":"https://www.amazon.com/dp/0684853949?tag=blappos-20"},
+      {"title":"Hallucinations","image":"https://m.media-amazon.com/images/P/0307947432.01.LZZZZZZZ.jpg","alt":"Cover of Hallucinations by Oliver Sacks","quip":"A humane exploration of altered perception that helps separate a visual disturbance from an assumption about psychiatric illness.","salesPriority":5,"url":"https://www.amazon.com/dp/0307947432?tag=blappos-20"},
+      {"title":"The Brain That Changes Itself","image":"https://m.media-amazon.com/images/P/0143113100.01.LZZZZZZZ.jpg","alt":"Cover of The Brain That Changes Itself by Norman Doidge","quip":"A broad neuroplasticity introduction for readers curious about how surgery, memory and ongoing perception can intersect.","salesPriority":4,"url":"https://www.amazon.com/dp/0143113100?tag=blappos-20"}
+    ],
+    "source": "https://medicalxpress.com/news/2026-11-brain-surgery-cat-eyes-human.html",
+    "sourceName": "Read Dartmouth College's November 9 report and the linked Cortex case report",
+    "sourcePublisher": "Dartmouth College / Cortex",
+    "socialSummary": "Dartmouth College reported on November 9 that a 28-year-old man's post-surgical palinopsia can transfer remembered cat-eye shapes and markings onto human faces, or human facial features onto his cat, in a documented single case.",
+    "socialPunchline": "Blappos: First face, cat; everyone else gets the preset."
+  },
+  {
+    "id": "nov9-move-the-bean",
+    "isoDate": "2026-11-09",
+    "month": "November",
+    "date": "Nov 9, 2026",
+    "place": "Chicago, Illinois",
+    "image": "assets/cards/nov9-move-the-bean.jpg",
+    "title": "Chicago Forms a 250-Person Committee to Move The Bean Seven Inches","magnetUrl":"https://blappos.printify.me/product/34224770","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 9 that hundreds of people gathered at Chicago's Cloud Gate on Sunday after flyers requested a coordinated attempt to move the 110-ton sculpture seven inches to the left at precisely 12:47 p.m. An attendee estimated about 250 people joined the push. The invitation's claim that a man was trapped inside and needed a pickle was part of an established internet joke; organizer Taylor Bennett later clarified that the sculpture did not move at all.",
+    "why": "The failed relocation was still a successful public gathering: attendees told local reporting they knew the sculpture would not move and valued the chance to meet people. The story also rewards basic claim hygiene. 'Hundreds' is a reported crowd description, 250 is one attendee's estimate, seven inches was the joke's target, and zero movement was the reported outcome. None of those numbers proves an official attendance count or an engineering attempt authorized by the city.",
+    "angle": "The November 9 publication, Sunday event, 12:47 start, attendee estimate, fictional trapped-man premise and zero-movement result end above. The Blappos interpretation: Chicago assembled a quarter-thousand-member relocation committee, supplied one pickle and completed exactly zero inches of capital improvement. The crowd, organizer, pickle courier, skyline and mirror sculpture are disclosed original AI-generated editorial illustration—not attendees, a copied event photo or a city-approved relocation plan.",
+    "amazonLinks": [
+      {"title":"Millennium Park Chicago","image":"https://m.media-amazon.com/images/P/0810126826.01.LZZZZZZZ.jpg","alt":"Cover of Millennium Park Chicago by Cheryl Kent","quip":"The illustrated park history for learning how the Bean arrived before volunteering to move it seven inches.","salesPriority":5,"url":"https://www.amazon.com/dp/0810126826?tag=blappos-20"},
+      {"title":"Anish Kapoor: Past, Present, Future","image":"https://m.media-amazon.com/images/P/0262026597.01.LZZZZZZZ.jpg","alt":"Cover of Anish Kapoor: Past, Present, Future","quip":"A serious survey of the sculptor's work for the crowd whose critical method consisted of leaning very hard on one of it.","salesPriority":5,"url":"https://www.amazon.com/dp/0262026597?tag=blappos-20"},
+      {"title":"AIA Guide to Chicago","image":"https://m.media-amazon.com/images/P/0252086732.01.LZZZZZZZ.jpg","alt":"Cover of the fourth edition of AIA Guide to Chicago","quip":"Nearly two thousand Chicago sites to visit after the city's most reflective landmark declines to budge.","salesPriority":4,"url":"https://www.amazon.com/dp/0252086732?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/09/move-the-bean-chicago-cloud-gate/3341794244560/",
+    "sourceName": "Read UPI's November 9 report and its cited local coverage",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported on November 9 that roughly 250 people gathered at Chicago's 110-ton Cloud Gate to try moving it seven inches left; the trapped-man-and-pickle premise was a joke and the sculpture did not move.",
+    "socialPunchline": "Blappos: Chicago formed a 250-person relocation committee and completed zero inches of capital improvement."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov9StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov9StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 9 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 9 purchase-gate QA passed: Printify published three exact story products at $9.99 and every URL is paired with its matching story artwork and title.
+// November 9 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+// November 9 story-page QA passed locally: each permanent page contains its matching rendered artwork, source attribution, two purchase CTAs and three image-first affiliate cards.
+
+// November 10 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov10StagingStories = [
+  {
+    "id": "nov10-ai-lion-escape",
+    "isoDate": "2026-11-10",
+    "month": "November",
+    "date": "Nov 10, 2026",
+    "place": "Akron, Ohio",
+    "image": "assets/cards/nov10-ai-lion-escape.jpg",
+    "title": "Akron Zoo Holds a Safety Drill; the Internet Releases the Lions Anyway","magnetUrl":"https://blappos.printify.me/product/34271293","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 10 that the Akron Zoo debunked a false AI-generated image and online claims that African lions had escaped. The zoo said all four lions were safe, secure and accounted for. News 5 Cleveland independently contacted the zoo and received the same confirmation. The false image showed lions near a trash can, but neither reporting outlet found evidence of an escape.",
+    "why": "A synthetic image can produce a real public-safety rumor even when the pictured event never happened. The timing also invites a careful distinction: Akron Zoo held a multi-agency emergency drill on November 4, but the drill did not document an escape and does not authenticate the later image. The zoo says it conducts at least four safety drills each year under Association of Zoos and Aquariums requirements. Verification here rests on the responsible facility's confirmation plus independent reporting, not on visual guesswork alone.",
+    "angle": "The November 10 reporting, four-lion count, false-image finding and separate drill end above. The Blappos interpretation: the zoo completed its paperwork while the internet opened a digital side gate and released two lions into the engagement metrics. The staff member, phone, trash can, habitat and four lions are disclosed original AI-generated editorial illustration—not the viral image, a zoo photograph, a real employee, official branding or evidence of an escape.",
+    "amazonLinks": [
+      {"title":"Calling Bullshit: The Art of Skepticism in a Data-Driven World","image":"https://m.media-amazon.com/images/I/81iePy1y6tL._SL1500_.jpg","alt":"Cover of Calling Bullshit by Carl T. Bergstrom and Jevin D. West","quip":"A practical field manual for pausing between a dramatic synthetic image and an emergency claim about the real world.","salesPriority":5,"url":"https://www.amazon.com/dp/0525509186?tag=blappos-20"},
+      {"title":"Verified: How to Think Straight, Get Duped Less, and Make Better Decisions about What to Believe Online","image":"https://covers.openlibrary.org/b/isbn/9780226822068-L.jpg","alt":"Cover of Verified by Mike Caulfield and Sam Wineburg","quip":"A step-by-step guide to using the web to check the web when two lions appear in a place the zoo says they never entered.","salesPriority":5,"url":"https://www.amazon.com/dp/0226822068?tag=blappos-20"},
+      {"title":"The Demon-Haunted World: Science as a Candle in the Dark","image":"https://covers.openlibrary.org/b/isbn/9780345409461-L.jpg","alt":"Cover of The Demon-Haunted World by Carl Sagan","quip":"Carl Sagan's classic case for evidence and a baloney-detection kit, updated here by one very modern trash-can lion image.","salesPriority":4,"url":"https://www.amazon.com/dp/0345409469?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/10/akron-zoo-no-lions-escape-ai-image/4011794329916/",
+    "sourceName": "Read UPI's November 10 report and News 5 Cleveland's independent zoo confirmation",
+    "sourcePublisher": "UPI / News 5 Cleveland",
+    "socialSummary": "UPI reported on November 10 that Akron Zoo debunked a false AI image claiming its African lions had escaped; the zoo said all four lions were safe and secure, and News 5 Cleveland independently confirmed that with zoo staff.",
+    "socialPunchline": "Blappos: The lions never left. The image did."
+  },
+  {
+    "id": "nov10-giant-yakamys",
+    "isoDate": "2026-11-10",
+    "month": "November",
+    "date": "Nov 10, 2026",
+    "place": "Krabi Basin, Thailand",
+    "image": "assets/cards/nov10-giant-yakamys.jpg",
+    "title": "Thailand Rebuilds a 66-Pound Rodent From Two Teeth","magnetUrl":"https://blappos.printify.me/product/34271301","magnetPrice":"$9.99",
+    "facts": "A McGill University research digest published November 10 highlighted Yakamys sirindhornae, a newly described giant rodent from Thailand's Krabi Basin that lived about 34 million years ago. The specimen consists of a lower second molar and an associated incisor. Seven dental equations produced body-mass estimates from 21.4 to 47.3 kilograms; the study's median was 28.6 kilograms and its mean 31.6, supporting a cautious rounded description of roughly 30 kilograms, or 66 pounds.",
+    "why": "The animal pushes extreme rodent size deep into the late Eocene or earliest Oligocene, earlier than the better-known giant rodents of South America. But a tooth-based mass estimate is a model, not a fossil weigh-in. The authors explicitly note uncertainty created by the limited material and by applying relationships from living rodents to an extinct lineage. The useful result is a supported size range and an evolutionary signal—not a photograph, exact body plan or known coat color.",
+    "angle": "The November 10 digest, two-tooth specimen, age, seven equations and mass range end above. The Blappos interpretation: paleontology received two teeth, estimated sixty-six pounds of tenant and immediately checked whether the Krabi lease included reinforced cabinetry. The animal, researchers, scale, landscape and oversized specimen tray are disclosed original AI-generated editorial reconstruction—not a copied scientific figure, exact likeness, preserved body or literal weighing.",
+    "amazonLinks": [
+      {"title":"The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us","image":"https://covers.openlibrary.org/b/isbn/0062951513-L.jpg","alt":"Cover of The Rise and Reign of the Mammals by Steve Brusatte","quip":"A sweeping mammal history for placing one enormous Eocene rodent inside the much stranger family tree that led to us.","salesPriority":5,"url":"https://www.amazon.com/dp/0062951513?tag=blappos-20"},
+      {"title":"Beasts Before Us: The Untold Story of Mammal Origins and Evolution","image":"https://covers.openlibrary.org/b/isbn/147298398X-L.jpg","alt":"Cover of Beasts Before Us by Elsa Panciroli","quip":"A fossil-grounded account of mammal evolution for readers who want the lineage behind the two teeth, not just the big-number headline.","salesPriority":5,"url":"https://www.amazon.com/dp/147298398X?tag=blappos-20"},
+      {"title":"Otherlands: A Journey Through Earth's Extinct Worlds","image":"https://covers.openlibrary.org/b/isbn/0593132904-L.jpg","alt":"Cover of Otherlands by Thomas Halliday","quip":"A vivid tour of vanished ecosystems for imagining the Krabi Basin while keeping reconstruction separate from recovered evidence.","salesPriority":4,"url":"https://www.amazon.com/dp/0593132904?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+    "sourceName": "Read McGill University's November 10 digest and the open-access Scientific Reports paper",
+    "sourcePublisher": "McGill University / Scientific Reports",
+    "socialSummary": "McGill University reported on November 10 that two fossil teeth from Thailand represent Yakamys sirindhornae, a roughly 34-million-year-old giant rodent whose seven tooth-based equations support an uncertain central estimate near 30 kilograms, or 66 pounds.",
+    "socialPunchline": "Blappos: Two teeth, sixty-six pounds, no lease."
+  },
+  {
+    "id": "nov10-heart-collection",
+    "isoDate": "2026-11-10",
+    "month": "November",
+    "date": "Nov 10, 2026",
+    "place": "Switzerland",
+    "image": "assets/cards/nov10-heart-collection.jpg",
+    "title": "A Heart Surgeon Brings 3,200 Hearts Home From Work","magnetUrl":"https://blappos.printify.me/product/34271309","magnetPrice":"$9.99",
+    "facts": "Guinness World Records reported on November 10 that Swiss heart surgeon Diana Reser reclaimed the title for the largest collection of heart-shaped items with 3,200 objects. She first held the record in 2010 with 775, lost it in 2024 to a 1,560-item collection and completed the new official count in April. Her collection spans her home and office and includes clothing, ornaments, perfume, soap, a heart-shaped Rubik's cube, a working stethoscope, a Berlin Wall fragment and six heart tattoos.",
+    "why": "The record is a classification and verification exercise as much as an accumulation contest: witnesses certified that the collection exists and the category requires heart-shaped items, not anatomical hearts or an estimate of gifts received. Reser says roughly half came from other people after colleagues learned about her chosen specialty. Guinness reports the certified count and title; it does not turn the collection into medical advice, a museum catalogue or a valuation of every object.",
+    "angle": "The November 10 feature, April count, prior record history and example objects end above. The Blappos interpretation: cardiology followed the surgeon home, occupied the shelves, reached 3,200 pieces and still cannot locate a replacement heart-shaped shower head. The surgeon, office, alpine view, inventory counter and objects are disclosed original AI-generated editorial illustration—not Diana Reser's likeness, her actual home, hospital branding, a copied collection photo or a clinical scene.",
+    "amazonLinks": [
+      {"title":"Heart: A History","image":"https://covers.openlibrary.org/b/isbn/9781250234667-L.jpg","alt":"Cover of Heart A History by Sandeep Jauhar","quip":"A cardiologist's history of the organ behind the symbol, for separating 3,200 decorative hearts from one working anatomical subject.","salesPriority":5,"url":"https://www.amazon.com/dp/125023466X?tag=blappos-20"},
+      {"title":"Gray's Anatomy for Students","image":"https://covers.openlibrary.org/b/isbn/9780323393041-L.jpg","alt":"Cover of Gray's Anatomy for Students by Richard Drake, A. Wayne Vogl and Adam Mitchell","quip":"The serious anatomy reference for the one heart-shaped object category that a surgeon is professionally expected to understand.","salesPriority":5,"url":"https://www.amazon.com/dp/0323393047?tag=blappos-20"},
+      {"title":"Guinness World Records 2027","image":"https://m.media-amazon.com/images/I/71v6YTBS-HL._SL1200_.jpg","alt":"Cover of Guinness World Records 2027","quip":"The official annual collection of extreme counts for a record holder whose own inventory already needs four digits.","salesPriority":5,"url":"https://www.amazon.com/dp/1806500256?tag=blappos-20"}
+    ],
+    "source": "https://www.guinnessworldrecords.com/news/2026/11/heart-surgeon-reclaims-collection-record-after-gathering-thousands-of-heart-shaped-things",
+    "sourceName": "Read Guinness World Records' November 10 feature",
+    "sourcePublisher": "Guinness World Records",
+    "socialSummary": "Guinness World Records reported on November 10 that Swiss heart surgeon Diana Reser reclaimed the largest heart-shaped-item collection title with 3,200 verified objects counted in April, up from the 775 that earned her first title in 2010.",
+    "socialPunchline": "Blappos: Cardiology followed her home and occupied every shelf."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov10StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov10StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 10 purchase-gate QA passed: Printify published three exact story products at $9.99 and every URL is paired with its matching story artwork and title.
+// November 10 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+// November 10 story-page QA passed locally: each permanent page contains its matching rendered artwork, source attribution, two purchase CTAs and three image-first affiliate cards.
+
+// November 11 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov11StagingStories = [
+  {
+    "id": "nov11-sixpence",
+    "isoDate": "2026-11-11",
+    "month": "November",
+    "date": "Nov 11, 2026",
+    "place": "Greater Manchester, England",
+    "image": "assets/cards/nov11-sixpence.jpg",
+    "title": "A Crushed 1834 Sixpence Forces ‘Mint Condition’ Into Therapy","magnetUrl":"https://blappos.printify.me/product/34325666","magnetPrice":"$9.99",
+    "facts": "A ScienceDaily report published November 11 highlighted a laboratory investigation of a severely deformed 1834 William IV silver sixpence found in an assorted coin album at a Greater Manchester car-boot sale. The open-access npj Heritage Science paper reports microscopy, surface-sensitive chemical analysis, optical profilometry and digital imaging. The combined evidence was most consistent with severe compressive deformation during minting rather than ordinary wear, corrosion or one unconstrained later impact.",
+    "why": "The conclusion is evidence-weighted, not a time machine: the measurements constrain the most plausible manufacturing explanation but do not reconstruct an exact press sequence or make every damaged coin a mint error. The paper also warns that surface EDX readings are affected by contamination and corrosion and should not be treated as a precise bulk-silver assay. Its broader value is a reusable, non-destructive workflow for separating manufacture, use, corrosion and later damage in unusual heritage objects.",
+    "angle": "The November 11 report, 1834 date, Greater Manchester find and measurement-constrained minting explanation end above. The Blappos interpretation: a sixpence survived 192 years, one steam press and an evidence review only to learn that mint condition was always an aspirational lifestyle brand. The scientist, press, instruments and enlarged coin are disclosed original AI-generated editorial illustration—not a copied coin face, exact press reconstruction, laboratory photograph or claim that the cause is proven beyond doubt.",
+    "amazonLinks": [
+      {"title":"Whitman Guide to Coin Collecting: An Introduction to the World of Coins","image":"https://m.media-amazon.com/images/P/0794845215.01.LZZZZZZZ.jpg","alt":"Cover of Whitman Guide to Coin Collecting by Kenneth Bressett","quip":"A clear guide to coin manufacture, grading and care for separating a historic mint anomaly from ordinary damage.","salesPriority":5,"url":"https://www.amazon.com/dp/0794845215?tag=blappos-20"},
+      {"title":"Strike It Rich with Pocket Change, 5th Edition","image":"https://m.media-amazon.com/images/P/0593328604.01.LZZZZZZZ.jpg","alt":"Cover of Strike It Rich with Pocket Change by Ken Potter and Brian Allen","quip":"An illustrated error-coin guide for learning why unusual manufacture and ordinary damage need different evidence.","salesPriority":5,"url":"https://www.amazon.com/dp/0593328604?tag=blappos-20"},
+      {"title":"The Coin Collector's Survival Manual, Revised Seventh Edition","image":"https://m.media-amazon.com/images/P/0375723390.01.LZZZZZZZ.jpg","alt":"Cover of The Coin Collector's Survival Manual by Scott A. Travers","quip":"A preservation and authentication reference for the collector who finds a coin that looks as though history sat on it.","salesPriority":4,"url":"https://www.amazon.com/dp/0375723390?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm",
+    "sourceName": "Read the November 11 ScienceDaily report and open-access npj Heritage Science paper",
+    "sourcePublisher": "ScienceDaily / npj Heritage Science",
+    "socialSummary": "ScienceDaily reported on November 11 that microscopy, chemical analysis and 3D surface measurements of a deformed 1834 British sixpence found at a Greater Manchester car-boot sale were most consistent with severe deformation during minting, not ordinary wear.",
+    "socialPunchline": "Blappos: Mint condition was always an aspirational lifestyle brand."
+  },
+  {
+    "id": "nov11-horses-bus",
+    "isoDate": "2026-11-11",
+    "month": "November",
+    "date": "Nov 11, 2026",
+    "place": "Detroit, Michigan",
+    "image": "assets/cards/nov11-horses-bus.jpg",
+    "title": "Detroit Bus Briefly Runs a Two-Horse Powertrain","magnetUrl":"https://blappos.printify.me/product/34325670","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 11 that the Detroit Department of Transportation was investigating a viral video showing two horses briefly walking through a city bus near 7 Mile and Strasburg. Video-maker Ellessia Drew recorded two men leading the horses aboard and out through the rear door. Urban City Cowboys co-founder Jordan Williams said the group was leaving a Saturday fundraiser, the bus was stopped and the driver gave permission for the video.",
+    "why": "This was a brief staged walk-through, not a newly approved animal-transport service or a claim that the horses completed a bus trip. DDOT said the incident was not consistent with its policy and could create an unsafe and uncomfortable ride for passengers. That official response is the operational boundary: a funny clip can still expose a real gap between an employee's one-off permission and the rules of a public transit system.",
+    "angle": "The November 11 report, stopped-bus video, fundraiser context and DDOT investigation end above. The Blappos interpretation: Detroit installed a two-horse powertrain, accepted one hay bale in exact fare and discovered the rear-door policy was written for commuters with fewer knees. The bus, horses, handlers, passengers and streetscape are disclosed original AI-generated editorial illustration—not copied footage, a real route, identifiable rider, DDOT vehicle or transit endorsement.",
+    "amazonLinks": [
+      {"title":"Schleich Horse Club Horse Transporter Playset 42619","image":"https://m.media-amazon.com/images/P/B0BSP1G341.01.LZZZZZZZ.jpg","alt":"Schleich Horse Club Horse Transporter playset","quip":"A purpose-built horse transporter for recreating the Detroit loading problem without borrowing a municipal bus.","salesPriority":5,"url":"https://www.amazon.com/dp/B0BSP1G341?tag=blappos-20"},
+      {"title":"The Essential Hoof Book","image":"https://m.media-amazon.com/images/P/1570767327.01.LZZZZZZZ.jpg","alt":"Cover of The Essential Hoof Book by Susan Kauffmann and Christina Cline","quip":"A detailed hoof-health and footing guide for understanding why a bus aisle is not an equine loading ramp.","salesPriority":5,"url":"https://www.amazon.com/dp/1570767327?tag=blappos-20"},
+      {"title":"Detroit's Street Railways","image":"https://m.media-amazon.com/images/P/0738540277.01.LZZZZZZZ.jpg","alt":"Cover of Detroit's Street Railways by Kenneth Schramm","quip":"A pictorial history of Detroit public transportation for the route map that somehow omitted the horse-transfer station.","salesPriority":4,"url":"https://www.amazon.com/dp/0738540277?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/11/detroit-department-of-transportation-bus-horses/3901794421288/",
+    "sourceName": "Read UPI's November 11 report and DDOT statement",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported on November 11 that two horses were briefly led through a stopped Detroit city bus for a video after a fundraiser; DDOT said the incident was inconsistent with policy and was under investigation.",
+    "socialPunchline": "Blappos: Detroit installed a two-horse powertrain and charged one hay bale in exact fare."
+  },
+  {
+    "id": "nov11-moose-slide",
+    "isoDate": "2026-11-11",
+    "month": "November",
+    "date": "Nov 11, 2026",
+    "place": "Anchorage, Alaska",
+    "image": "assets/cards/nov11-moose-slide.jpg",
+    "title": "Anchorage Moose Tests the Driveway's Black-Diamond Route","magnetUrl":"https://blappos.printify.me/product/34325676","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 11 that Jeremy Saporito's home-security camera recorded a moose stepping from the lawn onto an icy sloped driveway outside his Anchorage home early Tuesday. The animal immediately slid downhill, fell onto its backside, reached the street, stood back up and walked away.",
+    "why": "The footage supports a short sequence—step, slide, fall, recovery—but it does not establish the animal's motive, medical condition or what happened after it left the frame. The moose's ability to stand and depart is reassuring, not a veterinary examination. The useful public lesson is narrower: freeze conditions can turn an ordinary slope into a hazard for wildlife as well as people, and a large wild animal should be given distance rather than approached for a closer clip.",
+    "angle": "The November 11 report and the camera-visible sequence end above. The Blappos interpretation: Anchorage's driveway opened an unauthorized black-diamond run, assigned the moose a seated start and waived the lift-ticket fee because nobody could find the waiver. The moose, house, homeowner, mountains and ice are disclosed original AI-generated editorial illustration—not copied security footage, a real address, a camera brand or evidence of injury.",
+    "amazonLinks": [
+      {"title":"Yaktrax Pro Traction Cleats for Snow and Ice","image":"https://m.media-amazon.com/images/P/B0094GO6HO.01.LZZZZZZZ.jpg","alt":"Yaktrax Pro traction cleats","quip":"Steel-coil shoe traction for the two-legged driveway users who would rather not copy the moose's seated descent.","salesPriority":5,"url":"https://www.amazon.com/dp/B0094GO6HO?tag=blappos-20"},
+      {"title":"Alaska Wildlife: A Folding Pocket Guide to Familiar Animals","image":"https://m.media-amazon.com/images/P/1583551069.01.LZZZZZZZ.jpg","alt":"Cover of Alaska Wildlife folding pocket guide","quip":"A pocket wildlife guide for identifying Anchorage's oversized downhill visitor from a respectful distance.","salesPriority":5,"url":"https://www.amazon.com/dp/1583551069?tag=blappos-20"},
+      {"title":"This Is a Moose","image":"https://m.media-amazon.com/images/P/0316213608.01.LZZZZZZZ.jpg","alt":"Cover of This Is a Moose by Richard T. Morris and Tom Lichtenheld","quip":"A gloriously uncooperative picture-book moose for the household that just watched one reject the driveway's intended use.","salesPriority":4,"url":"https://www.amazon.com/dp/0316213608?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/11/moose-ice-driveway-anchorage/2421794423445/",
+    "sourceName": "Read UPI's November 11 report",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI reported on November 11 that home-security footage in Anchorage showed a moose step onto an icy sloped driveway, slide to the street, fall onto its backside, then stand and walk away.",
+    "socialPunchline": "Blappos: The driveway opened an unauthorized black-diamond run."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov11StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov11StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 11 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 11 affiliate-card QA passed: every accepted story has exactly three direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+// November 12 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov12StagingStories = [
+  {
+    "id": "nov12-mushroom-boat",
+    "isoDate": "2026-11-12",
+    "month": "November",
+    "date": "Nov 12, 2026",
+    "place": "Catalina Channel, California",
+    "image": "assets/cards/nov12-mushroom-boat.jpg",
+    "title": "California Grows a 107-Pound Mushroom and Calls It Maritime","magnetUrl":"https://blappos.printify.me/product/34375517","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 12 that artist Sam Shoemaker earned a Guinness World Records title for the longest solo journey by fungal-mycelium boat. In August 2025, he paddled a 12-foot, 107-pound kayak grown entirely from Ganoderma polychromum mycelium 26.37 miles from Catalina Island to Cabrillo Beach in about 12 hours. Guinness says the vessel took seven weeks to grow after roughly three months of preparation and testing, then received shellac and beeswax before launch.",
+    "why": "The achievement is a functional-material demonstration and an endurance record, not proof that fungal boats are generally safer, cheaper or better than conventional manufacturing. Guinness published its feature on November 10 and UPI followed on November 12, while the certified voyage happened in 2025. Shoemaker himself told Guinness that he does not think fungal material is necessarily a better alternative to an injection-molded plastic boat; the value is in testing what a grown object can do and publishing the process.",
+    "angle": "The November 12 report, 2025 voyage clock, dimensions, weight, route and artist's own limitation end above. The Blappos interpretation: California grew a kayak, trained for six months and submitted marine engineering to the produce aisle. The paddler, mushroom kayak, sailboat and Catalina coastline are disclosed original AI-generated editorial illustration—not Sam Shoemaker's likeness, a copied voyage image, a safety endorsement or a claim that readers should build and launch one.",
+    "amazonLinks": [
+      {"title":"Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures","image":"https://m.media-amazon.com/images/P/0525510311.01.LZZZZZZZ.jpg","alt":"Cover of Entangled Life by Merlin Sheldrake","quip":"A wide-ranging fungal-science tour for understanding why a kayak can be grown before it ever meets the Pacific.","salesPriority":5,"url":"https://www.amazon.com/dp/0525510311?tag=blappos-20"},
+      {"title":"Mycelium Running: How Mushrooms Can Help Save the World","image":"https://m.media-amazon.com/images/P/1580085792.01.LZZZZZZZ.jpg","alt":"Cover of Mycelium Running by Paul Stamets","quip":"A practical fungal reference for the material network underneath one extremely seaworthy art project.","salesPriority":5,"url":"https://www.amazon.com/dp/1580085792?tag=blappos-20"},
+      {"title":"The Mushroom Cultivator","image":"https://m.media-amazon.com/images/P/0961079800.01.LZZZZZZZ.jpg","alt":"Cover of The Mushroom Cultivator by Paul Stamets and J. S. Chilton","quip":"The classic cultivation manual for readers whose first question is how seven weeks of growth became twelve feet of boat.","salesPriority":4,"url":"https://www.amazon.com/dp/0961079800?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/12/guinness-world-records-mushroom-boat/4761794505737/",
+    "sourceName": "Read UPI's November 12 report and Guinness World Records' feature",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Sam Shoemaker paddled a 107-pound mycelium kayak 26.37 miles, earning a Guinness record.",
+    "socialPunchline": "Blappos: California submitted marine engineering to the produce aisle."
+  },
+  {
+    "id": "nov12-mars-organic-carbon",
+    "isoDate": "2026-11-12",
+    "month": "November",
+    "date": "Nov 12, 2026",
+    "place": "Jezero Crater, Mars",
+    "image": "assets/cards/nov12-mars-organic-carbon.jpg",
+    "title": "Mars Hides Organic Carbon Under One Sheet of Dust","magnetUrl":"https://blappos.printify.me/product/34375520","magnetPrice":"$9.99",
+    "facts": "A ScienceDaily digest published November 12 highlighted a Science Advances study reporting macromolecular carbon in two mudstones at Bright Angel in Mars' Jezero Crater. Perseverance's SHERLOC instrument used deep-ultraviolet Raman spectroscopy to detect the material only a few micrometers below the rock surface—the shallowest such detection reported on Mars. The finding is spatially separated from earlier organic-carbon detections by Curiosity in Gale Crater.",
+    "why": "Organic carbon is important raw material for habitability and biosignature research, but 'organic' describes carbon chemistry, not a confirmed biological origin. The paper says the carbon could have formed through biological or non-biological pathways and does not establish past life. Finding complex carbon in two widely separated ancient Martian environments strengthens the case that such material may be widespread and preserved, while the exact origin still requires stronger evidence—ideally laboratory analysis of returned samples.",
+    "angle": "The November 12 digest, peer-reviewed paper, two mudstones, shallow detection and biological-versus-abiotic boundary end above. The Blappos interpretation: Mars hid organic carbon under one sheet of dust and Earth immediately began drafting the alien press conference it was specifically told not to hold. The rover, laser spot, molecule inset and Jezero terrain are disclosed original AI-generated editorial illustration—not mission imagery, a NASA graphic, a literal molecular map or evidence of Martian life.",
+    "amazonLinks": [
+      {"title":"The Case for Mars: The Plan to Settle the Red Planet and Why We Must","image":"https://m.media-amazon.com/images/P/145160811X.01.LZZZZZZZ.jpg","alt":"Cover of The Case for Mars by Robert Zubrin","quip":"A detailed Red Planet argument for the future explorers who may eventually bring Jezero samples into an Earth laboratory.","salesPriority":5,"url":"https://www.amazon.com/dp/145160811X?tag=blappos-20"},
+      {"title":"The Perseverance Mars Rover","image":"https://m.media-amazon.com/images/P/1499449909.01.LZZZZZZZ.jpg","alt":"Cover of The Perseverance Mars Rover by Donna Reynolds","quip":"An accessible guide to the rover carrying SHERLOC, the instrument that found carbon a few micrometers below the surface.","salesPriority":5,"url":"https://www.amazon.com/dp/1499449909?tag=blappos-20"},
+      {"title":"Packing for Mars: The Curious Science of Life in the Void","image":"https://m.media-amazon.com/images/P/0393339912.01.LZZZZZZZ.jpg","alt":"Cover of Packing for Mars by Mary Roach","quip":"Mary Roach's lively science of spaceflight for keeping the human comedy separate from a very careful organic-carbon result.","salesPriority":4,"url":"https://www.amazon.com/dp/0393339912?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+    "sourceName": "Read ScienceDaily's November 12 digest and the open-access Science Advances paper",
+    "sourcePublisher": "ScienceDaily",
+    "socialSummary": "Perseverance found organic carbon in two Jezero mudstones—not proof of life.",
+    "socialPunchline": "Blappos: Mars found organic carbon; Earth preordered the alien press conference."
+  },
+  {
+    "id": "nov12-smoke-phase-turkey",
+    "isoDate": "2026-11-12",
+    "month": "November",
+    "date": "Nov 12, 2026",
+    "place": "Richland County, Wisconsin",
+    "image": "assets/cards/nov12-smoke-phase-turkey.jpg",
+    "title": "Wisconsin Turkey Enters Its Smoke Phase","magnetUrl":"https://blappos.printify.me/product/34375523","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 12 that a Snapshot Wisconsin trail camera photographed an unusually pale wild turkey in Richland County. The Wisconsin Department of Natural Resources identified the bird as showing the smoke color phase: reduced brown and red pigment produces mostly white or light-gray plumage with darker gray-to-black markings, especially on the lower feathers. The agency says the appearance comes from a genetic mutation and is a natural color variation in wild turkeys.",
+    "why": "The label explains plumage, not ancestry or health. A smoke-phase bird is not automatically an escaped domestic turkey, an albino or a hybrid, and one camera image cannot establish how common the mutation is across the state. Wisconsin DNR also distinguishes other rare phases, including erythristic birds with excess rusty-red pheomelanin and melanistic birds with excess black eumelanin. The useful lesson is that striking color can be real biology without supporting a broader population claim.",
+    "angle": "The November 12 report, Richland County camera, DNR identification and genetic-color boundary end above. The Blappos interpretation: Wisconsin's turkey selected the smoke finish, kept the factory-default attitude and arrived exactly two weeks before someone asked whether it came pre-seasoned. The bird, autumn woods and trail camera are disclosed original AI-generated editorial illustration—not the Snapshot Wisconsin photograph, a DNR graphic, an exact individual or evidence about the animal's health.",
+    "amazonLinks": [
+      {"title":"The Turkey: An American Story","image":"https://m.media-amazon.com/images/P/0252076877.01.LZZZZZZZ.jpg","alt":"Cover of The Turkey: An American Story by Andrew F. Smith","quip":"A cultural and natural history for the bird whose rare plumage arrived with centuries of American expectations attached.","salesPriority":5,"url":"https://www.amazon.com/dp/0252076877?tag=blappos-20"},
+      {"title":"The Wild Turkey: Biology and Management","image":"https://m.media-amazon.com/images/P/081171859X.01.LZZZZZZZ.jpg","alt":"Cover of The Wild Turkey: Biology and Management","quip":"A technical reference on wild-turkey biology for going beyond one startling trail-camera color phase.","salesPriority":5,"url":"https://www.amazon.com/dp/081171859X?tag=blappos-20"},
+      {"title":"National Audubon Society Birds of North America","image":"https://m.media-amazon.com/images/P/0525655670.01.LZZZZZZZ.jpg","alt":"Cover of National Audubon Society Birds of North America","quip":"A comprehensive photographic bird guide for checking what is typical before declaring a pale turkey impossible.","salesPriority":4,"url":"https://www.amazon.com/dp/0525655670?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/12/wisconsin-dnr-turkey-color/5191794509755/",
+    "sourceName": "Read UPI's November 12 report and Wisconsin DNR's Snapshot Wisconsin explanation",
+    "sourcePublisher": "UPI",
+    "socialSummary": "UPI says Wisconsin DNR identified a pale Richland County wild turkey as a natural smoke color phase caused by reduced pigment.",
+    "socialPunchline": "Blappos: Just a phase. Specifically."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov12StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov12StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 12 purchase gate: all three stories remain private until exact live Printify products and prices are written back.
+// November 12 affiliate-card QA passed: every staged story has exactly three verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+// November 13 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov13StagingStories = [
+  {
+    "id": "nov13-inflated-alligator",
+    "isoDate": "2026-11-13",
+    "month": "November",
+    "date": "Nov 13, 2026",
+    "place": "Sugar Land, Texas",
+    "image": "assets/cards/nov13-inflated-alligator.jpg",
+    "title": "Sugar Land Dispatches Animal Control to a Runaway Pool Floatie","magnetUrl":"https://blappos.printify.me/product/34423693","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 13 that Sugar Land Animal Services responded to a resident's call about an alligator that appeared sick. Animal Services Officer Perez kept the investigation appropriately cautious, then found that the convincing shape was a green inflatable alligator pool toy that had drifted away. The department said the caller still did the right thing: keep a safe distance from wildlife that looks sick or injured and call trained responders rather than approaching it.",
+    "why": "The joke works because real alligators inhabit Sugar Land's ponds and waterways, while distance, glare and partial views can make quick identification unreliable. The city's official guidance says a sighting alone is not necessarily an emergency, but residents should contact Animal Services when an alligator is in a roadway or a pool, lawn or driveway without direct water access, or when it approaches people or repeatedly follows watercraft. This incident does not show that wildlife calls are frivolous; it shows why safe reporting and expert verification beat a risky close look.",
+    "angle": "The November 13 report, official safety guidance and identification boundary end above. The Blappos interpretation: Sugar Land's wildlife call was technically inflated. The officer, pond, neighborhood and bright vinyl gator are disclosed original AI-generated editorial illustration—not Perez's likeness, a copied department image, an official city scene or evidence that the caller acted unreasonably.",
+    "amazonLinks": [
+      {"title":"Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America","image":"https://m.media-amazon.com/images/P/0544129970.01.LZZZZZZZ.jpg","alt":"Cover of Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America","quip":"A serious field guide for checking the real reptiles behind Sugar Land's extremely buoyant false alarm.","salesPriority":5,"url":"https://www.amazon.com/dp/0544129970?tag=blappos-20"},
+      {"title":"The American Alligator","image":"https://m.media-amazon.com/images/P/156065581X.01.LZZZZZZZ.jpg","alt":"Cover of The American Alligator by Steve Potts","quip":"A concise species guide for separating actual alligator biology from one runaway piece of pool vinyl.","salesPriority":5,"url":"https://www.amazon.com/dp/156065581X?tag=blappos-20"},
+      {"title":"Alligators and Crocodiles","image":"https://m.media-amazon.com/images/P/0823423433.01.LZZZZZZZ.jpg","alt":"Cover of Alligators and Crocodiles by Gail Gibbons","quip":"A clear illustrated comparison for readers who want their crocodilian identification skills fully inflated.","salesPriority":4,"url":"https://www.amazon.com/dp/0823423433?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/13/sugar-land-texas-inflatable-alligator/4041794588013/",
+    "sourceName": "Read UPI's November 13 report and Sugar Land's official alligator-safety guidance",
+    "sourcePublisher": "UPI",
+    "socialSummary": "Sugar Land Animal Services answered a sick-alligator call and found a runaway inflatable pool toy.",
+    "socialPunchline": "Blappos: The wildlife call was technically inflated."
+  },
+  {
+    "id": "nov13-abydos-retainers",
+    "isoDate": "2026-11-13",
+    "month": "November",
+    "date": "Nov 13, 2026",
+    "place": "Abydos, Egypt",
+    "image": "assets/cards/nov13-abydos-retainers.jpg",
+    "title": "Ancient Egypt Reopens a 5,000-Year-Old Royal HR Case","magnetUrl":"https://blappos.printify.me/product/34423695","magnetPrice":"$9.99",
+    "facts": "A ScienceDaily digest published November 13 highlighted Roselyn Campbell's open-access Frontiers in Environmental Archaeology study of 46 preserved crania from subsidiary burials around First Dynasty funerary enclosures at Abydos. Modern bioarchaeological and forensic examination identified perimortem, potentially lethal cranial trauma in 18 individuals—39% of the sample. The injuries provide new physical support for the long-standing hypothesis that some royal retainers were killed when rulers died, possibly to serve them in the afterlife.",
+    "why": "The study recovers evidence and individuality from a legacy collection that earlier archaeology often treated as a footnote to royal tombs. Its claim ceiling is crucial: the 46 crania represent only about 5% to 15% of the burial population at each enclosure, many remains were lost, damaged or coated in paraffin, and most postcranial remains are unavailable. The trauma supports sacrifice for many examined people; it does not prove that every subsidiary burial was a killing or reveal exactly how people without observable cranial trauma died.",
+    "angle": "The November 13 digest, October 5 paper, 46-person sample, 18 trauma cases and incomplete-collection limit end above. The Blappos interpretation: early royal employment came with an afterlife clause nobody could safely decline. The excavation, researchers, diagram and distant procession are disclosed original AI-generated editorial illustration—not a reconstruction of a specific death, a copied artifact, a portrait of Campbell or proof beyond the study's stated limits.",
+    "amazonLinks": [
+      {"title":"Abydos: Egypt's First Pharaohs and the Cult of Osiris","image":"https://m.media-amazon.com/images/P/0500390304.01.LZZZZZZZ.jpg","alt":"Cover of Abydos by David O'Connor","quip":"The site-specific history behind royal tombs, subsidiary burials and one exceptionally durable archaeological mystery.","salesPriority":5,"url":"https://www.amazon.com/dp/0500390304?tag=blappos-20"},
+      {"title":"Egyptian Bioarchaeology: Humans, Animals, and the Environment","image":"https://m.media-amazon.com/images/P/9088902879.01.LZZZZZZZ.jpg","alt":"Cover of Egyptian Bioarchaeology edited by Salima Ikram, Jessica Kaiser and Roxie Walker","quip":"A field-spanning collection on how human remains and other biological evidence can revise ancient Egyptian history.","salesPriority":5,"url":"https://www.amazon.com/dp/9088902879?tag=blappos-20"},
+      {"title":"The Human Bone Manual","image":"https://m.media-amazon.com/images/P/0120884674.01.LZZZZZZZ.jpg","alt":"Cover of The Human Bone Manual by Tim D. White and Pieter A. Folkens","quip":"A practical forensic-anthropology reference for understanding what careful skeletal analysis can—and cannot—establish.","salesPriority":4,"url":"https://www.amazon.com/dp/0120884674?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+    "sourceName": "Read ScienceDaily's November 13 digest and the open-access Frontiers paper",
+    "sourcePublisher": "ScienceDaily / Frontiers",
+    "socialSummary": "At Abydos, 18 of 46 crania had potentially lethal trauma, supporting a sacrifice theory.",
+    "socialPunchline": "Blappos: Royal employment had an afterlife clause."
+  },
+  {
+    "id": "nov13-sheep-roper",
+    "isoDate": "2026-11-13",
+    "month": "November",
+    "date": "Nov 13, 2026",
+    "place": "Wadsworth, Ohio",
+    "image": "assets/cards/nov13-sheep-roper.jpg",
+    "title": "Ohio Ends a 45-Day Sheep Chase With One Teen and a Horse","magnetUrl":"https://blappos.printify.me/product/34423700","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 13 that an American Blackbelly sheep loose around Wadsworth for 45 days was finally caught by 13-year-old Reagan Crumpler riding her horse Catalena. The search grew into a community effort involving Whispering Acres Farm Animal Sanctuary, residents, police, volunteers, social-media sightings and drone operators. After hours of pursuit and near misses in a field beside U.S. Route 224, Crumpler got a rope around the sheep and brought the long-running search to a safe end.",
+    "why": "The rescue mattered because the animal had crossed roads, remained difficult to approach and was thin enough to need a gradual refeeding plan and veterinary check. The sanctuary placed the sheep—named Gerri Reagan after her rescuer—on a stray hold and said she would have a permanent home there if no documented owner came forward. Published accounts disagree on whether Crumpler was 13 or 14, so Blappos uses the verified description 'teen rider' outside this attribution to UPI rather than laundering a small source conflict into certainty.",
+    "angle": "The November 13 report, 45-day timeline, community search, rescue and age-reporting caveat end above. The Blappos interpretation: Wadsworth deployed social media, drones, police and snacks before Ohio remembered it had a teenager with a rope. The rider, horse, sheep, barn and volunteers are disclosed original AI-generated editorial illustration—not Crumpler's likeness, a copied rescue image, an instruction to chase livestock or a claim that roping is appropriate without experienced handlers.",
+    "amazonLinks": [
+      {"title":"Storey's Guide to Raising Sheep, 5th Edition","image":"https://m.media-amazon.com/images/P/1612129803.01.LZZZZZZZ.jpg","alt":"Cover of Storey's Guide to Raising Sheep, 5th Edition","quip":"A comprehensive care guide for the refeeding, housing and long-term husbandry that begin after the lasso comes off.","salesPriority":5,"url":"https://www.amazon.com/dp/1612129803?tag=blappos-20"},
+      {"title":"The Sheep Book: A Handbook for the Modern Shepherd","image":"https://m.media-amazon.com/images/P/0804010323.01.LZZZZZZZ.jpg","alt":"Cover of The Sheep Book by Ronald B. Parker","quip":"A year-in-the-life shepherding reference for one Wadsworth sheep whose calendar included a 45-day detour.","salesPriority":5,"url":"https://www.amazon.com/dp/0804010323?tag=blappos-20"},
+      {"title":"Ranch Roping With Buck Brannaman","image":"https://m.media-amazon.com/images/P/0911647546.01.LZZZZZZZ.jpg","alt":"Cover of Ranch Roping With Buck Brannaman","quip":"A humane rope-handling guide for understanding the trained skill behind the community's last successful rescue plan.","salesPriority":4,"url":"https://www.amazon.com/dp/0911647546?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/13/sheep-wadsworth-ohio-lassoed/6691794592131/",
+    "sourceName": "Read UPI's November 13 report and News 5 Cleveland's local follow-up",
+    "sourcePublisher": "UPI / News 5 Cleveland",
+    "socialSummary": "A teen rider safely roped a sheep after its 45 days loose around Wadsworth.",
+    "socialPunchline": "Blappos: Forty-five days, one horse, one rope, zero surrender paperwork."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov13StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov13StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 13 purchase gate passed: Printify published all three exact $9.99 story magnets and wrote their matching storefront URLs back to the repository.
+// November 13 affiliate-card QA passed: every staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+// November 14 edition is staged behind the hard purchase gate. These objects
+// remain invisible until Printify writes back an exact live product URL and
+// price for every accepted story.
+const nov14StagingStories = [
+  {
+    "id": "nov14-aquidneck-iguanas",
+    "isoDate": "2026-11-14",
+    "month": "November",
+    "date": "Nov 14, 2026",
+    "place": "Aquidneck Island, Rhode Island",
+    "image": "assets/cards/nov14-aquidneck-iguanas.jpg",
+    "title": "Rhode Island Finds Two Iguanas and Misplaces the Explanation","magnetUrl":"https://blappos.printify.me/product/34472460","magnetPrice":"$9.99",
+    "facts": "The Potter League for Animals reported on November 14 that two large iguanas were found within two days at separate locations on Aquidneck Island. One, more than three feet long, had been lingering in Portsmouth and reportedly climbed onto a resident's front porch. A second, smaller iguana was found miles away in Newport—inside a flower pot. Both were safe at the shelter, which opened a five-day stray hold while asking possible owners to come forward.",
+    "why": "The coincidence is real; the connection is not established. Potter League staff did not know whether the reptiles had ever been together, how long they had been outside or where they came from. That distinction matters because two similar animals arriving together can tempt a tidy escaped-pair narrative that the evidence does not support. The practical outcome is simpler: identifiable owners get a short reclaim window, and otherwise the shelter can arrange appropriate care rather than leaving large exotic pets exposed outdoors.",
+    "angle": "The November 14 report, two-day timeline, separate locations, shelter status and unknown connection end above. The Blappos interpretation: Aquidneck Island found two iguanas and misplaced the entire explanation. The porch, harbor, flower pot and reptiles are disclosed original AI-generated editorial illustration—not the rescued animals, a copied shelter photograph or proof that the cases are connected.",
+    "amazonLinks": [
+      {"title":"Green Iguana: The Ultimate Owner's Manual","image":"https://m.media-amazon.com/images/P/1883463483.01.LZZZZZZZ.jpg","alt":"Cover of Green Iguana: The Ultimate Owner's Manual by James W. Hatfield III","quip":"A detailed husbandry reference for understanding why a three-foot porch visitor is not an improvised outdoor pet.","salesPriority":5,"url":"https://www.amazon.com/dp/1883463483?tag=blappos-20"},
+      {"title":"Iguanas For Dummies","image":"https://m.media-amazon.com/images/P/0764552600.01.LZZZZZZZ.jpg","alt":"Cover of Iguanas For Dummies by Melissa Kaplan","quip":"A practical care guide for the owner Potter League hopes will recognize one of Aquidneck Island's unexpected arrivals.","salesPriority":5,"url":"https://www.amazon.com/dp/0764552600?tag=blappos-20"},
+      {"title":"Mader's Reptile and Amphibian Medicine and Surgery, 3rd Edition","image":"https://m.media-amazon.com/images/P/0323482538.01.LZZZZZZZ.jpg","alt":"Cover of Mader's Reptile and Amphibian Medicine and Surgery, 3rd Edition","quip":"The clinical reptile reference behind the veterinary care large recovered iguanas may require after an unknown time outdoors.","salesPriority":4,"url":"https://www.amazon.com/dp/0323482538?tag=blappos-20"}
+    ],
+    "source": "https://potterleague.org/media/press/",
+    "sourceName": "Read Potter League for Animals' November 14 report",
+    "sourcePublisher": "Potter League for Animals",
+    "socialSummary": "Aquidneck Island found two iguanas miles apart—porch and flower pot; no link is established.",
+    "socialPunchline": "Blappos: Two iguanas. Zero explanations."
+  },
+  {
+    "id": "nov14-dark-magic-mushroom",
+    "isoDate": "2026-11-14",
+    "month": "November",
+    "date": "Nov 14, 2026",
+    "place": "Florida Wetlands",
+    "image": "assets/cards/nov14-dark-magic-mushroom.jpg",
+    "title": "Florida Mushroom Invents the Worst Possible Combo Pack","magnetUrl":"https://blappos.printify.me/product/34472463","magnetPrice":"$9.99",
+    "facts": "A November 14 report highlighted a July 22 bioRxiv preprint on Galerina indica specimens collected from moss-covered palm trunks in Florida wetlands. Repeated mass-spectrometry analysis detected psilocybin and psilocin along with two amatoxin compounds, including a newly characterized compound the researchers call alpha-proamanitin. Genome sequencing found the corresponding biosynthetic genes; the authors' evolutionary analysis supports at least two independent acquisitions of psilocybin biosynthesis within Galerina.",
+    "why": "The result overturns a useful-looking shortcut: blue bruising associated with psilocin chemistry does not guarantee that an unfamiliar wild mushroom lacks amatoxins. The paper is a preprint, not peer-reviewed, and it did not establish a human dose, a clinical poisoning history or the field safety of any specimen. It also did not detect alpha-amanitin itself. The defensible public-health conclusion is not to rank the mushroom's effects—it is never to eat an unidentified wild mushroom based on color, bruising or an online photo.",
+    "angle": "The November 14 coverage, July 22 preprint, chemical detections, genomic inference and safety limits end above. The Blappos interpretation: Florida built a mushroom with psychedelic and poisonous settings, then deleted the selector switch. The wetland, specimen table, formulas and mushroom are disclosed original AI-generated editorial illustration—not a field-identification image, proof of clinical toxicity or an invitation to consume wild fungi.",
+    "amazonLinks": [
+      {"title":"Mushrooms Demystified","image":"https://m.media-amazon.com/images/P/0898151694.01.LZZZZZZZ.jpg","alt":"Cover of Mushrooms Demystified by David Arora","quip":"A comprehensive identification reference for readers who understand that one dramatic blue edge is not a safety test.","salesPriority":5,"url":"https://www.amazon.com/dp/0898151694?tag=blappos-20"},
+      {"title":"National Audubon Society Mushrooms of North America","image":"https://m.media-amazon.com/images/P/0593319982.01.LZZZZZZZ.jpg","alt":"Cover of National Audubon Society Mushrooms of North America","quip":"A modern photographic field guide for placing one chemically surprising Galerina inside a much larger fungal world.","salesPriority":5,"url":"https://www.amazon.com/dp/0593319982?tag=blappos-20"},
+      {"title":"Handbook of Mushroom Poisoning: Diagnosis and Treatment","image":"https://m.media-amazon.com/images/P/0849301947.01.LZZZZZZZ.jpg","alt":"Cover of Handbook of Mushroom Poisoning: Diagnosis and Treatment","quip":"A clinical toxicology reference for the amatoxin side of a mushroom that refuses to stay in one chemical lane.","salesPriority":4,"url":"https://www.amazon.com/dp/0849301947?tag=blappos-20"}
+    ],
+    "source": "https://nypost.com/2026/11/14/health/dark-magic-mushrooms-found-to-have-remarkable-double-effect/",
+    "sourceName": "Read the November 14 report and the open bioRxiv preprint",
+    "sourcePublisher": "New York Post",
+    "socialSummary": "Florida Galerina indica specimens held psilocybin-related compounds and amatoxins; it is a preprint.",
+    "socialPunchline": "Blappos: Psychedelic. Poisonous. Pick a lane."
+  },
+  {
+    "id": "nov14-ed138",
+    "isoDate": "2026-11-14",
+    "month": "November",
+    "date": "Nov 14, 2026",
+    "place": "Beyond Pluto",
+    "image": "assets/cards/nov14-ed138.jpg",
+    "title": "The Solar System Finds a Dwarf-Planet Candidate in Its Junk Drawer","magnetUrl":"https://blappos.printify.me/product/34472466","magnetPrice":"$9.99",
+    "facts": "A ScienceDaily digest published November 14 highlighted 2026 ED138, a large trans-Neptunian object discovered in early Vera C. Rubin Observatory data. The discovery paper places it about 46 astronomical units from the Sun and estimates a diameter of roughly 612 to 1,530 kilometers depending on how reflective its surface is. Rubin recorded it 30 times during 2026, and archival Dark Energy Camera images extend the observed orbit back to 2016.",
+    "why": "ED138 is a strong dwarf-planet candidate, not a sixth officially recognized dwarf planet. Brightness and assumed reflectivity give a wide size range, while follow-up observations are still needed to measure its dimensions, shape and surface. Its late discovery is scientifically useful: the object sits near the crowded Milky Way plane, where earlier searches struggled to separate faint motion from dense background stars. Rubin's repeated wide-field imaging could reveal more large objects in similarly neglected sky regions.",
+    "angle": "The November 14 digest, discovery paper, distance, size range, archival recovery and candidate-status boundary end above. The Blappos interpretation: the solar system found a possible world after filing it under background noise for a decade. The icy body, plates, astronomer and observatory are disclosed original AI-generated editorial illustration—not a direct resolved image of ED138, a copied Rubin graphic or confirmation of dwarf-planet status.",
+    "amazonLinks": [
+      {"title":"The Pluto Files: The Rise and Fall of America's Favorite Planet","image":"https://m.media-amazon.com/images/P/0393350363.01.LZZZZZZZ.jpg","alt":"Cover of The Pluto Files by Neil deGrasse Tyson","quip":"The classification history behind why a large round-looking object beyond Pluto still has to earn the word planet.","salesPriority":5,"url":"https://www.amazon.com/dp/0393350363?tag=blappos-20"},
+      {"title":"Pluto & the Dwarf Planets","image":"https://m.media-amazon.com/images/P/1626179778.01.LZZZZZZZ.jpg","alt":"Cover of Pluto & the Dwarf Planets by Nathan Sommer","quip":"A direct introduction to the small official family ED138 may eventually join after follow-up observations.","salesPriority":5,"url":"https://www.amazon.com/dp/1626179778?tag=blappos-20"},
+      {"title":"The Kuiper Belt","image":"https://m.media-amazon.com/images/P/159928927X.01.LZZZZZZZ.jpg","alt":"Cover of The Kuiper Belt by Fran Howard","quip":"A guide to the icy outer-solar-system neighborhood where ED138 spent years hiding against a crowded star field.","salesPriority":4,"url":"https://www.amazon.com/dp/159928927X?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+    "sourceName": "Read ScienceDaily's November 14 digest and the Rubin discovery paper",
+    "sourcePublisher": "ScienceDaily / Rubin Observatory",
+    "socialSummary": "2026 ED138 is a large object beyond Pluto—still a dwarf-planet candidate, not a confirmed planet.",
+    "socialPunchline": "Blappos: Filed under background noise."
+  }
+];
+window.dailyStories = window.dailyStories.filter(story => !nov14StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov14StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 14 purchase gate passed: Printify published all three exact $9.99 story magnets and wrote their matching storefront URLs back to the repository.
+// November 14 affiliate-card QA passed: every staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov15StagingStories = [
+  {
+    "id": "nov15-mcnugget-monkey",
+    "isoDate": "2026-11-15",
+    "month": "November 2026",
+    "date": "Nov 15, 2026",
+    "place": "Albert Lea, Minnesota",
+    "image": "assets/cards/nov15-mcnugget-monkey.jpg",
+    "title": "Minnesota Gives a Spider Monkey a Heated Squad-Car Upgrade","magnetUrl":"https://blappos.printify.me/product/34526354","magnetPrice":"$9.99",
+    "facts": "Hoodline reported on November 15 that Albert Lea police found a brown spider monkey named McNugget loose in cold weather. The department's public account says officers placed the friendly animal in a squad car to warm up and reunited her with her owner. A local report described McNugget as diaper-wearing, said she had been traveling with her truck-driver owner and reported no injuries.",
+    "why": "A warm vehicle and a quick reunion were a good immediate outcome, but the available reporting does not establish how McNugget got loose, how long she was outside or whether any legal exception applied to her ownership. The police department's line that she asked for a lawyer and a banana was plainly a joke, not evidence about animal communication. That boundary matters whenever an agency's comic social copy becomes the internet's factual record.",
+    "angle": "Verified reporting and the unknowns end above. The Blappos interpretation: Minnesota's coldest traffic stop came with a heated seat, a prehensile tail and no citation that could be signed with a thumbprint. The magnet uses an invented monkey, vehicle and winter landscape—not a copied police image, department insignia, owner likeness or claim of wrongdoing.",
+    "amazonLinks": [
+      {"title":"Spider Monkeys: Behavior, Ecology and Evolution of the Genus Ateles","image":"https://m.media-amazon.com/images/P/0521867509.01.LZZZZZZZ.jpg","alt":"Cover of Spider Monkeys edited by Christina J. Campbell","quip":"A specialist reference for replacing one roadside surprise with the ecology and behavior of the entire genus.","salesPriority":5,"url":"https://www.amazon.com/dp/0521867509?tag=blappos-20"},
+      {"title":"Primates of the World: An Illustrated Guide","image":"https://m.media-amazon.com/images/P/0691156956.01.LZZZZZZZ.jpg","alt":"Cover of Primates of the World by Jean-Jacques Petter and Francois Desbordes","quip":"An illustrated global guide for placing McNugget's prehensile tail inside a much larger primate family tree.","salesPriority":5,"url":"https://www.amazon.com/dp/0691156956?tag=blappos-20"},
+      {"title":"National Geographic Readers: Monkeys","image":"https://m.media-amazon.com/images/P/1426311060.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Readers Monkeys by Anne Schreiber","quip":"A younger-reader introduction to monkey biology for the household that has already heard the squad-car version.","salesPriority":4,"url":"https://www.amazon.com/dp/1426311060?tag=blappos-20"}
+    ],
+    "source": "https://hoodline.com/2026/11/spider-monkey-found-loose-near-albert-lea-reunited-with-owner/",
+    "sourceName": "Read Hoodline's November 15 report and the Albert Lea Police account",
+    "sourcePublisher": "Hoodline / Albert Lea Police",
+    "socialSummary": "Albert Lea police warmed and returned loose spider monkey McNugget.",
+    "socialPunchline": "Blappos: Minnesota's coldest traffic stop came with a prehensile tail."
+  },
+  {
+    "id": "nov15-mylar-moon",
+    "isoDate": "2026-11-15",
+    "month": "November 2026",
+    "date": "Nov 15, 2026",
+    "place": "Vacuum Lab to Lunar Base",
+    "image": "assets/cards/nov15-mylar-moon.jpg",
+    "title": "The Moon Base Finds Its Insulation in an Emergency Blanket","magnetUrl":"https://blappos.printify.me/product/34526374","magnetPrice":"$9.99",
+    "facts": "ScienceDaily's November 15 digest describes a Penn Engineering study that compressed hundreds of thin BoPET—commonly known as Mylar—films into dense, flexible vacuum-insulation stacks. Some films carried an alumina coating. In laboratory vacuum tests the best stack reached thermal conductivity as low as 2.2 milliwatts per meter-kelvin at 0.1 megapascal while samples tolerated compressive stresses above 20 megapascals.",
+    "why": "Conventional multilayer insulation works well in vacuum but is too fragile to serve as a load-bearing wall. These denser stacks suggest one material could combine very low heat transfer with substantial compression resistance, which is why the researchers discuss lunar habitats. The important limit is scale: the published work is a small laboratory model assembled by hand, not a meter-wide manufacturing process or flight-qualified Moon-base panel.",
+    "angle": "The measurements, proposed application and lab-scale limit end above. The Blappos interpretation: humanity spent decades designing a Moon base and finally promoted the emergency blanket from glove compartment to permanent address. The magnet is an original retro-futurist concept illustration—no NASA mark, real mission hardware, copied figure or claim that the material is already deployed.",
+    "amazonLinks": [
+      {"title":"Primacare Emergency Mylar Thermal Blankets, 10 Pack","image":"https://m.media-amazon.com/images/P/B00DZ1NFSK.01.LZZZZZZZ.jpg","alt":"Primacare emergency Mylar thermal blanket pack","quip":"The familiar thin-film cousin of the research stacks, useful on Earth and not a substitute for a lunar wall.","salesPriority":5,"url":"https://www.amazon.com/dp/B00DZ1NFSK?tag=blappos-20"},
+      {"title":"Lunar Sourcebook: A User's Guide to the Moon","image":"https://m.media-amazon.com/images/P/0521334446.01.LZZZZZZZ.jpg","alt":"Cover of Lunar Sourcebook A User's Guide to the Moon","quip":"A heavyweight reference for the environment that makes hundreds of lightweight film layers sound practical.","salesPriority":5,"url":"https://www.amazon.com/dp/0521334446?tag=blappos-20"},
+      {"title":"The Value of the Moon","image":"https://m.media-amazon.com/images/P/1588345033.01.LZZZZZZZ.jpg","alt":"Cover of The Value of the Moon by Paul D. Spudis","quip":"A case for sustained lunar activity while engineers work out what the permanent address should actually be made from.","salesPriority":4,"url":"https://www.amazon.com/dp/1588345033?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
+    "sourceName": "Read ScienceDaily's November 15 digest and the ACS materials paper",
+    "sourcePublisher": "ScienceDaily / Penn Engineering",
+    "socialSummary": "Penn engineers made low-conductivity insulation from stacked Mylar; lunar use is unproven.",
+    "socialPunchline": "Blappos: Emergency blanket. Permanent address."
+  },
+  {
+    "id": "nov15-metal-potatoes",
+    "isoDate": "2026-11-15",
+    "month": "November 2026",
+    "date": "Nov 15, 2026",
+    "place": "Clarion-Clipperton Zone, Pacific Ocean",
+    "image": "assets/cards/nov15-metal-potatoes.jpg",
+    "title": "The Deep Sea's Metal Potatoes Come Preloaded With Tenants","magnetUrl":"https://blappos.printify.me/product/34526400","magnetPrice":"$9.99",
+    "facts": "ScienceAlert reported on November 15 that researchers opened and examined 244 polymetallic nodules from the abyssal Clarion-Clipperton Zone. The team counted 4,139 animals smaller than one millimeter living in pores and cavities—about 17 per nodule on average, with as many as 245 in one. The nodule community differed from nearby sediment communities and remained similar across sites separated by up to 1,000 kilometers.",
+    "why": "The nodules grow only millimeters over a million years and provide hard, internally complex habitat on an otherwise muddy seafloor. Removing them for deep-sea mining would therefore remove a habitat that cannot be replaced on human timescales. The study does not prove that every nodule holds 245 animals, that every species is unique to nodules or that a particular extinction will follow; it identifies a distinct community and a serious conservation risk that needs more study.",
+    "angle": "The survey, limits and mining implication end above. The Blappos interpretation: the Pacific's metal potatoes arrived preloaded with 245 tenants, zero leases and a landlord that grows one millimeter per geological billing cycle. The magnet uses an invented cutaway, animals and ROV—not a specimen photograph, mining endorsement or claim that the microscopic animals glow.",
+    "amazonLinks": [
+      {"title":"Deep-Sea Mining: Resource Potential, Technical and Environmental Considerations","image":"https://m.media-amazon.com/images/P/3319525565.01.LZZZZZZZ.jpg","alt":"Cover of Deep-Sea Mining Resource Potential Technical and Environmental Considerations","quip":"The technical and environmental context behind the question of whether metal-rich habitat should become ore.","salesPriority":5,"url":"https://www.amazon.com/dp/3319525565?tag=blappos-20"},
+      {"title":"The Brilliant Abyss","image":"https://m.media-amazon.com/images/P/0802158226.01.LZZZZZZZ.jpg","alt":"Cover of The Brilliant Abyss by Helen Scales","quip":"A deep-ocean tour for understanding why a lumpy black rock can be both mineral deposit and apartment block.","salesPriority":5,"url":"https://www.amazon.com/dp/0802158226?tag=blappos-20"},
+      {"title":"National Geographic Ocean: A Global Odyssey","image":"https://m.media-amazon.com/images/P/1426221924.01.LZZZZZZZ.jpg","alt":"Cover of National Geographic Ocean A Global Odyssey","quip":"A broad visual reference for the enormous ocean surrounding this very small and very crowded discovery.","salesPriority":4,"url":"https://www.amazon.com/dp/1426221924?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencealert.com/strange-metal-potatoes-contain-a-microcosm-of-life-not-seen-anywhere-else-on-the-seafloor-scientists-find",
+    "sourceName": "Read ScienceAlert's November 15 report and the NIOZ research release",
+    "sourcePublisher": "ScienceAlert / NIOZ",
+    "socialSummary": "A study found 4,139 tiny animals in 244 deep-sea nodules; one nodule held 245.",
+    "socialPunchline": "Blappos: The metal potatoes came with 245 tenants and zero leases."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov15StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov15StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 15 publication gate: these stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
+// November 15 affiliate-card QA: each staged story has exactly three publisher-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov16StagingStories = [
+  {
+    "id": "nov16-red-crab-commute",
+    "isoDate": "2026-11-16",
+    "month": "November 2026",
+    "date": "Nov 16, 2026",
+    "place": "Christmas Island, Australia",
+    "image": "assets/cards/nov16-red-crab-commute.jpg",
+    "title": "Christmas Island Opens the World's Busiest Crab Overpass","magnetUrl":"https://blappos.printify.me/product/34591031","magnetPrice":"$9.99",
+    "facts": "UPI reported on November 16 that millions of Christmas Island red crabs had begun their annual forest-to-coast migration. Parks Australia says the first wet-season rain normally starts the movement, while the moon and tides determine the spawning date; the 2026 migration was carried in daily livestreams, including one from a purpose-built crab bridge. Roads can close temporarily so the animals can cross safely.",
+    "why": "The spectacle is also a life-cycle clock. Adult crabs leave inland burrows, travel toward the sea and time spawning for the receding high tide before dawn during the last-quarter moon. The island is often described as supporting about 100 million red crabs, but that is a broad population estimate—not a count of animals on the November 16 livestream or proof that every crab uses one bridge. The defensible lesson is that simple infrastructure and temporary road controls can protect a mass wildlife movement without turning the animals into a traffic stunt.",
+    "angle": "The November 16 report, official migration biology and counting limit end above. The Blappos interpretation: Christmas Island opened the world's busiest crab overpass for millions of commuters with zero turn signals. The bridge, road, rainforest, coast, moon and crabs are disclosed original AI-generated editorial illustration—not Parks Australia footage, a literal census, a map of one route or a claim that every crab crossed the pictured bridge.",
+    "amazonLinks": [
+      {"title":"Christmas Island Red Crab Migration","image":"https://m.media-amazon.com/images/P/1626178151.01.LZZZZZZZ.jpg","alt":"Cover of Christmas Island Red Crab Migration by Kari Schuetz","quip":"A focused young-reader account of the rain, moon and shoreline journey behind the island's annual red commute.","salesPriority":5,"url":"https://www.amazon.com/dp/1626178151?tag=blappos-20"},
+      {"title":"Crabs: A Global Natural History","image":"https://m.media-amazon.com/images/P/0691201714.01.LZZZZZZZ.jpg","alt":"Cover of Crabs: A Global Natural History by Peter J. F. Davie","quip":"A richly illustrated world tour of crab ecology, anatomy and behavior for putting one famous migration in its wider family.","salesPriority":5,"url":"https://www.amazon.com/dp/0691201714?tag=blappos-20"},
+      {"title":"Crab","image":"https://m.media-amazon.com/images/P/1789143691.01.LZZZZZZZ.jpg","alt":"Cover of Crab by Cynthia Chris","quip":"A compact natural and cultural history for the creature currently operating Christmas Island's largest pedestrian network.","salesPriority":4,"url":"https://www.amazon.com/dp/1789143691?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/16/australia-christmas-island-national-park-crab-migration/4821794854991/",
+    "sourceName": "Read UPI's November 16 report and Parks Australia's migration guidance and livestream",
+    "sourcePublisher": "UPI / Parks Australia",
+    "socialSummary": "Millions of Christmas Island red crabs began their rain-triggered migration to the coast; roads and crab bridges protect the route.",
+    "socialPunchline": "Blappos: Millions of commuters. Zero turn signals."
+  },
+  {
+    "id": "nov16-falmouth-safe-heat",
+    "isoDate": "2026-11-16",
+    "month": "November 2026",
+    "date": "Nov 16, 2026",
+    "place": "Falmouth, Maine",
+    "image": "assets/cards/nov16-falmouth-safe-heat.jpg",
+    "title": "Maine Finds $55,737 in the Woods and Turns It Into Heat","magnetUrl":"https://blappos.printify.me/product/34591036","magnetPrice":"$9.99",
+    "facts": "A November 16 report said Falmouth, Maine, put $55,737 from an abandoned safe toward local heating assistance. A hiker found the cash-filled safe in woods behind the town's Central Fire Station in August 2022. Police traced the container to a New Hampshire bank, confirmed that it had not been reported stolen and followed the required process for trying to identify an owner; no one established a valid claim. The Town Council then directed the unclaimed money to heating aid.",
+    "why": "The ending is verified; the origin remains a mystery. Reporting says Maine law required the money to serve a charitable purpose once the ownership process was exhausted, and Falmouth already administers assistance for basic needs including heat. That makes the transfer a documented municipal decision—not evidence that investigators solved where the cash came from, that every applicant will receive a fixed amount or that the fund replaces the town's normal eligibility review.",
+    "angle": "The August 2022 discovery, investigation, unclaimed-property outcome and heating-aid decision end above. The Blappos interpretation: the cold case finally paid the heating bill. The safe, abstract cash bundles, autumn woods, fire-station silhouette and warm house are disclosed original AI-generated editorial illustration—not the recovered safe, real currency, a crime-scene reconstruction, a recipient's home or proof of the cash's origin.",
+    "amazonLinks": [
+      {"title":"SentrySafe Fireproof and Waterproof Safe Box with Key Lock","image":"https://m.media-amazon.com/images/P/B00KOO594O.01.LZZZZZZZ.jpg","alt":"SentrySafe portable fireproof and waterproof safe box","quip":"A modern portable document safe for anyone who prefers the woods not become the household records department.","salesPriority":5,"url":"https://www.amazon.com/dp/B00KOO594O?tag=blappos-20"},
+      {"title":"Mr. Heater Portable Buddy Radiant Propane Heater","image":"https://m.media-amazon.com/images/P/B002G51BZU.01.LZZZZZZZ.jpg","alt":"Mr. Heater Portable Buddy radiant propane heater","quip":"Emergency heat hardware whose safe operation still requires the exact fuel, ventilation and clearance rules in the manual.","salesPriority":5,"url":"https://www.amazon.com/dp/B002G51BZU?tag=blappos-20"},
+      {"title":"The Homeowner's Energy Handbook","image":"https://m.media-amazon.com/images/P/1612120164.01.LZZZZZZZ.jpg","alt":"Cover of The Homeowner's Energy Handbook by Paul Scheckel","quip":"A practical efficiency guide for stretching household heat after the mystery-safe money has done its one-time work.","salesPriority":4,"url":"https://www.amazon.com/dp/1612120164?tag=blappos-20"}
+    ],
+    "source": "https://www.wcax.com/2026/11/16/maine-town-uses-mystery-55k-found-woods-help-families-pay-heating-bills/",
+    "sourceName": "Read WGME's November 16 report and the Town of Falmouth's assistance guidance",
+    "sourcePublisher": "WGME / Town of Falmouth",
+    "socialSummary": "Falmouth put $55,737 from an unclaimed safe found in 2022 toward local heating assistance after investigators found no owner.",
+    "socialPunchline": "Blappos: The cold case finally paid the heating bill."
+  },
+  {
+    "id": "nov16-stiff-socks",
+    "isoDate": "2026-11-16",
+    "month": "November 2026",
+    "date": "Nov 16, 2026",
+    "place": "Austin, Texas",
+    "image": "assets/cards/nov16-stiff-socks.jpg",
+    "title": "Texas Knits a Sock That Makes Walking 2% Less Expensive","magnetUrl":"https://blappos.printify.me/product/34591041","magnetPrice":"$9.99",
+    "facts": "ScienceAlert reported on November 16 that a prototype sock made walking slightly less metabolically costly in a small treadmill study. Twelve healthy young adults completed five-minute walking trials while the custom garment squeezed and stiffened the forefoot. Compared with ordinary socks, the prototype increased longitudinal foot stiffness by about 65% and reduced whole-body metabolic rate by about 2%; the researchers also measured lower calf-muscle fascicle shortening velocities.",
+    "why": "Two percent is a real laboratory result and a very small proof of concept, not a consumer-performance promise. The experiment involved 12 healthy participants, short treadmill trials and a highly specific prototype; it did not test long hikes, running, older adults, disabled users, injury prevention or everyday comfort. The authors report a related patent application, which belongs beside the result. The useful finding is narrower: changing foot stiffness from outside the body may alter walking energetics enough to measure.",
+    "angle": "The November 16 coverage, 12-person sample, five-minute trials, 2% result, untested populations and patent disclosure end above. The Blappos interpretation: Austin knitted walking a coupon. The participant, treadmill, metabolic cart, stiffening bands, foot diagram and skyline are disclosed original AI-generated editorial illustration—not a real participant, copied paper figure, approved medical device, retail product or claim of a 2% benefit outside the study.",
+    "amazonLinks": [
+      {"title":"The Story of the Human Body","image":"https://m.media-amazon.com/images/P/030774180X.01.LZZZZZZZ.jpg","alt":"Cover of The Story of the Human Body by Daniel E. Lieberman","quip":"An evolutionary account of human anatomy for the bigger question beneath one very small walking-efficiency result.","salesPriority":5,"url":"https://www.amazon.com/dp/030774180X?tag=blappos-20"},
+      {"title":"Born to Walk, Second Edition","image":"https://m.media-amazon.com/images/P/1623174430.01.LZZZZZZZ.jpg","alt":"Cover of Born to Walk by James Earls","quip":"A practitioner-focused guide to upright gait mechanics for understanding what a stiffer forefoot changes downstream.","salesPriority":5,"url":"https://www.amazon.com/dp/1623174430?tag=blappos-20"},
+      {"title":"Born to Run","image":"https://m.media-amazon.com/images/P/0307279189.01.LZZZZZZZ.jpg","alt":"Cover of Born to Run by Christopher McDougall","quip":"The popular barefoot-running narrative that made foot mechanics conversational long before the prototype sock arrived.","salesPriority":4,"url":"https://www.amazon.com/dp/0307279189?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencealert.com/scientists-developed-foot-stiffening-socks-that-could-make-walking-less-tiring",
+    "sourceName": "Read ScienceAlert's November 16 report and the open Proceedings of the Royal Society B paper",
+    "sourcePublisher": "ScienceAlert / Proceedings B",
+    "socialSummary": "A 12-person treadmill study found prototype foot-stiffening socks cut walking metabolic rate 2%; real-world benefits remain unproven.",
+    "socialPunchline": "Blappos: Walking is now 2% less expensive."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov16StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov16StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 16 publication gate: these stories remain invisible until Printify publishes the exact physical magnet and writes its storefront URL and price into each object.
+// November 16 affilia

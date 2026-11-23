@@ -50,6 +50,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov22-bigfoot-files': 'nov22-bigfoot-files',
+    'nov22-jonathan-genome': 'nov22-jonathan-genome',
+    'nov22-cabin-cat': 'nov22-cabin-cat',
     'nov21-westminster-sarcophagus': 'nov21-westminster-sarcophagus',
     'nov21-quantum-clock': 'nov21-quantum-clock',
     'nov21-sea-lion-patio': 'nov21-sea-lion-patio',
@@ -251,19 +254,22 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov22-bigfoot-files': ['nov17-ai-python-search', 'nov10-ai-lion-escape', 'oct26-evidence-detour'],
+  'nov22-jonathan-genome': ['nov19-sea-pig-symbiont', 'nov15-metal-potatoes', 'oct27-earwax-barrier'],
+  'nov22-cabin-cat': ['nov4-flight-path', 'sep18-air-traffic-glitch', 'nov18-peanut-baggage'],
   'nov21-westminster-sarcophagus': ['nov11-sixpence', 'nov17-owl-frog-bones', 'nov4-roman-glass'],
   'nov21-quantum-clock': ['nov18-voyager-light-day', 'nov14-ed138', 'nov12-mars-organic-carbon'],
   'nov21-sea-lion-patio': ['oct23-lionfish-tasting', 'nov16-red-crab-commute', 'oct8-water-mammal'],
   'nov19-liberty-43-seconds': ['sep30-fire-handstand', 'sep28-hula-team', 'oct16-scrapple-sculpture'],
-  'nov19-sea-pig-symbiont': ['nov15-metal-potatoes', 'jun-bacteria', 'oct27-earwax-barrier'],
+  'nov19-sea-pig-symbiont': ['nov22-jonathan-genome', 'nov15-metal-potatoes', 'jun-bacteria'],
   'nov19-manhole-dog': ['sep22-storm-drain-dogs', 'nov13-sheep-roper', 'nov15-mcnugget-monkey'],
   'sep30-fire-handstand': ['nov19-liberty-43-seconds', 'sep28-hula-team', 'oct27-knuckle-handstand'],
   'sep22-storm-drain-dogs': ['nov19-manhole-dog', 'nov13-sheep-roper', 'sep9-recliner-dog'],
   'nov18-voyager-light-day': ['nov21-quantum-clock', 'nov15-mylar-moon', 'nov12-mars-organic-carbon'],
-  'nov18-peanut-baggage': ['nov4-flight-path', 'oct23-miami-piano', 'sep18-air-traffic-glitch'],
+  'nov18-peanut-baggage': ['nov22-cabin-cat', 'nov4-flight-path', 'sep18-air-traffic-glitch'],
   'nov18-dog-coyote-pack': ['oct13-cat-burglar-dog-bowl', 'nov5-two-tool-beak', 'nov16-red-crab-commute'],
   'nov17-owl-frog-bones': ['nov21-westminster-sarcophagus', 'nov13-abydos-retainers', 'nov15-metal-potatoes'],
-  'nov17-ai-python-search': ['nov10-ai-lion-escape', 'oct24-ai-breakfast-soda', 'sep19-ai-actress-glitch'],
+  'nov17-ai-python-search': ['nov22-bigfoot-files', 'nov10-ai-lion-escape', 'oct24-ai-breakfast-soda'],
   'nov17-counter-chickens': ['oct13-cat-burglar-dog-bowl', 'nov11-horses-bus', 'oct25-madrid-sheep-detour'],
   'nov10-ai-lion-escape': ['nov17-ai-python-search', 'oct24-ai-breakfast-soda', 'sep19-ai-actress-glitch'],
   'nov16-red-crab-commute': ['nov21-sea-lion-patio', 'oct23-lionfish-tasting', 'nov15-metal-potatoes'],
@@ -431,7 +437,7 @@ fs.writeFileSync(indexPath, homepage);
 const urls = [
   { loc: `${origin}/`, lastmod: stories.map(isoDate).sort().at(-1) || '2026-01-01' },
   { loc: `${origin}/standards/`, lastmod: '2026-09-17' },
-  { loc: `${origin}/verification/`, lastmod: '2026-11-22' },
+  { loc: `${origin}/verification/`, lastmod: '2026-11-23' },
   { loc: `${origin}/merch/`, lastmod: '2026-09-24' },
   ...stories.map(story => ({ loc: `${origin}/stories/${story.id}/`, lastmod: isoDate(story) }))
 ];
