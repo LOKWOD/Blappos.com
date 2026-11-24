@@ -6044,3 +6044,80 @@ window.dailyStories = window.dailyStories.filter(story => !nov22StagingStories.s
 window.dailyStories.unshift(...nov22StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 22 purchase gate: these stories remain invisible until Printify publishes each exact physical magnet and writes its storefront URL and price into the matching object.
 // November 22 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov23StagingStories = [
+  {
+    "id": "nov23-quincy-drive-thru",
+    "isoDate": "2026-11-23",
+    "month": "November 2026",
+    "date": "Nov 23, 2026",
+    "place": "Quincy, Massachusetts",
+    "image": "assets/cards/nov23-quincy-drive-thru.jpg",
+    "title": "Massachusetts Opens the Cannabis Drive-Thru and Checks Everybody Twice",
+    "facts": "Boston.com reported on November 23 that Massachusetts cannabis drive-thru sales were beginning to roll out after the Cannabis Control Commission clarified the rules. The Commission's November 17 action allows licensed adult-use retailers and medical establishments to propose drive-thru service under existing security regulations. The official requirements include Commission review of the plan, camera coverage, local approvals, transactions hidden from public view and age verification for every person in the vehicle both at entry and at the point of sale.",
+    "why": "The double ID check is not comic bureaucracy invented for a headline; it is the state's answer to a retail format in which several people can enter a controlled sales area at once. The Commission says drive-thrus may improve access for patients and consumers with mobility limitations, but approval is not automatic. Each operator still needs a compliant security plan and any required municipal permission, and products cannot be visible from the window.",
+    "angle": "The November 23 report, Commission rules and access-versus-security boundary end above. The Blappos interpretation: Massachusetts has opened a convenience window where everyone in the car is a passenger and also part of the paperwork. The storefront, workers, adults, IDs, sealed bag and Quincy streetscape are disclosed original AI-generated editorial illustration—not a real dispensary, customer, product, state seal or depiction of cannabis use.",
+    "amazonLinks": [
+      {"title":"Grass Roots: The Rise and Fall and Rise of Marijuana in America","image":"https://m.media-amazon.com/images/P/0465096166.01.LZZZZZZZ.jpg","alt":"Cover of Grass Roots by Emily Dufton","quip":"A documented history of the movements that turned a prohibited product into a locally regulated drive-thru transaction.","salesPriority":5,"url":"https://www.amazon.com/dp/0465096166?tag=blappos-20"},
+      {"title":"Seeing Through the Smoke","image":"https://m.media-amazon.com/images/P/1633888460.01.LZZZZZZZ.jpg","alt":"Cover of Seeing Through the Smoke by Peter Grinspoon","quip":"A physician's evidence-first guide to cannabis for keeping public-health facts separate from both panic and marketing.","salesPriority":5,"url":"https://www.amazon.com/dp/1633888460?tag=blappos-20"},
+      {"title":"The Cannabis Encyclopedia","image":"https://m.media-amazon.com/images/P/1878823345.01.LZZZZZZZ.jpg","alt":"Cover of The Cannabis Encyclopedia by Jorge Cervantes","quip":"A large reference work for the plant and products behind one very compact Massachusetts service window.","salesPriority":4,"url":"https://www.amazon.com/dp/1878823345?tag=blappos-20"}
+    ],
+    "source": "https://www.boston.com/news/business/2026/11/23/drive-thru-marijuana-massachusetts/",
+    "sourceName": "Read Boston.com's November 23 report and the Massachusetts Cannabis Control Commission rules",
+    "sourcePublisher": "Boston.com / Massachusetts Cannabis Control Commission",
+    "xSourcePublisher": "Boston.com / Mass. CCC",
+    "socialSummary": "Massachusetts now permits compliant cannabis drive-thrus; every vehicle occupant must have age verified at entry and again at the sale point, and each operator still needs security review and local approval.",
+    "socialPunchline": "Blappos: Next window, everybody's ID again."
+  },
+  {
+    "id": "nov23-virus-shell-game",
+    "isoDate": "2026-11-23",
+    "month": "November 2026",
+    "date": "Nov 23, 2026",
+    "place": "Miami, Florida",
+    "image": "assets/cards/nov23-virus-shell-game.jpg",
+    "title": "Tiny Viruses Put Evolution's Shell Game Back on the Table",
+    "facts": "A University of Miami report highlighted by ScienceDaily on November 23 described a group of small viruses identified by searching environmental databases containing billions of DNA sequences. The Nature Communications study found viruses with HK97-fold shell proteins and unusually small, simple genomes. Their proteins resemble both viral capsids and encapsulins—the protein compartments that cells use to enclose biochemical reactions—and the genomes lack the portal and tail genes found in more complex relatives.",
+    "why": "The mixed evolutionary groups and structural similarities support the authors' model that viruses and cellular compartments may have evolved from one another repeatedly through an immature shell state called a procapsid. That is a model built from metagenomic, phylogenetic and predicted-structure evidence, not a time-lapse of early life. Most of the viruses were not cultured, their hosts are unknown and the paper does not show that they cause human disease.",
+    "angle": "The November 23 digest, peer-reviewed paper and model-versus-observation boundary end above. The Blappos interpretation: evolution has been moving the same shell pieces between the information department and the chemistry department for billions of years. The capsids, compartments, sequence ribbons and Miami laboratory are disclosed original AI-generated editorial illustration—not a literal molecular structure, copied figure, cultured specimen, pathogen warning or medical claim.",
+    "amazonLinks": [
+      {"title":"A Planet of Viruses","image":"https://m.media-amazon.com/images/P/022678259X.01.LZZZZZZZ.jpg","alt":"Cover of A Planet of Viruses by Carl Zimmer","quip":"A concise tour of the virosphere for meeting the uncultured majority that exists mostly as sequences and evolutionary clues.","salesPriority":5,"url":"https://www.amazon.com/dp/022678259X?tag=blappos-20"},
+      {"title":"The Tangled Tree","image":"https://m.media-amazon.com/images/P/1476776636.01.LZZZZZZZ.jpg","alt":"Cover of The Tangled Tree by David Quammen","quip":"The modern evolutionary story of genes crossing familiar boundaries—useful context for a shell family that refuses a simple one-way history.","salesPriority":5,"url":"https://www.amazon.com/dp/1476776636?tag=blappos-20"},
+      {"title":"The Song of the Cell","image":"https://m.media-amazon.com/images/P/1982117354.01.LZZZZZZZ.jpg","alt":"Cover of The Song of the Cell by Siddhartha Mukherjee","quip":"A cell-biology panorama for understanding why a protein compartment can be as consequential as the chemistry it encloses.","salesPriority":4,"url":"https://www.amazon.com/dp/1982117354?tag=blappos-20"}
+    ],
+    "source": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
+    "sourceName": "Read the University of Miami November 23 report and the Nature Communications paper",
+    "sourcePublisher": "University of Miami / ScienceDaily / Nature Communications",
+    "xSourcePublisher": "U Miami / Nat. Commun.",
+    "socialSummary": "Researchers found small viruses in global sequence databases whose HK97-fold shells share features with cellular encapsulins, supporting a bidirectional evolutionary model; the viruses were not cultured and are not a human-disease claim.",
+    "socialPunchline": "Blappos: Evolution moved the same shell to two departments."
+  },
+  {
+    "id": "nov23-challenger-deep",
+    "isoDate": "2026-11-23",
+    "month": "November 2026",
+    "date": "Nov 23, 2026",
+    "place": "Challenger Deep, western Pacific",
+    "image": "assets/cards/nov23-challenger-deep.jpg",
+    "title": "The Deepest Known Pyroclastic Rocks Turn Up Where Volcanoes Should Behave",
+    "facts": "Frontiers reported on November 23 that the ROV Jason/Medea recovered welded pyroclastic rocks at depths greater than 6,000 meters on the forearc near Challenger Deep. The peer-reviewed Frontiers in Earth Science paper identifies them as the deepest known pyroclastic deposits in the ocean. The 2024 expedition reached 6,148 meters at the key site and found evidence of volcanic flows that stayed hot enough to weld after moving downslope, even though the team has not located the eruption vents.",
+    "why": "At more than 600 bars of water pressure, gases cannot expand the way they do in an ordinary surface eruption, and volcanism is also unusual this close to a trench. The authors propose that volatile-rich magma and supercritical fluids may explain a distinct, less violent kind of deep-sea explosive volcanism. The rocks are direct evidence; the eruption mechanism, exact vents and detailed geochemistry remain under study.",
+    "angle": "The November 23 paper, expedition record and evidence-versus-mechanism boundary end above. The Blappos interpretation: the volcano ignored both the pressure and the neighborhood rules. The ROV, glowing trench wall, depth gauge and tectonic cutaway are disclosed original AI-generated editorial illustration—not expedition photography, the real vehicle, a located vent or a literal underwater fire scene.",
+    "amazonLinks": [
+      {"title":"The Underworld: Journeys to the Depths of the Ocean","image":"https://m.media-amazon.com/images/P/0385545576.01.LZZZZZZZ.jpg","alt":"Cover of The Underworld by Susan Casey","quip":"A reported journey into the hadal ocean for appreciating what 6,148 meters means before adding a volcanic surprise.","salesPriority":5,"url":"https://www.amazon.com/dp/0385545576?tag=blappos-20"},
+      {"title":"Mapping the Deep","image":"https://m.media-amazon.com/images/P/0393320634.01.LZZZZZZZ.jpg","alt":"Cover of Mapping the Deep by Robert Kunzig","quip":"A classic account of deep-ocean science for the expedition that went looking for crust and found welded eruption debris.","salesPriority":5,"url":"https://www.amazon.com/dp/0393320634?tag=blappos-20"},
+      {"title":"The Brilliant Abyss","image":"https://m.media-amazon.com/images/P/0802158226.01.LZZZZZZZ.jpg","alt":"Cover of The Brilliant Abyss by Helen Scales","quip":"A modern deep-sea tour for placing one impossible-looking rock deposit inside a vast, pressured and poorly sampled world.","salesPriority":4,"url":"https://www.amazon.com/dp/0802158226?tag=blappos-20"}
+    ],
+    "source": "https://www.frontiersin.org/news/2026/11/23/robot-submarine-deepest-ocean-trench-unprecedented-volcanic-activity-frontiers-earth-science",
+    "sourceName": "Read Frontiers' November 23 report and the open Frontiers in Earth Science paper",
+    "sourcePublisher": "Frontiers / Frontiers in Earth Science",
+    "xSourcePublisher": "Frontiers Earth Science",
+    "socialSummary": "An ROV recovered the deepest known oceanic pyroclastic deposits beyond 6,000 meters near Challenger Deep; the vents remain unfound and a supercritical-fluid eruption mechanism is still a hypothesis.",
+    "socialPunchline": "Blappos: The volcano ignored the pressure and the neighborhood rules."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov23StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov23StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 23 purchase gate: these stories remain invisible until Printify publishes each exact physical magnet and writes its storefront URL and price into the matching object.
+// November 23 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.

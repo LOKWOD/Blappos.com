@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-24 — November 23 rule, model and deposit matrix
+
+### Massachusetts Cannabis Control Commission public-information team
+- Target: Commission staff responsible for the drive-thru clarification and public consumer guidance
+- Route: https://masscannabiscontrol.com/contact/
+- Asset match: https://blappos.com/verification/#nov23-quincy-drive-thru
+- Honest angle: A reusable authorization-versus-automatic-approval explainer that links the Commission's own rule, preserves the two-stage all-occupant ID requirement and clearly separates mobility access from security review and municipal permission. A correction or resource-share opportunity only if the Commission considers it accurate and useful.
+
+### University of Miami College of Arts and Sciences research communications
+- Target: Abelardo Aguilar, Antoni Luque and communications staff responsible for the HK97-fold virus study
+- Route: https://news.miami.edu/stories/topics/science-technology.html
+- Asset match: https://blappos.com/verification/#nov23-virus-shell-game
+- Honest angle: A plain-language model-versus-observation digest that links the open Nature Communications paper, explains the procapsid bridge without claiming a witnessed evolutionary transition and keeps unknown hosts and uncultured-virus status visible.
+
+### Frontiers in Earth Science editorial and research-communications team
+- Target: Editors and authors responsible for the Challenger Deep forearc study and November 23 public report
+- Route: https://www.frontiersin.org/about/contact-us
+- Asset match: https://blappos.com/verification/#nov23-challenger-deep
+- Honest angle: A deposit-versus-vent-versus-mechanism reference that preserves the >6,000-meter finding, 6,148-meter expedition site and supercritical-fluid hypothesis while stating that vents remain unfound and geochemistry remains under study. No outreach has been sent.
+
 ## 2026-11-22 — November 21 identity, prediction and causation matrix
 
 ### Westminster Abbey archaeology and collections team
