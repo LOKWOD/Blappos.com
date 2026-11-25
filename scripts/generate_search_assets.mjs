@@ -50,6 +50,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov24-drone-shampoo': 'nov24-drone-shampoo',
+    'nov24-gravity-message': 'nov24-gravity-message',
+    'nov24-purple-highway': 'nov24-purple-highway',
     'nov23-quincy-drive-thru': 'nov23-quincy-drive-thru',
     'nov23-virus-shell-game': 'nov23-virus-shell-game',
     'nov23-challenger-deep': 'nov23-challenger-deep',
@@ -259,6 +262,11 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov24-drone-shampoo': ['nov4-flight-path', 'sep13-self-driving-cab', 'sep18-air-traffic-glitch'],
+  'nov24-gravity-message': ['nov18-voyager-light-day', 'nov21-quantum-clock', 'nov14-ed138'],
+  'nov24-purple-highway': ['sep20-turf-heat', 'sep26-clean-air', 'oct4-sewer-gold'],
+  'nov4-flight-path': ['nov24-drone-shampoo', 'nov18-peanut-baggage', 'sep18-air-traffic-glitch'],
+  'sep20-turf-heat': ['nov24-purple-highway', 'sep26-clean-air', 'oct4-sewer-gold'],
   'nov23-quincy-drive-thru': ['nov5-tomb-drug-test', 'oct20-plant-help-desk', 'oct1-ambulance-photo'],
   'nov23-virus-shell-game': ['nov19-sea-pig-symbiont', 'nov22-jonathan-genome', 'jun-bacteria'],
   'nov23-challenger-deep': ['nov15-metal-potatoes', 'oct23-lionfish-tasting', 'oct8-water-mammal'],
@@ -273,7 +281,7 @@ const topicLinks = {
   'nov19-manhole-dog': ['sep22-storm-drain-dogs', 'nov13-sheep-roper', 'nov15-mcnugget-monkey'],
   'sep30-fire-handstand': ['nov19-liberty-43-seconds', 'sep28-hula-team', 'oct27-knuckle-handstand'],
   'sep22-storm-drain-dogs': ['nov19-manhole-dog', 'nov13-sheep-roper', 'sep9-recliner-dog'],
-  'nov18-voyager-light-day': ['nov21-quantum-clock', 'nov15-mylar-moon', 'nov12-mars-organic-carbon'],
+  'nov18-voyager-light-day': ['nov24-gravity-message', 'nov21-quantum-clock', 'nov15-mylar-moon'],
   'nov18-peanut-baggage': ['nov22-cabin-cat', 'nov4-flight-path', 'sep18-air-traffic-glitch'],
   'nov18-dog-coyote-pack': ['oct13-cat-burglar-dog-bowl', 'nov5-two-tool-beak', 'nov16-red-crab-commute'],
   'nov17-owl-frog-bones': ['nov21-westminster-sarcophagus', 'nov13-abydos-retainers', 'nov15-metal-potatoes'],

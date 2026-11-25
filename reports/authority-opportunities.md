@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-25 — November 24 incident, signal and substance matrix
+
+### FAA preliminary-incident data and drone-safety public-information team
+- Target: FAA staff responsible for preliminary accident and incident records and public unmanned-aircraft safety information
+- Route: https://www.faa.gov/data_research/accident_incident/preliminary_data
+- Asset match: https://blappos.com/verification/#nov24-drone-shampoo
+- Honest angle: A reusable preliminary-record-versus-final-cause explainer that links the FAA's own data, preserves the cable, garage and power-line sequence and refuses to infer the technical cause while the investigation is open. A correction or resource-share opportunity only if the agency considers the summary accurate and useful.
+
+### University of Queensland School of Mathematics and Physics communications
+- Target: Tim Collett, Thomas M. Stace and research-communications staff responsible for the gravity-communication experiment
+- Route: https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity
+- Asset match: https://blappos.com/verification/#nov24-gravity-message
+- Honest angle: A plain-language signal-versus-practical-system digest that links the open paper, preserves the 1.8-metric-ton counterweight and one-bit-per-minute rate and explains why “through a wall” does not mean deployable gravity Wi-Fi.
+
+### New York State Department of Environmental Conservation public-information team
+- Target: DEC staff responsible for spill response and the agency's attributed car-wash-dye identification
+- Route: https://dec.ny.gov/about/contact-us
+- Asset match: https://blappos.com/verification/#nov24-purple-highway
+- Honest angle: A composition-versus-hazard reference that credits agency and county testing, keeps the nonhazardous finding separate from the unknown leak mechanism and cleanup timeline and explicitly avoids giving handling or cleanup advice. No outreach has been sent.
+
 ## 2026-11-24 — November 23 rule, model and deposit matrix
 
 ### Massachusetts Cannabis Control Commission public-information team
