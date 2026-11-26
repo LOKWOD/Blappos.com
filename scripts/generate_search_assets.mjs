@@ -50,6 +50,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov25-mario-cib': 'nov25-mario-cib',
+    'nov25-donkey-tail': 'nov25-donkey-tail',
+    'nov25-positron-tenant': 'nov25-positron-tenant',
     'nov24-drone-shampoo': 'nov24-drone-shampoo',
     'nov24-gravity-message': 'nov24-gravity-message',
     'nov24-purple-highway': 'nov24-purple-highway',
@@ -262,6 +265,10 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov25-mario-cib': ['nov11-sixpence', 'oct8-sewer-ring', 'nov1-monster-placement'],
+  'nov25-donkey-tail': ['nov13-sheep-roper', 'nov11-horses-bus', 'oct25-madrid-sheep-detour'],
+  'nov25-positron-tenant': ['nov21-quantum-clock', 'nov24-gravity-message', 'nov18-voyager-light-day'],
+  'nov11-sixpence': ['nov25-mario-cib', 'nov21-westminster-sarcophagus', 'nov16-falmouth-safe-heat'],
   'nov24-drone-shampoo': ['nov4-flight-path', 'sep13-self-driving-cab', 'sep18-air-traffic-glitch'],
   'nov24-gravity-message': ['nov18-voyager-light-day', 'nov21-quantum-clock', 'nov14-ed138'],
   'nov24-purple-highway': ['sep20-turf-heat', 'sep26-clean-air', 'oct4-sewer-gold'],
@@ -274,7 +281,7 @@ const topicLinks = {
   'nov22-jonathan-genome': ['nov19-sea-pig-symbiont', 'nov15-metal-potatoes', 'oct27-earwax-barrier'],
   'nov22-cabin-cat': ['nov4-flight-path', 'sep18-air-traffic-glitch', 'nov18-peanut-baggage'],
   'nov21-westminster-sarcophagus': ['nov11-sixpence', 'nov17-owl-frog-bones', 'nov4-roman-glass'],
-  'nov21-quantum-clock': ['nov18-voyager-light-day', 'nov14-ed138', 'nov12-mars-organic-carbon'],
+  'nov21-quantum-clock': ['nov25-positron-tenant', 'nov18-voyager-light-day', 'nov14-ed138'],
   'nov21-sea-lion-patio': ['oct23-lionfish-tasting', 'nov16-red-crab-commute', 'oct8-water-mammal'],
   'nov19-liberty-43-seconds': ['sep30-fire-handstand', 'sep28-hula-team', 'oct16-scrapple-sculpture'],
   'nov19-sea-pig-symbiont': ['nov23-virus-shell-game', 'nov22-jonathan-genome', 'nov15-metal-potatoes'],
@@ -299,7 +306,7 @@ const topicLinks = {
   'nov14-ed138': ['oct21-space-object', 'nov6-swift-farewell'],
   'nov13-inflated-alligator': ['oct21-crocs-warm-climates', 'oct8-water-mammal'],
   'nov13-abydos-retainers': ['nov17-owl-frog-bones', 'nov5-tomb-drug-test', 'nov3-bronze-age-urolith'],
-  'nov13-sheep-roper': ['oct25-madrid-sheep-detour', 'sep21-cow-airlift'],
+  'nov13-sheep-roper': ['nov25-donkey-tail', 'oct25-madrid-sheep-detour', 'sep21-cow-airlift'],
   'nov6-swift-farewell': ['oct13-perseverance-distance-record', 'sep28-starship-orbit', 'nov3-betelgeuse-plus-one'],
   'nov6-blueberry-larva': ['nov1-knee-oil-beetle', 'oct27-earwax-barrier', 'sep20-turf-heat'],
   'nov6-oxoboranes': ['oct7-mirror-molecules', 'nov4-roman-glass', 'oct27-earwax-barrier'],

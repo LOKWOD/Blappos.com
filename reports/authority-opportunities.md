@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-26 — November 25 object, record and containment matrix
+
+### Heritage Auctions video-games editorial team
+- Target: Catalog and public-relations staff responsible for the first-production Super Mario Bros. lot and November 25 results release
+- Route: https://www.ha.com/about/contact-us.s
+- Asset match: https://blappos.com/verification/#nov25-mario-cib
+- Honest angle: A category-preserving collectible-object explainer that links the exact lot and release, distinguishes complete-in-box from sealed and keeps PSA grade, production variant and included paper components attached to the $96,875 result. A correction or resource-share opportunity only if Heritage considers the summary accurate.
+
+### Guinness World Records editorial team
+- Target: Records staff responsible for Hope's longest-tail-on-a-donkey result
+- Route: https://www.guinnessworldrecords.com/contact
+- Asset match: https://blappos.com/verification/#nov25-donkey-tail
+- Honest angle: A measurement-clock reference that preserves the September 11 veterinary measurement, independent witnesses, later notification and November 25 reporting date while refusing to expand one record category into a size or health claim.
+
+### Northwestern University science communications
+- Target: Gerald Gabrielse, the positron quantum-cyclotron team and research communications staff
+- Route: https://news.northwestern.edu/contact-us
+- Asset match: https://blappos.com/verification/#nov25-positron-tenant
+- Honest angle: A plain-language containment-versus-result digest linking the PRL paper and university release, explaining field-based wall-free suspension and preserving the crucial boundary between a precision platform and an observed CPT-symmetry violation. No outreach has been sent.
+
 ## 2026-11-25 — November 24 incident, signal and substance matrix
 
 ### FAA preliminary-incident data and drone-safety public-information team

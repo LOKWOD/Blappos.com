@@ -6198,3 +6198,80 @@ window.dailyStories = window.dailyStories.filter(story => !nov24StagingStories.s
 window.dailyStories.unshift(...nov24StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
 // November 24 purchase gate: these stories remain invisible until Printify publishes each exact physical magnet and writes its storefront URL and price into the matching object.
 // November 24 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
+
+const nov25StagingStories = [
+  {
+    "id": "nov25-mario-cib",
+    "isoDate": "2026-11-25",
+    "month": "November 2026",
+    "date": "Nov 25, 2026",
+    "place": "Dallas, Texas",
+    "image": "assets/cards/nov25-mario-cib.jpg",
+    "title": "A Used Mario Box Sells for $96,875 Because the Manual Survived",
+    "facts": "Heritage Auctions announced on November 25 that a PSA 9.0 complete-in-box copy of the first-production 1985 Super Mario Bros. sold for $96,875 in its November 20–21 video-game auction. Heritage says the matte-sticker copy set records both for a first-production copy of the game and for any complete-in-box video game. Complete-in-box does not mean factory sealed: this lot included the cartridge, box, manual and original components after the package had been opened.",
+    "why": "The price shows how the collectible-game market separates an intact early package from a loose cartridge or sealed copy. The record category, grade, production variant and surviving paper components all matter; dropping any of those qualifiers would turn a specific auction result into a misleading claim about every old copy. The $96,875 figure is the reported sale price for one graded lot, not an appraisal for ordinary household copies.",
+    "angle": "The November 25 auction release, exact lot page and category boundary end above. The Blappos interpretation: the manual added a down payment. The generic cartridge, opened box, paper manual, auction room and price tag are disclosed original AI-generated editorial illustration—not the auction lot, a Nintendo product image, a Mario character, a copied box design or valuation advice.",
+    "amazonLinks": [
+      {"title":"Super Mario Encyclopedia: The Official Guide to the First 30 Years","image":"https://m.media-amazon.com/images/P/1506708978.01.LZZZZZZZ.jpg","alt":"Cover of Super Mario Encyclopedia","quip":"A licensed history of the series for understanding why one first-production box and manual can become auction-room archaeology.","salesPriority":5,"url":"https://www.amazon.com/dp/1506708978?tag=blappos-20"},
+      {"title":"The Game Console 2.0: A Photographic History from Atari to Xbox","image":"https://m.media-amazon.com/images/P/1718500602.01.LZZZZZZZ.jpg","alt":"Cover of The Game Console 2.0 by Evan Amos","quip":"A hardware-focused photographic history for placing that little 1985 cartridge inside the much larger console timeline.","salesPriority":5,"url":"https://www.amazon.com/dp/1718500602?tag=blappos-20"},
+      {"title":"The Ultimate History of Video Games, Volume 2","image":"https://m.media-amazon.com/images/P/1984825437.01.LZZZZZZZ.jpg","alt":"Cover of The Ultimate History of Video Games, Volume 2 by Steven L. Kent","quip":"Industry history for the business battle that turned complete packaging into a five-figure collectible category.","salesPriority":4,"url":"https://www.amazon.com/dp/1984825437?tag=blappos-20"}
+    ],
+    "source": "https://www.ha.com/heritage-auctions-press-releases-and-news/-96-875-for-super-mario-bros.-sets-complete-in-box-game-world-record-at-2.5-million-heritage-video-games-auction.s?releaseId=5598",
+    "sourceName": "Read Heritage Auctions' November 25 release and exact lot page",
+    "sourcePublisher": "Heritage Auctions",
+    "xSourcePublisher": "Heritage Auctions",
+    "socialSummary": "A PSA 9.0 complete-in-box first-production 1985 Super Mario Bros. copy sold for $96,875, setting records for a first-production copy and any complete-in-box video game.",
+    "socialPunchline": "Blappos: The manual added a down payment."
+  },
+  {
+    "id": "nov25-donkey-tail",
+    "isoDate": "2026-11-25",
+    "month": "November 2026",
+    "date": "Nov 25, 2026",
+    "place": "Byron, Georgia",
+    "image": "assets/cards/nov25-donkey-tail.jpg",
+    "title": "Georgia's Former Ear Champion Returns With the World's Longest Donkey Tail",
+    "facts": "UPI reported on November 25 that Hope, an American Mammoth Jackstock jenny at Frost Farm in Byron, Georgia, earned the Guinness World Records title for the longest tail on a donkey at 19.97 inches. Her tail was measured on September 11 by a veterinarian with independent witnesses, and Guinness notified owner Sharon Rosser last week. Hope had held the longest-ears title at 15 inches before Hank, another American Mammoth Jackstock, surpassed it in August with 17.12-inch ears.",
+    "why": "A record announcement, measurement date and news date are three different clocks. The claim is narrow and repeatable: 19.97 inches in the Guinness donkey-tail category under the documented procedure. It does not establish that Hope is the largest donkey, that unusually long tails are medically beneficial or that every measurement would produce the same number. The earlier ear title explains the comeback; it is not part of the new tail measurement.",
+    "angle": "The November 25 report, September 11 measurement and record-category boundary end above. The Blappos interpretation: lost the ears, won the rear. The generic gray mammoth donkey, measuring tape, farm show, veterinarian and Georgia orchard are disclosed original AI-generated editorial illustration—not Hope, Frost Farm, Guinness photography, a copied certificate or animal-care guidance.",
+    "amazonLinks": [
+      {"title":"Donkeys: Miniature, Standard, and Mammoth","image":"https://m.media-amazon.com/images/P/1570764182.01.LZZZZZZZ.jpg","alt":"Cover of Donkeys: Miniature, Standard, and Mammoth by Stephen R. Purdy","quip":"A veterinary guide whose mammoth-donkey coverage is considerably more practical than measuring a champion tail for the mantel.","salesPriority":5,"url":"https://www.amazon.com/dp/1570764182?tag=blappos-20"},
+      {"title":"The Wisdom of Donkeys","image":"https://m.media-amazon.com/images/P/0802719929.01.LZZZZZZZ.jpg","alt":"Cover of The Wisdom of Donkeys by Andy Merrifield","quip":"A reflective journey with a donkey for the record holder whose second act arrived from the opposite end.","salesPriority":5,"url":"https://www.amazon.com/dp/0802719929?tag=blappos-20"},
+      {"title":"Donkey: The Mystique of Equus Asinus","image":"https://m.media-amazon.com/images/P/1571782028.01.LZZZZZZZ.jpg","alt":"Cover of Donkey: The Mystique of Equus Asinus by Michael Tobias and Jane Gray Morrison","quip":"An illustrated survey of donkey history, science and lore for appreciating Hope beyond the two measurements that made headlines.","salesPriority":4,"url":"https://www.amazon.com/dp/1571782028?tag=blappos-20"}
+    ],
+    "source": "https://www.upi.com/Odd_News/2026/11/25/guinness-world-records-longest-tail-donkey/9861795625258/",
+    "sourceName": "Read UPI's November 25 report and the linked Guinness record context",
+    "sourcePublisher": "UPI / Guinness World Records",
+    "xSourcePublisher": "UPI / Guinness",
+    "socialSummary": "Hope, an American Mammoth Jackstock in Georgia, lost the longest-ear title, then earned a Guinness record with a 19.97-inch tail measured under official rules.",
+    "socialPunchline": "Blappos: Lost the ears. Won the rear."
+  },
+  {
+    "id": "nov25-positron-tenant",
+    "isoDate": "2026-11-25",
+    "month": "November 2026",
+    "date": "Nov 25, 2026",
+    "place": "Evanston, Illinois",
+    "image": "assets/cards/nov25-positron-tenant.jpg",
+    "title": "A Single Antimatter Particle Gets a Wall-Free Apartment for Months",
+    "facts": "A November 25 ScienceDaily digest highlighted Northwestern University researchers' first quantum-cyclotron control of a single positron. Electric and magnetic fields in a Penning trap suspend the antimatter particle in vacuum so it avoids ordinary matter, while cryogenic cooling brings it to about 300 millikelvins. The team reported resolving and controlling individual cyclotron quantum transitions and says a positron can remain trapped for months or, in principle, indefinitely.",
+    "why": "A long-lived, controllable single positron gives physicists a clean route toward a more precise comparison of the positron's magnetic moment with the electron's. Such a comparison can test charge-parity-time symmetry, a foundational prediction of modern physics. The experiment does not report a symmetry violation or explain the universe's matter dominance; it supplies the control platform needed to ask the comparison more sharply.",
+    "angle": "The November 25 digest, Northwestern release, Physical Review Letters paper and future-test boundary end above. The Blappos interpretation: one tenant, zero walls. The generic Penning trap, glowing point, laboratory controls and scientist are disclosed original AI-generated editorial illustration—not the real apparatus, a paper figure, a university facility, a literal visible positron or evidence of a symmetry violation.",
+    "amazonLinks": [
+      {"title":"Antimatter","image":"https://m.media-amazon.com/images/P/0199578877.01.LZZZZZZZ.jpg","alt":"Cover of Antimatter by Frank Close","quip":"A concise scientific history of antimatter for the one-particle tenant that must never touch the building.","salesPriority":5,"url":"https://www.amazon.com/dp/0199578877?tag=blappos-20"},
+      {"title":"The Particle at the End of the Universe","image":"https://m.media-amazon.com/images/P/0142180300.01.LZZZZZZZ.jpg","alt":"Cover of The Particle at the End of the Universe by Sean Carroll","quip":"A readable tour of modern particle physics for placing one trapped positron inside the symmetry questions physicists still chase.","salesPriority":5,"url":"https://www.amazon.com/dp/0142180300?tag=blappos-20"},
+      {"title":"One, Two, Three...Infinity","image":"https://m.media-amazon.com/images/P/0486256642.01.LZZZZZZZ.jpg","alt":"Cover of One, Two, Three...Infinity by George Gamow","quip":"A classic popular-science bridge from single particles to enormous cosmological questions—without pretending this experiment solved them.","salesPriority":4,"url":"https://www.amazon.com/dp/0486256642?tag=blappos-20"}
+    ],
+    "source": "https://news.northwestern.edu/stories/2026/10/scientists-trap-and-tame-a-single-particle-of-antimatter-for-months",
+    "sourceName": "Read Northwestern's primary release, the Physical Review Letters paper and ScienceDaily's November 25 digest",
+    "sourcePublisher": "Northwestern University / Physical Review Letters / ScienceDaily",
+    "xSourcePublisher": "Northwestern / PRL",
+    "socialSummary": "Northwestern physicists trapped one positron in a wall-free Penning trap, cooled it near absolute zero and controlled its quantum states, setting up a future precision comparison with the electron.",
+    "socialPunchline": "Blappos: One tenant. Zero walls."
+  }
+];
+
+window.dailyStories = window.dailyStories.filter(story => !nov25StagingStories.some(item => item.id === story.id));
+window.dailyStories.unshift(...nov25StagingStories.filter(story => story.magnetUrl && story.magnetPrice));
+// November 25 purchase gate: these stories remain invisible until Printify publishes each exact physical magnet and writes its storefront URL and price into the matching object.
+// November 25 affiliate-card QA: each staged story has exactly three image-verified direct Amazon /dp/ASIN links with tag=blappos-20 exactly once.
