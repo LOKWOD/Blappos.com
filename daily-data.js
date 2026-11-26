@@ -6207,7 +6207,7 @@ const nov25StagingStories = [
     "date": "Nov 25, 2026",
     "place": "Dallas, Texas",
     "image": "assets/cards/nov25-mario-cib.jpg",
-    "title": "A Used Mario Box Sells for $96,875 Because the Manual Survived",
+    "title": "A Used Mario Box Sells for $96,875 Because the Manual Survived","magnetUrl":"https://blappos.printify.me/product/35074902","magnetPrice":"$9.99",
     "facts": "Heritage Auctions announced on November 25 that a PSA 9.0 complete-in-box copy of the first-production 1985 Super Mario Bros. sold for $96,875 in its November 20–21 video-game auction. Heritage says the matte-sticker copy set records both for a first-production copy of the game and for any complete-in-box video game. Complete-in-box does not mean factory sealed: this lot included the cartridge, box, manual and original components after the package had been opened.",
     "why": "The price shows how the collectible-game market separates an intact early package from a loose cartridge or sealed copy. The record category, grade, production variant and surviving paper components all matter; dropping any of those qualifiers would turn a specific auction result into a misleading claim about every old copy. The $96,875 figure is the reported sale price for one graded lot, not an appraisal for ordinary household copies.",
     "angle": "The November 25 auction release, exact lot page and category boundary end above. The Blappos interpretation: the manual added a down payment. The generic cartridge, opened box, paper manual, auction room and price tag are disclosed original AI-generated editorial illustration—not the auction lot, a Nintendo product image, a Mario character, a copied box design or valuation advice.",
