@@ -6230,7 +6230,7 @@ const nov25StagingStories = [
     "date": "Nov 25, 2026",
     "place": "Byron, Georgia",
     "image": "assets/cards/nov25-donkey-tail.jpg",
-    "title": "Georgia's Former Ear Champion Returns With the World's Longest Donkey Tail",
+    "title": "Georgia's Former Ear Champion Returns With the World's Longest Donkey Tail","magnetUrl":"https://blappos.printify.me/product/35074905","magnetPrice":"$9.99",
     "facts": "UPI reported on November 25 that Hope, an American Mammoth Jackstock jenny at Frost Farm in Byron, Georgia, earned the Guinness World Records title for the longest tail on a donkey at 19.97 inches. Her tail was measured on September 11 by a veterinarian with independent witnesses, and Guinness notified owner Sharon Rosser last week. Hope had held the longest-ears title at 15 inches before Hank, another American Mammoth Jackstock, surpassed it in August with 17.12-inch ears.",
     "why": "A record announcement, measurement date and news date are three different clocks. The claim is narrow and repeatable: 19.97 inches in the Guinness donkey-tail category under the documented procedure. It does not establish that Hope is the largest donkey, that unusually long tails are medically beneficial or that every measurement would produce the same number. The earlier ear title explains the comeback; it is not part of the new tail measurement.",
     "angle": "The November 25 report, September 11 measurement and record-category boundary end above. The Blappos interpretation: lost the ears, won the rear. The generic gray mammoth donkey, measuring tape, farm show, veterinarian and Georgia orchard are disclosed original AI-generated editorial illustration—not Hope, Frost Farm, Guinness photography, a copied certificate or animal-care guidance.",
