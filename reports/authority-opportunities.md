@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-27 — November 26 custody, classification and measurement matrix
+
+### Consulate General of Mexico in Boston / cultural-protection team
+- Target: Consular and cultural staff responsible for receiving and documenting the 1,132 returned Mexican objects
+- Route: https://consulmex.sre.gob.mx/boston/index.php/contacto
+- Asset match: https://blappos.com/verification/#nov26-artifact-dumpster
+- Honest angle: A custody-versus-ownership source digest that links Mexico's exact itemized inventory, credits the student cataloging work and preserves the missing excavation-history and monetary-value limits. A correction or resource-share opportunity only if the consulate considers the English-language summary accurate and useful.
+
+### American Museum of Natural History science communications
+- Target: Xavier Jenkins, the Division of Paleontology and communications staff responsible for the <em>Westlothiana</em> study
+- Route: https://www.amnh.org/about/press-center
+- Asset match: https://blappos.com/verification/#nov26-westlothiana-xray
+- Honest angle: A plain-language anatomy-versus-classification digest linking the Nature paper and AMNH release, keeping internal gills, extensive denticles and the stem-tetrapod placement together while refusing to convert a mosaic fossil into a one-word habitat claim.
+
+### Guardian Australia environment desk
+- Target: The reporter and editors responsible for the November 26 Frank and Tiny Tim profile
+- Route: https://www.theguardian.com/help/contact-us
+- Asset match: https://blappos.com/verification/#nov26-giant-steers
+- Honest angle: A measurement-versus-record reference that credits the original reporting, preserves both 192-centimeter measurements and explicitly declines to claim an adjudicated Australian or world record. No outreach has been sent.
+
 ## 2026-11-26 — November 25 object, record and containment matrix
 
 ### Heritage Auctions video-games editorial team
