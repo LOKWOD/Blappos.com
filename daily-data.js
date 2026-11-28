@@ -6407,7 +6407,7 @@ const nov27StagingStories = [
     "date": "Nov 27, 2026",
     "place": "Nairobi, Kenya",
     "image": "assets/cards/nov27-wooden-dj.jpg",
-    "title": "Nairobi DJ Builds a Wooden Deck and Uses a Dinner Fork to Scratch",
+    "title": "Nairobi DJ Builds a Wooden Deck and Uses a Dinner Fork to Scratch","magnetUrl":"https://blappos.printify.me/product/35169455","magnetPrice":"$9.99",
     "facts": "A November 27 Africanews report carrying Associated Press reporting profiled 29-year-old Paul Mwangi, who performs in Nairobi as Deejay Boboss on a homemade wooden DJ deck. The working console combines plywood, discarded radio motherboards, bottle-cap controls and towel-holder rails. Mwangi uses an ordinary fork to interrupt contacts on the exposed circuitry and produce scratch-like effects. The project began with a plastic jerrycan converted into a speaker before he expanded the system.",
     "why": "The deck is a vivid example of repair culture, reuse and self-taught electronics turning scarce equipment into a public performance tool. The report verifies that Mwangi built and performs with the rig; it does not publish a replicable circuit design, establish electrical safety, or show that a fork is suitable for ordinary powered electronics. The article's function claim is therefore narrower than a how-to guide.",
     "angle": "The November 27 report, described materials and function-versus-instruction boundary end above. The Blappos interpretation: the fork dropped the beat. The fictional performer, wooden console, bottle-cap knobs, reused boards, towel rails, fork, bus stop and dancing crowd are disclosed original AI-generated editorial illustration—not Paul Mwangi, his exact rig, AP photography, a copied matatu design or electronics advice.",
