@@ -2,6 +2,26 @@
 
 This log records narrow, legitimate opportunities for the exact public-reference assets Blappos publishes. No outreach has been sent, no links have been bought or traded, and inclusion is not requested in exchange for coverage.
 
+## 2026-11-28 — November 27 structure, conversion and function matrix
+
+### Paul Scherrer Institute media relations
+- Target: Marianne Liebi, the tensor-tomography team and PSI communications staff responsible for the narwhal-tusk release
+- Route: https://www.psi.ch/en/news/media-releases/how-the-unicorn-of-the-seas-got-its-helix
+- Asset match: https://blappos.com/verification/#nov27-narwhal-tusk
+- Honest angle: A structure-versus-function source digest that links the Nature Communications paper, preserves the opposing cementum and dentin helixes and explains why tomography can support a torsion-resistance interpretation without settling every biological use of the tusk. A correction or resource-share opportunity only if PSI considers the summary accurate and useful.
+
+### Virginia Tech research communications
+- Target: Greg Liu's PVC-upcycling team and the research-communications staff responsible for the August primary release
+- Route: https://news.vt.edu/articles/2026/08/science-chemistry-liu-pvc-lubricant.html
+- Asset match: https://blappos.com/verification/#nov27-pvc-oil
+- Honest angle: A laboratory-feasibility-versus-commercial-readiness reference that keeps the 158°F, three-hour reaction attached to unresolved solvent, catalyst, feedstock, purification and scale questions. The page credits the primary release and Nature paper rather than presenting the November digest as a new experiment.
+
+### Associated Press Africa desk
+- Target: Evelyne Musambi, Jackson Njehia and editors responsible for the Deejay Boboss report
+- Route: https://www.ap.org/contact-us/
+- Asset match: https://blappos.com/verification/#nov27-wooden-dj
+- Honest angle: A function-versus-instruction digest that credits AP's firsthand reporting, preserves the plywood, salvaged radio boards, bottle caps, towel holders and fork details, and explicitly avoids converting a working reported rig into electrical-safety advice. No outreach has been sent.
+
 ## 2026-11-27 — November 26 custody, classification and measurement matrix
 
 ### Consulate General of Mexico in Boston / cultural-protection team
@@ -527,16 +547,4 @@ This log records narrow, legitimate opportunities for the exact public-reference
 - Target: Forest Service public-records and reading-room staff responsible for the Bigfoot/Sasquatch release
 - Route: https://www.fs.usda.gov/about-agency/foia
 - Asset match: https://blappos.com/verification/#nov22-bigfoot-files
-- Honest angle: A public-record literacy digest that credits the agency's preserved measurements and field assessments while making explicit that document release is not agency endorsement and that the newly posted file describes a 1982 investigation.
-
-### University of Cambridge Research Communications
-- Target: Communications staff for the Jonathan genome and methylome study
-- Route: https://www.cam.ac.uk/research/news/genetic-analysis-of-the-worlds-oldest-land-animal-reveals-secret-of-living-194-years
-- Asset match: https://blappos.com/verification/#nov22-jonathan-genome
-- Honest angle: A reusable direct-evidence/inference/claim-ceiling summary that preserves the 287-variant result and methylation finding while clearly refusing the unsupported leap from one exceptional tortoise to a human anti-aging treatment.
-
-### Boston.com Off Beat desk
-- Target: Editors responsible for the November 22 Flight 2706 report
-- Route: https://www.boston.com/contact-us/
-- Asset match: https://blappos.com/verification/#nov22-cabin-cat
-- Honest angle: A compact incident-verification reference that credits the local report and attributed airline outcome, preserves the authentic controller punchline and separates the known taxiway hold from unknown details about the cat and kennel.
+- Honest angle: A public-record literacy digest that credits the agency's preserved measurements and field assessments while making ex

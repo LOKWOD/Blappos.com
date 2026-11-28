@@ -50,6 +50,9 @@ function isoDate(story) {
 
 function verificationLink(story) {
   const anchors = {
+    'nov27-narwhal-tusk': 'nov27-narwhal-tusk',
+    'nov27-pvc-oil': 'nov27-pvc-oil',
+    'nov27-wooden-dj': 'nov27-wooden-dj',
     'nov26-artifact-dumpster': 'nov26-artifact-dumpster',
     'nov26-westlothiana-xray': 'nov26-westlothiana-xray',
     'nov26-giant-steers': 'nov26-giant-steers',
@@ -268,8 +271,11 @@ const stories = [...loadStories('archive-data.js', 'archiveStories'), ...loadSto
 const chronological = [...stories].sort((a, b) => isoDate(b).localeCompare(isoDate(a)));
 const byMonth = story => isoDate(story).slice(0, 7);
 const topicLinks = {
+  'nov27-narwhal-tusk': ['nov26-westlothiana-xray', 'oct27-earwax-barrier', 'nov19-sea-pig-symbiont'],
+  'nov27-pvc-oil': ['nov15-mylar-moon', 'nov24-purple-highway', 'sep20-turf-heat'],
+  'nov27-wooden-dj': ['oct19-cube-robot', 'nov5-two-tool-beak', 'oct26-prosthetic-sense'],
   'nov26-artifact-dumpster': ['nov11-sixpence', 'nov21-westminster-sarcophagus', 'oct8-sewer-ring'],
-  'nov26-westlothiana-xray': ['sep30-bat-origins', 'nov17-owl-frog-bones', 'oct30-fruit-dinosaur'],
+  'nov26-westlothiana-xray': ['nov27-narwhal-tusk', 'sep30-bat-origins', 'nov17-owl-frog-bones'],
   'nov26-giant-steers': ['sep21-cow-airlift', 'sep11-tallest-horse', 'nov25-donkey-tail'],
   'nov25-mario-cib': ['nov11-sixpence', 'oct8-sewer-ring', 'nov1-monster-placement'],
   'nov25-donkey-tail': ['nov13-sheep-roper', 'nov11-horses-bus', 'oct25-madrid-sheep-detour'],
@@ -277,7 +283,7 @@ const topicLinks = {
   'nov11-sixpence': ['nov26-artifact-dumpster', 'nov25-mario-cib', 'nov21-westminster-sarcophagus'],
   'nov24-drone-shampoo': ['nov4-flight-path', 'sep13-self-driving-cab', 'sep18-air-traffic-glitch'],
   'nov24-gravity-message': ['nov18-voyager-light-day', 'nov21-quantum-clock', 'nov14-ed138'],
-  'nov24-purple-highway': ['sep20-turf-heat', 'sep26-clean-air', 'oct4-sewer-gold'],
+  'nov24-purple-highway': ['nov27-pvc-oil', 'sep20-turf-heat', 'sep26-clean-air'],
   'nov4-flight-path': ['nov24-drone-shampoo', 'nov18-peanut-baggage', 'sep18-air-traffic-glitch'],
   'sep20-turf-heat': ['nov24-purple-highway', 'sep26-clean-air', 'oct4-sewer-gold'],
   'nov23-quincy-drive-thru': ['nov5-tomb-drug-test', 'oct20-plant-help-desk', 'oct1-ambulance-photo'],
@@ -317,7 +323,7 @@ const topicLinks = {
   'nov6-blueberry-larva': ['nov1-knee-oil-beetle', 'oct27-earwax-barrier', 'sep20-turf-heat'],
   'nov6-oxoboranes': ['oct7-mirror-molecules', 'nov4-roman-glass', 'oct27-earwax-barrier'],
   'nov5-pineapple-labor': ['sep16-pickle-patty', 'oct29-fiambre-record', 'oct16-scrapple-sculpture'],
-  'nov5-two-tool-beak': ['oct17-nightjar-mileage', 'oct31-drongo-deception', 'oct14-jurassic-flightless-bird'],
+  'nov5-two-tool-beak': ['nov27-wooden-dj', 'oct17-nightjar-mileage', 'oct31-drongo-deception'],
   'nov5-tomb-drug-test': ['nov23-quincy-drive-thru', 'nov3-bronze-age-urolith', 'oct15-shanidar-care-and-spear'],
   'oct27-knuckle-handstand': ['nov16-stiff-socks', 'oct8-five-hour-plank', 'oct11-stroller-velocity'],
   'oct8-five-hour-plank': ['oct27-knuckle-handstand'],
